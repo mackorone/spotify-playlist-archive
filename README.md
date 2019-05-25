@@ -2,21 +2,15 @@
 
 > Daily snapshots of public Spotify playlists
 
-I like Spotify's playlists.
-
-I like that they're updated once in a while - change is good!
-
-I don't like, however, that it's impossible to see older versions.
-
-How am I supposed to remember the name of that song I really liked?
-
+I like Spotify's playlists. I like that they're updated once in a while -
+change is good! I don't like, however, that it's impossible to see older
+versions. How am I supposed to remember the name of that song I really liked?
 Apparently, I'm not alone: see
 [here](https://community.spotify.com/t5/Content-Questions/View-previous-versions-of-playlists/td-p/4400750),
 [here](https://community.spotify.com/t5/Accounts/A-playlist-was-modified-Can-I-get-the-old-songs-back/td-p/1001889),
 [here](https://community.spotify.com/t5/Content-Questions/Seeing-an-old-version-of-a-playlist/td-p/1318739),
 [here](https://community.spotify.com/t5/Other-Partners-Web-Player-etc/Playlists-Is-there-any-way-to-recover-previous-versions-of-a/td-p/4726831),
 and [here](https://community.spotify.com/t5/Desktop-Mac/Find-Songs-of-old-versions-of-Spotify-Playlists/td-p/998504).
-
 Since Spotify won't take snapshots of our favorite playlists, let's do it ourselves!
 
 ## Quick start
