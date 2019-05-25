@@ -184,6 +184,20 @@ def push_updates():
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
 
+    print("Adding remote")
+    token = os.getenv("GITHUB_ACCESS_TOKEN")
+    add = run([
+        "git",
+        "remote",
+        "add",
+        "spotify-playlist-archive",
+        "https://{}@github.com/mackorone/spotify-playlist-archive.git".format(
+            token,
+        ),
+    ])
+    if add.returncode != 0:
+        raise Exception("Failed to add remote")
+
     print("Staging changes")
     add = run(["git", "add", "-A"])
     if add.returncode != 0:
@@ -197,23 +211,8 @@ def push_updates():
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
 
-    # TODO: MACK
-    # print("Adding remote")
-    # token = os.getenv("GITHUB_ACCESS_TOKEN")
-    # add = run([
-    #     "git",
-    #     "remote",
-    #     "add",
-    #     "spotify-playlist-archive",
-    #     "https://{}@github.com/mackorone/spotify-playlist-archive.git".format(
-    #         token,
-    #     ),
-    # ])
-    # if add.returncode != 0:
-    #     raise Exception("Failed to add remote")
-
     print("Pushing changes")
-    push = run(["git", "push"])
+    push = run(["git", "push", "--set-upstream", "spotify-playlist-archive"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
 
