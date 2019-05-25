@@ -290,7 +290,7 @@ def update_files():
     index = readme.index("## Playlists")
     lines = readme[:index + 1] + [""] + sorted(readme_lines)
     with open("README.md", "w") as f:
-        f.write("\n".join(lines))
+        f.write("\n".join(lines) + "\n")
 
 
 def run(args):
