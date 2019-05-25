@@ -184,8 +184,22 @@ def push_updates():
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
 
+    print("Staging changes")
+    add = run(["git", "add", "-A"])
+    if add.returncode != 0:
+        raise Exception("Failed to stage changes")
+
+    print("Committing changes")
+    build = os.getenv("TRAVIS_BUILD_NUMBER")
+    now = datetime.datetime.now()
+    now_str = now.strftime("%Y-%m-%d %H:%M:%S")
+    message = "[skip ci] Build #{} ({})".format(build, now_str)
+    commit = run(["git", "commit", "-m", message])
+    if commit.returncode != 0:
+        raise Exception("Failed to commit changes")
+
     print("Removing origin")
-    remove = run(["git", "remote", "rm", "origin"])
+    remove = run(["git", "remote", "remove", "origin"])
     if remove.returncode != 0:
         raise Excetion("Failed to remove origin")
 
@@ -199,19 +213,6 @@ def push_updates():
     add = run(["git", "remote", "add", "origin", url])
     if add.returncode != 0:
         raise Exception("Failed to add new origin")
-
-    print("Staging changes")
-    add = run(["git", "add", "-A"])
-    if add.returncode != 0:
-        raise Exception("Failed to stage changes")
-
-    print("Committing changes")
-    now = datetime.datetime.now()
-    now_str = now.strftime("%Y-%m-%d %H:%M:%S")
-    message = "[skip ci] {}".format(now_str)
-    commit = run(["git", "commit", "-m", message])
-    if commit.returncode != 0:
-        raise Exception("Failed to commit changes")
 
     print("Pushing changes")
     push = run(["git", "push", "origin", "master"])
