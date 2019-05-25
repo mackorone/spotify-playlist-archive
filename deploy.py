@@ -17,8 +17,8 @@ def run(args):
 
 def main():
     print("Checking for changes")
-    diff = run(["git", "diff", "--quiet"])
-    has_changes = diff.returncode == 1
+    diff = run(["git", "status", "-s"])
+    has_changes = bool(diff.stdout)
     if not has_changes:
         print("No changes, not pushing")
         return
