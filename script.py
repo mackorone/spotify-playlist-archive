@@ -174,6 +174,8 @@ def push_updates():
     if not has_changes:
         print("No changes, not pushing")
         return
+    print(diff.stdout)
+    print(diff.stderr)
 
     print("Configuring git")
     config = ["git", "config", "--global"]
@@ -183,11 +185,17 @@ def push_updates():
         raise Exception("Failed to configure name")
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
+    print(config_name.stdout)
+    print(config_name.stderr)
+    print(config_email.stdout)
+    print(config_email.stderr)
 
     print("Staging changes")
     add = run(["git", "add", "-A"])
     if add.returncode != 0:
         raise Exception("Failed to stage changes")
+    print(add.stdout)
+    print(add.stderr)
 
     print("Committing changes")
     build = os.getenv("TRAVIS_BUILD_NUMBER")
@@ -197,11 +205,15 @@ def push_updates():
     commit = run(["git", "commit", "-m", message])
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
+    print(commit.stdout)
+    print(commit.stderr)
 
     print("Removing origin")
-    remove = run(["git", "remote", "remove", "origin"])
-    if remove.returncode != 0:
+    remote_rm = run(["git", "remote", "rm", "origin"])
+    if remote_rm.returncode != 0:
         raise Excetion("Failed to remove origin")
+    print(remote_rm.stdout)
+    print(remote_rm.stderr)
 
     print("Adding new origin")
     # It's ok to print the token, Travis will hide it
@@ -210,12 +222,14 @@ def push_updates():
         "https://mackorone-bot:{}@github.com/mackorone/"
         "spotify-playlist-archive.git".format(token)
     )
-    add = run(["git", "remote", "add", "origin", url])
-    if add.returncode != 0:
+    remote_add = run(["git", "remote", "add", "origin", url])
+    if remote_add.returncode != 0:
         raise Exception("Failed to add new origin")
+    print(remote_add.stdout)
+    print(remote_add.stderr)
 
     print("Pushing changes")
-    push = run(["git", "push", "--set-upstream", "origin", "master"])
+    push = run(["git", "push", "origin", "master"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
     print(push.stdout)
