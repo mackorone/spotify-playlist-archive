@@ -173,14 +173,10 @@ class Formatter:
     @classmethod
     def pretty(cls, playlist_id, playlist):
         tracks = playlist.tracks
-        plain = (
-            "https://github.com/mackorone/spotify-playlist-archive/"
-            "blob/master/playlists/plain/{}".format(playlist_id)
-        )
         lines = [
             "### {} ({})".format(
                 cls._link(playlist.name, playlist.url),
-                cls._link(playlist_id, plain),
+                cls._link(playlist_id, URL.plain(playlist_id)),
             ),
 			"",
             "> {}".format(playlist.description),
@@ -217,6 +213,22 @@ class Formatter:
         return timedelta[index:]
 
 
+class URL:
+
+    BASE =  (
+        "https://github.com/mackorone/spotify-playlist-archive/"
+        "blob/master/playlists/"
+    )
+
+    @classmethod
+    def plain(cls, playlist_id):
+        return cls.BASE + "plain/{}".format(playlist_id)
+
+    @classmethod
+    def pretty(cls, playlist_name):
+        return cls.BASE + "pretty/{}.md".format(playlist_name)
+
+
 def update_files():
     spotify = Spotify(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
@@ -228,6 +240,7 @@ def update_files():
     plain_dir = "playlists/plain"
     pretty_dir = "playlists/pretty"
     playlist_ids = os.listdir(plain_dir)
+    readme_lines = []
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
         try:
@@ -239,6 +252,10 @@ def update_files():
             print("Removing invalid playlist: {}".format(playlist_id))
             os.remove(plain_path)
         else:
+            readme_lines.append("- [{}]({})".format(
+                playlist.name,
+                URL.pretty(playlist.name),
+            ))
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             for path, func in [
                 (plain_path, Formatter.plain),
@@ -266,6 +283,13 @@ def update_files():
             num_plain_playlists,
             num_pretty_playlists,
         ))
+
+    # Lastly, update README.md
+    readme = open("README.md").read().splitlines()
+    index = readme.index("## Playlists")
+    lines = readme[:index + 1] + [""] + sorted(readme_lines)
+    with open("README.md", "w") as f:
+        f.write("\n".join(lines))
 
 
 def run(args):
