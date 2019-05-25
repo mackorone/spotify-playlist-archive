@@ -184,19 +184,21 @@ def push_updates():
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
 
-    print("Adding remote")
+    print("Removing origin")
+    remove = run(["git", "remote", "rm", "origin"])
+    if remove.returncode != 0:
+        raise Excetion("Failed to remove origin")
+
+    print("Adding new origin")
+    # It's ok to print the token, Travis will hide it
     token = os.getenv("GITHUB_ACCESS_TOKEN")
-    add = run([
-        "git",
-        "remote",
-        "add",
-        "spotify-playlist-archive",
-        "https://{}@github.com/mackorone/spotify-playlist-archive.git".format(
-            token,
-        ),
-    ])
+    url = (
+        "https://mackorone-bot:{}@github.com/mackorone/"
+        "spotify-playlist-archive.git".format(token)
+    )
+    add = run(["git", "remote", "add", "origin", url])
     if add.returncode != 0:
-        raise Exception("Failed to add remote")
+        raise Exception("Failed to add new origin")
 
     print("Staging changes")
     add = run(["git", "add", "-A"])
@@ -212,7 +214,7 @@ def push_updates():
         raise Exception("Failed to commit changes")
 
     print("Pushing changes")
-    push = run(["git", "push", "--set-upstream", "spotify-playlist-archive"])
+    push = run(["git", "push", "origin", "master"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
 
