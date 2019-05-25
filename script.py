@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import base64
 import collections
 import datetime
@@ -336,8 +337,16 @@ def push_updates():
 
 
 def main():
+    parser = argparse.ArgumentParser("Snapshot Spotify playlists")
+    parser.add_argument(
+        "--push",
+        help="Commit and push updated playlists",
+        action="store_true",
+    )
+    args = parser.parse_args()
     update_files()
-    push_updates()
+    if args.push:
+        push_updates()
     print("Done")
 
 
