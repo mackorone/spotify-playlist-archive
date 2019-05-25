@@ -199,7 +199,7 @@ def push_updates():
         raise Exception("Failed to commit changes")
 
     print("Rebasing onto master")
-    rebase = run(["git", "rebase", "HEAD", "master")
+    rebase = run(["git", "rebase", "HEAD", "master"])
     if commit.returncode != 0:
         raise Exception("Failed to rebase onto master")
 
