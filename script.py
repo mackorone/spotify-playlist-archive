@@ -215,9 +215,11 @@ def push_updates():
         raise Exception("Failed to add new origin")
 
     print("Pushing changes")
-    push = run(["git", "push", "origin", "master"])
+    push = run(["git", "push", "--set-upstream", "origin", "master"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
+    print(push.stdout)
+    print(push.stderr)
 
 
 def main():
