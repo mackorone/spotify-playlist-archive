@@ -5,6 +5,7 @@ import collections
 import json
 import os
 import requests
+import subprocess
 
 
 Playlist = collections.namedtuple("Playlist", ["name", "description", "tracks"])
@@ -127,7 +128,7 @@ def format_playlist(playlist_id, playlist):
     return "\n".join(lines)
 
 
-def main():
+def update_files():
     spotify = Spotify(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
@@ -153,6 +154,72 @@ def main():
                 with open(path, "w") as f:
                     f.write(new_content)
                 print("Updated playlist: {}".format(playlist_id))
+
+
+def run(args):
+    print("- Running: {}".format(args))
+    result = subprocess.run(
+        args=args,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
+    print("- Exited with: {}".format(result.returncode))
+    return result
+
+
+def push_updates():
+    diff = run(["git", "status", "-s"])
+    has_changes = bool(diff.stdout)
+    if not has_changes:
+        print("No changes, not pushing")
+        return
+
+    print("Configuring git")
+    config = ["git", "config", "--global"]
+    config_name = run(config + ["user.name", "Mack Ward (Bot Account)"])
+    config_email = run(config + ["user.email", "mackorone.bot@gmail.com"])
+    if config_name.returncode != 0:
+        raise Exception("Failed to configure name")
+    if config_email.returncode != 0:
+        raise Exception("Failed to configure email")
+
+    print("Staging changes")
+    add = run(["git", "add", "-A"])
+    if add.returncode != 0:
+        raise Exception("Failed to stage changes")
+
+    print("Committing changes")
+    now = datetime.datetime.now()
+    now_str = now.strftime("%Y-%m-%d %H:%M:%S")
+    message = "[skip ci] {}".format(now_str)
+    commit = run(["git", "commit", "-m", message])
+    if commit.returncode != 0:
+        raise Exception("Failed to commit changes")
+
+    # TODO: MACK
+    # print("Adding remote")
+    # token = os.getenv("GITHUB_ACCESS_TOKEN")
+    # add = run([
+    #     "git",
+    #     "remote",
+    #     "add",
+    #     "spotify-playlist-archive",
+    #     "https://{}@github.com/mackorone/spotify-playlist-archive.git".format(
+    #         token,
+    #     ),
+    # ])
+    # if add.returncode != 0:
+    #     raise Exception("Failed to add remote")
+
+    print("Pushing changes")
+    push = run(["git", "push"])
+    if push.returncode != 0:
+        raise Exception("Failed to push changes")
+
+
+def main():
+    update_files()
+    push_updates()
     print("Done")
 
 
