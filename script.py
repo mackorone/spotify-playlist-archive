@@ -2,15 +2,9 @@
 
 import base64
 import collections
-import logging
 import json
 import os
 import requests
-
-
-logging.basicConfig(level=logging.INFO, format='%(message)s')
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
 
 
 Playlist = collections.namedtuple("Playlist", ["name", "description", "tracks"])
@@ -143,9 +137,9 @@ def main():
         try:
             playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
-            logger.warning("Skipping private playlist: {}".format(playlist_id))
+            print("Skipping private playlist: {}".format(playlist_id))
         except InvalidPlaylistError:
-            logger.warning("Skipping invalid playlist: {}".format(playlist_id))
+            print("Skipping invalid playlist: {}".format(playlist_id))
         else:
             new_content = format_playlist(playlist_id, playlist)
             path = "playlists/{}.txt".format(playlist_id)
@@ -154,11 +148,12 @@ def main():
             except Exception:
                 existing_content = None
             if new_content == existing_content:
-                logger.info("No changes to playlist: {}".format(playlist_id))
+                print("No changes to playlist: {}".format(playlist_id))
             else:
                 with open(path, "w") as f:
                     f.write(new_content)
-                logger.info("Updated playlist: {}".format(playlist_id))
+                print("Updated playlist: {}".format(playlist_id))
+    print("Done")
 
 
 if __name__ == "__main__":
