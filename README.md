@@ -4,5 +4,5 @@ Daily snapshots of public Spotify playlists
 
 ## Playlists
 
-- [Chill Hits](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Chill Hits.md)
-- [Piano in the Background](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Piano in the Background.md)
+- [Chill Hits](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Chill%20Hits.md)
+- [Piano in the Background](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Piano%20in%20the%20Background.md)

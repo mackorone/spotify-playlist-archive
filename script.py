@@ -226,7 +226,8 @@ class URL:
 
     @classmethod
     def pretty(cls, playlist_name):
-        return cls.BASE + "pretty/{}.md".format(playlist_name)
+        sanitized = playlist_name.replace(" ", "%20")
+        return cls.BASE + "pretty/{}.md".format(sanitized)
 
 
 def update_files():
