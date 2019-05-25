@@ -174,12 +174,12 @@ class Formatter:
         tracks = playlist.tracks
         plain = (
             "https://github.com/mackorone/spotify-playlist-archive/"
-            "blob/master/playlists/plain/{}".format(playlist.id)
+            "blob/master/playlists/plain/{}".format(playlist_id)
         )
         lines = [
             "### {} ({})".format(
-                cls._link(playlist.name, playlist.url)
-                cls._link(playlist.id, plain)
+                cls._link(playlist.name, playlist.url),
+                cls._link(playlist_id, plain),
             ),
 			"",
             "> {}".format(playlist.description),
@@ -196,7 +196,7 @@ class Formatter:
                     for artist in track.artists
                 ]),
                 cls._link(track.album.name, track.album.url),
-				datetime.timedelta(milliseconds=int(track.duration_ms)),
+                cls._format_duration(track.duration_ms),
             ))
         return "\n".join(lines)
 
@@ -206,18 +206,29 @@ class Formatter:
             return text
         return "[{}]({})".format(text, url)
 
+    @classmethod
+    def _format_duration(cls, duration_ms):
+        seconds = int(duration_ms // 1000)
+        timedelta = str(datetime.timedelta(seconds=seconds))
+        index = 0
+        while timedelta[index] in [":", "0"]:
+            index += 1
+        return timedelta[index:]
+
 
 def update_files():
     spotify = Spotify(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
     )
-    # Determine which playlists to scrape from the file names in playlists/plain.
+    # Determine which playlists to scrape from the files in playlists/plain.
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
-    plain_dir = os.path.join(["playlists", "plain"])
-    for playlist_id in os.listdir(plain_dir):
-        plain_path = os.path.join([plain_dir, playlist_id])
+    plain_dir = "playlists/plain"
+    pretty_dir = "playlists/pretty"
+    playlist_ids = os.listdir(plain_dir)
+    for playlist_id in playlist_ids:
+        plain_path = "{}/{}".format(plain_dir, playlist_id)
         try:
             playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
@@ -227,16 +238,12 @@ def update_files():
             print("Removing invalid playlist: {}".format(playlist_id))
             os.remove(plain_path)
         else:
-            pretty_path = os.path.join([
-                "playlists",
-                "pretty",
-                playlist.name + ".md",
-            ])
+            pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             for path, func in [
                 (plain_path, Formatter.plain),
                 (pretty_path, Formatter.pretty),
             ]:
-                content = Formatter.plain(playlist_id, playlist)
+                content = func(playlist_id, playlist)
                 try:
                     prev_content = "".join(open(path).readlines())
                 except Exception:
@@ -248,8 +255,16 @@ def update_files():
                     with open(path, "w") as f:
                         f.write(content)
 
-    # TODO:
-    # Check file paths to make sure not overwriting with same name
+    # Sanity check: ensure same number of files in playlists/plain and
+    # playlists/pretty - if not, some playlists have the same name and
+    # overwrote each other in playlists/pretty
+    num_plain_playlists = len(os.listdir(plain_dir))
+    num_pretty_playlists = len(os.listdir(pretty_dir))
+    if num_plain_playlists != num_pretty_playlists:
+        raise Exception("Unequal number of playlists: {} vs {}".format(
+            num_plain_playlists,
+            num_pretty_playlists,
+        ))
 
 
 def run(args):
@@ -322,7 +337,7 @@ def push_updates():
 
 def main():
     update_files()
-    # push_updates()
+    push_updates()
     print("Done")
 
 
