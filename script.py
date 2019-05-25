@@ -157,10 +157,10 @@ class Spotify:
 class Formatter:
 
     @classmethod
-    def raw(cls, playlist_id, playlist):
+    def plain(cls, playlist_id, playlist):
         tracks = playlist.tracks
         lines = [playlist.name, playlist.description, ""]
-        # Sort by ID to minimize raw diffs
+        # Sort by ID to minimize changes (playlists often get reordered)
         for track in sorted(playlist.tracks, key=lambda track: track.id):
             lines.append("{} -- {} -- {}".format(
                 track.name,
@@ -172,18 +172,39 @@ class Formatter:
     @classmethod
     def pretty(cls, playlist_id, playlist):
         tracks = playlist.tracks
-        width = len(str(len(tracks)))
-        track_numbers = {tracks[i].id: i + 1 for i in range(len(tracks))}
-        lines = [playlist.name, playlist.description, ""]
-        # Sort by ID, rather than track number, to minimize diffs
-        for track in sorted(playlist.tracks, key=lambda track: track.id):
-            lines.append("{}. {} -- {} -- {}".format(
-                str(track_numbers[track.id]).zfill(width),
-                track.name,
-                ", ".join(track.artists),
-                track.album.name,
+        plain = (
+            "https://github.com/mackorone/spotify-playlist-archive/"
+            "blob/master/playlists/plain/{}".format(playlist.id)
+        )
+        lines = [
+            "### {} ({})".format(
+                cls._link(playlist.name, playlist.url)
+                cls._link(playlist.id, plain)
+            ),
+			"",
+            "> {}".format(playlist.description),
+			"",
+            "| No. | Title | Artist(s) | Album | Length |",
+			"|-----|-------|-----------|-------|--------|",
+		]
+        for i, track in enumerate(playlist.tracks):
+            lines.append("| {} | {} | {} | {} | {} |".format(
+				i + 1,
+                cls._link(track.name, track.url),
+                ", ".join([
+                    cls._link(artist.name, artist.url)
+                    for artist in track.artists
+                ]),
+                cls._link(track.album.name, track.album.url),
+				datetime.timedelta(milliseconds=int(track.duration_ms)),
             ))
         return "\n".join(lines)
+
+    @classmethod
+    def _link(cls, text, url):
+        if not url:
+            return text
+        return "[{}]({})".format(text, url)
 
 
 def update_files():
@@ -191,35 +212,44 @@ def update_files():
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
     )
-    # Determine which playlists to scrape from the file names in playlists/raw.
+    # Determine which playlists to scrape from the file names in playlists/plain.
     # This makes it easy to add new a playlist: just touch an empty file like
-    # playlists/raw/<playlist_id> and this script will handle the rest.
-    for playlist_id in os.listdir("playlists/raw"):
+    # playlists/plain/<playlist_id> and this script will handle the rest.
+    plain_dir = os.path.join(["playlists", "plain"])
+    for playlist_id in os.listdir(plain_dir):
+        plain_path = os.path.join([plain_dir, playlist_id])
         try:
             playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
             print("Removing private playlist: {}".format(playlist_id))
-            os.remove("playlists/raw/{}".format(playlist_id))
+            os.remove(plain_path)
         except InvalidPlaylistError:
             print("Removing invalid playlist: {}".format(playlist_id))
-            os.remove("playlists/raw/{}".format(playlist_id))
+            os.remove(plain_path)
         else:
-            for dir_, func in [
-                ("raw", Formatter.raw),
-                ("pretty", Formatter.pretty),
+            pretty_path = os.path.join([
+                "playlists",
+                "pretty",
+                playlist.name + ".md",
+            ])
+            for path, func in [
+                (plain_path, Formatter.plain),
+                (pretty_path, Formatter.pretty),
             ]:
-                path = "playlists/{}/{}".format(dir_, playlist_id)
-                next_content = Formatter.raw(playlist_id, playlist)
+                content = Formatter.plain(playlist_id, playlist)
                 try:
                     prev_content = "".join(open(path).readlines())
                 except Exception:
                     prev_content = None
-                if next_content == prev_content:
+                if content == prev_content:
                     print("No changes to file: {}".format(path))
                 else:
                     print("Writing updates to file: {}".format(path))
                     with open(path, "w") as f:
-                        f.write(new_content)
+                        f.write(content)
+
+    # TODO:
+    # Check file paths to make sure not overwriting with same name
 
 
 def run(args):
