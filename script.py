@@ -9,8 +9,31 @@ import requests
 import subprocess
 
 
-Playlist = collections.namedtuple("Playlist", ["name", "description", "tracks"])
-Track = collections.namedtuple("Track", ["id", "name", "album", "artists"])
+Playlist = collections.namedtuple(
+    "Playlist",
+    [
+        "url",
+        "name",
+        "description",
+        "tracks",
+    ]
+)
+
+Track = collections.namedtuple(
+    "Track",
+    [
+        "id",
+        "url",
+        "duration_ms",
+        "name",
+        "album",
+        "artists",
+    ]
+)
+
+Album = collections.namedtuple("Album", ["url", "name"])
+
+Artist = collections.namedtuple("Artist", ["url", "name"])
 
 
 class InvalidAccessTokenError(Exception):
@@ -65,10 +88,11 @@ class Spotify:
                 raise InvalidPlaylistError
             else:
                 raise Exception("Failed to get playlist: {}".format(error))
+        url = self._get_url(response["external_urls"])
         name = response["name"]
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
-        return Playlist(name=name, description=description, tracks=tracks)
+        return Playlist(url=url,name=name, description=description, tracks=tracks)
 
     def _get_tracks(self, playlist_id):
         tracks = []
@@ -80,13 +104,23 @@ class Spotify:
                 raise Exception("Failed to get tracks: {}".format(error))
             for item in response["items"]:
                 id_ = item["track"]["id"]
+                url = self._get_url(item["track"]["external_urls"])
+                duration_ms = item["track"]["duration_ms"]
                 name = item["track"]["name"]
-                album = item["track"]["album"]["name"]
+                album = Album(
+                    url=self._get_url(item["track"]["album"]["external_urls"]),
+                    name=item["track"]["album"]["name"],
+                )
                 artists = []
                 for artist in item["track"]["artists"]:
-                    artists.append(artist["name"])
+                    artists.append(Artist(
+                        url=self._get_url(artist["external_urls"]),
+                        name=artist["name"],
+                    ))
                 tracks.append(Track(
                     id=id_,
+                    url=url,
+                    duration_ms=duration_ms,
                     name=name,
                     album=album,
                     artists=artists,
@@ -95,14 +129,21 @@ class Spotify:
         return tracks
 
     @classmethod
+    def _get_url(cls, external_urls):
+        return (external_urls or {}).get("spotify")
+
+    @classmethod
     def _get_playlist_href(cls, playlist_id):
-        rest = "{}?fields=name,description"
+        rest = "{}?fields=external_urls,name,description"
         template = cls.BASE_URL + rest
         return template.format(playlist_id)
 
     @classmethod
     def _get_tracks_href(cls, playlist_id):
-        rest = "{}/tracks?fields=next,items.track(id,name,album.name,artists)"
+        rest = (
+            "{}/tracks?fields=next,items.track(id,external_urls,"
+            "duration_ms,name,album(external_urls,name),artists)"
+        )
         template = cls.BASE_URL + rest
         return template.format(playlist_id)
 
@@ -113,20 +154,36 @@ class Spotify:
         ).json()
 
 
-def format_playlist(playlist_id, playlist):
-    tracks = playlist.tracks
-    width = len(str(len(tracks)))
-    track_numbers = {tracks[i].id: i + 1 for i in range(len(tracks))}
-    lines = [playlist.name, playlist.description, ""]
-    # Sort by ID, rather than track number, to minimize diffs
-    for track in sorted(playlist.tracks, key=lambda track: track.id):
-        lines.append("{}. {} -- {} -- {}".format(
-            str(track_numbers[track.id]).zfill(width),
-            track.name,
-            ", ".join(track.artists),
-            track.album,
-        ))
-    return "\n".join(lines)
+class Formatter:
+
+    @classmethod
+    def raw(cls, playlist_id, playlist):
+        tracks = playlist.tracks
+        lines = [playlist.name, playlist.description, ""]
+        # Sort by ID to minimize raw diffs
+        for track in sorted(playlist.tracks, key=lambda track: track.id):
+            lines.append("{} -- {} -- {}".format(
+                track.name,
+                ", ".join([artist.name for artist in track.artists]),
+                track.album.name,
+            ))
+        return "\n".join(lines)
+
+    @classmethod
+    def pretty(cls, playlist_id, playlist):
+        tracks = playlist.tracks
+        width = len(str(len(tracks)))
+        track_numbers = {tracks[i].id: i + 1 for i in range(len(tracks))}
+        lines = [playlist.name, playlist.description, ""]
+        # Sort by ID, rather than track number, to minimize diffs
+        for track in sorted(playlist.tracks, key=lambda track: track.id):
+            lines.append("{}. {} -- {} -- {}".format(
+                str(track_numbers[track.id]).zfill(width),
+                track.name,
+                ", ".join(track.artists),
+                track.album.name,
+            ))
+        return "\n".join(lines)
 
 
 def update_files():
@@ -134,27 +191,35 @@ def update_files():
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
     )
-    playlists = open("playlist_ids.txt").read().splitlines()
-    for playlist_id in playlists:
+    # Determine which playlists to scrape from the file names in playlists/raw.
+    # This makes it easy to add new a playlist: just touch an empty file like
+    # playlists/raw/<playlist_id> and this script will handle the rest.
+    for playlist_id in os.listdir("playlists/raw"):
         try:
             playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
-            print("Skipping private playlist: {}".format(playlist_id))
+            print("Removing private playlist: {}".format(playlist_id))
+            os.remove("playlists/raw/{}".format(playlist_id))
         except InvalidPlaylistError:
-            print("Skipping invalid playlist: {}".format(playlist_id))
+            print("Removing invalid playlist: {}".format(playlist_id))
+            os.remove("playlists/raw/{}".format(playlist_id))
         else:
-            new_content = format_playlist(playlist_id, playlist)
-            path = "playlists/{}.txt".format(playlist_id)
-            try:
-                existing_content = "".join(open(path).readlines())
-            except Exception:
-                existing_content = None
-            if new_content == existing_content:
-                print("No changes to playlist: {}".format(playlist_id))
-            else:
-                with open(path, "w") as f:
-                    f.write(new_content)
-                print("Updated playlist: {}".format(playlist_id))
+            for dir_, func in [
+                ("raw", Formatter.raw),
+                ("pretty", Formatter.pretty),
+            ]:
+                path = "playlists/{}/{}".format(dir_, playlist_id)
+                next_content = Formatter.raw(playlist_id, playlist)
+                try:
+                    prev_content = "".join(open(path).readlines())
+                except Exception:
+                    prev_content = None
+                if next_content == prev_content:
+                    print("No changes to file: {}".format(path))
+                else:
+                    print("Writing updates to file: {}".format(path))
+                    with open(path, "w") as f:
+                        f.write(new_content)
 
 
 def run(args):
@@ -227,7 +292,7 @@ def push_updates():
 
 def main():
     update_files()
-    push_updates()
+    # push_updates()
     print("Done")
 
 
