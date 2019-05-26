@@ -178,15 +178,15 @@ class Formatter:
                 cls._link(playlist.name, playlist.url),
                 cls._link(playlist_id, URL.plain(playlist_id)),
             ),
-			"",
+            "",
             "> {}".format(playlist.description),
-			"",
+            "",
             "| No. | Title | Artist(s) | Album | Length |",
-			"|-----|-------|-----------|-------|--------|",
-		]
+            "|-----|-------|-----------|-------|--------|",
+        ]
         for i, track in enumerate(playlist.tracks):
             lines.append("| {} | {} | {} | {} | {} |".format(
-				i + 1,
+                i + 1,
                 cls._link(track.name, track.url),
                 ", ".join([
                     cls._link(artist.name, artist.url)
