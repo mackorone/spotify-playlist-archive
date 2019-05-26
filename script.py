@@ -171,7 +171,7 @@ class Formatter:
                 track.album.name,
             ))
         # Sort alphabetically to minimize changes
-        return "\n".join(sorted(lines))
+        return "\n".join(sorted(lines, key=lambda line: line.lower()))
 
     @classmethod
     def pretty(cls, playlist_id, playlist):
