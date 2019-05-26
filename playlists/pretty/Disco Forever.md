@@ -1,4 +1,4 @@
-### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE) ([37i9dQZF1DX1MUPbVKMgJE](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1MUPbVKMgJE))
+### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1MUPbVKMgJE)
 
 > The best disco songs from the 70s and 80s. This legendary mix will help you bring back the funk.
 

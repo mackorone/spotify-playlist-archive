@@ -1,4 +1,4 @@
-### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh) ([0nUPQhoNrmw7Kr7sOeUCQh](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh))
+### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh)
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 

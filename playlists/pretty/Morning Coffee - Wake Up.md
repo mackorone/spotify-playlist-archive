@@ -1,4 +1,4 @@
-### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd) ([3JBLiEySHqJWWGLw9VTxKd](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd))
+### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
 
 > Let the coffee wake your body and the music wake your soul. Tune in - Turn On - Spread Love
 

@@ -1,4 +1,4 @@
-### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP) ([37i9dQZF1DX1gRalH1mWrP](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1gRalH1mWrP))
+### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1gRalH1mWrP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1gRalH1mWrP)
 
 > All the hits you'll need to make your summer sizzle.
 

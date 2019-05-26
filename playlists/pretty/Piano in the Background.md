@@ -1,4 +1,4 @@
-### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1) ([37i9dQZF1DX7K31D69s4M1](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1))
+### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1)
 
 > A calm and relaxing piano soundtrack to all your daily activities.
 

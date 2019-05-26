@@ -1,4 +1,4 @@
-### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj) ([37i9dQZF1DWTwnEm1IYyoj](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTwnEm1IYyoj))
+### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTwnEm1IYyoj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTwnEm1IYyoj)
 
 > Listen to easy songs from your favorite artists!  Cover: Sam Smith
 

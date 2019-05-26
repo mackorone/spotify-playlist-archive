@@ -1,4 +1,4 @@
-### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc) ([37i9dQZF1DWZUAeYvs88zc](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZUAeYvs88zc))
+### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZUAeYvs88zc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZUAeYvs88zc)
 
 > For all of us dancing on our own.
 

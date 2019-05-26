@@ -1,4 +1,4 @@
-### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO) ([37i9dQZF1DX4sWSpwq3LiO](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO))
+### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO)
 
 > Relax and indulge with some profoundly beautiful piano pieces.
 

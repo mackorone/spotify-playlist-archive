@@ -1,4 +1,4 @@
-### [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn) ([37i9dQZF1DWWQRwui0ExPn](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn))
+### [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn)
 
 > Beats to relax and focus.
 

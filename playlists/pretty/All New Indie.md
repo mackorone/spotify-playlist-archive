@@ -1,4 +1,4 @@
-### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d) ([37i9dQZF1DXdbXrPNafg9d](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d))
+### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d)
 
 > The best new tracks, updated every Friday. Cover: Clairo
 

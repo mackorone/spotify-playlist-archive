@@ -1,4 +1,4 @@
-### [All Out 60s](https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj) ([37i9dQZF1DXaKIA8E7WcJj](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj))
+### [All Out 60s](https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj)
 
 > The essential tracks from a decade of revolutions.
 

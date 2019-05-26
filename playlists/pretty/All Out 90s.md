@@ -1,4 +1,4 @@
-### [All Out 90s](https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l) ([37i9dQZF1DXbTxeAdrVG2l](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l))
+### [All Out 90s](https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l)
 
 > Boy bands, girl groups, britpop, grunge & a golden era for hip hop.
 

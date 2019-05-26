@@ -1,4 +1,4 @@
-### [You & Me](https://open.spotify.com/playlist/37i9dQZF1DX6mvEU1S6INL) ([37i9dQZF1DX6mvEU1S6INL](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL))
+### [You & Me](https://open.spotify.com/playlist/37i9dQZF1DX6mvEU1S6INL) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL)
 
 > It's just us—and this awesome alt soundtrack.
 

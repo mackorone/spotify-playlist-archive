@@ -1,4 +1,4 @@
-### [Beats to think to](https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5) ([37i9dQZF1DXa2SPUyWl8Y5](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5))
+### [Beats to think to](https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5)
 
 > Focus with deep techno and tech house.
 

@@ -1,4 +1,4 @@
-### [Stay Wild](https://open.spotify.com/playlist/37i9dQZF1DX5Q5wA1hY6bS) ([37i9dQZF1DX5Q5wA1hY6bS](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Q5wA1hY6bS))
+### [Stay Wild](https://open.spotify.com/playlist/37i9dQZF1DX5Q5wA1hY6bS) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Q5wA1hY6bS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Q5wA1hY6bS)
 
 > Because the best things in life are wild and free ...
 

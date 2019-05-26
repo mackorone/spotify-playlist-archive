@@ -1,4 +1,4 @@
-### [All Out 80s](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe) ([37i9dQZF1DX4UtSsGT1Sbe](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4UtSsGT1Sbe))
+### [All Out 80s](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4UtSsGT1Sbe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4UtSsGT1Sbe)
 
 > Dramatic, diverse to the sometimes ridiculous - here is the 80's
 

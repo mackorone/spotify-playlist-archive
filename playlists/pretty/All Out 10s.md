@@ -1,4 +1,4 @@
-### [All Out 10s](https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP) ([37i9dQZF1DX5Ejj0EkURtP](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP))
+### [All Out 10s](https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP)
 
 > The decade isn’t over yet, but these songs have already left their mark.
 

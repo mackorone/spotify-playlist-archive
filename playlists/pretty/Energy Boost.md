@@ -1,4 +1,4 @@
-### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz) ([0Vjhah37el0Aq5yoRaujBz](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz))
+### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz)
 
 > Let this upbeat playlist power you through your day
 

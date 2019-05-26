@@ -1,4 +1,4 @@
-### [All Out 00s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd) ([37i9dQZF1DX4o1oenSJRJd](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4o1oenSJRJd))
+### [All Out 00s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4o1oenSJRJd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4o1oenSJRJd)
 
 > Essential tracks from the decade that catapulted electronic music, hip hop and indie rock into the mainstream.
 

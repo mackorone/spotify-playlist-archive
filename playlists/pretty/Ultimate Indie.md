@@ -1,4 +1,4 @@
-### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0) ([37i9dQZF1DX2Nc3B70tvx0](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX2Nc3B70tvx0))
+### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX2Nc3B70tvx0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX2Nc3B70tvx0)
 
 > The best indie tracks right now. Cover: Still Woozy
 

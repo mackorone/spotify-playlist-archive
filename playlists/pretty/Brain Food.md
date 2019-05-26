@@ -1,4 +1,4 @@
-### [Brain Food](https://open.spotify.com/playlist/67nMZWgcUxNa5uaiyLDR2x) ([67nMZWgcUxNa5uaiyLDR2x](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x))
+### [Brain Food](https://open.spotify.com/playlist/67nMZWgcUxNa5uaiyLDR2x) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x)
 
 > Feed your brain with hypnotic <a href="https://open.spotify.com/genre/edm_dance">electronic</a>.
 

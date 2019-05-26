@@ -1,4 +1,4 @@
-### [Jazzy Romance](https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd) ([37i9dQZF1DWTbzY5gOVvKd](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd))
+### [Jazzy Romance](https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd)
 
 > Beautiful jazz recordings. Perfect for a romantic evening.
 

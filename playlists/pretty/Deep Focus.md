@@ -1,4 +1,4 @@
-### [Deep Focus](https://open.spotify.com/playlist/2ujjMpFriZ2nayLmrD1Jgl) ([2ujjMpFriZ2nayLmrD1Jgl](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl))
+### [Deep Focus](https://open.spotify.com/playlist/2ujjMpFriZ2nayLmrD1Jgl) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl)
 
 > Keep calm and focus. This playlist has some great, atmospheric rock to help you relax and concentrate.
 

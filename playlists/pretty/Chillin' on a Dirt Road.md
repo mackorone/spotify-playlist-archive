@@ -1,4 +1,4 @@
-### [Chillin' on a Dirt Road](https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW) ([37i9dQZF1DWTkxQvqMy4WW](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW))
+### [Chillin' on a Dirt Road](https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW)
 
 > Country music to get you back to the basics.
 

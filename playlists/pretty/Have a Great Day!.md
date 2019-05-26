@@ -1,4 +1,4 @@
-### [Have a Great Day!](https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75) ([37i9dQZF1DX7KNKjOK0o75](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75))
+### [Have a Great Day!](https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75)
 
 > Feel great with these timelessly fun songs!
 

@@ -1,4 +1,4 @@
-### [All The Feels](https://open.spotify.com/playlist/0n8NtBn89HS9sSKJEnJijg) ([0n8NtBn89HS9sSKJEnJijg](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg))
+### [All The Feels](https://open.spotify.com/playlist/0n8NtBn89HS9sSKJEnJijg) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg)
 
 > If you be the cash, I'll be the rubber band...
 

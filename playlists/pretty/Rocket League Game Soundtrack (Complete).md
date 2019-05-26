@@ -1,4 +1,4 @@
-### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw) ([5jSM6lE56BKLKRiavRO4Aw](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw))
+### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw)
 
 > Complete collection of all official Rocket League tracks on Spotify! [UPDATED] Added new track &quot;Xilent - The Darkness&quot; (Last update: 24 Apr 2019)
 

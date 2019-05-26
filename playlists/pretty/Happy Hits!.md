@@ -1,4 +1,4 @@
-### [Happy Hits!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC) ([37i9dQZF1DXdPec7aLTmlC](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdPec7aLTmlC))
+### [Happy Hits!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdPec7aLTmlC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdPec7aLTmlC)
 
 > Hits to boost your mood and fill you with happiness!
 

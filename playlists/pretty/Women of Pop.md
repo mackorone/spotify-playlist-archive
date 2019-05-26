@@ -1,4 +1,4 @@
-### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX) ([37i9dQZF1DX3WvGXE8FqYX](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX))
+### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX)
 
 > Kick back with the queens of pop.
 

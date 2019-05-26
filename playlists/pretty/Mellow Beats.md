@@ -1,4 +1,4 @@
-### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ) ([37i9dQZF1DX3qCx5yEZkcJ](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ))
+### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ)
 
 > Stay relaxed with these low-key beats and instrumentals.
 

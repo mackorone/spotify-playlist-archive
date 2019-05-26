@@ -1,4 +1,4 @@
-### [All Out 70s](https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz) ([37i9dQZF1DWTJ7xPn4vNaz](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTJ7xPn4vNaz))
+### [All Out 70s](https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTJ7xPn4vNaz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTJ7xPn4vNaz)
 
 > From disco to soft rock, and funk to punk, the ‘70s had a little something for everyone.
 

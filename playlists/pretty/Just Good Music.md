@@ -1,4 +1,4 @@
-### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp) ([37i9dQZF1DX0b1hHYQtJjp](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0b1hHYQtJjp))
+### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0b1hHYQtJjp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0b1hHYQtJjp)
 
 > Stay in the know and ease into these recent hits and new songs!  Cover: P!nk
 

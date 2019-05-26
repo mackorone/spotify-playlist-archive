@@ -1,4 +1,4 @@
-### [Young & Free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g) ([37i9dQZF1DXca8AyWK6Y7g](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g))
+### [Young & Free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g)
 
 > Live your life... this is Young &amp; Free.
 

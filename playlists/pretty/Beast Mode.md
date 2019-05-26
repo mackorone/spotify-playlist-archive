@@ -1,4 +1,4 @@
-### [Beast Mode](https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP) ([37i9dQZF1DX76Wlfdnj7AP](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP))
+### [Beast Mode](https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP)
 
 > Get your beast mode on!
 

@@ -1,4 +1,4 @@
-### [Sunny Day](https://open.spotify.com/playlist/37i9dQZF1DX1BzILRveYHb) ([37i9dQZF1DX1BzILRveYHb](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1BzILRveYHb))
+### [Sunny Day](https://open.spotify.com/playlist/37i9dQZF1DX1BzILRveYHb) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1BzILRveYHb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1BzILRveYHb)
 
 > Easy listening soft pop hits for a pleasant day.
 

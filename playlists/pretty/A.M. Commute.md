@@ -1,4 +1,4 @@
-### [A.M. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S) ([1UQo7foKwUUMjb9KnaBE3S](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S))
+### [A.M. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S)
 
 > Forget the morning rush and kick off your day the right way - music on, volume up, happy days!
 

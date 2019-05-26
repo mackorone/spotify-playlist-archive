@@ -1,4 +1,4 @@
-### [Morning Acoustic](https://open.spotify.com/playlist/7EtGvEVYkL6knEdLxNjHf3) ([7EtGvEVYkL6knEdLxNjHf3](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3))
+### [Morning Acoustic](https://open.spotify.com/playlist/7EtGvEVYkL6knEdLxNjHf3) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3)
 
 > Wrap yourself in the warm vibes and lush crescendos of these folk and acoustic gems.
 

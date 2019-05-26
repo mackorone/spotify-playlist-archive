@@ -1,4 +1,4 @@
-### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd) ([37i9dQZF1DX0XUsuxWHRQd](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0XUsuxWHRQd))
+### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0XUsuxWHRQd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0XUsuxWHRQd)
 
 > New music from YG, Young Thug and Joyner Lucas.
 

@@ -1,4 +1,4 @@
-### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M) ([37i9dQZF1DXcBWIGoYBM5M](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcBWIGoYBM5M))
+### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcBWIGoYBM5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcBWIGoYBM5M)
 
 > Shawn Mendes is on top of the Hottest 50!
 
