@@ -179,9 +179,10 @@ class Formatter:
     def pretty(cls, playlist_id, playlist):
         tracks = playlist.tracks
         lines = [
-            "### {} ({})".format(
+            "### {} - {} - {}".format(
                 cls._link(playlist.name, playlist.url),
-                cls._link(playlist_id, URL.plain(playlist_id)),
+                cls._link("plain", URL.plain(playlist_id)),
+                cls._link("githistory", URL.history(playlist_id)),
             ),
             "",
             "> {}".format(playlist.description),
@@ -224,6 +225,11 @@ class URL:
         "https://github.com/mackorone/spotify-playlist-archive/"
         "blob/master/playlists/"
     )
+
+    @classmethod
+    def githistory(cls, playlist_id):
+        plain = cls.plain(playlist_id)
+        return plain.replace("github.com", "github.githistory.xyz")
 
     @classmethod
     def plain(cls, playlist_id):
