@@ -163,15 +163,17 @@ class Formatter:
     @classmethod
     def plain(cls, playlist_id, playlist):
         tracks = playlist.tracks
-        lines = [playlist.name, playlist.description, ""]
+        lines = []
         for track in playlist.tracks:
             lines.append("{} -- {} -- {}".format(
                 track.name,
                 ", ".join([artist.name for artist in track.artists]),
                 track.album.name,
             ))
-        # Sort alphabetically to minimize changes
-        return "\n".join(sorted(lines, key=lambda line: line.lower()))
+        # Sort alphabetically to minimize changes when tracks are reordered
+        sorted_tracks = sorted(lines, key=lambda line: line.lower())
+        header = [playlist.name, playlist.description, ""]
+        return "\n".join(header + sorted_tracks)
 
     @classmethod
     def pretty(cls, playlist_id, playlist):
