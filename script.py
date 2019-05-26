@@ -104,16 +104,19 @@ class Spotify:
             if error:
                 raise Exception("Failed to get tracks: {}".format(error))
             for item in response["items"]:
-                id_ = item["track"]["id"]
-                url = self._get_url(item["track"]["external_urls"])
-                duration_ms = item["track"]["duration_ms"]
-                name = item["track"]["name"]
+                track = item["track"]
+                if not track:
+                    continue
+                id_ = track["id"]
+                url = self._get_url(track["external_urls"])
+                duration_ms = track["duration_ms"]
+                name = track["name"]
                 album = Album(
-                    url=self._get_url(item["track"]["album"]["external_urls"]),
-                    name=item["track"]["album"]["name"],
+                    url=self._get_url(track["album"]["external_urls"]),
+                    name=track["album"]["name"],
                 )
                 artists = []
-                for artist in item["track"]["artists"]:
+                for artist in track["artists"]:
                     artists.append(Artist(
                         url=self._get_url(artist["external_urls"]),
                         name=artist["name"],
