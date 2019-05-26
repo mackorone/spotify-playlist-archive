@@ -2,7 +2,7 @@
 
 > Daily snapshots of public Spotify playlists
 
-I like Spotify's playlists. I like that they're updated once in a while -
+Spotify's playlists are great. I like that they're updated once in a while -
 change is good! I don't like, however, that it's impossible to see older
 versions. How am I supposed to remember the name of that song I really liked?
 Apparently, I'm not alone: see
