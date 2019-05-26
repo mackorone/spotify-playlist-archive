@@ -182,7 +182,7 @@ class Formatter:
             "### {} - {} - {}".format(
                 cls._link(playlist.name, playlist.url),
                 cls._link("plain", URL.plain(playlist_id)),
-                cls._link("githistory", URL.history(playlist_id)),
+                cls._link("githistory", URL.githistory(playlist_id)),
             ),
             "",
             "> {}".format(playlist.description),
