@@ -57,4 +57,3 @@
 | 51 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 |
 | 52 | [That Old Truck](https://open.spotify.com/track/76jICtPC51cXmetYVnOqHu) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [That Old Truck](https://open.spotify.com/album/2IhkYeQlcDrxdLzB2sUBDt) | 3:32 |
 | 53 | [Keep It Simple](https://open.spotify.com/track/6SzCgkimMZ97h2GluSWSzd) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Keep It Simple](https://open.spotify.com/album/4he0QjOxLNLiDaOuVBLOMC) | 3:07 |
-| 54 | [Love Ain't](https://open.spotify.com/track/6lUNNXp7M8boA7gUEd6PSm) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [This Is Eli Young Band: Greatest Hits](https://open.spotify.com/album/0IjcGyW09KmCKIntVY7Ain) | 3:06 |
