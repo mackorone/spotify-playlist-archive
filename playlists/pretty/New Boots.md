@@ -1,6 +1,6 @@
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Artist: Cody Purvis
+> New Music Discovery is what we're about.  Try it on for size. Artist: Matt Stell
 
 | No. | Title | Artist(s) | Album | Length |
 |-----|-------|-----------|-------|--------|

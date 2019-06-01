@@ -1,6 +1,6 @@
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Granger Smith
+> Today's top country hits of the week, worldwide!  Cover: Thomas Rhett
 
 | No. | Title | Artist(s) | Album | Length |
 |-----|-------|-----------|-------|--------|
