@@ -5,7 +5,7 @@
 | No. | Title | Artist(s) | Album | Length |
 |-----|-------|-----------|-------|--------|
 | 1 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 |
-| 2 | [Gaze](https://open.spotify.com/track/2XeZi7qwChzLOt32tsoPXV) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 |
+| 2 | [Gaze](https://open.spotify.com/track/2XeZi7qwChzLOt32tsoPXV) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 |
 | 3 | [Where's My Love - Piano Solo](https://open.spotify.com/track/7ih16mauHrpUMOIeWEOyVO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love (Piano Solo)](https://open.spotify.com/album/6YhPay3BxJkrx8WGrgNdj2) | 4:34 |
 | 4 | [A Catalogue Of Afternoons](https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Catalogue Of Afternoons](https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5) | 1:50 |
 | 5 | [igloo - acoustique](https://open.spotify.com/track/6BiU4ludo2zY6YqmUdmdly) | [Jean-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [eviction sessions](https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd) | 3:02 |
@@ -28,7 +28,7 @@
 | 22 | [Naive Spin](https://open.spotify.com/track/1JoAjYaI3zvhXVx41HH7Fc) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Naive Spin](https://open.spotify.com/album/1meLNOeKZ3KGV7vuOshRk3) | 2:38 |
 | 23 | [Portrait with Shadow](https://open.spotify.com/track/6Ic1I4RcYvkH5cuDc6Fozf) | [Robert Haigh](https://open.spotify.com/artist/7KuwV2EmdnmeUtSd7TRsPN) | [Creatures of the Deep](https://open.spotify.com/album/1C3XG4aTtxeU09UglFsYxG) | 2:04 |
 | 24 | [Tallis One](https://open.spotify.com/track/0CQskMydQ8AhtKhJUAolvE) | [Samuel Lindon](https://open.spotify.com/artist/5nJRL0Qfseg7ZJGbT2eVrA) | [Tallis One](https://open.spotify.com/album/00pbGdcaCjW6gnZzuQe1bx) | 1:57 |
-| 25 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 |
+| 25 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 |
 | 26 | [Norrsken](https://open.spotify.com/track/3toYHht60pj16nNK0e2HZy) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Norrsken](https://open.spotify.com/album/3Dv4436qmaydbGnRQmuPFA) | 1:35 |
 | 27 | [For the Lost Ones](https://open.spotify.com/track/0b2fZJqVVKYdsSxHInwvfW) | [The Daydream Club](https://open.spotify.com/artist/3U6eCXHFS6wQVuFuqeW09m) | [Piano Project // For the Lost Ones](https://open.spotify.com/album/22CjB1LmDC81DhCdZqglGB) | 4:39 |
 | 28 | [This Moment](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [This Moment](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 2:34 |
