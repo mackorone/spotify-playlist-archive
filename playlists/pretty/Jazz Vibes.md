@@ -6,7 +6,7 @@
 |-----|-------|-----------|-------|--------|
 | 1 | [Coral Dreams](https://open.spotify.com/track/2QLoxnf8H9MVHdlJt6l3Pe) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mangroves](https://open.spotify.com/album/4nGGg90up0lmPiP3QetTW8) | 2:51 |
 | 2 | [Camberwell](https://open.spotify.com/track/3HfPHK9gTHDtaeJHEH1x2n) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Camberwell](https://open.spotify.com/album/7lJiCuvJzkvm2iuqQqgIXR) | 2:37 |
-| 3 | [Velvet](https://open.spotify.com/track/6FBgZgrEdY6qKcgNlEisXl) | [Dao](https://open.spotify.com/artist/1TJzPG5qztUDwfWm0eHEsu) | [Velvet](https://open.spotify.com/album/6LlUTJwCopFzKcRziJKrGn) | 1:52 |
+| 3 | [Velvet](https://open.spotify.com/track/6FBgZgrEdY6qKcgNlEisXl) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Velvet](https://open.spotify.com/album/6LlUTJwCopFzKcRziJKrGn) | 1:52 |
 | 4 | [Visit By Cap Kendricks](https://open.spotify.com/track/5vCMqXWUY0gQffbbX1z2eK) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Second Home](https://open.spotify.com/album/4Tp1yDTcXEOg5Nu8jb9cjV) | 3:15 |
 | 5 | [Second Wind](https://open.spotify.com/track/6TnU0Gqn0EcfE9AUYzJVMB) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/4Rm9vAv7GJbRBoBw4b7jYc) | 3:00 |
 | 6 | [Copacabana Sunset](https://open.spotify.com/track/4vwAN6HXq6BGDcikFTUc8R) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [I Dare U](https://open.spotify.com/album/5aHEHCP4LFXDfcA71JkI7g) | 2:23 |
