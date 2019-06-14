@@ -1,6 +1,6 @@
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Maddie & Tae
+> Today's top country hits of the week, worldwide!  Cover: Levi Hummon
 
 | No. | Title | Artist(s) | Album | Length |
 |-----|-------|-----------|-------|--------|
@@ -50,10 +50,11 @@
 | 44 | [Closer To You](https://open.spotify.com/track/7xELq8WliIctkuvWXONX6d) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Closer To You](https://open.spotify.com/album/2MeiGrtUTDghhGTImZuF42) | 3:07 |
 | 45 | [Living](https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:42 |
 | 46 | [Beer Never Broke My Heart](https://open.spotify.com/track/5eDvChP4WAPPrtaQeI9MhT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beer Never Broke My Heart](https://open.spotify.com/album/4NiEW0J6PCsvdxS2ocAqtd) | 3:06 |
-| 47 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 |
-| 48 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 |
-| 49 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 |
-| 50 | [Talk You Out Of It](https://open.spotify.com/track/4kKgn11J60MHCrfS4AfbIm) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Florida Georgia Line](https://open.spotify.com/album/6OWE1lqiV8GPpj9Kn4Rc32) | 3:22 |
-| 51 | [One Heart To Another](https://open.spotify.com/track/1OxdfwY8faL2y35bCUn3kK) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [One Heart To Another](https://open.spotify.com/album/5SGkWkCxDBxdiMZZ92ToFn) | 3:38 |
-| 52 | [That Old Truck](https://open.spotify.com/track/76jICtPC51cXmetYVnOqHu) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [That Old Truck](https://open.spotify.com/album/2IhkYeQlcDrxdLzB2sUBDt) | 3:32 |
-| 53 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
+| 47 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 |
+| 48 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 |
+| 49 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 |
+| 50 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 |
+| 51 | [Talk You Out Of It](https://open.spotify.com/track/4kKgn11J60MHCrfS4AfbIm) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Florida Georgia Line](https://open.spotify.com/album/6OWE1lqiV8GPpj9Kn4Rc32) | 3:22 |
+| 52 | [One Heart To Another](https://open.spotify.com/track/1OxdfwY8faL2y35bCUn3kK) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [One Heart To Another](https://open.spotify.com/album/5SGkWkCxDBxdiMZZ92ToFn) | 3:38 |
+| 53 | [That Old Truck](https://open.spotify.com/track/76jICtPC51cXmetYVnOqHu) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [That Old Truck](https://open.spotify.com/album/2IhkYeQlcDrxdLzB2sUBDt) | 3:32 |
+| 54 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
