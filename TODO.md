@@ -1,0 +1,5 @@
+- Add unit tests
+- Add type hints
+- Format with black
+- Import historical data
+- Render HTML fancy tables
