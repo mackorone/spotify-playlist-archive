@@ -319,8 +319,8 @@ class Formatter:
             key = cls._plain_line_from_names(
                 track_name=cls._unlink(title),
                 artist_names=[
-                    cls._unlink(artist)
-                    for artist in re.findall(cls.LINK_REGEX, artists)
+                    artist for
+                    artist in re.findall(cls.LINK_REGEX, artists)
                 ],
                 album_name=cls._unlink(album),
             ).lower()
@@ -412,7 +412,6 @@ def update_files(now):
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
-    playlist_ids = ["2ujjMpFriZ2nayLmrD1Jgl"]
     readme_lines = []
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
