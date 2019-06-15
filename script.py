@@ -170,6 +170,7 @@ class Formatter:
     REMOVED = "Removed"
 
     ARTIST_SEPARATOR = ", "
+    LINK_REGEX = r"\[(.+?)\]\(.+?\)"
 
     @classmethod
     def plain(cls, playlist_id, playlist):
@@ -319,7 +320,7 @@ class Formatter:
                 track_name=cls._unlink(title),
                 artist_names=[
                     cls._unlink(artist)
-                    for artist in artists.split(cls.ARTIST_SEPARATOR)
+                    for artist in re.findall(cls.LINK_REGEX, artists)
                 ],
                 album_name=cls._unlink(album),
             ).lower()
@@ -360,8 +361,7 @@ class Formatter:
 
     @classmethod
     def _unlink(cls, link):
-        regex = r"^\[(.+)\]\(.+\)$"
-        return re.match(regex, link).group(1)
+        return re.match(cls.LINK_REGEX, link).group(1)
 
     @classmethod
     def _format_duration(cls, duration_ms):
@@ -412,6 +412,7 @@ def update_files(now):
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
+    playlist_ids = ["2ujjMpFriZ2nayLmrD1Jgl"]
     readme_lines = []
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
