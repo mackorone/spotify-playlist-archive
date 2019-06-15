@@ -1,4 +1,4 @@
-### [Songs to Sing in the Shower](https://open.spotify.com/playlist/4TNBeyX7awz89qwtTmh9D4) ([4TNBeyX7awz89qwtTmh9D4](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4))
+### [Songs to Sing in the Shower](https://open.spotify.com/playlist/4TNBeyX7awz89qwtTmh9D4) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4)
 
 > Amp up your morning by singing along to these classic hit tracks as you suds up.
 

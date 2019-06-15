@@ -1,4 +1,4 @@
-### [Ambient Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY) ([37i9dQZF1DX3Ogo9pFvBkY](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY))
+### [Ambient Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY)
 
 > Drift away with chill ambient music.
 

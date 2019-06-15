@@ -1,4 +1,4 @@
-### [Digster HITS - Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy) ([6FzxUXXUk9bzWJ8d1NIGWy](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy))
+### [Digster HITS - Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy)
 
 > 
 
