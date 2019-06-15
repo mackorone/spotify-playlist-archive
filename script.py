@@ -6,6 +6,7 @@ import collections
 import datetime
 import json
 import os
+import re
 import requests
 import subprocess
 
@@ -160,33 +161,33 @@ class Spotify:
 
 class Formatter:
 
+    TRACK_NO = "No."
+    TITLE = "Title"
+    ARTISTS = "Artist(s)"
+    ALBUM = "Album"
+    LENGTH = "Length"
+    ADDED = "Added"
+    REMOVED = "Removed"
+
+    ARTIST_SEPARATOR = ", "
+
     @classmethod
     def plain(cls, playlist_id, playlist):
-        tracks = playlist.tracks
-        lines = []
-        for track in playlist.tracks:
-            lines.append("{} -- {} -- {}".format(
-                track.name,
-                ", ".join([artist.name for artist in track.artists]),
-                track.album.name,
-            ))
+        lines = [cls._plain_line_from_track(track) for track in playlist.tracks]
         # Sort alphabetically to minimize changes when tracks are reordered
-        sorted_tracks = sorted(lines, key=lambda line: line.lower())
+        sorted_lines = sorted(lines, key=lambda line: line.lower())
         header = [playlist.name, playlist.description, ""]
-        return "\n".join(header + sorted_tracks)
+        return "\n".join(header + sorted_lines)
 
     @classmethod
     def pretty(cls, playlist_id, playlist):
-        tracks = playlist.tracks
-        lines = [
-            "### {} - {} - {}".format(
-                cls._link(playlist.name, playlist.url),
-                cls._link("plain", URL.plain(playlist_id)),
-                cls._link("githistory", URL.githistory(playlist_id)),
-            ),
-            "",
-            "> {}".format(playlist.description),
-            "",
+        lines = cls._markdown_header_lines(
+            playlist_name=playlist.name,
+            playlist_url=playlist.url,
+            playlist_id=playlist_id,
+            playlist_description=playlist.description,
+        )
+        lines += [
             "| No. | Title | Artist(s) | Album | Length |",
             "|-----|-------|-----------|-------|--------|",
         ]
@@ -194,7 +195,7 @@ class Formatter:
             lines.append("| {} | {} | {} | {} | {} |".format(
                 i + 1,
                 cls._link(track.name, track.url),
-                ", ".join([
+                cls.ARTIST_SEPARATOR.join([
                     cls._link(artist.name, artist.url)
                     for artist in track.artists
                 ]),
@@ -204,10 +205,159 @@ class Formatter:
         return "\n".join(lines)
 
     @classmethod
+    def cumulative(cls, now, prev_content, playlist_id, playlist):
+        today = now.strftime("%Y-%m-%d")
+        row_template = {
+            cls.TITLE: None,
+            cls.ARTISTS: None,
+            cls.ALBUM: None,
+            cls.LENGTH: None,
+            cls.ADDED: None,
+            cls.REMOVED: None,
+        }
+        vertical_separators = ["|"] * (len(row_template) + 1)
+        line_template = " {} ".join(vertical_separators)
+        divider_line = "---".join(vertical_separators)
+        column_names_line = line_template.format(
+            cls.TITLE,
+            cls.ARTISTS,
+            cls.ALBUM,
+            cls.LENGTH,
+            cls.ADDED,
+            cls.REMOVED,
+        )
+        header = cls._markdown_header_lines(
+            playlist_name=playlist.name,
+            playlist_url=playlist.url,
+            playlist_id=playlist_id,
+            playlist_description=playlist.description,
+        )
+        header += [
+            column_names_line,
+            divider_line,
+        ]
+
+        # Retrieve existing rows
+        rows = cls._rows_from_prev_content(today, prev_content, divider_line)
+
+        # Add new rows
+        for track in playlist.tracks:
+            # Get the row for the given track
+            key = cls._plain_line_from_track(track).lower()
+            row = rows.get(key, row_template.copy())
+            rows[key] = row
+            # Update row values
+            row[cls.TITLE] = cls._link(track.name, track.url)
+            row[cls.ARTISTS] = cls.ARTIST_SEPARATOR.join([
+                cls._link(artist.name, artist.url)
+                for artist in track.artists
+            ])
+            row[cls.ALBUM] = cls._link(track.album.name, track.album.url)
+            row[cls.LENGTH] = cls._format_duration(track.duration_ms)
+            if not row[cls.ADDED]:
+                row[cls.ADDED] = today
+            row[cls.REMOVED] = ""
+
+        lines = []
+        for key, row in sorted(rows.items()):
+            lines.append(line_template.format(
+                row[cls.TITLE],
+                row[cls.ARTISTS],
+                row[cls.ALBUM],
+                row[cls.LENGTH],
+                row[cls.ADDED],
+                row[cls.REMOVED],
+            ))
+        return "\n".join(header + lines)
+
+    @classmethod
+    def _markdown_header_lines(
+        cls,
+        playlist_name,
+        playlist_url,
+        playlist_id,
+        playlist_description,
+    ):
+        return [
+            "{} - {} - {} ({})".format(
+                cls._link("pretty", URL.pretty(playlist_name)),
+                cls._link("cumulative", URL.cumulative(playlist_name)),
+                cls._link("plain", URL.plain(playlist_id)),
+                cls._link("githistory", URL.plain_history(playlist_id)),
+            ),
+            "",
+            "### {}".format(cls._link(playlist_name, playlist_url)),
+            "",
+            "> {}".format(playlist_description),
+            "",
+        ]
+
+    @classmethod
+    def _rows_from_prev_content(cls, today, prev_content, divider_line):
+        rows = {}
+        if not prev_content:
+            return rows
+        prev_lines = prev_content.splitlines()
+        try:
+            index = prev_lines.index(divider_line)
+        except ValueError:
+            return rows 
+        for i in range(index + 1, len(prev_lines)):
+            prev_line = prev_lines[i]
+            try:
+                title, artists, album, length, added, removed = (
+                    # Slice [2:-2] to trim off "| " and " |"
+                    prev_line[2:-2].split(" | ")
+                )
+            except Exception:
+                continue
+            key = cls._plain_line_from_names(
+                track_name=cls._unlink(title),
+                artist_names=[
+                    cls._unlink(artist)
+                    for artist in artists.split(cls.ARTIST_SEPARATOR)
+                ],
+                album_name=cls._unlink(album),
+            ).lower()
+            row = {
+                cls.TITLE: title,
+                cls.ARTISTS: artists,
+                cls.ALBUM: album,
+                cls.LENGTH: length,
+                cls.ADDED: added,
+                cls.REMOVED: removed
+            }
+            rows[key] = row
+            if not row[cls.REMOVED]:
+                row[cls.REMOVED] = today
+        return rows
+
+    @classmethod
+    def _plain_line_from_track(cls, track):
+        return cls._plain_line_from_names(
+            track_name=track.name,
+            artist_names=[artist.name for artist in track.artists],
+            album_name=track.album.name,
+        )
+
+    @classmethod
+    def _plain_line_from_names(cls, track_name, artist_names, album_name):
+        return "{} -- {} -- {}".format(
+            track_name,
+            cls.ARTIST_SEPARATOR.join(artist_names),
+            album_name,
+        )
+
+    @classmethod
     def _link(cls, text, url):
         if not url:
             return text
         return "[{}]({})".format(text, url)
+
+    @classmethod
+    def _unlink(cls, link):
+        regex = r"^\[(.+)\]\(.+\)$"
+        return re.match(regex, link).group(1)
 
     @classmethod
     def _format_duration(cls, duration_ms):
@@ -227,7 +377,7 @@ class URL:
     )
 
     @classmethod
-    def githistory(cls, playlist_id):
+    def plain_history(cls, playlist_id):
         plain = cls.plain(playlist_id)
         return plain.replace("github.com", "github.githistory.xyz")
 
@@ -240,17 +390,23 @@ class URL:
         sanitized = playlist_name.replace(" ", "%20")
         return cls.BASE + "pretty/{}.md".format(sanitized)
 
+    @classmethod
+    def cumulative(cls, playlist_name):
+        sanitized = playlist_name.replace(" ", "%20")
+        return cls.BASE + "cumulative/{}.md".format(sanitized)
 
-def update_files():
+
+def update_files(now):
     spotify = Spotify(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
     )
+    plain_dir = "playlists/plain"
+    pretty_dir = "playlists/pretty"
+    cumulative_dir = "playlists/cumulative"
     # Determine which playlists to scrape from the files in playlists/plain.
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
-    plain_dir = "playlists/plain"
-    pretty_dir = "playlists/pretty"
     playlist_ids = os.listdir(plain_dir)
     readme_lines = []
     for playlist_id in playlist_ids:
@@ -269,21 +425,28 @@ def update_files():
                 URL.pretty(playlist.name),
             ))
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
-            for path, func in [
-                (plain_path, Formatter.plain),
-                (pretty_path, Formatter.pretty),
+            cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
+            for path, func, flag in [
+                (plain_path, Formatter.plain, False),
+                (pretty_path, Formatter.pretty, False),
+                (cumulative_path, Formatter.cumulative, True),
             ]:
-                content = func(playlist_id, playlist)
                 try:
                     prev_content = "".join(open(path).readlines())
                 except Exception:
                     prev_content = None
+                if flag:
+                    args = [now, prev_content, playlist_id, playlist]
+                else:
+                    args = [playlist_id, playlist]
+                content = func(*args)
                 if content == prev_content:
                     print("No changes to file: {}".format(path))
                 else:
                     print("Writing updates to file: {}".format(path))
                     with open(path, "w") as f:
                         f.write(content)
+        exit(0)
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
@@ -315,7 +478,7 @@ def run(args):
     return result
 
 
-def push_updates():
+def push_updates(now):
     diff = run(["git", "status", "-s"])
     has_changes = bool(diff.stdout)
     if not has_changes:
@@ -338,7 +501,6 @@ def push_updates():
 
     print("Committing changes")
     build = os.getenv("TRAVIS_BUILD_NUMBER")
-    now = datetime.datetime.now()
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
     commit = run(["git", "commit", "-m", message])
@@ -380,9 +542,10 @@ def main():
         action="store_true",
     )
     args = parser.parse_args()
-    update_files()
+    now = datetime.datetime.now()
+    update_files(now)
     if args.push:
-        push_updates()
+        push_updates(now)
     print("Done")
 
 
