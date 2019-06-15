@@ -1,9 +1,11 @@
-### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Rocket%20League%20Game%20Soundtrack%20(Complete).md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw))
+
+### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 
 > Complete collection of all official Rocket League tracks on Spotify! [UPDATED] Added new track &quot;Ephixa, Heartful - Sundance&quot; and 3 older missing tracks: PLAY, Each Other and Hot (thanks Sukigu) (Last update: 13 June 2019)
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Rocket League Theme](https://open.spotify.com/track/6tFwEEnMrmdAqeotTbpHuO) | [Mike Ault](https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ) | [Rocket League (Official Game Soundtrack)](https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO) | 1:28 |
 | 2 | [Angel Wings (feat. Avianna Acid)](https://open.spotify.com/track/5Yc037C8ERfOaYkiYV8kUt) | [Mike Ault](https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ), [Avianna Acid](https://open.spotify.com/artist/2ITuQAcgFooz0Un0mw5KfN) | [Rocket League (Official Game Soundtrack)](https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO) | 6:07 |
 | 3 | [Darkness](https://open.spotify.com/track/2aBc43ob5athlXVWnHz477) | [Mike Ault](https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ), [Christian de la Torre](https://open.spotify.com/artist/3Ded4LIPmE5T5cWLYGtXdY) | [Rocket League (Official Game Soundtrack)](https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO) | 7:30 |

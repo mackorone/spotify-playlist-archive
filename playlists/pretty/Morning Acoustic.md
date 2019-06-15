@@ -1,9 +1,11 @@
-### [Morning Acoustic](https://open.spotify.com/playlist/7EtGvEVYkL6knEdLxNjHf3) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Morning%20Acoustic.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EtGvEVYkL6knEdLxNjHf3))
+
+### [Morning Acoustic](https://open.spotify.com/playlist/7EtGvEVYkL6knEdLxNjHf3)
 
 > Wrap yourself in the warm vibes and lush crescendos of these folk and acoustic gems.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 |
 | 2 | [All The Pretty Girls - Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 3 | [From Gold](https://open.spotify.com/track/4GjD33yTih7RqvGkH9C9wO) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [From Gold](https://open.spotify.com/album/46tU4DTzvaCi8BibeSKa0A) | 3:33 |

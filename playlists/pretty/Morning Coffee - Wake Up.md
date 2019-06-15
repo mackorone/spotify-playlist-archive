@@ -1,9 +1,11 @@
-### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Morning%20Coffee%20-%20Wake%20Up.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3JBLiEySHqJWWGLw9VTxKd))
+
+### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd)
 
 > Let the coffee wake your body and the music wake your soul. Tune in - Turn On - Spread Love
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Burgs](https://open.spotify.com/track/1svFAYzAEjZyPc62oBn5AP) | [Mt. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Red (Deluxe Version)](https://open.spotify.com/album/7AkMLeLoEWeBFBTocZYA9d) | 7:07 |
 | 2 | [Awake](https://open.spotify.com/track/5lB3bZKPhng9s4hKB1sSIe) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/4ozCTWaVHwIldd1KfjVRvl) | 4:43 |
 | 3 | [Day 5: For Carol](https://open.spotify.com/track/3JjeC1epY5y2Jysxn5FVCB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Tobie Tripp](https://open.spotify.com/artist/01QCmol7KmMumj4PVfu8Cn) | [5 Day Mischon](https://open.spotify.com/album/7fxmKgApcmXOVOlXuNEsQL) | 6:34 |

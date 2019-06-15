@@ -1,9 +1,11 @@
-### [All The Feels](https://open.spotify.com/playlist/0n8NtBn89HS9sSKJEnJijg) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/All%20The%20Feels.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0n8NtBn89HS9sSKJEnJijg))
+
+### [All The Feels](https://open.spotify.com/playlist/0n8NtBn89HS9sSKJEnJijg)
 
 > If you be the cash, I'll be the rubber band...
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Location](https://open.spotify.com/track/6XOin64PR2Oj4W0tO8GOQv) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Location](https://open.spotify.com/album/35Z0yQ32AbTSDh530LeNKB) | 3:44 |
 | 2 | [Easily](https://open.spotify.com/track/3TpXajg1nKzG3ngc9tBwrD) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Easily](https://open.spotify.com/album/6q8ucEDesX2Tk4F864VcYB) | 3:30 |
 | 3 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 |

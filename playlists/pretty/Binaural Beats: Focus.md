@@ -1,9 +1,11 @@
-### [Binaural Beats: Focus](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Binaural%20Beats:%20Focus.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG))
+
+### [Binaural Beats: Focus](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Binaural Alpha Sinus 100 Hz - 108 Hz](https://open.spotify.com/track/4m9mcrSgs6uJk8ddws1Yz7) | [Vorssenn](https://open.spotify.com/artist/0V8dBTheanSubEjlU0dlvf) | [Alpha 8-14 Hz Drones](https://open.spotify.com/album/1xvR00hIQDx1fiAQtoMHfI) | 3:26 |
 | 2 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 |
 | 3 | [Binaural Focus Drone](https://open.spotify.com/track/2O0gaBmFsBZXUlG8CMiMyq) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:36 |

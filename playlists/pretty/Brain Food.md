@@ -1,9 +1,11 @@
-### [Brain Food](https://open.spotify.com/playlist/67nMZWgcUxNa5uaiyLDR2x) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Brain%20Food.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/67nMZWgcUxNa5uaiyLDR2x))
+
+### [Brain Food](https://open.spotify.com/playlist/67nMZWgcUxNa5uaiyLDR2x)
 
 > Feed your brain with hypnotic <a href="https://open.spotify.com/genre/edm_dance">electronic</a>.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Listen to the Storm](https://open.spotify.com/track/5H4jqUyGlm58FpRo6wZQxi) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Fear Is Fleeting - EP](https://open.spotify.com/album/47rxFzJT0VpMaygmZc6lBv) | 4:23 |
 | 2 | [Adieu](https://open.spotify.com/track/2M5qth30iBEU1DwurvxaAE) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Divide & Conquer](https://open.spotify.com/album/2EvKkEYA4lEptctltrFEpz) | 1:40 |
 | 3 | [Sadbot](https://open.spotify.com/track/15Ri7r4p2xxvyBisDa5izE) | [Pixl](https://open.spotify.com/artist/210hjvKOh716ZO4ErE3x22) | [Sadbot](https://open.spotify.com/album/7lwNCCtojTZQLhQNBI8Xgx) | 4:28 |

@@ -1,9 +1,11 @@
-### [Deep Focus](https://open.spotify.com/playlist/2ujjMpFriZ2nayLmrD1Jgl) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Deep%20Focus.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/2ujjMpFriZ2nayLmrD1Jgl))
+
+### [Deep Focus](https://open.spotify.com/playlist/2ujjMpFriZ2nayLmrD1Jgl)
 
 > Keep calm and focus. This playlist has some great, atmospheric rock to help you relax and concentrate.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Varberg](https://open.spotify.com/track/5sFdMGaWXdSWYtS93KimeP) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 2:49 |
 | 2 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 |
 | 3 | [Red Gold Yesterday](https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:18 |

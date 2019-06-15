@@ -1,9 +1,11 @@
-### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Summer%20Days.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh))
+
+### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh)
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Summer Days](https://open.spotify.com/track/4tIF2kyR4ToNfDUOe094pd) | [Alpaca Sports](https://open.spotify.com/artist/2FfiPi1Ia6W1EWM1QcajDN) | [Summer Days](https://open.spotify.com/album/0BiNk4WHl6qHqtFtzk8Xc7) | 4:11 |
 | 2 | [Prima Donna](https://open.spotify.com/track/06Ykon1t8t9qZDsEAwEMWq) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [Prima Donna](https://open.spotify.com/album/4NeurROcQUO638E7VHL4PF) | 2:34 |
 | 3 | [Girls in Black](https://open.spotify.com/track/01rnSgjaRL0fhctFOET2r6) | [Modern Leisure](https://open.spotify.com/artist/2i274fDSPongYIjYW7wYOn) | [Girls in Black](https://open.spotify.com/album/4nO76kTZ7dBvqNACT2SIrn) | 3:48 |

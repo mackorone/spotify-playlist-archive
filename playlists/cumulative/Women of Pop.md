@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Women%20of%20Pop.md) - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Women%20of%20Pop.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX))
+[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Women%20of%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3WvGXE8FqYX))
 
 ### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
 

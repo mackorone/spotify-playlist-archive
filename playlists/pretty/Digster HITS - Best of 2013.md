@@ -1,9 +1,11 @@
-### [Digster HITS - Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Digster%20HITS%20-%20Best%20of%202013.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy))
+
+### [Digster HITS - Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy)
 
 > 
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Do What U Want](https://open.spotify.com/track/135zhqmxmJITfYf0dEA6S0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [R. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [Do What U Want](https://open.spotify.com/album/6dr8p9M8DSZzX5dXVCjJ0h) | 3:47 |
 | 2 | [23](https://open.spotify.com/track/20FZrLl9zSbO9b3DhaqO6M) | [Mike WiLL Made-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [23](https://open.spotify.com/album/5r7L8DlTsIKoDwSSiRf5M7) | 4:12 |
 | 3 | [Holy Grail](https://open.spotify.com/track/37jTPJgwCCmIGMPB45jrPV) | [JAY Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Magna Carta... Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 5:38 |
