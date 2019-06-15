@@ -1,9 +1,11 @@
-### [You & Me](https://open.spotify.com/playlist/37i9dQZF1DX6mvEU1S6INL) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/You%20&%20Me.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6mvEU1S6INL))
+
+### [You & Me](https://open.spotify.com/playlist/37i9dQZF1DX6mvEU1S6INL)
 
 > It's just us—and this awesome alt soundtrack.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [I Won't Fight It](https://open.spotify.com/track/1wnFpv1gSsFZeuNlHOX1ch) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC) | 5:31 |
 | 2 | [Particles](https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine (Deluxe)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:55 |
 | 3 | [Bloom - Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland - EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |

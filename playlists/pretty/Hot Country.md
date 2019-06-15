@@ -1,9 +1,11 @@
-### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Hot%20Country.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1lVhptIYRda))
+
+### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
 > Today's top country hits of the week, worldwide!  Cover: Levi Hummon
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 |
 | 2 | [Closer To You](https://open.spotify.com/track/7xELq8WliIctkuvWXONX6d) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Closer To You](https://open.spotify.com/album/2MeiGrtUTDghhGTImZuF42) | 3:07 |
 | 3 | [What If I Never Get Over You](https://open.spotify.com/track/1kqVSbwdlNKsPGv0aehcAZ) | [Lady Antebellum](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You](https://open.spotify.com/album/29nEDtxAppakEN3LIDZD4a) | 3:26 |

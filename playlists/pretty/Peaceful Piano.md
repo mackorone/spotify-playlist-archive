@@ -1,9 +1,11 @@
-### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Peaceful%20Piano.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4sWSpwq3LiO))
+
+### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)
 
 > Relax and indulge with some profoundly beautiful piano pieces.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 |
 | 2 | [Gaze](https://open.spotify.com/track/2XeZi7qwChzLOt32tsoPXV) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 |
 | 3 | [Where's My Love - Piano Solo](https://open.spotify.com/track/7ih16mauHrpUMOIeWEOyVO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love (Piano Solo)](https://open.spotify.com/album/6YhPay3BxJkrx8WGrgNdj2) | 4:34 |

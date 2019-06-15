@@ -1,9 +1,11 @@
-### [Ambient Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Ambient%20Relaxation.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY))
+
+### [Ambient Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY)
 
 > Drift away with chill ambient music.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Home Tales - Ambient Mix](https://open.spotify.com/track/2HiVJpIeVR3MiVsrqQ7hWQ) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 4:08 |
 | 2 | [Monita](https://open.spotify.com/track/2kYi4RwuTernByCJR6D4e1) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:16 |
 | 3 | [Ballerina - Ambient Version](https://open.spotify.com/track/6OoZfXgh8Y6V869KQMVY4e) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Ballerina](https://open.spotify.com/album/33QaWcLXPuFCDEbluuL4Nw) | 2:36 |

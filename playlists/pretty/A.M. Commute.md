@@ -1,9 +1,11 @@
-### [A.M. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/A.M.%20Commute.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S))
+
+### [A.M. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S)
 
 > Forget the morning rush and kick off your day the right way - music on, volume up, happy days!
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Magic](https://open.spotify.com/track/27jdUE1EYDSXZqhjuNxLem) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Magic](https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u) | 4:45 |
 | 2 | [Desire - Gryffin Remix](https://open.spotify.com/track/2xlCyb1ZfFad6np6zx4hhw) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Desire (Gryffin Remix)](https://open.spotify.com/album/7oRxgNBZeMhA7O1eu8OHas) | 4:28 |
 | 3 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |

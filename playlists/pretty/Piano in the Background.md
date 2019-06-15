@@ -1,9 +1,11 @@
-### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Piano%20in%20the%20Background.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1))
+
+### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1)
 
 > A calm and relaxing piano soundtrack to all your daily activities.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Naive Spin](https://open.spotify.com/track/1JoAjYaI3zvhXVx41HH7Fc) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Naive Spin](https://open.spotify.com/album/1meLNOeKZ3KGV7vuOshRk3) | 2:38 |
 | 2 | [Sentiment](https://open.spotify.com/track/5cSBzbIH0X568Wk8cJ6Zbl) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Reverence](https://open.spotify.com/album/2XzKYiYil4U6KLqVtjhMKA) | 2:52 |
 | 3 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |

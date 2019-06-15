@@ -1,9 +1,11 @@
-### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/New%20Boots.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8S0uQvJ4gaa))
+
+### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
 > New Music Discovery is what we're about.  Try it on for size. Artist: Matt Stell
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Down For It](https://open.spotify.com/track/6Wt3sYuUnYwvTcYQqx7NUR) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down For It](https://open.spotify.com/album/6piMqYheVFhzvkmzHKjj59) | 3:14 |
 | 2 | [Life After Your Leavin'](https://open.spotify.com/track/5ZLNJTUvKGXuU9iQqEnEhm) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Life After Your Leavin'](https://open.spotify.com/album/3dEu0eg9Q1NGrh4fkOB8zo) | 3:02 |
 | 3 | [Twang](https://open.spotify.com/track/1XS1SOCah7vnuKqSDxDEdM) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/1nFV1vnP2kj0sdWklj3oWv) | 2:57 |

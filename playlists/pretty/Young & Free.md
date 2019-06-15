@@ -1,9 +1,11 @@
-### [Young & Free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Young%20&%20Free.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXca8AyWK6Y7g))
+
+### [Young & Free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
 > Live your life... this is Young &amp; Free.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Hey! I Don't Want That Anyway](https://open.spotify.com/track/2Orge4IMIiIgvOQfNg33WA) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Hey! I Don't Want That Anyway](https://open.spotify.com/album/4b5MDKHsb9cAn3lqYymxnp) | 2:45 |
 | 2 | [Playground](https://open.spotify.com/track/0cVaY6PNGxCPi1gOIapr26) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY) | [Playground](https://open.spotify.com/album/0uVhMIPB5oi4TB6oFvaNPQ) | 3:05 |
 | 3 | [Pink](https://open.spotify.com/track/62rtiatuCKJn08cvcNSFPK) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Crying in the Prettiest Places](https://open.spotify.com/album/3JKR59NKnMssKnKE6X889x) | 3:07 |

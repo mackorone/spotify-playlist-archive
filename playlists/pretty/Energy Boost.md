@@ -1,9 +1,11 @@
-### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Energy%20Boost.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz))
+
+### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz)
 
 > Let this upbeat playlist power you through your day
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Jackpot (The Him Remix)](https://open.spotify.com/track/6NSjdFYF2zxgQ7UvsKoRxy) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [Jackpot (The Him Remix)](https://open.spotify.com/album/2MqIUTIvZPARqkpFoDX9Fr) | 3:10 |
 | 2 | [White Tiger - Single Version](https://open.spotify.com/track/64I0PKLFEKlcvc7fEVUGq0) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [White Tiger](https://open.spotify.com/album/3vFbnDJXtwP5SaLrFgn0GC) | 3:00 |
 | 3 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 |

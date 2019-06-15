@@ -1,9 +1,11 @@
-### [Songs to Sing in the Shower](https://open.spotify.com/playlist/4TNBeyX7awz89qwtTmh9D4) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Songs%20to%20Sing%20in%20the%20Shower.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4TNBeyX7awz89qwtTmh9D4))
+
+### [Songs to Sing in the Shower](https://open.spotify.com/playlist/4TNBeyX7awz89qwtTmh9D4)
 
 > Amp up your morning by singing along to these classic hit tracks as you suds up.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Shape of You](https://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You](https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8) | 3:53 |
 | 2 | [Footloose](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose (15th Anniversary Collectors' Edition)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 |
 | 3 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |

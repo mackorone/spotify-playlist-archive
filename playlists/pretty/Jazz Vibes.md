@@ -1,9 +1,11 @@
-### [Jazz Vibes](https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0SM0LYsmbMT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0SM0LYsmbMT)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Jazz%20Vibes.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0SM0LYsmbMT) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0SM0LYsmbMT))
+
+### [Jazz Vibes](https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT)
 
 > Instrumental lo-fi beats with a jazzy edge.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Coral Dreams](https://open.spotify.com/track/2QLoxnf8H9MVHdlJt6l3Pe) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mangroves](https://open.spotify.com/album/4nGGg90up0lmPiP3QetTW8) | 2:51 |
 | 2 | [Visit By Cap Kendricks](https://open.spotify.com/track/5vCMqXWUY0gQffbbX1z2eK) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Second Home](https://open.spotify.com/album/4Tp1yDTcXEOg5Nu8jb9cjV) | 3:15 |
 | 3 | [Venice](https://open.spotify.com/track/5VmL8CrjM82tIGWwum8Cbo) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Venice](https://open.spotify.com/album/380nnXWEOGoB4ILSl7mijj) | 2:36 |

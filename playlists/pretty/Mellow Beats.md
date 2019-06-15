@@ -1,9 +1,11 @@
-### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Mellow%20Beats.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ))
+
+### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ)
 
 > Stay relaxed with these low-key beats and instrumentals.
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
 | 2 | [Jugo](https://open.spotify.com/track/2EjXmFS0j9nEhBgWA1pLjU) | [Cohoba](https://open.spotify.com/artist/26qfDCdS9BHoOYwPmA9BI1) | [Jugo](https://open.spotify.com/album/73357oCuAwugagwiTBIBgh) | 1:39 |
 | 3 | [swag on](https://open.spotify.com/track/2S36OuK8PYZkkLkled3GAd) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [swag on](https://open.spotify.com/album/4H1qSzq3XjPpht57ZtxsDL) | 2:19 |

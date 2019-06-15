@@ -1,9 +1,11 @@
-### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d)
+pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/All%20New%20Indie.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d))
+
+### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
 > The best new tracks, updated every Friday. Cover: Crumb
 
 | No. | Title | Artist(s) | Album | Length |
-|-----|-------|-----------|-------|--------|
+|---|---|---|---|---|
 | 1 | [Jinx](https://open.spotify.com/track/7qAy6TR1MrSeUV8OpMlNS1) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:41 |
 | 2 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 |
 | 3 | [george](https://open.spotify.com/track/0Ws3ORFcdtgqA3FITquhQ7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [george](https://open.spotify.com/album/4mCbjj2IvjnMnk0wirwBs3) | 3:10 |
