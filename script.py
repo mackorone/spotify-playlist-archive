@@ -181,18 +181,29 @@ class Formatter:
 
     @classmethod
     def pretty(cls, playlist_id, playlist):
+        columns = [
+            cls.TRACK_NO,
+            cls.TITLE,
+            cls.ARTISTS,
+            cls.ALBUM,
+            cls.LENGTH,
+        ]
+        vertical_separators = ["|"] * (len(columns) + 1)
+        line_template = " {} ".join(vertical_separators)
+        divider_line = "---".join(vertical_separators)
         lines = cls._markdown_header_lines(
             playlist_name=playlist.name,
             playlist_url=playlist.url,
             playlist_id=playlist_id,
             playlist_description=playlist.description,
+            is_cumulative=False,
         )
         lines += [
-            "| No. | Title | Artist(s) | Album | Length |",
-            "|-----|-------|-----------|-------|--------|",
+            line_template.format(*columns),
+            divider_line,
         ]
         for i, track in enumerate(playlist.tracks):
-            lines.append("| {} | {} | {} | {} | {} |".format(
+            lines.append(line_template.format(
                 i + 1,
                 cls._link(track.name, track.url),
                 cls.ARTIST_SEPARATOR.join([
@@ -207,44 +218,35 @@ class Formatter:
     @classmethod
     def cumulative(cls, now, prev_content, playlist_id, playlist):
         today = now.strftime("%Y-%m-%d")
-        row_template = {
-            cls.TITLE: None,
-            cls.ARTISTS: None,
-            cls.ALBUM: None,
-            cls.LENGTH: None,
-            cls.ADDED: None,
-            cls.REMOVED: None,
-        }
-        vertical_separators = ["|"] * (len(row_template) + 1)
-        line_template = " {} ".join(vertical_separators)
-        divider_line = "---".join(vertical_separators)
-        column_names_line = line_template.format(
+        columns = [
             cls.TITLE,
             cls.ARTISTS,
             cls.ALBUM,
             cls.LENGTH,
             cls.ADDED,
             cls.REMOVED,
-        )
+        ]
+        vertical_separators = ["|"] * (len(columns) + 1)
+        line_template = " {} ".join(vertical_separators)
+        divider_line = "---".join(vertical_separators)
         header = cls._markdown_header_lines(
             playlist_name=playlist.name,
             playlist_url=playlist.url,
             playlist_id=playlist_id,
             playlist_description=playlist.description,
+            is_cumulative=True,
         )
         header += [
-            column_names_line,
+            line_template.format(*columns),
             divider_line,
         ]
 
-        # Retrieve existing rows
+        # Retrieve existing rows, then add new rows
         rows = cls._rows_from_prev_content(today, prev_content, divider_line)
-
-        # Add new rows
         for track in playlist.tracks:
             # Get the row for the given track
             key = cls._plain_line_from_track(track).lower()
-            row = rows.get(key, row_template.copy())
+            row = rows.get(key, {column: None for column in columns})
             rows[key] = row
             # Update row values
             row[cls.TITLE] = cls._link(track.name, track.url)
@@ -261,12 +263,7 @@ class Formatter:
         lines = []
         for key, row in sorted(rows.items()):
             lines.append(line_template.format(
-                row[cls.TITLE],
-                row[cls.ARTISTS],
-                row[cls.ALBUM],
-                row[cls.LENGTH],
-                row[cls.ADDED],
-                row[cls.REMOVED],
+                *[row[column] for column in columns]
             ))
         return "\n".join(header + lines)
 
@@ -277,11 +274,18 @@ class Formatter:
         playlist_url,
         playlist_id,
         playlist_description,
+        is_cumulative,
     ):
+        if is_cumulative:
+            pretty = cls._link("pretty", URL.pretty(playlist_name))
+            cumulative = "cumulative"
+        else:
+            pretty = "pretty"
+            cumulative = cls._link("cumulative", URL.cumulative(playlist_name))
         return [
             "{} - {} - {} ({})".format(
-                cls._link("pretty", URL.pretty(playlist_name)),
-                cls._link("cumulative", URL.cumulative(playlist_name)),
+                pretty,
+                cumulative,
                 cls._link("plain", URL.plain(playlist_id)),
                 cls._link("githistory", URL.plain_history(playlist_id)),
             ),
@@ -446,7 +450,6 @@ def update_files(now):
                     print("Writing updates to file: {}".format(path))
                     with open(path, "w") as f:
                         f.write(content)
-        exit(0)
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
