@@ -1,5 +1,6 @@
 - Add unit tests
 - Add type hints
 - Format with black
-- Import historical data
 - Render HTML fancy tables
+- Splitting by `" | "` breaks for some tracks
+- Clean up near-duplicates in cumulative playlists
