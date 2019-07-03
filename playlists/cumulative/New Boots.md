@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Artist: Matt Stell
+> New Music Discovery is what we're about.  Try it on for size. Artist: Morgan Wallen
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
