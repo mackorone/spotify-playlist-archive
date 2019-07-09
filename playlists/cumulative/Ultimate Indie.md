@@ -2,7 +2,7 @@
 
 ### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best indie tracks right now. Cover: Still Woozy
+> The best indie tracks right now. Cover: Tame Impala
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
