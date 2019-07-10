@@ -2,7 +2,7 @@
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With The Neighbourhood, Cage The Elephant, Panic! At The Disco and more
+> With Panic! At The Disco, Foster The People, fun. and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
