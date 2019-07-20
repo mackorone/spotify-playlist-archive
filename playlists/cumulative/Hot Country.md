@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Matt Stell
+> Today's top country hits of the week, worldwide!  Cover: Lady Antebellum
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 |  |
 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 | 2019-05-26 | 2019-06-15 |
 | [Home With Her](https://open.spotify.com/track/2cxU72H3CkiHJKiJhOj1Rm) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [Home With Her](https://open.spotify.com/album/5kgTIWW6pk1nUfFSyVViQl) | 2:59 | 2019-05-26 | 2019-06-15 |
-| [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2019-05-26 |  |
+| [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2019-05-26 | 2019-07-20 |
 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 | 2019-05-26 |  |
+| [It All Comes Out in the Wash](https://open.spotify.com/track/5QZFaimQx9Hgv0hZQp9hpp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [It All Comes Out in the Wash](https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6) | 3:34 | 2019-07-20 |  |
 | [Keep It Simple](https://open.spotify.com/track/6SzCgkimMZ97h2GluSWSzd) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Keep It Simple](https://open.spotify.com/album/4he0QjOxLNLiDaOuVBLOMC) | 3:07 | 2019-05-26 | 2019-06-15 |
 | [Kiss That Girl Goodbye](https://open.spotify.com/track/4cjYbmZXoJbuLeOwLP4EKB) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 3:18 | 2019-06-22 | 2019-06-30 |
 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 | 2019-05-26 |  |
@@ -68,7 +69,7 @@
 | [Ridin' Roads](https://open.spotify.com/track/5OBtr92M0xsvOGqpnz3LzW) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Ridin' Roads](https://open.spotify.com/album/5k9qdzeVjlGweGxnb4cnGd) | 3:25 | 2019-05-26 |  |
 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 | 2019-05-26 |  |
 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too (Deluxe Edition)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 | 2019-05-26 | 2019-07-06 |
-| [Some Of It](https://open.spotify.com/track/3d1qN7AHge6BXuVPutcpI5) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 3:15 | 2019-05-26 |  |
+| [Some Of It](https://open.spotify.com/track/3d1qN7AHge6BXuVPutcpI5) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 3:15 | 2019-05-26 | 2019-07-20 |
 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 | 2019-06-05 |  |
 | [Someone I Used To Know](https://open.spotify.com/track/1SVqPKwkGssw1ao0Jqmx2b) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Someone I Used To Know](https://open.spotify.com/album/3T6cDvU5DWb72tRBxubVpc) | 3:29 | 2019-05-26 |  |
 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 | 2019-07-06 |  |
@@ -81,6 +82,7 @@
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/20vIaD2DFOxGqDvN0dlMEH) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/album/6dHn1cTLJ4CAlN2AyR3a1O) | 3:11 | 2019-06-30 |  |
 | [There's A Drink For That](https://open.spotify.com/track/1emssFw7IdIo26E9JDiJrz) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Singles Only](https://open.spotify.com/album/1iZv0S6Nbz5iz9ZB7wH8nn) | 3:04 | 2019-07-13 |  |
 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 | 2019-05-26 |  |
+| [Tip of My Tongue](https://open.spotify.com/track/40ufL61vEaDaaOitYhnlQ7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Tip of My Tongue](https://open.spotify.com/album/2neKEhAldnGfCDEkPE4kW0) | 3:19 | 2019-07-20 |  |
 | [To a T](https://open.spotify.com/track/1oRRLczVT5KkZkPHXG70n7) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T](https://open.spotify.com/album/4AbT70Vdn1lAdKmpJxNKD5) | 2:58 | 2019-05-26 |  |
 | [Try Saying Goodbye](https://open.spotify.com/track/6p3tET0bTKLDv4iF0hl0p2) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Try Saying Goodbye](https://open.spotify.com/album/4JtQiwXOtyA8WVaHYR3NhG) | 3:01 | 2019-05-26 |  |
 | [Trying Like The Devil](https://open.spotify.com/track/1ALSPkVDcZFDj2eBcVTzWL) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 3:40 | 2019-06-22 | 2019-06-30 |
