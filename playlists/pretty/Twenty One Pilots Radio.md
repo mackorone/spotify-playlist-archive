@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With Fall Out Boy, grandson, Wallows and more
+> With My Chemical Romance, The Neighbourhood, Foster The People and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
