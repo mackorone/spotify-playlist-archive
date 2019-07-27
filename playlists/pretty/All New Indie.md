@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks, updated every Friday. Cover: Brittany Howard
+> The best new tracks, updated every Friday. Cover: DIIV
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

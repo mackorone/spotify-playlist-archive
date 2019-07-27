@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks, updated every Friday. Cover: Brittany Howard
+> The best new tracks, updated every Friday. Cover: DIIV
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
