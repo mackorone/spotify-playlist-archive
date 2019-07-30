@@ -2,7 +2,7 @@
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With EDEN, Sleeping With Sirens, American Authors and more
+> With Foster The People, Neon Trees, Young the Giant and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
