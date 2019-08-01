@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [-Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2019-07-31 |  |
+| [-Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2019-07-31 | 2019-08-01 |
 | [2 Nights, a Whisper](https://open.spotify.com/track/3lgNEhD9fL7vLnbZXa9e7s) | [Arylith](https://open.spotify.com/artist/56XjeqEoAGHJDpHhGGnhwK) | [La Luna](https://open.spotify.com/album/7vRVwPzygEpd2zFpyOMNdF) | 3:10 | 2019-06-19 |  |
 | [4 BC](https://open.spotify.com/track/37Fu60SewgOI5XRgjgygUY) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [4 BC](https://open.spotify.com/album/4dLL3om7VzTNH8drcbHdzI) | 3:57 | 2019-05-26 | 2019-06-19 |
 | [A Green Sun Rises](https://open.spotify.com/track/3t5NoMX3rMyCvqmBX4NGv7) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:06 | 2019-05-26 | 2019-06-19 |
@@ -25,6 +25,7 @@
 | [Ashes](https://open.spotify.com/track/6IcJ3IyAH3Q4In8bjGVP0W) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [New Life](https://open.spotify.com/album/52Fx3NkInGB1fpwstmiy30) | 2:11 | 2019-06-19 |  |
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2019-05-26 |  |
 | [Awakening](https://open.spotify.com/track/27KvPekcDlNDvfOdi0ohWC) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 7:37 | 2019-05-26 | 2019-06-19 |
+| [Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2019-08-01 |  |
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2019-06-19 |  |
 | [Behind the World](https://open.spotify.com/track/03VnvcUaAxCkmtk2YrTlZb) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 4:06 | 2019-06-19 |  |
 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2019-05-26 | 2019-07-12 |
