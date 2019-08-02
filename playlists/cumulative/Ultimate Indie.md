@@ -2,7 +2,7 @@
 
 ### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> The best indie tracks right now. Cover: Tame Impala
+> The best indie tracks right now. Cover: Clairo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,14 +13,15 @@
 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 | 2019-05-26 |  |
 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 | 2019-05-26 |  |
 | [Bad To Worse](https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Bad To Worse](https://open.spotify.com/album/6kKWqN15xZsA4TBNPW6Wb2) | 4:18 | 2019-05-26 | 2019-07-30 |
-| [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-05-31 |  |
+| [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-05-31 | 2019-08-02 |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2019-08-02 |  |
 | [Bloodlines](https://open.spotify.com/track/3YAU0uJk2nPgbJTZDZl9He) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Deep Water](https://open.spotify.com/album/0JY6pBW05dvd3HINVnyIQQ) | 3:20 | 2019-05-26 | 2019-06-15 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-05-26 |  |
 | [Bruise](https://open.spotify.com/track/6vJFWet1sMnWrKE8dDmfGG) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bruise](https://open.spotify.com/album/0HR7LLku7QMhusktFwyQx6) | 3:52 | 2019-06-07 | 2019-07-30 |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2019-05-26 | 2019-06-21 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/5Ti99QiUdIwe0xG4gS22FL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr) | 4:38 | 2019-06-21 |  |
 | [Candy](https://open.spotify.com/track/2PC6lbQhSTaeZIEGs7lHF6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:51 | 2019-06-21 |  |
-| [Casio](https://open.spotify.com/track/33wUd3GgaRf2rux2aJ71yb) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:54 | 2019-05-26 |  |
+| [Casio](https://open.spotify.com/track/33wUd3GgaRf2rux2aJ71yb) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:54 | 2019-05-26 | 2019-08-02 |
 | [Cellophane](https://open.spotify.com/track/3VwZqgfrM3xb1usuLprkTu) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cellophane](https://open.spotify.com/album/7xaC6bVJqAatWaCj9OossS) | 3:24 | 2019-05-26 | 2019-06-15 |
 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2019-05-26 | 2019-06-21 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [Stephan Looney](https://open.spotify.com/artist/6ZdOiSlDCoDGvN0N4aQMx5), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2019-05-26 | 2019-07-23 |
@@ -38,6 +39,7 @@
 | [Flowers](https://open.spotify.com/track/29sQdO0XyF2fkdvbvmx8G0) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Flowers](https://open.spotify.com/album/3n2Lm7DjOxSL43kAREcP0x) | 4:57 | 2019-05-26 |  |
 | [Gallipoli](https://open.spotify.com/track/1WpzIV4chlExwghx3yQu57) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gallipoli](https://open.spotify.com/album/3uqDi2osUi7ASUu2uGIeys) | 4:06 | 2019-05-26 |  |
 | [Geology](https://open.spotify.com/track/4qCfbDTCrFnfG5fYngu2wE) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy to Be Here](https://open.spotify.com/album/74hkehs2cahKJ7jFLOrxYh) | 4:28 | 2019-05-26 |  |
+| [Get To It](https://open.spotify.com/track/3Kgpt1cCidgUFeOKZXfnoq) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Get To It](https://open.spotify.com/album/1rXpwBAOHPw3Q8GJvHBO3b) | 2:50 | 2019-08-02 |  |
 | [Ghostride](https://open.spotify.com/track/6mnYXjuK0CDzqem4eR5JGU) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ghostride](https://open.spotify.com/album/7lCfuNDA72LdCBY011LZs3) | 2:06 | 2019-05-26 | 2019-06-15 |
 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 | 2019-06-14 |  |
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2019-06-14 |  |
@@ -65,7 +67,7 @@
 | [Leaning On Myself](https://open.spotify.com/track/20t31bYVci0qKda2XeTxSj) | [Anna Of The North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Leaning On Myself](https://open.spotify.com/album/2j2pSyCuPAwU4baWANtUu4) | 3:16 | 2019-05-26 | 2019-07-20 |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2019-05-26 | 2019-06-15 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2019-07-20 |  |
-| [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2019-06-07 |  |
+| [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2019-06-07 | 2019-08-02 |
 | [Manifest](https://open.spotify.com/track/71hY002AVvyrs4GgggPPiB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Manifest](https://open.spotify.com/album/5TDJFyk14FecmlVp8ie7LS) | 5:17 | 2019-05-26 |  |
 | [Maybe You're the Reason](https://open.spotify.com/track/7xKjdvYaJ1tvwNXRTAZs78) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Maybe You're the Reason](https://open.spotify.com/album/17KlhxChcvEVCiYqQ54q34) | 3:38 | 2019-05-26 | 2019-06-21 |
 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 | 2019-05-26 |  |
@@ -73,9 +75,10 @@
 | [Metamodernity](https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN) | 2:42 | 2019-06-21 |  |
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2019-05-26 |  |
 | [My Dude](https://open.spotify.com/track/2Cgo1Se6ohBxvXFa1VuRoT) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [My Dude](https://open.spotify.com/album/2H7NitX965UEdoGBSNuJsO) | 3:47 | 2019-06-07 |  |
+| [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-08-02 |  |
 | [Nihilist Kite Flyer](https://open.spotify.com/track/1wTmri3120lu6TuZjPKLMB) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Nihilist Kite Flyer](https://open.spotify.com/album/0pdJoqnJlz2IyXURszYGUF) | 3:02 | 2019-05-26 | 2019-07-30 |
 | [No Bullets Spent](https://open.spotify.com/track/2atf946FbB7wpXr2Kwdx1t) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [No Bullets Spent](https://open.spotify.com/album/4MMH177sCQHkE5lpK46Om6) | 3:40 | 2019-06-29 |  |
-| [No Halo](https://open.spotify.com/track/1dkjhxfTkIag3Kv7hV0bB3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/3Xugyt3sTfDgvALU1St1QA) | 3:06 | 2019-05-26 |  |
+| [No Halo](https://open.spotify.com/track/1dkjhxfTkIag3Kv7hV0bB3) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Oh My God](https://open.spotify.com/album/3Xugyt3sTfDgvALU1St1QA) | 3:06 | 2019-05-26 | 2019-08-02 |
 | [Nobody](https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:32 | 2019-05-26 | 2019-07-20 |
 | [Now That You're Gone](https://open.spotify.com/track/0t3BGP2os4LjXL9TVQn6O0) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Sunday Driver / Now That You're Gone](https://open.spotify.com/album/0vOrIwTMeu6vTRRkBkdkoG) | 3:56 | 2019-05-26 | 2019-07-30 |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2019-05-26 | 2019-07-20 |
@@ -97,6 +100,7 @@
 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 | 2019-05-26 |  |
 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 | 2019-07-30 |  |
 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 | 2019-05-26 |  |
+| [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2019-08-02 |  |
 | [Sofia](https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sofia](https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K) | 3:08 | 2019-07-30 |  |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2019-05-26 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2019-05-26 |  |

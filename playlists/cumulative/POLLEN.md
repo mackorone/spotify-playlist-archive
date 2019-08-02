@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Caroline Polachek
+> Genre-less. Quality first always. Cover: HAIM
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,11 +63,12 @@
 | [Heck](https://open.spotify.com/track/3cM9mZM59JS4KWmypstz3Z) | [Nathan Bajar](https://open.spotify.com/artist/0daIfyaenO89T2oFsr2vqc) | [Playroom](https://open.spotify.com/album/5WJEkg1Vu7perRsmpYQ8Cq) | 1:59 | 2019-07-30 |  |
 | [Hungboo - DJ-Kicks](https://open.spotify.com/track/2TbtpyknAMjF6JT62ww6kg) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ-Kicks EP](https://open.spotify.com/album/6NYvPsNqxcFXiNkeNi3sBx) | 4:35 | 2019-07-30 |  |
 | [I Am a Very Rude Person](https://open.spotify.com/track/4HZxkwyIGp6eHV9S4AYdve) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5a4VSyY7zsfVVqHweYHG7R) | 3:44 | 2019-07-30 |  |
+| [I BEEN BORN AGAIN](https://open.spotify.com/track/5fiR9Dy9hNXEPZOLo1kyNb) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [I BEEN BORN AGAIN](https://open.spotify.com/album/5HqRWEyebynyWRmmoyotJU) | 3:39 | 2019-08-02 |  |
 | [I Got It!](https://open.spotify.com/track/4PtjR6ixEja6InWqFmQD7W) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Got It!](https://open.spotify.com/album/0SeFhjdMbZkEb57UHWDpDK) | 2:16 | 2019-07-30 |  |
 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 | 2019-07-30 |  |
 | [I THINK](https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:32 | 2019-07-30 |  |
 | [I'm Trying](https://open.spotify.com/track/7rDvD5WGtchCGkfQOpIb8C) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [IDK WHERE](https://open.spotify.com/album/6DW0Fkb54yKMxMfUSKfBGw) | 2:43 | 2019-07-30 |  |
-| [I'VE BEEN BORN AGAIN](https://open.spotify.com/track/5fiR9Dy9hNXEPZOLo1kyNb) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [I BEEN BORN AGAIN](https://open.spotify.com/album/5HqRWEyebynyWRmmoyotJU) | 3:39 | 2019-08-01 |  |
+| [I'VE BEEN BORN AGAIN](https://open.spotify.com/track/5fiR9Dy9hNXEPZOLo1kyNb) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [I BEEN BORN AGAIN](https://open.spotify.com/album/5HqRWEyebynyWRmmoyotJU) | 3:39 | 2019-08-01 | 2019-08-02 |
 | [Ipanema](https://open.spotify.com/track/1yoOiFrd7KHnUPun8BSBxl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Ipanema](https://open.spotify.com/album/0MeYbSRPpmVFTVLLl1KICf) | 2:07 | 2019-07-30 |  |
 | [It's Real Love](https://open.spotify.com/track/0Mxbqp1DtNsAxo5Nthsqnr) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [It's Real Love](https://open.spotify.com/album/6SwnOmVKrNYkScpDAAq1Rt) | 3:46 | 2019-07-30 |  |
 | [Jealous](https://open.spotify.com/track/5OfWbw2sIHfJnWP9kb3381) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jealous](https://open.spotify.com/album/7yPMOeiZe1clMr90IvrvP2) | 3:36 | 2019-07-30 |  |
@@ -110,6 +111,7 @@
 | [Saturn](https://open.spotify.com/track/6WY88gYhRrnqS4wGtO45TH) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Saturn](https://open.spotify.com/album/6YWUNw1FYlbjBwLEeqqt8Y) | 3:27 | 2019-07-30 |  |
 | [Six AM](https://open.spotify.com/track/5ac9xtBIyhpsPqqH7dBVQ2) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [wya](https://open.spotify.com/album/79kdqxniiLUROGEZ3L7cRF) | 2:05 | 2019-07-30 |  |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2019-07-30 |  |
+| [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 |  |
 | [Solar Return](https://open.spotify.com/track/5av7NCtwaAsID0TJylcSD4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 3:56 | 2019-07-30 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2019-07-30 |  |
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30 |  |
