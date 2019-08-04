@@ -6,9 +6,9 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer Girl](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 |
+| 1 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
 | 2 | [I BEEN BORN AGAIN](https://open.spotify.com/track/5fiR9Dy9hNXEPZOLo1kyNb) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [I BEEN BORN AGAIN](https://open.spotify.com/album/5HqRWEyebynyWRmmoyotJU) | 3:39 |
-| 3 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
+| 3 | [Summer Girl](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 |
 | 4 | [Thousand Words](https://open.spotify.com/track/3vEOALYBUNQUMXpqhWx3hG) | [YBN Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:20 |
 | 5 | [Where U At?](https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Who Wants to Be a Millionaire?](https://open.spotify.com/album/0EBV0eMmVkYopo5yLiy96r) | 2:52 |
 | 6 | [Do Better](https://open.spotify.com/track/3hMvsYZjU1pFH0xoywKXA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:31 |
