@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With lovelytheband, Fall Out Boy, Panic! At The Disco and more
+> With Bastille, My Chemical Romance, Fitz and The Tantrums and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
