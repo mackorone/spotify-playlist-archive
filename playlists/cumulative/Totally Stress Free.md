@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2019-07-29 |  |
-| [Absolutely](https://open.spotify.com/track/5kjaMjkQxkJYZiDSIbuIF8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Absolutely](https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be) | 3:46 | 2019-07-29 |  |
+| [Absolutely](https://open.spotify.com/track/5kjaMjkQxkJYZiDSIbuIF8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Absolutely](https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be) | 3:46 | 2019-07-29 | 2019-08-11 |
 | [Ain't No Reason](https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [The Definitive Collection](https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF) | 3:37 | 2019-07-29 |  |
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head and the Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2019-07-29 |  |
 | [Anywhere](https://open.spotify.com/track/1zxZ8lz2mJspMvRrEd9sWT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Anywhere](https://open.spotify.com/album/7sQOtKcwp36OEtA14XhoRS) | 3:36 | 2019-07-29 |  |
@@ -71,6 +71,7 @@
 | [Shorty Don't Wait](https://open.spotify.com/track/33caYRuBFGkI5JaFMUeydz) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 4:11 | 2019-07-29 |  |
 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 | 2019-07-29 |  |
 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 | 2019-07-29 |  |
+| [Spirits](https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits](https://open.spotify.com/album/6YObUrJfBLhs4f2vfRMzqD) | 3:23 | 2019-08-11 |  |
 | [Stars](https://open.spotify.com/track/1LHE8cxWt7SVCitinqEhyl) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Future Generations](https://open.spotify.com/album/3bIqG0mLXWMFgACHLxDI7m) | 3:53 | 2019-07-29 |  |
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2019-07-29 |  |
 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 | 2019-07-29 |  |
