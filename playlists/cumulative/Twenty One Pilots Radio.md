@@ -2,7 +2,7 @@
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With EDEN, Fitz and The Tantrums, half•alive and more
+> With My Chemical Romance, Panic! At The Disco, Sleeping With Sirens and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

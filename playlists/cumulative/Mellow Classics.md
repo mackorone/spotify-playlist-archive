@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [(Sittin' On) The Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 | 2019-05-26 |  |
+| [(Sittin' On) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 | 2019-05-26 |  |
 | [(You Make Me Feel Like) A Natural Woman](https://open.spotify.com/track/29N4xnL6SpjkQiuPaTvQXA) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 2:39 | 2019-05-26 |  |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2019-05-26 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 | 2019-05-26 |  |
