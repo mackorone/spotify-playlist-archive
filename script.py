@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-raise Exception("TEST")
 
 import argparse
 import base64
