@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 
-> Complete collection of all official Rocket League tracks on Spotify! [UPDATED] Added new track &quot;Ephixa, Heartful - Sundance&quot; and 3 older missing tracks: PLAY, Each Other and Hot (thanks Sukigu) (Last update: 13 June 2019)
+> Complete collection of all official Rocket League tracks on Spotify! [UPDATED] Added &quot;Radical Summer&quot; tracks (Last update: 13 August 2019)
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,3 +84,13 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 76 | [Wishes](https://open.spotify.com/track/4H1FdAyWZBNzwcHFQYeGy6) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Wishes](https://open.spotify.com/album/0y58xcvf2s44yo7ETPyfpa) | 4:01 |
 | 77 | [No Fear Anymore](https://open.spotify.com/track/0vAXgfcS2hMaml2hAS1lgm) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [No Fear Anymore](https://open.spotify.com/album/4E1pzyWvQTgHieT2pyrPrS) | 3:22 |
 | 78 | [Sundance](https://open.spotify.com/track/7FO2nKenGD27Eo95h2Eks9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Heartful](https://open.spotify.com/artist/0rSrqbsuGkhgPrg7jqk7Kk) | [Sundance](https://open.spotify.com/album/3i79o60w7LVAfonuiZPzaH) | 3:13 |
+| 79 | [Amnesia](https://open.spotify.com/track/6jokFmRmdTrvlcQoga5Zx8) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Amnesia](https://open.spotify.com/album/6BnF0sftbRFCA2ScV6WENg) | 3:45 |
+| 80 | [Playing with the Boys - From "Top Gun" Original Soundtrack](https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Top Gun - Motion Picture Soundtrack (Special Expanded Edition)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:59 |
+| 81 | [Mirai Sekai Pt.3: Aeon Metropolis](https://open.spotify.com/track/69GM8yiK14d9VwmHfEJha8) | [7 Minutes Dead](https://open.spotify.com/artist/6MXp12IK29WvwsSbj5j49p), [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [Mirai Sekai](https://open.spotify.com/album/6xQxSnemCtXtQg6Q4yV3aW) | 3:55 |
+| 82 | [If I Could](https://open.spotify.com/track/7CJszP8UJJJ2LbUOdwdvjI) | [Tut Tut Child](https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3), [Beth Cole](https://open.spotify.com/artist/6nsig1J2LF9B2tsX9XDH7X) | [If I Could](https://open.spotify.com/album/7yibZaRsGVKgDoIPFkWyf7) | 3:15 |
+| 83 | [Dads in Space](https://open.spotify.com/track/68ahXxPJrxcEvQFjRmC2ja) | [Stephen Walking](https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL) | [Dads in Space](https://open.spotify.com/album/3DRdLCQwOggCqImHwlv7Cp) | 4:09 |
+| 84 | [Neon](https://open.spotify.com/track/59dMdGzQddUIRhBMCnBHDh) | [Televisor](https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC) | [Neon](https://open.spotify.com/album/0t0jgCVHLUBRjzy9sl471a) | 4:15 |
+| 85 | [Hang Up](https://open.spotify.com/track/1F65NjLm6OQIpuiwGMAdBf) | [WRLD](https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co), [Savoi](https://open.spotify.com/artist/4dRRQxDsUXpBkGqjS7vNcO) | [Hang Up](https://open.spotify.com/album/7x9Hnrw4bR0ML53r6BotLW) | 3:19 |
+| 86 | [Let's Talk](https://open.spotify.com/track/6n4K23HLzKb1SXxfhyFEks) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Let's Talk](https://open.spotify.com/album/4Lb2JtUYcZRQdX8eDjXjxX) | 3:50 |
+| 87 | [Carissa](https://open.spotify.com/track/2kFY2mvtu8CdcSp8gkcPZY) | [DESERT STAR](https://open.spotify.com/artist/6OMzm6m3FqYxpnnYTWHJGO) | [Carissa](https://open.spotify.com/album/7kM93po7SUwOAmZCBLe8WI) | 2:25 |
+| 88 | [Playing with the Boys](https://open.spotify.com/track/6BiLeZhIlsJpTyIQMhV8W2) | [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp), [Alli Simms](https://open.spotify.com/artist/7AVLzENiGAeB0Fc9nm8pjB) | [Playing with the Boys](https://open.spotify.com/album/2MuePTE0B8jaiKrBINK5f1) | 3:28 |
