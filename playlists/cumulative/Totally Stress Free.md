@@ -6,9 +6,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [(What A) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2019-08-12 | 2019-08-13 |
+| [(What A) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2019-08-12 |  |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2019-07-29 |  |
-| [Absolutely](https://open.spotify.com/track/5kjaMjkQxkJYZiDSIbuIF8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Absolutely](https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be) | 3:46 | 2019-07-29 |  |
+| [Absolutely](https://open.spotify.com/track/5kjaMjkQxkJYZiDSIbuIF8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Absolutely](https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be) | 3:46 | 2019-07-29 | 2019-08-15 |
 | [Ain't No Reason](https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [The Definitive Collection](https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF) | 3:37 | 2019-07-29 |  |
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head and the Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2019-07-29 |  |
 | [Anywhere](https://open.spotify.com/track/1zxZ8lz2mJspMvRrEd9sWT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Anywhere](https://open.spotify.com/album/7sQOtKcwp36OEtA14XhoRS) | 3:36 | 2019-07-29 |  |
