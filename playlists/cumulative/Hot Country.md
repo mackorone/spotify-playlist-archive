@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Noah Schnacky
+> Today's top country hits of the week, worldwide!  Cover: Tenille Townes
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Good as You](https://open.spotify.com/track/0y4CZzUZKjays43Cw0AtRs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You](https://open.spotify.com/album/3MRoYlIQMPXc37Rmg3p2es) | 3:12 | 2019-05-26 |  |
 | [Good Vibes](https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Good Vibes](https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett) | 2:45 | 2019-05-26 |  |
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 |  |
+| [Hell Right (feat. Trace Adkins)](https://open.spotify.com/track/3y8xKFhQWc8DARB3fuGMGA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Hell Right (feat. Trace Adkins)](https://open.spotify.com/album/48YMXYbvuTk4iY7MhZY3ML) | 3:27 | 2019-08-16 |  |
 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 | 2019-05-26 | 2019-06-15 |
 | [Home With Her](https://open.spotify.com/track/2cxU72H3CkiHJKiJhOj1Rm) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [Home With Her](https://open.spotify.com/album/5kgTIWW6pk1nUfFSyVViQl) | 2:59 | 2019-05-26 | 2019-06-15 |
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2019-05-26 |  |

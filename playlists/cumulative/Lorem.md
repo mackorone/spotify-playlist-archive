@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Don't: overthink it. Do: channel BENEE energy.
+> It's Lorem, honeypie. Feat. Johnny "Smiles" Utah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,14 @@
 | [Cause and Effect](https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm), [Brian Austin](https://open.spotify.com/artist/460LpXD2aDD0WHZhwpiymj) | [Earth Boy](https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb) | 3:24 | 2019-08-10 |  |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30 |  |
 | [Charlie](https://open.spotify.com/track/5Z69nqYhcktzSRDIBA9JvS) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj) | 3:10 | 2019-08-08 |  |
+| [Chateau (Feel Alright)](https://open.spotify.com/track/1XzP1wolujnXlgoB2Lbwy7) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Chateau (Feel Alright)](https://open.spotify.com/album/0KcGPqyQgkOVdczWnwJYUn) | 4:32 | 2019-08-16 |  |
 | [Checkmate](https://open.spotify.com/track/4GjWnMNMN2EO76juYs9iWK) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Checkmate](https://open.spotify.com/album/1whYW4OYxETBT5IWzLzdq6) | 2:28 | 2019-07-30 | 2019-08-08 |
 | [Closer To You](https://open.spotify.com/track/6ZuQAppmSEQ9IrDhDU8RM6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Closer To You](https://open.spotify.com/album/5kMTiIhVQDKlvb9AMT4ZLC) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Clovers](https://open.spotify.com/track/3KCFmeudK7tTzshjxDl6m4) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Clovers](https://open.spotify.com/album/6n3JvVTmEAUS6uM33ZwLfq) | 4:14 | 2019-07-30 |  |
 | [Coke & Henny Pt. 2](https://open.spotify.com/track/1gBn3RRt2jPquDW6AhHJrs) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/04AgepNbaInpCwPDV2MjDc) | 2:37 | 2019-07-30 |  |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2019-07-30 |  |
 | [comethru (with Bea Miller)](https://open.spotify.com/track/0PgYPBGqF6Wm5KFHQ81nq5) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [comethru](https://open.spotify.com/album/10Dr3GO6OzrOwJwoY11IoH) | 3:01 | 2019-07-30 |  |
+| [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 | 2019-08-16 |  |
 | [Crazy For Your Love](https://open.spotify.com/track/1AyzJorHtj08PHX3vD3wto) | [Johnny Utah](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/7s8ErTFhlpVRuRSlnDA7HQ) | 2:21 | 2019-08-08 |  |
 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 | 2019-07-30 |  |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30 |  |
@@ -98,11 +100,13 @@
 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 | 2019-07-30 |  |
 | [Meateater](https://open.spotify.com/track/3XFhMmD4GzRQ53EwVo7TCv) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [Meateater](https://open.spotify.com/album/1zaQmOagLkyMl5O3IFgeUu) | 4:22 | 2019-07-30 |  |
 | [minimal](https://open.spotify.com/track/28sNP4vXS6EtFr2VKPhCTQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [minimal](https://open.spotify.com/album/0Y6gjR6DUAx8K2IRbaWT0p) | 2:43 | 2019-07-30 |  |
+| [Miss You](https://open.spotify.com/track/0ntgJ7SC3V9XGDGBhPeoqj) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Miss You](https://open.spotify.com/album/1QoodoyEWytO0IVGCbEt69) | 2:25 | 2019-08-16 |  |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2019-07-30 |  |
 | [Moi](https://open.spotify.com/track/22B3g2WSeEFcIH6ieZ0SKz) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 3:12 | 2019-07-30 |  |
 | [Narcissist (feat. The 1975)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2019-07-30 |  |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-07-30 |  |
 | [Never Cared](https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Never Cared](https://open.spotify.com/album/6TePe3YzQ6I3neT2vuUaRT) | 3:24 | 2019-07-30 |  |
+| [New Money](https://open.spotify.com/track/5nmE1iF4KtmvbIBUHG1TZ1) | [Brent de la Cruz](https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD) | [New Money](https://open.spotify.com/album/1G0h2tBZj0SBnQPzG1eBH1) | 2:54 | 2019-08-16 |  |
 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 | 2019-07-30 |  |
 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2019-08-02 |  |
 | [North$ide](https://open.spotify.com/track/5xnfwfoi4zIUYGYs2K6kBa) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/7goHUbhFSQZoee1jFdh5IT) | 2:41 | 2019-07-30 |  |
@@ -154,6 +158,7 @@
 | [Today (feat. Teo Halm)](https://open.spotify.com/track/1fZeK4F1yZkVrEOb9ILaax) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Teo Halm](https://open.spotify.com/artist/4c2Fb5kfVRzodXZvitxnWk) | [Today (feat. Teo Halm)](https://open.spotify.com/album/7AF0DByCKnu9JhItQPMRkK) | 3:14 | 2019-07-30 |  |
 | [Tokyo](https://open.spotify.com/track/14NWHFVIYDXGkQDGQOuFHQ) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/1IpaSxwo3XeClRCTGjfxjP) | 2:56 | 2019-07-30 |  |
 | [Toothache](https://open.spotify.com/track/5Fh66E0Z0rCOc5aERgY8I6) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Toothache](https://open.spotify.com/album/05hcgffjnTMd4hQXYTOGqK) | 4:54 | 2019-08-02 |  |
+| [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 | 2019-08-16 |  |
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 |  |
 | [Video (feat. Mallrat)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 |  |

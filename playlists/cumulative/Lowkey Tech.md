@@ -7,7 +7,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anamorphosis](https://open.spotify.com/track/6YpjCW7Z9f4hqRGA7bXNX7) | [Darin Epsilon](https://open.spotify.com/artist/5cZJeB9HaMDDK96ik3UYdu), [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Penrose Lullaby EP](https://open.spotify.com/album/3vBzleUz7BYPjZ6VZzEvte) | 6:52 | 2019-08-06 |  |
-| [Anela](https://open.spotify.com/track/5rCiW9SxiexqstBZXPLXyQ) | [Rey & Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Anela](https://open.spotify.com/album/6HsLLJb23YKIokQFg1ZIts) | 7:05 | 2019-08-06 |  |
+| [Anela](https://open.spotify.com/track/5rCiW9SxiexqstBZXPLXyQ) | [Rey & Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Anela](https://open.spotify.com/album/6HsLLJb23YKIokQFg1ZIts) | 7:05 | 2019-08-06 | 2019-08-16 |
+| [Anela](https://open.spotify.com/track/5rCiW9SxiexqstBZXPLXyQ) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Anela](https://open.spotify.com/album/6HsLLJb23YKIokQFg1ZIts) | 7:05 | 2019-08-16 |  |
 | [Aquiver - Original Mix](https://open.spotify.com/track/4MpYL0NBKcz41y2TW3UCW8) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Aquiver](https://open.spotify.com/album/6LTsdvwET8zWDYTOzr4ivR) | 6:02 | 2019-08-06 | 2019-08-08 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06 |  |
 | [Assaya - Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06 | 2019-08-15 |
