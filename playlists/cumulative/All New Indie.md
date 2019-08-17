@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks. This week highlighting Sleater Kinney's new album "The Center Won't Hold".
+> The best new tracks. Now highlighting Sleater Kinney's new album "The Center Won't Hold".
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Pin It Down](https://open.spotify.com/track/6KRDAF8QCxLucdSfInMWjL) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Pin It Down](https://open.spotify.com/album/3f5IDdVoEkKyTLsXNJQ3UL) | 4:05 | 2019-05-26 | 2019-06-15 |
 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 | 2019-06-07 | 2019-07-26 |
 | [Pink & Blue](https://open.spotify.com/track/6yIF3vUglhELZ4AHZpBoH7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Pink & Blue](https://open.spotify.com/album/3FWq7iKDpo2ppTbtg5kZLi) | 4:19 | 2019-05-26 | 2019-06-15 |
+| [Pixel Affection](https://open.spotify.com/track/46IEYjzyS37lltLLCDJbC0) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Pixel Affection](https://open.spotify.com/album/6293U8X30osYTMXgFpVnub) | 3:39 | 2019-08-17 |  |
 | [Planet](https://open.spotify.com/track/481C93YjzSlcMdooK6xxNq) | [Simon Sea](https://open.spotify.com/artist/1jXIgi2b7VuOe1Y6yxLgJB), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Shift](https://open.spotify.com/album/5WlRPydbf3a32gffDr8q0y) | 3:00 | 2019-07-05 | 2019-07-26 |
 | [Playground](https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:33 | 2019-05-26 | 2019-06-28 |
 | [Poke - from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'](https://open.spotify.com/track/6U6ulQrWXZawrcVr6F1nVe) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Poke (from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight')](https://open.spotify.com/album/3A6T18gcg0tDBxOYfal8S3) | 5:06 | 2019-07-05 | 2019-07-20 |

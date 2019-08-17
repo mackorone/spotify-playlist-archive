@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: SiR
+> Genre-less. Quality first always. Cover: Clairo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [A Kiss Goodbye](https://open.spotify.com/track/3FsL491yGtc7Lwq1onHAsn) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [A Kiss Goodbye](https://open.spotify.com/album/3Zc4oDFwuIF662ORTa8WhD) | 3:24 | 2019-07-30 |  |
 | [ABC](https://open.spotify.com/track/1mazAW31oI50KA3YLB6UTZ) | [박혜진 park hye jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 4:02 | 2019-08-15 |  |
 | [All I Wanna Do](https://open.spotify.com/track/0SYu7wDS7dJSnuyn5GEDpp) | [Jakob Ogawa](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All I Wanna Do](https://open.spotify.com/album/1tuBQasTg0dXodLKgH0yiT) | 2:07 | 2019-07-30 |  |
+| [Amnesia (with Ari Lennox & Kiddominant)](https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kiddominant](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 3:35 | 2019-08-17 |  |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30 |  |
 | [As Tears Go By](https://open.spotify.com/track/2wZbRBClr67Qf56MgiwgBe) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [As Tears Go By](https://open.spotify.com/album/0Pg1LEI3c2P07h0I5yHAHY) | 3:31 | 2019-07-30 |  |
 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 | 2019-07-30 | 2019-08-09 |
@@ -109,6 +110,7 @@
 | [Queen Tings - Santi Remix](https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Santi](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Queen Tings (Santi Remix)](https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a) | 3:31 | 2019-08-15 |  |
 | [Quits](https://open.spotify.com/track/5XR4V6uo2NCLkke1DyOcPY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Quits](https://open.spotify.com/album/1O60vXLCoOznFweoATKZR8) | 2:32 | 2019-08-01 |  |
 | [Raw Dinner](https://open.spotify.com/track/2PyJgiGTC2jhNkqtPBwHsv) | [Santi](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:23 | 2019-07-30 |  |
+| [Raw Power](https://open.spotify.com/track/3vfYZXwb9BfjcXefiignTX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Moses](https://open.spotify.com/album/2hjwNhw4NYrEgcEHeAyEPj) | 4:30 | 2019-08-17 |  |
 | [REAL TRUTH (feat. Tkay Maidza)](https://open.spotify.com/track/5XMPoZWjH8Q90zpV2qE8h2) | [J-E-T-S](https://open.spotify.com/artist/3pOnPfJ9MReuu20YnLFRej), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jimmy Edgar](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [ZOOSPA](https://open.spotify.com/album/7K6E7lNcQ6KYhN1Oe6UJ1Y) | 3:03 | 2019-07-30 |  |
 | [Receipts (feat. Ty Dolla $ign)](https://open.spotify.com/track/1GcJVd8qhgYUtuHoTacLvy) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Receipts (feat. Ty Dolla $ign)](https://open.spotify.com/album/5BnurHSU3G23b1QLQoGKFD) | 2:59 | 2019-07-30 | 2019-08-16 |
 | [RESTORE THE FEELING](https://open.spotify.com/track/1GY1aODWhIPUmLNitZMgRL) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:34 | 2019-07-30 |  |
