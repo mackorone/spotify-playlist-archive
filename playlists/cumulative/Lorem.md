@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> It's Lorem, honeypie. Feat. Johnny "Smiles" Utah
+> give u 99 cents for your halo.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Evil Spider](https://open.spotify.com/track/0jeJE3TUJ5FrRuVLr7w4JQ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 2:33 | 2019-08-10 |  |
 | [Feb 14](https://open.spotify.com/track/4KiVBzH3BKhZ4Tni0Vw3N9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Feb 14](https://open.spotify.com/album/1VXhiLvi0VhRNUuSNf9PCz) | 4:33 | 2019-08-10 |  |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-07-30 |  |
+| [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 | 2019-08-23 |  |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2019-08-10 |  |
 | [Fever](https://open.spotify.com/track/4PjKEXp7y8XM6ELUpdpJCm) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:27 | 2019-07-30 |  |
 | [Flames (feat. Ruel)](https://open.spotify.com/track/0D1ZKHo1jI0gzOWZGhlyv3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames](https://open.spotify.com/album/4IK6iEL3DSjo5xMDlaBBeH) | 3:36 | 2019-07-30 |  |
@@ -75,6 +76,8 @@
 | [Honeypie](https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD) | [Johnny Utah](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Honeypie](https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ) | 2:15 | 2019-07-30 |  |
 | [HOT](https://open.spotify.com/track/06dciRLp3GUMCFYdTI603a) | [Dodgr](https://open.spotify.com/artist/752cAxYIwTUATnhPvbFNDx) | [HOT](https://open.spotify.com/album/7cduqdMKgmbomPnQI3sQLu) | 3:10 | 2019-07-30 |  |
 | [I Always Wanna Die (Sometimes)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30 | 2019-08-08 |
+| [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-08-23 |  |
+| [I Don’t Think I Can Do This Again (with Clairo)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2019-08-23 |  |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2019-07-30 |  |
 | [I'm Your Dog](https://open.spotify.com/track/3jSJoKiJ0rxOf3sM60Iat6) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Piano](https://open.spotify.com/album/5frL9kThqoY2hDXyoJ3nhX) | 3:03 | 2019-08-08 | 2019-08-21 |
 | [I'm Yours](https://open.spotify.com/track/4zMx72lMg0PytbVzTwd0Oe) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [I'm Yours](https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w) | 3:54 | 2019-07-30 |  |
@@ -86,6 +89,7 @@
 | [Joyride](https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Joyride](https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb) | 3:32 | 2019-07-30 |  |
 | [Just The Same](https://open.spotify.com/track/3xPZKgZeIPb8vHa1UJH5Rz) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Just The Same](https://open.spotify.com/album/4ZgdrGE9KAeSz2V6HxDssx) | 3:31 | 2019-08-08 |  |
 | [Kalmia Kid](https://open.spotify.com/track/6w3qUOipi7ir0f0VIsRYk4) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kalmia Kid](https://open.spotify.com/album/5tNXc449ptRyAl1TsT8ONX) | 3:59 | 2019-07-30 |  |
+| [Keep It Gold](https://open.spotify.com/track/2yUx1yDodVaZ7owq8JomOZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Keep It Gold](https://open.spotify.com/album/2ozgdpIsNasVUj6tY7Sn5S) | 4:13 | 2019-08-23 |  |
 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 | 2019-08-10 |  |
 | [Lately](https://open.spotify.com/track/6K1fLqDS1ntEEQ1HtjeZxW) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [The Slow Rage](https://open.spotify.com/album/2Nfb9ehRWJi7sHjKVcbfIP) | 3:40 | 2019-08-02 | 2019-08-04 |
 | [Lately](https://open.spotify.com/track/6K1fLqDS1ntEEQ1HtjeZxW) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [the Slow Rage Project](https://open.spotify.com/album/2Nfb9ehRWJi7sHjKVcbfIP) | 3:40 | 2019-08-04 |  |
@@ -107,6 +111,7 @@
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-07-30 |  |
 | [Never Cared](https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Never Cared](https://open.spotify.com/album/6TePe3YzQ6I3neT2vuUaRT) | 3:24 | 2019-07-30 |  |
 | [New Money](https://open.spotify.com/track/5nmE1iF4KtmvbIBUHG1TZ1) | [Brent de la Cruz](https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD) | [New Money](https://open.spotify.com/album/1G0h2tBZj0SBnQPzG1eBH1) | 2:54 | 2019-08-16 |  |
+| [NO HALO](https://open.spotify.com/track/4fGCNoJqk6Khe6YTRxwMC6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [NO HALO](https://open.spotify.com/album/1dDce0qvYA4ewr8pJMBmA5) | 4:19 | 2019-08-23 |  |
 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 | 2019-07-30 |  |
 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2019-08-02 |  |
 | [North$ide](https://open.spotify.com/track/5xnfwfoi4zIUYGYs2K6kBa) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Tomboy](https://open.spotify.com/album/7goHUbhFSQZoee1jFdh5IT) | 2:41 | 2019-07-30 |  |
@@ -131,6 +136,7 @@
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2019-08-02 |  |
 | [Sad](https://open.spotify.com/track/5Ybp65SomeSJEj8xmUARdA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Sad](https://open.spotify.com/album/35aISWjjpmBH3K1zZ8ZTYP) | 2:43 | 2019-07-30 |  |
 | [seasonal depression](https://open.spotify.com/track/1Y73t3XDuAVNjO3tZiBt1p) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade (seasonal depression / prom dress / high & dry)](https://open.spotify.com/album/2THfUbzm3i4P8NNZgylHj3) | 2:36 | 2019-07-30 | 2019-08-10 |
+| [She Plays Bass](https://open.spotify.com/track/3HsISqx1yY7IFQZzzgZrKD) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/1M3PMTh90ShsJfQ1AfHbGH) | 3:27 | 2019-08-23 |  |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 |  |
 | [Sofia](https://open.spotify.com/track/52uTp5TrlfPrtgiUdIhkbU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sofia](https://open.spotify.com/album/7JX98HsEi7hCH0vmfT7s2K) | 3:08 | 2019-07-30 |  |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 | 2019-08-20 |
@@ -162,6 +168,7 @@
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 |  |
 | [Video (feat. Mallrat)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2019-08-21 |
+| [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-23 |  |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2019-07-30 | 2019-08-02 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2019-07-30 |  |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2019-07-30 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Tenille Townes
+> Today's top country hits of the week, worldwide!  Cover: Vince Gill
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
