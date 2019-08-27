@@ -2,7 +2,7 @@
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With Jon Bellion, AJR, fun. and more
+> With Bastille, YUNGBLUD, Foster The People and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
