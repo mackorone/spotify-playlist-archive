@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> give u 99 cents for your halo.
+> BROCKHAMPTON enters the world of LOREM
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,10 @@
 | [Lately](https://open.spotify.com/track/6K1fLqDS1ntEEQ1HtjeZxW) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [The Slow Rage](https://open.spotify.com/album/2Nfb9ehRWJi7sHjKVcbfIP) | 3:40 | 2019-08-02 | 2019-08-04 |
 | [Lately](https://open.spotify.com/track/6K1fLqDS1ntEEQ1HtjeZxW) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [the Slow Rage Project](https://open.spotify.com/album/2Nfb9ehRWJi7sHjKVcbfIP) | 3:40 | 2019-08-04 |  |
 | [Little Lies](https://open.spotify.com/track/6QpZXzHcOgXK41Y3YCx203) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:40 | 2019-07-30 |  |
-| [Losing You](https://open.spotify.com/track/7wCN8IwqrTQpwkcWH5sP4o) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/50kvbvxJnx4YeSiNvABNqB) | 4:20 | 2019-07-30 |  |
+| [Losing You](https://open.spotify.com/track/7wCN8IwqrTQpwkcWH5sP4o) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/50kvbvxJnx4YeSiNvABNqB) | 4:20 | 2019-07-30 | 2019-08-27 |
 | [Loud Places](https://open.spotify.com/track/2JQm8NNpFkwvhuKH3yhuC9) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/01uabHpYa9AA55wc6AwRQL) | 4:43 | 2019-08-15 | 2019-08-21 |
 | [Lovers - Jim-E Stack Remix](https://open.spotify.com/track/0pDzACzX33WjIBr8eu9B7l) | [Anna Of The North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Lovers (Jim-E Stack Remix)](https://open.spotify.com/album/1iEtnOwrcCSzenB5PuFeQe) | 3:39 | 2019-07-30 | 2019-08-15 |
-| [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 | 2019-07-30 |  |
+| [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 | 2019-07-30 | 2019-08-27 |
 | [Lucy](https://open.spotify.com/track/0nXyCNdS6fkZNP11DwGq1i) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/5hM5ssh6iYFAQSPerkaWbx) | 2:22 | 2019-07-30 |  |
 | [MALAMENTE - Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2019-07-30 | 2019-08-08 |
 | [Marlboro Nights](https://open.spotify.com/track/7mX1juiy9zR3MM2K39Sa7r) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/7ueKMDjY7NMf2gAIW3niqK) | 1:08 | 2019-08-02 |  |
