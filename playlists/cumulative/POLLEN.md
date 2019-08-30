@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Vince Staples
+> Genre-less. Quality first always. Cover: SiR
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Lest We Forget (blood)](https://open.spotify.com/track/37ciJ6v707yCYqfUWjUTpq) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Lest We Forget (blood)](https://open.spotify.com/album/0lOEC7skfjNSuqOEaJOj6r) | 5:16 | 2019-07-30 | 2019-08-09 |
 | [Lovestained](https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx) | 2:55 | 2019-07-30 |  |
 | [Magic Loop](https://open.spotify.com/track/268QdafLK67UZrGLuU1Yzw) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Magic Loop](https://open.spotify.com/album/6Hf6waAeu2HqDc8fHLRaBz) | 2:36 | 2019-07-30 | 2019-08-09 |
+| [Mood (feat. Zacari)](https://open.spotify.com/track/4eULGB0zI7NIdV2KjWbbiZ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:11 | 2019-08-30 |  |
 | [Mortal Kombat](https://open.spotify.com/track/2NNPnxOunTgqFNlCrG4jcQ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [You Can't Sit With Us](https://open.spotify.com/album/3LGXijbrTyP8I6W1mEb5Sl) | 3:31 | 2019-07-30 |  |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2019-08-06 | 2019-08-23 |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Nija](https://open.spotify.com/artist/2X6HwtMk1Za9PdPc7XHne5), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2019-07-30 | 2019-08-06 |
@@ -113,6 +114,7 @@
 | [ON THE RUN](https://open.spotify.com/track/2urQEPkvz0ISpmqrKoSvwA) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [RESET](https://open.spotify.com/album/0mHKBmV2f0y9A9jUmQtCMa) | 4:13 | 2019-07-30 |  |
 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 | 2019-07-30 |  |
 | [OPEN UP](https://open.spotify.com/track/4QTwWQDW89udp0JDO2lmPI) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 4:26 | 2019-07-30 |  |
+| [outta my mind](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [outta my mind](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:45 | 2019-08-30 |  |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2019-07-30 |  |
 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 | 2019-07-30 | 2019-08-16 |
 | [Playground](https://open.spotify.com/track/2fQNhjH4HIX5uGvY7Z6Oac) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Playground](https://open.spotify.com/album/6aV17muYs2vdioZLRfHOCP) | 3:33 | 2019-07-30 | 2019-08-01 |
@@ -164,5 +166,6 @@
 | [Yada Yada](https://open.spotify.com/track/13UTQPeYjMFgalnk6rQ8sM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:27 | 2019-07-30 |  |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2019-07-30 |  |
 | [You and I](https://open.spotify.com/track/1oQW9ELulouzVKoeqXmkJv) | [Jakob Ogawa](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [You and I](https://open.spotify.com/album/5BVFFgiP5bYZxjtlvPWD4w) | 2:42 | 2019-08-23 |  |
+| [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 | 2019-08-30 |  |
 | [Álom](https://open.spotify.com/track/2yGif5vdTFISbpFvPLmOqM) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Supervillain](https://open.spotify.com/album/3LHbQ672nttiCLx9g0ZnaF) | 4:18 | 2019-07-30 |  |
 | [Каракум](https://open.spotify.com/track/1mMtStyvVCK69OLNVF17EN) | [Grebz](https://open.spotify.com/artist/7yNqUSyJGymfJQghNU0zcH) | [Каракум](https://open.spotify.com/album/5o3mHQRSScB1JqfgBp3mD5) | 2:29 | 2019-08-14 |  |
