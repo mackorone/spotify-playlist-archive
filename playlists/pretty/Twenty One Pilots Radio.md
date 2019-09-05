@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With Cage The Elephant, Panic! At The Disco, fun. and more
+> With lovelytheband, EDEN, X Ambassadors and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
