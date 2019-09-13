@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Ali Gatie
+> Let your mind float away with these down-tempo low key tracks. Cover: Hopium
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cold Summer](https://open.spotify.com/track/19itjIyWlRC8tzjRoHrsY2) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Cold Summer](https://open.spotify.com/album/0Muy06qfQDJet1xcZXnIzE) | 2:53 | 2019-08-27 |  |
 | [Compromise (feat. Sabrina Claudio)](https://open.spotify.com/track/4knQ536ymVE6WJTlmTlISw) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Compromise (feat. Sabrina Claudio)](https://open.spotify.com/album/5sTglsazSFT2Wkvc7cbKdA) | 3:05 | 2019-09-06 |  |
 | [Conversations (With The Moon)](https://open.spotify.com/track/5L60Ewkf3Y7kT3oUUrQXq3) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Conversations (With The Moon) / Teenage Queen](https://open.spotify.com/album/1BCueNgOUTd6JLItGy0BBP) | 4:09 | 2019-08-27 |  |
+| [Crazy Ones](https://open.spotify.com/track/0jpb1OpjPANsRw8qTl0SuN) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF) | [Imperfectionism](https://open.spotify.com/album/2MlDavWJj9lVMmrb8szvRV) | 3:45 | 2019-09-13 |  |
 | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-08-27 |  |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27 |  |
 | [Didn't Break It Enough](https://open.spotify.com/track/7zAPuRyZGRLPSGNnaj1H7X) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Didn't Break It Enough](https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v) | 3:01 | 2019-08-31 |  |
