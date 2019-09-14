@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10/10](https://open.spotify.com/track/0tByDZgQzoNfFFmpgleB0s) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [10/10](https://open.spotify.com/album/1dIQCUmv1flCLWByivrbxQ) | 2:26 | 2019-09-14 |  |
 | [101 FM](https://open.spotify.com/track/4Vk4Yf7pDmB1dxLFSTjBUH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:11 | 2019-07-30 |  |
 | [A Kiss Goodbye](https://open.spotify.com/track/3FsL491yGtc7Lwq1onHAsn) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [A Kiss Goodbye](https://open.spotify.com/album/3Zc4oDFwuIF662ORTa8WhD) | 3:24 | 2019-07-30 |  |
 | [ABC](https://open.spotify.com/track/1mazAW31oI50KA3YLB6UTZ) | [박혜진 park hye jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 4:02 | 2019-08-15 |  |
