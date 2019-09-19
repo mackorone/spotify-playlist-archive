@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: FKA Twigs
+> Genre-less. Quality first always. Cover: JPEGMAFIA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Applaud](https://open.spotify.com/track/1pUBvxyXFQLz3GQN04PqbQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Hirakish](https://open.spotify.com/artist/1MuO6J6qain9slSqppZp2R), [Napolian](https://open.spotify.com/artist/420VlYgk63HbGyGddUNrDw), [ANTHEM](https://open.spotify.com/artist/3StjWvSpji3Ho1tmehMWUd) | [Applaud](https://open.spotify.com/album/2GuJVTiPxWoYy9LiDo7oGy) | 3:18 | 2019-09-11 |  |
 | [As Tears Go By](https://open.spotify.com/track/2wZbRBClr67Qf56MgiwgBe) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [As Tears Go By](https://open.spotify.com/album/0Pg1LEI3c2P07h0I5yHAHY) | 3:31 | 2019-07-30 |  |
 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 | 2019-07-30 | 2019-08-09 |
+| [Ayayai](https://open.spotify.com/track/5mNqz2m3qWWKKiQcvYrKP2) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Ayayai](https://open.spotify.com/album/67IhJtRigeH1BHBu2WXLKX) | 2:50 | 2019-09-19 |  |
 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 | 2019-08-29 |  |
 | [Backyard](https://open.spotify.com/track/4wcOo3mJXC7sh0iULJsW6K) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 3:26 | 2019-07-30 |  |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-07-30 | 2019-09-13 |
@@ -35,6 +36,7 @@
 | [BOY BYE](https://open.spotify.com/track/0VqC8QZDK6mkEmfcwX77Xe) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [BOY BYE](https://open.spotify.com/album/4lRiXGum7cZNDDFLebNjoj) | 2:22 | 2019-08-16 |  |
 | [Broke (feat. JID)](https://open.spotify.com/track/3UqLP9Cq1DNryqu9scjak0) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:02 | 2019-07-30 |  |
 | [Business Solutions](https://open.spotify.com/track/6RCab4XVZFoZIStoxprh0T) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/4MGmFIXS3InN07DKQ1atSQ) | 3:40 | 2019-07-30 |  |
+| [Buying Time](https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Buying Time](https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3) | 3:56 | 2019-09-19 |  |
 | [California](https://open.spotify.com/track/5PkbwsMnquhC7lmYyc3hwr) | [Dessert](https://open.spotify.com/artist/4eyOcSpV6ZpV1NjdhqVfUz) | [Dessert](https://open.spotify.com/album/5DcqjkDNT2gfTUVu15u7co) | 3:35 | 2019-07-30 |  |
 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 | 2019-07-30 |  |
 | [Chimes (Radio Edit)](https://open.spotify.com/track/0Llje2NhQN62sqZbwiVv1E) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Chimes](https://open.spotify.com/album/6sRGBbJXVA9duLDDz46zYy) | 3:48 | 2019-08-24 | 2019-08-28 |
