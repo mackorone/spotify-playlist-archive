@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Cover: Roy Blair
+> Music that breaks the rules, just a little bit. Cover: UMI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Babydoll](https://open.spotify.com/track/1SocftHhtuqF7k83eUhHiz) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 1:37 | 2019-07-30 |  |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2019-07-30 | 2019-09-06 |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2019-09-06 |  |
-| [Bad Ideas (Lo Fi)](https://open.spotify.com/track/2pmx0cj7tZJ9sfFzTpfhhG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas (Act One)](https://open.spotify.com/album/5LnH05u071nA1KbVsTFwna) | 3:16 | 2019-08-08 |  |
+| [Bad Ideas (Lo Fi)](https://open.spotify.com/track/2pmx0cj7tZJ9sfFzTpfhhG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas (Act One)](https://open.spotify.com/album/5LnH05u071nA1KbVsTFwna) | 3:16 | 2019-08-08 | 2019-09-20 |
 | [Bad Luck](https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:51 | 2019-07-30 |  |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-07-30 | 2019-08-30 |
 | [Be Mine](https://open.spotify.com/track/2x4LhG3gcVGIK5zuKl5bTJ) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Be Mine](https://open.spotify.com/album/50rsI8t9MW4gPwZHJhh8Ax) | 3:40 | 2019-08-02 | 2019-08-08 |
@@ -32,6 +32,8 @@
 | [blame game](https://open.spotify.com/track/1bkrJ0NmKUzFJzdYNeYDMM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade (IV)](https://open.spotify.com/album/4NkWJ6ZA8Ijo5Hmd4vwvGE) | 3:29 | 2019-08-10 |  |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30 | 2019-08-15 |
 | [blue skies](https://open.spotify.com/track/7duh8jJuNZbWQjoTx2GsDz) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [blue skies](https://open.spotify.com/album/4ZDKZJpwxWeMZ1IhCPDb0R) | 2:08 | 2019-09-14 |  |
+| [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2019-09-20 |  |
+| [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2019-09-20 |  |
 | [Caffeine](https://open.spotify.com/track/0wEPue9rjGWgvRYNgvsUfw) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 2:39 | 2019-07-30 |  |
 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 | 2019-07-30 | 2019-08-02 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-08-02 |  |
@@ -52,6 +54,7 @@
 | [Comfort Crowd](https://open.spotify.com/track/48Kszfw1hinlKdMrnE85sg) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Comfort Crowd](https://open.spotify.com/album/6WTXcblKHvnTAfVbqXLmoA) | 2:54 | 2019-09-06 |  |
 | [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 | 2019-08-16 |  |
 | [Crazy For Your Love](https://open.spotify.com/track/1AyzJorHtj08PHX3vD3wto) | [Johnny Utah](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/7s8ErTFhlpVRuRSlnDA7HQ) | 2:21 | 2019-08-08 |  |
+| [Crush](https://open.spotify.com/track/6q7Tz67loOULIPEXo941hk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Crush](https://open.spotify.com/album/6YCCXSCAnh4Ppzs8Hv3xXd) | 3:36 | 2019-09-20 |  |
 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 | 2019-07-30 | 2019-09-06 |
 | [Dark Circles](https://open.spotify.com/track/7LQFY6GJK7stOTtxXTGI01) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dark Circles](https://open.spotify.com/album/4SbGpU9MDHlx7yoL4UTnWj) | 4:40 | 2019-09-06 |  |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30 |  |
@@ -59,6 +62,7 @@
 | [Dirty AF1s](https://open.spotify.com/track/6fFSDDBO5Gc9Y2i2CA8vZI) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Dirty AF1s](https://open.spotify.com/album/7kmC7MX2wr5FvAqUrcQqsU) | 2:17 | 2019-07-30 | 2019-08-08 |
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-07-30 |  |
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30 |  |
+| [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2019-09-20 |  |
 | [Dream Girl](https://open.spotify.com/track/5o8MOv8SklXbuG1SBoVTW1) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/73EifYmZORyOCz1l48cGfi) | 2:31 | 2019-09-06 |  |
 | [dream of you](https://open.spotify.com/track/3wD72WGM0lrtvxHbSYD1pd) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade (V)](https://open.spotify.com/album/1LkhQ9qt2nLIKqAWNsS6Mm) | 3:54 | 2019-08-30 |  |
 | [Earth](https://open.spotify.com/track/3Dvq01GbtvhYKHUOaQkdwZ) | [Easy Life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Earth](https://open.spotify.com/album/2BorvQTryEDKebxHIWJTt2) | 3:06 | 2019-07-30 |  |
@@ -79,7 +83,9 @@
 | [Going Thru](https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Summer '17](https://open.spotify.com/album/25yeAS4H5ndooKc4yV4zEg) | 5:13 | 2019-07-30 | 2019-08-02 |
 | [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 | 2019-07-30 | 2019-08-24 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2019-07-30 |  |
+| [Grace](https://open.spotify.com/track/3o30X8AntmyFOmUedcfUXt) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:26 | 2019-09-20 |  |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2019-07-30 |  |
+| [Grow](https://open.spotify.com/track/7vn3J5Io100bjDdKaW4Aw2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Grow](https://open.spotify.com/album/1Wb2ObyFuJgxT3BwFFUbS6) | 3:44 | 2019-09-20 |  |
 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 | 2019-07-30 |  |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2019-08-02 | 2019-08-08 |
 | [Hey](https://open.spotify.com/track/0HyFrDIBBTVYXIr6IoLK0i) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:01 | 2019-07-30 |  |
@@ -125,6 +131,7 @@
 | [Moi](https://open.spotify.com/track/22B3g2WSeEFcIH6ieZ0SKz) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 3:12 | 2019-07-30 | 2019-09-06 |
 | [My Little](https://open.spotify.com/track/4E3U39bAmc61R0hZu2xciI) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Platinum Green](https://open.spotify.com/album/6NGcHGAivD8o52T3PTrqkt) | 2:02 | 2019-08-30 |  |
 | [Narcissist (feat. The 1975)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2019-07-30 |  |
+| [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2019-09-20 |  |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-07-30 |  |
 | [Never Cared](https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Never Cared](https://open.spotify.com/album/6TePe3YzQ6I3neT2vuUaRT) | 3:24 | 2019-07-30 |  |
 | [New Money](https://open.spotify.com/track/5nmE1iF4KtmvbIBUHG1TZ1) | [Brent de la Cruz](https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD) | [New Money](https://open.spotify.com/album/1G0h2tBZj0SBnQPzG1eBH1) | 2:54 | 2019-08-16 |  |
@@ -148,6 +155,8 @@
 | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/track/4JclCBySJNsUApnATXnhNS) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/album/7js7SzuPMf0qIJqnoLUoDz) | 2:35 | 2019-07-30 |  |
 | [Prom](https://open.spotify.com/track/5yvhdo8FXbBsIllxv2Rr94) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:16 | 2019-07-30 | 2019-08-30 |
 | [prom dress](https://open.spotify.com/track/0X3a2iLqyGMYi4g2WtUaXu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [prom dress](https://open.spotify.com/album/40MYtMNE9A0TOLGmAQ6nBb) | 3:17 | 2019-07-30 |  |
+| [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2019-09-20 |  |
+| [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 |  |
 | [Roi](https://open.spotify.com/track/5JBsL87pkYEqxR9ybfarfV) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Roi](https://open.spotify.com/album/1egOGiFQP2N9LYbO1VTneO) | 3:42 | 2019-07-30 |  |
 | [Rollin' Stone](https://open.spotify.com/track/4WEY5WHm0Kx1JW2v7OeR8i) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [Rollin' Stone](https://open.spotify.com/album/5mLH0FVn4BwyHAGzCxbWvz) | 3:14 | 2019-07-30 |  |
 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 | 2019-07-30 |  |
