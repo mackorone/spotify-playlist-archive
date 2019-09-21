@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks every week. Cover: Rex Soccer Mommy
+> The best new tracks every week. Cover: Soccer Mommy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [The greatest](https://open.spotify.com/track/13F2adrvrpaq2383GHh1Jl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Fuck it I love you / The greatest](https://open.spotify.com/album/0Zv6uLCDXAW4oG8cVvtG6c) | 5:00 | 2019-08-23 |  |
 | [The Hunger](https://open.spotify.com/track/7AaSbMyCeUxcGsvCmzmfEJ) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Hunger](https://open.spotify.com/album/12VmOUL6Ja2xjWQljhi1X9) | 4:59 | 2019-08-09 | 2019-08-30 |
 | [The Hunger](https://open.spotify.com/track/2C0dabnrjMUivUM3s8yT6K) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [The Hunger](https://open.spotify.com/album/4kWBMvjiCMEnPBieqtOTuN) | 3:45 | 2019-06-28 | 2019-07-26 |
+| [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 | 2019-09-21 |  |
 | [The Modern Leper - from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'](https://open.spotify.com/track/2D37cCBznTKpDASqUdM7sf) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [The Modern Leper (from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight')](https://open.spotify.com/album/0IBEH5uRvvkg6S9vlUtLNb) | 4:27 | 2019-06-21 | 2019-07-20 |
 | [The Morning](https://open.spotify.com/track/3z7gYVrPNJRIjsKsN5ID4j) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [The Morning](https://open.spotify.com/album/7HxQzaXJtW0XFx2DJXe7or) | 3:01 | 2019-09-20 |  |
 | [The Movies](https://open.spotify.com/track/7udFCyBobvVnbXkLAMzU96) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4), [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU), [William Corduroy](https://open.spotify.com/artist/7xRplBbf6mXxyN8oONkmRt) | [The Movies](https://open.spotify.com/album/7q8O9qlG61yOJyJKKhk9j6) | 2:21 | 2019-05-26 | 2019-06-28 |
