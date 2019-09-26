@@ -2,14 +2,14 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Stay in the know and ease into these recent hits and new songs!  Cover: Ed Sheeran
+> Stay in the know and ease into these recent hits and new songs!  Cover: SHAED & ZAYN
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 |
-| 2 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
-| 3 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
-| 4 | [Don't Give Up On Me - From "Five Feet Apart"](https://open.spotify.com/track/31Y7dmcZFeJsMKXtJNeQya) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Don't Give Up On Me (From "Five Feet Apart")](https://open.spotify.com/album/5r22FTAvs7prksQoHIEl7N) | 3:16 |
+| 1 | [Trampoline (with ZAYN)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline (with ZAYN)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 |
+| 2 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
+| 3 | [Don't Give Up On Me - From "Five Feet Apart"](https://open.spotify.com/track/31Y7dmcZFeJsMKXtJNeQya) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Don't Give Up On Me (From "Five Feet Apart")](https://open.spotify.com/album/5r22FTAvs7prksQoHIEl7N) | 3:16 |
+| 4 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
 | 5 | [Good As Hell](https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good As Hell](https://open.spotify.com/album/5PMpdvn38HScK6IuLniRep) | 2:39 |
 | 6 | [Beautiful People (feat. Khalid)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People (feat. Khalid)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 |
 | 7 | [Imperfections](https://open.spotify.com/track/2wXRIes2a5vPl5xbEHFlDt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Imperfections / Lying Down / Courage](https://open.spotify.com/album/2R6xyt5p0BA3Ggx72MyRXr) | 3:57 |

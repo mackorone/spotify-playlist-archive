@@ -2,7 +2,7 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Stay in the know and ease into these recent hits and new songs!  Cover: Ed Sheeran
+> Stay in the know and ease into these recent hits and new songs!  Cover: SHAED & ZAYN
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Too Much](https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:17 | 2019-05-26 | 2019-08-20 |
 | [Tough (feat. Noah Kahan)](https://open.spotify.com/track/5ZYkBb4UrdultbjwuBYmKF) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Road to Michigan (1-3)](https://open.spotify.com/album/7yPvPfAoMjTdmzyfdXx6Mt) | 2:58 | 2019-05-26 | 2019-06-15 |
 | [Town Ain't Big Enough](https://open.spotify.com/track/5DrmJ25aHuPBImk1kLp5Of) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Town Ain't Big Enough](https://open.spotify.com/album/3blwrJARQNnrhivBk8wRa7) | 2:51 | 2019-07-12 | 2019-08-20 |
-| [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 | 2019-08-20 |  |
+| [Trampoline (with ZAYN)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline (with ZAYN)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-09-26 |  |
+| [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 | 2019-08-20 | 2019-09-26 |
 | [Truth Hurts](https://open.spotify.com/track/5Qel1sTrU4LM8HlJSPT2jd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Truth Hurts](https://open.spotify.com/album/2L3ODMVHArfJGWglDH9ktx) | 2:53 | 2019-05-26 | 2019-06-21 |
 | [Unbelievable](https://open.spotify.com/track/3anNizayrIeuVv3Mb2KnIR) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Unbelievable](https://open.spotify.com/album/0XHhn6w5KGdsYCKGwpU1xj) | 3:09 | 2019-05-31 | 2019-08-23 |
 | [Unconditional](https://open.spotify.com/track/6IgGwkA5kXqFJkMYTFpBRX) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:17 | 2019-07-20 | 2019-08-20 |
