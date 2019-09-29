@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With lovelytheband, Foster The People, X Ambassadors and more
+> With lovelytheband, EDEN, My Chemical Romance and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
