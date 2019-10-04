@@ -2,10 +2,11 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Jon Pardi
+> Today's top country hits of the week, worldwide!  Cover: Maren Morris
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10,000 Hours (with Justin Bieber)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours (with Justin Bieber)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2019-10-04 |  |
 | [Alcohol You Later](https://open.spotify.com/track/16HAr3eu7TCbeJ0IOJLQxY) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Mitchell Tenpenny - EP](https://open.spotify.com/album/36Hros61c2dlrO3A5ZapaW) | 3:07 | 2019-05-26 | 2019-09-08 |
 | [All On You](https://open.spotify.com/track/6wmX0tZ4Dkzg32z1k9x4Y5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/09eDO7D2wqhuy1bMzfIpm9) | 3:10 | 2019-05-26 | 2019-06-22 |
 | [All To Myself](https://open.spotify.com/track/0uSGTaHms9ceAxb7L6VLrU) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [All To Myself](https://open.spotify.com/album/4l1uFciDagHkMtclb9xuj4) | 2:49 | 2019-05-26 |  |
