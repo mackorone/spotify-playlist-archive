@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Featuring mxmtoon
+> Music that breaks the rules, just a little bit. Featuring Peach Tree Rascals.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2019-09-06 | 2019-09-27 |
 | [Bad Ideas (Lo Fi)](https://open.spotify.com/track/2pmx0cj7tZJ9sfFzTpfhhG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas (Act One)](https://open.spotify.com/album/5LnH05u071nA1KbVsTFwna) | 3:16 | 2019-08-08 | 2019-09-20 |
 | [Bad Luck](https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:51 | 2019-07-30 |  |
-| [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-07-30 | 2019-08-30 |
+| [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-07-30 |  |
 | [Be Mine](https://open.spotify.com/track/2x4LhG3gcVGIK5zuKl5bTJ) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Be Mine](https://open.spotify.com/album/50rsI8t9MW4gPwZHJhh8Ax) | 3:40 | 2019-08-02 | 2019-08-08 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2019-07-30 |  |
 | [bellyache](https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:59 | 2019-07-30 | 2019-08-02 |
@@ -111,7 +111,7 @@
 | [I Could Be There](https://open.spotify.com/track/3zuHUxTaDx8cMEkMcahWpo) | [Sui Zhen](https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5) | [Losing, Linda](https://open.spotify.com/album/47ttODIl9f3jYOKELor47c) | 5:05 | 2019-09-27 | 2019-10-03 |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-08-23 |  |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2019-09-06 |  |
-| [I Don’t Think I Can Do This Again (with Clairo)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2019-08-23 |  |
+| [I Don’t Think I Can Do This Again (with Clairo)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2019-08-23 | 2019-10-17 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2019-07-30 | 2019-10-10 |
 | [I'm Your Dog](https://open.spotify.com/track/3jSJoKiJ0rxOf3sM60Iat6) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Piano](https://open.spotify.com/album/5frL9kThqoY2hDXyoJ3nhX) | 3:03 | 2019-08-08 | 2019-08-21 |
 | [I'm Yours](https://open.spotify.com/track/4zMx72lMg0PytbVzTwd0Oe) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [I'm Yours](https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w) | 3:54 | 2019-07-30 | 2019-10-10 |
@@ -198,6 +198,7 @@
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2019-07-30 |  |
 | [Something Has to Change](https://open.spotify.com/track/7LuM3Sd4C9X7OC1VmS20lE) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Something Has to Change](https://open.spotify.com/album/5Bzl8KUmOrlQmbDYFDqjaV) | 3:11 | 2019-10-03 |  |
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30 | 2019-10-11 |
+| [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2019-10-17 |  |
 | [Special](https://open.spotify.com/track/0wM1iycAaTB0BTWQa06POl) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Special](https://open.spotify.com/album/7r7bjZFZfU4owXBYBBlZJD) | 3:41 | 2019-10-11 |  |
 | [Staring At The Sun (feat. SZA)](https://open.spotify.com/track/2leIuE4fdcJoNMSKu5Yr7a) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:48 | 2019-09-06 | 2019-10-11 |
 | [Starsick](https://open.spotify.com/track/0YD3wNY2ZGrVWhCiV57TEd) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick](https://open.spotify.com/album/10GLPD6z3RF8rEhyFgaHoO) | 3:59 | 2019-07-30 | 2019-08-08 |
