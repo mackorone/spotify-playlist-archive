@@ -2,7 +2,7 @@
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With EDEN, My Chemical Romance, AJR and more
+> With Bastille, EDEN, Wallows and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
