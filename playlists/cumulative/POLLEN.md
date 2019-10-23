@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Rex Orange County
+> Genre-less. Quality first always. Cover: Frank Ocean
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 | 2019-07-30 |  |
 | [EARFQUAKE - Channel Tres Remix](https://open.spotify.com/track/6tgknDU0VMbXILuWixFKKn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [EARFQUAKE (Channel Tres Remix)](https://open.spotify.com/album/2gIJO0RLORaeRCT9G1E52V) | 3:48 | 2019-10-05 |  |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2019-07-30 |  |
+| [Earl Grey](https://open.spotify.com/track/0dG0uO4xRNOIE3cgypEpk1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Helvetica](https://open.spotify.com/album/2OKarMGot4dNyQ5rTtDr7l) | 2:51 | 2019-10-23 |  |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2019-07-30 |  |
 | [Eternal](https://open.spotify.com/track/5LeStoyvjAHpM52IYogOq0) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:03 | 2019-07-30 |  |
 | [Eternal Light](https://open.spotify.com/track/5NM8v7DOexgrrxefEnKR2V) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Eternal Light](https://open.spotify.com/album/3JSJyzppxZlGxoqawHFgbj) | 3:13 | 2019-10-16 |  |
@@ -209,6 +210,7 @@
 | [Solar Return](https://open.spotify.com/track/5av7NCtwaAsID0TJylcSD4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 3:56 | 2019-07-30 | 2019-08-23 |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2019-07-30 | 2019-09-05 |
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30 | 2019-10-10 |
+| [Sore Throat](https://open.spotify.com/track/0RIytgkROdfZLR87vkquo8) | [zack villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Sore Throat](https://open.spotify.com/album/3LVfHCrY81FRJBhgj8At35) | 2:01 | 2019-10-23 |  |
 | [Speedy Racerrrr](https://open.spotify.com/track/2Zaw4Q8TE8txMX4kv02aIn) | [Nathan Bajar](https://open.spotify.com/artist/0daIfyaenO89T2oFsr2vqc) | [Playroom](https://open.spotify.com/album/5WJEkg1Vu7perRsmpYQ8Cq) | 2:49 | 2019-07-30 | 2019-08-23 |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2019-07-30 | 2019-08-01 |
 | [Stop Selling Her Drugs (feat. Dominic Fike)](https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 2:53 | 2019-09-20 |  |
