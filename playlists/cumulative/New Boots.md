@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Artist: Canaan Smith
+> New Music Discovery is what we're about.  Try it on for size. Artist: HARDY
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
