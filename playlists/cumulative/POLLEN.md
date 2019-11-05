@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tame Impala
+> Genre-less. Quality first always. Cover: FKA twigs
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [DameLove (feat. Cuco)](https://open.spotify.com/track/50jNfTe68NRfCXsBdTgh5W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DameLove (feat. Cuco)](https://open.spotify.com/album/1i7LHFlyRmuwfRWlghFXlj) | 3:48 | 2019-07-30 | 2019-08-01 |
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2019-07-30 |  |
 | [Days Like This (feat. Khalid)](https://open.spotify.com/track/2qU9ro2FCa4WjFqTg1JFJP) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 2:48 | 2019-07-30 | 2019-11-02 |
-| [DHL](https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [DHL](https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF) | 4:28 | 2019-10-21 |  |
+| [DHL](https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [DHL](https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF) | 4:28 | 2019-10-21 | 2019-11-05 |
 | [Did You Feel Me Slip Away?](https://open.spotify.com/track/6f6dubfAZXqTCIdqtLkwH1) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Did You Feel Me Slip Away?](https://open.spotify.com/album/1xW3OVUdipGVWguhacSzEM) | 3:39 | 2019-07-30 | 2019-08-01 |
 | [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2019-09-27 |  |
 | [Dirty Laundry](https://open.spotify.com/track/0iAI4Nv50sU0LGRKmF555Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Dirty Laundry](https://open.spotify.com/album/44qTyEwDulRyxbQz3LtZvq) | 3:04 | 2019-09-06 | 2019-09-20 |
@@ -208,6 +208,7 @@
 | [Rufufus](https://open.spotify.com/track/5xAOPrDX2HqCDcNi60PNy3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Rufufus](https://open.spotify.com/album/0U9ixoDueDn8yb8wsAwmdF) | 2:46 | 2019-08-29 | 2019-09-24 |
 | [Runnin'](https://open.spotify.com/track/10x9aHDFGk5aSbvAVlwJA3) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Runnin’ feat. Yeek](https://open.spotify.com/album/0NXsAPcv3oEkCQx6bJci68) | 3:09 | 2019-10-29 |  |
 | [Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)](https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 6:22 | 2019-07-30 |  |
+| [sad day](https://open.spotify.com/track/6QRW5LyXtArAKluiyYfUA3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [sad day](https://open.spotify.com/album/2cademwJfslSCuNwtUoj9P) | 4:15 | 2019-11-05 |  |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2019-07-30 | 2019-10-18 |
 | [Sane](https://open.spotify.com/track/3hOztLujTQZuv7CXwS9knv) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [RISING](https://open.spotify.com/album/4kzoEK2irP3OadlwBZ1GQ2) | 3:12 | 2019-11-01 |  |
 | [Saturated](https://open.spotify.com/track/1XIO9EshDvFFpw6EGdlaP3) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Saturated](https://open.spotify.com/album/5d5LZuH5klCZVfCBl4WeLB) | 2:48 | 2019-07-30 | 2019-08-29 |
