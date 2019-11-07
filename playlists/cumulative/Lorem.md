@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Featuring Cautious Clay
+> Music that breaks the rules, just a little bit. Featuring Omar Apollo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 | 2019-07-30 | 2019-09-27 |
 | [Cause and Effect](https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm), [Brian Austin](https://open.spotify.com/artist/460LpXD2aDD0WHZhwpiymj) | [Earth Boy](https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb) | 3:24 | 2019-08-10 | 2019-10-10 |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30 |  |
+| [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 |  |
 | [Charlie](https://open.spotify.com/track/5Z69nqYhcktzSRDIBA9JvS) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj) | 3:10 | 2019-08-08 |  |
 | [Chateau (Feel Alright)](https://open.spotify.com/track/1XzP1wolujnXlgoB2Lbwy7) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Chateau (Feel Alright)](https://open.spotify.com/album/0KcGPqyQgkOVdczWnwJYUn) | 4:32 | 2019-08-16 |  |
 | [Checkmate](https://open.spotify.com/track/4GjWnMNMN2EO76juYs9iWK) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Checkmate](https://open.spotify.com/album/1whYW4OYxETBT5IWzLzdq6) | 2:28 | 2019-07-30 | 2019-08-08 |
@@ -110,6 +111,7 @@
 | [hello!](https://open.spotify.com/track/6CFEiKms2260GexcAq7LeP) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [hello!](https://open.spotify.com/album/3GNgTISglWHatZe8kUKpaI) | 3:08 | 2019-10-11 |  |
 | [Hey](https://open.spotify.com/track/0HyFrDIBBTVYXIr6IoLK0i) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:01 | 2019-07-30 | 2019-10-11 |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2019-09-06 | 2019-09-27 |
+| [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2019-11-07 |  |
 | [Hit Me Up](https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Hit Me Up](https://open.spotify.com/album/0sWQFBl9e6A9tL4CqFT9X8) | 2:40 | 2019-11-06 |  |
 | [Hit the Back](https://open.spotify.com/track/7ww6gTkfd21QU9CD8PG39m) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hit the Back](https://open.spotify.com/album/6QgNrl3BSgNmnhDBAeMTpf) | 3:23 | 2019-10-04 | 2019-10-29 |
 | [Holy](https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Make My Bed](https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5) | 2:54 | 2019-07-30 | 2019-09-06 |
@@ -262,6 +264,7 @@
 | [Video (feat. Mallrat)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2019-08-21 |
 | [Want To](https://open.spotify.com/track/1HFFkBC80X2eHzhtHwjpg9) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Want To](https://open.spotify.com/album/0vuxBG7PlEL28N4x9NhjHF) | 2:43 | 2019-10-04 | 2019-10-29 |
+| [Warm](https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Warm](https://open.spotify.com/album/1eik3ReaI8dJzF8piumicP) | 3:05 | 2019-11-07 |  |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-23 |  |
 | [watch](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:57 | 2019-07-30 | 2019-08-02 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2019-07-30 |  |
