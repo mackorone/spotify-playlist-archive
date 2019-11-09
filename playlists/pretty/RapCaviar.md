@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Baby.
+> New music from Lil Baby and Lil Mosey.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
