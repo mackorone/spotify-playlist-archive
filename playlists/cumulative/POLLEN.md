@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: FKA twigs
+> Genre-less. Quality first always. Cover: Greentea Peng
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [WINE GREEN](https://open.spotify.com/track/3LzJFule7MRo66MrFzOggt) | [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [WINE GREEN](https://open.spotify.com/album/2xjj3LGoqGXh8VDIyIZP3l) | 4:15 | 2019-07-30 | 2019-10-29 |
 | [Won't Let You](https://open.spotify.com/track/1DvbkyyN4jCcffDbD7mJEC) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Won't Let You](https://open.spotify.com/album/3JxGyoJImNtV1sYpedUcB0) | 3:25 | 2019-10-11 |  |
 | [Yada Yada](https://open.spotify.com/track/13UTQPeYjMFgalnk6rQ8sM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:27 | 2019-07-30 |  |
+| [Yo Love - From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love (From "Queen & Slim: The Soundtrack")](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 | 2019-11-13 |  |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2019-07-30 | 2019-10-18 |
 | [You and I](https://open.spotify.com/track/1oQW9ELulouzVKoeqXmkJv) | [Jakob Ogawa](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [You and I](https://open.spotify.com/album/5BVFFgiP5bYZxjtlvPWD4w) | 2:42 | 2019-08-23 |  |
 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 | 2019-08-30 |  |
