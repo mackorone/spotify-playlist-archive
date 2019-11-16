@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from A Boogie Wit Da Hoodie, Future and Trippie Redd.
+> New music from A Boogie Wit Da Hoodie, Lil Baby, Future and Trippie Redd.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

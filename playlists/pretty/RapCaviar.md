@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from A Boogie Wit Da Hoodie, Future and Trippie Redd.
+> New music from A Boogie Wit Da Hoodie, Lil Baby, Future and Trippie Redd.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
