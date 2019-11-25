@@ -30,3 +30,4 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 22 | [Elegy](https://open.spotify.com/track/5MbUyUE6erY9mVgXaecQwR) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 4:23 |
 | 23 | [17](https://open.spotify.com/track/6yjiKDhGBIdoXbo58VBMXF) | [TMPL](https://open.spotify.com/artist/37g0SeIjs1pT9kzVbegO3K) | [TMPL - EP](https://open.spotify.com/album/3ma2A5N9wrovv31EgQnMgW) | 3:31 |
 | 24 | [Phenom](https://open.spotify.com/track/4T6nPixJGoZoybrznQFVFD) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Phenom](https://open.spotify.com/album/2fdVQ5EqBYDuD9ogtrc4do) | 2:44 |
+| 25 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 |
