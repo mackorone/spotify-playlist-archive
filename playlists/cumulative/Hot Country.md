@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Jason Aldean
+> Today's top country hits of the week, worldwide!  Cover: Russell Dickerson
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 | 2019-10-26 |  |
 | [I'll Be The One](https://open.spotify.com/track/4g02Ty2n2yAEiRidGVNgmG) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [I'll Be The One](https://open.spotify.com/album/4G47IFDXKyHDv5wTVPCtEC) | 3:21 | 2019-08-09 | 2019-11-16 |
 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 | 2019-05-26 | 2019-10-12 |
-| [It All Comes Out in the Wash](https://open.spotify.com/track/5QZFaimQx9Hgv0hZQp9hpp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [It All Comes Out in the Wash](https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6) | 3:34 | 2019-07-20 |  |
+| [It All Comes Out in the Wash](https://open.spotify.com/track/5QZFaimQx9Hgv0hZQp9hpp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [It All Comes Out in the Wash](https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6) | 3:34 | 2019-07-20 | 2019-11-29 |
 | [Keep It Simple](https://open.spotify.com/track/6SzCgkimMZ97h2GluSWSzd) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Keep It Simple](https://open.spotify.com/album/4he0QjOxLNLiDaOuVBLOMC) | 3:07 | 2019-05-26 | 2019-06-15 |
 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 | 2019-10-12 |  |
 | [Kiss That Girl Goodbye](https://open.spotify.com/track/4cjYbmZXoJbuLeOwLP4EKB) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 3:18 | 2019-06-22 | 2019-06-30 |
@@ -116,6 +116,7 @@
 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 | 2019-06-05 | 2019-08-31 |
 | [Someone I Used To Know](https://open.spotify.com/track/1SVqPKwkGssw1ao0Jqmx2b) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Someone I Used To Know](https://open.spotify.com/album/3T6cDvU5DWb72tRBxubVpc) | 3:29 | 2019-05-26 | 2019-08-04 |
 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 | 2019-07-06 | 2019-10-19 |
+| [Stay Over](https://open.spotify.com/track/6YJY9l59OBxy3UKSeplf2q) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Stay Over](https://open.spotify.com/album/4Ub8EQuX5Fbwj0NTIpLkVl) | 3:03 | 2019-11-29 |  |
 | [Stutter](https://open.spotify.com/track/3ZvunC3FkxtVWhmiBGmlGM) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [When The Good Guys Win](https://open.spotify.com/album/4R6CBTblAXNOexIDEK4yNu) | 3:17 | 2019-05-26 | 2019-06-30 |
 | [Take It From Me](https://open.spotify.com/track/7JK0nPw98vJmgEElMUfg5v) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Take It From Me](https://open.spotify.com/album/6Zd32WsWdwN0rY2c9X04aL) | 2:54 | 2019-05-26 | 2019-08-10 |
 | [Talk You Out Of It](https://open.spotify.com/track/4kKgn11J60MHCrfS4AfbIm) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Florida Georgia Line](https://open.spotify.com/album/6OWE1lqiV8GPpj9Kn4Rc32) | 3:22 | 2019-05-26 | 2019-07-27 |
