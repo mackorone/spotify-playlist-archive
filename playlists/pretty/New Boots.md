@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: HARDY
+> New Music Discovery is what we're about.  Try it on for size. Cover: Ashley McBryde
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
