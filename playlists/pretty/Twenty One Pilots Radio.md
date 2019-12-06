@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/37i9dQZF1E4yrYiQJfy370)
 
-> With My Chemical Romance, Bring Me The Horizon, Jon Bellion and more
+> With EDEN, Fitz and The Tantrums, Grouplove and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
