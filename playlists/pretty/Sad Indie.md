@@ -7,9 +7,9 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Night We Met](https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8) | 3:28 |
-| 2 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 |
-| 3 | [Touch](https://open.spotify.com/track/1VXm7mZBHT9PYav9LGWQlQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/1DBhAwtUFlYxCI5U4NQI6i) | 4:52 |
-| 4 | [Holocene](https://open.spotify.com/track/1XQnZTR0ER8y5fGO17uX1R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs) | 5:36 |
+| 2 | [Touch](https://open.spotify.com/track/1VXm7mZBHT9PYav9LGWQlQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/1DBhAwtUFlYxCI5U4NQI6i) | 4:52 |
+| 3 | [Holocene](https://open.spotify.com/track/1XQnZTR0ER8y5fGO17uX1R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs) | 5:36 |
+| 4 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 |
 | 5 | [when the party's over](https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [when the party's over](https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw) | 3:19 |
 | 6 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 |
 | 7 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
