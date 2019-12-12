@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Featuring BENEE
+> Music that breaks the rules, just a little bit. Featuring Gracie Abrams
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [20](https://open.spotify.com/track/28cBt86GEGR1JvsTz5jaoc) | [Blue Nude](https://open.spotify.com/artist/3v15f3wDZHdPzfaGN01vKU) | [20](https://open.spotify.com/album/1gTCFbHMDRYfu6xAOyJ6b2) | 4:45 | 2019-08-02 | 2019-10-11 |
 | [4Tounce](https://open.spotify.com/track/0uJ3orpKS4UjIf7WRZodJ5) | [Johnny Utah](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [4Tounce](https://open.spotify.com/album/6nyKY8shGVDEz5qXrZDHIY) | 2:47 | 2019-11-08 |  |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2019-07-30 | 2019-10-11 |
+| [A Feeling](https://open.spotify.com/track/71sD7fTNVPhnzvhmZo9hJB) | [zack villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [A Feeling](https://open.spotify.com/album/6GE3kFui8uRGf6uGGN1q3U) | 3:28 | 2019-12-12 |  |
 | [Adore You](https://open.spotify.com/track/1M4qEo4HE3PRaCOM7EXNJq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Adore You](https://open.spotify.com/album/5SL9nXZYZZl68bHwaM8uLa) | 3:27 | 2019-12-07 |  |
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz (Deluxe Version)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2019-07-30 | 2019-08-02 |
 | [Ain't Together](https://open.spotify.com/track/4jvtuOFXhwTJG1sQHkT1bs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ain't Together](https://open.spotify.com/album/1eMuzrmQ6CNhwcTA4eSsdN) | 3:22 | 2019-09-06 | 2019-11-14 |
@@ -58,6 +59,7 @@
 | [Charlie](https://open.spotify.com/track/5Z69nqYhcktzSRDIBA9JvS) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj) | 3:10 | 2019-08-08 |  |
 | [Chateau (Feel Alright)](https://open.spotify.com/track/1XzP1wolujnXlgoB2Lbwy7) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Chateau (Feel Alright)](https://open.spotify.com/album/0KcGPqyQgkOVdczWnwJYUn) | 4:32 | 2019-08-16 |  |
 | [Checkmate](https://open.spotify.com/track/4GjWnMNMN2EO76juYs9iWK) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Checkmate](https://open.spotify.com/album/1whYW4OYxETBT5IWzLzdq6) | 2:28 | 2019-07-30 | 2019-08-08 |
+| [Chinatown Market](https://open.spotify.com/track/02iFWg8h0cc8tpL7OtlLaq) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Chinatown Market](https://open.spotify.com/album/2INb2zLlA5HVPsBFHvbITU) | 2:12 | 2019-12-12 |  |
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2019-11-23 |  |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2019-09-02 |  |
 | [Closer To You](https://open.spotify.com/track/6ZuQAppmSEQ9IrDhDU8RM6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Closer To You](https://open.spotify.com/album/5kMTiIhVQDKlvb9AMT4ZLC) | 3:04 | 2019-07-30 | 2019-08-02 |
@@ -118,7 +120,7 @@
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2019-07-30 |  |
 | [Going Thru](https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Summer '17](https://open.spotify.com/album/25yeAS4H5ndooKc4yV4zEg) | 5:13 | 2019-07-30 | 2019-08-02 |
 | [Good Day](https://open.spotify.com/track/7iTwzSe2fg5xYwCgXXFkEe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Good Day](https://open.spotify.com/album/1HPmeTZ2Mgx0NvynTKpWOj) | 3:01 | 2019-10-04 |  |
-| [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 | 2019-07-30 | 2019-08-24 |
+| [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 | 2019-07-30 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2019-07-30 |  |
 | [Grace](https://open.spotify.com/track/3o30X8AntmyFOmUedcfUXt) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:26 | 2019-09-20 | 2019-10-10 |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2019-07-30 | 2019-09-27 |
@@ -128,6 +130,7 @@
 | [hello!](https://open.spotify.com/track/6CFEiKms2260GexcAq7LeP) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [hello!](https://open.spotify.com/album/3GNgTISglWHatZe8kUKpaI) | 3:08 | 2019-10-11 |  |
 | [Hey](https://open.spotify.com/track/0HyFrDIBBTVYXIr6IoLK0i) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:01 | 2019-07-30 | 2019-10-11 |
 | [hiccups (as an adult)](https://open.spotify.com/track/1mjbqowv6FXUWr4DpseD9p) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [​hiccups (as an ​adult)](https://open.spotify.com/album/4baMQHB4n5bFsb2sjyCAmD) | 2:10 | 2019-11-22 |  |
+| [Hide n Seek](https://open.spotify.com/track/0YqBRZmOpq4i30fqldKhOT) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [Hide n Seek](https://open.spotify.com/album/7ipGqWiyrmvRb2uuWr4FT6) | 2:44 | 2019-12-12 |  |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2019-09-06 | 2019-09-27 |
 | [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2019-11-07 |  |
 | [Hit Me Up](https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Hit Me Up](https://open.spotify.com/album/0sWQFBl9e6A9tL4CqFT9X8) | 2:40 | 2019-11-06 |  |
@@ -187,7 +190,7 @@
 | [Money Diamonds Roses](https://open.spotify.com/track/4j0lSW432dK6awGjED4PPt) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Money Diamonds Roses](https://open.spotify.com/album/5F2GPs2tKS6rFb6AW9xxb7) | 2:57 | 2019-11-22 |  |
 | [Monsta](https://open.spotify.com/track/7srhWu501PlhDz0FcLdvzt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Monsta](https://open.spotify.com/album/0xr5oKd5WIHe8cqeGNz8qQ) | 3:42 | 2019-11-02 |  |
 | [Moody](https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Moody](https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX) | 3:18 | 2019-10-25 |  |
-| [My Little](https://open.spotify.com/track/4E3U39bAmc61R0hZu2xciI) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Platinum Green](https://open.spotify.com/album/6NGcHGAivD8o52T3PTrqkt) | 2:02 | 2019-08-30 | 2019-10-10 |
+| [My Little](https://open.spotify.com/track/4E3U39bAmc61R0hZu2xciI) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Platinum Green](https://open.spotify.com/album/6NGcHGAivD8o52T3PTrqkt) | 2:02 | 2019-08-30 |  |
 | [Narcissist (feat. The 1975)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2019-07-30 |  |
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2019-09-20 |  |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2019-07-30 | 2019-10-10 |
@@ -226,9 +229,10 @@
 | [Prom](https://open.spotify.com/track/5yvhdo8FXbBsIllxv2Rr94) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:16 | 2019-07-30 | 2019-08-30 |
 | [prom dress](https://open.spotify.com/track/0X3a2iLqyGMYi4g2WtUaXu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [prom dress](https://open.spotify.com/album/40MYtMNE9A0TOLGmAQ6nBb) | 3:17 | 2019-07-30 |  |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2019-09-20 | 2019-10-11 |
+| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-12 |  |
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2019-10-04 | 2019-11-14 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 | 2019-11-14 |
-| [Renaissance](https://open.spotify.com/track/6ND87faCM9Xb5J5rDGtBPM) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Renaissance](https://open.spotify.com/album/6irTwsK0mf7OXoPBddnoD5) | 2:54 | 2019-11-22 |  |
+| [Renaissance](https://open.spotify.com/track/6ND87faCM9Xb5J5rDGtBPM) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Renaissance](https://open.spotify.com/album/6irTwsK0mf7OXoPBddnoD5) | 2:54 | 2019-11-22 | 2019-12-12 |
 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 | 2019-09-24 |  |
 | [right here](https://open.spotify.com/track/2xnNgKhyMl9MxBmRNGnBJP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [right here](https://open.spotify.com/album/6f8zlDw5RgFhyuc9wPu4BG) | 3:14 | 2019-11-06 |  |
 | [Roi](https://open.spotify.com/track/5JBsL87pkYEqxR9ybfarfV) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Roi](https://open.spotify.com/album/1egOGiFQP2N9LYbO1VTneO) | 3:42 | 2019-07-30 | 2019-09-27 |
@@ -294,7 +298,7 @@
 | [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2019-11-16 |  |
 | [Used To Love](https://open.spotify.com/track/6WC27GPEjsX24Vv12VX6mb) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Used To Love](https://open.spotify.com/album/2oGxWLARSLplTHJ4HhiwPD) | 3:35 | 2019-10-04 |  |
 | [useless](https://open.spotify.com/track/7KQ8sdFIWCCDXIcQDEeuzC) | [RUFUS](https://open.spotify.com/artist/2s5bedliLW2wGQgXprYzsP) | [useless](https://open.spotify.com/album/3Y9SgjeoJPTRImcJaYqYKm) | 2:36 | 2019-08-02 |  |
-| [Vanity](https://open.spotify.com/track/3I7axpzCW6bt5PhoM8kfrA) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Vanity](https://open.spotify.com/album/6FUrjjRfCi4MA9iI1BoLls) | 4:53 | 2019-10-11 | 2019-11-14 |
+| [Vanity](https://open.spotify.com/track/3I7axpzCW6bt5PhoM8kfrA) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Vanity](https://open.spotify.com/album/6FUrjjRfCi4MA9iI1BoLls) | 4:53 | 2019-10-11 |  |
 | [Video (feat. Mallrat)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Want Me Back](https://open.spotify.com/track/7IoV5eGR85wUOXjninlmNu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:54 | 2019-08-10 | 2019-08-21 |
 | [Want To](https://open.spotify.com/track/1HFFkBC80X2eHzhtHwjpg9) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Want To](https://open.spotify.com/album/0vuxBG7PlEL28N4x9NhjHF) | 2:43 | 2019-10-04 | 2019-10-29 |
