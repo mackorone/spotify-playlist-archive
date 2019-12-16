@@ -7,7 +7,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tennis Fan](https://open.spotify.com/track/10xB2H4hcYHjsS5hcwfl1k) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tennis Fan](https://open.spotify.com/album/6Gh010Lj67ZUbhMbb3fMoe) | 2:50 |
-| 2 | [Never the Same](https://open.spotify.com/track/0nXqnXFlnJwjhXDTbZDuav) | [Where Is Maps](https://open.spotify.com/artist/6jqQfGlwW8i3TGBX6SuwuN) | [Never the Same](https://open.spotify.com/album/1BhAfbrBL70wyXnJNIEAfL) | 3:27 |
+| 2 | [Never the Same](https://open.spotify.com/track/0nXqnXFlnJwjhXDTbZDuav) | [Where is Maps](https://open.spotify.com/artist/6jqQfGlwW8i3TGBX6SuwuN) | [Never the Same](https://open.spotify.com/album/1BhAfbrBL70wyXnJNIEAfL) | 3:27 |
 | 3 | [Heartworks](https://open.spotify.com/track/17onAqgx91Bp9MXtF4TvJ8) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/1HIM724n5CusJzGpfbIBX7) | 2:39 |
 | 4 | [Come Down](https://open.spotify.com/track/5bi0NMf3uKC3qhLcdFuR1m) | [Harlo](https://open.spotify.com/artist/2BTTRieaquJC8M6b3WdsT5), [Holden Le Dinh](https://open.spotify.com/artist/5ip0l0E25zziwqZdOO1guY), [Neaptide](https://open.spotify.com/artist/3K25Mh9UN7tstMdANU5mZ0) | [Come Down](https://open.spotify.com/album/1n9Hq3xzh4Szd1wQDvLOgZ) | 3:52 |
 | 5 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 |
