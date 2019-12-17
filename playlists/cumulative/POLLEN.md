@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: 070 Shake
+> Genre-less. Quality first always. Cover: Frank Ocean
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 | 2019-07-30 | 2019-11-14 |
 | [EARFQUAKE - Channel Tres Remix](https://open.spotify.com/track/6tgknDU0VMbXILuWixFKKn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [EARFQUAKE (Channel Tres Remix)](https://open.spotify.com/album/2gIJO0RLORaeRCT9G1E52V) | 3:48 | 2019-10-05 | 2019-12-13 |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2019-07-30 |  |
-| [Earl Grey](https://open.spotify.com/track/0dG0uO4xRNOIE3cgypEpk1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Helvetica](https://open.spotify.com/album/2OKarMGot4dNyQ5rTtDr7l) | 2:51 | 2019-10-23 |  |
+| [Earl Grey](https://open.spotify.com/track/0dG0uO4xRNOIE3cgypEpk1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Helvetica](https://open.spotify.com/album/2OKarMGot4dNyQ5rTtDr7l) | 2:51 | 2019-10-23 | 2019-12-17 |
 | [EL TORO COMBO MEAL (feat. Mavi)](https://open.spotify.com/track/4PBRfiwBQiFkZVZED0ktV7) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [FEET OF CLAY](https://open.spotify.com/album/0N0EFoE8csbKxl5lxT1ylm) | 2:31 | 2019-11-02 |  |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2019-07-30 |  |
 | [Encore](https://open.spotify.com/track/3MayMl8i4J1nYXoGzPs4d5) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Encore](https://open.spotify.com/album/0XygqMAWBDQKGyrG4tcNGQ) | 4:21 | 2019-11-23 | 2019-12-05 |
@@ -132,6 +132,7 @@
 | [GINGER](https://open.spotify.com/track/1Uo7reO6I2yQ1q36ZPuNf7) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:54 | 2019-08-27 | 2019-11-06 |
 | [Glorious](https://open.spotify.com/track/5LqfL6HiueSKPaxMm8hXr5) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Glorious](https://open.spotify.com/album/4bd6y17WBdE5O4FylIDSfu) | 2:27 | 2019-10-18 |  |
 | [Good Enough](https://open.spotify.com/track/0SXL6pp8pxlbw1PajxGdKd) | [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Good Enough](https://open.spotify.com/album/3RAdBcSg942oIQg7WUhWCq) | 2:22 | 2019-10-18 |  |
+| [Gray Area (feat. Mick Jenkins)](https://open.spotify.com/track/3uJ0spXcRqOO8PCGAnjSeQ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:19 | 2019-12-17 |  |
 | [H34T RISES](https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [H34T RISES](https://open.spotify.com/album/236UmP2YMSjpGVRSJNl9Ce) | 2:50 | 2019-10-11 |  |
 | [Hair Down (feat. Kendrick Lamar)](https://open.spotify.com/track/6sq5mqtS3jwJjvBHALknJH) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Hair Down (feat. Kendrick Lamar)](https://open.spotify.com/album/5w27XydFTwAPV5GjsWya37) | 3:37 | 2019-08-09 |  |
 | [Half Love](https://open.spotify.com/track/6CKkYFual8CkFy0MkWfFTF) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Half Love](https://open.spotify.com/album/7fxRNsGP3TjnVq6NCxTFOk) | 3:12 | 2019-07-30 | 2019-08-01 |
