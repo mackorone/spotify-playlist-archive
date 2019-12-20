@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Jason Aldean
+> Today's top country hits of the week, worldwide!  Cover: Thomas Rhett, Maren Morris, Luke Combs
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
