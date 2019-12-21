@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> Lil Tecca, MGK, Gucci Mane, and more kick off  New Music Friday!
+> Young Thug, Lil Tecca, MGK, Gucci Mane, and more kick off  New Music Friday!
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 46 | [SAY IT BACK](https://open.spotify.com/track/0iGArmRgOWYArGA5Wnz8Qh) | [Ross Harris](https://open.spotify.com/artist/0y5FoMTIPsSiC4QFRrFxxC) | [SAY IT BACK](https://open.spotify.com/album/0RjJ3EKXICxfTzO65Rohbj) | 3:29 |
 | 47 | [The Future's Just So Clear](https://open.spotify.com/track/6p8Q1wq5P7Xf4SaFGWwblx) | [Grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [The Future's Just So Clear](https://open.spotify.com/album/5RpLVochMuAXV2nJbL34kS) | 2:18 |
 | 48 | [Drunken Truth](https://open.spotify.com/track/29ikXeGM6kScvhvqfvgiwO) | [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [FANNYPACK](https://open.spotify.com/artist/6SjKNESwrpwMUN0Y0bRmza), [Andy Marsh](https://open.spotify.com/artist/4Vx3VPJihz4TANn7HsPuTn) | [The Seed EP](https://open.spotify.com/album/2BWk9BoPaXaMi93wZsSoXk) | 2:38 |
-| 49 | [Walk Down (feat. YG)](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 |
+| 49 | [Walk Down](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 |
 | 50 | [Big Gun vs Lil Gun](https://open.spotify.com/track/2RxrYIeBa7oQr9oWgnY4h1) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Lil Fame](https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Price of Fame](https://open.spotify.com/album/1RGIwGJYktoqVoPaSY98F4) | 3:54 |
 | 51 | [SK8FASTEATASS](https://open.spotify.com/track/58fu1pJI0HdNaJFwsOxYvY) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph) | [SK8FASTEATASS](https://open.spotify.com/album/3ZxQx8smtiSBr2fKD2LN3X) | 3:16 |
 | 52 | [Uncle Iroh](https://open.spotify.com/track/1PV9dtzC0wyx71YwoGDLiO) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Uncle Iroh](https://open.spotify.com/album/5rrPZHmMDW7WrktbVjVJmw) | 2:27 |

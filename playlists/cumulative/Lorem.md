@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Featuring Gracie Abrams
+> Music that breaks the rules, just a little bit. Happy holidays, see you in 2020. Cover: UMI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Benton Way](https://open.spotify.com/track/3oqWLWCwo8LMbmA2TYtBow) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:35 | 2019-12-14 |  |
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2019-08-02 | 2019-11-14 |
 | [blame game](https://open.spotify.com/track/1bkrJ0NmKUzFJzdYNeYDMM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade (IV)](https://open.spotify.com/album/4NkWJ6ZA8Ijo5Hmd4vwvGE) | 3:29 | 2019-08-10 |  |
+| [blue](https://open.spotify.com/track/5YkAqxoym5dZ1fYoaN0iCx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [blue](https://open.spotify.com/album/3H1sqBMdhQtwQZ3w2nWAOA) | 3:00 | 2019-12-21 |  |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30 | 2019-08-15 |
 | [BLUE CELLOPHANE](https://open.spotify.com/track/0tpsGNKhQwqTlj2XZ03ql2) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [BLUE CELLOPHANE](https://open.spotify.com/album/4OfgZO9nnAjfwA1ez25pCg) | 3:01 | 2019-11-16 |  |
 | [blue skies](https://open.spotify.com/track/7duh8jJuNZbWQjoTx2GsDz) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [blue skies](https://open.spotify.com/album/4ZDKZJpwxWeMZ1IhCPDb0R) | 2:08 | 2019-09-14 |  |
@@ -82,6 +83,7 @@
 | [dancefloor](https://open.spotify.com/track/18pa8bezpm5gRKLI7kKkZX) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/14JBNBCOzUUt96BtB7ak0k) | 3:18 | 2019-11-16 |  |
 | [Dark Circles](https://open.spotify.com/track/7LQFY6GJK7stOTtxXTGI01) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dark Circles](https://open.spotify.com/album/4SbGpU9MDHlx7yoL4UTnWj) | 4:40 | 2019-09-06 |  |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30 | 2019-11-14 |
+| [Dart Hill](https://open.spotify.com/track/0YpUVgGuf05PIlIY7HVWRY) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [So Far, So Good](https://open.spotify.com/album/3PY0pKbleUj9YhoozzTXpn) | 3:28 | 2019-12-21 |  |
 | [Decide](https://open.spotify.com/track/02lKe7OF80iSFAicx70AJr) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Decide](https://open.spotify.com/album/3RovfS06CsdDKGzT34Pusi) | 2:58 | 2019-12-04 |  |
 | [Dennis](https://open.spotify.com/track/6Dvxpqv61hyRZJs4qDfiP3) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Dennis](https://open.spotify.com/album/63P7eZxZx13hdWO895zNPM) | 3:14 | 2019-07-30 |  |
 | [Dirty AF1s](https://open.spotify.com/track/6fFSDDBO5Gc9Y2i2CA8vZI) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Dirty AF1s](https://open.spotify.com/album/7kmC7MX2wr5FvAqUrcQqsU) | 2:17 | 2019-07-30 | 2019-08-08 |
@@ -157,7 +159,7 @@
 | [If I Were You](https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [If I Were You](https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT) | 2:51 | 2019-07-30 | 2019-10-10 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30 | 2019-10-11 |
 | [In My Head](https://open.spotify.com/track/1tT55K6VEyO6XFDxK4lDQe) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/1Ww9Yz5WDGdxBhS5FlVy6Y) | 3:34 | 2019-07-30 | 2019-10-03 |
-| [It's Okay to Cry, Boy](https://open.spotify.com/track/7rNhIRSovKnCsTU2A1hh9H) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 6:11 | 2019-11-22 |  |
+| [It's Okay to Cry, Boy](https://open.spotify.com/track/7rNhIRSovKnCsTU2A1hh9H) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 6:11 | 2019-11-22 | 2019-12-21 |
 | [Jalousie](https://open.spotify.com/track/3U5x1rplpJNKR3Xg88EfLi) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:45 | 2019-07-30 | 2019-10-03 |
 | [Joyride](https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Joyride](https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb) | 3:32 | 2019-07-30 | 2019-10-11 |
 | [July (feat. Leon Bridges)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July (feat. Leon Bridges)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2019-11-08 |  |
@@ -224,6 +226,7 @@
 | [Plans](https://open.spotify.com/track/21gFBttZdo6RJySWtwPbf5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Plans](https://open.spotify.com/album/4899tf9GNQcdopoBMs4RsW) | 3:11 | 2019-10-10 |  |
 | [play the part](https://open.spotify.com/track/3DiRnA7UDlUPrGDOF9Zb4u) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [play the part](https://open.spotify.com/album/0MqiRHUnLxKrXTTCF0ST7L) | 3:12 | 2019-07-30 | 2019-09-14 |
 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 | 2019-11-14 |  |
+| [Plus](https://open.spotify.com/track/36ynI67Vq1Bz52vEIQMWyy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Plus](https://open.spotify.com/album/0aflX0vk26M494NVMtaPyj) | 4:32 | 2019-12-21 |  |
 | [Pluto Projector](https://open.spotify.com/track/64BjH0cofoZQLz7STwGqyw) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pluto Projector](https://open.spotify.com/album/3n4DlItnFse4pNj8jddEXf) | 4:27 | 2019-10-19 | 2019-11-14 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2019-08-02 | 2019-08-21 |
 | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/track/4JclCBySJNsUApnATXnhNS) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/album/7js7SzuPMf0qIJqnoLUoDz) | 2:35 | 2019-07-30 |  |
@@ -233,7 +236,7 @@
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2019-09-20 | 2019-10-11 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-12 |  |
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2019-10-04 | 2019-11-14 |
-| [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 | 2019-11-14 |
+| [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 |  |
 | [Renaissance](https://open.spotify.com/track/6ND87faCM9Xb5J5rDGtBPM) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Renaissance](https://open.spotify.com/album/6irTwsK0mf7OXoPBddnoD5) | 2:54 | 2019-11-22 | 2019-12-12 |
 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 | 2019-09-24 |  |
 | [right here](https://open.spotify.com/track/2xnNgKhyMl9MxBmRNGnBJP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [right here](https://open.spotify.com/album/6f8zlDw5RgFhyuc9wPu4BG) | 3:14 | 2019-11-06 |  |
@@ -252,6 +255,7 @@
 | [seasonal depression](https://open.spotify.com/track/1Y73t3XDuAVNjO3tZiBt1p) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade (seasonal depression / prom dress / high & dry)](https://open.spotify.com/album/2THfUbzm3i4P8NNZgylHj3) | 2:36 | 2019-07-30 | 2019-08-10 |
 | [See You Later](https://open.spotify.com/track/4OHXUCTieg7Ba4My21pFz8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [See You Later](https://open.spotify.com/album/1mdcunvWOgYgFxGk2BH67i) | 2:42 | 2019-10-11 | 2019-10-29 |
 | [She Plays Bass](https://open.spotify.com/track/3HsISqx1yY7IFQZzzgZrKD) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/1M3PMTh90ShsJfQ1AfHbGH) | 3:27 | 2019-08-23 |  |
+| [Skater Shawty](https://open.spotify.com/track/6hvl9q1FSjyV4aaaxEYgz8) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Skater Shawty](https://open.spotify.com/album/7JPmKTeWoC6PFYDVGcfFDM) | 2:21 | 2019-12-21 |  |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2019-10-25 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-25 |  |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 |  |

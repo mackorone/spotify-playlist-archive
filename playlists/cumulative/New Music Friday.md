@@ -2,7 +2,7 @@
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> Lil Tecca, MGK, Gucci Mane, and more kick off  New Music Friday!
+> Young Thug, Lil Tecca, MGK, Gucci Mane, and more kick off  New Music Friday!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,8 @@
 | [Virile](https://open.spotify.com/track/74oqnufi2wpR5wfnui3osH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Virile](https://open.spotify.com/album/6lUAGUN5XCJivMn5dakLlB) | 4:13 | 2019-11-15 | 2019-11-22 |
 | [VOICES (feat. XXXTENTACION)](https://open.spotify.com/track/2Yr2BzqNDpIh0YQcnFqM09) | [Skye](https://open.spotify.com/artist/0sHIsJteyLhBYwKgF3Vfg2), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VOICES (feat. XXXTENTACION)](https://open.spotify.com/album/08GegeGgCBOh1BjTl6sXPh) | 2:35 | 2019-11-01 | 2019-11-08 |
 | [W (feat. Gunna)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W (feat. Gunna)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 | 2019-11-29 | 2019-12-06 |
-| [Walk Down (feat. YG)](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 | 2019-12-20 |  |
+| [Walk Down (feat. YG)](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 | 2019-12-20 | 2019-12-21 |
+| [Walk Down](https://open.spotify.com/track/4MggpJSpLnVQe7GPuk0LxE) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Streetz Need Me 2](https://open.spotify.com/album/6nmbe1qYXmSflr1COvPIrN) | 2:55 | 2019-12-21 |  |
 | [Walking on a String](https://open.spotify.com/track/7sJ5TV2M7p0TQs04ZeFRCZ) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Walking on a String](https://open.spotify.com/album/66GHm4BHQJGMVI3G87m3xf) | 4:09 | 2019-10-22 | 2019-10-25 |
 | [Walls](https://open.spotify.com/track/3bLTfesBtvRY26aKY1NZvW) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Walls](https://open.spotify.com/album/0hT9PIsP5Rm4qzx1D6Rj3A) | 2:52 | 2019-11-15 | 2019-11-22 |
 | [warned you](https://open.spotify.com/track/6y1ok9vMrodkIJH9NdZQlX) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [warned you](https://open.spotify.com/album/7zvqkNyHWy5poSe0unU13D) | 3:46 | 2019-12-13 | 2019-12-20 |
