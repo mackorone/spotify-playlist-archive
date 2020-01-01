@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Ashley McBryde
+> New Music Discovery is what we're about.  Try it on for size. Cover: Morgan Evans
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [There's A Drink For That](https://open.spotify.com/track/1emssFw7IdIo26E9JDiJrz) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Singles Only](https://open.spotify.com/album/1iZv0S6Nbz5iz9ZB7wH8nn) | 3:04 | 2019-05-26 | 2019-07-06 |
 | [These Days](https://open.spotify.com/track/6U4S5Fcy4sNgYnKPh6LLdh) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [These Days](https://open.spotify.com/album/7kFlWmnxc7zivuaziAC0og) | 2:52 | 2019-10-21 |  |
 | [Thinking About You](https://open.spotify.com/track/1BK1Q4zJNboyieBpOJXW3x) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [From the Vault](https://open.spotify.com/album/13TlwFfYdAKHOnMAPzEKEF) | 3:27 | 2019-05-26 | 2019-08-04 |
+| [This Bar](https://open.spotify.com/track/7oSq5fbsFkTS9zeJQwMihf) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [This Bar](https://open.spotify.com/album/7ECYCGhOOD7VZHjxP2Lzck) | 3:05 | 2020-01-01 |  |
 | [Timeless](https://open.spotify.com/track/3JYPKPQYxpHrp8YWYOF4v2) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [The Fall](https://open.spotify.com/album/0fO6mAEG7FpJoCLwEZju0u) | 2:49 | 2019-12-14 |  |
 | [Tip of My Tongue](https://open.spotify.com/track/40ufL61vEaDaaOitYhnlQ7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Tip of My Tongue](https://open.spotify.com/album/2neKEhAldnGfCDEkPE4kW0) | 3:19 | 2019-07-13 | 2019-08-25 |
 | [To Get to You (feat. Jess Moskaluke)](https://open.spotify.com/track/5peKbOjcAqDij7MrXqSBxm) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [To Get To You (feat. Jess Moskaluke)](https://open.spotify.com/album/7b1OmlpnfVnM9ycoJhTdwd) | 3:06 | 2019-11-09 |  |
