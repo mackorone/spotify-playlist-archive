@@ -2,7 +2,7 @@
 
 ### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1)
 
-> A calm and relaxing piano soundtrack to all your daily activities.
+> A calm piano soundtrack to all activities.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1)
 
-> A calm and relaxing piano soundtrack to all your daily activities.
+> A calm piano soundtrack to all activities.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

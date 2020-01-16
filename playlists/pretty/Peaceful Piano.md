@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Peaceful Piano](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)
 
-> Relax and indulge with some profoundly beautiful piano pieces.
+> Relax and indulge with beautiful piano pieces
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
