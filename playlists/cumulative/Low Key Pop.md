@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Wafia
+> Let your mind float away with these down-tempo low key tracks. Cover: Alec Benjamin
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CRYBABY :*(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :*(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-01 |  |
 | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-08-27 | 2019-11-11 |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27 |  |
+| [Demons](https://open.spotify.com/track/0KW2JqqbzkzlebDjXI62OB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Demons](https://open.spotify.com/album/0Y1lSBX381MOjxt5n72vN0) | 2:45 | 2020-01-17 |  |
 | [demons](https://open.spotify.com/track/0Y5nfKx3OnZWPIO0vHbinL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/2aH7vOX17njaGz6Th2e8kK) | 2:59 | 2019-10-11 |  |
 | [Didn't Break It Enough](https://open.spotify.com/track/7zAPuRyZGRLPSGNnaj1H7X) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Didn't Break It Enough](https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v) | 3:01 | 2019-08-31 |  |
 | [Do Right](https://open.spotify.com/track/0c37uJwj7mpovCAuFY5ofQ) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:17 | 2019-08-27 | 2019-11-11 |
@@ -73,6 +74,7 @@
 | [Good Girls (feat. Duckwrth)](https://open.spotify.com/track/11mvh3Z5XI5V4OdnW7Zqcg) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Happy Endings With An Asterisk](https://open.spotify.com/album/4j5HoyggwSbaHuGZcNQPeF) | 3:29 | 2019-11-18 |  |
 | [Good News](https://open.spotify.com/track/3ClBKQkKoaUQ6UOhe2xlJK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Good News](https://open.spotify.com/album/4CCaoRnCugI6RsHHBKiMLs) | 5:42 | 2020-01-10 |  |
 | [Good Time](https://open.spotify.com/track/01LFSOTwPRskznMGJxtSA6) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [Good Time](https://open.spotify.com/album/1xNccVAe2xBZmwq8GKPDRy) | 3:27 | 2019-08-27 |  |
+| [Hand Me Downs](https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:58 | 2020-01-17 |  |
 | [Have You Had Enough Wine?](https://open.spotify.com/track/0HYbvIaLKFmIcyYYhtnWZE) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Have You Had Enough Wine?](https://open.spotify.com/album/1rkoHNhJ9n0ZCRa3cspddw) | 2:36 | 2019-08-27 | 2019-11-11 |
 | [Hazel](https://open.spotify.com/track/5HG8in1JeRSmGCJPz0Sa7E) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/6sid9RN71tWaLOSkmQ2x3d) | 3:21 | 2019-08-27 |  |
 | [Hide & Seek (feat. Joe Housley)](https://open.spotify.com/track/1hZxdv0GKiyH1MzdQWskLY) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:43 | 2019-08-27 | 2019-11-11 |
@@ -153,6 +155,7 @@
 | [Say Nothing](https://open.spotify.com/track/4rDRcp3HUu0Yac7o7URJNY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/3rSIMdxCuuWiXNTiXuqX6p) | 3:36 | 2019-12-16 |  |
 | [Say to You](https://open.spotify.com/track/5eH0e7g26zWBwpGNeK3Gb0) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Say to You](https://open.spotify.com/album/22DKvHucok7t6wzlwEMVL0) | 3:14 | 2019-10-18 |  |
 | [Scorpio (feat. Ralph)](https://open.spotify.com/track/0MQdw4KqjlaeKCVzWT4j0K) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Scorpio (feat. Ralph)](https://open.spotify.com/album/5jdrLdhKMOLf7Enj05JqOS) | 2:54 | 2019-08-27 |  |
+| [she](https://open.spotify.com/track/5b11McJwUHTbabivsunDPY) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:11 | 2020-01-17 |  |
 | [Sick Thoughts](https://open.spotify.com/track/4uxJICczweCIPZkIA6AN5k) | [Lewis Blissett](https://open.spotify.com/artist/5SrdmCdwa3qLV6EObwuEW7) | [Sick Thoughts](https://open.spotify.com/album/7mx1CvOT0GIK2e3h6X6q0Z) | 3:20 | 2019-08-27 |  |
 | [Sleep On It](https://open.spotify.com/track/5S5Cf673GkmYWBJNcGAVuP) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sleep On It](https://open.spotify.com/album/6PBKOpCw2Hs1kWsNW9PsW9) | 3:36 | 2019-08-27 |  |
 | [Slow Crawl](https://open.spotify.com/track/5NCm1ksMWDR34pl3z64FEK) | [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [Slow Crawl](https://open.spotify.com/album/4GMxDh0GzjhloTpzgcmMrL) | 2:59 | 2019-12-16 |  |
@@ -169,6 +172,7 @@
 | [Take Our Time](https://open.spotify.com/track/5J7VVz63RMbZYJL9ARKZ7M) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Take Our Time](https://open.spotify.com/album/6gAxxBZ0MFg22Bmrh07moe) | 3:38 | 2019-08-27 | 2019-11-11 |
 | [TALK DEEP](https://open.spotify.com/track/6RMvf7OCYYSw4x2K8UakDt) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [TALK DEEP](https://open.spotify.com/album/6QSypClxqJS7M5fhLSbuK7) | 3:30 | 2019-10-11 |  |
 | [Tango](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) | [Abir](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:06 | 2019-08-27 | 2019-11-11 |
+| [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:48 | 2020-01-17 |  |
 | [That's Life (feat. Mac Miller & Sia)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life (feat. Mac Miller & Sia)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 | 2019-08-27 |  |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27 | 2019-11-11 |
 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 | 2019-11-22 |  |

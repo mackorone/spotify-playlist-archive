@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Dylan Scott
+> Today's top country hits of the week, worldwide!  Cover: Little Big Town
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
