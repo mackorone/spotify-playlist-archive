@@ -453,14 +453,29 @@ def update_files(now):
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
-    # overwrote each other in playlists/pretty
-    num_plain_playlists = len(os.listdir(plain_dir))
-    num_pretty_playlists = len(os.listdir(pretty_dir))
-    if num_plain_playlists != num_pretty_playlists:
-        raise Exception("Unequal number of playlists: {} vs {}".format(
-            num_plain_playlists,
-            num_pretty_playlists,
-        ))
+    # overwrote each other in playlists/pretty OR a playlist ID was changed
+    # and the file in playlists/plain was removed and needs to be re-added
+    plain_playlists = set()
+    for filename in os.listdir(plain_dir):
+        with open(os.path.join(plain_dir, filename)) as f:
+            plain_playlists.add(f.readline().strip())
+
+    pretty_playlists = set()
+    for filename in os.listdir(pretty_dir):
+        pretty_playlists.add(filename[:-3])  # strip .md suffix
+
+    missing_from_plain = pretty_playlists - plain_playlists
+    missing_from_pretty = plain_playlists - pretty_playlists
+
+    if missing_from_plain:
+        raise Exception(
+            "Missing plain playlists: {}".format(missing_from_plain)
+        )
+
+    if missing_from_pretty:
+        raise Exception(
+            "Missing pretty playlists: {}".format(missing_from_pretty)
+        )
 
     # Lastly, update README.md
     readme = open("README.md").read().splitlines()
