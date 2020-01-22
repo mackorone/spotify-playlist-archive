@@ -1,8 +1,8 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Rocket%20League%20Game%20Soundtrack%20(Complete).md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw))
+[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Rocket%20League%20Game%20Soundtrack%20(Complete).md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/25eSdLvxjvwfev36rQY3xX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/25eSdLvxjvwfev36rQY3xX))
 
-### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
+### [Rocket League Game Soundtrack (Complete)](https://open.spotify.com/playlist/25eSdLvxjvwfev36rQY3xX)
 
-> Complete collection of all official Rocket League tracks on Spotify! [UPDATED] Added &quot;Radical Summer&quot; tracks (Last update: 13 August 2019)
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
