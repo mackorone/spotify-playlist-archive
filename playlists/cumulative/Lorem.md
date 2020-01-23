@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Music that breaks the rules, just a little bit. Cover: Dayglow
+> Music that breaks the rules, just a little bit. Cover: mxmtoon
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 | 2019-08-23 | 2019-10-29 |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2019-08-10 | 2019-10-03 |
 | [Fever](https://open.spotify.com/track/4PjKEXp7y8XM6ELUpdpJCm) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:27 | 2019-07-30 | 2020-01-10 |
+| [fever dream](https://open.spotify.com/track/5xgLPaEWNbJB4uVc7LIgbe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [fever dream](https://open.spotify.com/album/5HUIImeMMEEY0P3Opb34d4) | 3:16 | 2020-01-23 |  |
 | [Find an Island](https://open.spotify.com/track/4DnKssL3N9jv5aox9Xsavc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Find an Island](https://open.spotify.com/album/6U473Cz67UE5kN5SVOTUif) | 3:12 | 2019-10-11 | 2019-11-14 |
 | [Flames (feat. Ruel)](https://open.spotify.com/track/0D1ZKHo1jI0gzOWZGhlyv3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames](https://open.spotify.com/album/4IK6iEL3DSjo5xMDlaBBeH) | 3:36 | 2019-07-30 | 2019-10-29 |
 | [Florida Kilos](https://open.spotify.com/track/0iQPnK3bi7O27c5T2HBTdr) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence (Deluxe)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2019-07-30 | 2019-08-08 |
