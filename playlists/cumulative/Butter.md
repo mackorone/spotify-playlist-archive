@@ -6,7 +6,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2019-12-18 |  |
+| [10% (feat. Kali Uchis)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2020-01-24 |  |
+| [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2019-12-18 | 2020-01-24 |
 | [10/15](https://open.spotify.com/track/15A0RbA1fnanhlp4JEEZrK) | [5K HD](https://open.spotify.com/artist/6ZMLkcfjNwPGCAlL7LvMyr) | [High Performer](https://open.spotify.com/album/2Ylq2B1k3vfpmZqPmYsGlq) | 3:18 | 2019-10-15 | 2019-11-08 |
 | [25](https://open.spotify.com/track/77tTklVhbUpmuGRku51lYA) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [25](https://open.spotify.com/album/2iw9E5L5poVGJ5yorqbWGc) | 4:30 | 2019-09-29 | 2019-12-13 |
 | [A Place For Two](https://open.spotify.com/track/646yrpv6CvU2z5Zk1Cpe8X) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [A Place For Two](https://open.spotify.com/album/3Gw15oI8HnXhxQTp4q0SqC) | 4:22 | 2020-01-14 |  |
