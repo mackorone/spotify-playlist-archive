@@ -91,7 +91,8 @@ class Spotify:
             else:
                 raise Exception("Failed to get playlist: {}".format(error))
         url = self._get_url(response["external_urls"])
-        name = response["name"]
+        # Playlist names can't have "/" so use "\" instead
+        name = response["name"].replace("/", "\\")
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
         return Playlist(url=url,name=name, description=description, tracks=tracks)
