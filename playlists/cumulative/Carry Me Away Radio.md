@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Bon Iver, John Legend, Oh Wonder and more
+> With John Mayer, Amos Lee, Sara Bareilles, Ingrid Michaelson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
