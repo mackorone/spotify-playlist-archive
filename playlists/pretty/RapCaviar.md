@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Letter To Nipsey (feat. Roddy Ricch)](https://open.spotify.com/track/0j2CNrgtalXRGIvHMO2vzh) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Letter To Nipsey (feat. Roddy Ricch)](https://open.spotify.com/album/5kQY1TXZGxVUKVgK4Rq4mf) | 2:48 |
+| 1 | [Letter To Nipsey (feat. Roddy Ricch)](https://open.spotify.com/track/0j2CNrgtalXRGIvHMO2vzh) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Letter To Nipsey (feat. Roddy Ricch)](https://open.spotify.com/album/5kQY1TXZGxVUKVgK4Rq4mf) | 2:47 |
 | 2 | [Life Is Good (feat. Drake)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good (feat. Drake)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 3 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me For Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 | 4 | [Rodeo - feat. Nas](https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Rodeo (feat. Nas)](https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE) | 2:25 |
