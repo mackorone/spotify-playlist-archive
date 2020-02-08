@@ -7,9 +7,9 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let Me Know](https://open.spotify.com/track/0dJhXJKZTpiaxTUc7uItIN) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:35 |
-| 2 | [S'en aller](https://open.spotify.com/track/3ATo60fpicfxwZ0daRatlU) | [Swing](https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [S'en aller](https://open.spotify.com/album/0OQfhR8zbJ59gL6lZijAnq) | 4:24 |
+| 2 | [Lost In Yesterday](https://open.spotify.com/track/3eoNUm0LU9hATVVi9w4fM6) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lost In Yesterday](https://open.spotify.com/album/6KJKA9j7EE8xlpizKGGjvE) | 4:09 |
 | 3 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 |
-| 4 | [Lost In Yesterday](https://open.spotify.com/track/3eoNUm0LU9hATVVi9w4fM6) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lost In Yesterday](https://open.spotify.com/album/6KJKA9j7EE8xlpizKGGjvE) | 4:09 |
+| 4 | [S'en aller](https://open.spotify.com/track/3ATo60fpicfxwZ0daRatlU) | [Swing](https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [S'en aller](https://open.spotify.com/album/0OQfhR8zbJ59gL6lZijAnq) | 4:24 |
 | 5 | [Hell Bound - Ad 01](https://open.spotify.com/track/6tTy7jzu0pDDn6bE5NaaEJ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Hell Bound (Ad 01)](https://open.spotify.com/album/1bSClsUZiaNRzifTz0YMu9) | 2:11 |
 | 6 | [Oh My God](https://open.spotify.com/track/0UB94ZGWfTKiC0jvihgnc4) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Oh My God](https://open.spotify.com/album/3elA2Wn9aykp0bp728nm62) | 3:14 |
 | 7 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
