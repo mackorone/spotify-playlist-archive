@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Raveena
+> Genre-less. Quality first always. Cover: Tame Impala
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2020-01-17 |  |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-07-30 | 2019-12-06 |
 | [BOY BYE](https://open.spotify.com/track/0VqC8QZDK6mkEmfcwX77Xe) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [BOY BYE](https://open.spotify.com/album/4lRiXGum7cZNDDFLebNjoj) | 2:22 | 2019-08-16 | 2019-11-02 |
+| [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2020-02-14 |  |
 | [Broke (feat. JID)](https://open.spotify.com/track/3UqLP9Cq1DNryqu9scjak0) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:02 | 2019-07-30 | 2019-10-18 |
 | [Brother](https://open.spotify.com/track/4zZI13xs8hKub2TJWnEeIn) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Ylang Ylang](https://open.spotify.com/album/0XDFqabhSdDZKXVRagKz51) | 3:27 | 2019-11-14 |  |
 | [Business Solutions](https://open.spotify.com/track/6RCab4XVZFoZIStoxprh0T) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/4MGmFIXS3InN07DKQ1atSQ) | 3:40 | 2019-07-30 | 2019-10-18 |
@@ -80,6 +81,7 @@
 | [Colorado](https://open.spotify.com/track/3DbBgbnDUOml329rAp2Tbr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Colorado](https://open.spotify.com/album/7DWz0zPWRlCDt5H4OoG5mN) | 3:26 | 2019-09-20 |  |
 | [Colours](https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Smith Rock](https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp) | 3:02 | 2019-11-23 |  |
 | [Come Back a Different Day (Back to Mine Exclusive)](https://open.spotify.com/track/1hZdkhA3IDw1NCfQv0jP7E) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Come Back a Different Day (Back to Mine Exclusive)](https://open.spotify.com/album/4HUlffR8tegGvfGL5xQCWG) | 2:39 | 2019-10-16 |  |
+| [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/track/63kJcTnJu3qis6h5MX2nnB) | [Audrey](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/album/13OQY67VZehN0ekL3WUzfn) | 2:32 | 2020-02-14 |  |
 | [Confessions](https://open.spotify.com/track/6hNOIbjfIT6UCSYkqtE102) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Confessions](https://open.spotify.com/album/1a7y3bmUPtzxEYQN7O5HoZ) | 2:53 | 2019-08-29 | 2019-12-06 |
 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 | 2019-09-20 |  |
 | [Count Me Out](https://open.spotify.com/track/0hW6UzdP6HdPS1ZT8Qf2zG) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Count Me Out](https://open.spotify.com/album/3StjWwvlcZmtxBH8oorEB9) | 3:27 | 2019-10-10 |  |
@@ -215,6 +217,7 @@
 | [Me You - Edit](https://open.spotify.com/track/5QSAUU3L3OCBi8ZqAewjh5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Me You](https://open.spotify.com/album/5bQmOg1COMVljCtCyj9Oi6) | 4:17 | 2020-01-10 |  |
 | [Michael What TF](https://open.spotify.com/track/4WBVbltx3dWKBKB646nPmu) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Is He Real?](https://open.spotify.com/album/2JnOb2SpW5DSOHhbW6GKru) | 2:35 | 2019-09-06 | 2019-11-02 |
 | [Minor Gangsters (Gully)](https://open.spotify.com/track/0HQjO6PSVWWPSnMqm2BsbS) | [Hare Squead](https://open.spotify.com/artist/3OqgnoaUHWX4ih4oAL0zzQ) | [Minor Gangsters (Gully)](https://open.spotify.com/album/7lIWez5D2GtETJ1jPxIMKN) | 2:53 | 2020-01-31 |  |
+| [Monday](https://open.spotify.com/track/6FG3Th7J72vwIfUqVGSQ9z) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Monday](https://open.spotify.com/album/7oH87HOKhW2UDcWFPV8etV) | 2:13 | 2020-02-14 |  |
 | [Mood (feat. Zacari)](https://open.spotify.com/track/4eULGB0zI7NIdV2KjWbbiZ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:11 | 2019-08-30 | 2019-11-06 |
 | [mood](https://open.spotify.com/track/74kVM8t4cvfUhct5rb7Hmw) | [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [mood](https://open.spotify.com/album/1gBdZkx2iKpkcAwEazHuen) | 2:17 | 2019-11-23 | 2020-01-16 |
 | [Mood](https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Mood](https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby) | 4:07 | 2019-10-11 |  |
@@ -272,6 +275,7 @@
 | [RNP (feat. Anderson .Paak)](https://open.spotify.com/track/4vRaGGiQN6l2LiQxSFg6ZP) | [YBN Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [RNP (feat. Anderson .Paak)](https://open.spotify.com/album/0qP1uAp9EbzchSzCjjRZQ7) | 2:55 | 2019-07-30 |  |
 | [Rocketship](https://open.spotify.com/track/3IcMPtimQDr9w4kE9p0Lcs) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/76R1YWLU02Q79Xa6Ri8eEA) | 3:04 | 2020-01-17 |  |
 | [Room Tone - Interlude](https://open.spotify.com/track/2s4BInJo15fsF9FdfMbs79) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 1:10 | 2019-07-30 | 2019-08-09 |
+| [Rope Swing (feat. Dijon)](https://open.spotify.com/track/6Fd7DUGjTw1VHSUBMLXu6i) | [zack villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Cardboard City](https://open.spotify.com/album/4uE7odbSKeUSUBaq7URXXI) | 3:40 | 2020-02-14 |  |
 | [Rufufus](https://open.spotify.com/track/5xAOPrDX2HqCDcNi60PNy3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Rufufus](https://open.spotify.com/album/0U9ixoDueDn8yb8wsAwmdF) | 2:46 | 2019-08-29 | 2019-09-24 |
 | [Run Fast](https://open.spotify.com/track/1ErIa5ymCTUVIo7xKaXjgm) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [JJ](https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs) | [Run Fast](https://open.spotify.com/album/207BLTz3BLhjemvQNxYJZA) | 2:22 | 2019-11-09 |  |
 | [Runnin'](https://open.spotify.com/track/10x9aHDFGk5aSbvAVlwJA3) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Runnin’ feat. Yeek](https://open.spotify.com/album/0NXsAPcv3oEkCQx6bJci68) | 3:09 | 2019-10-29 |  |
