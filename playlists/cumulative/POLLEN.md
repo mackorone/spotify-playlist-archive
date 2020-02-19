@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tame Impala
+> Genre-less. Quality first always. Cover: Brent Faiyaz
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

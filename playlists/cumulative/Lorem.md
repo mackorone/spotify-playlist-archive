@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> feeling cute. Cover: Ryan Beatty
+> music that breaks the rules, just a little bit. Cover: Ryan Beatty
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Decide](https://open.spotify.com/track/02lKe7OF80iSFAicx70AJr) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Decide](https://open.spotify.com/album/3RovfS06CsdDKGzT34Pusi) | 2:58 | 2019-12-04 | 2020-01-10 |
 | [Delete Forever](https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL) | 3:57 | 2020-02-13 |  |
 | [Dennis](https://open.spotify.com/track/6Dvxpqv61hyRZJs4qDfiP3) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Dennis](https://open.spotify.com/album/63P7eZxZx13hdWO895zNPM) | 3:14 | 2019-07-30 | 2020-01-10 |
-| [Dinosaurs in Love](https://open.spotify.com/track/23Vq2aaW3u5F7oIFQvP7jy) | [Fenn Rosenthal](https://open.spotify.com/artist/2XNH1qlwNQG1NTSk7yELM5), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Dinosaurs in Love](https://open.spotify.com/album/51i7nDExHfxOSRqTFswUIE) | 1:06 | 2020-02-01 |  |
+| [Dinosaurs in Love](https://open.spotify.com/track/23Vq2aaW3u5F7oIFQvP7jy) | [Fenn Rosenthal](https://open.spotify.com/artist/2XNH1qlwNQG1NTSk7yELM5), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Dinosaurs in Love](https://open.spotify.com/album/51i7nDExHfxOSRqTFswUIE) | 1:06 | 2020-02-01 | 2020-02-19 |
 | [Dirty AF1s](https://open.spotify.com/track/6fFSDDBO5Gc9Y2i2CA8vZI) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Dirty AF1s](https://open.spotify.com/album/7kmC7MX2wr5FvAqUrcQqsU) | 2:17 | 2019-07-30 | 2019-08-08 |
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-07-30 | 2019-10-10 |
 | [Ditch](https://open.spotify.com/track/34b7J43bozWsfeo4sqEViN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/5iz5CAzEp8SumnBmlKdn7d) | 3:30 | 2019-09-24 |  |
@@ -126,7 +126,7 @@
 | [Falling for U](https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/1XcWosLrZX4QBLJCkVR3dm) | 2:04 | 2019-10-04 | 2019-10-11 |
 | [Faraway](https://open.spotify.com/track/0Q4PkMbhBDSS5jBaPm4ZmH) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Faraway](https://open.spotify.com/album/3DKLTzynscOG3Ix88stW5S) | 2:27 | 2019-10-30 | 2020-02-05 |
 | [Favorite Drug](https://open.spotify.com/track/18ZjYJcgFWiBhnvFzh5m3N) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [13 Reasons Why (Season 3)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:29 | 2019-08-30 | 2019-10-11 |
-| [Feb 14](https://open.spotify.com/track/4KiVBzH3BKhZ4Tni0Vw3N9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Feb 14](https://open.spotify.com/album/1VXhiLvi0VhRNUuSNf9PCz) | 4:33 | 2019-08-10 |  |
+| [Feb 14](https://open.spotify.com/track/4KiVBzH3BKhZ4Tni0Vw3N9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Feb 14](https://open.spotify.com/album/1VXhiLvi0VhRNUuSNf9PCz) | 4:33 | 2019-08-10 | 2020-02-19 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-07-30 | 2019-11-14 |
 | [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 | 2019-08-23 | 2019-10-29 |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2019-08-10 | 2019-10-03 |
