@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Carly Pearce
+> Today's top country hits of the week, worldwide!  Cover: Kenny Chesney
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2019-08-31 |  |
 | [Heartless (with Julia Michaels & Morgan Wallen)](https://open.spotify.com/track/4uNV7GyGEBZzPDdetEEvhS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless (with Julia Michaels & Morgan Wallen)](https://open.spotify.com/album/1qfAEnjx3OGSAYvFWsbnWa) | 2:52 | 2020-02-01 | 2020-02-08 |
 | [Hell Right (feat. Trace Adkins)](https://open.spotify.com/track/3y8xKFhQWc8DARB3fuGMGA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Hell Right (feat. Trace Adkins)](https://open.spotify.com/album/48YMXYbvuTk4iY7MhZY3ML) | 3:27 | 2019-08-16 | 2020-01-13 |
+| [Here And Now](https://open.spotify.com/track/0NSwXfEWMG7HIRvXioGu03) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0CBezlC6aZNKVf2554t53k) | 2:51 | 2020-02-21 |  |
 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 | 2019-05-26 | 2019-06-15 |
 | [Holding Out for the One](https://open.spotify.com/track/7IN4uBTZZK2KJ4tjBL44xU) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand - EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 3:15 | 2020-02-08 |  |
 | [Home With Her](https://open.spotify.com/track/2cxU72H3CkiHJKiJhOj1Rm) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [Home With Her](https://open.spotify.com/album/5kgTIWW6pk1nUfFSyVViQl) | 2:59 | 2019-05-26 | 2019-06-15 |
