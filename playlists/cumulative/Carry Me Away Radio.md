@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maggie Rogers, Vampire Weekend, Surfaces and more
+> With John Mayer, Ben Rector, Maggie Rogers, Vampire Weekend and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
