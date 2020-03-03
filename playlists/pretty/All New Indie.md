@@ -6,14 +6,14 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 |
-| 2 | [bloodstream](https://open.spotify.com/track/2C29mn0uPfTmTkmSTPWkMm) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [bloodstream](https://open.spotify.com/album/52uYH9mYlCLT3y21yfJxRW) | 5:37 |
-| 3 | [Describe - Edit](https://open.spotify.com/track/5S9rPAIF7062MIy1EYLMuo) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Describe](https://open.spotify.com/album/2QzYxEjFrJYXq2fvbbV2uu) | 2:43 |
-| 4 | [Like I Loved You](https://open.spotify.com/track/0NytPw07A35rMOHJsBsYSa) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 4:05 |
-| 5 | [I disappear in your arms - bonus](https://open.spotify.com/track/7k9L8N0jZcz9qFupVeI4Va) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 3:56 |
-| 6 | [The Main Thing](https://open.spotify.com/track/1xwMEkoYPrlB9g1T0k7v5Y) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [The Main Thing](https://open.spotify.com/album/3Hc12doHu447SgFr9FDzDI) | 2:35 |
-| 7 | [Overlord](https://open.spotify.com/track/1mC2VSgfVnG2RxUQqIrWM8) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Overlord](https://open.spotify.com/album/7wJikw2OmvCwWMbLCdiyft) | 2:43 |
-| 8 | [Color My life](https://open.spotify.com/track/589bZJgVLGhqfMj08VLbYO) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Color My Life](https://open.spotify.com/album/5hKuh9n1x4R7MwuRXXvwLU) | 3:28 |
+| 1 | [Like I Loved You](https://open.spotify.com/track/0NytPw07A35rMOHJsBsYSa) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 4:05 |
+| 2 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 |
+| 3 | [bloodstream](https://open.spotify.com/track/2C29mn0uPfTmTkmSTPWkMm) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [bloodstream](https://open.spotify.com/album/52uYH9mYlCLT3y21yfJxRW) | 5:37 |
+| 4 | [Color My life](https://open.spotify.com/track/589bZJgVLGhqfMj08VLbYO) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Color My Life](https://open.spotify.com/album/5hKuh9n1x4R7MwuRXXvwLU) | 3:28 |
+| 5 | [Describe - Edit](https://open.spotify.com/track/5S9rPAIF7062MIy1EYLMuo) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Describe](https://open.spotify.com/album/2QzYxEjFrJYXq2fvbbV2uu) | 2:43 |
+| 6 | [I disappear in your arms - bonus](https://open.spotify.com/track/7k9L8N0jZcz9qFupVeI4Va) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 3:56 |
+| 7 | [The Main Thing](https://open.spotify.com/track/1xwMEkoYPrlB9g1T0k7v5Y) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [The Main Thing](https://open.spotify.com/album/3Hc12doHu447SgFr9FDzDI) | 2:35 |
+| 8 | [Overlord](https://open.spotify.com/track/1mC2VSgfVnG2RxUQqIrWM8) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Overlord](https://open.spotify.com/album/7wJikw2OmvCwWMbLCdiyft) | 2:43 |
 | 9 | [Patience](https://open.spotify.com/track/6tivJGBJtPpvlF4D39NYxM) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/2WeTsOhub5FlzTYwKu93xb) | 3:52 |
 | 10 | [The River](https://open.spotify.com/track/0ZSNmNgMmYT7o9cn57MESt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [The River](https://open.spotify.com/album/4ACrGzTgs016EkxPHMIGfQ) | 3:52 |
 | 11 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 |
