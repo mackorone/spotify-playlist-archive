@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Aminé
+> Genre-less. Quality first always. Cover: ODIE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [george](https://open.spotify.com/track/0Ws3ORFcdtgqA3FITquhQ7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [george](https://open.spotify.com/album/4mCbjj2IvjnMnk0wirwBs3) | 3:10 | 2019-07-30 | 2019-10-03 |
 | [Ghostride](https://open.spotify.com/track/6mnYXjuK0CDzqem4eR5JGU) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ghostride](https://open.spotify.com/album/7lCfuNDA72LdCBY011LZs3) | 2:06 | 2019-07-30 | 2019-12-13 |
 | [GINGER](https://open.spotify.com/track/1Uo7reO6I2yQ1q36ZPuNf7) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:54 | 2019-08-27 | 2019-11-06 |
+| [Give Me Another Chance](https://open.spotify.com/track/4kNmT6S6CMcMsNSNPBMHPE) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Give Me Another Chance](https://open.spotify.com/album/5yx7wIgtaRSBhzcu3vbrV6) | 2:40 | 2020-03-04 |  |
 | [Glorious](https://open.spotify.com/track/5LqfL6HiueSKPaxMm8hXr5) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Glorious](https://open.spotify.com/album/4bd6y17WBdE5O4FylIDSfu) | 2:27 | 2019-10-18 | 2020-02-28 |
 | [Good Enough](https://open.spotify.com/track/0SXL6pp8pxlbw1PajxGdKd) | [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Good Enough](https://open.spotify.com/album/3RAdBcSg942oIQg7WUhWCq) | 2:22 | 2019-10-18 |  |
 | [Good News](https://open.spotify.com/track/3ClBKQkKoaUQ6UOhe2xlJK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Good News](https://open.spotify.com/album/4CCaoRnCugI6RsHHBKiMLs) | 5:42 | 2020-01-11 |  |
