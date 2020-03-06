@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Keith Urban
+> Today's top country hits of the week, worldwide!  Cover: Lauren Alaina
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2020-02-29 |  |
 | [I'll Be The One](https://open.spotify.com/track/4g02Ty2n2yAEiRidGVNgmG) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [I'll Be The One](https://open.spotify.com/album/4G47IFDXKyHDv5wTVPCtEC) | 3:21 | 2019-08-09 | 2019-11-16 |
 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 | 2019-05-26 | 2019-10-12 |
+| [In My Veins](https://open.spotify.com/track/3sAmWiJrwZkF8FSgpiM8QA) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c) | 2:46 | 2020-03-06 |  |
 | [It All Comes Out in the Wash](https://open.spotify.com/track/5QZFaimQx9Hgv0hZQp9hpp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [It All Comes Out in the Wash](https://open.spotify.com/album/2RaCnBxNkh1efVm5m7lQv6) | 3:34 | 2019-07-20 | 2019-11-29 |
 | [Jersey on the Wall - I'm Just Asking](https://open.spotify.com/track/1JqcuWreCl5cNVsX7TKGss) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand - EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 4:05 | 2020-02-07 | 2020-02-22 |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2020-01-18 |  |
