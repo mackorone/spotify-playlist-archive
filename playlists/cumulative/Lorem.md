@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> music that breaks the rules, just a little bit. Cover: Cavetown
+> music that breaks the rules, just a little bit. Cover: beabadoobee
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

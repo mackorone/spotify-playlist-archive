@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> music that breaks the rules, just a little bit. Cover: Cavetown
+> music that breaks the rules, just a little bit. Cover: beabadoobee
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
