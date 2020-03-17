@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Yaeji
+> Genre-less. Quality first always. Cover: Melanie Faye
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Delete Forever](https://open.spotify.com/track/3I399Xpg21DElMuEhkTeK8) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OUmlyyZVfHCVQnHLA4mU9) | 3:57 | 2020-02-13 |  |
 | [DHL](https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [DHL](https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF) | 4:28 | 2019-10-21 |  |
 | [Did You Feel Me Slip Away?](https://open.spotify.com/track/6f6dubfAZXqTCIdqtLkwH1) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Did You Feel Me Slip Away?](https://open.spotify.com/album/1xW3OVUdipGVWguhacSzEM) | 3:39 | 2019-07-30 | 2019-08-01 |
+| [DIET_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2020-03-17 |  |
 | [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2019-09-27 | 2019-11-08 |
 | [Dirty Laundry](https://open.spotify.com/track/0iAI4Nv50sU0LGRKmF555Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Dirty Laundry](https://open.spotify.com/album/44qTyEwDulRyxbQz3LtZvq) | 3:04 | 2019-09-06 | 2019-09-20 |
 | [Dive In](https://open.spotify.com/track/6rNpFyquoqDs4ODVAuAcnS) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Myquale](https://open.spotify.com/artist/43ZT4YXTrFXsq5Ae1np03L), [Setec](https://open.spotify.com/artist/6FdlL1n2xAfLiNkoj84KTf) | [Dive In](https://open.spotify.com/album/0Fyaxp9oRnhNF50RoJFm0A) | 2:19 | 2019-07-30 | 2019-10-10 |
@@ -208,6 +209,7 @@
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-08 |  |
 | [Ipanema](https://open.spotify.com/track/1yoOiFrd7KHnUPun8BSBxl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Ipanema](https://open.spotify.com/album/0MeYbSRPpmVFTVLLl1KICf) | 2:07 | 2019-07-30 | 2019-09-20 |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2019-10-29 |  |
+| [It's a Moot Point](https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7xoKAS8YKaD85hP4FjOKyL) | 4:02 | 2020-03-17 |  |
 | [It's Nice to Be Alive](https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [It's Nice to Be Alive](https://open.spotify.com/album/5HUfO00VGHwPLqx2rNCkE7) | 3:25 | 2019-10-18 | 2020-03-13 |
 | [It's Real Love](https://open.spotify.com/track/0Mxbqp1DtNsAxo5Nthsqnr) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [It's Real Love](https://open.spotify.com/album/6SwnOmVKrNYkScpDAAq1Rt) | 3:46 | 2019-07-30 | 2019-10-16 |
 | [Jealous](https://open.spotify.com/track/5OfWbw2sIHfJnWP9kb3381) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jealous](https://open.spotify.com/album/7yPMOeiZe1clMr90IvrvP2) | 3:36 | 2019-07-30 | 2019-09-13 |
