@@ -31,3 +31,5 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 23 | [Elegy](https://open.spotify.com/track/5MbUyUE6erY9mVgXaecQwR) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 4:23 |
 | 24 | [17](https://open.spotify.com/track/6yjiKDhGBIdoXbo58VBMXF) | [TMPL](https://open.spotify.com/artist/37g0SeIjs1pT9kzVbegO3K) | [TMPL - EP](https://open.spotify.com/album/3ma2A5N9wrovv31EgQnMgW) | 3:31 |
 | 25 | [Phenom](https://open.spotify.com/track/4T6nPixJGoZoybrznQFVFD) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Phenom](https://open.spotify.com/album/2fdVQ5EqBYDuD9ogtrc4do) | 2:44 |
+| 26 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
+| 27 | [Arising](https://open.spotify.com/track/0Ib2cKC2GxykEVxbYa7eqj) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Evergreen](https://open.spotify.com/album/52aC66aIFUWuo2EOLKxii4) | 4:37 |
