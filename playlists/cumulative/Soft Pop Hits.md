@@ -2,7 +2,7 @@
 
 ### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
-> Listen to easy songs from your favorite artists! Cover: Sam Smith
+> Listen to easy songs from your favorite artists! Cover: Ed Sheeran
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
