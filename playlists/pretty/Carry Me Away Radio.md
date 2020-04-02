@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Kina Grannis, Hollow Coves, Skylar Grey and more
+> With John Mayer, Tori Kelly, Jake Scott, Brandi Carlile and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
