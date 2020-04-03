@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Passenger, Van Morrison, Train and more
+> With John Mayer, The Teskey Brothers, Ben Rector, Leon Bridges and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
