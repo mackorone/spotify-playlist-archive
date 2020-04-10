@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Sam Hunt
+> Today's top country hits of the week, worldwide!  Cover: Ashley McBryde
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All On You](https://open.spotify.com/track/6wmX0tZ4Dkzg32z1k9x4Y5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/09eDO7D2wqhuy1bMzfIpm9) | 3:10 | 2019-05-26 | 2019-06-22 |
 | [All To Myself](https://open.spotify.com/track/0uSGTaHms9ceAxb7L6VLrU) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [All To Myself](https://open.spotify.com/album/4l1uFciDagHkMtclb9xuj4) | 2:49 | 2019-05-26 | 2019-11-02 |
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
-| [Anything She Says (feat. Seaforth)](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says (feat. Seaforth)](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 |  |
+| [Anything She Says (feat. Seaforth)](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says (feat. Seaforth)](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-04-10 |
+| [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2020-04-10 |  |
 | [Bachelorettes on Broadway](https://open.spotify.com/track/277YJPrwcN4a1W3xaP06T0) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Bachelorettes on Broadway](https://open.spotify.com/album/75zdFQaCMkQy5Q8BT1Coxl) | 3:28 | 2019-10-19 | 2020-01-18 |
 | [Back To Life](https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Life](https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK) | 3:34 | 2019-08-04 | 2019-11-02 |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too (Deluxe Edition)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2019-05-26 | 2019-06-15 |
@@ -72,7 +73,8 @@
 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 | 2019-05-26 | 2019-06-15 |
 | [Holding Out for the One](https://open.spotify.com/track/7IN4uBTZZK2KJ4tjBL44xU) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand - EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 3:15 | 2020-02-08 |  |
 | [Home With Her](https://open.spotify.com/track/2cxU72H3CkiHJKiJhOj1Rm) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [Home With Her](https://open.spotify.com/album/5kgTIWW6pk1nUfFSyVViQl) | 2:59 | 2019-05-26 | 2019-06-15 |
-| [homecoming queen?](https://open.spotify.com/track/1s71G3V7XQaVo5IOR6gLbp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [homecoming queen?](https://open.spotify.com/album/2lFDv7V3owbyWPJ2Ln5h2J) | 2:47 | 2019-09-06 |  |
+| [homecoming queen?](https://open.spotify.com/track/1s71G3V7XQaVo5IOR6gLbp) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [homecoming queen?](https://open.spotify.com/album/2lFDv7V3owbyWPJ2Ln5h2J) | 2:47 | 2019-09-06 | 2020-04-10 |
+| [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 | 2020-04-10 |  |
 | [Homemade](https://open.spotify.com/track/31JID2STTlLuFqXFWHyM8e) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:12 | 2019-11-02 | 2020-03-21 |
 | [Homesick](https://open.spotify.com/track/6D2Up6lpoFazlmFn0Zpkty) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:25 | 2019-11-16 | 2020-03-21 |
 | [I Don't Know About You](https://open.spotify.com/track/3yOs8FffuG6hPbzQG9lIqV) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Laps Around The Sun](https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR) | 3:27 | 2019-05-26 | 2019-11-02 |

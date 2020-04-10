@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> music that breaks the rules, just a little bit. Featuring Conan Gray
+> music that breaks the rules, just a little bit. Featuring Remi Wolf
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Skater Shawty](https://open.spotify.com/track/6hvl9q1FSjyV4aaaxEYgz8) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Skater Shawty](https://open.spotify.com/album/7JPmKTeWoC6PFYDVGcfFDM) | 2:21 | 2019-12-21 | 2020-01-10 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2019-10-25 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-25 | 2020-02-20 |
+| [Smokescreen](https://open.spotify.com/track/5OiEjwZys4qcCYaBJNFn7I) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2020-04-10 |  |
 | [Snail (feat. Chloe Moriondo)](https://open.spotify.com/track/6wZRVdKVHHSEHiAyTcwtV2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:50 | 2020-03-27 |  |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-01-28 |  |
