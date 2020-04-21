@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jazzstyle](https://open.spotify.com/track/7b1K9s1BzvQ2BgYXyeinHB) | [Lunchbag](https://open.spotify.com/artist/3jGSDnF5X1oQNJt4Ws8R4m) | [Beats On Boat: Lunchbag](https://open.spotify.com/album/7bGOZvIRLW5Lie8eJv1tRb) | 2:53 |
+| 1 | [Jazzstyle](https://open.spotify.com/track/7b1K9s1BzvQ2BgYXyeinHB) | [Lunchbag](https://open.spotify.com/artist/0wpNQXkeGHEGwq5oQ5rKJo) | [Beats On Boat: Lunchbag](https://open.spotify.com/album/7bGOZvIRLW5Lie8eJv1tRb) | 2:53 |
 | 2 | [Uferlos](https://open.spotify.com/track/6sJiPhzfbemXoMly0KskYT) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Beats On Boat: FloFilz](https://open.spotify.com/album/7cMaOzUsjQwkkZfOcpIuPz) | 2:18 |
 | 3 | [Midnight Cruise](https://open.spotify.com/track/1VcGy9lHgUZnwXfFYr8N8k) | [Board-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Midnight Cruise](https://open.spotify.com/album/5si3djFWayMuMDPskOlrjN) | 2:06 |
 | 4 | [The Calm](https://open.spotify.com/track/4IMOXK8UEUmOqLL82KdlLg) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Weather / The Calm](https://open.spotify.com/album/75N9mJYgZQJH4gxnkcuvsr) | 2:11 |
