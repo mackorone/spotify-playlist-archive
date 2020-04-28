@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Thundercat
+> Genre-less. Quality first always. Cover: Goth Babe
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2019-07-30 | 2019-09-05 |
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30 | 2019-10-10 |
 | [Sore Throat](https://open.spotify.com/track/0RIytgkROdfZLR87vkquo8) | [zack villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Sore Throat](https://open.spotify.com/album/3LVfHCrY81FRJBhgj8At35) | 2:01 | 2019-10-23 | 2020-02-07 |
-| [Sorry Mama](https://open.spotify.com/track/1K65lGxDKiZmKTQ48u5kQG) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sorry Mama](https://open.spotify.com/album/37NhQ71TX9OTFdQx6hEYNe) | 2:00 | 2020-04-18 |  |
+| [Sorry Mama](https://open.spotify.com/track/1K65lGxDKiZmKTQ48u5kQG) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sorry Mama](https://open.spotify.com/album/37NhQ71TX9OTFdQx6hEYNe) | 2:00 | 2020-04-18 | 2020-04-28 |
 | [Speedy Racerrrr](https://open.spotify.com/track/2Zaw4Q8TE8txMX4kv02aIn) | [Nathan Bajar](https://open.spotify.com/artist/0daIfyaenO89T2oFsr2vqc) | [Playroom](https://open.spotify.com/album/5WJEkg1Vu7perRsmpYQ8Cq) | 2:49 | 2019-07-30 | 2019-08-23 |
 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 | 2020-04-02 |  |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2019-07-30 | 2019-08-01 |
