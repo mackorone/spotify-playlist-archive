@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Lee Brice
+> New Music Discovery is what we're about.  Try it on for size. Cover: Brett Young
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
