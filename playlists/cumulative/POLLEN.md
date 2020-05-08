@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Goth Babe
+> Genre-less. Quality first always. Cover: Earl Sweatshirt
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

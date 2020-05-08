@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide!  Cover: Kenny Chesney
+> Today's top country hits of the week, worldwide!  Cover: Thomas Rhett
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
