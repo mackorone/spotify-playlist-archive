@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Rocket League Soundtrack (Complete OST)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 
-> 
+> Only original tracks from RL! Updated: 9 May 2020
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,3 +95,24 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 87 | [Carissa](https://open.spotify.com/track/2kFY2mvtu8CdcSp8gkcPZY) | [DESERT STAR](https://open.spotify.com/artist/6OMzm6m3FqYxpnnYTWHJGO) | [Carissa](https://open.spotify.com/album/7kM93po7SUwOAmZCBLe8WI) | 2:25 |
 | 88 | [Playing with the Boys](https://open.spotify.com/track/6BiLeZhIlsJpTyIQMhV8W2) | [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp), [Alli Simms](https://open.spotify.com/artist/7AVLzENiGAeB0Fc9nm8pjB) | [Playing with the Boys](https://open.spotify.com/album/2MuePTE0B8jaiKrBINK5f1) | 3:28 |
 | 89 | [I'll Go](https://open.spotify.com/track/72pGB4XOzAE45n0Zt7wP5A) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Park Avenue](https://open.spotify.com/artist/2InIVjILfVHmvET4a35JaF) | [Cold Ground](https://open.spotify.com/album/2YemfCp5vOv128L36ySPOp) | 4:21 |
+| 90 | [Bloom](https://open.spotify.com/track/4iM70UuzYLeQmD0Z6ozVEB) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are](https://open.spotify.com/album/4mDRIZ4BrOR14zUdF8JZUO) | 4:53 |
+| 91 | [Test Me](https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Watch Yo Back](https://open.spotify.com/album/60nbfXLI18M2vTXVwgsdT3) | 3:04 |
+| 92 | [Mark Twain](https://open.spotify.com/track/6tVUYXoARGbnPVegcWsIEt) | [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [Mostly We Grow Pt. 2](https://open.spotify.com/album/74Q4qvrWZ61xiQNAXjsuk0) | 2:49 |
+| 93 | [Feeling Stronger - High Maintenance Remix](https://open.spotify.com/track/42ZwelVk9yQF4Twt9l43Ba) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Charlotte Colley](https://open.spotify.com/artist/6AahY7rodF2tNZlKD348pD), [High Maintenance](https://open.spotify.com/artist/3XeMKGoCt5TwhUd7DSTg3V) | [Get Crazy / Feeling Stronger (The Remixes)](https://open.spotify.com/album/5YvvsKpSClP5pGTDuEclSz) | 4:12 |
+| 94 | [EPIC](https://open.spotify.com/track/5O7KOryUNhEK5ev7OLWUGe) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [EPIC](https://open.spotify.com/album/6jZRX6gNr7lZSFc92xiXk6) | 3:38 |
+| 95 | [This Time](https://open.spotify.com/track/159xvbYorYT12WDpHe8bD3) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [This Time](https://open.spotify.com/album/4gITX0miY7CHCP4PukYZN2) | 2:50 |
+| 96 | [Rattlesnake](https://open.spotify.com/track/5Gp2779W5p9qN3idmx0nLQ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Rattlesnake](https://open.spotify.com/album/1Y8W0BMWyIjKwY82yimLcX) | 4:30 |
+| 97 | [Boundless](https://open.spotify.com/track/1A0FWUsihHaPmAHxZZpKbY) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [Boundless](https://open.spotify.com/album/4TLTyvGS618bRi6UGtPoYc) | 3:12 |
+| 98 | [Still](https://open.spotify.com/track/2hbdfMTQdbAAYwCrKC5P6M) | [Glacier](https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL) | [Still](https://open.spotify.com/album/5N1vJIbJI6AfNFZFRrQITH) | 3:27 |
+| 99 | [Only You](https://open.spotify.com/track/1OGldKGlJ8FYrKn3pDhYCO) | [Dexter King](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Only You](https://open.spotify.com/album/7px92U72qlg76omebWdDJV) | 3:13 |
+| 100 | [Gold](https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Gold / YES](https://open.spotify.com/album/5OvG0ow70k4wROjF597ost) | 4:20 |
+| 101 | [Enigma](https://open.spotify.com/track/0X5L64QO8VX9nUgI7Evti9) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Upgrade](https://open.spotify.com/album/6QOpZHPu0hC8ts4JeT7SwP) | 3:32 |
+| 102 | [Fighters](https://open.spotify.com/track/7zgYDdPW1BmWzUkwodUsvp) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Fighters](https://open.spotify.com/album/2qxTUvKQWhtozMgoiK8pLS) | 3:46 |
+| 103 | [Revenger](https://open.spotify.com/track/2Qd3WSAVk0JJ6xrJpJqUEd) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Revenger](https://open.spotify.com/album/6z5absG3SjLYPN8AhVcO0e) | 3:42 |
+| 104 | [Bust It Out](https://open.spotify.com/track/1nehyPPIVvbeSK2ExzaWBF) | [FWLR](https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo) | [Bust It Out](https://open.spotify.com/album/4Gw0C02XkYUICKOf2CwfUt) | 3:10 |
+| 105 | [Galaxies](https://open.spotify.com/track/2xO3tUdbE42rjV81NrQJ0S) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Galaxies](https://open.spotify.com/album/3SwsN42cDKkdepUclsJMEz) | 4:05 |
+| 106 | [Blinded](https://open.spotify.com/track/6aTb3KzWpJLxRoGPBmJCei) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Talk!](https://open.spotify.com/album/2g2JBHxSF9mI6fEwQwFZdW) | 3:59 |
+| 107 | [Cobra](https://open.spotify.com/track/6z1LRCM39LEMh5UXvML0VM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Cobra](https://open.spotify.com/album/2rYM0zyU8a2ZEzVIDAkFrO) | 3:12 |
+| 108 | [Heat Wave](https://open.spotify.com/track/47cKmxMxNIxXnsMPju6hdn) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Heat Wave](https://open.spotify.com/album/16SZJlgv3bfU1h8UGc0Vm1) | 3:46 |
+| 109 | [The One](https://open.spotify.com/track/6U6nzpSvKxju6WA0Kojcxn) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [The One](https://open.spotify.com/album/7jTjkekiP10wcRMtmcDLm8) | 3:50 |
+| 110 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 |
