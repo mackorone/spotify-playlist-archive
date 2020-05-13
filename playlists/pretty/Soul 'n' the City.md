@@ -6,10 +6,10 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [3 on E](https://open.spotify.com/track/48Iq6k1seDMe2LprI8zKu0) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, the Job of Real Estate](https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv) | 2:57 |
-| 2 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 |
-| 3 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B. III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 |
-| 4 | [Suitcase (Add The Weight)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
+| 1 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B. III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 |
+| 2 | [Suitcase (Add The Weight)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
+| 3 | [3 on E](https://open.spotify.com/track/48Iq6k1seDMe2LprI8zKu0) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, the Job of Real Estate](https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv) | 2:57 |
+| 4 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 |
 | 5 | [Sunny Afternoon](https://open.spotify.com/track/1Mog4RV9ViEiPBErvSW1Rq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sunny Afternoon](https://open.spotify.com/album/7KaEMLb4nTDHMyvvN47Wkr) | 2:51 |
 | 6 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June - EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 |
 | 7 | [This Is the Day - Full Band Version](https://open.spotify.com/track/5OYbhmr4VY1zSGh7DsZ30K) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is the Day (Full Band Version)](https://open.spotify.com/album/3ar5EfpZUyCeXLIRWx1hTY) | 4:42 |
