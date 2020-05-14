@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Ali Gatie
+> Let your mind float away with these down-tempo low key tracks. Cover: Wafia
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
