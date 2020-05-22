@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Justin Bieber, Gavin James, Maren Morris and more
+> With John Mayer, James Taylor, James Morrison, Norah Jones and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
