@@ -7,7 +7,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Time](https://open.spotify.com/track/4VhRXEEqe1W2n8qe54IfI7) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [1 Time](https://open.spotify.com/album/3zouZHuWxXTvXNL3cSTIrZ) | 3:30 | 2020-05-22 |  |
-| [7Days](https://open.spotify.com/track/52BXPkgrjYRNQNb9qRwfD7) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [7Days](https://open.spotify.com/album/0vBo605SlP4LW0yppE1edf) | 2:46 | 2020-05-22 |  |
+| [7 Days](https://open.spotify.com/track/52BXPkgrjYRNQNb9qRwfD7) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [7 Days](https://open.spotify.com/album/0vBo605SlP4LW0yppE1edf) | 2:46 | 2020-05-24 |  |
+| [7Days](https://open.spotify.com/track/52BXPkgrjYRNQNb9qRwfD7) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [7Days](https://open.spotify.com/album/0vBo605SlP4LW0yppE1edf) | 2:46 | 2020-05-22 | 2020-05-24 |
 | [Ahh Damn](https://open.spotify.com/track/0SiNwNPyoFKCXbJA5jlc5M) | [Just Banco](https://open.spotify.com/artist/6WqUIcLpU2x5IaPulIyGpA) | [Ahh Damn](https://open.spotify.com/album/2soLqhbBBsY1hhgmTmPQis) | 2:17 | 2020-05-22 |  |
 | [All I Want](https://open.spotify.com/track/4enTStGO7Tm9W0zMOpy4rP) | [DYNO](https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq) | [Wutm Season 1](https://open.spotify.com/album/5KySpgNlYY3D8vKLisJ8If) | 1:03 | 2020-05-22 |  |
 | [Allegedly](https://open.spotify.com/track/5w1wYTIXVtQo88vuVmK45X) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Allegedly](https://open.spotify.com/album/2cCOZXHRGHhWlXLcP8v37e) | 3:22 | 2020-05-22 |  |
