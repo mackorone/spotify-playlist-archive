@@ -6,8 +6,8 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 |
-| 2 | [Pick Me](https://open.spotify.com/track/1MDRc141FqtXbIP0UPrdiO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Pick Me](https://open.spotify.com/album/1RxckMhTl9KU5SqyhsHv58) | 2:58 |
+| 1 | [Pick Me](https://open.spotify.com/track/1MDRc141FqtXbIP0UPrdiO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Pick Me](https://open.spotify.com/album/1RxckMhTl9KU5SqyhsHv58) | 2:58 |
+| 2 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 |
 | 3 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
 | 4 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 |
 | 5 | [SKY](https://open.spotify.com/track/0G887DHExBCO8TVdmqy9VR) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [NeverASadAdventure](https://open.spotify.com/album/2JLJdCy6czwPYRAkSDTdgB) | 3:09 |
