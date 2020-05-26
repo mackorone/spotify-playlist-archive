@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Still Woozy
+> Genre-less. Quality first always. Cover: Kota the Friend
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-05-06 |  |
 | [Black Moses (feat. JPEGMAFIA)](https://open.spotify.com/track/47HWyJVPEmyGLOVgMwrozC) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Black Moses (feat. JPEGMAFIA)](https://open.spotify.com/album/5BbPN7qjPfUSEeTvXoGwNL) | 4:20 | 2019-08-01 | 2019-10-18 |
 | [Black Qualls - Single Version](https://open.spotify.com/track/2dh4Ff65vPJmRkc4Xw2K4w) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Black Qualls (Single Version)](https://open.spotify.com/album/2DW7xZRqOhta0mMUKAWs3V) | 3:16 | 2020-01-16 | 2020-04-04 |
+| [Blade Of Hope](https://open.spotify.com/track/3aNYisjLM8Wheus3XR7RZb) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Blade Of Hope](https://open.spotify.com/album/2HmjKJJLvUbUP9urj0jGFr) | 2:10 | 2020-05-26 |  |
 | [Blood & Guts](https://open.spotify.com/track/0UpPY4bquCGW5PtysS0HHJ) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Blood & Guts](https://open.spotify.com/album/0QkSqU0Z2x4WM5pevY9PvU) | 1:45 | 2019-10-11 | 2019-11-02 |
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30 | 2019-08-29 |
 | [BLUE](https://open.spotify.com/track/1Roxb5PucuEVW34lGHRhMY) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [BLUE](https://open.spotify.com/album/5Xxx5CEY3kOdYzIHyxfkYo) | 2:17 | 2019-07-30 | 2019-10-18 |
