@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Yachty, Juice WRLD, Gucci Mane, G Herbo and more.
+> New music from Lil Yachty, Juice WRLD, Gucci Mane, Lil Wayne and more.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [3 Headed Goat (feat. Lil Baby & Polo G)](https://open.spotify.com/track/677KTHp39ZBJ9csDdgymI9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [3 Headed Goat (feat. Lil Baby & Polo G)](https://open.spotify.com/album/7jyTznlK360v8ldMNfvt3Z) | 2:49 | 2020-05-08 |  |
 | [6 Kiss](https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 3:19 | 2019-11-22 | 2020-02-07 |
 | [85 to Africa](https://open.spotify.com/track/2TF0kVvksniUGEdwnBSw2v) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 2:23 | 2019-08-23 | 2019-08-30 |
-| [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 | 2020-04-16 |  |
+| [@ MEH](https://open.spotify.com/track/5UusfWUMMLEXLMc1ViNZoe) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [@ MEH](https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC) | 2:46 | 2020-04-16 | 2020-05-30 |
 | [Act a Fool](https://open.spotify.com/track/3KIMdTgROcteSwwKwoK3Bs) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Act a Fool](https://open.spotify.com/album/0a7jB92VAx5XUNqvryHsox) | 4:48 | 2019-06-21 | 2019-06-28 |
 | [Act Up](https://open.spotify.com/track/4eIT2gZ0WZyJpgfmoD6saJ) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/45TU0GIOO5AxFoiOPk08i1) | 2:38 | 2019-05-26 | 2019-07-06 |
 | [Address It](https://open.spotify.com/track/1FgPyHX7HruKDL4Tx4MeZB) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS) | [Address It](https://open.spotify.com/album/73UZyHk0lahG1F7YDQGu7m) | 2:26 | 2020-05-29 |  |
@@ -357,6 +357,7 @@
 | [She Like I'm Like](https://open.spotify.com/track/2W2txJXyjPO61rD7xAxwAp) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:11 | 2019-09-27 | 2019-10-11 |
 | [She Miss Me (feat. Rich the Kid)](https://open.spotify.com/track/1aWWNp65SdhPci3a9HZHT8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 2:36 | 2019-12-22 | 2020-01-10 |
 | [Sheet Music - Episode 02](https://open.spotify.com/track/1WcnFCRTDDEmyXwAZC4rGI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Sheet Music (Episode 02)](https://open.spotify.com/album/6JmxEBw8F70kglARriocdW) | 2:17 | 2019-11-01 | 2019-11-08 |
+| [Shimmy (with Doja Cat)](https://open.spotify.com/track/2z4eJOcmzeopzffNpor4vt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Funeral (Deluxe)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:48 | 2020-05-30 |  |
 | [Shots](https://open.spotify.com/track/5xjei7JnROsAzLY2a7RdZU) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/65T18oWoikW2MAilg9j8lW) | 1:49 | 2019-08-30 | 2019-11-15 |
 | [Shotta Flow (Feat. Blueface) [Remix]](https://open.spotify.com/track/67XyC1GdSkKb9sbRRkUDXS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Shotta Flow (Feat. Blueface) [Remix]](https://open.spotify.com/album/0lDRXaECpMSYYCsTYRDulh) | 2:56 | 2019-07-12 | 2019-10-04 |
 | [Shotta Flow](https://open.spotify.com/track/4dAMdQ6g4kGmnc1MDHsg77) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow](https://open.spotify.com/album/4O6AXVdjqdJiGYlEm7fz0o) | 2:40 | 2019-05-26 | 2019-07-06 |
