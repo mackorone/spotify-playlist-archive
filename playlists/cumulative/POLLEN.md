@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Kota the Friend
+> Black lives matter.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2019-10-26 | 2020-03-25 |
 | [Foolsong](https://open.spotify.com/track/2iyDTStpAS9b3BOpTJKREn) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately](https://open.spotify.com/album/41DorGE6V1bXIe6WzCte4c) | 2:53 | 2019-07-30 | 2019-10-29 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 |  |
+| [For Colored Boys](https://open.spotify.com/track/75vXX6rcJXnWInl9XQZUfp) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 3:43 | 2020-06-02 |  |
 | [Ford Cardinal](https://open.spotify.com/track/7Esrr3lXpwFDCc7SjKohB6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Ford Cardinal](https://open.spotify.com/album/4ejlypiTpImW5UjJTgW4Lk) | 3:42 | 2019-09-06 | 2020-01-10 |
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2019-10-25 | 2020-01-22 |
 | [Frame - From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/5pfjX1F7YXPQHHNpmWkLoX) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/6MI7UpFxq0mOdOeDnfa2eg) | 5:01 | 2019-11-23 | 2020-04-18 |

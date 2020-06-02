@@ -2,8 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> Lady Gaga, Juice WRLD, ROSALÍA + Travis Scott, 
-and more this New Music Friday!
+> Black lives matter.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,3 +106,4 @@ and more this New Music Friday!
 | 98 | [Track 8](https://open.spotify.com/track/0scqkbbmbtKtoXNH3JL9Dj) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note (Original Motion Picture Soundtrack)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:22 |
 | 99 | [MEDICINE (feat. Tia Scola)](https://open.spotify.com/track/5otnLydsYHjho5h27gQPV2) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Tia Scola](https://open.spotify.com/artist/4EpXPwldCQhwBRl2oUrY6k) | [MANGOTALE](https://open.spotify.com/album/2Xk4f4SBqao4quex0MFLy3) | 3:10 |
 | 100 | [Catch](https://open.spotify.com/track/4XX9brmzggEvkJVRguJHHS) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Catch](https://open.spotify.com/album/23xqxGMKYz6nutMgVyU0Lj) | 2:51 |
+| 101 | [In Memory of George Floyd](https://open.spotify.com/track/5dAdNXy1tiAGs7YkGKrcV0) | [.](https://open.spotify.com/artist/26ex3wdLMfcF3tkIkNPNfC) | [In Memory of George Floyd](https://open.spotify.com/album/6tWMk43ZqUv6ZBNDrEZHh4) | 8:46 |

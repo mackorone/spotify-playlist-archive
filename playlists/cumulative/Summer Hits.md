@@ -2,7 +2,7 @@
 
 ### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP)
 
-> All the hits you'll need to make your summer sizzle.
+> Black Lives Matter
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Need U](https://open.spotify.com/track/48GmVZwvkoVC5StfMLfNJE) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Need U](https://open.spotify.com/album/2yBTjWwQLEr2i0LTIcUmwT) | 3:39 | 2019-08-17 | 2020-04-29 |
 | [Never Been Hurt Before](https://open.spotify.com/track/2S7cQhfSdnzGPohB5dyu8b) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [Never Been Hurt Before](https://open.spotify.com/album/3h9CzKWeKubC3aWmQNA44G) | 3:05 | 2019-08-02 | 2019-08-14 |
 | [Never Go Back](https://open.spotify.com/track/548ZbKPrSF8nxSrRYWUW7X) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Exident](https://open.spotify.com/album/1kxlfdgAuoQ4UOwOmHrZUe) | 2:55 | 2019-05-26 | 2019-08-08 |
-| [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 | 2020-05-13 |  |
+| [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 | 2020-05-13 | 2020-06-02 |
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2019-06-01 | 2019-07-30 |
 | [Nicknames (feat. gnash)](https://open.spotify.com/track/2KSwFkeMHucdwgMtdzI2ns) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Nicknames (feat. gnash)](https://open.spotify.com/album/3YTxR52ky6DE0PkLBNTvlk) | 3:06 | 2020-04-29 |  |
 | [Nightmare](https://open.spotify.com/track/340UVheS8z3ncW9TTUhAbc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Nightmare](https://open.spotify.com/album/4KaiavWFhR7j9tY1f7V6UL) | 3:51 | 2019-05-26 | 2019-07-03 |
@@ -266,7 +266,7 @@
 | [Right Here](https://open.spotify.com/track/3nXC306bJCxC0bnqZSX56U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Right Here](https://open.spotify.com/album/2HXovRXTPc5gbKk1xoz9eU) | 2:49 | 2020-05-09 | 2020-05-22 |
 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 | 2019-06-01 | 2019-07-10 |
 | [Rooting For You](https://open.spotify.com/track/1spZPzBLYeVTvd0iDWXgC2) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Rooting For You](https://open.spotify.com/album/4yp0nH151NPmcakfthQDc9) | 2:56 | 2019-08-10 | 2020-04-29 |
-| [Roses - Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses (Imanbek Remix)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2020-04-29 | 2020-06-01 |
+| [Roses - Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses (Imanbek Remix)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2020-04-29 |  |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2020-04-29 | 2020-05-27 |
 | [Running On My Mind](https://open.spotify.com/track/0xEW9gPv5wNuS84pXGG3lc) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Running On My Mind](https://open.spotify.com/album/117stOgbjnRoJjARCJjADm) | 2:36 | 2020-05-31 |  |
 | [Sad Forever](https://open.spotify.com/track/4a5zacCsHLtMC2mcxkqWwn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Sad Forever](https://open.spotify.com/album/1kYth2YmXOBSfLKvWIbr12) | 3:23 | 2019-06-08 | 2019-06-19 |

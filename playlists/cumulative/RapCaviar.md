@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Yachty, Juice WRLD, Gucci Mane, Lil Wayne and more.
+> Black lives matter.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2020-04-18 |  |
 | [All Bad (feat. Lil Uzi Vert)](https://open.spotify.com/track/021lWIHJrURZrmvYQ1xcM8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:27 | 2020-05-15 | 2020-05-22 |
 | [All In](https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All In](https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U) | 2:36 | 2020-04-24 | 2020-05-01 |
+| [Alright](https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Alright](https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i) | 3:14 | 2020-06-02 |  |
 | [Apollo](https://open.spotify.com/track/0VPmIETYsw3JBnyh4iDjVv) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Apollo](https://open.spotify.com/album/45lKgjsHIE2vz79l8EydQv) | 3:28 | 2020-03-06 | 2020-05-01 |
 | [Audacity (feat. Headie One)](https://open.spotify.com/track/3WcGdhN6wvGplwVyixNgfI) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Audacity (feat. Headie One)](https://open.spotify.com/album/6C28KhpoiFAUsJr4ZwBsry) | 4:05 | 2019-12-13 | 2019-12-20 |
 | [B*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Mulatto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 | 2019-10-11 | 2019-11-01 |
@@ -114,7 +115,7 @@
 | [DND](https://open.spotify.com/track/7sMu0DXeCVYwTivw9kBl99) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [DND](https://open.spotify.com/album/5DRKtV1MKMWRxKQBjwkcTt) | 3:00 | 2020-04-10 | 2020-05-08 |
 | [DO DAT (feat. DaBaby & Lil Baby)](https://open.spotify.com/track/6eluAsb2ONjZ6tXFp062LZ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RICH YOUNGIN](https://open.spotify.com/album/3o5M2OXfUVRsUFrd7u4a5K) | 2:55 | 2020-03-06 | 2020-04-24 |
 | [Do The Most](https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Do The Most](https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4) | 2:24 | 2020-03-27 | 2020-04-10 |
-| [DOLLAZ ON MY HEAD (feat. Young Thug)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2020-05-22 |  |
+| [DOLLAZ ON MY HEAD (feat. Young Thug)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2020-05-22 | 2020-06-02 |
 | [Double Trouble (Quavo feat. Meek Mill)](https://open.spotify.com/track/5YSfZJE0EYrGVsWeYqv9xo) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:56 | 2019-08-16 | 2019-10-04 |
 | [Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)](https://open.spotify.com/track/4eqrNsKy9Mvg1fvfsTVIAE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [1-888-88-DREAM](https://open.spotify.com/album/3VTNWsdPxKZjJvEY87GivP) | 2:49 | 2019-06-13 | 2019-08-02 |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2019-05-26 | 2019-09-13 |

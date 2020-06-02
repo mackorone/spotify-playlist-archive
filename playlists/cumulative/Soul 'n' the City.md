@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of Soul-infused music! Cover: <a href="spotify:artist:73dudJ9j0HStIhJDU8MjMI">Feng Suave</a>.
+> Black Lives Matter
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Pink Elephant](https://open.spotify.com/track/1LTN8lthZDQ3ArVXUlkwPQ) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Pink Elephant](https://open.spotify.com/album/73Y0cQYAtc71uPgMOzk1sg) | 3:12 | 2020-04-12 | 2020-05-15 |
 | [Recall](https://open.spotify.com/track/3f056kh9ylAHBtkitZHyKd) | [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [Recall](https://open.spotify.com/album/4eAwl993f7p4YvLkQdouwx) | 4:34 | 2020-03-25 |  |
 | [Remedy](https://open.spotify.com/track/0hnpoj1FS6bpPbFXLXLBTH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Remedy](https://open.spotify.com/album/1heefxZcK41kW2gzLtnwTM) | 3:39 | 2020-03-25 |  |
+| [Rise - A COLORS SHOW](https://open.spotify.com/track/5MDKKxviGiWc0LHg7N5JKL) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Rise - A COLORS SHOW](https://open.spotify.com/album/0RDldqqrBC9ftaa0yAgSB7) | 2:50 | 2020-06-02 |  |
 | [Rome](https://open.spotify.com/track/4tIQSUOeS5lUt0z9bo7I7H) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Rome](https://open.spotify.com/album/63PWuzq9CUkvVjHTfZXPqe) | 3:47 | 2020-03-25 |  |
 | [Sailing Out - Radio Edit](https://open.spotify.com/track/4CJODw2DF9BiRzkhmNlXmh) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Sailing Out](https://open.spotify.com/album/2zCGyhPMO7RlSORcAGLS7C) | 3:07 | 2020-03-25 |  |
 | [Sativa](https://open.spotify.com/track/6IRc3bTL3NZB3dFqlbCNAb) | [Gallowstreet](https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Sativa](https://open.spotify.com/album/1B5acncxKivvxZGeoKYevc) | 2:54 | 2020-03-25 |  |
@@ -93,6 +94,7 @@
 | [Suitcase (Add The Weight)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 | 2020-04-24 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/1Mog4RV9ViEiPBErvSW1Rq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sunny Afternoon](https://open.spotify.com/album/7KaEMLb4nTDHMyvvN47Wkr) | 2:51 | 2020-05-01 |  |
 | [Talk In The Morning](https://open.spotify.com/track/4jcPICjKkT0vi2nNXQB0nl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning](https://open.spotify.com/album/5XyVOBpjoALqVuSUky9Jbg) | 3:37 | 2020-03-25 |  |
+| [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2020-06-02 |  |
 | [The Morning](https://open.spotify.com/track/1WmjjX2huIRA33VRikkL5S) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [The Morning](https://open.spotify.com/album/4akVAQM6gS7zajaOqB2Us7) | 3:37 | 2020-03-27 |  |
 | [The People](https://open.spotify.com/track/2v3EddSC3PIGgMEWp53EWD) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The People](https://open.spotify.com/album/2I8aTpOlDb21CAORQIvqEC) | 3:55 | 2020-03-25 |  |
 | [The River](https://open.spotify.com/track/3rLWsd8M1eECSanaJMdRGM) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [The BLK LT$](https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil) | [The River](https://open.spotify.com/album/4qBT9VqPT87ceqTUuuXY2F) | 3:12 | 2020-03-25 | 2020-04-12 |
@@ -105,6 +107,7 @@
 | [Underneath the Surface](https://open.spotify.com/track/6LqJvhrBPFKlE0KUDBlpTl) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:31 | 2020-05-05 |  |
 | [Up All Night - Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2020-03-25 | 2020-04-24 |
 | [Venom of Angels](https://open.spotify.com/track/6CZT7NYQ6dAHDtGWRf9dJz) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Venom of Angels](https://open.spotify.com/album/3xlrnbjsSvw1gaNkdP4Qey) | 3:42 | 2020-03-25 |  |
+| [Wake up Everybody (feat. Common & Melanie Fiona)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 | 2020-06-02 |  |
 | [We Don't Funk](https://open.spotify.com/track/3waaRJJlv7BIAxDeq9lCuY) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [We Don't Funk](https://open.spotify.com/album/2u59NynIjtaoYnryhv4HjD) | 2:02 | 2020-03-25 | 2020-04-12 |
 | [Yes I Am](https://open.spotify.com/track/5dygCpuOvgXkSWB7hPEwEI) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Yes I Am](https://open.spotify.com/album/3gN5NETExLN0RtCJ4KtiQP) | 3:56 | 2020-03-25 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2020-04-24 |  |
