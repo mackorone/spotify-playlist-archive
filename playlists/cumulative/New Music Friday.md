@@ -2,7 +2,7 @@
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> Black lives matter.
+> Lady Gaga, Juice WRLD, ROSALÍA + Travis Scott, and more this New Music Friday!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1389,7 +1389,7 @@
 | [In A Bind](https://open.spotify.com/track/7L8cmap5xIlO3EBFYBKLV9) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:40 | 2019-10-22 | 2019-10-25 |
 | [In And Out Of Love](https://open.spotify.com/track/4b49GXwSHKvb4FxJhzGixD) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [In And Out Of Love](https://open.spotify.com/album/23ebeKbLQf6ALiIByBcALY) | 2:57 | 2020-02-07 | 2020-02-14 |
 | [In Love With A Stripper](https://open.spotify.com/track/4AZcT4EWTwXvBE3qUlfl6D) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz) | [In Love With A Stripper](https://open.spotify.com/album/0dAIeTg6LeYL7GVPqhaXFP) | 1:33 | 2020-03-27 | 2020-04-03 |
-| [In Memory of George Floyd](https://open.spotify.com/track/5dAdNXy1tiAGs7YkGKrcV0) | [.](https://open.spotify.com/artist/26ex3wdLMfcF3tkIkNPNfC) | [In Memory of George Floyd](https://open.spotify.com/album/6tWMk43ZqUv6ZBNDrEZHh4) | 8:46 | 2020-06-02 |  |
+| [In Memory of George Floyd](https://open.spotify.com/track/5dAdNXy1tiAGs7YkGKrcV0) | [.](https://open.spotify.com/artist/26ex3wdLMfcF3tkIkNPNfC) | [In Memory of George Floyd](https://open.spotify.com/album/6tWMk43ZqUv6ZBNDrEZHh4) | 8:46 | 2020-06-02 | 2020-06-03 |
 | [In My Bed](https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:05 | 2019-12-13 | 2019-12-20 |
 | [In My Flesh (with Lil Durk)](https://open.spotify.com/track/4hKsTKgjTqGe9mdtSs4yot) | [Markie](https://open.spotify.com/artist/6pbCAEo8sbv3Ajv05vlgHD), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In My Flesh (with Lil Durk)](https://open.spotify.com/album/4XIt6Hxxq23RFHyNneFgZ6) | 2:22 | 2019-10-22 | 2019-10-25 |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-08 | 2019-11-15 |

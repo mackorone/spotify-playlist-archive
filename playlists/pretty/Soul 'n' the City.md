@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Black Lives Matter
+> Your daily dose of Soul-infused music! Cover: <a href="spotify:artist:73dudJ9j0HStIhJDU8MjMI">Feng Suave</a>
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Black lives matter.
+> Today's top country hits of the week, worldwide! Cover: Lee Brice
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,9 +12,9 @@
 | [Alcohol You Later](https://open.spotify.com/track/16HAr3eu7TCbeJ0IOJLQxY) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Mitchell Tenpenny - EP](https://open.spotify.com/album/36Hros61c2dlrO3A5ZapaW) | 3:07 | 2019-05-26 | 2019-09-08 |
 | [All On You](https://open.spotify.com/track/6wmX0tZ4Dkzg32z1k9x4Y5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/09eDO7D2wqhuy1bMzfIpm9) | 3:10 | 2019-05-26 | 2019-06-22 |
 | [All To Myself](https://open.spotify.com/track/0uSGTaHms9ceAxb7L6VLrU) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [All To Myself](https://open.spotify.com/album/4l1uFciDagHkMtclb9xuj4) | 2:49 | 2019-05-26 | 2019-11-02 |
-| [All Tractors Ain't Green](https://open.spotify.com/track/6SYHOc6yOAm1nw81R66jby) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:02 | 2020-06-02 |  |
+| [All Tractors Ain't Green](https://open.spotify.com/track/6SYHOc6yOAm1nw81R66jby) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:02 | 2020-06-02 | 2020-06-03 |
 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 | 2020-05-30 |  |
-| [American Bad Dream](https://open.spotify.com/track/28IpXMPFkft2Ob73inGYLI) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:18 | 2020-06-02 |  |
+| [American Bad Dream](https://open.spotify.com/track/28IpXMPFkft2Ob73inGYLI) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:18 | 2020-06-02 | 2020-06-03 |
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
 | [Anything She Says (feat. Seaforth)](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says (feat. Seaforth)](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-04-10 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2020-04-10 |  |
@@ -48,7 +48,7 @@
 | [Come Back To Bed](https://open.spotify.com/track/0kSUH6KBoUrHWL93j1Lx3h) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Come Back To Bed](https://open.spotify.com/album/1JcSjonw1IEtZP0euGl9rk) | 3:03 | 2020-04-18 |  |
 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 | 2020-04-24 |  |
 | [Cool Anymore](https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cool Anymore](https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL) | 3:20 | 2020-01-26 |  |
-| [Dear Hate (feat. Vince Gill)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate (feat. Vince Gill)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 |  |
+| [Dear Hate (feat. Vince Gill)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate (feat. Vince Gill)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 | 2020-06-03 |
 | [Does To Me (feat. Eric Church)](https://open.spotify.com/track/17TSJlshgQ5zu0e8dedAla) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:43 | 2020-02-15 |  |
 | [Drink About Me](https://open.spotify.com/track/1kC07qGOyx8w7ON5k8xHOp) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Now or Never](https://open.spotify.com/album/175wot2CVm3ZAt5REOm7da) | 3:11 | 2020-01-18 | 2020-05-09 |
 | [Drinkin' Terms](https://open.spotify.com/track/0leBYsvyyFSXc1aeuFVgTD) | [Cody Purvis](https://open.spotify.com/artist/3uVEo0XTel7WqHQlSnRehM) | [Drinkin' Terms](https://open.spotify.com/album/51TUPlYZ6L19N3whHf2nbT) | 2:56 | 2019-05-26 | 2019-06-15 |

@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Black lives matter.
+> Genre-less. Quality first always. Cover: Kota the Friend
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Just When](https://open.spotify.com/track/01LTzmitkMqLmmrEEyUkqx) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Just When](https://open.spotify.com/album/4UJtK2bKAAJfaowBva1tPF) | 3:30 | 2019-07-30 | 2019-10-10 |
 | [Kerosene!](https://open.spotify.com/track/52vVxJeUJUPMkETpTfhHO5) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Kerosene!](https://open.spotify.com/album/3lpLu3yxcn1NMkj6T66NJ9) | 5:05 | 2020-03-10 |  |
 | [Kevin](https://open.spotify.com/track/2DylrERZbUpx845Cd8y7hU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Kevin](https://open.spotify.com/album/6rqZTOVumjrqnV4cT6i9xq) | 3:19 | 2020-05-01 |  |
-| [Keys, Wallet, Phone, God](https://open.spotify.com/track/3skGTBhNon6pgVYE14ez2m) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 1:40 | 2020-04-21 |  |
+| [Keys, Wallet, Phone, God](https://open.spotify.com/track/3skGTBhNon6pgVYE14ez2m) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 1:40 | 2020-04-21 | 2020-06-03 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2020-04-18 |  |
 | [Language](https://open.spotify.com/track/7sYeRkHhaQdb4MVHsMzdoj) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Language](https://open.spotify.com/album/5E6lf7qf3YOObRx8QhCN4x) | 2:55 | 2020-05-14 |  |
 | [Lavender](https://open.spotify.com/track/2S7ORjggE2JPyamVM7FKio) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Forest Green](https://open.spotify.com/album/6CHVguUQo6SITKthJgkrnT) | 2:18 | 2019-08-08 | 2020-04-04 |

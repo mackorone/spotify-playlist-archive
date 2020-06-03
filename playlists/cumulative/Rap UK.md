@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> Black Lives Matter
+> The finest in UK rap. Cover: Aitch
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Betty](https://open.spotify.com/track/5sICnSGfWkwVmIeD9WZ2Jk) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Betty / Bang Out](https://open.spotify.com/album/147B0jeQbl6hdOVoeWL6xK) | 2:16 | 2020-05-30 |  |
 | [Big Risk](https://open.spotify.com/track/1fA8fQnROrSL2TkfmniFsr) | [Teeway](https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Big Risk](https://open.spotify.com/album/18l0dkveGNSCMkhYqkkMby) | 3:42 | 2020-05-30 |  |
 | [Bk Chat LDN](https://open.spotify.com/track/5uINCtwgIWt0biYGXhc0ui) | [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [Monkey](https://open.spotify.com/artist/2t4lHcyMnvoIm3V0FIzpsi), [67 Sj](https://open.spotify.com/artist/6kRMQTBxSFnwDQcbIbkwxj), [Ching](https://open.spotify.com/artist/6EKxAey97bb5UiMHAXnMUQ), [PR](https://open.spotify.com/artist/6YueWLFlrZdVodbcEHv8yc) | [Quarantined](https://open.spotify.com/album/7vsvoULx4Fozr3laayNRXU) | 3:05 | 2020-05-22 |  |
-| [Black](https://open.spotify.com/track/2IzjEAXzEYu5jYpAbiRxTk) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Black](https://open.spotify.com/album/1lipgBEZFVT0LRKOmfhZfu) | 3:48 | 2020-06-02 |  |
+| [Black](https://open.spotify.com/track/2IzjEAXzEYu5jYpAbiRxTk) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Black](https://open.spotify.com/album/1lipgBEZFVT0LRKOmfhZfu) | 3:48 | 2020-06-02 | 2020-06-03 |
 | [Brain](https://open.spotify.com/track/4P1YsCha4fyprC9UBRrBpY) | [Kilo Jugg](https://open.spotify.com/artist/0hBTr09yyqP3T8ggCsCdjE) | [Brain](https://open.spotify.com/album/4lvPTiJMA7l3kMt7yX2wKz) | 3:29 | 2020-05-22 | 2020-05-30 |
 | [Brixton To Oxford Circus](https://open.spotify.com/track/3JbSx4okKxeNxWonxz4bzc) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Brixton To Oxford Circus](https://open.spotify.com/album/6DNSRZLqbUtAQ2tBGXCFeM) | 3:12 | 2020-05-25 |  |
 | [Brownies](https://open.spotify.com/track/0MYYbW7LblPrnReonpIpOT) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Brownies](https://open.spotify.com/album/5DHOH6F4LfRosCRzlupydP) | 3:36 | 2020-05-22 |  |

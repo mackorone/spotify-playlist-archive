@@ -2,17 +2,17 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> Black lives matter.
+> The best indie tracks right now. Cover: HAIM
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 |
 | 2 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
-| 3 | [Neither/Nor](https://open.spotify.com/track/1V4b8vPkhl4JxRPqn67qQH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 5:26 |
-| 4 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
-| 5 | [Lightning](https://open.spotify.com/track/6dWTbTnetFvbRVvUGH43jK) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Lightning](https://open.spotify.com/album/1YTwyOpE6IHveWc0Jb5zOq) | 3:07 |
-| 6 | [PDLIF](https://open.spotify.com/track/6Md0VfGaWXZgJc53IMqPkO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/3jCYZ7RhgLinLls6o0hBQN) | 2:57 |
-| 7 | [I Know Alone](https://open.spotify.com/track/7CbxeQuHA0uysmwrbuWoSI) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:46 |
+| 3 | [I Know Alone](https://open.spotify.com/track/7CbxeQuHA0uysmwrbuWoSI) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:46 |
+| 4 | [Neither/Nor](https://open.spotify.com/track/1V4b8vPkhl4JxRPqn67qQH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 5:26 |
+| 5 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
+| 6 | [Lightning](https://open.spotify.com/track/6dWTbTnetFvbRVvUGH43jK) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Lightning](https://open.spotify.com/album/1YTwyOpE6IHveWc0Jb5zOq) | 3:07 |
+| 7 | [PDLIF](https://open.spotify.com/track/6Md0VfGaWXZgJc53IMqPkO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/3jCYZ7RhgLinLls6o0hBQN) | 2:57 |
 | 8 | [What She Said](https://open.spotify.com/track/2MnzG8kwayb7cyuM0D48o8) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What She Said](https://open.spotify.com/album/5H70W7PXbBzmRXPxgCCThn) | 4:44 |
 | 9 | [Happiness In Liquid Form](https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness In Liquid Form](https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym) | 3:32 |
 | 10 | [Dreamland](https://open.spotify.com/track/5Bkw0lMhwk8tF4kMgCCJLv) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/1YuD9tjpVMRbSmWDfOiyem) | 3:23 |

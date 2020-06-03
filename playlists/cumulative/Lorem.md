@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Black Lives Matter.
+> music that breaks the rules, just a little bit. Cover: Jany Green
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Perdus](https://open.spotify.com/track/7eMBDipvMwVnYiMe0yrS5x) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Perdus](https://open.spotify.com/album/4wFRyp4PoR2DOJ639l9NVv) | 3:03 | 2019-10-12 | 2019-11-14 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2019-09-14 | 2019-11-14 |
 | [pharmacy](https://open.spotify.com/track/3P0SxiMr7soANdYkHEDk5z) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:35 | 2019-07-30 | 2019-11-14 |
-| [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2019-07-30 |  |
+| [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2019-07-30 | 2020-06-03 |
 | [Photo ID](https://open.spotify.com/track/0fzE5LlGfQwJLvEiJ7UqUZ) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Photo ID](https://open.spotify.com/album/0KZ5EGfXX5w2T2HOIdOU5p) | 4:25 | 2020-05-01 |  |
 | [Picture Perfect](https://open.spotify.com/track/4PAaJhFkM25JSSkFcqjyxC) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Picture Perfect](https://open.spotify.com/album/4X3zGeBgtrv21QgWyeaPFm) | 3:07 | 2020-02-11 | 2020-05-05 |
 | [Plans](https://open.spotify.com/track/21gFBttZdo6RJySWtwPbf5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Plans](https://open.spotify.com/album/4899tf9GNQcdopoBMs4RsW) | 3:11 | 2019-10-10 | 2020-01-17 |
@@ -446,7 +446,7 @@
 | [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2020-03-25 | 2020-03-27 |
 | [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sunflower (Spider-Man: Into the Spider-Verse)](https://open.spotify.com/album/47LpgGVshd0tbFSbm9tTLb) | 2:38 | 2019-07-30 | 2019-09-10 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2019-07-30 | 2020-04-02 |
-| [Sunflower, Vol. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2019-12-14 |  |
+| [Sunflower, Vol. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2019-12-14 | 2020-06-03 |
 | [Sunkissed](https://open.spotify.com/track/5uWDUe75h2FHLZyMX9r5sp) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Sunkissed](https://open.spotify.com/album/6Y1JQjug6lXx2hbbpN86RM) | 2:06 | 2019-09-27 | 2020-05-05 |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2019-11-16 |  |
 | [Supercut](https://open.spotify.com/track/6IIcLzR05sN1gk4ngzz7Kk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4oCGmYsAQOWt2ACWTpNUU6) | 4:37 | 2019-07-30 | 2019-09-27 |
