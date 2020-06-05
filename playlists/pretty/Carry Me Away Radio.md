@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maggie Rogers, Wild Rivers, Death Cab for Cutie and more
+> With John Mayer, Quinn XCII, Leon Bridges, LÉON and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
