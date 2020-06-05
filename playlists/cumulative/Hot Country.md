@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Lee Brice
+> Today's top country hits of the week, worldwide! Cover: Mickey Guyton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,4 +225,5 @@
 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 | 2019-05-26 | 2019-06-22 |
 | [Whole Lotta Love](https://open.spotify.com/track/3i2jedSUrOgRrkkX5HjjvS) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Whole Lotta Love](https://open.spotify.com/album/33ff1Qxm13QVMOo5IIZDY0) | 2:58 | 2019-10-19 | 2019-11-09 |
 | [Workin' on Whiskey](https://open.spotify.com/track/6PgyiqMPLudWUWHM9PL2RA) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Workin' on Whiskey](https://open.spotify.com/album/3fstg8mcosIcLsoR8IPYsP) | 3:49 | 2019-07-27 | 2019-08-04 |
+| [Worldwide Beautiful](https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worldwide Beautiful](https://open.spotify.com/album/30mVH408jo6oYaMduiwX66) | 3:28 | 2020-06-05 |  |
 | [You should be sad](https://open.spotify.com/track/2usxQITOSDqvkYiI0oIwao) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [You should be sad](https://open.spotify.com/album/1gBDGPFz9v93dxE3fUU9eO) | 3:25 | 2020-02-08 | 2020-05-09 |
