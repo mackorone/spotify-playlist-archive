@@ -2,7 +2,7 @@
 
 ### [Butter](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Alternative soul, hip-hop and all that jazz. Cover: Lianne La Havas
+> Alternative soul, hip-hop and all that jazz. Cover: Jorja Smith
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [C-Side](https://open.spotify.com/track/6GvAM8oyVApQHGMgpBt8yl) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [C-Side](https://open.spotify.com/album/76HLskcIOsNyVTdNV6k7aJ) | 4:43 | 2020-01-16 | 2020-03-20 |
 | [call](https://open.spotify.com/track/2SMmWQjdyfqeFBWEtYSPER) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Coby Grant](https://open.spotify.com/artist/0KIAa5HfMdRsbfhxzDcNVY) | [call](https://open.spotify.com/album/0LxAOZQclMnkk54tHzBfiI) | 2:05 | 2019-12-04 | 2020-01-27 |
 | [Call](https://open.spotify.com/track/12TWXbhPnlu0fcUaMTG8l5) | [Harleighblu](https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Call](https://open.spotify.com/album/1atZpFxR0gzUGfZ982IiSf) | 3:15 | 2019-10-08 | 2019-11-22 |
-| [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2020-05-01 |  |
+| [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 | 2020-05-01 | 2020-06-10 |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2020-05-22 |  |
 | [Can't Refuse](https://open.spotify.com/track/3QpZ33JPgqCu7BsxaWKkAi) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Can't Refuse](https://open.spotify.com/album/1QzjJKr1zyo5NA0nyfW7Bs) | 3:05 | 2020-05-25 | 2020-06-06 |
 | [Can't Refuse](https://open.spotify.com/track/3QpZ33JPgqCu7BsxaWKkAi) | [J.LAMOTTA SUZUME](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Can't Refuse](https://open.spotify.com/album/1QzjJKr1zyo5NA0nyfW7Bs) | 3:05 | 2020-06-06 |  |
@@ -216,6 +216,7 @@
 | [Risk](https://open.spotify.com/track/301KtHr9nGzK5R5IyNVuBu) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Risk](https://open.spotify.com/album/05Xcd8e0kQAcHPcSwgzsfu) | 3:58 | 2019-11-08 | 2020-04-24 |
 | [Road to Peace](https://open.spotify.com/track/0DBQt8b86EbUEWfH6gqpAd) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Road to Peace](https://open.spotify.com/album/0oaKuMMa7gQQsnCmBlfqkF) | 3:37 | 2019-10-10 | 2019-11-01 |
 | [rope](https://open.spotify.com/track/54dQrW1GIFRxDAsXkSoOyT) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [rope](https://open.spotify.com/album/574WCpeyrvnsODa6DVYrRr) | 2:55 | 2020-05-22 |  |
+| [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2020-06-10 |  |
 | [Sage Secrets](https://open.spotify.com/track/3cqKNfyrHyhrBdciF0wj92) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sage Secrets](https://open.spotify.com/album/5u8PXxCMPYOWB52Uwz227q) | 3:42 | 2020-04-10 | 2020-05-01 |
 | [Sao Paulo Sunset](https://open.spotify.com/track/0vTJP35J4M1PY9iAA8UmbV) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Summer Days](https://open.spotify.com/album/4uqJIUuSpvidPfFLDkAmHP) | 3:27 | 2019-09-29 | 2019-11-20 |
 | [Say Something](https://open.spotify.com/track/7HRWbH6LQPojqRaiuAgQqj) | [MADANII](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f), [L:LUCID](https://open.spotify.com/artist/5BqTGVZWyKbcvweUqJj3wg) | [Say Something](https://open.spotify.com/album/2EIbVwTv7IXT7ZAO2qV3ri) | 2:54 | 2019-10-25 | 2019-11-20 |
