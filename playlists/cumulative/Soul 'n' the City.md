@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of Soul-infused music! Cover: <a href="spotify:artist:73dudJ9j0HStIhJDU8MjMI">Feng Suave</a>
+> Your daily dose of Soul-infused music! Cover: <a href="spotify:artist:1uiEZYehlNivdK3iQyAbye">Tom Misch</a> and <a href="spotify:artist:2rspptKP0lPBdlJJAJHqht">Yussef Dayes</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [The People](https://open.spotify.com/track/2v3EddSC3PIGgMEWp53EWD) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The People](https://open.spotify.com/album/2I8aTpOlDb21CAORQIvqEC) | 3:55 | 2020-03-25 | 2020-06-05 |
 | [The River](https://open.spotify.com/track/3rLWsd8M1eECSanaJMdRGM) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [The BLK LT$](https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil) | [The River](https://open.spotify.com/album/4qBT9VqPT87ceqTUuuXY2F) | 3:12 | 2020-03-25 | 2020-04-12 |
 | [This Is the Day - Full Band Version](https://open.spotify.com/track/5OYbhmr4VY1zSGh7DsZ30K) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is the Day (Full Band Version)](https://open.spotify.com/album/3ar5EfpZUyCeXLIRWx1hTY) | 4:42 | 2020-03-25 |  |
+| [Tidal Wave](https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:09 | 2020-06-12 |  |
 | [Time Alone With You (feat. Daniel Caesar)](https://open.spotify.com/track/04jVEb76Kw5OrmGtlXlHxI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Time Alone With You (feat. Daniel Caesar)](https://open.spotify.com/album/1pwXpbHvWEMH4nCAlhlwf7) | 4:15 | 2020-03-25 | 2020-04-12 |
 | [Toking, Dozing](https://open.spotify.com/track/25uVLrUrzXnqjDHoyX3bCY) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Toking, Dozing](https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL) | 3:46 | 2020-03-25 | 2020-05-15 |
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2020-03-25 |  |
@@ -110,7 +111,7 @@
 | [Underneath the Surface](https://open.spotify.com/track/6LqJvhrBPFKlE0KUDBlpTl) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:31 | 2020-05-05 |  |
 | [Up All Night - Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2020-03-25 | 2020-04-24 |
 | [Venom of Angels](https://open.spotify.com/track/6CZT7NYQ6dAHDtGWRf9dJz) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Venom of Angels](https://open.spotify.com/album/3xlrnbjsSvw1gaNkdP4Qey) | 3:42 | 2020-03-25 |  |
-| [Wake up Everybody (feat. Common & Melanie Fiona)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 | 2020-06-02 |  |
+| [Wake up Everybody (feat. Common & Melanie Fiona)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 | 2020-06-02 | 2020-06-12 |
 | [We Don't Funk](https://open.spotify.com/track/3waaRJJlv7BIAxDeq9lCuY) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [We Don't Funk](https://open.spotify.com/album/2u59NynIjtaoYnryhv4HjD) | 2:02 | 2020-03-25 | 2020-04-12 |
 | [When They See Us](https://open.spotify.com/track/4CHgGOhXwtzb7j12tQuZ55) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [When They See Us](https://open.spotify.com/album/28Id1uB0xhMahviTxxs4O6) | 3:07 | 2020-06-05 |  |
 | [Yes I Am](https://open.spotify.com/track/5dygCpuOvgXkSWB7hPEwEI) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Yes I Am](https://open.spotify.com/album/3gN5NETExLN0RtCJ4KtiQP) | 3:56 | 2020-03-25 |  |
