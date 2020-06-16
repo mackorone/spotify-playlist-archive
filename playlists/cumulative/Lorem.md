@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> music that breaks the rules, just a little bit. Cover: Jany Green
+> music that breaks the rules, just a little bit. Cover: chloe moriondo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Hurry Home (with beabadoobee & Jay Som)](https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Hurry Home (with beabadoobee & Jay Som)](https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ) | 3:56 | 2020-05-29 |  |
 | [I Always Wanna Die (Sometimes)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30 | 2020-05-22 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2020-01-15 | 2020-04-28 |
-| [I CHOOSE YOU](https://open.spotify.com/track/6YRLMz4DOqNtGCvqGR2E0N) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I CHOOSE YOU](https://open.spotify.com/album/7IQHVqrPoox6QKnyW9zGDY) | 3:37 | 2019-11-22 |  |
+| [I CHOOSE YOU](https://open.spotify.com/track/6YRLMz4DOqNtGCvqGR2E0N) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I CHOOSE YOU](https://open.spotify.com/album/7IQHVqrPoox6QKnyW9zGDY) | 3:37 | 2019-11-22 | 2020-06-16 |
 | [I Could Be There](https://open.spotify.com/track/3zuHUxTaDx8cMEkMcahWpo) | [Sui Zhen](https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5) | [Losing, Linda](https://open.spotify.com/album/47ttODIl9f3jYOKELor47c) | 5:05 | 2019-09-27 | 2019-10-03 |
 | [I Don't Even Smoke Weed](https://open.spotify.com/track/4AcjZoKIpV3s1jWdkSGWnJ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Us](https://open.spotify.com/album/30bFyVsboSI6Nb7roQCgq8) | 3:26 | 2020-04-20 | 2020-04-22 |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-08-23 | 2019-11-14 |
