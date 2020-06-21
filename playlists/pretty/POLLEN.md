@@ -6,8 +6,8 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Song 33](https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy) | 1:09 |
-| 2 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
+| 1 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
+| 2 | [Song 33](https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy) | 1:09 |
 | 3 | [Fight Like Ida B & Marsha P](https://open.spotify.com/track/6j8Gt38Q03oMTSXr8O8WCR) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Fight Like Ida B & Marsha P](https://open.spotify.com/album/7jWVBbk9N8mVPOrD50aZAX) | 3:07 |
 | 4 | [My People](https://open.spotify.com/track/3pk8pThFHSD1fjISYCGWeI) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [My People](https://open.spotify.com/album/610772yvicacL2k72oWknb) | 3:51 |
 | 5 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
