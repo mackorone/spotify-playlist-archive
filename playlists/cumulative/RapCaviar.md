@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from A Boogie Wit da Hoodie, City Girls, J. Cole, Noname and more.
+> New music from A Boogie Wit da Hoodie, City Girls, Swae Lee and more.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
