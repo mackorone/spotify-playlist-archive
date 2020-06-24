@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Noname
+> Genre-less. Quality first always. Cover: Mustafa
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
