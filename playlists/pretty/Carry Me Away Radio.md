@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, James Morrison, Jordy Searcy, Lennon Stella and more
+> With John Mayer, Sam Smith, Sara Bareilles, Alessia Cara and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
