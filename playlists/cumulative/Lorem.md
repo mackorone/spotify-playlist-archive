@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> happy *1 year* lorem listeners, thank u for loving & sharing the music <3 Cover: Dominic Fike
+> what does Lorem mean to u? Cover: Gus Dapperton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Here's Your Song](https://open.spotify.com/track/7FvRUeAAf6CkHqlio1DSSm) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Here's Your Song](https://open.spotify.com/album/3ICznkt8nccLnompb552Cp) | 3:34 | 2020-01-17 |  |
 | [Hey](https://open.spotify.com/track/0HyFrDIBBTVYXIr6IoLK0i) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:01 | 2019-07-30 | 2019-10-11 |
 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 | 2020-05-29 |  |
+| [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 | 2020-07-08 |  |
 | [hiccups (as an adult)](https://open.spotify.com/track/1mjbqowv6FXUWr4DpseD9p) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [​hiccups (as an ​adult)](https://open.spotify.com/album/4baMQHB4n5bFsb2sjyCAmD) | 2:10 | 2019-11-22 | 2020-02-05 |
 | [Hide n Seek](https://open.spotify.com/track/0YqBRZmOpq4i30fqldKhOT) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [Hide n Seek](https://open.spotify.com/album/7ipGqWiyrmvRb2uuWr4FT6) | 2:44 | 2019-12-12 | 2020-05-28 |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2019-09-06 | 2019-09-27 |
@@ -357,6 +358,7 @@
 | [notice me - acoustic](https://open.spotify.com/track/3vb4YVKrodB9uTuQuOTf1j) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [notice me (acoustic)](https://open.spotify.com/album/3b44kQZ9iAffI9o0TEQqRg) | 3:14 | 2020-02-11 | 2020-05-05 |
 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2020-02-12 | 2020-04-09 |
 | [Ocean Eyes - Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes (The Remixes)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2019-07-30 | 2019-09-27 |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2020-07-08 |  |
 | [of being alone](https://open.spotify.com/track/568zzc5sQCV74JQGKDmKL3) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a hard drug](https://open.spotify.com/album/0dTge9iHRfBRE63TWBV72r) | 3:26 | 2019-12-04 | 2020-01-28 |
 | [oh, mexico](https://open.spotify.com/track/4YwGqn5HGXVAOEPauLc9MJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [oh, mexico](https://open.spotify.com/album/2UsD7KcPZQn8aO4tlFTOiG) | 3:04 | 2019-08-02 | 2019-10-03 |
 | [Oh, What a World 2.0 - Earth Day Edition](https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Oh, What a World 2.0 (Earth Day Edition)](https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq) | 3:39 | 2020-04-22 | 2020-04-28 |
