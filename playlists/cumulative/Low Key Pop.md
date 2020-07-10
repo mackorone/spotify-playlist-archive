@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Jack Gray
+> Let your mind float away with these down-tempo low key tracks. Cover: Wafia
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,9 +118,11 @@
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head and the Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2020-05-19 |  |
 | [How It Feels](https://open.spotify.com/track/3OR1VNScIin6sbx7ZXhXYy) | [Hartley](https://open.spotify.com/artist/7DpaPZ3DnHnTUl5mtFKv4U) | [How It Feels](https://open.spotify.com/album/6G5UeU7sFkav4sRc1NG5N3) | 3:09 | 2020-01-28 |  |
 | [How Things Used to Be](https://open.spotify.com/track/5SQCBB6cifhXS5YLqNrXFU) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 2:41 | 2019-11-08 | 2020-02-12 |
+| [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 | 2020-07-10 |  |
 | [I Did It All](https://open.spotify.com/track/0HiF2KKl29KAMX8a5tH9Ku) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [I Did It All](https://open.spotify.com/album/7gPmESAfumu3YPhx9LaNSm) | 2:52 | 2020-05-08 |  |
 | [I Don't Belong In This Club](https://open.spotify.com/track/45ZGEdLxCZvdMX9jWlsAAx) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [I Don't Belong In This Club](https://open.spotify.com/album/3CKzA951WnfvvOGresjno6) | 3:42 | 2019-08-27 | 2019-11-11 |
 | [I Don't Care (with Justin Bieber)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care (with Justin Bieber)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2019-08-27 | 2020-02-12 |
+| [I Don't Think I'm Okay](https://open.spotify.com/track/0PUkanqCGTb6qseXPKOw1F) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Don't Think I'm Okay](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) | 2:56 | 2020-07-10 |  |
 | [I Don't Want Your Money (feat. H.E.R.)](https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2019-08-27 | 2020-05-19 |
 | [I Fell In Love With the Devil - Radio Edit](https://open.spotify.com/track/0YIUZ1YSkeOSovmeR7IRl6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [I Fell In Love With the Devil (Radio Edit)](https://open.spotify.com/album/4lp8ry4ysRyWg20jT5xOek) | 3:38 | 2019-08-27 | 2020-02-12 |
 | [I Forget My Name (feat. Jafaris)](https://open.spotify.com/track/1iohZV8PWduCRyj0ZA7meU) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [I Forget My Name (feat. Jafaris)](https://open.spotify.com/album/4pYMvwQbyvOwYzii7uwWIq) | 3:26 | 2019-08-27 | 2019-11-11 |
@@ -237,6 +239,7 @@
 | [Sleep On It](https://open.spotify.com/track/5S5Cf673GkmYWBJNcGAVuP) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sleep On It](https://open.spotify.com/album/6PBKOpCw2Hs1kWsNW9PsW9) | 3:36 | 2019-08-27 | 2020-05-19 |
 | [Slow Crawl](https://open.spotify.com/track/5NCm1ksMWDR34pl3z64FEK) | [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [Slow Crawl](https://open.spotify.com/album/4GMxDh0GzjhloTpzgcmMrL) | 2:59 | 2019-12-16 | 2020-05-12 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2019-08-27 | 2019-11-11 |
+| [Smoke Signals (feat. Tessa Violet)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals (feat. Tessa Violet)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 | 2020-07-10 |  |
 | [Snow](https://open.spotify.com/track/0mxbKFPnLLZaSxRZuubdPu) | [Dylan Joel](https://open.spotify.com/artist/6PsZs1L8zuW49bEUbkQ4JD) | [Snow](https://open.spotify.com/album/57aENVs14og7AO7IXFQpSO) | 3:15 | 2020-02-07 |  |
 | [Solitude](https://open.spotify.com/track/31AuJaUuJV7LI0grZeJM1y) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Solitude](https://open.spotify.com/album/6uhLzJ1bQ7BvavKtMl57DV) | 2:58 | 2019-08-27 |  |
 | [Somebody Else (feat. JoJo)](https://open.spotify.com/track/2fpVvARsopfxhvNaUMwvS6) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:19 | 2019-10-25 | 2020-02-12 |
