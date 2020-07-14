@@ -6,10 +6,10 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be My Excuse](https://open.spotify.com/track/4b0Udrkji4W22Tk68gUYE8) | [Josh Gray](https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX) | [Be My Excuse](https://open.spotify.com/album/7ufkEjTTQLZb6zKS8ISTPb) | 2:41 |
-| 2 | [Ay Ay Ay!](https://open.spotify.com/track/34nz8DXWgisAFA1CxJAWF5) | [Waazzoo and the Vibes](https://open.spotify.com/artist/5O283M6UPyUWw0fm3gnEXm), [Tāne](https://open.spotify.com/artist/3ChGU2Z0bWOjALP6V8jmlN) | [Ay Ay Ay!](https://open.spotify.com/album/2sFwI6JZGcGVc0PNm3GR1I) | 3:19 |
-| 3 | [I’m Ready](https://open.spotify.com/track/0Qi4XvKznK8ZpWXn1udO1x) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [I’m Ready](https://open.spotify.com/album/7qUvhsf54qQP1zA50V8ouT) | 3:14 |
-| 4 | [Smile](https://open.spotify.com/track/3NK28cXAkO5JIM7YOiCQAx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 |
+| 1 | [Smile](https://open.spotify.com/track/3NK28cXAkO5JIM7YOiCQAx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:16 |
+| 2 | [Be My Excuse](https://open.spotify.com/track/4b0Udrkji4W22Tk68gUYE8) | [Josh Gray](https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX) | [Be My Excuse](https://open.spotify.com/album/7ufkEjTTQLZb6zKS8ISTPb) | 2:41 |
+| 3 | [Ay Ay Ay!](https://open.spotify.com/track/34nz8DXWgisAFA1CxJAWF5) | [Waazzoo and the Vibes](https://open.spotify.com/artist/5O283M6UPyUWw0fm3gnEXm), [Tāne](https://open.spotify.com/artist/3ChGU2Z0bWOjALP6V8jmlN) | [Ay Ay Ay!](https://open.spotify.com/album/2sFwI6JZGcGVc0PNm3GR1I) | 3:19 |
+| 4 | [I’m Ready](https://open.spotify.com/track/0Qi4XvKznK8ZpWXn1udO1x) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [I’m Ready](https://open.spotify.com/album/7qUvhsf54qQP1zA50V8ouT) | 3:14 |
 | 5 | [Touch the Sky](https://open.spotify.com/track/3AQXqVgpSgXBkbzyThMlgq) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Touch the Sky](https://open.spotify.com/album/2eVPWnLxoj4MOGjFj4xybQ) | 3:30 |
 | 6 | [Body Back (feat. Maia Wright)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back (feat. Maia Wright)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 |
 | 7 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 |
