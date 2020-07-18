@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Kina Grannis, Maren Morris, Ben Rector and more
+> With John Mayer, Julia Michaels, Chelsea Cutler, The Brook & The Bluff and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
