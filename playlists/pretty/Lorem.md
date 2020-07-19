@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 |
+| 1 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 |
 | 2 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 |
 | 3 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
 | 4 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
