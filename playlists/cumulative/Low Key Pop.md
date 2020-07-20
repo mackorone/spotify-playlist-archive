@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Wafia
+> Let your mind float away with these down-tempo low key tracks. Cover: Lianne La Havas
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

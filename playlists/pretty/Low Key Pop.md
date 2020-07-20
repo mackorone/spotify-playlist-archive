@@ -2,14 +2,14 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Wafia
+> Let your mind float away with these down-tempo low key tracks. Cover: Lianne La Havas
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [To Be Young (feat. Doja Cat)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young (feat. Doja Cat)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:24 |
-| 2 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
-| 3 | [I Don't Think I'm Okay](https://open.spotify.com/track/0PUkanqCGTb6qseXPKOw1F) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Don't Think I'm Okay](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) | 2:56 |
-| 4 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 |
+| 2 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 |
+| 3 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
+| 4 | [I Don't Think I'm Okay](https://open.spotify.com/track/0PUkanqCGTb6qseXPKOw1F) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Don't Think I'm Okay](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) | 2:56 |
 | 5 | [Paranoia](https://open.spotify.com/track/1DAe4LWNF8aWgP5kXfncED) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Paranoia](https://open.spotify.com/album/6gbCqSzwj8QwH6OGfdBCCk) | 3:30 |
 | 6 | [I WANNA BE HERE](https://open.spotify.com/track/1W54Svdz7Ennj33D6SGAEM) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [I WANNA BE HERE](https://open.spotify.com/album/3WnDcoWJUbKuBFH9atlVk0) | 2:59 |
 | 7 | [I Got 3](https://open.spotify.com/track/2R68N68VJzuZhXgikT6hQg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/6Txjv7dE75ORFAX0fDsAFB) | 3:14 |
