@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: James Blake
+> Genre-less. Quality first always. Cover: Smino
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Doctor](https://open.spotify.com/track/5WyG2pem4Y9tTigiU3yArp) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [You're a Dog!](https://open.spotify.com/album/48QiGvOask4z4l5skJ9Ttp) | 2:50 | 2019-09-20 | 2019-10-29 |
 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 | 2020-03-25 | 2020-04-24 |
 | [DOMINICANA](https://open.spotify.com/track/3uxUJ6uYlcXp0bQicQaMhl) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Aaron](https://open.spotify.com/artist/3Janc17lPV117QjRSAPwBa), [Myquale](https://open.spotify.com/artist/43ZT4YXTrFXsq5Ae1np03L) | [DOMINICANA](https://open.spotify.com/album/0z0LVFPeSK11tUsLawfOa8) | 3:16 | 2020-07-09 |  |
+| [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-07-23 |  |
 | [Don't Waste My Time](https://open.spotify.com/track/70tAM9TN7ryjB0gPGOjS7l) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:15 | 2019-08-01 | 2019-09-13 |
 | [Don’t Call Again](https://open.spotify.com/track/49PA9bPJb2lQPrxA4myVV5) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Don't Call Again](https://open.spotify.com/album/4gcFhJzgidop7Tk79SSHco) | 3:46 | 2020-07-18 |  |
 | [Door](https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Door](https://open.spotify.com/album/26gPb1EQQFK1Y0ij5E5rAE) | 5:22 | 2019-07-30 | 2019-09-05 |
@@ -576,7 +577,7 @@
 | [Woo!](https://open.spotify.com/track/3jRrVpeuz1vI0KaHRfaKs0) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Woo!](https://open.spotify.com/album/7wa2iuG1191JqO7Rd1gzai) | 3:16 | 2020-04-12 |  |
 | [Yada Yada](https://open.spotify.com/track/13UTQPeYjMFgalnk6rQ8sM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:27 | 2019-07-30 | 2019-11-14 |
 | [Yayo](https://open.spotify.com/track/7nHEmkpURecKykfN53r9F5) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 2:37 | 2020-05-16 | 2020-06-12 |
-| [Yo Love - From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love (From "Queen & Slim: The Soundtrack")](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 | 2019-11-13 | 2020-07-18 |
+| [Yo Love - From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love (From "Queen & Slim: The Soundtrack")](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 | 2019-11-13 |  |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2019-07-30 | 2019-10-18 |
 | [You and I](https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You and I](https://open.spotify.com/album/7L3MIEJygvjr0ovJXBUvW1) | 4:03 | 2019-12-05 | 2020-04-04 |
 | [You and I](https://open.spotify.com/track/1oQW9ELulouzVKoeqXmkJv) | [Jakob Ogawa](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [You and I](https://open.spotify.com/album/5BVFFgiP5bYZxjtlvPWD4w) | 2:42 | 2019-08-23 | 2019-11-23 |
