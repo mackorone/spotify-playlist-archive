@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Smino
+> Genre-less. Quality first always. Cover: Jorja Smith
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Gray Area (feat. Mick Jenkins)](https://open.spotify.com/track/3uJ0spXcRqOO8PCGAnjSeQ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:19 | 2019-12-17 | 2020-05-07 |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-09 |  |
 | [Growing Up/Mother God](https://open.spotify.com/track/0hvMMP2It7vjCdaPyJIbAD) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 5:02 | 2020-05-15 |  |
+| [gucci slides (feat. Smino)](https://open.spotify.com/track/1iZoBnjg3p9ugz5xZGCK5d) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Pulp (Director’s Cut)](https://open.spotify.com/album/1z9iRcG0mLkqp2hY2GXDPZ) | 3:23 | 2020-08-01 |  |
 | [Guilty Conscience - Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience (Tame Impala Remix)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2020-07-24 |  |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2020-01-10 | 2020-04-24 |
 | [H34T RISES](https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [H34T RISES](https://open.spotify.com/album/236UmP2YMSjpGVRSJNl9Ce) | 2:50 | 2019-10-11 | 2020-01-28 |
@@ -517,7 +518,7 @@
 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 | 2020-06-20 |  |
 | [Sweeter (feat. Terrace Martin)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter (feat. Terrace Martin)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 | 2020-06-10 |  |
 | [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 | 2020-04-09 |  |
-| [Switch Up](https://open.spotify.com/track/5iGV0NmZl6EbBZneq02hWT) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [Switch Up](https://open.spotify.com/album/56dzvS4wbAYpQgpEhtD5M1) | 3:23 | 2020-07-30 |  |
+| [switch up](https://open.spotify.com/track/5iGV0NmZl6EbBZneq02hWT) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [switch up](https://open.spotify.com/album/56dzvS4wbAYpQgpEhtD5M1) | 3:23 | 2020-07-30 |  |
 | [Switched Up](https://open.spotify.com/track/2qtJUSJmPz5mkVhFHrtCd7) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Switched Up](https://open.spotify.com/album/0iFATJZnvd79HAORAKhhTg) | 2:26 | 2020-02-21 | 2020-07-18 |
 | [Swivel](https://open.spotify.com/track/7D8LAxOysvt1GHUBypnEBc) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:14 | 2019-10-11 | 2020-02-21 |
 | [Tamale](https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 3:47 | 2019-10-26 | 2020-02-21 |
@@ -592,6 +593,7 @@
 | [Whoop Tang Flow (feat. Raekwon)](https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Bebey](https://open.spotify.com/album/01ewz4ezvpzgz1R1WOetVy) | 4:01 | 2020-01-18 | 2020-03-13 |
 | [Why Do People Grow (Long for the Day When I Had That Flip Phone)](https://open.spotify.com/track/5S4AhOB0NSbP8lwq8tH752) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow, Vol. 2](https://open.spotify.com/album/4gPGEC5zbMQb2DbUdtREmB) | 3:00 | 2020-04-04 | 2020-06-29 |
 | [Why Worry](https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Why Worry](https://open.spotify.com/album/7GAOMkrIBSwqvC28f8bXTj) | 2:30 | 2020-04-23 |  |
+| [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled (Black Is)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2020-08-01 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2020-04-18 |  |
 | [WINE GREEN](https://open.spotify.com/track/3LzJFule7MRo66MrFzOggt) | [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [WINE GREEN](https://open.spotify.com/album/2xjj3LGoqGXh8VDIyIZP3l) | 4:15 | 2019-07-30 | 2019-10-29 |
 | [Won't Let You](https://open.spotify.com/track/1DvbkyyN4jCcffDbD7mJEC) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Won't Let You](https://open.spotify.com/album/3JxGyoJImNtV1sYpedUcB0) | 3:25 | 2019-10-11 | 2020-04-18 |
