@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Dan + Shay
+> Today's top country hits of the week, worldwide! Cover: Luke Bryan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Does To Me (feat. Eric Church)](https://open.spotify.com/track/17TSJlshgQ5zu0e8dedAla) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:43 | 2020-02-15 | 2020-07-04 |
 | [Does To Me](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 | 2020-06-12 | 2020-06-20 |
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-06-29 |  |
+| [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 | 2020-08-07 |  |
 | [Drink About Me](https://open.spotify.com/track/1kC07qGOyx8w7ON5k8xHOp) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Now or Never](https://open.spotify.com/album/175wot2CVm3ZAt5REOm7da) | 3:11 | 2020-01-18 | 2020-05-09 |
 | [Drinkin' Terms](https://open.spotify.com/track/0leBYsvyyFSXc1aeuFVgTD) | [Cody Purvis](https://open.spotify.com/artist/3uVEo0XTel7WqHQlSnRehM) | [Drinkin' Terms](https://open.spotify.com/album/51TUPlYZ6L19N3whHf2nbT) | 2:56 | 2019-05-26 | 2019-06-15 |
 | [Drinking Alone](https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:18 | 2020-05-02 | 2020-06-21 |
