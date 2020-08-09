@@ -7,7 +7,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shallow Water](https://open.spotify.com/track/0K5csd4qfsfVQxm0er12C7) | [Weedthief](https://open.spotify.com/artist/68nJ4u9Ksp29uysSXzGZQG), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Shallow Water](https://open.spotify.com/album/2kAfcKRKf3RfsZF9cLetmP) | 2:52 |
-| 2 | [Aoi](https://open.spotify.com/track/5187ygBWKOWiVHM6bAtuJA) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Aoi | Midori](https://open.spotify.com/album/3CvUnFNDtsGfqZGTLxCKVU) | 2:28 |
+| 2 | [aoi](https://open.spotify.com/track/5187ygBWKOWiVHM6bAtuJA) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [aoi | midori](https://open.spotify.com/album/3CvUnFNDtsGfqZGTLxCKVU) | 2:28 |
 | 3 | [Witchcraft](https://open.spotify.com/track/1uiT63udKgbNoKnwr6ZQ2N) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Witchcraft](https://open.spotify.com/album/3Az9qo5uxi7EcbgxSORlUg) | 1:57 |
 | 4 | [Hope](https://open.spotify.com/track/0ol4syVMldT5iqxUoRn6mx) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [SEA](https://open.spotify.com/artist/5yJ0VbxI0ZCekj1DrRI53O) | [Hope](https://open.spotify.com/album/2Bbr3OrCyE89VNlXJXjdQF) | 2:36 |
 | 5 | [august 20](https://open.spotify.com/track/6oXKWqp0sIbhXv8WPpgPqp) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [come here or at least get naked](https://open.spotify.com/album/3hwMgcL4Zl1uGkiC0Svnz9) | 2:21 |
