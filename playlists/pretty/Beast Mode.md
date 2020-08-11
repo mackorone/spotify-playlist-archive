@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YE YE](https://open.spotify.com/track/45L9CK9Zis1QM4LlkGpX9B) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [Tm bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [YE YE](https://open.spotify.com/album/04RwnaxccbWLrysAvKrNJk) | 3:02 |
+| 1 | [YE YE](https://open.spotify.com/track/45L9CK9Zis1QM4LlkGpX9B) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [YE YE](https://open.spotify.com/album/04RwnaxccbWLrysAvKrNJk) | 3:02 |
 | 2 | [POPSTAR (feat. Drake)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR (feat. Drake)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 3 | [Hoy](https://open.spotify.com/track/4DXkg0aahmbBuTdINKZugg) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Hoy](https://open.spotify.com/album/27VW4xHJZfQKZM43zEsl7y) | 3:35 |
 | 4 | [The Cage](https://open.spotify.com/track/6PyPvnJTfAcFm1LqLan0rF) | [DialedIN](https://open.spotify.com/artist/0IjH4bQIXzUAGqpVekBtPl), [HoodLit](https://open.spotify.com/artist/6h8URsgxylEK1jbiWgbXVb) | [The Cage](https://open.spotify.com/album/0PJeUZynag6sp7ZsiLTFjQ) | 2:49 |
