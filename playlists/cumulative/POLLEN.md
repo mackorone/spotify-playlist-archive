@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Omar Apollo
+> Genre-less. Quality first always. Cover: Flume & Toro y Moi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2020-07-18 |  |
 | [Super Sad Always](https://open.spotify.com/track/1BqSqUUGo1ilm7Pg4ghJvR) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Super Sad Always](https://open.spotify.com/album/5TZUlZef0K4UmjUFzOh3HL) | 3:13 | 2020-01-09 | 2020-04-04 |
 | [Superpowers (with GoldLink)](https://open.spotify.com/track/1iZjxPc5GJhEBl6CZOZXTw) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 3:02 | 2019-07-30 | 2019-09-20 |
+| [Sweet Summer Sweat](https://open.spotify.com/track/6gr9bP5jpNjlRpbF4gLjqi) | [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Sweet Summer Sweat](https://open.spotify.com/album/3MEECjgqTlGz2HYzRdhrBv) | 3:03 | 2020-08-12 |  |
 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 | 2020-06-20 |  |
 | [Sweeter (feat. Terrace Martin)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter (feat. Terrace Martin)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 | 2020-06-10 |  |
 | [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 | 2020-04-09 |  |
