@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Luke Bryan
+> Today's top country hits of the week, worldwide! Cover: Lindsay Ell
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 | 2019-11-02 | 2020-02-08 |
 | [Prayed For You](https://open.spotify.com/track/1cmnChE57SpRJR2oFNcTpv) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Matt Stell](https://open.spotify.com/album/0j9HPvF8qRcifU23KR5w85) | 3:30 | 2019-07-13 | 2019-11-05 |
 | [Raised on Country](https://open.spotify.com/track/6voi5xnLs9JKmWG2oLmgDU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Raised on Country](https://open.spotify.com/album/66JJneTDQTIYsQ6vEYe8qs) | 2:55 | 2019-05-26 | 2019-10-05 |
+| [ReadY to love](https://open.spotify.com/track/2OoN2O7ZgZQbHkvs0b4bxH) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [ReadY to love](https://open.spotify.com/album/651hZfOxMGEB7Y92AnaTZy) | 3:15 | 2020-08-14 |  |
 | [Rearview Town](https://open.spotify.com/track/3yHTTHbT058Ow0favhZO38) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/7AtG1L0ULYeaUjfbUabPGv) | 3:04 | 2019-05-26 | 2019-09-08 |
 | [Redesigning Women](https://open.spotify.com/track/31S0wn0oWPO6EVX084IVU1) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Crowded Table / Redesigning Women](https://open.spotify.com/album/3ecYV2HE7noz8UI8rq1Oti) | 2:54 | 2019-07-27 | 2019-11-09 |
 | [Refrigerator Door](https://open.spotify.com/track/1b0YOwtdW5ibaAhHEsbdjB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel - EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:24 | 2019-07-13 | 2019-10-12 |
