@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Lindsay Ell
+> Today's top country hits of the week, worldwide! Cover: Tim McGraw
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Happy Anywhere (feat. Gwen Stefani)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere (feat. Gwen Stefani)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2020-08-04 |  |
 | [Happy Does](https://open.spotify.com/track/2v08cjj3Th8RpfJgluECcj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 2:48 | 2020-05-01 | 2020-05-09 |
 | [Hard To Forget - Radio Edit](https://open.spotify.com/track/6ITrZx7zVGgrADDD1lksjw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Hard To Forget (Radio Edit)](https://open.spotify.com/album/4FGl5W9N0XRIcDbAdsNEtn) | 3:09 | 2020-04-03 |  |
+| [Hard To Stay Mad At](https://open.spotify.com/track/1Y5a2JUuCmmNrjmCe8p0h5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:10 | 2020-08-21 |  |
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 | 2019-11-09 |
 | [Heartache Medication](https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/0JzXywsekILWEm0mBPKKhC) | 3:29 | 2019-09-29 | 2020-02-08 |
 | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/track/5mTL8ZHcB2LJdlrR78xJYr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Do Si Do](https://open.spotify.com/album/5ztLxyZw32EKfv0Kw5ZLRj) | 2:49 | 2020-06-14 |  |
