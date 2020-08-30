@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Dan + Shay, LÉON, Chelsea Cutler and more
+> With John Mayer, Imaginary Future, Kina Grannis, Noah Kahan and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
