@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:44 |
+| 1 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 |
 | 2 | [Heartbreaker](https://open.spotify.com/track/1Sku9ZUiYYzwCdUwSNqfbX) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Heartbreaker](https://open.spotify.com/album/2tfiuvojqj9cPHMFWMzset) | 2:35 |
 | 3 | [Fall Auf](https://open.spotify.com/track/012iHyRvQQquWQGUTYvDxy) | [Cro](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [Fall Auf](https://open.spotify.com/album/1qdHQo41Vkkgs8HtMk5b96) | 3:11 |
 | 4 | [Citrus](https://open.spotify.com/track/73Ovlp2BOScOxS9mbGqTX1) | [Sylo Nozra](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Citrus](https://open.spotify.com/album/5qgWzj4a1WMDpaoRJi7Vqr) | 2:39 |
