@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Ryan Griffin
+> New Music Discovery is what we're about.  Try it on for size. Cover: Riley Green
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Only Got All Night](https://open.spotify.com/track/5Yb3HButEfv0ADZzglkiWS) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Sunsets & Soundwaves](https://open.spotify.com/album/2cth57XHkrgSDCRUJjSIpd) | 2:59 | 2019-08-31 | 2019-09-22 |
 | [Only Truck In Town](https://open.spotify.com/track/6bEZIqFksyE4HGBYLUGAcT) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Only Truck In Town](https://open.spotify.com/album/2JBPLK0S1zNE3sNYUn4O6S) | 3:14 | 2020-01-27 | 2020-04-04 |
 | [Other Girl](https://open.spotify.com/track/0Kt2cOpCmKN2D9mG8Fw2ce) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Other Girl](https://open.spotify.com/album/7um6zTS2EhW6iSIiDJ9gt1) | 3:15 | 2019-07-13 | 2020-01-27 |
+| [Outlaws Like Us](https://open.spotify.com/track/2UEO6nY7H4MPbcSbl584aO) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:24 | 2020-09-01 |  |
 | [Over Drinking](https://open.spotify.com/track/2wJM2t0mBN2uynetF6JzGT) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Over Drinking](https://open.spotify.com/album/3tgmw0Gwpp6yuxc0Y1y28Z) | 3:10 | 2019-09-15 | 2020-01-14 |
 | [Over Us](https://open.spotify.com/track/4enF5cz72Fm3PPpBAQwNj0) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Over Us](https://open.spotify.com/album/0AjZXvV16Nwzi7ICCO9hhC) | 3:16 | 2019-05-26 | 2019-08-25 |
 | [Panorama](https://open.spotify.com/track/28ywkth5tHrlUClRLESkiu) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Panorama - EP](https://open.spotify.com/album/3CciboOfV0rszS6j81BhuD) | 3:46 | 2019-07-21 | 2019-08-25 |
