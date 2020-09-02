@@ -7,7 +7,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sail Away](https://open.spotify.com/track/3L39BPAGNdyM2wnHNr06aF) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Sail Away](https://open.spotify.com/album/13IbfiWa5dygjuGio0uSNP) | 3:30 |
-| 2 | [Kill My Time](https://open.spotify.com/track/4aRQ4BgRUPTIpDWHQLxrar) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM (PLUS1)](https://open.spotify.com/album/0t5H4Z4b40n519tZ4vzKAo) | 3:55 |
+| 2 | [Kill My Time](https://open.spotify.com/track/4aRQ4BgRUPTIpDWHQLxrar) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/0t5H4Z4b40n519tZ4vzKAo) | 3:55 |
 | 3 | [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream (with Selena Gomez)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 |
 | 4 | [These Hands](https://open.spotify.com/track/2cH4tWCze5mdkDtja24Bpg) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [I](https://open.spotify.com/album/4UuOTaqNHWHtCJbcJJAVKc) | 3:18 |
 | 5 | [Like That](https://open.spotify.com/track/4alGi6HkNlpuRdlbtLnoIJ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Like That](https://open.spotify.com/album/5gNzTV9reJppZOc3uTu0NQ) | 2:44 |
