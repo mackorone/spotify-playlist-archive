@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: E^ST
+> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:7ASucWaI33cepJbo74Hlo0">E^ST</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Tango](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) | [Abir](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:06 | 2019-08-27 | 2019-11-11 |
 | [Team](https://open.spotify.com/track/1H8k9sqpRBC0ijK6ygyD71) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [Team](https://open.spotify.com/album/5Dq5313nv8d2pkAR8TWss8) | 2:56 | 2020-06-29 |  |
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:50 | 2020-01-17 | 2020-03-20 |
+| [TEXT (feat. Amindi)](https://open.spotify.com/track/3C76nLG6c4U0Cp3FtebFaU) | [UNO Stereo](https://open.spotify.com/artist/253f0pT64ByK78L928CjbE), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [TEXT (feat. Amindi)](https://open.spotify.com/album/4wttZ73afJBtmSrV07e53g) | 3:48 | 2020-09-03 |  |
 | [That's Life (feat. Mac Miller & Sia)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life (feat. Mac Miller & Sia)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 | 2019-08-27 |  |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2020-03-20 |  |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27 | 2019-11-11 |
