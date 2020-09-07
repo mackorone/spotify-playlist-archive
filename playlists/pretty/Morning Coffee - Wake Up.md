@@ -35,3 +35,4 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 27 | [Arising](https://open.spotify.com/track/0Ib2cKC2GxykEVxbYa7eqj) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Evergreen](https://open.spotify.com/album/52aC66aIFUWuo2EOLKxii4) | 4:37 |
 | 28 | [Move](https://open.spotify.com/track/42LvVFsmizS7GT0BZCy6Gc) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Move](https://open.spotify.com/album/3u7XP4jmswtYtI04qxXhe3) | 5:49 |
 | 29 | [Weirdo](https://open.spotify.com/track/2xO7yNLCnJsycIsxLfkXbz) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/0OChTfbkl9zSLyrolFVffe) | 3:01 |
+| 30 | [Is It Enough](https://open.spotify.com/track/1gBly576DStphc1hAropbT) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [The Corner of a Sphere](https://open.spotify.com/album/4sRXcwlHnu8pW4SFoYGsB0) | 4:05 |
