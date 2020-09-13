@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Ed Sheeran, Pitbull, Katy Perry and more
+> With Bruno Mars, Ed Sheeran, Pharrell Williams, Major Lazer and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
