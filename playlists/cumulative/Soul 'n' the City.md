@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of Soul-infused music! Cover: Sabri
+> Your daily dose of Soul-infused music! Cover: Joy Denalane
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ain't Got No Reason](https://open.spotify.com/track/37Bqopwiecf3YP1no3Jxwi) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Ain't Got No Reason](https://open.spotify.com/album/2KuXE2OeaKZ5uNrfqFg1c4) | 2:24 | 2020-05-01 |  |
 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 | 2020-04-24 |  |
 | [Baby Got Your Back](https://open.spotify.com/track/77ruUGIXn8JyyLgcNSVN5M) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW), [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Sunday Afternoon](https://open.spotify.com/album/1S9twQ6gxAP47V8v877Gwb) | 4:59 | 2020-03-25 |  |
+| [Be Here In The Morning](https://open.spotify.com/track/3ljqOjnJN5G9VcVz2p2WPW) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [C.S. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Let Yourself Be Loved](https://open.spotify.com/album/506h46ORfhACjYmXpUtV9U) | 4:04 | 2020-09-15 |  |
 | [Bittersweet](https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet](https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh) | 3:56 | 2020-03-25 |  |
 | [Blame You](https://open.spotify.com/track/0BV5Tq3nhWQd3XxKgRvh7m) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Blame You](https://open.spotify.com/album/01csOYBhWxmhWvJgArjghO) | 4:09 | 2020-03-25 | 2020-04-24 |
 | [Borderline](https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin (Deluxe Edition)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 4:15 | 2020-03-25 | 2020-07-18 |
@@ -30,7 +31,7 @@
 | [Concorde](https://open.spotify.com/track/1SJGHveCOfrS364qHbBAS8) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Concorde](https://open.spotify.com/album/15RONh5tqAmMlvUVwfxqti) | 3:54 | 2020-08-25 |  |
 | [Consider Me](https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/7o0PzwnZXAyq3LtvV2JE2x) | 3:04 | 2020-03-25 | 2020-03-27 |
 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 | 2020-07-03 |  |
-| [CRUMPY](https://open.spotify.com/track/3axI88EJvw5J6tnMdCvc66) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [CRUMPY](https://open.spotify.com/album/6dKmyxrba50ysYPG0fJlOA) | 3:07 | 2020-04-24 |  |
+| [CRUMPY](https://open.spotify.com/track/3axI88EJvw5J6tnMdCvc66) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [CRUMPY](https://open.spotify.com/album/6dKmyxrba50ysYPG0fJlOA) | 3:07 | 2020-04-24 | 2020-09-15 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2020-04-24 |  |
 | [Disconnected](https://open.spotify.com/track/0Xa5Jhkcl8pN5sIbrWblD0) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Disconnected](https://open.spotify.com/album/0hiNbnGbVRaKBWbNvMlrfV) | 3:43 | 2020-05-15 |  |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp), [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2020-06-05 |  |
