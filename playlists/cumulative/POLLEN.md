@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Dua Saleh
+> Genre-less. Quality first always. Cover: SahBabii and Joji for POLLEN Singles.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Fuck The World (Summer in London)](https://open.spotify.com/track/2LHRwhsMByGIVTtHxlOJg2) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World (Summer in London)](https://open.spotify.com/album/0IIpx0hVwtkVb1OUq6mvLP) | 3:36 | 2019-07-30 | 2019-11-02 |
 | [GANG](https://open.spotify.com/track/1iUWofqtdh9FLzZooLBDw2) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [GANG](https://open.spotify.com/album/5971dUyMLcsZa7IBioI7lP) | 2:39 | 2020-04-04 | 2020-04-24 |
 | [Gas](https://open.spotify.com/track/3EvAsPrTHVOSprXYaGtEKR) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Gas](https://open.spotify.com/album/1HbaEh0DD4xMxOhlTyXkRN) | 2:28 | 2020-08-15 |  |
+| [Gates to the Sun (POLLEN Singles)](https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gates to the Sun (POLLEN Singles)](https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8) | 2:15 | 2020-09-17 |  |
 | [Gemini](https://open.spotify.com/track/79VKEr51Prtp9dBIEYjJVn) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 3:04 | 2020-04-02 | 2020-07-18 |
 | [george](https://open.spotify.com/track/0Ws3ORFcdtgqA3FITquhQ7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [george](https://open.spotify.com/album/4mCbjj2IvjnMnk0wirwBs3) | 3:10 | 2019-07-30 | 2019-10-03 |
 | [GHOST (feat. Navy Blue)](https://open.spotify.com/track/1sewSKbrkUSrCa7raClgbV) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [FEET OF CLAY (Deluxe)](https://open.spotify.com/album/1RWgm4YvRL0YN1iX1Mto7b) | 1:49 | 2020-07-24 | 2020-08-21 |
