@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Brook & The Bluff, James Morrison, Charlotte Lawrence and more
+> With John Mayer, Ben Rector, Chelsea Cutler, Bruno Major and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
