@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: SahBabii and Joji for POLLEN Singles.
+> Genre-less. Quality first always. Cover: Gabriel Garzón-Montano
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
