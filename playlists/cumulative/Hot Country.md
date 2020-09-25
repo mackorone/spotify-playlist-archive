@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Keith Urban
+> Today's top country hits of the week, worldwide! Cover: Filmore
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Nobody But You (Duet with Gwen Stefani)](https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:14 | 2020-01-13 | 2020-06-21 |
 | [Nothing Like You](https://open.spotify.com/track/38gbVnKWI8xEd7AnqS9aiZ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:16 | 2020-01-18 | 2020-06-21 |
 | [Nothing To Do Town](https://open.spotify.com/track/3L5cSHbf7oBWubuCwJbUGt) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/5WNhGMQk003WHUGkRrVB53) | 3:05 | 2019-05-26 | 2019-07-06 |
+| [Nothing's Better](https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 3:13 | 2020-09-25 |  |
 | [Now You Know](https://open.spotify.com/track/0zvFpizoPkjXNuii0mYjb7) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Now You Know](https://open.spotify.com/album/6PgUqzVsJMcgSjHs9usz1R) | 2:55 | 2019-09-06 | 2019-11-09 |
 | [On Me (feat. Ava Max) - From 'SCOOB!' The Album](https://open.spotify.com/track/4ejNoyrhgjrioqJbgTNPu3) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [On Me (feat. Ava Max)](https://open.spotify.com/album/1JdG7LmkxfnnmFGKwnzoMd) | 2:44 | 2020-05-30 |  |
 | [On Me (feat. Ava Max)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2020-05-24 | 2020-06-12 |
@@ -242,7 +243,7 @@
 | [Song About You](https://open.spotify.com/track/5gRsliQqZLc4tv688SE3wB) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Song About You](https://open.spotify.com/album/7nPEosiQlcRRIPmnpuRG7A) | 3:00 | 2020-06-14 |  |
 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 | 2019-07-06 | 2019-10-19 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2020-08-30 |  |
-| [State I'm In](https://open.spotify.com/track/6X9Lb3LG0Zx73lIWh9uild) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/56jWZh2aLv7o4LAiMrQPT2) | 2:36 | 2020-03-14 | 2020-05-09 |
+| [State I'm In](https://open.spotify.com/track/0G3CDyeCmfigKxQyjtRI05) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 2:36 | 2020-03-14 |  |
 | [Stay Over](https://open.spotify.com/track/6YJY9l59OBxy3UKSeplf2q) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Stay Over](https://open.spotify.com/album/4Ub8EQuX5Fbwj0NTIpLkVl) | 3:03 | 2019-11-29 | 2020-02-29 |
 | [Stutter](https://open.spotify.com/track/3ZvunC3FkxtVWhmiBGmlGM) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [When The Good Guys Win](https://open.spotify.com/album/4R6CBTblAXNOexIDEK4yNu) | 3:17 | 2019-05-26 | 2019-06-30 |
 | [Summer Time](https://open.spotify.com/track/7thHR3Kq23Djl0kED5GxEO) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Summer Time](https://open.spotify.com/album/3FSEnz3rAylZiOzasKGG5T) | 3:06 | 2020-06-21 | 2020-08-08 |
