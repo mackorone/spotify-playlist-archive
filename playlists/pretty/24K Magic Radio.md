@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Quavo, Fifth Harmony, Chris Brown and more
+> With Bruno Mars, Kendrick Lamar, One Direction, T.I. and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
