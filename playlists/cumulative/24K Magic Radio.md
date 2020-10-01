@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, DNCE, Maroon 5, Enrique Iglesias and more
+> With Bruno Mars, Fifth Harmony, Ed Sheeran, Timbaland and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D. (THE ENERGY NEVER DIES)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:49 | 2020-09-08 | 2020-09-21 |
 | [I Know What You Did Last Summer](https://open.spotify.com/track/2GyA33q5rti5IxkMQemRDH) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:43 | 2020-09-29 |  |
 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 | 2020-09-25 | 2020-09-26 |
-| [I Think Of You](https://open.spotify.com/track/5f5KGCBUtnR3dTSdNfRcZG) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Think Of You](https://open.spotify.com/album/7erYCnSKkIr5ZnwrftbOX3) | 3:37 | 2020-09-03 | 2020-09-13 |
+| [I Think Of You](https://open.spotify.com/track/5f5KGCBUtnR3dTSdNfRcZG) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Think Of You](https://open.spotify.com/album/7erYCnSKkIr5ZnwrftbOX3) | 3:37 | 2020-09-03 |  |
 | [I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/1MtUq6Wp1eQ8PC6BbPCj8P) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/1Tz3Ai1guEFf4hV3d9i17K) | 3:17 | 2020-09-30 | 2020-09-30 |
 | [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 | 2020-08-30 | 2020-09-25 |
 | [I'm a Lady - from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady (from SMURFS: THE LOST VILLAGE)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 | 2020-09-11 | 2020-09-29 |
@@ -120,7 +120,7 @@
 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 | 2020-09-02 | 2020-09-14 |
 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 | 2020-09-01 | 2020-09-28 |
 | [Me Too](https://open.spotify.com/track/3KwwE4sgCzMaKWq6QBebmX) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You (Deluxe Version)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:01 | 2020-08-30 | 2020-09-20 |
-| [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate (Deluxe)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 | 2020-09-02 |  |
+| [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate (Deluxe)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 | 2020-09-02 | 2020-10-01 |
 | [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:40 | 2020-09-02 | 2020-09-03 |
 | [Most Girls](https://open.spotify.com/track/10GJQkjRJcZhGTLagFOC62) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4w5LxfyoOPHkGJZrco1UT5) | 3:24 | 2020-09-16 |  |
 | [Moves Like Jagger - Studio Recording From The Voice Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 | 2020-09-01 | 2020-09-30 |
