@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Riley Green
+> New Music Discovery is what we're about.  Try it on for size. Cover: Brett Young
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2020-09-12 |  |
 | [Better Than Me](https://open.spotify.com/track/1CpmUpZFD0Gmss17D5NUPC) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Better Than Me](https://open.spotify.com/album/1y2sPs86lLxc9YgambOjXS) | 3:24 | 2019-05-26 | 2019-08-19 |
 | [Better Than That](https://open.spotify.com/track/1R65hpDEf3BiYRmdaa7roQ) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Better Than That](https://open.spotify.com/album/64EzSE1DPtbfk5OUFCC6B5) | 3:18 | 2020-09-28 |  |
+| [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 | 2020-10-02 |  |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2019-06-30 | 2019-10-05 |
 | [Black and White](https://open.spotify.com/track/1gxml65g5zmtazTjuvWDqc) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Black and White](https://open.spotify.com/album/3AT1nne2mrjNoLgEMl7KyA) | 3:46 | 2019-05-26 | 2019-07-06 |
 | [Blessed](https://open.spotify.com/track/7herr9burIFLblzjh7c0l3) | [Lewis Brice](https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0) | [Blessed](https://open.spotify.com/album/7C2FYhfQhkkKaHfwfD9vQO) | 3:31 | 2019-05-26 | 2019-06-15 |
@@ -356,7 +357,7 @@
 | [Keep Up](https://open.spotify.com/track/3aovdUeqO2HyVch1GHzBlm) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Keep Up](https://open.spotify.com/album/4sZYZ0yA7XtPPYniMGMU18) | 3:04 | 2020-02-23 | 2020-03-22 |
 | [la](https://open.spotify.com/track/0YCHNLppOQkT0fNg6UAXhr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [la](https://open.spotify.com/album/2Szj6AvXKHtR90Gi81bj6R) | 2:46 | 2020-01-27 | 2020-02-08 |
 | [LA](https://open.spotify.com/track/3Fa9hQ4rQQdhxPdJc5NDij) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 2:49 | 2019-09-15 | 2019-10-12 |
-| [Lady](https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Lady](https://open.spotify.com/album/6YjMnlV7GWmnUs4lN8bym9) | 3:13 | 2020-05-02 | 2020-06-29 |
+| [Lady](https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Lady](https://open.spotify.com/album/6YjMnlV7GWmnUs4lN8bym9) | 3:13 | 2020-05-02 |  |
 | [Lay Here With Me](https://open.spotify.com/track/14EpFSZ9OftxDX4g5qVvVN) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Everywhere I'm Goin'](https://open.spotify.com/album/5FghaO27P3Zy5igsCbMAn9) | 2:59 | 2019-11-09 | 2019-12-14 |
 | [Leave Her Wild](https://open.spotify.com/track/5cuYa1jn3hohHZJCGC0B7d) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Leave Her Wild](https://open.spotify.com/album/0Gt8v6wbQ7YXyd0IfdrFlJ) | 3:19 | 2019-05-26 | 2019-06-30 |
 | [Leave Me My Heart](https://open.spotify.com/track/4e1jZys3t7L6ocvYkKTmDH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last](https://open.spotify.com/album/2QDR2ZYmHL11vgEqYv2fn7) | 3:17 | 2019-08-19 | 2019-09-22 |
