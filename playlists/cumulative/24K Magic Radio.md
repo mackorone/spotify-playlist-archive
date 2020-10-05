@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Flo Rida, Robin Thicke, Camila Cabello and more
+> With Bruno Mars, Nicki Minaj, Hailee Steinfeld, Adele and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
