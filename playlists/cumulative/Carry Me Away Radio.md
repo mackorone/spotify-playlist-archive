@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Tom Petty, Matt Nathanson, Alicia Keys and more
+> With John Mayer, Ray LaMontagne, Dave Matthews Band, John Legend and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [good guys](https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [good guys](https://open.spotify.com/album/1rvGSofYK4rYkX2INIzFjI) | 3:44 | 2020-05-22 | 2020-09-11 |
 | [Good Kisser](https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:38 | 2019-12-21 | 2020-09-15 |
 | [Good Thing Go](https://open.spotify.com/track/7hV7333ajQNI1J6R5C9A8c) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 3:32 | 2020-01-01 | 2020-06-02 |
-| [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2019-12-06 | 2020-10-03 |
+| [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2019-12-06 |  |
 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 | 2020-05-04 | 2020-06-22 |
 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 | 2019-12-06 | 2020-08-08 |
 | [Guiding Light](https://open.spotify.com/track/1HEgrsXS3Rsjr6Mf2wxtKb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Guiding Light](https://open.spotify.com/album/5Zt7KubRerAHRAF2ECI5Zp) | 3:37 | 2020-06-21 | 2020-06-25 |
@@ -324,7 +324,7 @@
 | [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 | 2019-12-21 | 2020-08-27 |
 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2020-07-10 | 2020-09-30 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2019-12-06 |  |
-| [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2020-03-12 |  |
+| [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2020-03-12 | 2020-10-05 |
 | [Ready](https://open.spotify.com/track/6l7lX8hJXVIUyPrTaabpqk) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Ready](https://open.spotify.com/album/0ypEjnegb85LxjkycDf1Zf) | 2:58 | 2019-12-07 | 2020-06-14 |
 | [Ready](https://open.spotify.com/track/74nReXHbAko0DLmBniJest) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [This Summer](https://open.spotify.com/album/24riCP5KVIEEaXKYvvhshe) | 2:58 | 2020-06-21 | 2020-08-16 |
 | [Rearrange Us](https://open.spotify.com/track/31a1loZMYrGVDMNkeRcf93) | [Mt. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Death](https://open.spotify.com/album/4v4X2mc47J29zbAMYjUDPU) | 3:08 | 2020-05-11 | 2020-05-22 |
