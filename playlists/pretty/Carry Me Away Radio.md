@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maggie Rogers, Ray LaMontagne, Tom Petty and more
+> With John Mayer, Maggie Rogers, The Band CAMINO, James Morrison and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

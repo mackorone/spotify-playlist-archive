@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maggie Rogers, Ray LaMontagne, Tom Petty and more
+> With John Mayer, Maggie Rogers, The Band CAMINO, James Morrison and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
