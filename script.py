@@ -4,11 +4,11 @@ import argparse
 import base64
 import collections
 import datetime
-import json
 import os
 import re
-import requests
 import subprocess
+
+import requests
 
 
 Playlist = collections.namedtuple(
@@ -61,25 +61,31 @@ class Spotify:
     def _get_access_token(cls, client_id, client_secret):
         joined = "{}:{}".format(client_id, client_secret)
         encoded = base64.b64encode(joined.encode()).decode()
+
         response = requests.post(
             "https://accounts.spotify.com/api/token",
             data={"grant_type": "client_credentials"},
             headers={"Authorization": "Basic {}".format(encoded)},
         ).json()
+
         error = response.get("error")
         if error:
             raise Exception("Failed to get access token: {}".format(error))
+
         access_token = response.get("access_token")
         if not access_token:
             raise Exception("Invalid access token: {}".format(access_token))
+
         token_type = response.get("token_type")
         if token_type != "Bearer":
             raise Exception("Invalid token type: {}".format(token_type))
+
         return access_token
 
     def get_playlist(self, playlist_id):
         playlist_href = self._get_playlist_href(playlist_id)
         response = self._make_request(playlist_href)
+
         error = response.get("error")
         if error:
             if error.get("status") == 401:
@@ -90,25 +96,32 @@ class Spotify:
                 raise InvalidPlaylistError
             else:
                 raise Exception("Failed to get playlist: {}".format(error))
+
         url = self._get_url(response["external_urls"])
+
         # Playlist names can't have "/" so use "\" instead
         name = response["name"].replace("/", "\\")
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
+
         return Playlist(url=url,name=name, description=description, tracks=tracks)
 
     def _get_tracks(self, playlist_id):
         tracks = []
         tracks_href = self._get_tracks_href(playlist_id)
+
         while tracks_href:
             response = self._make_request(tracks_href)
+
             error = response.get("error")
             if error:
                 raise Exception("Failed to get tracks: {}".format(error))
+
             for item in response["items"]:
                 track = item["track"]
                 if not track:
                     continue
+
                 id_ = track["id"]
                 url = self._get_url(track["external_urls"])
                 duration_ms = track["duration_ms"]
@@ -117,12 +130,14 @@ class Spotify:
                     url=self._get_url(track["album"]["external_urls"]),
                     name=track["album"]["name"],
                 )
+
                 artists = []
                 for artist in track["artists"]:
                     artists.append(Artist(
                         url=self._get_url(artist["external_urls"]),
                         name=artist["name"],
                     ))
+
                 tracks.append(Track(
                     id=id_,
                     url=url,
@@ -131,7 +146,9 @@ class Spotify:
                     album=album,
                     artists=artists,
                 ))
+
             tracks_href = response["next"]
+
         return tracks
 
     @classmethod
@@ -190,6 +207,7 @@ class Formatter:
             cls.ALBUM,
             cls.LENGTH,
         ]
+
         vertical_separators = ["|"] * (len(columns) + 1)
         line_template = " {} ".join(vertical_separators)
         divider_line = "---".join(vertical_separators)
@@ -204,6 +222,7 @@ class Formatter:
             line_template.format(*columns),
             divider_line,
         ]
+
         for i, track in enumerate(playlist.tracks):
             lines.append(line_template.format(
                 i + 1,
@@ -215,6 +234,7 @@ class Formatter:
                 cls._link(track.album.name, track.album.url),
                 cls._format_duration(track.duration_ms),
             ))
+
         return "\n".join(lines)
 
     @classmethod
@@ -228,6 +248,7 @@ class Formatter:
             cls.ADDED,
             cls.REMOVED,
         ]
+
         vertical_separators = ["|"] * (len(columns) + 1)
         line_template = " {} ".join(vertical_separators)
         divider_line = "---".join(vertical_separators)
@@ -258,8 +279,10 @@ class Formatter:
             ])
             row[cls.ALBUM] = cls._link(track.album.name, track.album.url)
             row[cls.LENGTH] = cls._format_duration(track.duration_ms)
+
             if not row[cls.ADDED]:
                 row[cls.ADDED] = today
+
             row[cls.REMOVED] = ""
 
         lines = []
@@ -267,6 +290,7 @@ class Formatter:
             lines.append(line_template.format(
                 *[row[column] for column in columns]
             ))
+
         return "\n".join(header + lines)
 
     @classmethod
@@ -284,6 +308,7 @@ class Formatter:
         else:
             pretty = "pretty"
             cumulative = cls._link("cumulative", URL.cumulative(playlist_name))
+
         return [
             "{} - {} - {} ({})".format(
                 pretty,
@@ -303,13 +328,16 @@ class Formatter:
         rows = {}
         if not prev_content:
             return rows
+
         prev_lines = prev_content.splitlines()
         try:
             index = prev_lines.index(divider_line)
         except ValueError:
             return rows 
+
         for i in range(index + 1, len(prev_lines)):
             prev_line = prev_lines[i]
+
             try:
                 title, artists, album, length, added, removed = (
                     # Slice [2:-2] to trim off "| " and " |"
@@ -317,6 +345,7 @@ class Formatter:
                 )
             except Exception:
                 continue
+
             key = cls._plain_line_from_names(
                 track_name=cls._unlink(title),
                 artist_names=[
@@ -325,6 +354,7 @@ class Formatter:
                 ],
                 album_name=cls._unlink(album),
             ).lower()
+
             row = {
                 cls.TITLE: title,
                 cls.ARTISTS: artists,
@@ -334,8 +364,10 @@ class Formatter:
                 cls.REMOVED: removed
             }
             rows[key] = row
+
             if not row[cls.REMOVED]:
                 row[cls.REMOVED] = today
+
         return rows
 
     @classmethod
@@ -368,9 +400,11 @@ class Formatter:
     def _format_duration(cls, duration_ms):
         seconds = int(duration_ms // 1000)
         timedelta = str(datetime.timedelta(seconds=seconds))
+
         index = 0
         while timedelta[index] in [":", "0"]:
             index += 1
+
         return timedelta[index:]
 
 
@@ -409,13 +443,16 @@ def update_files(now):
     plain_dir = "playlists/plain"
     pretty_dir = "playlists/pretty"
     cumulative_dir = "playlists/cumulative"
+
     # Determine which playlists to scrape from the files in playlists/plain.
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
+
     readme_lines = []
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
+
         try:
             playlist = spotify.get_playlist(playlist_id)
         except PrivatePlaylistError:
@@ -429,8 +466,10 @@ def update_files(now):
                 playlist.name,
                 URL.pretty(playlist.name),
             ))
+
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
+
             for path, func, flag in [
                 (plain_path, Formatter.plain, False),
                 (pretty_path, Formatter.pretty, False),
@@ -440,10 +479,12 @@ def update_files(now):
                     prev_content = "".join(open(path).readlines())
                 except Exception:
                     prev_content = None
+
                 if flag:
                     args = [now, prev_content, playlist_id, playlist]
                 else:
                     args = [playlist_id, playlist]
+
                 content = func(*args)
                 if content == prev_content:
                     print("No changes to file: {}".format(path))
@@ -504,25 +545,30 @@ def run(args):
 def push_updates(now):
     diff = run(["git", "status", "-s"])
     has_changes = bool(diff.stdout)
+
     if not has_changes:
         print("No changes, not pushing")
         return
 
     print("Configuring git")
+
     config = ["git", "config", "--global"]
     config_name = run(config + ["user.name", "Mack Ward (Bot Account)"])
     config_email = run(config + ["user.email", "mackorone.bot@gmail.com"])
+
     if config_name.returncode != 0:
         raise Exception("Failed to configure name")
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
 
     print("Staging changes")
+
     add = run(["git", "add", "-A"])
     if add.returncode != 0:
         raise Exception("Failed to stage changes")
 
     print("Committing changes")
+
     build = os.getenv("TRAVIS_BUILD_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
@@ -538,7 +584,7 @@ def push_updates(now):
     print("Removing origin")
     remote_rm = run(["git", "remote", "rm", "origin"])
     if remote_rm.returncode != 0:
-        raise Excetion("Failed to remove origin")
+        raise Exception("Failed to remove origin")
 
     print("Adding new origin")
     # It's ok to print the token, Travis will hide it
@@ -567,8 +613,10 @@ def main():
     args = parser.parse_args()
     now = datetime.datetime.now()
     update_files(now)
+
     if args.push:
         push_updates(now)
+
     print("Done")
 
 
