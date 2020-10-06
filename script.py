@@ -11,26 +11,10 @@ import subprocess
 import requests
 
 
-Playlist = collections.namedtuple(
-    "Playlist",
-    [
-        "url",
-        "name",
-        "description",
-        "tracks",
-    ]
-)
+Playlist = collections.namedtuple("Playlist", ["url", "name", "description", "tracks",])
 
 Track = collections.namedtuple(
-    "Track",
-    [
-        "id",
-        "url",
-        "duration_ms",
-        "name",
-        "album",
-        "artists",
-    ]
+    "Track", ["id", "url", "duration_ms", "name", "album", "artists",]
 )
 
 Album = collections.namedtuple("Album", ["url", "name"])
@@ -104,7 +88,7 @@ class Spotify:
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
 
-        return Playlist(url=url,name=name, description=description, tracks=tracks)
+        return Playlist(url=url, name=name, description=description, tracks=tracks)
 
     def _get_tracks(self, playlist_id):
         tracks = []
@@ -133,19 +117,23 @@ class Spotify:
 
                 artists = []
                 for artist in track["artists"]:
-                    artists.append(Artist(
-                        url=self._get_url(artist["external_urls"]),
-                        name=artist["name"],
-                    ))
+                    artists.append(
+                        Artist(
+                            url=self._get_url(artist["external_urls"]),
+                            name=artist["name"],
+                        )
+                    )
 
-                tracks.append(Track(
-                    id=id_,
-                    url=url,
-                    duration_ms=duration_ms,
-                    name=name,
-                    album=album,
-                    artists=artists,
-                ))
+                tracks.append(
+                    Track(
+                        id=id_,
+                        url=url,
+                        duration_ms=duration_ms,
+                        name=name,
+                        album=album,
+                        artists=artists,
+                    )
+                )
 
             tracks_href = response["next"]
 
@@ -172,8 +160,7 @@ class Spotify:
 
     def _make_request(self, href):
         return requests.get(
-            href,
-            headers={"Authorization": "Bearer {}".format(self._token)},
+            href, headers={"Authorization": "Bearer {}".format(self._token)},
         ).json()
 
 
@@ -224,16 +211,17 @@ class Formatter:
         ]
 
         for i, track in enumerate(playlist.tracks):
-            lines.append(line_template.format(
-                i + 1,
-                cls._link(track.name, track.url),
-                cls.ARTIST_SEPARATOR.join([
-                    cls._link(artist.name, artist.url)
-                    for artist in track.artists
-                ]),
-                cls._link(track.album.name, track.album.url),
-                cls._format_duration(track.duration_ms),
-            ))
+            lines.append(
+                line_template.format(
+                    i + 1,
+                    cls._link(track.name, track.url),
+                    cls.ARTIST_SEPARATOR.join(
+                        [cls._link(artist.name, artist.url) for artist in track.artists]
+                    ),
+                    cls._link(track.album.name, track.album.url),
+                    cls._format_duration(track.duration_ms),
+                )
+            )
 
         return "\n".join(lines)
 
@@ -273,10 +261,9 @@ class Formatter:
             rows[key] = row
             # Update row values
             row[cls.TITLE] = cls._link(track.name, track.url)
-            row[cls.ARTISTS] = cls.ARTIST_SEPARATOR.join([
-                cls._link(artist.name, artist.url)
-                for artist in track.artists
-            ])
+            row[cls.ARTISTS] = cls.ARTIST_SEPARATOR.join(
+                [cls._link(artist.name, artist.url) for artist in track.artists]
+            )
             row[cls.ALBUM] = cls._link(track.album.name, track.album.url)
             row[cls.LENGTH] = cls._format_duration(track.duration_ms)
 
@@ -287,9 +274,7 @@ class Formatter:
 
         lines = []
         for key, row in sorted(rows.items()):
-            lines.append(line_template.format(
-                *[row[column] for column in columns]
-            ))
+            lines.append(line_template.format(*[row[column] for column in columns]))
 
         return "\n".join(header + lines)
 
@@ -333,7 +318,7 @@ class Formatter:
         try:
             index = prev_lines.index(divider_line)
         except ValueError:
-            return rows 
+            return rows
 
         for i in range(index + 1, len(prev_lines)):
             prev_line = prev_lines[i]
@@ -348,10 +333,7 @@ class Formatter:
 
             key = cls._plain_line_from_names(
                 track_name=cls._unlink(title),
-                artist_names=[
-                    artist for
-                    artist in re.findall(cls.LINK_REGEX, artists)
-                ],
+                artist_names=[artist for artist in re.findall(cls.LINK_REGEX, artists)],
                 album_name=cls._unlink(album),
             ).lower()
 
@@ -361,7 +343,7 @@ class Formatter:
                 cls.ALBUM: album,
                 cls.LENGTH: length,
                 cls.ADDED: added,
-                cls.REMOVED: removed
+                cls.REMOVED: removed,
             }
             rows[key] = row
 
@@ -381,9 +363,7 @@ class Formatter:
     @classmethod
     def _plain_line_from_names(cls, track_name, artist_names, album_name):
         return "{} -- {} -- {}".format(
-            track_name,
-            cls.ARTIST_SEPARATOR.join(artist_names),
-            album_name,
+            track_name, cls.ARTIST_SEPARATOR.join(artist_names), album_name,
         )
 
     @classmethod
@@ -410,7 +390,7 @@ class Formatter:
 
 class URL:
 
-    BASE =  (
+    BASE = (
         "https://github.com/mackorone/spotify-playlist-archive/"
         "blob/master/playlists/"
     )
@@ -462,10 +442,9 @@ def update_files(now):
             print("Removing invalid playlist: {}".format(playlist_id))
             os.remove(plain_path)
         else:
-            readme_lines.append("- [{}]({})".format(
-                playlist.name,
-                URL.pretty(playlist.name),
-            ))
+            readme_lines.append(
+                "- [{}]({})".format(playlist.name, URL.pretty(playlist.name),)
+            )
 
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
@@ -510,22 +489,16 @@ def update_files(now):
     missing_from_pretty = plain_playlists - pretty_playlists
 
     if missing_from_plain:
-        raise Exception(
-            "Missing plain playlists: {}".format(missing_from_plain)
-        )
+        raise Exception("Missing plain playlists: {}".format(missing_from_plain))
 
     if missing_from_pretty:
-        raise Exception(
-            "Missing pretty playlists: {}".format(missing_from_pretty)
-        )
+        raise Exception("Missing pretty playlists: {}".format(missing_from_pretty))
 
     # Lastly, update README.md
     readme = open("README.md").read().splitlines()
     index = readme.index("## Playlists")
     lines = (
-        readme[:index + 1]
-        + [""]
-        + sorted(readme_lines, key=lambda line: line.lower())
+        readme[: index + 1] + [""] + sorted(readme_lines, key=lambda line: line.lower())
     )
     with open("README.md", "w") as f:
         f.write("\n".join(lines) + "\n")
@@ -533,11 +506,7 @@ def update_files(now):
 
 def run(args):
     print("- Running: {}".format(args))
-    result = subprocess.run(
-        args=args,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-    )
+    result = subprocess.run(args=args, stdout=subprocess.PIPE, stderr=subprocess.PIPE,)
     print("- Exited with: {}".format(result.returncode))
     return result
 
@@ -606,9 +575,7 @@ def push_updates(now):
 def main():
     parser = argparse.ArgumentParser("Snapshot Spotify playlists")
     parser.add_argument(
-        "--push",
-        help="Commit and push updated playlists",
-        action="store_true",
+        "--push", help="Commit and push updated playlists", action="store_true",
     )
     args = parser.parse_args()
     now = datetime.datetime.now()
