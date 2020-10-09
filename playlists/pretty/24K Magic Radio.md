@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kendrick Lamar, Quavo, Nicki Minaj and more
+> With Bruno Mars, Justin Bieber, Ed Sheeran, Major Lazer and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
