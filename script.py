@@ -428,13 +428,28 @@ def update_files(now):
     # This makes it easy to add new a playlist: just touch an empty file like
     # playlists/plain/<playlist_id> and this script will handle the rest.
     playlist_ids = os.listdir(plain_dir)
+    
+    # get names and ids in a set of tuples - format being (playlist_id, playlist_name)
+    playlist_nammes = set()
+    for filename in os.listdir(plain_dir):
+        with open(os.path.join(plain_dir, filename)) as f:
+              line1 = f.readline()
+              if line1.find("custom:"): #only add the name if it's custom
+                    playlist_nammes.add((filename, re.sub('custom: ', '', line1)))
+              else:
+                    playlist_names.add((filename, ))
 
     readme_lines = []
-    for playlist_id in playlist_ids:
+    for tup in playlist_nammes:
+        playlist_id=tup[0] #to avoid changing code, just set playlist_id this way
         plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
-            playlist = spotify.get_playlist(playlist_id)
+            playlis = spotify.get_playlist(playlist_id) #changed playlist to playlis because it's a tuple and we might need to change it, though there are more compact ways doing it, i'm trying to modify the minimum amount of code
+            if len(tup)>1: #if there exists a custom name, then change the name element in playlist to the custom playlist name
+                playlist=playlis[:1] + (tup[1],) + playlis[2:] #create modified tuple if there is a custom name
+            else:
+                playlist=playlis #retain original tuple if there is no custom name
         except PrivatePlaylistError:
             print("Removing private playlist: {}".format(playlist_id))
             os.remove(plain_path)
