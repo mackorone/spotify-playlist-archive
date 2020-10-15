@@ -433,9 +433,8 @@ def update_files(now):
     playlist_nammes = set()
     for filename in os.listdir(plain_dir):
         with open(os.path.join(plain_dir, filename)) as f:
-              line1 = f.readline()
-              if line1.find("custom:"): #only add the name if it's custom
-                    playlist_nammes.add((filename, re.sub('custom: ', '', line1)))
+              if re.match("^[A-Za-z0-9_-]+$", line1): #only add the name if there is a name in the file at all
+                    playlist_nammes.add((filename, line1))
               else:
                     playlist_names.add((filename, ))
 
@@ -446,7 +445,7 @@ def update_files(now):
 
         try:
             playlis = spotify.get_playlist(playlist_id) #changed playlist to playlis because it's a tuple and we might need to change it, though there are more compact ways doing it, i'm trying to modify the minimum amount of code
-            if len(tup)>1: #if there exists a custom name, then change the name element in playlist to the custom playlist name
+            if len(tup)>1 and not tup[1]==playlis[1]: #if there exists a name that differs from the one that spotify generated, then change the name element in playlist to the custom playlist name
                 playlist=playlis[:1] + (tup[1],) + playlis[2:] #create modified tuple if there is a custom name
             else:
                 playlist=playlis #retain original tuple if there is no custom name
