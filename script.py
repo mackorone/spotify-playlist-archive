@@ -433,10 +433,11 @@ def update_files(now):
     playlist_nammes = set()
     for filename in os.listdir(plain_dir):
         with open(os.path.join(plain_dir, filename)) as f:
-              if line1.find("custom:"): #only add the name if it's custom
-                    playlist_nammes.add((filename, True, line1))
-              else:
-                    playlist_names.add((filename, False))
+            line1 = f.readline()
+            if line1.find("custom:"): #only add the name if it's custom
+                playlist_nammes.add((filename, True, line1))
+            else:
+                playlist_names.add((filename, False))
 
     readme_lines = []
     for tup in playlist_nammes:
