@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Pharrell Williams, Big Sean, Rihanna and more
+> With Bruno Mars, Lil Wayne, Shawn Mendes, Fetty Wap and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
