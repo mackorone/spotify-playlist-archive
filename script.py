@@ -11,10 +11,26 @@ import subprocess
 import requests
 
 
-Playlist = collections.namedtuple("Playlist", ["url", "name", "description", "tracks",])
+Playlist = collections.namedtuple(
+    "Playlist",
+    [
+        "url",
+        "name",
+        "description",
+        "tracks",
+    ],
+)
 
 Track = collections.namedtuple(
-    "Track", ["id", "url", "duration_ms", "name", "album", "artists",]
+    "Track",
+    [
+        "id",
+        "url",
+        "duration_ms",
+        "name",
+        "album",
+        "artists",
+    ],
 )
 
 Album = collections.namedtuple("Album", ["url", "name"])
@@ -160,7 +176,8 @@ class Spotify:
 
     def _make_request(self, href):
         return requests.get(
-            href, headers={"Authorization": "Bearer {}".format(self._token)},
+            href,
+            headers={"Authorization": "Bearer {}".format(self._token)},
         ).json()
 
 
@@ -363,7 +380,9 @@ class Formatter:
     @classmethod
     def _plain_line_from_names(cls, track_name, artist_names, album_name):
         return "{} -- {} -- {}".format(
-            track_name, cls.ARTIST_SEPARATOR.join(artist_names), album_name,
+            track_name,
+            cls.ARTIST_SEPARATOR.join(artist_names),
+            album_name,
         )
 
     @classmethod
@@ -443,7 +462,10 @@ def update_files(now):
             os.remove(plain_path)
         else:
             readme_lines.append(
-                "- [{}]({})".format(playlist.name, URL.pretty(playlist.name),)
+                "- [{}]({})".format(
+                    playlist.name,
+                    URL.pretty(playlist.name),
+                )
             )
 
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
@@ -506,7 +528,11 @@ def update_files(now):
 
 def run(args):
     print("- Running: {}".format(args))
-    result = subprocess.run(args=args, stdout=subprocess.PIPE, stderr=subprocess.PIPE,)
+    result = subprocess.run(
+        args=args,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
     print("- Exited with: {}".format(result.returncode))
     return result
 
@@ -575,7 +601,9 @@ def push_updates(now):
 def main():
     parser = argparse.ArgumentParser("Snapshot Spotify playlists")
     parser.add_argument(
-        "--push", help="Commit and push updated playlists", action="store_true",
+        "--push",
+        help="Commit and push updated playlists",
+        action="store_true",
     )
     args = parser.parse_args()
     now = datetime.datetime.now()
