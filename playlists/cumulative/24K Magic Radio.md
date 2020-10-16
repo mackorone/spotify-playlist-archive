@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Lil Wayne, Shawn Mendes, Fetty Wap and more
+> With Bruno Mars, Kid Ink, DNCE, Christina Aguilera and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
