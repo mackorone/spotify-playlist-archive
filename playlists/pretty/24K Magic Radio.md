@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kid Ink, DNCE, Christina Aguilera and more
+> With Bruno Mars, Calvin Harris, Ty Dolla $ign, David Guetta and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

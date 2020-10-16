@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Britney Spears, Troye Sivan, Sia and more
+> With Troye Sivan, Ava Max, Bradley Cooper and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

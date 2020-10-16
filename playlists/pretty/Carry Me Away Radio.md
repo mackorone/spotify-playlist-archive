@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Head and the Heart, Hozier, Leon Bridges and more
+> With John Mayer, Kina Grannis, Kacey Musgraves, Rhys Lewis and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

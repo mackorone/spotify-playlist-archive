@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Head and the Heart, Hozier, Leon Bridges and more
+> With John Mayer, Kina Grannis, Kacey Musgraves, Rhys Lewis and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
