@@ -6,8 +6,8 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Need A Man - 2020 Remaster](https://open.spotify.com/track/1FXVZvHIgXMy9FEvIBMXad) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [I Need A Man (2020 Remaster)](https://open.spotify.com/album/3743OmxhbZblJxwYI4JJbj) | 5:33 |
-| 2 | [Can't Stop Loving (What Your Heart Still Loves)](https://open.spotify.com/track/7mLkU6yixTvXOfSzwBpRbu) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/6ybKWIisMJ4FYCopM4tBi3) | 3:23 |
+| 1 | [Can't Stop Loving (What Your Heart Still Loves)](https://open.spotify.com/track/7mLkU6yixTvXOfSzwBpRbu) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/6ybKWIisMJ4FYCopM4tBi3) | 3:23 |
+| 2 | [I Need A Man - 2020 Remaster](https://open.spotify.com/track/1FXVZvHIgXMy9FEvIBMXad) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [I Need A Man (2020 Remaster)](https://open.spotify.com/album/3743OmxhbZblJxwYI4JJbj) | 5:33 |
 | 3 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B. III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 |
 | 4 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
 | 5 | [Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
