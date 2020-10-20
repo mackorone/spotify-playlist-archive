@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Mark Ronson, LunchMoney Lewis, SZA and more
+> With Bruno Mars, Pharrell Williams, Little Mix, Snoop Dogg and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
