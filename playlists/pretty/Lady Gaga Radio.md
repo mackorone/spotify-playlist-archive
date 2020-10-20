@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Dua Lipa, Miley Cyrus, Halsey and more
+> With Selena Gomez, P!nk, Sia and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
