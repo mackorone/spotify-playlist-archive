@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jameson Rodgers
+> Today's top country hits of the week, worldwide! Cover: Luke Combs
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Finish Your Sentences](https://open.spotify.com/track/2rhnO6nvKeuC8nSReRCXm2) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 2:49 | 2020-02-15 | 2020-02-29 |
 | [Fool's Love Affair](https://open.spotify.com/track/6dko4bgiL9XsKjUiqYN5V4) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Fool's Love Affair](https://open.spotify.com/album/5MmQgpa01TpjYe25zrJZbu) | 2:56 | 2020-07-30 | 2020-08-08 |
 | [For My Daughter](https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:43 | 2019-11-09 | 2020-01-18 |
+| [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get (Deluxe Edition)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2020-10-23 |  |
 | [FYI](https://open.spotify.com/track/4WsoGxI9LCcAiB20WpUCoT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [stages](https://open.spotify.com/album/4tbyDJAk0A6ZXGmIWcShB2) | 3:24 | 2019-08-24 | 2019-11-09 |
 | [Gaslighter](https://open.spotify.com/track/4BR0bp4qHX1lcBM2HtnoIm) | [Dixie Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/0duNimI62kUS00BEgZ1gKV) | 3:23 | 2020-03-14 | 2020-05-02 |
 | [Getting Good](https://open.spotify.com/track/6ZU30kIHamg5oiQm4gQQ3A) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/3Jdjyvn35LXAi6r7cIHx4U) | 3:21 | 2020-01-13 | 2020-08-30 |

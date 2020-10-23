@@ -2,7 +2,7 @@
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> featuring REI AMI
+> featuring Jean Dawson
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2020-10-13 |  |
 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 | 2020-10-13 |  |
 | [dead yet (with phem)](https://open.spotify.com/track/3RjRC6tGZlqYIYvkRLbHwQ) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [help me, i'm flying](https://open.spotify.com/album/124bF2rx1VzcgfatP0cxhG) | 2:41 | 2020-10-13 |  |
+| [Devilish](https://open.spotify.com/track/1LHQzcIzi0tKdfzYdkT2JY) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Devilish](https://open.spotify.com/album/3NXbeM5YvGITtvY6CTSxFt) | 3:22 | 2020-10-23 |  |
 | [Do What I Want](https://open.spotify.com/track/2imS7G1SXpPSDFk9em8jHd) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do What I Want](https://open.spotify.com/album/2L8FClI8KceYrNozhlxozr) | 2:09 | 2020-10-13 |  |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-10-13 |  |
 | [dropout](https://open.spotify.com/track/6BI0Na9AtisZ3PpkPqEeXk) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/5vXLLAWKw01J4GnT3qOcdv) | 3:20 | 2020-10-13 |  |
@@ -117,6 +118,7 @@
 | [Neither Here Nor There](https://open.spotify.com/track/0DpOhRUhy4XnNtGSd8I4GQ) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Neither Here Nor There](https://open.spotify.com/album/1sOd5KetMpHwVRwk9UNJsH) | 4:45 | 2020-10-13 |  |
 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 | 2020-10-13 |  |
 | [No Hope Generation](https://open.spotify.com/track/7H6iMweEZoMlpdNiuZf9Gi) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [No Hope Generation](https://open.spotify.com/album/3Qu99adbteKVC9spNdP29z) | 3:54 | 2020-10-13 |  |
+| [Notice Me](https://open.spotify.com/track/1FU2aAHgjqgsw4gY4BkbXS) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Notice Me](https://open.spotify.com/album/4LYOhB4O7qq3mtPYKPG38S) | 2:35 | 2020-10-23 |  |
 | [On My Own](https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ERYS](https://open.spotify.com/album/63ipjhu8XSx8se8X3XYlJZ) | 4:04 | 2020-10-13 |  |
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2020-10-13 |  |
 | [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Opaul](https://open.spotify.com/album/7GkpKBGqHwo8SgHtIUhhHv) | 2:20 | 2020-10-13 |  |
@@ -165,11 +167,13 @@
 | [Tick Tock](https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 2:12 | 2020-10-13 |  |
 | [Time](https://open.spotify.com/track/2ot1luBUApWmK8nSh8VRrk) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Time](https://open.spotify.com/album/2fw3igm7e19aI2AJiZHpEC) | 4:06 | 2020-10-13 |  |
 | [Tokyo Drifting (with Denzel Curry)](https://open.spotify.com/track/3AHqaOkEFKZ6zEHdiplIv7) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tokyo Drifting](https://open.spotify.com/album/1awYYlPxboJHZqiEFXEdTh) | 3:37 | 2020-10-13 |  |
+| [Tom Cruise](https://open.spotify.com/track/5THMrEt6LOuTdnYnpyclrX) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Tom Cruise](https://open.spotify.com/album/0wN6hO7BxzpXBeENBcEF2z) | 2:33 | 2020-10-23 |  |
 | [Tomboy](https://open.spotify.com/track/6M1sRwraMMNUVCLUvo4e1B) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [1992 Deluxe](https://open.spotify.com/album/0HDrblLFAsyyytu3xKtbnL) | 3:37 | 2020-10-13 |  |
 | [Tomorrow](https://open.spotify.com/track/3V7o45ohts2dROKm2EWOl8) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq) | [Tomorrow](https://open.spotify.com/album/7JfiPojEeptBAd10XjgCKV) | 3:16 | 2020-10-13 |  |
 | [Too Much, Give Up](https://open.spotify.com/track/6CNNrc4exL7MLYBvzNbXUT) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [This Body](https://open.spotify.com/album/3B7ZSwtUsvEFoxIcPjdih0) | 3:28 | 2020-10-13 |  |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-10-16 |  |
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 |  |
+| [Triple Double](https://open.spotify.com/track/4VsPMNoTStZSShv1bJwrv5) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pixel Bath](https://open.spotify.com/album/0j4s8goMrRPZWjG3v0UblY) | 3:42 | 2020-10-23 |  |
 | [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-10-13 |  |
 | [Twin Flame](https://open.spotify.com/track/7yAzY2u4A5jrWiUqiNonNO) | [Tiny Jag](https://open.spotify.com/artist/1d6U0DfuaMs9tbHllXrsAJ) | [Twin Flame](https://open.spotify.com/album/2NMIM8fL4SrZVT59HLjul6) | 3:01 | 2020-10-13 |  |
 | [Two Feet](https://open.spotify.com/track/7umNx2x8ve6JGZSZOUw9xU) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Two Feet](https://open.spotify.com/album/3rAPwGt6Fj8lFaWmGBZZJF) | 3:11 | 2020-10-13 |  |
@@ -177,6 +181,7 @@
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2020-10-13 |  |
 | [Want Me Too](https://open.spotify.com/track/2HMaXxZvcG3ipDyD90l8aj) | [Dach](https://open.spotify.com/artist/4ZTdL2voH1dHpH6gkt6Z9g), [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Want Me Too](https://open.spotify.com/album/1d3jVpNe7uOHX2KQQwMTwz) | 2:20 | 2020-10-13 |  |
 | [We Heal](https://open.spotify.com/track/3jDgP0foXp0dUsOZIOryIO) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [We Heal](https://open.spotify.com/album/5TVAvWNdYyzXxv6Z5wIfW8) | 3:34 | 2020-10-13 |  |
+| [We're All Gonna Be Killed](https://open.spotify.com/track/0OWJgwv0SF2gJPtbjAPGub) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [We’re All Gonna Be Killed](https://open.spotify.com/album/7tlzrNNWxGBD7Wmd98eJ1h) | 3:15 | 2020-10-23 |  |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2020-10-13 | 2020-10-16 |
 | [When I'm Down](https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [When I'm Down](https://open.spotify.com/album/4j5u2UH5L7qGhkodeRxBZm) | 2:44 | 2020-10-13 |  |
 | [WhoWho](https://open.spotify.com/track/68sThwPwwfp0Fb6zZ1ssWz) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [WhoWho](https://open.spotify.com/album/5DEOw8SSYtZGG3dbYEbLlJ) | 2:11 | 2020-10-13 |  |
