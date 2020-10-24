@@ -4,3 +4,4 @@
 - Splitting by `" | "` breaks for some tracks
 - Clean up near-duplicates in cumulative playlists
 - Travis fails on non-master upstream branches
+- Handle playlist renames seamlessly
