@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maren Morris, The Head and the Heart, JP Saxe and more
+> With John Mayer, Kacey Musgraves, James Bay, The Script and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

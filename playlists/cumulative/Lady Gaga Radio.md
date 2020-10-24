@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With DaBaby, LSD, Ty Dolla $ign and more
+> With Nate Ruess, Ellie Goulding, Halsey and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
