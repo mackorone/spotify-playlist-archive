@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: THE BOYZ
+> New K-pop tracks all in one place. Cover: TOMORROW X TOGETHER
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beach Again](https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M) | [Beach Again](https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW) | 3:53 | 2020-10-13 |  |
 | [Beautiful Scar (feat. PARK WOO JIN)](https://open.spotify.com/track/4k5WRLYLYcM9B41nDz9sWM) | [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ), [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [Beautiful Scar](https://open.spotify.com/album/6zjjjPrCeVfVCGiElYKliC) | 3:56 | 2020-10-13 |  |
 | [Bird](https://open.spotify.com/track/0ePOUs38vMTdOVjvqVHXu1) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/57l0cgANptjE4xJZzflLPR) | 3:04 | 2020-10-13 |  |
+| [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2020-10-26 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [DREAMCATCHER](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [[Dystopia : Lose Myself]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13 |  |
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2020-10-13 |  |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2020-10-13 |  |
@@ -47,6 +48,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; [Semicolon]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2020-10-19 |  |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13 | 2020-10-22 |
 | [How's your night (She is My Type♡ X Jeong Eun Ji)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night (She is My Type♡ X Jeong Eun Ji)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2020-10-13 |  |
+| [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-10-26 |  |
 | [I LOVE YOU](https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER TWO](https://open.spotify.com/album/3qOsKiuw6NaywkQnlmETP7) | 3:01 | 2020-10-13 |  |
 | [I&credible](https://open.spotify.com/track/3UrYzeFR2wVIk2SAInaiDJ) | [I-LAND](https://open.spotify.com/artist/4VbAtGhXMJr2AGXa8fkcRu) | [I&credible](https://open.spotify.com/album/4jce6LUukJOpLie3J5NxkD) | 3:44 | 2020-10-13 |  |
 | [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream (with Selena Gomez)](https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D) | 2:55 | 2020-10-13 |  |

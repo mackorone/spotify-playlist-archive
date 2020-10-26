@@ -6,9 +6,9 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stair at the light](https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Stair at the light](https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ) | 3:02 |
-| 2 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 |
-| 3 | [Lane Moje - Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 |
+| 1 | [Lane Moje - Radio Edit](https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd) | [Lane Moje](https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9) | 2:59 |
+| 2 | [Stair at the light](https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Stair at the light](https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ) | 3:02 |
+| 3 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 |
 | 4 | [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 |
 | 5 | [Letting Go - Radio Edit](https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt) | [H.A.Z.E](https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh) | [Letting Go](https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4) | 3:28 |
 | 6 | [3 to 1](https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu) | [Monoir](https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [3 to 1](https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of) | 3:39 |
