@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Omar Apollo
+> Genre-less. Quality first always. Cover: Jamila Woods
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [No Butterflies, No Nothing](https://open.spotify.com/track/40svihlB30iGqqmlbCAboX) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [No Butterflies, No Nothing](https://open.spotify.com/album/77NhdT323VClWRH91OyHYG) | 3:00 | 2020-10-24 |  |
 | [NO HALO](https://open.spotify.com/track/4fGCNoJqk6Khe6YTRxwMC6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [NO HALO](https://open.spotify.com/album/1dDce0qvYA4ewr8pJMBmA5) | 4:19 | 2019-08-23 | 2019-09-20 |
 | [No Más!](https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC) | [Grip](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Halo](https://open.spotify.com/album/26bwkDvo9hJSK7O1SUELQ3) | 3:06 | 2020-05-07 | 2020-09-15 |
+| [No Nightmares](https://open.spotify.com/track/09lzbPVfBU99ITkfQoizj0) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Midday Suite](https://open.spotify.com/album/6BNLL0JS1v4F4aLYFrOvYe) | 4:06 | 2020-10-27 |  |
 | [NOBODY FALLS](https://open.spotify.com/track/19Z7HLXE1wQWD84atodCHK) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [THE FALLING MAN](https://open.spotify.com/album/2LB3zTuRknMcwppJrFZay0) | 3:16 | 2019-07-30 | 2019-08-01 |
 | [Norton Commander (All We Need)](https://open.spotify.com/track/5KZiiK8dvTgXaVnegsvvBz) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Norton Commander (All We Need)](https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh) | 3:26 | 2019-07-30 | 2019-08-01 |
 | [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 | 2020-07-18 |  |
@@ -657,6 +658,7 @@
 | [Time (feat. Ariana Grande)](https://open.spotify.com/track/2Aq78kKI9yuloJQkcbhQbU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:07 | 2020-04-16 | 2020-06-12 |
 | [Time](https://open.spotify.com/track/2Aq78kKI9yuloJQkcbhQbU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:07 | 2020-03-25 | 2020-04-16 |
 | [Tonight (I Wish I Was Your Boy)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 | 2020-05-22 | 2020-09-18 |
+| [Track 6 (feat. Kanye West, Anderson .Paak & Thundercat)](https://open.spotify.com/track/4XPzNUDXrSRjpFbd8CcQVu) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:40 | 2020-10-27 |  |
 | [Track07](https://open.spotify.com/track/17Xxp5dtS4GmdGjNZNb5Gk) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:03 | 2020-02-11 | 2020-07-18 |
 | [Trader Joe](https://open.spotify.com/track/68UwqWt98BW1QdDnGV9DO1) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp3](https://open.spotify.com/album/0y90zPTTH3i18Qerg2mB2e) | 3:08 | 2019-07-30 | 2019-10-16 |
 | [treatheright](https://open.spotify.com/track/2r9CnsIM0DscdzSx2ZH20m) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [10,000 Proof](https://open.spotify.com/album/0RxEzoChyd4ZSM0NMInu8o) | 1:48 | 2020-06-25 | 2020-10-03 |

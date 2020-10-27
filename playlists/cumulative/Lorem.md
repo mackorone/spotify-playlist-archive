@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> songs u can send to ur friends, or keep for urself :') ft Wallows
+> songs u can send to ur friends, or keep for urself 🥺 ft Spill Tab
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
