@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Clean Bandit, Mark Ronson, Calvin Harris and more
+> With Bruno Mars, JP Cooper, Calvin Harris, Quavo and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
