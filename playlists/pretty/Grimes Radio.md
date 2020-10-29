@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Slayyyter, Azealia Banks, Perfume Genius and more
+> With Rina Sawayama, Crystal Castles, Poppy and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

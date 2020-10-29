@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Anne-Marie, Fifth Harmony, Jason Derulo and more
+> With Bruno Mars, Justin Bieber, Lil Wayne, Jason Derulo and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

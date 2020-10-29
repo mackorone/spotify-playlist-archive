@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Hozier, Maggie Rogers, Kacey Musgraves and more
+> With John Mayer, Ryan Hurd, Rhys Lewis, Yoke Lore and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Dua Lipa, Alessia Cara, Kelly Clarkson and more
+> With Selena Gomez, Little Mix, Rihanna and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Anne-Marie, Fifth Harmony, Jason Derulo and more
+> With Bruno Mars, Justin Bieber, Lil Wayne, Jason Derulo and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
