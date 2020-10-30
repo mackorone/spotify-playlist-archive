@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [#GirlsSpkOut](https://open.spotify.com/track/6Ql2aQl4nab0n0Gt8yPWHK) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [#GirlsSpkOut](https://open.spotify.com/album/31dsHtfhcgJNgiaOY42qVR) | 3:31 | 2020-10-13 |  |
+| [+HWA+](https://open.spotify.com/track/5cIv45SvGnNrARU6rT2BCb) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [+HWA+](https://open.spotify.com/album/2xXCdWDkQ8tfNmXKR4BQXS) | 2:56 | 2020-10-30 |  |
 | [1 Billion Views](https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL) | [EXO-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [MOON](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1 Billion Views - The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:29 | 2020-10-13 | 2020-10-22 |
 | [100](https://open.spotify.com/track/65x81o2eIyfQT6hpQkCKhj) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [100](https://open.spotify.com/album/1JofsmDnFHIiFZ5ecuKPR7) | 3:26 | 2020-10-13 |  |
 | [2 KIDS](https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [2 KIDS](https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH) | 3:33 | 2020-10-13 |  |
