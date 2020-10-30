@@ -2,7 +2,7 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists.  Cover: Aloe Blacc
+> Ease into these recent hits and new songs from your favorite artists.  Cover: Sam Smith
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2020-09-04 |  |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2019-05-26 | 2019-06-15 |
 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 | 2020-09-11 |  |
+| [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2020-10-30 |  |
 | [Authors Of Forever](https://open.spotify.com/track/0CeOBnvpbDug7daPxKRNPE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1vTV3bbycMPkbIocAma0eN) | 3:37 | 2020-09-18 | 2020-10-23 |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2019-05-26 | 2019-07-12 |
 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins (Deluxe)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2019-05-26 | 2019-07-20 |
@@ -94,6 +95,7 @@
 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2020-05-16 | 2020-07-24 |
 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 | 2020-06-19 | 2020-06-29 |
 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 | 2020-03-13 | 2020-05-30 |
+| [Forget (About Everyone Else)](https://open.spotify.com/track/1cAEFdMm3lt3nrFkkfqFw8) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Forget (About Everyone Else)](https://open.spotify.com/album/2YwlRSCEoxy65M9eBeJjkj) | 2:57 | 2020-10-30 |  |
 | [Free Spirit](https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:02 | 2019-05-26 | 2020-02-07 |
 | [Frustrated](https://open.spotify.com/track/1H0hgJzw1g9XdMun7EpkmW) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Frustrated](https://open.spotify.com/album/7iBo8cghwiCnYqP6GowOZx) | 3:27 | 2020-08-14 | 2020-09-11 |
 | [fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”](https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [fuck, i'm lonely (with Anne-Marie) (from “13 Reasons Why: Season 3”)](https://open.spotify.com/album/60sI3iRfHfu7YpcTpZ29W1) | 3:18 | 2019-08-02 | 2020-02-14 |
@@ -167,6 +169,7 @@
 | [Just for Now](https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:00 | 2020-06-12 | 2020-10-02 |
 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2020-02-14 | 2020-09-04 |
 | [Keeping It In The Dark - From 13 Reasons Why - Season 3 Soundtrack](https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Keeping It In The Dark (From 13 Reasons Why - Season 3 Soundtrack)](https://open.spotify.com/album/34kdsqSo8eVjo29lNLBCRl) | 3:28 | 2019-08-23 | 2019-11-15 |
+| [Kids Again](https://open.spotify.com/track/1ABS9lKaZ1uXkXCqr9zFO7) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 3:27 | 2020-10-30 |  |
 | [Kissing Other People](https://open.spotify.com/track/2x3HyOx0Jd9MnlnAQRtIL3) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People](https://open.spotify.com/album/0TBJKh2NvW9XPSVjTMSXGW) | 2:41 | 2019-11-02 | 2020-05-16 |
 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2020-03-06 | 2020-09-04 |
 | [La Di Da](https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 3:29 | 2019-05-26 | 2019-10-25 |
@@ -356,6 +359,7 @@
 | [What Do You Think Of?](https://open.spotify.com/track/4S5qPSkDocZakNYjzZjqZh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Getting Over Him](https://open.spotify.com/album/2m4CrEo9yZx4g0Kgz5uv2A) | 3:38 | 2020-09-04 |  |
 | [What Makes A Woman](https://open.spotify.com/track/1tH2L4hkZU7IMJbreHFcMs) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [What Makes A Woman](https://open.spotify.com/album/6WwtlRrCrGP0u02Bf7p46T) | 2:11 | 2020-08-21 | 2020-09-18 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2020-07-18 | 2020-07-31 |
+| [When I Hurt You](https://open.spotify.com/track/4ejCLvn0Z5FFMWR0yv5p6t) | [Lev](https://open.spotify.com/artist/4yJNWesVPxT8aoyMt4nlPi) | [When I Hurt You](https://open.spotify.com/album/3xMPMz5uwdgqPzKHP8Yl23) | 3:06 | 2020-10-30 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2019-06-07 | 2019-07-05 |
 | [Where Am I At](https://open.spotify.com/track/6QMgSasUZYyVzaAvc7BYLZ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Where Am I At](https://open.spotify.com/album/0oiUtTyxDcpLzvLqBykjY8) | 3:28 | 2020-03-20 | 2020-06-19 |
 | [Wherever You Are](https://open.spotify.com/track/1b3nlcP6hogIzYRVK2Ui7K) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Wherever You Are](https://open.spotify.com/album/7MGBQrzuC41v7jmMVyPQwd) | 3:05 | 2020-01-10 | 2020-05-16 |

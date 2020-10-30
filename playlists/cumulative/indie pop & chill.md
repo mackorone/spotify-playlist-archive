@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: Babygirl
+> it's a vibe (◡ ‿ ◡ ✿) cover: WizTheMc
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adore](https://open.spotify.com/track/2xsPmu7VITkIVcWelDuzfq) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Adore](https://open.spotify.com/album/0qnu0Rfhqw31Jw8FZg16KE) | 3:45 | 2020-10-29 |  |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-29 |  |
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel - EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2020-10-29 |  |
+| [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now - EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-10-30 |  |
 | [All That We Didn't](https://open.spotify.com/track/5HaoB8kmGcrPwPqfFmgIuU) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending](https://open.spotify.com/album/5jlhviN6cMa1XgTNGrVd9Q) | 3:38 | 2020-10-29 |  |
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2020-10-29 |  |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29 |  |
@@ -96,5 +97,6 @@
 | [Where to Hide](https://open.spotify.com/track/6NYJemYGiOETSQjKXdPR9T) | [Walmoods](https://open.spotify.com/artist/4B53ZdPG7X8UrnLQB1gFBZ), [Éloïse Marceau](https://open.spotify.com/artist/0D0c8ilPdDXpnbCaZikIKt) | [Where to Hide](https://open.spotify.com/album/1Y2iAWNblONoWMNJ81ZHv9) | 2:48 | 2020-10-29 |  |
 | [Who Are You?](https://open.spotify.com/track/2yWK6Ji4cZcxI9emAmG0Yj) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [11:11 (Deluxe)](https://open.spotify.com/album/2ta3hXGI0CJYoIsP5O9nV8) | 3:03 | 2020-10-29 |  |
 | [Wish I Was Better](https://open.spotify.com/track/30uoDH5SsZa4Z0OuTPLbuD) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:20 | 2020-10-29 |  |
+| [Without You](https://open.spotify.com/track/2Ue42L8JsDcUTPpTerU15V) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Without You](https://open.spotify.com/album/3BtjorLbiWDyQlIjRjFfWM) | 4:45 | 2020-10-30 |  |
 | [You Said It First](https://open.spotify.com/track/5ip8xbfUgVPNXNIrZruxo3) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [You Said It First](https://open.spotify.com/album/3ZDvSlfbJFAMyyMHpifucn) | 2:57 | 2020-10-29 |  |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-10-29 |  |
