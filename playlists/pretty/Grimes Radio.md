@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Rina Sawayama, Janelle Monáe, John Maus and more
+> With Washed Out, Toro y Moi, Beach House and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
