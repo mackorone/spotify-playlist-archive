@@ -6,11 +6,11 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Main Title](https://open.spotify.com/track/3Eb0zZx8jSDz8PPcydqRpX) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Escape From New York](https://open.spotify.com/album/59IyvFBBMpdcBbdCveb9mz) | 3:53 |
-| 2 | [Flower's Love](https://open.spotify.com/track/7hQh04tXuXfS3ciyDID0sV) | [Joël Fajerman](https://open.spotify.com/artist/1xkkc4SvHvsNhJCTWoxmrc) | [La Aventura De Las Plantas](https://open.spotify.com/album/3dHCUSWAeBelSFhJicbeXh) | 5:17 |
-| 3 | [Summer Round](https://open.spotify.com/track/69ifjwvHreBj4oqnUfjUcG) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Belbury Tales](https://open.spotify.com/album/7gqPK608MXJLwNdxFI9WBk) | 6:36 |
-| 4 | [Main Title](https://open.spotify.com/track/05rm1zAtv60zq4RVU1y9Mm) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Dune](https://open.spotify.com/album/3LijvusGxCVk3luxL9kR6V) | 1:20 |
-| 5 | [Prophecy Theme](https://open.spotify.com/track/63XWBP50fCjsP52MLnIpKm) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Dune](https://open.spotify.com/album/3LijvusGxCVk3luxL9kR6V) | 4:25 |
+| 1 | [Prophecy Theme - From "Dune"](https://open.spotify.com/track/5NRcywSHie5or0S5lSuYFH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brian Eno - Film Music 1976 ~ 2020](https://open.spotify.com/album/3YCilzddtOcMQZFxrqRtHr) | 4:24 |
+| 2 | [Main Title](https://open.spotify.com/track/3Eb0zZx8jSDz8PPcydqRpX) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Escape From New York](https://open.spotify.com/album/59IyvFBBMpdcBbdCveb9mz) | 3:53 |
+| 3 | [Flower's Love](https://open.spotify.com/track/7hQh04tXuXfS3ciyDID0sV) | [Joël Fajerman](https://open.spotify.com/artist/1xkkc4SvHvsNhJCTWoxmrc) | [La Aventura De Las Plantas](https://open.spotify.com/album/3dHCUSWAeBelSFhJicbeXh) | 5:17 |
+| 4 | [Summer Round](https://open.spotify.com/track/69ifjwvHreBj4oqnUfjUcG) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Belbury Tales](https://open.spotify.com/album/7gqPK608MXJLwNdxFI9WBk) | 6:36 |
+| 5 | [Main Title](https://open.spotify.com/track/05rm1zAtv60zq4RVU1y9Mm) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Dune](https://open.spotify.com/album/3LijvusGxCVk3luxL9kR6V) | 1:20 |
 | 6 | [Hi Red](https://open.spotify.com/track/3h5ItXLVH0xOmly8g9bj75) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 1:27 |
 | 7 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 |
 | 8 | [Teufelsberg](https://open.spotify.com/track/6WQOeaJBUTXNAMmeTxYvZ9) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 2:48 |

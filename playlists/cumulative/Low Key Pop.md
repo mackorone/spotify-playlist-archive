@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:0FL2d6iFFNAV3yBUbXjZ1U">Wafia</a>
+> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:4hOb2WdQMQWyG6RQAhR7iE">Budjerah</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Crush](https://open.spotify.com/track/5stsHsQTNRp8guy8Y6AJmQ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Crush](https://open.spotify.com/album/1heXxMqKYRntAtRRKSu6I5) | 2:46 | 2020-08-30 |  |
 | [CRYBABY :*(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :*(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-01 | 2020-02-12 |
 | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/track/3NULjteyVVY9F7WrAXOZIG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Crying Over You ◐ (feat. RM & BEKA)](https://open.spotify.com/album/7xHrsxMVGd7EcObn6Kew1o) | 4:04 | 2019-08-27 | 2019-11-11 |
+| [Dance](https://open.spotify.com/track/0MP2SUdqSFDl9tcytBpF8h) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Dance](https://open.spotify.com/album/0ka6ChDCJFiNeA4UW9OLW7) | 2:59 | 2020-11-03 |  |
 | [Dance Alone](https://open.spotify.com/track/6l8ai4INZVibQ212THNkDo) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Dance Alone](https://open.spotify.com/album/7BsJGPd1VYmeGasENuW2PE) | 2:33 | 2020-05-29 |  |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-03-27 |  |
 | [Deal](https://open.spotify.com/track/0EbYN3Un6UtnzL4LOd1mlF) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Deal](https://open.spotify.com/album/3QT5iWD6k2tSeMJGkzE3ys) | 2:41 | 2019-08-27 |  |
@@ -346,6 +347,7 @@
 | [Turntables (from the Amazon Original Movie "All In: The Fight for Democracy")](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables (from the Amazon Original Movie "All In: The Fight for Democracy")](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2020-09-11 |  |
 | [Unmiss You](https://open.spotify.com/track/5pwzncWFNZpYPfE2ePzFi8) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Unmiss You](https://open.spotify.com/album/4uGWP7clN8UrhvLpZuyc7K) | 3:10 | 2019-11-08 | 2020-02-12 |
 | [Unreal](https://open.spotify.com/track/0q92OQeJg8WynJGKjpJIe3) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Unreal](https://open.spotify.com/album/6uXvwGZjtBsFry4oTwRIeq) | 3:29 | 2020-09-04 |  |
+| [Upside Down (feat. Charlie Puth)](https://open.spotify.com/track/4nZhS4vsnO50wnSyMJraBj) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Upside Down (feat. Charlie Puth)](https://open.spotify.com/album/4rMBOhwN1GY0c2rpOoMU5L) | 1:56 | 2020-11-03 |  |
 | [Used to You](https://open.spotify.com/track/55OUCSy92BYCmhjOuzFQcf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Used to You](https://open.spotify.com/album/6DY36Etteqk1q32tl8ACPv) | 2:14 | 2019-10-04 |  |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2020-02-21 |  |
 | [Wait No More](https://open.spotify.com/track/6JeHBrY4VPxckc2bQQVY0T) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Wait No More](https://open.spotify.com/album/0iNBhGKXc162Mpn2eaBnD7) | 2:44 | 2020-05-29 |  |
