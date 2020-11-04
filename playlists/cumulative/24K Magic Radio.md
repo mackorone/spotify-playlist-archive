@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kendrick Lamar, Charlie Puth, Philip Lawrence and more
+> With Bruno Mars, Cardi B, David Guetta, Camila Cabello and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

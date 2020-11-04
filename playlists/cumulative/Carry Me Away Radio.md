@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Jason Mraz, A R I Z O N A, Rationale and more
+> With John Mayer, Alessia Cara, Kacey Musgraves, Julia Michaels and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
