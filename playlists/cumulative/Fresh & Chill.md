@@ -2,7 +2,7 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs. Cover: Matt Maeson
+> Discover your favorite new chill pop songs. Cover: Valley
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Dans la hess](https://open.spotify.com/track/06nMeoeJumuAenz7XKhHYw) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Gore](https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS) | 2:49 | 2020-10-16 |  |
 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 | 2020-10-13 |  |
 | [Dear First Love,](https://open.spotify.com/track/6PowfeWOvFBlueUpvct3HI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dear First Love,](https://open.spotify.com/album/1YANDmdijaWWHMzhZVD5rX) | 3:16 | 2020-10-13 | 2020-10-29 |
-| [Deep Sea State of Mind](https://open.spotify.com/track/1ywFfnmZJ1TkPFIDbL1DWc) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Deep Sea State of Mind](https://open.spotify.com/album/3SoxKtewbWRMhhpF8MTZrZ) | 3:42 | 2020-10-13 |  |
+| [Deep Sea State of Mind](https://open.spotify.com/track/1ywFfnmZJ1TkPFIDbL1DWc) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Deep Sea State of Mind](https://open.spotify.com/album/3SoxKtewbWRMhhpF8MTZrZ) | 3:42 | 2020-10-13 | 2020-11-05 |
 | [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:52 | 2020-10-13 |  |
 | [Different](https://open.spotify.com/track/4hcp6mbsSqGERbHf9PgBPM) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Different](https://open.spotify.com/album/7GWoKy2ZAgNkRTAfvWA32v) | 2:24 | 2020-10-30 |  |
 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 | 2020-10-23 |  |
@@ -80,9 +80,9 @@
 | [my hair](https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:38 | 2020-10-30 |  |
 | [Never the 1](https://open.spotify.com/track/3gk96wClxx6rbSOpxXUc5O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Never the 1](https://open.spotify.com/album/5KVUDnIgiqO1vdeQoTZTCl) | 2:51 | 2020-10-30 |  |
 | [NO ONE’S IN THE ROOM](https://open.spotify.com/track/2C6QUOsR7PfEm3EpXOLvjv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 4:08 | 2020-10-13 | 2020-10-29 |
-| [Obliquely Serenely](https://open.spotify.com/track/4nscRgbWwnAgm9RmPzErws) | [Lespectre](https://open.spotify.com/artist/0XHGbaFEtEtQcNPIaGUDNV) | [Obliquely Serenely](https://open.spotify.com/album/1Ny728CibCJNJvFR5Q8VfR) | 4:46 | 2020-10-13 |  |
+| [Obliquely Serenely](https://open.spotify.com/track/4nscRgbWwnAgm9RmPzErws) | [Lespectre](https://open.spotify.com/artist/0XHGbaFEtEtQcNPIaGUDNV) | [Obliquely Serenely](https://open.spotify.com/album/1Ny728CibCJNJvFR5Q8VfR) | 4:46 | 2020-10-13 | 2020-11-05 |
 | [off the table (with The Weeknd)](https://open.spotify.com/track/0K2UmT0JOcEaLssWda2703) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Positions](https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y) | 3:59 | 2020-10-30 |  |
-| [ok on your own (feat. Carly Rae Jepsen)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 | 2020-10-13 |  |
+| [ok on your own (feat. Carly Rae Jepsen)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 | 2020-10-13 | 2020-11-05 |
 | [Outside](https://open.spotify.com/track/0YCCXfwkqezFE8sjRoaKmi) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Outside](https://open.spotify.com/album/7bNmKoKLrqqhAg3e021cVG) | 2:18 | 2020-10-13 | 2020-10-29 |
 | [Paradise Found](https://open.spotify.com/track/2VDR6C4c3uUz8qXUsGDHSJ) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/4BTX1JU3AvBrmCn1rC6TED) | 3:42 | 2020-10-13 | 2020-10-15 |
 | [Passive Aggressive](https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Passive Aggressive](https://open.spotify.com/album/0cn84wdzrRfoheO2AD1p1j) | 3:09 | 2020-10-13 |  |
@@ -91,7 +91,7 @@
 | [Pillow](https://open.spotify.com/track/5xwtVHKuo5IxdlXQzqL6gQ) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Pillow](https://open.spotify.com/album/0zb47cMO6JyLvOcwj3m0B7) | 3:03 | 2020-10-13 |  |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-13 |  |
 | [Ready For You](https://open.spotify.com/track/0SyyLzNHa2bp8OQXYqFgpw) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You](https://open.spotify.com/album/2x7J2pFGoNS0LA5qYc8y7Y) | 4:28 | 2020-10-13 | 2020-10-23 |
-| [Red Gatorade](https://open.spotify.com/track/0R60496gawZvoT1QxdLrts) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Red Gatorade](https://open.spotify.com/album/4dUS1rkkTX4oTOsgNM7sjO) | 3:07 | 2020-10-13 |  |
+| [Red Gatorade](https://open.spotify.com/track/0R60496gawZvoT1QxdLrts) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Red Gatorade](https://open.spotify.com/album/4dUS1rkkTX4oTOsgNM7sjO) | 3:07 | 2020-10-13 | 2020-11-05 |
 | [say it over (feat. Cautious Clay)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over (feat. Cautious Clay)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-13 |  |
 | [Seeing Other People](https://open.spotify.com/track/2OX5cec5sbZDSQOa7klacx) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Seeing Other People](https://open.spotify.com/album/5bYfpdwQ6b9fbqa4wLs3Gx) | 3:06 | 2020-10-13 |  |
 | [Seventeen](https://open.spotify.com/track/1DExDLmVbJrsmZ7Uy5OOXN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:54 | 2020-10-30 |  |
@@ -102,7 +102,7 @@
 | [Strangers](https://open.spotify.com/track/3DmPgG92yg1svfjBkAyE84) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Strangers](https://open.spotify.com/album/62SHkxkmWb3tFt4260moa9) | 2:16 | 2020-10-13 |  |
 | [Stronger](https://open.spotify.com/track/41sWa3QT3Aeh3jtDvywpLV) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Stronger](https://open.spotify.com/album/2WEy1qUokBNd6OYq0jmsGZ) | 3:24 | 2020-10-16 |  |
 | [Stuck On You](https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You](https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX) | 3:25 | 2020-10-13 |  |
-| [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2020-10-13 |  |
+| [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2020-10-13 | 2020-11-05 |
 | [The Dark](https://open.spotify.com/track/4zfdaZxEFXgZDrGP8UWq10) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0eAHJ8R9M3X1GYeBotCPVV) | 4:58 | 2020-10-13 |  |
 | [There for You](https://open.spotify.com/track/5b4991SkpZ602JRRXX0Q4C) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Elysian Fields](https://open.spotify.com/album/1B617on1L55WIUQJboshYS) | 3:41 | 2020-10-13 |  |
 | [Want U Around (feat. Ruel)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around (feat. Ruel)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2020-10-16 |  |
