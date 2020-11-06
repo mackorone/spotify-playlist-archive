@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Jamila Woods
+> Genre-less. Quality first always. Cover: Tierra Whack
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Colbert](https://open.spotify.com/track/1vlQ6COEz1AXKMTZYlbHdQ) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX) | [You Can't Sit With Us](https://open.spotify.com/album/3LGXijbrTyP8I6W1mEb5Sl) | 3:33 | 2019-07-30 | 2019-10-16 |
 | [Colorado](https://open.spotify.com/track/3DbBgbnDUOml329rAp2Tbr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Colorado](https://open.spotify.com/album/7DWz0zPWRlCDt5H4OoG5mN) | 3:26 | 2019-09-20 | 2020-03-25 |
 | [Colours](https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Smith Rock](https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp) | 3:02 | 2019-11-23 | 2020-04-16 |
+| [Columbia](https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Columbia](https://open.spotify.com/album/13hsWzSOISWHF9Iv9wcdJq) | 3:07 | 2020-11-06 |  |
 | [Come Back a Different Day (Back to Mine Exclusive)](https://open.spotify.com/track/1hZdkhA3IDw1NCfQv0jP7E) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Come Back a Different Day (Back to Mine Exclusive)](https://open.spotify.com/album/4HUlffR8tegGvfGL5xQCWG) | 2:39 | 2019-10-16 | 2020-02-21 |
 | [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/track/63kJcTnJu3qis6h5MX2nnB) | [Audrey Muna](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/album/13OQY67VZehN0ekL3WUzfn) | 2:32 | 2020-02-21 | 2020-02-22 |
 | [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/track/63kJcTnJu3qis6h5MX2nnB) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Comic Sans (feat. Jack Harlow)](https://open.spotify.com/album/13OQY67VZehN0ekL3WUzfn) | 2:32 | 2020-02-22 | 2020-04-18 |
@@ -430,6 +431,7 @@
 | [Love You Bad (feat. Kamasi Washington & Phoelix)](https://open.spotify.com/track/1BkK2fQUGALz7AaOSo7Swh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:48 | 2020-07-10 |  |
 | [Lovestained](https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx) | 2:55 | 2019-07-30 | 2020-05-07 |
 | [Magic Loop](https://open.spotify.com/track/268QdafLK67UZrGLuU1Yzw) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Magic Loop](https://open.spotify.com/album/6Hf6waAeu2HqDc8fHLRaBz) | 2:36 | 2019-07-30 | 2019-08-09 |
+| [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2020-11-06 |  |
 | [MANGO (feat. Adeline)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO (feat. Adeline)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2020-10-16 |  |
 | [Marmot](https://open.spotify.com/track/0kDUBMqeggD9gYUsYzdJLx) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Golden Hour](https://open.spotify.com/album/3sT7yWCfQybO1JzV9xt41R) | 3:49 | 2020-07-11 | 2020-09-18 |
 | [Mask On](https://open.spotify.com/track/7zxtj0SKcfBMYWnf7nYrsG) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Mask On](https://open.spotify.com/album/7HLBka5H2JbrWwWYhFCpOl) | 2:49 | 2020-10-03 |  |
