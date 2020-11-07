@@ -2,7 +2,7 @@
 
 ### [2010s Hits](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
-> Celebrating UK's Black History Month, throwing back to some of the hottest hits of the decade from Lil Nas X, Khalid, Beyoncé and Alicia Keys. 
+> Throwing back to some of the hottest hits of the decade from Little Mix, Lil Nas X, Khalid, Beyoncé and Alicia Keys. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down (Deluxe)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2020-10-20 |  |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album (Expanded Edition)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2020-10-20 |  |
 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories (Deluxe)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2020-11-03 |  |
+| [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird (Expanded Edition)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2020-11-07 |  |
 | [Blank Space](https://open.spotify.com/track/2ls70nUDfjzm1lSRDuKxmw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:51 | 2020-10-20 |  |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2020-10-20 |  |
 | [Budapest](https://open.spotify.com/track/5d0UhOMXSURu2AOV0Oty1u) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:21 | 2020-10-20 |  |

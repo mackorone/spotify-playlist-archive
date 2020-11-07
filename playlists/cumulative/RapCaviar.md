@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from NLE Choppa, NAV and Mike Will Made-It.
+> RIP King Von.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
