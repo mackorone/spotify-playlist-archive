@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks every week. Cover: Bakar
+> The best new tracks every week. Cover: Sega Bodega & Låpsley
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
