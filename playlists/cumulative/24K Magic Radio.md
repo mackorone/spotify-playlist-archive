@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Bieber, Ron Funches, Daft Punk and more
+> With Bruno Mars, Mark Ronson, Grey, Zedd and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

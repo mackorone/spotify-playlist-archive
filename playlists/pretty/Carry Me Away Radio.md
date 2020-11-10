@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, John Legend, Ray LaMontagne, Ryan Hurd and more
+> With John Mayer, Ben Rector, A R I Z O N A, Ryan Hurd and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, John Legend, Ray LaMontagne, Ryan Hurd and more
+> With John Mayer, Ben Rector, A R I Z O N A, Ryan Hurd and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

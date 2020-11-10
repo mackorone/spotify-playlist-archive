@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Washed Out, Caroline Polachek, FKA twigs and more
+> With Rina Sawayama, Phantogram, Ariel Pink and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
