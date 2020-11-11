@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tierra Whack
+> Genre-less. Quality first always. Cover: Tobi Lou
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Oh My God](https://open.spotify.com/track/0UB94ZGWfTKiC0jvihgnc4) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Oh My God](https://open.spotify.com/album/3elA2Wn9aykp0bp728nm62) | 3:14 | 2020-02-07 | 2020-03-25 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2020-10-23 |  |
 | [Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)](https://open.spotify.com/track/7wxDKfgFtRTbupcG4xDhtj) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Zoink Gang](https://open.spotify.com/artist/3OBsADexDJ29wg3OGVoAji), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:35 | 2019-07-30 | 2019-09-20 |
+| [OKAY (feat. Dreezy)](https://open.spotify.com/track/3onl4NpPdnphYFF5a7ypkR) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [OKAY (feat. Dreezy)](https://open.spotify.com/album/785jdsvDvwgyz3eZPOR72u) | 2:58 | 2020-11-11 |  |
 | [Okok (Hibachi)](https://open.spotify.com/track/2nv6MQwywzHq5ztmXZkSfX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Okok (Hibachi)](https://open.spotify.com/album/2ATmMmOWWQDo5MvLL7Hlkz) | 2:13 | 2019-07-30 | 2019-12-13 |
 | [OMG](https://open.spotify.com/track/223AWrYBuPJwm3oy9phMiS) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [OMG](https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB) | 2:34 | 2019-07-30 | 2019-09-05 |
 | [On Sight](https://open.spotify.com/track/0VKtRbgIN0YlDSgIhGLvun) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF), [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [On Sight](https://open.spotify.com/album/1ffElvStUPwXnCwQOzXOUY) | 4:09 | 2019-10-02 | 2020-01-16 |
