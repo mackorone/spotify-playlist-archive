@@ -2,7 +2,7 @@
 
 ### [Lo-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams. Cover: Pretty Sick
+> Slacker jams. Cover: Far Caspian
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ego Sand](https://open.spotify.com/track/2vqd30zLWO7SfTBFi2H5QV) | [syrup, go on](https://open.spotify.com/artist/3JWYHUPKrZmheEfly6TH7m) | [Last Light](https://open.spotify.com/album/69k9sTYPJJHPVSeRQJrJbb) | 4:06 | 2020-10-27 |  |
 | [Every Start Has an End](https://open.spotify.com/track/6GWIbQgl3WyvKPRCcSTOIY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Every Start Has an End](https://open.spotify.com/album/5lnwAgO2OOIJcyj2fRVJxx) | 3:36 | 2020-10-27 |  |
 | [Fading Away](https://open.spotify.com/track/6RWYSFAwNZz5HXZrn9VRf8) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Honeyweed](https://open.spotify.com/album/74SUtV8JEuE7HebKi9VYRL) | 3:23 | 2020-10-27 |  |
+| [Far Out Summer](https://open.spotify.com/track/6GYyor9AItFlXhTJQlUvh3) | [Hollow Graves](https://open.spotify.com/artist/4GCC4WJAlcF2fkUXOgY8Uz) | [Far Out Summer](https://open.spotify.com/album/4Kusj62wHAZaf5Kb2mGjNq) | 3:18 | 2020-11-12 |  |
 | [Fever Dream Kids](https://open.spotify.com/track/1InZwLQycYMyYcbZAVCcln) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Fever Dream Kids](https://open.spotify.com/album/0au06ag4RnSgDBHrKEstz6) | 4:12 | 2020-10-30 |  |
 | [For U](https://open.spotify.com/track/4jEj8zsFCz9SpY3VL4b50H) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [For U](https://open.spotify.com/album/6tHGrUKMR4yQorjJJHnP2Z) | 2:18 | 2020-10-30 |  |
 | [GARDEN 2](https://open.spotify.com/track/232Y5lAjifWnc5NhUn34mz) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [GARDEN 2](https://open.spotify.com/album/3NgvBxs5xqp1OOtHKvdXYo) | 1:30 | 2020-10-27 |  |
@@ -30,6 +31,7 @@
 | [Going Going](https://open.spotify.com/track/0dldlUYSn1gQTTU6aY6L7U) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [About Today](https://open.spotify.com/album/2UN2slTOxJlWQiTGtcenLD) | 4:18 | 2020-10-27 | 2020-10-30 |
 | [Good For You](https://open.spotify.com/track/3FVQzQWwaOKYXnBFnXB6iZ) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/4UYS4jArAYYuBTTpCTPKwg) | 3:35 | 2020-10-27 |  |
 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2020-10-27 |  |
+| [Half Eaten](https://open.spotify.com/track/2KYbp21U0bz5KwyIU5SG3K) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Half Eaten](https://open.spotify.com/album/2rOJ8d7nmnJVr2ALnPC85j) | 3:18 | 2020-11-12 |  |
 | [Helium Balloon](https://open.spotify.com/track/2jFRgw5CTWcTZgqbaBOFSO) | [Jellyfish in Space](https://open.spotify.com/artist/7ozJQZmUWsjGabAMzVMzPq) | [Helium Balloon](https://open.spotify.com/album/4Cid4viMxaUZnZW0tWdFY4) | 3:11 | 2020-10-27 |  |
 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 | 2020-10-30 |  |
 | [Heroin Honey](https://open.spotify.com/track/2KiFvih9wyfXy3uZ5B19hX) | [Blondmodel](https://open.spotify.com/artist/4djxhTu96p6BxBTQxsNAGE) | [Heroin Honey](https://open.spotify.com/album/5J2UkIl4QkgJKHTmQYnU3g) | 3:22 | 2020-10-27 |  |
@@ -48,8 +50,10 @@
 | [Late Smoke](https://open.spotify.com/track/1bAMwlbkQSpHYQB34VsV6B) | [crytothemoon](https://open.spotify.com/artist/0FKZcqak2HXauS8TvS9u6g) | [Late Smoke](https://open.spotify.com/album/7gRDfW6TOP8cBlbbdQAXzg) | 2:27 | 2020-10-27 |  |
 | [Lovedon](https://open.spotify.com/track/6mtPEsukv3glfA39rkVHAg) | [Archie Valentine](https://open.spotify.com/artist/4vgMVtepc8sZO3JFY8nTad) | [Lovedon](https://open.spotify.com/album/3v464Dscws4tryDtqN5M2t) | 4:35 | 2020-10-27 |  |
 | [madhouse](https://open.spotify.com/track/3EsYB7kiB7JsLvP3tHuHij) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/47zuKf611JlvNEqmRnhXn0) | 3:31 | 2020-10-27 |  |
+| [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 | 2020-11-12 |  |
 | [Man Love](https://open.spotify.com/track/71nPVaCmjNptNeB9bPiJ8n) | [Margot](https://open.spotify.com/artist/7Gql8RptDsVy6MIJzTLaB6) | [Man Love](https://open.spotify.com/album/0Yefs8ZgP83qCBnm8DPcSL) | 4:56 | 2020-10-27 |  |
 | [MOTH](https://open.spotify.com/track/3TOSmvd8z9ytPEuNidy2TL) | [Jacquard Looms](https://open.spotify.com/artist/7idhuWALyq1ZL4oeNS6wyy) | [MOTH](https://open.spotify.com/album/3fVUJzWc3x37XYwYBPCmDi) | 4:36 | 2020-10-27 |  |
+| [Mt. Hood](https://open.spotify.com/track/5tTY2O3xbKUzk5A7vJluxW) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Mt. Hood](https://open.spotify.com/album/4SbmpMPGkKXMLQxvMBp3Ju) | 3:30 | 2020-11-12 |  |
 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 | 2020-11-03 |  |
 | [No Other Like You](https://open.spotify.com/track/0jwx104ASJH2nhF0RYTP55) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [No Other Like You](https://open.spotify.com/album/6kCIF9VWB5bJXQZpZlDv8e) | 3:28 | 2020-10-27 |  |
 | [Orange Roses](https://open.spotify.com/track/670aiWD6QsDWp84szcpWE6) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Orange Roses](https://open.spotify.com/album/3R6PGdhybXer7PrwSCpc0w) | 4:05 | 2020-10-27 |  |
@@ -59,6 +63,7 @@
 | [Quotations For Locations](https://open.spotify.com/track/00yYbmR2BbBLTdUYAtkqbd) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Quotations For Locations](https://open.spotify.com/album/0cpnfjAejSCBSmYWcvPuDz) | 3:36 | 2020-10-27 |  |
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [niquo](https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-10-27 |  |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27 |  |
+| [Rip](https://open.spotify.com/track/7tEI0ug1DL0G9Ez8qhnsW4) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Leave It All Behind](https://open.spotify.com/album/6yOQSdKl7hCxTvSFWWfloA) | 2:33 | 2020-11-12 |  |
 | [Rose](https://open.spotify.com/track/7xTpmsgbuPTHv6mHZyH18v) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Rose](https://open.spotify.com/album/4uBpe363rz0WVb9JN26L06) | 3:46 | 2020-10-27 |  |
 | [Rotten Teeth](https://open.spotify.com/track/7dJwJZtmdqq0yg4DAWOMKJ) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [Rotten Teeth](https://open.spotify.com/album/4rzA98S9bASyIOLXRngQRY) | 3:49 | 2020-10-27 |  |
 | [Rumours](https://open.spotify.com/track/4APYDLFFtwzlTsvyy9NZwA) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Rumours](https://open.spotify.com/album/1naEA1H0TUZ21r1JQWHQ0S) | 3:27 | 2020-10-27 |  |
@@ -77,8 +82,10 @@
 | [Things That Make It Warm](https://open.spotify.com/track/72g8JEkbyut7eAzILgBxDd) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Things That Make It Warm](https://open.spotify.com/album/1Cz7AaZHxk77OR2vDQnqEi) | 3:05 | 2020-10-27 |  |
 | [Trash](https://open.spotify.com/track/7oYHTyfe6jzw2AW0YxzTSg) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:13 | 2020-10-27 |  |
 | [Up in the Air](https://open.spotify.com/track/2rZ1YtyTsdZ5gQbJeOEsa1) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Up in the Air](https://open.spotify.com/album/4Z57NxZ40kf21wK1rgradb) | 2:18 | 2020-10-27 |  |
+| [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 | 2020-11-12 |  |
 | [Vegetable](https://open.spotify.com/track/5D2Wh182IjiwIFQeRp1mek) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Vegetable](https://open.spotify.com/album/618orW9i4jPGocCw6UwquZ) | 3:45 | 2020-10-27 |  |
 | [Warm Body](https://open.spotify.com/track/4aLqmvZMituDRmbcNqcLAn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Warm Body](https://open.spotify.com/album/6pDgawO92Slg1Id9nwZPPN) | 3:19 | 2020-10-27 |  |
+| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27 |  |
 | [Why Would I?](https://open.spotify.com/track/2EQPHBmFdi6gIuHz7qNpMd) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Why Would I?](https://open.spotify.com/album/2K1WSoNMQ55kyRzKTknQEy) | 2:42 | 2020-10-27 |  |
 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 | 2020-10-30 |  |
