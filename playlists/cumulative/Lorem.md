@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> human music, i like it ♡ cover: Spill Tab
+> go benee ♡
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 |  |
 | [Babydoll](https://open.spotify.com/track/1SocftHhtuqF7k83eUhHiz) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 1:37 | 2019-07-30 | 2020-07-31 |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2019-07-30 | 2019-09-06 |
+| [Back to the Start](https://open.spotify.com/track/1ErY5BBTlfFVnewSQ4rwKY) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/1CyBZOTLfg7xpqI72HbGS9) | 3:23 | 2020-11-13 |  |
 | [Backseat](https://open.spotify.com/track/1bm6MSwBgSeXp2UPJ0nqCl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:03 | 2019-12-14 | 2020-05-07 |
 | [Backwards](https://open.spotify.com/track/3HL4n8vCeCyYLxogqkUxup) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Backwards](https://open.spotify.com/album/67buolBsDm0XkJikkqZRxv) | 2:53 | 2020-08-21 |  |
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-07-23 |  |
@@ -100,6 +101,7 @@
 | [Butter](https://open.spotify.com/track/1uPDP9EN6EFvKcDr0gtBiP) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v), [Claire Ernst](https://open.spotify.com/artist/2WFgy3nW0RPCr856bifSkY) | [Butter](https://open.spotify.com/album/3NG0DSdRV90B5aC4fsgr95) | 3:25 | 2020-04-14 | 2020-07-01 |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2019-09-20 | 2020-01-28 |
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-03-27 | 2020-08-20 |
+| [C U](https://open.spotify.com/track/6ImXK5OiLPL2e0KfikOur6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:00 | 2020-11-13 |  |
 | [Cabin Fever](https://open.spotify.com/track/4P04T22VRDMfG7Yk0SMMxP) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Cabin Fever](https://open.spotify.com/album/5DfoMTrfErjlDnG79h6cKI) | 3:15 | 2020-07-24 |  |
 | [Caffeine](https://open.spotify.com/track/0wEPue9rjGWgvRYNgvsUfw) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 2:39 | 2019-07-30 | 2020-03-13 |
 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 | 2019-07-30 | 2019-08-02 |
@@ -207,6 +209,7 @@
 | [Dust It Off](https://open.spotify.com/track/3AkfTXIZ3yRPlbUYzSveDO) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/4VPsDiUtgIDmKrK52O7GTN) | 3:42 | 2020-08-20 | 2020-08-21 |
 | [Earth](https://open.spotify.com/track/3Dvq01GbtvhYKHUOaQkdwZ) | [Easy Life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Earth](https://open.spotify.com/album/2BorvQTryEDKebxHIWJTt2) | 3:06 | 2019-07-30 | 2019-10-29 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-24 |  |
+| [Edgewood](https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Edgewood](https://open.spotify.com/album/4Ou2P6tgp9mVu6H0UtVt7w) | 3:40 | 2020-11-13 |  |
 | [Ego](https://open.spotify.com/track/2qgXNUKWcCcXjRo2aMLjBa) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Ego](https://open.spotify.com/album/2jfGYnx0a3MrNkwXzn5mRt) | 2:28 | 2020-06-25 | 2020-07-31 |
 | [Enfance 80](https://open.spotify.com/track/41EVzZNXWACIguYgegrrFX) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Enfance 80](https://open.spotify.com/album/60LNVKspXzJne1FidTar5h) | 3:42 | 2020-05-01 |  |
 | [enjoy it while u can!](https://open.spotify.com/track/2r8ByPRBEiCODQjYaMotae) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [enjoy it while u can!](https://open.spotify.com/album/6gBhlrxXGFGbmnuy5v8pGF) | 2:24 | 2020-07-24 | 2020-10-07 |
@@ -347,6 +350,7 @@
 | [Idaho](https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Idaho](https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd) | 4:05 | 2020-08-21 | 2020-11-11 |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2020-04-09 | 2020-07-31 |
 | [idontwannabeyouanymore](https://open.spotify.com/track/40T5GIqQ1CegGm2PTEl8Bu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me (Expanded Edition)](https://open.spotify.com/album/5YCdlD3eREt72lTZxNL7id) | 3:23 | 2020-01-31 | 2020-02-20 |
+| [If I Get To Meet You](https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:02 | 2020-11-13 |  |
 | [If I Were You](https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [If I Were You](https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT) | 2:51 | 2019-07-30 | 2019-10-10 |
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2020-03-03 | 2020-07-29 |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-09 | 2020-07-29 |
@@ -388,6 +392,7 @@
 | [LEMONS - Demo](https://open.spotify.com/track/5ukAQcKEIJuzIbP55xp07x) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [LEMONS (Demo)](https://open.spotify.com/album/0IGmsGNVilEykPluqWt0rp) | 3:13 | 2020-03-31 | 2020-07-24 |
 | [LEMONS](https://open.spotify.com/track/0eiQuBiHlSD22UWw9nsx6r) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LEMONS](https://open.spotify.com/album/2huS7SBDdMwRmsUzTNkU9Q) | 2:06 | 2020-04-24 | 2020-07-24 |
 | [lessons](https://open.spotify.com/track/4KDCCnAjZZKFeth7wmKcma) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [lessons](https://open.spotify.com/album/0RPhMVm4w8Apqm74E7PpzW) | 3:32 | 2020-04-09 | 2020-05-22 |
+| [Let Me Feel Low (feat. Miloe)](https://open.spotify.com/track/2WgtDonid49ziQ1jORmrES) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Let Me Feel Low (feat. Miloe)](https://open.spotify.com/album/22EgoSZsZ2WEEZKXaXCum6) | 4:35 | 2020-11-13 |  |
 | [Let's Stay Inside](https://open.spotify.com/track/1UActoM8Vnkm9gWpyQ3B1q) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Let's Stay Inside](https://open.spotify.com/album/5rjIWveExGjmzfRXx2Ysw4) | 2:20 | 2020-04-24 | 2020-05-22 |
 | [Lied](https://open.spotify.com/track/2zMam0ako2pjGgN8jKtypU) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Lied](https://open.spotify.com/album/6UKZqCRQx6FgJNYihzbJa3) | 2:58 | 2020-08-15 |  |
 | [Life Inside](https://open.spotify.com/track/2tpA4UByrUKHRCaSiS0eno) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Life Inside](https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC) | 3:36 | 2020-04-24 |  |
@@ -544,6 +549,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-06-30 |  |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2020-06-05 | 2020-08-20 |
 | [quiet motions](https://open.spotify.com/track/1PgfRXFbqNK2S97sRmhn0n) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [quiet motions](https://open.spotify.com/album/1KGg761SMmdSo8Iv2lZPxb) | 2:38 | 2020-03-13 | 2020-05-05 |
+| [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2020-11-13 |  |
 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2020-10-13 |  |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-07-31 | 2020-09-17 |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 | 2020-02-20 |
@@ -728,6 +734,7 @@
 | [Wildfire](https://open.spotify.com/track/2WMRd3xAb9FwXopCRNWDq1) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/5fP2kgfePJZF4nB1XqC1i8) | 3:21 | 2019-07-30 | 2019-08-02 |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2020-04-18 |  |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2020-10-10 |  |
+| [Winter (feat. Mallrat)](https://open.spotify.com/track/1DOMesJ7CQqJy7pgzghCS4) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Hey u x](https://open.spotify.com/album/1gvuirDIzJFcSqfrIn01Ld) | 3:07 | 2020-11-13 |  |
 | [Wish I Could Be Your Girl](https://open.spotify.com/track/0HKM1VLefFnpHhkqcMbrLL) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Wish I Could Be Your Girl](https://open.spotify.com/album/2KBuzBTOa5EKxOroLIKBtF) | 2:27 | 2020-11-07 |  |
 | [WISH U WERE...](https://open.spotify.com/track/4Vbv5Ny93RPp0oKjXM7Nkb) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [WISH U WERE...](https://open.spotify.com/album/3doCUrKMWi3vvYsYntr0D5) | 2:03 | 2020-09-30 | 2020-10-20 |
 | [Wish You Were Gay](https://open.spotify.com/track/4suMbpl3KKlF1RokG5m1D4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/1JV6u7gohGqAl8x8Rt4DRa) | 3:11 | 2019-07-30 | 2019-08-08 |
@@ -750,6 +757,7 @@
 | [You Sad](https://open.spotify.com/track/7yqyEsd851dkG58lBcNrUS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol. 2](https://open.spotify.com/album/3iMht1oZf6aXQhHZscLXdF) | 2:37 | 2020-09-15 |  |
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2019-07-30 | 2019-10-03 |
 | [YOU WERENT ENOUGH](https://open.spotify.com/track/7yTJoV0A2NcwZLGPs8vl6p) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 4:11 | 2020-01-17 | 2020-07-31 |
+| [You'll Get Over It](https://open.spotify.com/track/2IJcVpJzKPcmZqiJHfY335) | [JEZ_EBEL](https://open.spotify.com/artist/3Q0KQUUtEilthOSjknwTEW) | [You'll Get Over It](https://open.spotify.com/album/4DswdYM0hkubkvjhhf7DBX) | 3:08 | 2020-11-13 |  |
 | [You're Kinda Perfect](https://open.spotify.com/track/2PZN10j9ewZcVbcNRfv8kj) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [You're Kinda Perfect](https://open.spotify.com/album/5sgyqnXx3snbOq1fqwjRtm) | 2:26 | 2020-10-16 |  |
 | [You're the Best](https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 2:57 | 2019-07-30 | 2019-11-14 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-05-15 | 2020-07-29 |

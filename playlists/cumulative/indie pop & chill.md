@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: WizTheMc
+> it's a vibe (◡ ‿ ◡ ✿) cover: BENEE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [going out](https://open.spotify.com/track/3hDNIAnUnraurZCuiuPegu) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel - EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:54 | 2020-11-04 |  |
 | [Gonna Be Okay](https://open.spotify.com/track/1FfQScGXFnfPu309jwGgwg) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Gonna Be Okay](https://open.spotify.com/album/31BsDGUGcmuIXG7W76JV4v) | 2:51 | 2020-10-29 |  |
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29 | 2020-11-11 |
-| [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-03 |  |
+| [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-03 | 2020-11-13 |
+| [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse EP](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-13 |  |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-07 |  |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-10-29 |  |
 | [Haunt You (feat. chloe moriondo)](https://open.spotify.com/track/3vgf7gtRKDFNqFRJm7nA0m) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Haunt You (feat. chloe moriondo)](https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry) | 2:47 | 2020-10-29 |  |
@@ -72,6 +73,7 @@
 | [is your bedroom ceiling bored? (feat. Cavetown)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? (feat. Cavetown)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-29 |  |
 | [Jackie Onassis](https://open.spotify.com/track/3OH7EyT8CgvW34AZLn8D79) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Jackie Onassis](https://open.spotify.com/album/0yTuTdnNybyhwLTpgbl4Br) | 3:45 | 2020-10-29 |  |
 | [Kicks](https://open.spotify.com/track/5HOqxHVvi2JZfFGviilqmJ) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Kicks](https://open.spotify.com/album/5sd1yuJz5nPdXt2xhghvMk) | 3:32 | 2020-10-29 |  |
+| [Kool](https://open.spotify.com/track/35arSG83D9FCN2Ts0qOuoc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 2:48 | 2020-11-13 |  |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-10-29 | 2020-11-11 |
 | [Lemonade](https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lemonade](https://open.spotify.com/album/3H590nC6Jt4RkHfd8UBT7s) | 3:47 | 2020-10-29 |  |
 | [Lovely](https://open.spotify.com/track/5Hk1e4wp12VfOkdfHdpeBy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Lovely](https://open.spotify.com/album/4kzqBT7MnaHJkX0LjfDHay) | 3:24 | 2020-10-29 |  |
