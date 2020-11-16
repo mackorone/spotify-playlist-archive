@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!holyshitohmygod!](https://open.spotify.com/track/1g4MzzjfEXfWMYm3ps5KrI) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Manzanita St. / !holyshitohmygod!](https://open.spotify.com/album/7xvI3J8IHDj4UCd5L8ReZz) | 3:16 | 2020-10-13 |  |
-| [1234](https://open.spotify.com/track/5q7z81OkAKTvE5EkobWdS3) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/0OiBt2PBU3LJJWfUKR8njf) | [1234](https://open.spotify.com/album/64FXUqaBBNjgjuI9K4frcj) | 3:20 | 2020-11-14 |  |
+| [1234](https://open.spotify.com/track/5q7z81OkAKTvE5EkobWdS3) | [p4rkr](https://open.spotify.com/artist/5I7oKOPxJ4OEeSlF0RlV6Z), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/0OiBt2PBU3LJJWfUKR8njf) | [1234](https://open.spotify.com/album/64FXUqaBBNjgjuI9K4frcj) | 3:20 | 2020-11-14 |  |
 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 | 2020-10-13 |  |
 | [2008](https://open.spotify.com/track/2m5mImkOSMsQ0Q7f2RhGMy) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [COA](https://open.spotify.com/album/6OA2c3w8XjpOPeyfNcAUSq) | 2:18 | 2020-11-06 |  |
 | [2021](https://open.spotify.com/track/6wJvvuAKqrPbXYlO6iqgJ2) | [A. G. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd) | 1:56 | 2020-10-13 |  |
