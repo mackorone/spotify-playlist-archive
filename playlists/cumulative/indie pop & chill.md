@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: BENEE
+> it's a vibe (◡ ‿ ◡ ✿) cover: Ivytide
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Stormy](https://open.spotify.com/track/1s0aL4BY3G10EErdkYQJ9b) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/4hmWk2YrCRkx1euv2mv42I) | 2:16 | 2020-10-29 | 2020-11-07 |
 | [Stuck in the Middle](https://open.spotify.com/track/2HQPOVBAOU2EBTy1nBGRiW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stuck in the Middle](https://open.spotify.com/album/19udHG59Ov2Vjv1wn7as3q) | 3:16 | 2020-10-29 |  |
 | [supercuts](https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [supercuts](https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg) | 3:26 | 2020-10-29 |  |
+| [text me when u get home](https://open.spotify.com/track/6zRqVnBUDNSur3jQQQJVOl) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [text me when u get home](https://open.spotify.com/album/5TMBc5WQpkfghwBZrYrgIL) | 2:48 | 2020-11-20 |  |
 | [tiny dancer](https://open.spotify.com/track/6wbRMUDumDpe2nWKUApAld) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [journal1 // ss20](https://open.spotify.com/album/6onWnZuIMf8lNp4LaiH6ut) | 1:46 | 2020-10-29 | 2020-11-03 |
 | [upside down](https://open.spotify.com/track/27dLE8w9LrbjMNU88kUv0G) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [upside down](https://open.spotify.com/album/7L5hYe5cJOppfwmR7qmBcR) | 2:02 | 2020-11-03 | 2020-11-07 |
 | [ur just a fan](https://open.spotify.com/track/58lB8Lq0g0iiXPtqg9IPuA) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [ur just a fan](https://open.spotify.com/album/3CnnKEaAkN9V4ceDRJvAa7) | 3:12 | 2020-11-14 |  |

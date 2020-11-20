@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tobi Lou
+> Genre-less. Quality first always. Cover: Kali Uchis
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Benzo](https://open.spotify.com/track/09byaVBbIvJWJHdZEl4Sin) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:30 | 2019-07-30 | 2019-10-18 |
 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 | 2020-02-27 |  |
 | [Best Life](https://open.spotify.com/track/7Eh6MPpRNIFzaFZywrHDMD) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Best Life](https://open.spotify.com/album/2tAHWLDYBRxDqFM4d3Dns1) | 2:33 | 2019-09-18 | 2020-03-25 |
+| [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 | 2020-11-20 |  |
 | [Beta Male Strategies](https://open.spotify.com/track/7fA0kOF3D0hlkZCkHifxOC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Beta Male Strategies](https://open.spotify.com/album/3z16dDy9A56ouM8tN9dBfv) | 3:20 | 2019-09-11 | 2019-12-06 |
 | [Better](https://open.spotify.com/track/4D1pSubhIOa9IfsXt5JqNG) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Better](https://open.spotify.com/album/5lSZDlee460BlD3kLj9RHg) | 3:23 | 2020-08-14 |  |
 | [Big Girls](https://open.spotify.com/track/0VEJDwMO26qNitqyDb47I0) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Big Girls](https://open.spotify.com/album/7t6Pr9lRrhMlAxEt1txMth) | 3:08 | 2019-09-10 | 2019-11-02 |
@@ -270,6 +271,7 @@
 | [First Responders (feat. Kamasi Washington)](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 | 2020-07-10 | 2020-11-14 |
 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 | 2020-11-14 |  |
 | [Flight319](https://open.spotify.com/track/0Yjk3HrIV428JI3E54dfQV) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/1PCwiCVNp2V1Jcp8hSUEyB) | 3:21 | 2020-01-17 | 2020-06-29 |
+| [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 | 2020-11-20 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2019-10-26 | 2020-03-25 |
 | [Foolsong](https://open.spotify.com/track/2iyDTStpAS9b3BOpTJKREn) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately](https://open.spotify.com/album/41DorGE6V1bXIe6WzCte4c) | 2:53 | 2019-07-30 | 2019-10-29 |
 | [For André](https://open.spotify.com/track/06zGFsJg11na4OPtQTbyvG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [For André](https://open.spotify.com/album/45B4sMt3DT6X8RY5qvGhhU) | 3:05 | 2020-05-29 | 2020-08-21 |
