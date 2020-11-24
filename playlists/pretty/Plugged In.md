@@ -6,11 +6,11 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 |
+| 1 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
 | 2 | [I Got You](https://open.spotify.com/track/1vpXogmIQSjEa4zDIBjTto) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [I Got You](https://open.spotify.com/album/6RVUJqWsijWixBw4BbYYUI) | 3:52 |
-| 3 | [Too Tough Terry](https://open.spotify.com/track/3eDfcMpk8VSgI0H2fbiXIB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Too Tough Terry](https://open.spotify.com/album/35YWDA6AiwqHktNQiy9v3L) | 2:37 |
-| 4 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 |
-| 5 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
+| 3 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 |
+| 4 | [Too Tough Terry](https://open.spotify.com/track/3eDfcMpk8VSgI0H2fbiXIB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Too Tough Terry](https://open.spotify.com/album/35YWDA6AiwqHktNQiy9v3L) | 2:37 |
+| 5 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 |
 | 6 | [Change](https://open.spotify.com/track/60Kt2LvcqCBFSP5KJhwFr4) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Garden](https://open.spotify.com/album/7dBML7p2NHqjadl5zg9wL1) | 3:36 |
 | 7 | [Broken System](https://open.spotify.com/track/6Zk0OgVcyGXpDiTEra7xzW) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Broken System](https://open.spotify.com/album/0OWHl71Twv54ip9YYZITMe) | 2:47 |
 | 8 | [DEADALIVE](https://open.spotify.com/track/5dPr6Q3SDvS4R1tVcwnlpA) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [DEADALIVE](https://open.spotify.com/album/3vpcguFzIwFSJQMZ4LKbDT) | 3:27 |

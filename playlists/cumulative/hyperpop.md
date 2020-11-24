@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> brb coalescing on ebullient electro-maximalism. ft Gupi & Fraxiom
+> brb coalescing on ebullient electro-maximalism. ft Rico Nasty
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,10 +160,10 @@
 | [october's lullaby (feat. glaive)](https://open.spotify.com/track/3GbPm4gaQXSsF4HTra0cI0) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [october's lullaby (feat. glaive)](https://open.spotify.com/album/2Ueml4bDf6O9LOTL9XxD6V) | 1:47 | 2020-10-13 |  |
 | [Oh Yeah](https://open.spotify.com/track/13GEGNhXpm5FyHlvBvoqBF) | [A. G. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Oh Yeah](https://open.spotify.com/album/3JOhRMAGhcgmoThgjWwJfF) | 3:32 | 2020-10-13 | 2020-11-14 |
 | [OHFR?](https://open.spotify.com/track/3IBGU1NgiTjDsIJn2Jtdg4) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [OHFR?](https://open.spotify.com/album/7EEZMn5jGnbUgrfHlwUDCF) | 2:00 | 2020-11-11 |  |
-| [okay, jeez](https://open.spotify.com/track/4YrVvJhfn8KcyOWEIn1vaB) | [St Jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [okay, jeez](https://open.spotify.com/album/61Y3zVc7AgJTvf9ui7rJfN) | 1:44 | 2020-10-13 |  |
+| [okay, jeez](https://open.spotify.com/track/4YrVvJhfn8KcyOWEIn1vaB) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [okay, jeez](https://open.spotify.com/album/61Y3zVc7AgJTvf9ui7rJfN) | 1:44 | 2020-10-13 |  |
 | [Paranoid](https://open.spotify.com/track/5CsZsGlmbvSBJqilcODxVs) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [Paranoid](https://open.spotify.com/album/1a8Y2Fass8O0nFSjKu0ou6) | 2:10 | 2020-10-13 |  |
 | [paranoid!](https://open.spotify.com/track/7nG7bMpUu8fXvgAiGKnNfJ) | [lando!](https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [paranoid!](https://open.spotify.com/album/6lTukKU6omiHtn262ytsSs) | 2:12 | 2020-10-13 |  |
-| [Party Alone](https://open.spotify.com/track/3tNeJMVZhkXmKtUaQGht1v) | [Wtrgrl](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9) | [Party Alone](https://open.spotify.com/album/4XuCe4XTNOhsIg3ntjPriq) | 3:05 | 2020-11-20 |  |
+| [Party Alone](https://open.spotify.com/track/3tNeJMVZhkXmKtUaQGht1v) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9) | [Party Alone](https://open.spotify.com/album/4XuCe4XTNOhsIg3ntjPriq) | 3:05 | 2020-11-20 |  |
 | [Past Life Reaction](https://open.spotify.com/track/1pO9iLTIbhmwTN2xz17w3R) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [Black Chanel](https://open.spotify.com/artist/0r4DciO2vd3eyNv94izCFu) | [Phoneveryone](https://open.spotify.com/album/7dv1fgeNI3If9mcGmoNsJE) | 1:53 | 2020-10-13 | 2020-11-03 |
 | [Perfect](https://open.spotify.com/track/1TSufO8hiEMKE3BSeY1EFs) | [Capoxxo](https://open.spotify.com/artist/4lDzMjsz7xLw4CFmfWJmWJ), [Oaf1](https://open.spotify.com/artist/4kbZhQ4nniGaI62WSJK1OR), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [Perfect](https://open.spotify.com/album/5iZlvMMWfchz7ASveC3p8Q) | 2:17 | 2020-11-20 |  |
 | [pissed](https://open.spotify.com/track/5KXYsV0p2xWQCjXizedRpt) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [pissed](https://open.spotify.com/album/5qEmrjZKIvBUBikMMbzeML) | 1:47 | 2020-10-13 |  |

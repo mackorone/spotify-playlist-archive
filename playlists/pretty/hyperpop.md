@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> brb coalescing on ebullient electro-maximalism. ft Gupi & Fraxiom
+> brb coalescing on ebullient electro-maximalism. ft Rico Nasty
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 21 | [eyesore](https://open.spotify.com/track/1BD92aNrws4qrd4S2wYFPD) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [eyesore](https://open.spotify.com/album/6w1p4JEKsoqQl7K602HDYK) | 2:10 |
 | 22 | [Troops](https://open.spotify.com/track/0Z1gVWXMOXItcfKxwHLSWo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Wido](https://open.spotify.com/artist/6liXmQhyT1nyUlVxnef0T3), [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [Troops](https://open.spotify.com/album/44TH4lCuJFOh6crp9zh3yV) | 2:10 |
 | 23 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 |
-| 24 | [Party Alone](https://open.spotify.com/track/3tNeJMVZhkXmKtUaQGht1v) | [Wtrgrl](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9) | [Party Alone](https://open.spotify.com/album/4XuCe4XTNOhsIg3ntjPriq) | 3:05 |
+| 24 | [Party Alone](https://open.spotify.com/track/3tNeJMVZhkXmKtUaQGht1v) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9) | [Party Alone](https://open.spotify.com/album/4XuCe4XTNOhsIg3ntjPriq) | 3:05 |
 | 25 | [fate/endless line](https://open.spotify.com/track/2DM2tqpC6nEjbviJ2TdGEs) | [Miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [mitsu](https://open.spotify.com/artist/1E5aTp3aCIdNpXWNfzwF1K), [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [fate/endless line](https://open.spotify.com/album/1qGKIdPWfpQb71Q1OwzDbr) | 2:41 |
 | 26 | [Monopink Dream, 2001](https://open.spotify.com/track/16Ezc4wmA54Jy00RH4ka32) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [Monopink Dream, 2001](https://open.spotify.com/album/09nVHmEiBsCqAhSaLv3ozF) | 3:34 |
 | 27 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 |
@@ -87,7 +87,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 79 | [FUCK THE CLUB (chillpill Remix) [feat. Ravenna Golden]](https://open.spotify.com/track/0aK32FiwfIMJDXlOFmcaPj) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [FUCK THE CLUB (chillpill Remix) [feat. Ravenna Golden]](https://open.spotify.com/album/6W9tT0twLKz3pjneUivzhJ) | 1:53 |
 | 80 | [84k](https://open.spotify.com/track/0XhKBz0T4RCa3jFywI20TC) | [Hollowheart.](https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm), [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw) | [84k](https://open.spotify.com/album/2avFEc91yyU8s1jJFKR19b) | 2:47 |
 | 81 | [So & So](https://open.spotify.com/track/0RN0bTW2BOLZgkah4Vrvhj) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [So & So](https://open.spotify.com/album/7zcDc8Mya9YnZnY8ijHx4A) | 4:46 |
-| 82 | [okay, jeez](https://open.spotify.com/track/4YrVvJhfn8KcyOWEIn1vaB) | [St Jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [okay, jeez](https://open.spotify.com/album/61Y3zVc7AgJTvf9ui7rJfN) | 1:44 |
+| 82 | [okay, jeez](https://open.spotify.com/track/4YrVvJhfn8KcyOWEIn1vaB) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [okay, jeez](https://open.spotify.com/album/61Y3zVc7AgJTvf9ui7rJfN) | 1:44 |
 | 83 | [coca-cola](https://open.spotify.com/track/1Z6WO5ZPAhXsQcER3rkl1U) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [coca-cola](https://open.spotify.com/album/0Z6NJPYA4WaWk5p1pFRHBT) | 2:45 |
 | 84 | [Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx) | [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ) | [Idk Bettr..](https://open.spotify.com/album/1wyMJuPiv5tWgt4iSP0pwY) | 1:57 |
 | 85 | [Blame!](https://open.spotify.com/track/4AvjXe9wzqQXEYR9RN5qNa) | [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Blame!](https://open.spotify.com/album/1CxmAKmx96d3gjGMmS1ya7) | 2:54 |
