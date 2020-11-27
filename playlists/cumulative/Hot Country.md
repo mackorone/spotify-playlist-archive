@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Lee Brice
+> Today's top country hits of the week, worldwide! Cover: Granger Smith
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Make It Sweet](https://open.spotify.com/track/6Q6pcWl4SZmI5G21PIhKUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Make It Sweet](https://open.spotify.com/album/5G1bdkJQ9wyAqtTiWEgEbw) | 3:06 | 2019-05-26 | 2019-06-15 |
 | [Make Me Want To](https://open.spotify.com/track/2uJwGoHVPStmWV7iTKEhcn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/1FZ4ysoRQblNEW0uoFk3v0) | 2:52 | 2019-05-26 | 2020-03-14 |
 | [Man Enough Now - Radio Edit](https://open.spotify.com/track/5ZcGhTRoqRvN5RoWW1MRg3) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Man Enough Now](https://open.spotify.com/album/0NfZ6OpnTi7tOi97Jw2rPx) | 3:04 | 2020-01-13 | 2020-03-28 |
+| [Man Made](https://open.spotify.com/track/1WHUSiJSNgGxi9YGS1J4xe) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things, Vol. 2](https://open.spotify.com/album/18pN6ovdqBSdM3R8SVnlTe) | 3:13 | 2020-11-27 |  |
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2020-11-10 |  |
 | [Me About Me](https://open.spotify.com/track/7F0fPQWt7E2jjreRSZOdna) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Me About Me](https://open.spotify.com/album/7c4rtMfqOp3DV8wvEhPRRT) | 2:46 | 2020-07-25 | 2020-11-22 |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2020-11-07 |  |

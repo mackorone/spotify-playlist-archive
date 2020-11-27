@@ -2,7 +2,7 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs. Cover: Foster
+> Discover your favorite new chill pop songs. Cover: John K
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-13 | 2020-11-14 |
 | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-21 |  |
 | [fools (can't help falling in love)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools (can't help falling in love)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-14 | 2020-11-21 |
+| [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2020-11-27 |  |
 | [Fumari](https://open.spotify.com/track/2OQMSCUE6ClEZFJFFNqNrQ) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Fumari](https://open.spotify.com/album/5KNTwXg2Hn0FJZ1gLmMyB4) | 2:00 | 2020-11-20 |  |
 | [Get It Right](https://open.spotify.com/track/0CKD2OndUS3ri1ne9xvP0G) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Get It Right](https://open.spotify.com/album/0uFiJJswhogugRxz29c8ZG) | 3:02 | 2020-11-20 |  |
 | [Getaway Train](https://open.spotify.com/track/6Kb9010LOQ39x66OJmJoQJ) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Getaway Train](https://open.spotify.com/album/0buXtoERHukj2wSKpR74aP) | 3:48 | 2020-11-20 |  |
@@ -112,6 +113,7 @@
 | [Ready For You](https://open.spotify.com/track/0SyyLzNHa2bp8OQXYqFgpw) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You](https://open.spotify.com/album/2x7J2pFGoNS0LA5qYc8y7Y) | 4:28 | 2020-10-13 | 2020-10-23 |
 | [Red Gatorade](https://open.spotify.com/track/0R60496gawZvoT1QxdLrts) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Red Gatorade](https://open.spotify.com/album/4dUS1rkkTX4oTOsgNM7sjO) | 3:07 | 2020-10-13 | 2020-11-05 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2020-11-06 |  |
+| [remember the mornings](https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [remember the mornings](https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7) | 3:22 | 2020-11-27 |  |
 | [say it over (feat. Cautious Clay)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over (feat. Cautious Clay)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-13 |  |
 | [Seeing Other People](https://open.spotify.com/track/2OX5cec5sbZDSQOa7klacx) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Seeing Other People](https://open.spotify.com/album/5bYfpdwQ6b9fbqa4wLs3Gx) | 3:06 | 2020-10-13 |  |
 | [Seventeen](https://open.spotify.com/track/1DExDLmVbJrsmZ7Uy5OOXN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:54 | 2020-10-30 |  |
