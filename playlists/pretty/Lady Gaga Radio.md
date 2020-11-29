@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Troye Sivan, JAY-Z, MNEK and more
+> With Dua Lipa, DaBaby, JAY-Z and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
