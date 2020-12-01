@@ -2,7 +2,7 @@
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> featuring Jean Dawson
+> featuring Mia Gladstone
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

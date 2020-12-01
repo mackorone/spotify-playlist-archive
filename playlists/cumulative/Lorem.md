@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> benee on the cover ♡ sometimes want to dance sometimes cry. what is your fave song this week?
+> benee on the cover ♡
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [clone](https://open.spotify.com/track/0kks3I4UdlWXWuuLghwuTd) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [clone](https://open.spotify.com/album/1a1D1dzfVa4y57TldQBoJb) | 3:34 | 2020-11-20 |  |
 | [Closer To You](https://open.spotify.com/track/6ZuQAppmSEQ9IrDhDU8RM6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Closer To You](https://open.spotify.com/album/5kMTiIhVQDKlvb9AMT4ZLC) | 3:04 | 2019-07-30 | 2019-08-02 |
 | [Clovers](https://open.spotify.com/track/3KCFmeudK7tTzshjxDl6m4) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Clovers](https://open.spotify.com/album/6n3JvVTmEAUS6uM33ZwLfq) | 4:14 | 2019-07-30 | 2019-11-14 |
+| [Clueless](https://open.spotify.com/track/5hVcvSRJffS8GcSBHTIaRG) | [Ellie Williams](https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs) | [Clueless](https://open.spotify.com/album/094ZA0zqhW07G1AMGuV79q) | 2:40 | 2020-12-01 |  |
 | [Coke & Henny Pt. 1](https://open.spotify.com/track/0Njj8da23AV97wrQTrP577) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coke & Henny Pt. 1](https://open.spotify.com/album/7pU90hr9PdteGEQqp0XSU9) | 2:29 | 2019-10-10 | 2020-01-10 |
 | [Coke & Henny Pt. 2](https://open.spotify.com/track/1gBn3RRt2jPquDW6AhHJrs) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/04AgepNbaInpCwPDV2MjDc) | 2:37 | 2019-07-30 | 2019-10-10 |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2020-08-20 | 2020-09-12 |
