@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Gunna, Pop Smoke and Cordae.
+> Music from Gunna, Pop Smoke and Lil Wayne with Drake.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Audacity (feat. Headie One)](https://open.spotify.com/track/3WcGdhN6wvGplwVyixNgfI) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Audacity (feat. Headie One)](https://open.spotify.com/album/6C28KhpoiFAUsJr4ZwBsry) | 4:05 | 2019-12-13 | 2019-12-20 |
 | [B*tch From Da Souf (Remix)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Mulatto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [B*tch From Da Souf (Remix)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 | 2020-07-10 | 2020-07-31 |
 | [B*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Mulatto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 | 2019-10-11 | 2019-11-01 |
+| [B.B. King Freestyle (with Drake)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2020-12-01 |  |
 | [B.I.T.C.H.](https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.I.T.C.H.](https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4) | 3:03 | 2020-01-24 | 2020-03-06 |
 | [B.O.M.B.S.](https://open.spotify.com/track/6W5rgkVivgzHJaKeqbpwuB) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [B.O.M.B.S.](https://open.spotify.com/album/40XAEEFSy4O0i5C9OYAqq4) | 3:04 | 2019-11-15 | 2019-11-22 |
 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 | 2019-08-29 | 2019-10-26 |
@@ -352,7 +353,7 @@
 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 | 2020-06-12 | 2020-07-03 |
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2019-10-11 | 2020-02-07 |
 | [MAMACITA](https://open.spotify.com/track/51wFQM8W0YfXTmHusXUr5i) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [MAMACITA](https://open.spotify.com/album/2JNmVgpBCt1nnobJ3Mvzim) | 3:22 | 2019-10-25 | 2019-11-15 |
-| [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2020-08-21 |  |
+| [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2020-08-21 | 2020-12-01 |
 | [Matrix](https://open.spotify.com/track/51PlSJ94V9b3OtpFnuXqT3) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/3NfNZB1fjbfFm3vMdCrc0b) | 2:05 | 2019-12-20 | 2019-12-27 |
 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 | 2019-06-21 | 2019-08-09 |
 | [Melee](https://open.spotify.com/track/5hXqurVR1oeDhMjDDtxPNa) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Melee](https://open.spotify.com/album/6y75mS3sTU9tXCGL8go5ot) | 2:49 | 2019-07-12 | 2019-07-20 |
