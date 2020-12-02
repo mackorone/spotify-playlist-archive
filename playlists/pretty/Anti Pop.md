@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> featuring Mia Gladstone
+> featuring MIA GLADSTONE
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

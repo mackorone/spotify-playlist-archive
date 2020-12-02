@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Kali Uchis
+> Genre-less. Quality first always. Cover: Jim-E Stack
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
