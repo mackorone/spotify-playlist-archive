@@ -2,7 +2,7 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal, for the dragonslayer in you! Cover: Tungsten
+> Epic and melodic metal, for the dragonslayer in you! Cover: Orden Ogan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ategnatos](https://open.spotify.com/track/2R9VjDWhLhQ6LsQBcmRBYK) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ategnatos](https://open.spotify.com/album/7jiD7UwdyptoUGHOOl6yBq) | 4:53 | 2020-11-29 |  |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2020-11-29 |  |
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-11-29 |  |
+| [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 | 2020-12-04 |  |
 | [D.N.A. (Demon And Angel)](https://open.spotify.com/track/3j6BlhnrZff5Rw9p7Mb1cE) | [Turilli / Lione Rhapsody](https://open.spotify.com/artist/4jp6jGwANHkhNr6gbJNhiy) | [D.N.A. (Demon And Angel)](https://open.spotify.com/album/0XhKD1lECiK4XWl2P6tgSC) | 4:19 | 2020-11-29 |  |
 | [Desert Dreams](https://open.spotify.com/track/75Pf9KKZzzTl7YmA16I3FX) | [Falconer](https://open.spotify.com/artist/1UKdnbreQFDmPg3Mhcjhkr) | [Desert Dreams](https://open.spotify.com/album/0HMSRUZN6Vxz1RU1fQxip2) | 3:58 | 2020-11-29 |  |
 | [Dig, Bury, Drink!](https://open.spotify.com/track/6U4eqGKqIpTLa1T4gYz2Un) | [Lagerstein](https://open.spotify.com/artist/7rdELsS0UW8P27qyWJsiSG) | [Dig, Bury, Drink!](https://open.spotify.com/album/3gOYuHkIwSQgZsKWvZ4fWE) | 4:05 | 2020-11-29 |  |
@@ -27,6 +28,7 @@
 | [Ghost of Marley](https://open.spotify.com/track/7pczoeIkihynLe4VgWEQUx) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Ghost of Marley](https://open.spotify.com/album/6wENRoHkOij2hS1s8DKUOL) | 4:39 | 2020-11-29 |  |
 | [Gloryhammer](https://open.spotify.com/track/4HA34COgxgVJ6zK88UN4Ik) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Gloryhammer](https://open.spotify.com/album/2HJFrpR304ZxZ4CPQK1ws2) | 5:00 | 2020-11-29 |  |
 | [Gunman](https://open.spotify.com/track/3Mz5lXbMBK2tUmKAwAJwi1) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Gunmen](https://open.spotify.com/album/4yyNmVBMtdAcCTo51u4hvz) | 5:17 | 2020-11-29 |  |
+| [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 |  |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-11-29 |  |
 | [Hootsforce](https://open.spotify.com/track/5gJ1DNzFHwNFlEw1UltyFk) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 3:50 | 2020-11-29 |  |
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29 |  |
@@ -79,7 +81,7 @@
 | [The Land of Xia](https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg) | [Memories Of Old](https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS) | [The Land of Xia](https://open.spotify.com/album/3OeFbWpvoCLnVBaYT0lT90) | 6:00 | 2020-11-29 |  |
 | [The Return](https://open.spotify.com/track/6PFnze11f9ykaDJCL6zSFx) | [Mongol](https://open.spotify.com/artist/3LBx7vONslSdXt0mL2TNzv) | [The Return](https://open.spotify.com/album/775yCS5Clyy00sCXPQOYHK) | 4:25 | 2020-11-29 |  |
 | [Treasure Chest Party Quest](https://open.spotify.com/track/0pymdruOKdQytDKNDyUjz8) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Treasure Chest Party Quest](https://open.spotify.com/album/2gRjQTJRBr8DAuMzoBQhyR) | 4:16 | 2020-11-29 |  |
-| [Tundra](https://open.spotify.com/track/6d6QnJU4MZ6RIwNMPnNx91) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Tundra](https://open.spotify.com/album/0tw2DkmxpU7eM2CvRMQ8qt) | 4:14 | 2020-11-29 |  |
+| [Tundra](https://open.spotify.com/track/6d6QnJU4MZ6RIwNMPnNx91) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Tundra](https://open.spotify.com/album/0tw2DkmxpU7eM2CvRMQ8qt) | 4:14 | 2020-11-29 | 2020-12-04 |
 | [Under the Sign of a Black Star](https://open.spotify.com/track/321Glo8bhlWANqTOxRelna) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Under the Sign of a Black Star](https://open.spotify.com/album/2iV2mZ1iEpYVUiHsi6zYht) | 4:13 | 2020-11-29 |  |
 | [Urashima](https://open.spotify.com/track/4b3vUunn8VnsabUJqBMhJx) | [Drakum](https://open.spotify.com/artist/2egqZI7Cz9JqioUoUBxM9H) | [Urashima](https://open.spotify.com/album/0cTeiY5plUveJMonn5O1VR) | 4:29 | 2020-11-29 |  |
 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 | 2020-11-29 |  |
