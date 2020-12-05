@@ -6,7 +6,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Danny Shyman](https://open.spotify.com/artist/4gzGYl0Kl91VTwCism6Qc0) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 |
+| 1 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 |
 | 2 | [text me when u get home](https://open.spotify.com/track/6zRqVnBUDNSur3jQQQJVOl) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [text me when u get home](https://open.spotify.com/album/5TMBc5WQpkfghwBZrYrgIL) | 2:48 |
 | 3 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
 | 4 | [We'll Be Beautiful (feat. POLYDRIVE)](https://open.spotify.com/track/3emIWmk0QrxvLpUOBRHrmP) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [POLYDRIVE](https://open.spotify.com/artist/5ZAVkQWCY01N5wj1Zfyo8k) | [DAYDREAMER](https://open.spotify.com/album/1andW8WpWrwFZyNrRFGQbx) | 2:48 |
