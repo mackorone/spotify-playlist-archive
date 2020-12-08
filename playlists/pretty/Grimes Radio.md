@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With HANA, i_o, FKA twigs and more
+> With HANA, Washed Out, Perfume Genius and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
