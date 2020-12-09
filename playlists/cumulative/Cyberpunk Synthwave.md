@@ -2,7 +2,7 @@
 
 ### [Cyberpunk Synthwave](https://open.spotify.com/playlist/5hnjEy2ZXUZcEcy8jT0Wiw)
 
-> Essential Cyberpunk-flavored darker Synthwave songs with Artists like Droid Bishop, Perturbator, The Algorithm and many more... Drawing inspiration from the moods and atmospheres of Cyberpunk 2077, Blade Runner, Ghost in the Shell and many more. Pic by Beeple
+> Epic playlist full of amazing cyperpunk-themed Synthwave &#x2F; Retrowave. Updated regularly.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Synthax Terror](https://open.spotify.com/track/2cLVSYBcSVVVVoKdSaqKn0) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 4:21 | 2020-12-07 |  |
 | [Synthoid '81](https://open.spotify.com/track/16ccNPRKhxvJhFhaodnvR5) | [Fonz Tramontano](https://open.spotify.com/artist/7pFMgAdEZBmdhRZ4lVpbCJ) | [The Singles '81, '82](https://open.spotify.com/album/3OjNA6W8oEEFhM30AlxKs0) | 2:48 | 2020-12-07 |  |
 | [Targeted for Termination](https://open.spotify.com/track/2tAZFHkJeuV2V7lsyv8Jm2) | [Microchip Terror](https://open.spotify.com/artist/5lFrMLWakwjYbvXhULB45l) | [Microchip Terror](https://open.spotify.com/album/2G4ZtMyg4bNafxEA9MngAQ) | 4:47 | 2020-12-07 |  |
-| [Tawa](https://open.spotify.com/track/0qMYgnsRl3lfxXNH6NLxzL) | [Elay Arson](https://open.spotify.com/artist/0Cmf2B7byid4ECMNXDo9rv) | [Spirit | Death](https://open.spotify.com/album/7beTpBNSEwf32Smcbvfa9u) | 3:59 | 2020-12-08 |  |
+| [Tawa](https://open.spotify.com/track/0qMYgnsRl3lfxXNH6NLxzL) | [Elay Arson](https://open.spotify.com/artist/0Cmf2B7byid4ECMNXDo9rv) | [Spirit | Death](https://open.spotify.com/album/7beTpBNSEwf32Smcbvfa9u) | 3:59 | 2020-12-09 |  |
 | [Tears in the Rain](https://open.spotify.com/track/6bHjk4FudnJpUEz1PGs1YS) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 (Original Motion Picture Soundtrack)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 2:10 | 2020-12-07 |  |
 | [Technoir (feat. Noir Deco)](https://open.spotify.com/track/0Qrso3yXM7oHIMHwmNMepN) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Noir Deco](https://open.spotify.com/artist/3MOuN224Cyo0x6yYemdaJv) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 4:39 | 2020-12-07 |  |
 | [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2020-12-07 |  |
@@ -280,6 +280,7 @@
 | [Underworld](https://open.spotify.com/track/2OtxJz4GSzJZW2iZbnEI04) | [Cyber77](https://open.spotify.com/artist/1UVM7o3YfnkrgntCZl33rJ) | [Underworld](https://open.spotify.com/album/2twzuR9OENYz345JtkBpx6) | 3:55 | 2020-12-07 |  |
 | [Unleashed](https://open.spotify.com/track/7I6sFT6Wpya2jlGeQNc4yG) | [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [Akuma II](https://open.spotify.com/album/6tTvGto8mk0xYfOmMR4224) | 4:28 | 2020-12-07 |  |
 | [Untold Memory](https://open.spotify.com/track/2AI3ILfZtq3e7nT6zY4XJq) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Untold Memory](https://open.spotify.com/album/2LKChXLtXH1Qqtv2nL61bC) | 3:29 | 2020-12-07 |  |
+| [Upwards and Forwards - Instrumental](https://open.spotify.com/track/17T0rlL6t97LMbyntW452b) | [Kizunaut](https://open.spotify.com/artist/4BeGSD1t51ZoJDrd8zKGP0) | [The City by the Sea Instrumentals](https://open.spotify.com/album/4dGojGaBc4kcOKwzmBhW4d) | 3:51 | 2020-12-09 |  |
 | [Vaporware](https://open.spotify.com/track/7qjyghqI0R2xbR29Re6bh8) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Silicon Valley](https://open.spotify.com/album/7auYUUMi07OjMzaxSooLb7) | 2:12 | 2020-12-07 |  |
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2020-12-07 |  |
 | [Vice Point](https://open.spotify.com/track/3JNjbqmgCP2AXnTUG9jKid) | [VHS Dreams](https://open.spotify.com/artist/4sHCqGPH8ssoMeOeKrRZ38) | [Trans AM](https://open.spotify.com/album/5tfWfqfwG08F4LbLb2qKFq) | 3:42 | 2020-12-07 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Cyberpunk Synthwave](https://open.spotify.com/playlist/5hnjEy2ZXUZcEcy8jT0Wiw)
 
-> Essential Cyberpunk-flavored darker Synthwave songs with Artists like Droid Bishop, Perturbator, The Algorithm and many more... Drawing inspiration from the moods and atmospheres of Cyberpunk 2077, Blade Runner, Ghost in the Shell and many more. Pic by Beeple
+> Epic playlist full of amazing cyperpunk-themed Synthwave &#x2F; Retrowave. Updated regularly.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,15 +287,16 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 | 279 | [Underworld](https://open.spotify.com/track/2OtxJz4GSzJZW2iZbnEI04) | [Cyber77](https://open.spotify.com/artist/1UVM7o3YfnkrgntCZl33rJ) | [Underworld](https://open.spotify.com/album/2twzuR9OENYz345JtkBpx6) | 3:55 |
 | 280 | [The Frame](https://open.spotify.com/track/1qvyEVBxeBuLzvceY18gI7) | [The Identity Matrix](https://open.spotify.com/artist/7rBvqfWBAq8k4InOfOdj0h) | [Journey's End: Odds](https://open.spotify.com/album/7zy2MoQX3F5PJ1ASsF8OgI) | 4:28 |
 | 281 | [Metropolis](https://open.spotify.com/track/4x6Z0YATvITPU9bYp7VvcW) | [Street Cleaner](https://open.spotify.com/artist/5JZgp0VC1pINQXHLU3tuEW) | [Annihilation](https://open.spotify.com/album/4EbuUQk13x4Or1qYAAM1cz) | 4:56 |
-| 282 | [OV](https://open.spotify.com/track/21DEFQNX2Q0zZCKdEvkZJt) | [Favorit89](https://open.spotify.com/artist/3GmVg5H4r1AXJgV23NVGkn) | [Unity](https://open.spotify.com/album/3Iyps6KTY30eDSxWyuizsK) | 4:05 |
-| 283 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
-| 284 | [Entangled](https://open.spotify.com/track/0yUOaSpQWgnqfwjAF4UYGg) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Serenity Pt. 1](https://open.spotify.com/album/7hKidknbZigmRNapKdMgva) | 6:41 |
-| 285 | [Cognitive Glitch](https://open.spotify.com/track/1zyiHplR8tPL22oFWGiJ3R) | [Leslie Nayoko](https://open.spotify.com/artist/54N1f2IMFL0Rhd6dKDY5b3) | [Unfolding Reverie](https://open.spotify.com/album/5K2v94w3o3WraHHwUTeFAL) | 3:54 |
-| 286 | [Novi Sad 2024](https://open.spotify.com/track/3HtTELirumMG7zxRKuwHza) | [Isidor](https://open.spotify.com/artist/3L4QXzIJxQBJvyaPo5CL3m) | [Dark Night Genesis](https://open.spotify.com/album/3sUNGaDHCH11W4ffl18y3d) | 4:00 |
-| 287 | [Gridlock](https://open.spotify.com/track/1lXOjA9NEKmvvjBsvcZuFT) | [Inexedra](https://open.spotify.com/artist/5l1HGzksEbvdaazB2hFDzu) | [Retrohack](https://open.spotify.com/album/200874HR7YfvZo6vx3nOXt) | 5:16 |
-| 288 | [Refract](https://open.spotify.com/track/1AAZwfTNUYT7nkFKOju5me) | [H3x Dysphoria](https://open.spotify.com/artist/2lmdGrNCMl4pYEEHZw0Jfj) | [Refract](https://open.spotify.com/album/5y2NIzre565KGvwq1gcaTp) | 5:01 |
-| 289 | [Moonlight Flight](https://open.spotify.com/track/3pkdAf5PaLEQs1dChgXF4n) | [Powerkørd](https://open.spotify.com/artist/7zPUx5Y2twGiVWTXcANXO9) | [S.Y.N.C.R.O.N](https://open.spotify.com/album/0gs0MI0SA3uZqn1G7q5BkE) | 3:28 |
-| 290 | [End of Line](https://open.spotify.com/track/4NknQvNULU4768BmrnSJZi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/0eTqkMKsd4x9c8t9cQiEOv) | 2:36 |
-| 291 | [Subliminal Dark Waves](https://open.spotify.com/track/0pTqp35suehdLKhASZK5jH) | [Steve Greene](https://open.spotify.com/artist/33rDrGT62N1dWV36hHm3PP) | [Subliminal Dark Waves](https://open.spotify.com/album/203gvT79Ab6EDky6VUlFMB) | 3:36 |
-| 292 | [When the World Stands Still](https://open.spotify.com/track/4mhhLfJYyH0Rcv0aW0v438) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [When the World Stands Still](https://open.spotify.com/album/13xcIrfTLNjP29opR0CMm1) | 5:50 |
-| 293 | [Still Healing](https://open.spotify.com/track/1TBYoKmgLjB9UkjNPQLMza) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Bad Habits](https://open.spotify.com/album/2XFk0Gu21wPNLbJR6q3xe2) | 5:46 |
+| 282 | [Upwards and Forwards - Instrumental](https://open.spotify.com/track/17T0rlL6t97LMbyntW452b) | [Kizunaut](https://open.spotify.com/artist/4BeGSD1t51ZoJDrd8zKGP0) | [The City by the Sea Instrumentals](https://open.spotify.com/album/4dGojGaBc4kcOKwzmBhW4d) | 3:51 |
+| 283 | [OV](https://open.spotify.com/track/21DEFQNX2Q0zZCKdEvkZJt) | [Favorit89](https://open.spotify.com/artist/3GmVg5H4r1AXJgV23NVGkn) | [Unity](https://open.spotify.com/album/3Iyps6KTY30eDSxWyuizsK) | 4:05 |
+| 284 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
+| 285 | [Entangled](https://open.spotify.com/track/0yUOaSpQWgnqfwjAF4UYGg) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Serenity Pt. 1](https://open.spotify.com/album/7hKidknbZigmRNapKdMgva) | 6:41 |
+| 286 | [Cognitive Glitch](https://open.spotify.com/track/1zyiHplR8tPL22oFWGiJ3R) | [Leslie Nayoko](https://open.spotify.com/artist/54N1f2IMFL0Rhd6dKDY5b3) | [Unfolding Reverie](https://open.spotify.com/album/5K2v94w3o3WraHHwUTeFAL) | 3:54 |
+| 287 | [Novi Sad 2024](https://open.spotify.com/track/3HtTELirumMG7zxRKuwHza) | [Isidor](https://open.spotify.com/artist/3L4QXzIJxQBJvyaPo5CL3m) | [Dark Night Genesis](https://open.spotify.com/album/3sUNGaDHCH11W4ffl18y3d) | 4:00 |
+| 288 | [Gridlock](https://open.spotify.com/track/1lXOjA9NEKmvvjBsvcZuFT) | [Inexedra](https://open.spotify.com/artist/5l1HGzksEbvdaazB2hFDzu) | [Retrohack](https://open.spotify.com/album/200874HR7YfvZo6vx3nOXt) | 5:16 |
+| 289 | [Refract](https://open.spotify.com/track/1AAZwfTNUYT7nkFKOju5me) | [H3x Dysphoria](https://open.spotify.com/artist/2lmdGrNCMl4pYEEHZw0Jfj) | [Refract](https://open.spotify.com/album/5y2NIzre565KGvwq1gcaTp) | 5:01 |
+| 290 | [Moonlight Flight](https://open.spotify.com/track/3pkdAf5PaLEQs1dChgXF4n) | [Powerkørd](https://open.spotify.com/artist/7zPUx5Y2twGiVWTXcANXO9) | [S.Y.N.C.R.O.N](https://open.spotify.com/album/0gs0MI0SA3uZqn1G7q5BkE) | 3:28 |
+| 291 | [End of Line](https://open.spotify.com/track/4NknQvNULU4768BmrnSJZi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/0eTqkMKsd4x9c8t9cQiEOv) | 2:36 |
+| 292 | [Subliminal Dark Waves](https://open.spotify.com/track/0pTqp35suehdLKhASZK5jH) | [Steve Greene](https://open.spotify.com/artist/33rDrGT62N1dWV36hHm3PP) | [Subliminal Dark Waves](https://open.spotify.com/album/203gvT79Ab6EDky6VUlFMB) | 3:36 |
+| 293 | [When the World Stands Still](https://open.spotify.com/track/4mhhLfJYyH0Rcv0aW0v438) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [When the World Stands Still](https://open.spotify.com/album/13xcIrfTLNjP29opR0CMm1) | 5:50 |
+| 294 | [Still Healing](https://open.spotify.com/track/1TBYoKmgLjB9UkjNPQLMza) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Bad Habits](https://open.spotify.com/album/2XFk0Gu21wPNLbJR6q3xe2) | 5:46 |
