@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> a collection of songs you might adore. ROLE MODEL is on the cover ♡
+> a collection of songs you might adore ♡ and the lovely Chip ◡̈ Chrome is on the cover
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |
 | [Babydoll](https://open.spotify.com/track/1SocftHhtuqF7k83eUhHiz) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 1:37 | 2019-07-30 | 2020-07-31 |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2019-07-30 | 2019-09-06 |
+| [Back on the Fence](https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Back on the Fence](https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF) | 3:51 | 2020-12-11 |  |
 | [Back to the Start](https://open.spotify.com/track/1ErY5BBTlfFVnewSQ4rwKY) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/1CyBZOTLfg7xpqI72HbGS9) | 3:23 | 2020-11-13 |  |
 | [Back To Your House](https://open.spotify.com/track/2eK0u7az7XDR6UQ8lSmc9h) | [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [Back To Your House](https://open.spotify.com/album/4DOPTgAQYsdF1iGUvH7r8y) | 2:28 | 2020-11-20 |  |
 | [Backseat](https://open.spotify.com/track/1bm6MSwBgSeXp2UPJ0nqCl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:03 | 2019-12-14 | 2020-05-07 |
@@ -338,6 +339,7 @@
 | [HOT](https://open.spotify.com/track/06dciRLp3GUMCFYdTI603a) | [Dodgr](https://open.spotify.com/artist/752cAxYIwTUATnhPvbFNDx) | [HOT](https://open.spotify.com/album/7cduqdMKgmbomPnQI3sQLu) | 3:10 | 2019-07-30 | 2019-09-27 |
 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 | 2020-01-10 | 2020-05-29 |
 | [How Does It Feel](https://open.spotify.com/track/7F2aEO8pNlweq3JWJyeyig) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [How Does It Feel](https://open.spotify.com/album/3Gcf5R2r95JU5ZLc369Dgs) | 3:12 | 2020-01-31 | 2020-05-14 |
+| [How It Goes](https://open.spotify.com/track/1kpneLV28jmwHxVWzU9OGh) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [How It Goes](https://open.spotify.com/album/2ypghiNttUAL29qVRhl7x9) | 2:59 | 2020-12-11 |  |
 | [Hurry Home (with beabadoobee & Jay Som)](https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Hurry Home (with beabadoobee & Jay Som)](https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ) | 3:56 | 2020-05-29 | 2020-07-24 |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-24 |  |
 | [I Always Wanna Die (Sometimes)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30 | 2020-05-22 |
@@ -623,6 +625,7 @@
 | [Silly Girl](https://open.spotify.com/track/3RGVYzHQWQOlHYphHMAaaj) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/5N83DElmMbgJiPV6u7qEyn) | 3:18 | 2020-02-21 | 2020-07-31 |
 | [sippy cup](https://open.spotify.com/track/3nCyuYVn30IL3oQaXfvXzx) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [sippy cup](https://open.spotify.com/album/4Vc4GGfy2BBbPboYn3Zx4y) | 1:34 | 2020-10-13 | 2020-11-27 |
 | [Skater Shawty](https://open.spotify.com/track/6hvl9q1FSjyV4aaaxEYgz8) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Skater Shawty](https://open.spotify.com/album/7JPmKTeWoC6PFYDVGcfFDM) | 2:21 | 2019-12-21 | 2020-01-10 |
+| [Skydive](https://open.spotify.com/track/3c1JepXyMGvI7ljGEeg66J) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Skydive](https://open.spotify.com/album/3IqhH6LXY3LoRkECt6XHCR) | 3:49 | 2020-12-11 |  |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2019-10-25 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-25 | 2020-02-20 |
 | [Smokescreen](https://open.spotify.com/track/5OiEjwZys4qcCYaBJNFn7I) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2020-04-10 | 2020-05-22 |
@@ -647,6 +650,7 @@
 | [Space Girl](https://open.spotify.com/track/5tfZ1uYrArdbDqiZ7z1aCE) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Space Girl](https://open.spotify.com/album/6hiGYyZjkFhQ3M7khG2zs7) | 3:51 | 2020-11-27 |  |
 | [Special](https://open.spotify.com/track/0wM1iycAaTB0BTWQa06POl) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Special](https://open.spotify.com/album/7r7bjZFZfU4owXBYBBlZJD) | 3:41 | 2019-10-11 | 2019-11-14 |
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |
+| [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono-Tones (Deluxe)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2020-12-11 |  |
 | [Staring At The Sun (feat. SZA)](https://open.spotify.com/track/2leIuE4fdcJoNMSKu5Yr7a) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 2:48 | 2019-09-06 | 2019-10-11 |
 | [Starsick](https://open.spotify.com/track/0YD3wNY2ZGrVWhCiV57TEd) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick](https://open.spotify.com/album/10GLPD6z3RF8rEhyFgaHoO) | 3:59 | 2019-07-30 | 2019-08-08 |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2019-11-22 | 2020-01-17 |

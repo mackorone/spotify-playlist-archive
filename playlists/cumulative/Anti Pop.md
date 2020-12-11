@@ -2,7 +2,7 @@
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> featuring MIA GLADSTONE
+> Featuring music from the new album <i>Man on the Moon III: The Chosen</i> by Kid Cudi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Freak (feat. REI AMI)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-10-13 | 2020-11-03 |
 | [Freckles](https://open.spotify.com/track/4eePXbF5P9C65DdlAzBwnD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/4E0Gtoyrc4RQxkXbc0tae9) | 2:38 | 2020-10-13 |  |
 | [Fresh Air](https://open.spotify.com/track/1NFNa1nGPnwdmcHO5XQ7Ui) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/4OP99LS15fHzssETt4q6ce) | 3:30 | 2020-10-13 | 2020-11-03 |
+| [fuego (feat. Tyler, The Creator)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 | 2020-12-11 |  |
 | [Future Kids of America](https://open.spotify.com/track/5afKpM4kEDPpxhhIwB2PPA) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:24 | 2020-10-13 |  |
 | [fwb](https://open.spotify.com/track/5PtGchZh3CKBpY9CSUfY3C) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [fwb](https://open.spotify.com/album/6qO0sRtkxQLm3CbfjHZwdq) | 2:17 | 2020-10-13 |  |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2020-10-13 | 2020-11-03 |
@@ -84,6 +85,7 @@
 | [Get Up (feat. Vince Staples)](https://open.spotify.com/track/6PbU0URiPBpH4UD9CfCgF7) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Get Up (feat. Vince Staples)](https://open.spotify.com/album/2XOgYO8CiY86X9XK3wbqbs) | 2:47 | 2020-10-13 |  |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13 |  |
 | [Ground Control (feat. Jon Z)](https://open.spotify.com/track/1xhuI73GJoP2zbAIQwMm7i) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Ground Control (feat. Jon Z)](https://open.spotify.com/album/0b2VEQw3A0JNKENN5La8mc) | 2:36 | 2020-10-13 |  |
+| [GUIDO/MISS KARMA](https://open.spotify.com/track/3PdZ7ePXNA57Z03QbioxeR) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GUIDO/MISS KARMA](https://open.spotify.com/album/1Ihcf6gyegcMVab61gvVqZ) | 2:52 | 2020-12-11 |  |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2020-10-13 | 2020-11-03 |
 | [Halloween](https://open.spotify.com/track/6EPOKdXGMGI0Clx2P7afnC) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Halloween](https://open.spotify.com/album/5bP6MnAwsyaMh0bz1jNR3O) | 2:19 | 2020-10-13 | 2020-10-16 |
 | [Head In The Clouds](https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Head In The Clouds](https://open.spotify.com/album/6V6rqC1c4zTWXa6MDYW56U) | 2:27 | 2020-10-13 |  |
@@ -124,6 +126,7 @@
 | [Loose](https://open.spotify.com/track/32cNORNdK5ZxBtHVIO0aiT) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E) | [Loose](https://open.spotify.com/album/6aBY5QeLfjHgyvwLllbUCY) | 2:54 | 2020-11-13 |  |
 | [LOST & FOUND](https://open.spotify.com/track/5TwgWjWPDj5Qs041ZssUAF) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi), [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [3M](https://open.spotify.com/album/2Sk789NwlmNv7gquEECutj) | 2:46 | 2020-11-13 |  |
 | [lost cause// (feat. Jesse)](https://open.spotify.com/track/3E4rKEdLtjQF9mfOhuAgSu) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [lost cause// (feat. Jesse)](https://open.spotify.com/album/7kULgy0AwGydWgp9I4t9z1) | 3:23 | 2020-10-16 |  |
+| [Lovin’ Me (feat. Phoebe Bridgers)](https://open.spotify.com/track/3JdwGk8j7lHN5qdzJZklam) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:45 | 2020-12-11 |  |
 | [Low](https://open.spotify.com/track/4bEghJHwz3GaFtY9OY4Bnr) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Low](https://open.spotify.com/album/1Qcys5TrMsduwYSkV1D0xw) | 2:22 | 2020-12-05 |  |
 | [MAC & CHEESE](https://open.spotify.com/track/1Jo3yW1tWC4JSjGS2s2DPy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAC & CHEESE](https://open.spotify.com/album/72q53fTM3p9OhbJ1frSxWF) | 2:15 | 2020-10-13 |  |
 | [Mad World](https://open.spotify.com/track/6RH4zDb9P3qETE3dBMaFO3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Mad World](https://open.spotify.com/album/5Nl0vxJ3Ptt9cfecRMUHDu) | 2:22 | 2020-10-13 | 2020-11-03 |
@@ -221,6 +224,7 @@
 | [WhoWho](https://open.spotify.com/track/68sThwPwwfp0Fb6zZ1ssWz) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [WhoWho](https://open.spotify.com/album/5DEOw8SSYtZGG3dbYEbLlJ) | 2:11 | 2020-10-13 |  |
 | [Widdit](https://open.spotify.com/track/2xksvHleMQfe4V7XN5fJH9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Widdit](https://open.spotify.com/album/0ltqih4GxwPhCLZVIjag0o) | 2:31 | 2020-10-13 | 2020-11-03 |
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2020-10-13 |  |
+| [WORTH IT](https://open.spotify.com/track/0kP5ujl0Mbe2JDNmrVwglE) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [SOL, VOL. 3](https://open.spotify.com/album/1PPaJ4BYUrKU5XluPzDASe) | 3:46 | 2020-12-11 |  |
 | [Wounded/Surrounded](https://open.spotify.com/track/5SJ6mSr6m0Qcxtqw3U8inr) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Wounded/Surrounded](https://open.spotify.com/album/542erJVZuoJ5z0G8Oj4zch) | 3:23 | 2020-10-13 |  |
 | [Wurli](https://open.spotify.com/track/1BgN9D0eR6ziZ4P9Sme9S6) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/3qMCj0wb90BFH8nthDNMVY) | 2:30 | 2020-10-13 |  |
 | [Your Love (Déjà Vu)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love (Déjà Vu)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13 | 2020-11-03 |

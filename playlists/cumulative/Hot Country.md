@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini
+> Today's top country hits of the week, worldwide! Cover: Eric Church
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
