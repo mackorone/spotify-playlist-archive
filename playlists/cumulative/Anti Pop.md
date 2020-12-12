@@ -2,7 +2,7 @@
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Featuring music from the new album <i>Man on the Moon III: The Chosen</i> by Kid Cudi
+> Featuring music from the new album Man on the Moon III: The Chosen by Kid Cudi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [RACECAR](https://open.spotify.com/track/7JdarpX08FLhmfNZpxqgUO) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:37 | 2020-10-13 | 2020-11-03 |
 | [Rainbow Bap](https://open.spotify.com/track/5xAOiPReWwiepAJWmLQDYZ) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Rainbow Bap](https://open.spotify.com/album/4uYYweXMMvr8K5OAkpquRG) | 4:40 | 2020-10-13 |  |
 | [Reckless](https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Subluxe](https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt) | 3:57 | 2020-10-13 |  |
+| [ROUGH 7](https://open.spotify.com/track/0ekzigrO6pKmtR2sOc9PW7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [EP!](https://open.spotify.com/album/2xApp3I0BDU0THUdaxEq26) | 3:44 | 2020-12-12 |  |
 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 | 2020-10-13 |  |
 | [SAD!](https://open.spotify.com/track/21MPugjbKDYlbhskZ6LphE) | [nobody nobody](https://open.spotify.com/artist/2sBt2NOgf7NW9QJw7lOtA1), [plainfacedgirl](https://open.spotify.com/artist/56ndcMHyMOYHVclwDDHXcs) | [SAD!](https://open.spotify.com/album/6SoYF02YEA2JT2WUFqBTcz) | 2:37 | 2020-10-13 | 2020-11-03 |
 | [Same - Remix](https://open.spotify.com/track/0HEkc4mWSWjZ1TR6ihwrd5) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Same (Remix)](https://open.spotify.com/album/7pEHgShCnN13CEtp0rZOnX) | 2:24 | 2020-10-13 | 2020-11-03 |
@@ -173,6 +174,7 @@
 | [Saturn](https://open.spotify.com/track/6WY88gYhRrnqS4wGtO45TH) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Saturn](https://open.spotify.com/album/6YWUNw1FYlbjBwLEeqqt8Y) | 3:27 | 2020-10-13 | 2020-11-03 |
 | [Sensitive](https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF) | 2:54 | 2020-10-13 |  |
 | [Shawty](https://open.spotify.com/track/6CLeGoAfyJZ7BpO9lZiWFS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/7dY7qy5YcSpzEMQQQGSfSx) | 3:17 | 2020-10-13 |  |
+| [She Knows This](https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:36 | 2020-12-12 |  |
 | [Shook](https://open.spotify.com/track/1CsSB1GgfpHoEvWAWy0Swp) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Shook](https://open.spotify.com/album/40qPKS8uTjS9RmEOq0LPn7) | 2:42 | 2020-10-13 |  |
 | [Should I](https://open.spotify.com/track/6LLfOeMlf6T1fNYvqgJ3NG) | [Skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Should I](https://open.spotify.com/album/5VMPFL5HgFth5ql9IEhUyB) | 2:30 | 2020-10-13 | 2020-11-03 |
 | [Shy Dancer](https://open.spotify.com/track/6rIXjTkphb5RB5cXGz6CyX) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Shy Dancer](https://open.spotify.com/album/6qk0iK3VpzfcnlZDNlBAPz) | 2:51 | 2020-11-20 |  |
@@ -193,6 +195,7 @@
 | [Summertime](https://open.spotify.com/track/7rNowXLbVGKAL7QuRrn4Ab) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Summertime](https://open.spotify.com/album/57KFny8tva8t4EPbbSNXcp) | 4:15 | 2020-10-13 | 2020-11-03 |
 | [SUNDOWN](https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:05 | 2020-10-13 | 2020-11-03 |
 | [Super Bounce](https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:38 | 2020-10-13 |  |
+| [SUPER TUESDAY!](https://open.spotify.com/track/7FavLZuFJ4hSuRzSPJLGBM) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/2xApp3I0BDU0THUdaxEq26) | 2:58 | 2020-12-12 |  |
 | [Swimming](https://open.spotify.com/track/6frrSEJc3nE3FESO74Xxxe) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Swimming](https://open.spotify.com/album/7ziCFu7V4RSyBFeTsYuSVZ) | 2:17 | 2020-10-13 | 2020-11-03 |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-10-13 |  |
 | [tattoo](https://open.spotify.com/track/6SWZ5b6AEsa6eLfGhVFMf6) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [tattoo](https://open.spotify.com/album/6KBtMovsmrkQTnIj8YOiG6) | 1:47 | 2020-10-13 | 2020-11-03 |
