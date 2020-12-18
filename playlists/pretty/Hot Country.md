@@ -2,21 +2,21 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Eric Church
+> Today's top country hits of the week, worldwide! Cover: Luke Combs
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 1 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get (Deluxe Edition)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
 | 2 | [Somebody’s Problem](https://open.spotify.com/track/0SErdEdRcVX1uJCf1eTGYH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Somebody’s Problem](https://open.spotify.com/album/7L75Zpj3pTQf3s3CDOnrwr) | 2:41 |
 | 3 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 |
 | 4 | [Doing Life With Me](https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Doing Life With Me](https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0) | 3:15 |
 | 5 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 |
-| 6 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
-| 7 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 |
-| 8 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
-| 9 | [GOOD TIME](https://open.spotify.com/track/5Kpg1A7BOHpBbaT3H3xqd3) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME - EP](https://open.spotify.com/album/2jqg5j8kjADgqkFSDoTylY) | 3:34 |
-| 10 | [We Go Together Like](https://open.spotify.com/track/3mwQ4tEWBWynjw7HJgMiRA) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [We Go Together Like](https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq) | 2:43 |
-| 11 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get (Deluxe Edition)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
+| 6 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 |
+| 7 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
+| 8 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 9 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
+| 10 | [GOOD TIME](https://open.spotify.com/track/5Kpg1A7BOHpBbaT3H3xqd3) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME - EP](https://open.spotify.com/album/2jqg5j8kjADgqkFSDoTylY) | 3:34 |
+| 11 | [We Go Together Like](https://open.spotify.com/track/3mwQ4tEWBWynjw7HJgMiRA) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [We Go Together Like](https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq) | 2:43 |
 | 12 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 |
 | 13 | [Just About Over You - Radio Edit](https://open.spotify.com/track/7r4QGA98fNi3iPxc7umIjt) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You (Radio Edit)](https://open.spotify.com/album/5daeIQFYVirEPLqnivqo6h) | 3:08 |
 | 14 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 |

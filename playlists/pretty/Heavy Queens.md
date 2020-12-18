@@ -2,25 +2,25 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women that like it loud & heavy. Cover: Amaranthe
+> A salute to all of the women that like it loud & heavy. Cover: Within Temptation
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 |
-| 2 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 |
-| 3 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
+| 1 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 |
+| 2 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
+| 3 | [Strong](https://open.spotify.com/track/3FFjdo3CSKqeGx3nlN0WWv) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Strong](https://open.spotify.com/album/5wOeEqQPVbXisrwRKmxLBc) | 3:06 |
 | 4 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 |
-| 5 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 |
-| 6 | [Addiction No. 1](https://open.spotify.com/track/07vsyfznDCcwRlxUxciSUT) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Addiction No. 1](https://open.spotify.com/album/1rjWeeoLm4mC2atxEbLwXC) | 4:03 |
-| 7 | [Strong](https://open.spotify.com/track/3FFjdo3CSKqeGx3nlN0WWv) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Strong](https://open.spotify.com/album/5wOeEqQPVbXisrwRKmxLBc) | 3:06 |
-| 8 | [The Race](https://open.spotify.com/track/6lKyAAxp5Rl7HHoU39AQfS) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [The Race](https://open.spotify.com/album/421Nn2bUhsnMxP1oiV9Q2F) | 3:50 |
-| 9 | [Freedom - The Wolves Within-](https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Freedom - The Wolves Within](https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9) | 5:37 |
-| 10 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
-| 11 | [Talk To Me (feat. Lzzy Hale)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me (feat. Lzzy Hale)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
-| 12 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
+| 5 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 |
+| 6 | [The Race](https://open.spotify.com/track/6lKyAAxp5Rl7HHoU39AQfS) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [The Race](https://open.spotify.com/album/421Nn2bUhsnMxP1oiV9Q2F) | 3:50 |
+| 7 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 |
+| 8 | [Freedom - The Wolves Within-](https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Freedom - The Wolves Within](https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9) | 5:37 |
+| 9 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
+| 10 | [Talk To Me (feat. Lzzy Hale)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me (feat. Lzzy Hale)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
+| 11 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
+| 12 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 |
 | 13 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
-| 14 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 |
-| 15 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 |
+| 14 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 |
+| 15 | [Addiction No. 1](https://open.spotify.com/track/07vsyfznDCcwRlxUxciSUT) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Addiction No. 1](https://open.spotify.com/album/1rjWeeoLm4mC2atxEbLwXC) | 4:03 |
 | 16 | [Wake The Dead](https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb) | [September Mourning](https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1) | [Wake The Dead](https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R) | 3:26 |
 | 17 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 |
 | 18 | [Colossvs](https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7) | 3:37 |

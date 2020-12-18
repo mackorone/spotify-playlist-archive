@@ -2,7 +2,7 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women that like it loud & heavy. Cover: Amaranthe
+> A salute to all of the women that like it loud & heavy. Cover: Within Temptation
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

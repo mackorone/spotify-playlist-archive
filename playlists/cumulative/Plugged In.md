@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Royal Blood
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Shihad
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Hard Luck](https://open.spotify.com/track/7Cpn5JqDJR22FoF6c94lHd) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:59 | 2020-10-10 |  |
 | [Here Comes the End (feat. Judith Hill)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End (feat. Judith Hill)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10 |  |
 | [Holy](https://open.spotify.com/track/0xuLN9AJ6VVmkSwAGCbNt0) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:38 | 2020-10-10 |  |
+| [Home Again](https://open.spotify.com/track/3jYltnWyiZPeIrfl6iwQOQ) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Shihad](https://open.spotify.com/album/6MgzZ3aSBhI23zqvx9ogdw) | 3:35 | 2020-12-18 |  |
 | [Homegrown](https://open.spotify.com/track/0Zp7tPRjN7T011knjd9FZU) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Homegrown](https://open.spotify.com/album/08wQogg47jUetQkJjqjn6B) | 2:47 | 2020-10-10 |  |
 | [Honey](https://open.spotify.com/track/4rnOEnsyDIdjBfUnGV862s) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Honey](https://open.spotify.com/album/3zGFNQCB2ENoZB1o0JcWNi) | 3:36 | 2020-11-06 |  |
 | [HWY 666](https://open.spotify.com/track/6QnwNrGUyLRkHSXgHRblmn) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [HWY 666/Black Eyes Blue/CMFT Must Be Stopped (Featuring Tech N9ne and Kid Bookie)](https://open.spotify.com/album/2PlblaXwjQDSHsXWUUBA2S) | 4:09 | 2020-10-10 |  |
@@ -97,6 +98,7 @@
 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 | 2020-10-10 |  |
 | [One Little Lie](https://open.spotify.com/track/4y8NnGih7SRWSf7kDMeEqK) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Everything Opposite](https://open.spotify.com/album/4W9hKpdYHa0hcuGh57btOW) | 3:15 | 2020-10-10 |  |
 | [Our Love](https://open.spotify.com/track/6j652760j2wctFstQmai4R) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Our Love](https://open.spotify.com/album/7CaFWcgWzWAE8ZwOszn6Og) | 3:09 | 2020-10-10 |  |
+| [Pacifier - Remastered](https://open.spotify.com/track/5Zd74Pz4U7VZJLFCxWvBaA) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [The General Electric (Remastered)](https://open.spotify.com/album/7zHH0kIm7Kcj8dw4LRTMjn) | 4:03 | 2020-12-18 |  |
 | [PEOPLE (feat. FIDLAR)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE (feat. FIDLAR)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 | 2020-10-10 |  |
 | [Ramona](https://open.spotify.com/track/5EfK3DZoPOzmVmN29GJKIm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Ramona](https://open.spotify.com/album/5JKsvGrCimdMGjvuQGctG3) | 3:48 | 2020-11-03 |  |
 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 | 2020-11-20 |  |
