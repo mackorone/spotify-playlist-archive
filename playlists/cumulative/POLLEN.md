@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Channel Tres
+> Genre-less. Quality first always. Cover: Four Tet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Overseas](https://open.spotify.com/track/1iGOI54dl6Ps1kYlSpPZzg) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:28 | 2020-04-04 | 2020-10-03 |
 | [Own It (feat. Ed Sheeran & Burna Boy)](https://open.spotify.com/track/07s9NNOT0sZQp7TyolLLgu) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Own It (feat. Ed Sheeran & Burna Boy)](https://open.spotify.com/album/4H9xdaXSMCiT7xyBBxiT0Q) | 3:36 | 2019-11-23 | 2020-02-07 |
 | [Paperbacks](https://open.spotify.com/track/5wagMdtXxmWEiKXWqriCf9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/3XKYPIKMJfJLVUz68XIwSF) | 3:00 | 2019-11-30 | 2020-06-29 |
+| [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2020-12-25 |  |
 | [Passport - シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport (シングル版)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2020-10-10 | 2020-12-04 |
 | [Passport](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2020-09-18 | 2020-10-10 |
 | [Patagonia](https://open.spotify.com/track/3ihskScPmfLPIfU5qWdJM8) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Patagonia](https://open.spotify.com/album/1j5ASBhzL2szRZmRUdMGaK) | 3:12 | 2019-09-18 | 2020-04-02 |
@@ -643,6 +644,7 @@
 | [snakes x elephants](https://open.spotify.com/track/3C1SrkNDl9m5rNpaGZ2Yg8) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [snakes x elephants](https://open.spotify.com/album/2uYf0XQr5nfhW5ZE5rBs4W) | 3:20 | 2020-11-19 |  |
 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2020-06-18 | 2020-09-15 |
 | [Snowchild](https://open.spotify.com/track/264yshjoWEJGVeqMJvEqGE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours (Deluxe)](https://open.spotify.com/album/0lc1TxAzpSHI7DGhgdWuMI) | 4:07 | 2020-03-25 | 2020-08-27 |
+| [Snowed In](https://open.spotify.com/track/7dFfjLVeVoWR2xArhHuh3v) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/2w78Cx36U8NynXOR6GFB03) | 4:04 | 2020-12-25 |  |
 | [So and So](https://open.spotify.com/track/4jkQY3kryVNYe4jGJ3nChu) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [So and So / Areyoudown? Pt. 2](https://open.spotify.com/album/2jz9qhYEGmkj3fHA7C8nBx) | 2:01 | 2020-11-25 |  |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2019-07-30 | 2019-08-09 |
 | [So Heavy I Fell Through the Earth - Algorithm Mix](https://open.spotify.com/track/1FMrfmJVha7u0iJfidbgcX) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [So Heavy I Fell Through the Earth](https://open.spotify.com/album/6iYlPdtweE1Klj3bB2ww39) | 3:51 | 2019-11-16 | 2020-02-21 |

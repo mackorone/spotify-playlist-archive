@@ -2,7 +2,7 @@
 
 ### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The Kid LAROI is on top of the Hottest 50!
+> Ed Sheeran is on top of the Hottest 50!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Rain On Me (with Ariana Grande)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me (with Ariana Grande)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2020-05-22 | 2020-09-25 |
 | [Ransom](https://open.spotify.com/track/1kBbgxAUc4HQv7cgIayIDH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Ransom](https://open.spotify.com/album/4Mz9ZCE83IiaVC9ejMqxky) | 2:11 | 2019-06-06 | 2019-10-18 |
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2020-01-10 | 2020-03-02 |
-| [Real Shit (with benny blanco)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit (with benny blanco)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-04 |  |
+| [Real Shit (with benny blanco)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit (with benny blanco)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-04 | 2020-12-25 |
 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 | 2020-12-11 |  |
 | [Rescue Me](https://open.spotify.com/track/35rozLoS6QLE8HX8qswM3k) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Joytime III](https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW) | 3:57 | 2019-07-04 | 2019-07-24 |
 | [Rescue Me](https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me](https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe) | 2:38 | 2019-05-26 | 2019-09-06 |
@@ -379,6 +379,7 @@
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-06-21 | 2019-10-11 |
 | [Shameless](https://open.spotify.com/track/3UYiU57SMiAS5LqolhHJw1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shameless](https://open.spotify.com/album/2h1p1JzjT9rLJFAFrIkyrm) | 3:39 | 2019-09-06 | 2019-10-04 |
 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 | 2019-05-26 | 2019-06-15 |
+| [Slay3r](https://open.spotify.com/track/1eMNW1HQjF1dbb4GtnmpaX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:44 | 2020-12-25 |  |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2019-08-16 | 2019-10-04 |
 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 | 2019-08-09 | 2019-09-13 |
 | [Smile (with The Weeknd)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2020-08-07 | 2020-09-18 |
