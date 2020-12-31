@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> "gen z would have loved passion pit" - @phoebe_bridgers
+> bye 2020 <3
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2019-10-25 | 2020-01-10 |
 | [FRANKIE MUNIZ](https://open.spotify.com/track/1E8O2FNVuBRkXdS33iULOV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [FRANKIE MUNIZ](https://open.spotify.com/album/6uSQN4AgIUSdhU3tjNgg5v) | 3:38 | 2020-09-25 |  |
 | [Freezing](https://open.spotify.com/track/1k9MIdBQbsEyUZmeYD16gk) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Freezing](https://open.spotify.com/album/2jaC3frsSh9AZ84E9tFXPU) | 2:57 | 2020-06-20 |  |
-| [Friday I’m In Love - Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2020-12-23 |  |
+| [Friday I’m In Love - Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2020-12-23 | 2020-12-31 |
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-07-18 |  |
 | [Friends (feat. Powfu)](https://open.spotify.com/track/7pJSpYDtskHUajG1HDlkhf) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friends (feat. Powfu)](https://open.spotify.com/album/6fe1vzOHhDRvukYnSrunvp) | 2:35 | 2020-05-01 | 2020-07-01 |
 | [FRIENDS](https://open.spotify.com/track/3usbnvDFtOhY09cRNar8Zg) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 4:26 | 2020-03-20 | 2020-07-29 |
@@ -295,8 +295,9 @@
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2020-10-13 |  |
 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 | 2020-10-30 |  |
 | [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 6:15 | 2020-12-12 |  |
-| [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 | 2020-11-27 |  |
+| [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 | 2020-11-27 | 2020-12-31 |
 | [Good Day](https://open.spotify.com/track/7iTwzSe2fg5xYwCgXXFkEe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Good Day](https://open.spotify.com/album/1HPmeTZ2Mgx0NvynTKpWOj) | 3:01 | 2019-10-04 | 2020-02-05 |
+| [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2020-12-31 |  |
 | [goodnight n go](https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:09 | 2019-07-30 | 2020-10-24 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2019-07-30 | 2020-03-13 |
 | [Grace](https://open.spotify.com/track/3o30X8AntmyFOmUedcfUXt) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:26 | 2019-09-20 | 2019-10-10 |
@@ -469,7 +470,7 @@
 | [Medicine](https://open.spotify.com/track/1IiJhFnNnvrq4k3x76Mh2n) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Medicine](https://open.spotify.com/album/0eG4o4GCcqspRSVHWbgUW4) | 4:00 | 2020-09-02 |  |
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [Kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2020-11-20 |  |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-24 | 2020-11-11 |
-| [Memories](https://open.spotify.com/track/7i3I0XokKjoLS8wEU1PThw) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [Memories](https://open.spotify.com/album/6YeFOv4WPmzPYwGDCj0zDv) | 1:53 | 2020-11-20 |  |
+| [Memories](https://open.spotify.com/track/7i3I0XokKjoLS8wEU1PThw) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [Memories](https://open.spotify.com/album/6YeFOv4WPmzPYwGDCj0zDv) | 1:53 | 2020-11-20 | 2020-12-31 |
 | [Messed Up](https://open.spotify.com/track/4WHmafrJ0ANeLFf7UlXjiM) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Messed Up](https://open.spotify.com/album/5Bzq6KT7Xvqv6qsMDJpyi5) | 3:53 | 2020-10-24 |  |
 | [midnight love](https://open.spotify.com/track/1P7tiVl5hgemZuH8oNyP6C) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [midnight love](https://open.spotify.com/album/23QVvMWbWEMcUawebp6mSg) | 3:14 | 2020-04-14 | 2020-08-20 |
 | [minimal](https://open.spotify.com/track/28sNP4vXS6EtFr2VKPhCTQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [minimal](https://open.spotify.com/album/0Y6gjR6DUAx8K2IRbaWT0p) | 2:43 | 2019-07-30 | 2020-09-17 |
@@ -480,7 +481,7 @@
 | [Model Student](https://open.spotify.com/track/0io3G1JEQNfmjZnsu6h3nw) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Model Student](https://open.spotify.com/album/3A6RPevX8tKIQKjT53vQiL) | 2:44 | 2020-05-14 | 2020-07-01 |
 | [Moi](https://open.spotify.com/track/22B3g2WSeEFcIH6ieZ0SKz) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 3:12 | 2019-07-30 | 2019-09-06 |
 | [Molang](https://open.spotify.com/track/0Mg5oWo54uPg9GBJGHBD8p) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes Vol.1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:36 | 2020-07-21 | 2020-08-13 |
-| [Molang](https://open.spotify.com/track/0Mg5oWo54uPg9GBJGHBD8p) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol. 1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:36 | 2020-08-13 |  |
+| [Molang](https://open.spotify.com/track/0Mg5oWo54uPg9GBJGHBD8p) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol. 1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:36 | 2020-08-13 | 2020-12-31 |
 | [moment](https://open.spotify.com/track/2JKIYl8KaAMzOR1dIzEO5f) | [lildeath](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4X2vOIggOwcX7BFIH0xqng) | 2:09 | 2020-10-30 | 2020-12-04 |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-08-14 | 2020-12-04 |
 | [Money Diamonds Roses](https://open.spotify.com/track/4j0lSW432dK6awGjED4PPt) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Money Diamonds Roses](https://open.spotify.com/album/5F2GPs2tKS6rFb6AW9xxb7) | 2:57 | 2019-11-22 | 2020-01-10 |
@@ -713,7 +714,7 @@
 | [swings](https://open.spotify.com/track/3DXU5SEncAI1HwfB9LBLFT) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [swings](https://open.spotify.com/album/1um37UiJus9Fl3nyZKbaQK) | 2:22 | 2020-04-09 | 2020-05-28 |
 | [Switched Up](https://open.spotify.com/track/2qtJUSJmPz5mkVhFHrtCd7) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Switched Up](https://open.spotify.com/album/0iFATJZnvd79HAORAKhhTg) | 2:26 | 2020-02-21 | 2020-05-29 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2019-07-30 | 2019-09-14 |
-| [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2020-12-23 |  |
+| [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2020-12-23 | 2020-12-31 |
 | [Talk to Me](https://open.spotify.com/track/3znD2JTezT8ZLkp2pmft2l) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Dear.](https://open.spotify.com/album/39M1dSHwZxHyPwOb0bRuJU) | 4:37 | 2020-08-21 | 2020-11-11 |
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:48 | 2019-09-14 | 2019-10-10 |
 | [Tenant](https://open.spotify.com/track/1PFIHtyj9US4ZIRkH34hxU) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Tenant](https://open.spotify.com/album/0Yhnyh1KDspkwYXjZKKxP4) | 3:54 | 2020-04-08 |  |
@@ -724,6 +725,7 @@
 | [The Girls Before Me](https://open.spotify.com/track/7IecWBldlrmQNoqZH0FH5u) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [The Girls Before Me](https://open.spotify.com/album/13RMTU3mRKfjemE1ouEjIZ) | 3:35 | 2020-07-03 | 2020-08-20 |
 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 | 2019-07-30 | 2019-10-03 |
 | [The Internet](https://open.spotify.com/track/0vHHGEdUWa1zgKfsOvMAu1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:30 | 2019-10-25 | 2019-11-14 |
+| [The Leanover](https://open.spotify.com/track/1FVlIVvRMAzwygwd9M0Ccz) | [Life Without Buildings](https://open.spotify.com/artist/16tbi6bWXBzJ9pOMZ5gIC7) | [Any Other City](https://open.spotify.com/album/2yOa9ICNMAi78AWopdSOe1) | 5:23 | 2020-12-31 |  |
 | [The Other Side](https://open.spotify.com/track/2mAy8zQhZJICLFUEVGQzbE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Other Side](https://open.spotify.com/album/2Ap31wFYdL2jMIMmy6YXes) | 2:52 | 2019-08-08 | 2019-10-03 |
 | [The Story](https://open.spotify.com/track/1aQqtnz30d2vAG54XFNpu0) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Story](https://open.spotify.com/album/6zybPkFNyra328HkPyDOex) | 4:05 | 2020-01-14 | 2020-03-20 |
 | [The Weekend - Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [The Weekend (Funk Wav Remix)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2019-10-11 | 2019-11-14 |
