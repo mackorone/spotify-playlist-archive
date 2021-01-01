@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Russell Dickerson
+> New Music Discovery is what we're about.  Try it on for size. Cover: Parker McCollum
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Till There's Nothing Left](https://open.spotify.com/track/3xERNjol68IJkC8HIicJiL) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Till There's Nothing Left](https://open.spotify.com/album/4wNIHgj1pgZt3EzfFFvHmg) | 3:15 | 2020-02-18 | 2020-04-25 |
 | [Timeless](https://open.spotify.com/track/3JYPKPQYxpHrp8YWYOF4v2) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [The Fall](https://open.spotify.com/album/0fO6mAEG7FpJoCLwEZju0u) | 2:49 | 2019-12-14 | 2020-06-14 |
 | [Tip of My Tongue](https://open.spotify.com/track/40ufL61vEaDaaOitYhnlQ7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Tip of My Tongue](https://open.spotify.com/album/2neKEhAldnGfCDEkPE4kW0) | 3:19 | 2019-07-13 | 2019-08-25 |
+| [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-01-01 |  |
 | [To Get to You (feat. Jess Moskaluke)](https://open.spotify.com/track/5peKbOjcAqDij7MrXqSBxm) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [To Get To You (feat. Jess Moskaluke)](https://open.spotify.com/album/7b1OmlpnfVnM9ycoJhTdwd) | 3:06 | 2019-11-09 | 2020-02-08 |
 | [Town Ain't Big Enough](https://open.spotify.com/track/5DrmJ25aHuPBImk1kLp5Of) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Town Ain't Big Enough](https://open.spotify.com/album/3blwrJARQNnrhivBk8wRa7) | 2:51 | 2019-07-13 | 2019-08-31 |
 | [Trainwreck](https://open.spotify.com/track/1KF1HgToGovteLef5AqjZq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Trainwreck](https://open.spotify.com/album/74IsmGQEbBNSvmT47Uhqih) | 3:30 | 2020-04-25 | 2020-06-21 |

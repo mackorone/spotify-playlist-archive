@@ -2,7 +2,7 @@
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Musik gres pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat.
+> Musik gres pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Justin Bieber
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Anthem](https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm) | 5:42 | 2020-07-18 | 2020-07-24 |
 | [Anthem of Unity](https://open.spotify.com/track/2kiJwrK1f0rltS4BPv4osW) | [Gabz Sutanto](https://open.spotify.com/artist/1LPItw3y416yIu0pyDG7r0) | [Imagini](https://open.spotify.com/album/72iE2UFo6bKcRl4wdzD7nO) | 3:22 | 2020-08-14 | 2020-08-21 |
 | [Anxiety](https://open.spotify.com/track/6FLaelBd4j0WJkx9hPqt1J) | [Egi](https://open.spotify.com/artist/2KzLVfq8yreTZpTKpu9FC2) | [Anxiety](https://open.spotify.com/album/5qyS5HN9ZJ8lrRVk2Gpmoe) | 3:06 | 2020-04-24 | 2020-05-01 |
+| [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 |  |
 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 | 2020-04-10 | 2020-04-16 |
 | [Apa Kabar (O Genki Desuka)](https://open.spotify.com/track/2jOW2YCALxVnx5YaJfbFFB) | [Sherryl Eunice](https://open.spotify.com/artist/5CoXiMQWPTE9avJQI6d7cV), [Deven](https://open.spotify.com/artist/6A6qWSHV4GvQsHI1wTQyyl) | [Apa Kabar (O Genki Desuka)](https://open.spotify.com/album/3EzkrobK26rr8xGA9mqYnp) | 3:32 | 2020-09-18 | 2020-09-25 |
 | [Apa Kabar?](https://open.spotify.com/track/70EpvvZEFHTZrfLo4up9Tr) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Apa Kabar?](https://open.spotify.com/album/3BGuk9k3mVNyjEt7uxcvMz) | 2:52 | 2020-06-12 | 2020-06-19 |
@@ -3897,6 +3898,7 @@
 | [We Don´t Talk Anyway - Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway - Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 | 2020-10-30 | 2020-11-06 |
 | [WE GO UP](https://open.spotify.com/track/2HlMfTfUZW1bpQNTUtLbzf) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [WE GO UP](https://open.spotify.com/album/42aA4U254PY4bTgo8JFGRx) | 3:57 | 2020-06-29 | 2020-07-03 |
 | [We Got Bored](https://open.spotify.com/track/66ijKc5l4Dl0mplLYzTpi9) | [The Boris Suit](https://open.spotify.com/artist/6fFxHUyhHMGDO7Uy1cDS12) | [We Got Bored](https://open.spotify.com/album/6XrUCvGyJ8eKf03zVJeXxd) | 3:31 | 2020-06-05 | 2020-06-12 |
+| [We Got Love](https://open.spotify.com/track/2mKczZHOc29OI9KZpaQ2md) | [Remify](https://open.spotify.com/artist/4bykHO1lwZV9vBXbqQTaMH) | [We Got Love](https://open.spotify.com/album/2P4f2Bli7CD1O9k2OgbY00) | 4:06 | 2021-01-01 |  |
 | [We Live Forever](https://open.spotify.com/track/2HwmnSplaMPTLEseKI2V2h) | [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC) | [We Live Forever](https://open.spotify.com/album/5NXoyYVQxUAxcRW1KdNB0z) | 3:57 | 2020-04-24 | 2020-05-01 |
 | [We Out Here - Bonus Track](https://open.spotify.com/track/5h1nLTGPTG3OjFEzeWlHHD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA (Deluxe Edition)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 2:57 | 2020-12-04 | 2020-12-11 |
 | [We'll Be Alright](https://open.spotify.com/track/0rGH58w2s9UbezF15pOHIc) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [A Few Brief Moments](https://open.spotify.com/album/7l546OR4pOy6BebdJBtALd) | 3:08 | 2020-06-12 | 2020-06-19 |

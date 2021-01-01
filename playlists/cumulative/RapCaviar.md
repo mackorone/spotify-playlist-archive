@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Playboi Carti and Lil Durk.
+> Music from Lil Durk, Playboi Carti and Kid Cudi.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
