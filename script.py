@@ -7,6 +7,7 @@ import datetime
 import os
 import re
 import subprocess
+import urllib.parse
 
 import requests
 
@@ -14,6 +15,7 @@ import requests
 Playlist = collections.namedtuple(
     "Playlist",
     [
+        "id",
         "url",
         "name",
         "description",
@@ -37,6 +39,12 @@ Album = collections.namedtuple("Album", ["url", "name"])
 
 Artist = collections.namedtuple("Artist", ["url", "name"])
 
+aliases_dir = "playlists/aliases"
+plain_dir = "playlists/plain"
+pretty_dir = "playlists/pretty"
+cumulative_dir = "playlists/cumulative"
+export_dir = "playlists/export"
+
 
 class InvalidAccessTokenError(Exception):
     pass
@@ -52,10 +60,84 @@ class PrivatePlaylistError(Exception):
 
 class Spotify:
 
-    BASE_URL = "https://api.spotify.com/v1/playlists/"
+    BASE_URL = "https://api.spotify.com/v1"
+    REDIRECT_URI = "http://localhost:8000"
 
-    def __init__(self, client_id, client_secret):
-        self._token = self._get_access_token(client_id, client_secret)
+    def __init__(self, client_id, client_secret, user_token=None):
+        if user_token:
+            self._token = self._get_user_access_token(
+                client_id, client_secret, user_token
+            )
+        else:
+            self._token = self._get_access_token(client_id, client_secret)
+            self._user_id = None
+
+        self._session = requests.Session()
+        self._session.headers = {
+            "Authorization": "Bearer {}".format(self._token)
+        }
+
+        if user_token:
+            self._user_id = self.get_current_user_id()
+        else:
+            self._user_id = None
+
+    def add_items(self, playlist_id, track_ids):
+        # Group the tracks in batches of 100, since that's the limit.
+        for i in range(0, len(track_ids), 100):
+            track_uris = [
+                "spotify:track:{}".format(track_id)
+                for track_id in track_ids[i:i+100]
+            ]
+            response = self._session.post(
+                self._post_tracks_href(playlist_id),
+                json={
+                    "uris": track_uris
+                }
+            ).json()
+            error = response.get("error")
+            if error:
+                raise Exception(
+                    "Failed to add tracks to playlist, error: {}".formt(error)
+                )
+
+    def change_playlist_details(self, playlist_id, name, description):
+        response = self._session.put(
+            self._change_playlist_details_href(playlist_id),
+            json={
+                "name": name,
+                "description": description,
+                "public": True,
+                "collaborative": False,
+            }
+        )
+        return response.status_code == 200
+
+    def create_playlist(self, name):
+        if self._user_id is None:
+            raise Exception(
+                "Creating playlists requires logging in!"
+            )
+
+        response = self._session.post(
+            self._create_playlist_href(self._user_id),
+            json={
+                "name": name,
+                "public": True,
+                "collaborative": False,
+            }
+        ).json()
+
+        print(response)
+
+
+        return Playlist(
+            id=response["id"],
+            name=response["name"],
+            description=None,
+            url=self._get_url(response["external_urls"]),
+            tracks=[]
+        )
 
     @classmethod
     def _get_access_token(cls, client_id, client_secret):
@@ -82,6 +164,59 @@ class Spotify:
 
         return access_token
 
+    @classmethod
+    def _get_user_access_token(cls, client_id, client_secret, refresh_token):
+        response = requests.post(
+            "https://accounts.spotify.com/api/token",
+            data={
+                "grant_type": "refresh_token",
+                "refresh_token": refresh_token,
+            },
+            auth=(client_id, client_secret),
+        ).json()
+
+        error = response.get("error")
+        if error:
+            print(response)
+            raise Exception("Failed to get access token: {}".format(error))
+
+        access_token = response.get("access_token")
+        if not access_token:
+            raise Exception("Invalid access token: {}".format(access_token))
+
+        token_type = response.get("token_type")
+        if token_type != "Bearer":
+            raise Exception("Invalid token type: {}".format(token_type))
+
+        return access_token
+
+    @classmethod
+    def get_user_refresh_token(cls, client_id, client_secret, authorization_code):
+        response = requests.post(
+            "https://accounts.spotify.com/api/token",
+            data={
+                "grant_type": "authorization_code",
+                "code": authorization_code,
+                "redirect_uri": cls.REDIRECT_URI,
+            },
+            auth=(client_id, client_secret),
+        ).json()
+
+        error = response.get("error")
+        if error:
+            print(response)
+            raise Exception("Failed to get access token: {}".format(error))
+
+        refresh_token = response.get("refresh_token")
+        if not refresh_token:
+            raise Exception("Invalid refresh token: {}".format(refresh_token))
+
+        token_type = response.get("token_type")
+        if token_type != "Bearer":
+            raise Exception("Invalid token type: {}".format(token_type))
+
+        return refresh_token
+
     def get_playlist(self, playlist_id, aliases):
         playlist_href = self._get_playlist_href(playlist_id)
         response = self._make_request(playlist_href)
@@ -106,11 +241,22 @@ class Spotify:
             name = response["name"]
 
         # Playlist names can't have "/" so use "\" instead
+        id = response["id"]
         name = name.replace("/", "\\")
         description = response["description"]
         tracks = self._get_tracks(playlist_id)
 
-        return Playlist(url=url, name=name, description=description, tracks=tracks)
+        return Playlist(
+            id=id,
+            url=url,
+            name=name,
+            description=description,
+            tracks=tracks
+        )
+
+    def get_current_user_id(self):
+        response = self._make_request(self._get_current_user_href())
+        return response["id"]
 
     def _get_tracks(self, playlist_id):
         tracks = []
@@ -166,24 +312,40 @@ class Spotify:
         return (external_urls or {}).get("spotify")
 
     @classmethod
+    def _get_current_user_href(cls):
+        return cls.BASE_URL + "/me"
+
+    @classmethod
+    def _create_playlist_href(cls, user_id):
+        return cls.BASE_URL + "/users/{}/playlists".format(user_id)
+
+    @classmethod
+    def _change_playlist_details_href(cls, playlist_id):
+        return cls.BASE_URL + "/playlists/{}".format(playlist_id)
+
+    @classmethod
     def _get_playlist_href(cls, playlist_id):
-        rest = "{}?fields=external_urls,name,description"
+        rest = "/playlists/{}?fields=id,external_urls,name,description"
         template = cls.BASE_URL + rest
         return template.format(playlist_id)
 
     @classmethod
+    def _post_tracks_href(cls, playlist_id):
+        return cls.BASE_URL + "/playlists/{}/tracks".format(playlist_id)
+
+    @classmethod
     def _get_tracks_href(cls, playlist_id):
         rest = (
-            "{}/tracks?fields=next,items.track(id,external_urls,"
+            "/playlists/{}/tracks?fields=next,items.track(id,external_urls,"
             "duration_ms,name,album(external_urls,name),artists)"
         )
         template = cls.BASE_URL + rest
         return template.format(playlist_id)
 
-    def _make_request(self, href):
-        return requests.get(
+    def _make_request(self, href, params=None):
+        return self._session.get(
             href,
-            headers={"Authorization": "Bearer {}".format(self._token)},
+            params=None,
         ).json()
 
 
@@ -201,7 +363,7 @@ class Formatter:
     LINK_REGEX = r"\[(.+?)\]\(.+?\)"
 
     @classmethod
-    def plain(cls, playlist_id, playlist):
+    def plain(cls, playlist_id, playlist, export_playlist=None):
         lines = [cls._plain_line_from_track(track) for track in playlist.tracks]
         # Sort alphabetically to minimize changes when tracks are reordered
         sorted_lines = sorted(lines, key=lambda line: line.lower())
@@ -209,7 +371,7 @@ class Formatter:
         return "\n".join(header + sorted_lines)
 
     @classmethod
-    def pretty(cls, playlist_id, playlist):
+    def pretty(cls, playlist_id, playlist, export_playlist=None):
         columns = [
             cls.TRACK_NO,
             cls.TITLE,
@@ -227,6 +389,7 @@ class Formatter:
             playlist_id=playlist_id,
             playlist_description=playlist.description,
             is_cumulative=False,
+            export_url=export_playlist.url if export_playlist else None,
         )
         lines += [
             line_template.format(*columns),
@@ -249,7 +412,7 @@ class Formatter:
         return "\n".join(lines)
 
     @classmethod
-    def cumulative(cls, now, prev_content, playlist_id, playlist):
+    def cumulative(cls, now, prev_content, playlist_id, playlist, export_playlist=None):
         today = now.strftime("%Y-%m-%d")
         columns = [
             cls.TITLE,
@@ -269,6 +432,7 @@ class Formatter:
             playlist_id=playlist_id,
             playlist_description=playlist.description,
             is_cumulative=True,
+            export_url=export_playlist.url if export_playlist else None,
         )
         header += [
             line_template.format(*columns),
@@ -309,6 +473,7 @@ class Formatter:
         playlist_id,
         playlist_description,
         is_cumulative,
+        export_url=None,
     ):
         if is_cumulative:
             pretty = cls._link("pretty", URL.pretty(playlist_name))
@@ -317,10 +482,16 @@ class Formatter:
             pretty = "pretty"
             cumulative = cls._link("cumulative", URL.cumulative(playlist_name))
 
+        if export_url:
+            export = " ({})".format(cls._link("re-exported", export_url))
+        else:
+            export = ""
+
         return [
-            "{} - {} - {} ({})".format(
+            "{} - {}{} - {} ({})".format(
                 pretty,
                 cumulative,
+                export,
                 cls._link("plain", URL.plain(playlist_id)),
                 cls._link("githistory", URL.plain_history(playlist_id)),
             ),
@@ -440,16 +611,21 @@ class URL:
         return cls.BASE + "cumulative/{}.md".format(sanitized)
 
 
-def update_files(now):
+def update_files(now, export=False):
+    if export:
+        user_token = os.getenv("SPOTIFY_USER_TOKEN")
+        if not user_token:
+            raise Exception(
+                "SPOTIFY_USER_TOKEN is required for the export feature, "
+                "obtain it by logging in first."
+            )
+    else:
+        user_token = None
     spotify = Spotify(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
         client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
+        user_token=user_token,
     )
-
-    aliases_dir = "playlists/aliases"
-    plain_dir = "playlists/plain"
-    pretty_dir = "playlists/pretty"
-    cumulative_dir = "playlists/cumulative"
 
     # Determine which playlists to scrape from the files in playlists/plain.
     # This makes it easy to add new a playlist: just touch an empty file like
@@ -474,7 +650,10 @@ def update_files(now):
             continue
         aliases[playlist_id] = contents[0]
 
+
     readme_lines = []
+    playlists = {} # Save for later use.
+    exported = {}  # Maps playlist id to exported playlist
     for playlist_id in playlist_ids:
         plain_path = "{}/{}".format(plain_dir, playlist_id)
 
@@ -493,6 +672,30 @@ def update_files(now):
                     URL.pretty(playlist.name),
                 )
             )
+            playlists[playlist_id] = playlist
+
+            # TODO: Move the export code?
+            export_playlist = None
+            if export:
+                export_path = os.path.join(export_dir, playlist_id)
+                try:
+                    with open(export_path) as f:
+                        export_id = f.read().strip()
+                except FileNotFoundError:
+                    export_id = None
+
+                if export_id is None:
+                    print("Creating export playlist for: {}".format(playlist_id))
+                    export_playlist = spotify.create_playlist(playlist.name)
+
+                    # Creating the export dir should only be needed once.
+                    os.mkdir(export_dir)
+
+                    with open(export_path, 'w') as f:
+                        f.write(export_playlist.id)
+                else:
+                    export_playlist = spotify.get_playlist(export_id, [])
+                exported[playlist_id] = export_playlist
 
             pretty_path = "{}/{}.md".format(pretty_dir, playlist.name)
             cumulative_path = "{}/{}.md".format(cumulative_dir, playlist.name)
@@ -507,18 +710,25 @@ def update_files(now):
                 except Exception:
                     prev_content = None
 
+                kwargs = {
+                    # Note: None if export is False
+                    "export_playlist": export_playlist
+                }
                 if flag:
                     args = [now, prev_content, playlist_id, playlist]
                 else:
                     args = [playlist_id, playlist]
 
-                content = func(*args)
+                content = func(*args, **kwargs)
                 if content == prev_content:
                     print("No changes to file: {}".format(path))
                 else:
                     print("Writing updates to file: {}".format(path))
                     with open(path, "w") as f:
                         f.write(content)
+
+    if export:
+        export_playlists(now, playlists, exported, spotify)
 
     # Sanity check: ensure same number of files in playlists/plain and
     # playlists/pretty - if not, some playlists have the same name and
@@ -624,19 +834,153 @@ def push_updates(now):
         raise Exception("Failed to push changes")
 
 
+def export_playlists(now, playlists, exported, spotify):
+    # TODO: Not sure if this is the best way of doing
+    # it. update_playlists is currently responsible of *creating* the
+    # playlists since the export id is needed in the output
+    # files. However, the main *publish* logic is put here.
+
+    user_id = spotify.get_current_user_id()
+    for playlist_id, playlist in playlists.items():
+        try:
+            export_playlist = exported[playlist_id]
+        except KeyError:
+            print("No export id for playlist: {}".format(playlist_id))
+            continue
+
+        # TODO: Add last updated
+        # TODO: Add since
+        description = "Playlist containing all tracks from {}.".format(
+            playlist.name
+        )
+        name = "{} (archive)".format(playlist.name)
+
+        print(
+            "Updating playlist details for: {} (exported as {})".format(
+                playlist_id,
+                export_playlist.id
+            )
+        )
+        spotify.change_playlist_details(
+            export_playlist.id,
+            name,
+            description
+        )
+
+        old_tracks = {
+            t.id for t in export_playlist.tracks
+        }
+        new_tracks = [
+            t.id
+            for t in playlist.tracks
+            if t.id not in old_tracks
+        ]
+
+        spotify.add_items(export_playlist.id, new_tracks)
+
+
+def login(now):
+    # Login OAuth flow.
+    #
+    # 1. Opens the authorize url in the default browser (on Linux).
+    # 2. Sets up an HTTP server on port 8000 to listen for the
+    #    callback.
+    # 3. Requests a refresh token for the user and prints it.
+
+    # Build the target URL
+    client_id = os.getenv("SPOTIFY_CLIENT_ID")
+    query_params = {
+        "client_id": client_id,
+        "response_type": "code",
+        "redirect_uri": Spotify.REDIRECT_URI,
+        "scope": "playlist-modify-public",
+    }
+    target_url = "https://accounts.spotify.com/authorize?{}".format(
+        urllib.parse.urlencode(query_params)
+    )
+
+    # Print and try to open the URL in the default browser.
+    print("Opening the following URL in a browser (at least trying to):")
+    print(target_url)
+    os.system("xdg-open '{}'".format(target_url))
+
+    # Set up a temporary HTTP server and listen for the callback
+    from http import HTTPStatus
+    from http.server import BaseHTTPRequestHandler
+    import socketserver
+
+    code = []
+
+    class RequestHandler(BaseHTTPRequestHandler):
+        def do_GET(self):
+            request_url = urllib.parse.urlparse(self.path)
+            q = urllib.parse.parse_qs(request_url.query)
+            code.append(q['code'][0])
+
+            self.send_response(HTTPStatus.OK)
+            self.end_headers()
+            self.wfile.write(b"OK!")
+
+    PORT = 8000
+    httpd = socketserver.TCPServer(("", PORT), RequestHandler)
+    httpd.handle_request()
+    httpd.server_close()
+
+    code = code[0]
+
+    # Request a refresh token given the authorization code.
+    refresh_token = Spotify.get_user_refresh_token(
+        client_id=os.getenv("SPOTIFY_CLIENT_ID"),
+        client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
+        authorization_code=code,
+    )
+
+    print(
+        "Refresh token, store this somewhere safe and use for "
+        "the export feature:"
+    )
+    print(refresh_token)
+
+
 def main():
     parser = argparse.ArgumentParser("Snapshot Spotify playlists")
-    parser.add_argument(
-        "--push",
-        help="Commit and push updated playlists",
-        action="store_true",
+
+    subparsers = parser.add_subparsers(dest="action")
+
+    update_parser = subparsers.add_parser(
+        "update",
+        help=(
+            "Refresh playlist information and optionally push "
+            "and export the new info."
+        )
     )
+    update_parser.add_argument(
+        "--push",
+        action="store_true",
+        help="Commit and push updated playlists"
+    )
+    update_parser.add_argument(
+        "--export",
+        action="store_true",
+        help="Publish archive playlists to Spotify, requires user login."
+    )
+
+    login_parser = subparsers.add_parser(
+        "login",
+        help=(
+            "Obtain a user token through the OAuth flow (necessary in order"
+            " to use the export feature)."
+        )
+    )
+
+
     args = parser.parse_args()
     now = datetime.datetime.now()
-    update_files(now)
 
-    if args.push:
-        push_updates(now)
+    if args.action == "update":
+        update_files(now, export=args.export)
+    elif args.action == "login":
+        login(now)
 
     print("Done")
 

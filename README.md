@@ -24,6 +24,8 @@ Since Spotify won't take snapshots of our favorite playlists, let's do it oursel
 1. To determine which songs were added or removed from a playlist, click "githistory"
 1. To add a playlist to the archive, simply `touch playlists/plain/<playlist_id>` and make a pull request
 
+For info on development, see [Hacking](./HACKING.md).
+
 ## How it works
 
 This repository contains a script for scraping Spotify playlists and publishing
