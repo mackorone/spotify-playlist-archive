@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Four Tet
+> Genre-less. Quality first always. Cover: slowthai
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [10/10](https://open.spotify.com/track/0tByDZgQzoNfFFmpgleB0s) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [10/10](https://open.spotify.com/album/1dIQCUmv1flCLWByivrbxQ) | 2:26 | 2019-09-14 | 2019-10-10 |
 | [101 FM](https://open.spotify.com/track/4Vk4Yf7pDmB1dxLFSTjBUH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:11 | 2019-07-30 | 2019-12-06 |
 | [10:51 PM / THE NIGHT](https://open.spotify.com/track/0Td5MtSRol91AgTFLopJ4n) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Berwyn](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [10:51 PM / THE NIGHT](https://open.spotify.com/album/2tVPcwN8zXarQbNXZ25kNB) | 3:22 | 2020-01-30 | 2020-04-04 |
+| [1491](https://open.spotify.com/track/3HToRpmkcdb6SwGqiXP1qu) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Song of Sage: Post Panic!](https://open.spotify.com/album/7fdZwTbIUUVJ6Efrma3xlC) | 2:34 | 2021-01-06 |  |
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2020-10-30 |  |
 | [2](https://open.spotify.com/track/4wQ8fEI8BJyKD2V3So5yl0) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Byulah](https://open.spotify.com/artist/17xhgheZKJQeMckOeYNJ59) | [2](https://open.spotify.com/album/7tRaWMnZWGPNcZuzxpH4Fd) | 3:37 | 2020-06-12 | 2020-09-18 |
 | [222](https://open.spotify.com/track/14ZwvLVGx0lDzoCvxfzqAD) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Weight of the World](https://open.spotify.com/album/2J0V3CVhA3EdFplLYvNMrr) | 1:35 | 2020-06-29 | 2020-09-18 |
@@ -206,6 +207,7 @@
 | [Dear April (Side A - Acoustic)](https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Dear April (Side A - Acoustic)](https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd) | 3:51 | 2020-04-04 | 2020-08-07 |
 | [Debold](https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 2:43 | 2019-11-08 | 2020-02-21 |
 | [Decide](https://open.spotify.com/track/02lKe7OF80iSFAicx70AJr) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Decide](https://open.spotify.com/album/3RovfS06CsdDKGzT34Pusi) | 2:58 | 2019-12-05 | 2020-02-21 |
+| [Delete Forever - Channel Tres Remix](https://open.spotify.com/track/1axJ3uSyqXEeQgwaN9sgGK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Miss Anthropocene (Rave Edition)](https://open.spotify.com/album/7rhiEqTIsswhakIAfpq2tr) | 3:01 | 2021-01-06 |  |
 | [Delete Forever](https://open.spotify.com/track/3I399Xpg21DElMuEhkTeK8) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OUmlyyZVfHCVQnHLA4mU9) | 3:57 | 2020-02-13 | 2020-04-04 |
 | [Delete Forever](https://open.spotify.com/track/6pBaH4u4WIFDxzwDaazekR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene (Deluxe Edition)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 3:57 | 2020-07-18 | 2020-08-27 |
 | [DEMONS](https://open.spotify.com/track/0axytamcq1Gd4qZD5xlDR9) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [DEMONS](https://open.spotify.com/album/1IG9vpowLigm4W9jbdeXbH) | 3:01 | 2020-04-04 | 2020-07-10 |
@@ -368,6 +370,7 @@
 | [home with you](https://open.spotify.com/track/1lofsKXY29reyN9j0doHFF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/3nLiYcMpeEOKzb5TzQcJer) | 3:44 | 2019-10-10 | 2019-12-13 |
 | [Honey](https://open.spotify.com/track/2ipbVg9oVEJ6VJMOAwZOVG) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Condition](https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4) | 4:34 | 2020-12-18 |  |
 | [hot tub DREAM Machine](https://open.spotify.com/track/1SWg0LGSxwbD3pyLfW0z5H) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [hot tub DREAM Machine](https://open.spotify.com/album/76OBrYBthRmhBL6CUgwAm1) | 3:25 | 2020-02-21 | 2020-06-29 |
+| [how 2 find hope](https://open.spotify.com/track/6I9LI8msrwLe1OmbgknuKk) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [how 2 find hope](https://open.spotify.com/album/6uvN3RUx0RJC16HbLzWIZ4) | 2:29 | 2021-01-06 |  |
 | [How can I](https://open.spotify.com/track/1LaVsNaPxK9Tsp8GoTeWsO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/4yOItDLVCDlzfvAASsmOPv) | 2:32 | 2020-06-10 | 2020-08-27 |
 | [How TF](https://open.spotify.com/track/3OKjt7tEwniRCq984dsx7f) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [How TF](https://open.spotify.com/album/4u7F9Zlbis1zjAcl3jbLbz) | 4:01 | 2020-04-12 | 2020-10-22 |
 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 | 2020-08-07 |  |
@@ -403,6 +406,7 @@
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-12 | 2020-10-03 |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2019-11-08 | 2020-07-18 |
 | [Infrastructure - ESTA. Remix](https://open.spotify.com/track/3UpEhvJ3SO0kuTaa8cGbsG) | [St. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Infrastructure (ESTA. Remix)](https://open.spotify.com/album/7iVKEG9mm9jfMCRldZY3TZ) | 3:14 | 2020-12-11 |  |
+| [Infrunami](https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:58 | 2021-01-06 |  |
 | [Inhale](https://open.spotify.com/track/4ptJnPKDD6S038BlYss3Tf) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Inhale](https://open.spotify.com/album/5n8vnVCFsIi8XYNSZpvyd6) | 2:54 | 2020-09-04 | 2020-12-04 |
 | [Inner World](https://open.spotify.com/track/2sSXUCN0uBiRiTMll0A4kb) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Inner World](https://open.spotify.com/album/3L9dLBaG3Je2Besvi6Kc2G) | 2:22 | 2020-06-12 | 2020-08-13 |
 | [INNERSTATE](https://open.spotify.com/track/5yQK2KygOPaDjgFutqlqRv) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [INNERSTATE](https://open.spotify.com/album/7jzanC9sMrpKkXbGzQDe6R) | 2:42 | 2020-04-24 | 2020-10-03 |
@@ -483,6 +487,7 @@
 | [Matando](https://open.spotify.com/track/7k7vlfNo7gD2tP6UxJrG47) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/00hYcSKigzR016vKD63ysl) | 3:35 | 2019-11-16 | 2020-02-07 |
 | [Maybe](https://open.spotify.com/track/1k6SUkKKBsBXX1HpyOy2IF) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Maybe](https://open.spotify.com/album/2ryE4QhwFeVvk66VfRaRb5) | 3:06 | 2020-07-02 |  |
 | [Maybe in the Summer](https://open.spotify.com/track/1cKZOJMYyQMXKOwrNqHd09) | [SASSY 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Maybe in the Summer](https://open.spotify.com/album/0cbiCRoiHmzJq5Z7Et5uqZ) | 3:20 | 2019-10-10 | 2019-11-02 |
+| [MAZZA (feat. A$AP Rocky)](https://open.spotify.com/track/5f7MdwR02i1Lxy9TLi80SA) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MAZZA (feat. A$AP Rocky)](https://open.spotify.com/album/5fAID5buWAhtqIdpVDwvar) | 2:51 | 2021-01-06 |  |
 | [Me You - Edit](https://open.spotify.com/track/5QSAUU3L3OCBi8ZqAewjh5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Me You](https://open.spotify.com/album/5bQmOg1COMVljCtCyj9Oi6) | 4:17 | 2020-01-10 | 2020-04-02 |
 | [Memphis](https://open.spotify.com/track/7kfl2DwtW29sYrUGRH5B2Y) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Halfway Off the Porch](https://open.spotify.com/album/0rxJoRb4tLBGa9wWofIf7n) | 3:20 | 2020-03-25 | 2020-08-27 |
 | [Michael What TF](https://open.spotify.com/track/4WBVbltx3dWKBKB646nPmu) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Is He Real?](https://open.spotify.com/album/2JnOb2SpW5DSOHhbW6GKru) | 2:35 | 2019-09-06 | 2019-11-02 |
@@ -666,6 +671,7 @@
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30 | 2019-10-10 |
 | [Sore Throat](https://open.spotify.com/track/0RIytgkROdfZLR87vkquo8) | [zack villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Sore Throat](https://open.spotify.com/album/3LVfHCrY81FRJBhgj8At35) | 2:01 | 2019-10-23 | 2020-02-07 |
 | [Sorry Mama](https://open.spotify.com/track/1K65lGxDKiZmKTQ48u5kQG) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sorry Mama](https://open.spotify.com/album/37NhQ71TX9OTFdQx6hEYNe) | 2:00 | 2020-04-18 | 2020-04-28 |
+| [Sourire](https://open.spotify.com/track/24Q2nwsloFtqjR8ZTDVT5X) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Coast / Sourire](https://open.spotify.com/album/2SnmC5gl0h5jjP1TzzVp09) | 3:43 | 2021-01-06 |  |
 | [Southside Fade](https://open.spotify.com/track/2NlegEcb8J6Db5uvP7nUpl) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Southside Fade](https://open.spotify.com/album/61xfjd0zdBfXWx3DUfSnZm) | 1:51 | 2020-08-30 |  |
 | [Speedy Racerrrr](https://open.spotify.com/track/2Zaw4Q8TE8txMX4kv02aIn) | [Nathan Bajar](https://open.spotify.com/artist/0daIfyaenO89T2oFsr2vqc) | [Playroom](https://open.spotify.com/album/5WJEkg1Vu7perRsmpYQ8Cq) | 2:49 | 2019-07-30 | 2019-08-23 |
 | [Spells](https://open.spotify.com/track/1heKNMt0Ab3YtgCfOIjXcv) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Spells](https://open.spotify.com/album/1Nouj90219KOnJLwYDMWFu) | 3:03 | 2020-12-04 |  |
