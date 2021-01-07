@@ -2,7 +2,7 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs. Cover: Tate McRae
+> Discover your favorite new chill pop songs. Cover: VANÈS
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear (The Complete Edition)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 | 2020-11-06 |  |
 | [Dear First Love,](https://open.spotify.com/track/6PowfeWOvFBlueUpvct3HI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dear First Love,](https://open.spotify.com/album/1YANDmdijaWWHMzhZVD5rX) | 3:16 | 2020-10-13 | 2020-10-29 |
 | [Deep Sea State of Mind](https://open.spotify.com/track/1ywFfnmZJ1TkPFIDbL1DWc) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Deep Sea State of Mind](https://open.spotify.com/album/3SoxKtewbWRMhhpF8MTZrZ) | 3:42 | 2020-10-13 | 2020-11-05 |
-| [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:52 | 2020-10-13 |  |
+| [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:52 | 2020-10-13 | 2021-01-07 |
 | [Different](https://open.spotify.com/track/4hcp6mbsSqGERbHf9PgBPM) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Different](https://open.spotify.com/album/7GWoKy2ZAgNkRTAfvWA32v) | 2:24 | 2020-10-30 |  |
 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 | 2020-10-23 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/3jHpysHZfu05A8NjzHCxjc) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/3QUvaJGV0GPdSTxjP5TjDH) | 3:26 | 2020-11-06 |  |
@@ -57,7 +57,7 @@
 | [Fall Apart Too](https://open.spotify.com/track/37xfKaOfU546kZdIcNX7SH) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Fall Apart Too](https://open.spotify.com/album/006qZKf89kSJRGg9XTPl04) | 2:18 | 2020-10-23 |  |
 | [Falling](https://open.spotify.com/track/4jeBx7Xm7zwmRx28Ysfevw) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Falling](https://open.spotify.com/album/2kydat46h5sbQtAR0gVV0M) | 2:50 | 2020-10-13 | 2020-10-29 |
 | [Feel Good](https://open.spotify.com/track/1aePioxX9EX1U6cYztAsbV) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Feel Good](https://open.spotify.com/album/5O30piLLkhKgiu2HcqcSKV) | 3:53 | 2020-10-13 | 2020-10-15 |
-| [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like (Deluxe)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 | 2020-10-13 |  |
+| [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like (Deluxe)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 | 2020-10-13 | 2021-01-07 |
 | [First in Line](https://open.spotify.com/track/1zeZTTQ1OXzNJOEeYJqMBP) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [First in Line](https://open.spotify.com/album/6DZD6qbnQCt0MjCv1eT5xM) | 2:37 | 2020-10-13 | 2020-10-16 |
 | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-13 | 2020-11-14 |
 | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools (can't help falling in love) (feat. Sody)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-21 |  |

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maren Morris, Corinne Bailey Rae, James Bay and more
+> With John Mayer, Ryan Hurd, Chelsea Cutler, Alexander 23 and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

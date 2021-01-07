@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, DJ Khaled, Drake, Demi Lovato and more
+> With Bruno Mars, Major Lazer, RAYE, Clean Bandit and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
