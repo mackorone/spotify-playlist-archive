@@ -1,4 +1,4 @@
 language: python
-python: "3.5"
-install: pip install requests
-script: python3 script.py --push
+python: "3.8"
+install: pip install -r requirements/requirements.txt
+script: python script.py --push
