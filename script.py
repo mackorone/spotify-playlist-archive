@@ -625,7 +625,7 @@ def push_updates(now):
 
 
 def main():
-    parser = argparse.ArgumentParser("Snapshot Spotify playlists")
+    parser = argparse.ArgumentParser(description="Snapshot Spotify playlists")
     parser.add_argument(
         "--push",
         help="Commit and push updated playlists",
