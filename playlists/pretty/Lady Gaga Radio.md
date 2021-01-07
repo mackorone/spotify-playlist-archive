@@ -2,7 +2,7 @@ pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Colby O'Donis, Britney Spears, Pitbull and more
+> With Jessie J, Rihanna, Nelly Furtado and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
