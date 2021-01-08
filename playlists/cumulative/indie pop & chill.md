@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: MIA GLADSTONE
+> it's a vibe (◡ ‿ ◡ ✿) cover: chemical club
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [DRUGS](https://open.spotify.com/track/0yruV4sUwyczq5cxMRRljU) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [DRUGS](https://open.spotify.com/album/0EomGnN4zv8AC2Zi7NL1bV) | 2:39 | 2020-11-03 | 2020-11-07 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-29 |  |
 | [Edgewood](https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Edgewood](https://open.spotify.com/album/4Ou2P6tgp9mVu6H0UtVt7w) | 3:40 | 2020-11-14 |  |
+| [Everything I Know](https://open.spotify.com/track/1vWjISlgaMob9cjPDK8P7I) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Everything I Know](https://open.spotify.com/album/0oZQvFm3gfmsBafjh2VLaI) | 2:44 | 2021-01-08 |  |
 | [Expired](https://open.spotify.com/track/3kOErXJ0N0GE14iPhvgCps) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Expired](https://open.spotify.com/album/2hx80Z6FiIYp7gRU3VmVFP) | 2:41 | 2020-12-07 |  |
 | [Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)](https://open.spotify.com/track/1eCTQhsNA31FcwyNcJcf86) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)](https://open.spotify.com/album/6TPB592COBp06IqFJVCrqb) | 2:36 | 2020-10-29 |  |
 | [Falling for U](https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/1XcWosLrZX4QBLJCkVR3dm) | 2:04 | 2020-10-29 |  |
