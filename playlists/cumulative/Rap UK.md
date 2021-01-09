@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The finest in UK rap. Cover: Digga D
+> The finest in UK rap. Cover: Unknown T
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [IC3 (feat. Skepta)](https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [IC3 (feat. Skepta)](https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB) | 3:51 | 2020-10-13 | 2020-11-13 |
 | [Impress Me](https://open.spotify.com/track/69kJCPbIsIlxwaq1aM8oEO) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Impress Me](https://open.spotify.com/album/4pZ5Ejici2DeuNI8uGpMYw) | 3:07 | 2020-05-22 | 2020-06-29 |
 | [Informa (feat. M1llionz)](https://open.spotify.com/track/7vzfjHm6m8olEhvQ3vAHqj) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 2:20 | 2020-11-13 |  |
+| [Invest](https://open.spotify.com/track/7u3NPlsAeN9h7BVxQzPlqO) | [Hazard (LDG)](https://open.spotify.com/artist/4nml39NC8oqEVPIgyTafjx) | [Invest](https://open.spotify.com/album/2ZOp3Nsd6cpOGhl5x6YKv6) | 2:41 | 2021-01-09 |  |
 | [It is What It Is](https://open.spotify.com/track/1Kplq4ufxVnwzuScKe2O8n) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Mukta vs Mukta](https://open.spotify.com/album/73Z5ccuSgue5fKMUgJpqx0) | 2:58 | 2020-07-25 | 2020-08-21 |
 | [It's A Shame](https://open.spotify.com/track/5YT8Rsm4cjSkKlAOaGRwop) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [It's A Shame](https://open.spotify.com/album/3xWVTmZgtv7DI3SQbumqef) | 2:50 | 2020-09-05 | 2020-09-18 |
 | [It's LIT](https://open.spotify.com/track/4zRmESPENKfcbtGxrCDNsq) | [BGody](https://open.spotify.com/artist/4CjlwinQyT99elEHV73zZf), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV), [Gully](https://open.spotify.com/artist/1xYVI9pSD1zVoJPx7ThoQW) | [It’s LIT](https://open.spotify.com/album/5wc9qet6vLeQpZ7IditcB2) | 4:18 | 2020-05-30 | 2020-06-29 |
