@@ -415,29 +415,29 @@ class Formatter:
 
 class URL:
 
-    BASE = (
-        "https://github.com/mackorone/spotify-playlist-archive/"
-        "blob/master/playlists/"
+    BASE = "/playlists"
+    HISTORY_BASE = (
+        "https://github.githistory.xyz/mackorone/spotify-playlist-archive/"
+        "blob/master/playlists"
     )
 
     @classmethod
     def plain_history(cls, playlist_id):
-        plain = cls.plain(playlist_id)
-        return plain.replace("github.com", "github.githistory.xyz")
+        return cls.HISTORY_BASE + "/plain/{}".format(playlist_id)
 
     @classmethod
     def plain(cls, playlist_id):
-        return cls.BASE + "plain/{}".format(playlist_id)
+        return cls.BASE + "/plain/{}".format(playlist_id)
 
     @classmethod
     def pretty(cls, playlist_name):
         sanitized = playlist_name.replace(" ", "%20")
-        return cls.BASE + "pretty/{}.md".format(sanitized)
+        return cls.BASE + "/pretty/{}.md".format(sanitized)
 
     @classmethod
     def cumulative(cls, playlist_name):
         sanitized = playlist_name.replace(" ", "%20")
-        return cls.BASE + "cumulative/{}.md".format(sanitized)
+        return cls.BASE + "/cumulative/{}.md".format(sanitized)
 
 
 def update_files(now):
