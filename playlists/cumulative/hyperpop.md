@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> cool video eric
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Spinnin](https://open.spotify.com/track/6EoDOq2mWiPhXUdFpqzjD5) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Legendary Member](https://open.spotify.com/album/7dnGhtPF3xZVGZHyg8xvKw) | 3:41 | 2020-12-11 | 2021-01-08 |
 | [stay next time](https://open.spotify.com/track/4BMECaPFVXa8raSOFd2G0s) | [closet](https://open.spotify.com/artist/4JdNYS9ABcOHqK708CsGmU) | [stay next time](https://open.spotify.com/album/44CoC2Xe2rH71TJTw2lxeb) | 1:40 | 2021-01-08 |  |
 | [sticks & stones](https://open.spotify.com/track/04B8G97SPc0u69V8ZJa4Ry) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [sticks & stones](https://open.spotify.com/album/2vrr38qde096yqBWReGGE1) | 1:54 | 2020-10-13 | 2020-10-16 |
+| [STRENGTH BONUS](https://open.spotify.com/track/0zxwa7iR72c5m1v7G1lU8j) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [STRENGTH BONUS](https://open.spotify.com/album/3lpORQP8qLgK5Y0rGQw4Da) | 2:15 | 2021-01-12 |  |
 | [Stuck Up](https://open.spotify.com/track/2PcGdvIzl8lXTwvP1oRcC8) | [kasper gem](https://open.spotify.com/artist/2Rn8McsCwkrCtBM7NK0ltb) | [Stuck Up](https://open.spotify.com/album/6jBMS4yqI7GFKL0AHUcIgd) | 3:07 | 2020-10-13 | 2020-12-09 |
 | [Sun](https://open.spotify.com/track/4NPgpBsAHQu906b6His5ew) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck](https://open.spotify.com/album/5Ptb745JTuc2YNBNwZGBHz) | 3:10 | 2020-12-11 | 2021-01-08 |
 | [SWEETSWEETSWEETLIKEBUBBLEGUM](https://open.spotify.com/track/01VLcMErDScLDOBT0NQ035) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [SWEETSWEETSWEETLIKEBUBBLEGUM](https://open.spotify.com/album/4jLlaQrvcOhzwQvHQcPBnT) | 2:21 | 2020-10-13 | 2020-12-11 |
