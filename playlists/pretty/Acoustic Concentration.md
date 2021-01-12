@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Acoustic%20Concentration.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcLDm348RRYK) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcLDm348RRYK))
+pretty - [cumulative](/playlists/cumulative/Acoustic%20Concentration.md) - [plain](/playlists/plain/37i9dQZF1DXcLDm348RRYK) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcLDm348RRYK))
 
 ### [Acoustic Concentration](https://open.spotify.com/playlist/37i9dQZF1DXcLDm348RRYK)
 

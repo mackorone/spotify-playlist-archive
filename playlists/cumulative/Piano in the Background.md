@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Piano%20in%20the%20Background.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1))
+[pretty](/playlists/pretty/Piano%20in%20the%20Background.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7K31D69s4M1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7K31D69s4M1))
 
 ### [Piano in the Background](https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1)
 

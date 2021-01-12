@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Morning%20Motivation.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXc5e2bJhV6pu) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXc5e2bJhV6pu))
+pretty - [cumulative](/playlists/cumulative/Morning%20Motivation.md) - [plain](/playlists/plain/37i9dQZF1DXc5e2bJhV6pu) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXc5e2bJhV6pu))
 
 ### [Morning Motivation](https://open.spotify.com/playlist/37i9dQZF1DXc5e2bJhV6pu)
 

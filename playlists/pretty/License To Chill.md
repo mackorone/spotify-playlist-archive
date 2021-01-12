@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/License%20To%20Chill.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa9xHlDa5fc6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa9xHlDa5fc6))
+pretty - [cumulative](/playlists/cumulative/License%20To%20Chill.md) - [plain](/playlists/plain/37i9dQZF1DXa9xHlDa5fc6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa9xHlDa5fc6))
 
 ### [License To Chill](https://open.spotify.com/playlist/37i9dQZF1DXa9xHlDa5fc6)
 

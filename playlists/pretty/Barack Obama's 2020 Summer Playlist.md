@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Barack%20Obama's%202020%20Summer%20Playlist.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3xN6J0LCyVj8k1gVCguWRH))
+pretty - [cumulative](/playlists/cumulative/Barack%20Obama's%202020%20Summer%20Playlist.md) - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3xN6J0LCyVj8k1gVCguWRH))
 
 ### [Barack Obama's 2020 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 

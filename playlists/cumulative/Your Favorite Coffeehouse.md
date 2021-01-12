@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Your%20Favorite%20Coffeehouse.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6ziVCJnEm59) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6ziVCJnEm59))
+[pretty](/playlists/pretty/Your%20Favorite%20Coffeehouse.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ziVCJnEm59) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6ziVCJnEm59))
 
 ### [Your Favorite Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59)
 

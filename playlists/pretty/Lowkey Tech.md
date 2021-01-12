@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Lowkey%20Tech.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0r3x8OtiwEM) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0r3x8OtiwEM))
+pretty - [cumulative](/playlists/cumulative/Lowkey%20Tech.md) - [plain](/playlists/plain/37i9dQZF1DX0r3x8OtiwEM) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0r3x8OtiwEM))
 
 ### [Lowkey Tech](https://open.spotify.com/playlist/37i9dQZF1DX0r3x8OtiwEM)
 

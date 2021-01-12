@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Morning%20Workout%202020%20Hits.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EYxnpva8IlIgJ42z96zXH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EYxnpva8IlIgJ42z96zXH))
+pretty - [cumulative](/playlists/cumulative/Morning%20Workout%202020%20Hits.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EYxnpva8IlIgJ42z96zXH))
 
 ### [Morning Workout 2020 Hits](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 

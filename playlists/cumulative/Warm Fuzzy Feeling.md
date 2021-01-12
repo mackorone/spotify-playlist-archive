@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Warm%20Fuzzy%20Feeling.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5IDTimEWoTd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5IDTimEWoTd))
+[pretty](/playlists/pretty/Warm%20Fuzzy%20Feeling.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5IDTimEWoTd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5IDTimEWoTd))
 
 ### [Warm Fuzzy Feeling](https://open.spotify.com/playlist/37i9dQZF1DX5IDTimEWoTd)
 

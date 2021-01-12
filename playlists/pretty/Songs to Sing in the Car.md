@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Songs%20to%20Sing%20in%20the%20Car.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWMOmoXKqHTD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWMOmoXKqHTD))
+pretty - [cumulative](/playlists/cumulative/Songs%20to%20Sing%20in%20the%20Car.md) - [plain](/playlists/plain/37i9dQZF1DWWMOmoXKqHTD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWMOmoXKqHTD))
 
 ### [Songs to Sing in the Car](https://open.spotify.com/playlist/37i9dQZF1DWWMOmoXKqHTD)
 

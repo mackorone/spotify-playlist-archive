@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Bedroom%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcxvFzl58uP7) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcxvFzl58uP7))
+[pretty](/playlists/pretty/Bedroom%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcxvFzl58uP7) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcxvFzl58uP7))
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
@@ -168,7 +168,7 @@
 | [Life Inside](https://open.spotify.com/track/2tpA4UByrUKHRCaSiS0eno) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Life Inside](https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC) | 3:36 | 2020-05-02 |  |
 | [Like Nobody](https://open.spotify.com/track/5oHSpnSFDwT6tnKzvmnNrx) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [Like Nobody](https://open.spotify.com/album/4ZWpZxP9ZUbQ0vH9zpDnxh) | 2:52 | 2020-11-03 |  |
 | [Listen](https://open.spotify.com/track/0CIkEjigreAi3b1YCLBqzW) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Listen](https://open.spotify.com/album/48XJBOBdPzvV2zIZQsQjn7) | 2:30 | 2019-08-01 | 2020-06-02 |
-| [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2019-08-09 |  |
+| [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2019-08-09 | 2021-01-12 |
 | [Lonely Days](https://open.spotify.com/track/3qLqAlhe4WKDim35hYeSS9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Lonely Days](https://open.spotify.com/album/0fotwiIbirxfzOIqBguzg4) | 4:40 | 2019-07-30 | 2020-04-28 |
 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 | 2019-08-01 | 2020-06-01 |
 | [lost cause](https://open.spotify.com/track/0sQc1JN9FgzSStwnnqUD1z) | [Silver Sphere](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [lost cause](https://open.spotify.com/album/4tTCUInR5nPJxbwyHQ5OrR) | 3:07 | 2019-08-01 | 2019-08-10 |
@@ -282,6 +282,7 @@
 | [Unbothered](https://open.spotify.com/track/3PoKFnMD0zAVtQrkJ4e8XH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2B3NraIzKiBZXFTUhyxYfe) | 2:04 | 2019-07-31 | 2020-04-24 |
 | [UNFAIR](https://open.spotify.com/track/35ohdMj17ie2y5I8cTWzbt) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [UNFAIR](https://open.spotify.com/album/1fYjRRgUP0hpl4jgN8avC1) | 3:51 | 2019-10-11 | 2020-04-13 |
 | [Untitled](https://open.spotify.com/track/3cFG2erCQQVAejCoDiRncV) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Untitled](https://open.spotify.com/album/63ALKLsJZgpwXrBBx0G7sW) | 2:15 | 2019-07-31 | 2020-06-12 |
+| [UWU](https://open.spotify.com/track/4aTKyYeIzC0ask2ZJicjIJ) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [UWU](https://open.spotify.com/album/2y3j37VWgEukjKgmKthfG9) | 1:49 | 2021-01-12 |  |
 | [VEINS](https://open.spotify.com/track/0N4RLSyasWQqN9yDEguOyD) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [VEINS](https://open.spotify.com/album/6dO6bzbT2AzD97qW4Oqwvd) | 3:07 | 2019-08-28 | 2020-11-03 |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob Ogawa](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2019-07-30 | 2020-10-21 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 |  |

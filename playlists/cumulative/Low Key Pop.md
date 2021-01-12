@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Low%20Key%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx))
+[pretty](/playlists/pretty/Low%20Key%20Pop.md) - cumulative - [plain](/playlists/plain/3pxwKjnmDg4kwTc5nItYcx) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3pxwKjnmDg4kwTc5nItYcx))
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 

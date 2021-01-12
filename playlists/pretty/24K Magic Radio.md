@@ -1,8 +1,8 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
+pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kendrick Lamar, Rihanna, Quavo and more
+> With Bruno Mars, T.I., Cardi B, Ne-Yo and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

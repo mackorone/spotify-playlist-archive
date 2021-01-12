@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Indie%20Rock%20Road%20Trip.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUoqEG4WY6ce) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUoqEG4WY6ce))
+[pretty](/playlists/pretty/Indie%20Rock%20Road%20Trip.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUoqEG4WY6ce) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUoqEG4WY6ce))
 
 ### [Indie Rock Road Trip](https://open.spotify.com/playlist/37i9dQZF1DWUoqEG4WY6ce)
 

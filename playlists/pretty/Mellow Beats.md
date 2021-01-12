@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Mellow%20Beats.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ))
+pretty - [cumulative](/playlists/cumulative/Mellow%20Beats.md) - [plain](/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ))
 
 ### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ)
 

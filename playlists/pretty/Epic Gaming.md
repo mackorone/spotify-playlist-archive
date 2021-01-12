@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Epic%20Gaming.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8GjsySWIS1x) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8GjsySWIS1x))
+pretty - [cumulative](/playlists/cumulative/Epic%20Gaming.md) - [plain](/playlists/plain/37i9dQZF1DX8GjsySWIS1x) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8GjsySWIS1x))
 
 ### [Epic Gaming](https://open.spotify.com/playlist/37i9dQZF1DX8GjsySWIS1x)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Digster%20HITS%20-%20Best%20of%202013.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy))
+pretty - [cumulative](/playlists/cumulative/Digster%20HITS%20-%20Best%20of%202013.md) - [plain](/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6FzxUXXUk9bzWJ8d1NIGWy))
 
 ### [Digster HITS - Best of 2013](https://open.spotify.com/playlist/6FzxUXXUk9bzWJ8d1NIGWy)
 

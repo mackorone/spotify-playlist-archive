@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Good%20Vibes.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYBO1MoTDhZI) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYBO1MoTDhZI))
+pretty - [cumulative](/playlists/cumulative/Good%20Vibes.md) - [plain](/playlists/plain/37i9dQZF1DWYBO1MoTDhZI) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWYBO1MoTDhZI))
 
 ### [Good Vibes](https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI)
 

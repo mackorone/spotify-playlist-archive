@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Dance%20Party.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaXB8fQg7xif) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaXB8fQg7xif))
+pretty - [cumulative](/playlists/cumulative/Dance%20Party.md) - [plain](/playlists/plain/37i9dQZF1DXaXB8fQg7xif) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaXB8fQg7xif))
 
 ### [Dance Party](https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif)
 

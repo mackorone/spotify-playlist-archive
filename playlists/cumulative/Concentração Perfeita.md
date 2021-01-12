@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Concentração%20Perfeita.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1zM9gA91vC5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1zM9gA91vC5))
+[pretty](/playlists/pretty/Concentração%20Perfeita.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1zM9gA91vC5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1zM9gA91vC5))
 
 ### [Concentração Perfeita](https://open.spotify.com/playlist/37i9dQZF1DX1zM9gA91vC5)
 

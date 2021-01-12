@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/The%20Piano%20Bar.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVvXA824aCbn) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVvXA824aCbn))
+[pretty](/playlists/pretty/The%20Piano%20Bar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVvXA824aCbn) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVvXA824aCbn))
 
 ### [The Piano Bar](https://open.spotify.com/playlist/37i9dQZF1DWVvXA824aCbn)
 

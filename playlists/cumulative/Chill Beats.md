@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Chill%20Beats.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZa8CSUr0hCY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZa8CSUr0hCY))
+[pretty](/playlists/pretty/Chill%20Beats.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZa8CSUr0hCY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZa8CSUr0hCY))
 
 ### [Chill Beats](https://open.spotify.com/playlist/37i9dQZF1DWZa8CSUr0hCY)
 

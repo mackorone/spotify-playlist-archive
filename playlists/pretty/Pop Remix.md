@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Pop%20Remix.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcZDD7cfEKhW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcZDD7cfEKhW))
+pretty - [cumulative](/playlists/cumulative/Pop%20Remix.md) - [plain](/playlists/plain/37i9dQZF1DXcZDD7cfEKhW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcZDD7cfEKhW))
 
 ### [Pop Remix](https://open.spotify.com/playlist/37i9dQZF1DXcZDD7cfEKhW)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/This%20Is%20Grimes.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWY6vYEZez2Jm) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWY6vYEZez2Jm))
+pretty - [cumulative](/playlists/cumulative/This%20Is%20Grimes.md) - [plain](/playlists/plain/37i9dQZF1DWY6vYEZez2Jm) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWY6vYEZez2Jm))
 
 ### [This Is Grimes](https://open.spotify.com/playlist/37i9dQZF1DWY6vYEZez2Jm)
 

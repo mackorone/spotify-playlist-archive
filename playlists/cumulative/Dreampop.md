@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Dreampop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6uhsAfngvaD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6uhsAfngvaD))
+[pretty](/playlists/pretty/Dreampop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6uhsAfngvaD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6uhsAfngvaD))
 
 ### [Dreampop](https://open.spotify.com/playlist/37i9dQZF1DX6uhsAfngvaD)
 

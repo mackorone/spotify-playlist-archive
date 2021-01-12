@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Roots%20Revival.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9crXQ0wuuXE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9crXQ0wuuXE))
+[pretty](/playlists/pretty/Roots%20Revival.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9crXQ0wuuXE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9crXQ0wuuXE))
 
 ### [Roots Revival](https://open.spotify.com/playlist/37i9dQZF1DX9crXQ0wuuXE)
 

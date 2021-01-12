@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Lo-Fi%20Beats.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn))
+pretty - [cumulative](/playlists/cumulative/Lo-Fi%20Beats.md) - [plain](/playlists/plain/37i9dQZF1DWWQRwui0ExPn) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWQRwui0ExPn))
 
 ### [Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 

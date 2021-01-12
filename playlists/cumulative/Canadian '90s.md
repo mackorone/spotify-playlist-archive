@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Canadian%20'90s.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9NmM48Aqz3e) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9NmM48Aqz3e))
+[pretty](/playlists/pretty/Canadian%20'90s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmM48Aqz3e) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX9NmM48Aqz3e))
 
 ### [Canadian '90s](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
 

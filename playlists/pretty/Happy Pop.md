@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Happy%20Pop.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1H4LbvY4OJi) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1H4LbvY4OJi))
+pretty - [cumulative](/playlists/cumulative/Happy%20Pop.md) - [plain](/playlists/plain/37i9dQZF1DX1H4LbvY4OJi) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1H4LbvY4OJi))
 
 ### [Happy Pop](https://open.spotify.com/playlist/37i9dQZF1DX1H4LbvY4OJi)
 

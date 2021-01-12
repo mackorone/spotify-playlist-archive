@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Energy%20Boost.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz))
+[pretty](/playlists/pretty/Energy%20Boost.md) - cumulative - [plain](/playlists/plain/0Vjhah37el0Aq5yoRaujBz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0Vjhah37el0Aq5yoRaujBz))
 
 ### [Energy Boost](https://open.spotify.com/playlist/0Vjhah37el0Aq5yoRaujBz)
 

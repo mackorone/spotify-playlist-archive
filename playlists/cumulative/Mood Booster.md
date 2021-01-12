@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Mood%20Booster.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3rxVfibe1L0) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3rxVfibe1L0))
+[pretty](/playlists/pretty/Mood%20Booster.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3rxVfibe1L0) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3rxVfibe1L0))
 
 ### [Mood Booster](https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0)
 

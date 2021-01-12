@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Late%20Night%20Jazz.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4wta20PHgwo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4wta20PHgwo))
+pretty - [cumulative](/playlists/cumulative/Late%20Night%20Jazz.md) - [plain](/playlists/plain/37i9dQZF1DX4wta20PHgwo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4wta20PHgwo))
 
 ### [Late Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
 

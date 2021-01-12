@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Black%20Girl%20Magic.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ezQVslkJiT) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ezQVslkJiT))
+pretty - [cumulative](/playlists/cumulative/Black%20Girl%20Magic.md) - [plain](/playlists/plain/37i9dQZF1DX4ezQVslkJiT) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ezQVslkJiT))
 
 ### [Black Girl Magic](https://open.spotify.com/playlist/37i9dQZF1DX4ezQVslkJiT)
 

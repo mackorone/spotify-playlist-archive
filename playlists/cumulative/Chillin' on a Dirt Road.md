@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Chillin'%20on%20a%20Dirt%20Road.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW))
+[pretty](/playlists/pretty/Chillin'%20on%20a%20Dirt%20Road.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTkxQvqMy4WW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTkxQvqMy4WW))
 
 ### [Chillin' on a Dirt Road](https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW)
 

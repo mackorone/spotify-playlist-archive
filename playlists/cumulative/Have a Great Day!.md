@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Have%20a%20Great%20Day!.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75))
+[pretty](/playlists/pretty/Have%20a%20Great%20Day!.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7KNKjOK0o75) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7KNKjOK0o75))
 
 ### [Have a Great Day!](https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75)
 

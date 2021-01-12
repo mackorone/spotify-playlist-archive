@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Brain%20Food.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWXLeA8Omikj7) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWXLeA8Omikj7))
+pretty - [cumulative](/playlists/cumulative/Brain%20Food.md) - [plain](/playlists/plain/37i9dQZF1DWXLeA8Omikj7) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWXLeA8Omikj7))
 
 ### [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7)
 

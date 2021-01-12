@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Night%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbcP8BbYEQaO) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbcP8BbYEQaO))
+[pretty](/playlists/pretty/Night%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbcP8BbYEQaO) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbcP8BbYEQaO))
 
 ### [Night Pop](https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO)
 

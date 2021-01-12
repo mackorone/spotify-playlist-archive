@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Mega%20Hit%20Mix.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbYM3nMM0oPk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbYM3nMM0oPk))
+pretty - [cumulative](/playlists/cumulative/Mega%20Hit%20Mix.md) - [plain](/playlists/plain/37i9dQZF1DXbYM3nMM0oPk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbYM3nMM0oPk))
 
 ### [Mega Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk)
 

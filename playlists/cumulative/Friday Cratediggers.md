@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Friday%20Cratediggers.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa41CMuUARjl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa41CMuUARjl))
+[pretty](/playlists/pretty/Friday%20Cratediggers.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa41CMuUARjl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa41CMuUARjl))
 
 ### [Friday Cratediggers](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 

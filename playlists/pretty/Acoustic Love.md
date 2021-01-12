@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Acoustic%20Love.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSlwBojgQEcN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSlwBojgQEcN))
+pretty - [cumulative](/playlists/cumulative/Acoustic%20Love.md) - [plain](/playlists/plain/37i9dQZF1DWSlwBojgQEcN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSlwBojgQEcN))
 
 ### [Acoustic Love](https://open.spotify.com/playlist/37i9dQZF1DWSlwBojgQEcN)
 

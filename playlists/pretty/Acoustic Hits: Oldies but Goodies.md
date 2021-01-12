@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Acoustic%20Hits:%20Oldies%20but%20Goodies.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUH2AzNQzWua) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUH2AzNQzWua))
+pretty - [cumulative](/playlists/cumulative/Acoustic%20Hits:%20Oldies%20but%20Goodies.md) - [plain](/playlists/plain/37i9dQZF1DWUH2AzNQzWua) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUH2AzNQzWua))
 
 ### [Acoustic Hits: Oldies but Goodies](https://open.spotify.com/playlist/37i9dQZF1DWUH2AzNQzWua)
 

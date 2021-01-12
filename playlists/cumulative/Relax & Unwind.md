@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Relax%20&%20Unwind.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU0ScTcjJBdj) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU0ScTcjJBdj))
+[pretty](/playlists/pretty/Relax%20&%20Unwind.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU0ScTcjJBdj) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWU0ScTcjJBdj))
 
 ### [Relax & Unwind](https://open.spotify.com/playlist/37i9dQZF1DWU0ScTcjJBdj)
 

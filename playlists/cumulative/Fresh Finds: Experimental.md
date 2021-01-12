@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Fresh%20Finds:%20Experimental.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8C585qnMYHP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8C585qnMYHP))
+[pretty](/playlists/pretty/Fresh%20Finds:%20Experimental.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8C585qnMYHP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8C585qnMYHP))
 
 ### [Fresh Finds: Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 

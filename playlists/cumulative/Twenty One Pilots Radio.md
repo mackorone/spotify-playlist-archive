@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Twenty%20One%20Pilots%20Radio.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3nzuNdNvf20WDcbz0a3Prt) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3nzuNdNvf20WDcbz0a3Prt))
+[pretty](/playlists/pretty/Twenty%20One%20Pilots%20Radio.md) - cumulative - [plain](/playlists/plain/3nzuNdNvf20WDcbz0a3Prt) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3nzuNdNvf20WDcbz0a3Prt))
 
 ### [Twenty One Pilots Radio](https://open.spotify.com/playlist/3nzuNdNvf20WDcbz0a3Prt)
 

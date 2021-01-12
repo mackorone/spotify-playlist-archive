@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Not%20Quite%20Classical.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSw8liJZcPOI) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSw8liJZcPOI))
+pretty - [cumulative](/playlists/cumulative/Not%20Quite%20Classical.md) - [plain](/playlists/plain/37i9dQZF1DWSw8liJZcPOI) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSw8liJZcPOI))
 
 ### [Not Quite Classical](https://open.spotify.com/playlist/37i9dQZF1DWSw8liJZcPOI)
 

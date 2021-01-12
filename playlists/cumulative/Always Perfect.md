@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Always%20Perfect.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8ZxAQJCANsW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8ZxAQJCANsW))
+[pretty](/playlists/pretty/Always%20Perfect.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ZxAQJCANsW) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8ZxAQJCANsW))
 
 ### [Always Perfect](https://open.spotify.com/playlist/37i9dQZF1DX8ZxAQJCANsW)
 

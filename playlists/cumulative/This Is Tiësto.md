@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/This%20Is%20Tiësto.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1nSIVoqxfC0) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1nSIVoqxfC0))
+[pretty](/playlists/pretty/This%20Is%20Tiësto.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1nSIVoqxfC0) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1nSIVoqxfC0))
 
 ### [This Is Tiësto](https://open.spotify.com/playlist/37i9dQZF1DX1nSIVoqxfC0)
 

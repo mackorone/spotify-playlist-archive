@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Jazzy%20Romance.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd))
+pretty - [cumulative](/playlists/cumulative/Jazzy%20Romance.md) - [plain](/playlists/plain/37i9dQZF1DWTbzY5gOVvKd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTbzY5gOVvKd))
 
 ### [Jazzy Romance](https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd)
 

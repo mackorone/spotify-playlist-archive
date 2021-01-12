@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/All%20Out%2090s.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l))
+pretty - [cumulative](/playlists/cumulative/All%20Out%2090s.md) - [plain](/playlists/plain/37i9dQZF1DXbTxeAdrVG2l) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXbTxeAdrVG2l))
 
 ### [All Out 90s](https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l)
 

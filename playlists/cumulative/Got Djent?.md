@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Got%20Djent?.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6GRSnGELn7L) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6GRSnGELn7L))
+[pretty](/playlists/pretty/Got%20Djent?.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GRSnGELn7L) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6GRSnGELn7L))
 
 ### [Got Djent?](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L)
 

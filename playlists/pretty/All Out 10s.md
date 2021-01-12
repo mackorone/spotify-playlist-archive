@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/All%20Out%2010s.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP))
+pretty - [cumulative](/playlists/cumulative/All%20Out%2010s.md) - [plain](/playlists/plain/37i9dQZF1DX5Ejj0EkURtP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5Ejj0EkURtP))
 
 ### [All Out 10s](https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP)
 

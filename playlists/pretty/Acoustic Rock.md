@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Acoustic%20Rock.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0rCrO4CFRfM) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0rCrO4CFRfM))
+pretty - [cumulative](/playlists/cumulative/Acoustic%20Rock.md) - [plain](/playlists/plain/37i9dQZF1DX0rCrO4CFRfM) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0rCrO4CFRfM))
 
 ### [Acoustic Rock](https://open.spotify.com/playlist/37i9dQZF1DX0rCrO4CFRfM)
 

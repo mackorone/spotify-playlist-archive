@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Middle%20Kids%20-%20Complete%20Collection.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/51txLi0Z6JdRmHNK98HitZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/51txLi0Z6JdRmHNK98HitZ))
+pretty - [cumulative](/playlists/cumulative/Middle%20Kids%20-%20Complete%20Collection.md) - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/51txLi0Z6JdRmHNK98HitZ))
 
 ### [Middle Kids - Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 

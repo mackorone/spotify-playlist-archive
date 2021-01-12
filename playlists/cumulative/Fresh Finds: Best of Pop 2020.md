@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Fresh%20Finds:%20Best%20of%20Pop%202020.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
+[pretty](/playlists/pretty/Fresh%20Finds:%20Best%20of%20Pop%202020.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
 
 ### [Fresh Finds: Best of Pop 2020](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 

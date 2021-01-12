@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Techno%20Bunker.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6J5NfMJS675) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6J5NfMJS675))
+[pretty](/playlists/pretty/Techno%20Bunker.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6J5NfMJS675) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6J5NfMJS675))
 
 ### [Techno Bunker](https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675)
 

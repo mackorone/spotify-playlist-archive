@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Heart%20Beats.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSRc3WJklgBs) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSRc3WJklgBs))
+pretty - [cumulative](/playlists/cumulative/Heart%20Beats.md) - [plain](/playlists/plain/37i9dQZF1DWSRc3WJklgBs) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWSRc3WJklgBs))
 
 ### [Heart Beats](https://open.spotify.com/playlist/37i9dQZF1DWSRc3WJklgBs)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Beast%20Mode.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP))
+pretty - [cumulative](/playlists/cumulative/Beast%20Mode.md) - [plain](/playlists/plain/37i9dQZF1DX76Wlfdnj7AP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX76Wlfdnj7AP))
 
 ### [Beast Mode](https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP)
 

@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Apply%20Yourself.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXe1cC3XInKct) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXe1cC3XInKct))
+[pretty](/playlists/pretty/Apply%20Yourself.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe1cC3XInKct) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXe1cC3XInKct))
 
 ### [Apply Yourself](https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct)
 

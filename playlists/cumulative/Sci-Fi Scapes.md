@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Sci-Fi%20Scapes.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ZEXyWinp6f) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ZEXyWinp6f))
+[pretty](/playlists/pretty/Sci-Fi%20Scapes.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ZEXyWinp6f) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4ZEXyWinp6f))
 
 ### [Sci-Fi Scapes](https://open.spotify.com/playlist/37i9dQZF1DX4ZEXyWinp6f)
 

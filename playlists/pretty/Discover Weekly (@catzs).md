@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Discover%20Weekly%20(@catzs).md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf))
+pretty - [cumulative](/playlists/cumulative/Discover%20Weekly%20(@catzs).md) - [plain](/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXcJR8Ys0NBejf))
 
 ### [Discover Weekly (@catzs)](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
 

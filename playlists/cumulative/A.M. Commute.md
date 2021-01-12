@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/A.M.%20Commute.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S))
+[pretty](/playlists/pretty/A.M.%20Commute.md) - cumulative - [plain](/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1UQo7foKwUUMjb9KnaBE3S))
 
 ### [A.M. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S)
 

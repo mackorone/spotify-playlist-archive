@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Butter.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVzZlRWgqAGH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVzZlRWgqAGH))
+pretty - [cumulative](/playlists/cumulative/Butter.md) - [plain](/playlists/plain/37i9dQZF1DWVzZlRWgqAGH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVzZlRWgqAGH))
 
 ### [Butter](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 

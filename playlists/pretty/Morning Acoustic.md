@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Morning%20Acoustic.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdd3gw5QVjt9) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdd3gw5QVjt9))
+pretty - [cumulative](/playlists/cumulative/Morning%20Acoustic.md) - [plain](/playlists/plain/37i9dQZF1DXdd3gw5QVjt9) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdd3gw5QVjt9))
 
 ### [Morning Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXdd3gw5QVjt9)
 

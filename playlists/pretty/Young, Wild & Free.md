@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Young,%20Wild%20&%20Free.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX843Qf4lrFtZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX843Qf4lrFtZ))
+pretty - [cumulative](/playlists/cumulative/Young,%20Wild%20&%20Free.md) - [plain](/playlists/plain/37i9dQZF1DX843Qf4lrFtZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX843Qf4lrFtZ))
 
 ### [Young, Wild & Free](https://open.spotify.com/playlist/37i9dQZF1DX843Qf4lrFtZ)
 

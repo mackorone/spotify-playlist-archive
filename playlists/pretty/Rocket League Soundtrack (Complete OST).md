@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Rocket%20League%20Soundtrack%20(Complete%20OST).md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw))
+pretty - [cumulative](/playlists/cumulative/Rocket%20League%20Soundtrack%20(Complete%20OST).md) - [plain](/playlists/plain/5jSM6lE56BKLKRiavRO4Aw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5jSM6lE56BKLKRiavRO4Aw))
 
 ### [Rocket League Soundtrack (Complete OST)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 

@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/All%20Out%2060s.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj))
+[pretty](/playlists/pretty/All%20Out%2060s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKIA8E7WcJj) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaKIA8E7WcJj))
 
 ### [All Out 60s](https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj)
 

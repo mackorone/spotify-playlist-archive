@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Binaural%20Beats:%20Focus.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG))
+pretty - [cumulative](/playlists/cumulative/Binaural%20Beats:%20Focus.md) - [plain](/playlists/plain/37i9dQZF1DX7EF8wVxBVhG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX7EF8wVxBVhG))
 
 ### [Binaural Beats: Focus](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
 

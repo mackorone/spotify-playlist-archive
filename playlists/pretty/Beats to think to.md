@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Beats%20to%20think%20to.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5))
+pretty - [cumulative](/playlists/cumulative/Beats%20to%20think%20to.md) - [plain](/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5))
 
 ### [Beats to think to](https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5)
 
