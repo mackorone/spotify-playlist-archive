@@ -124,7 +124,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Epic Gaming](/playlists/pretty/Epic%20Gaming.md)
 - [Feel Good Friday](/playlists/pretty/Feel%20Good%20Friday.md)
 - [Fresh & Chill](/playlists/pretty/Fresh%20&%20Chill.md)
-- [Fresh Finds: Best of Pop 2020](/playlists/pretty/Fresh%20Finds:%20Best%20of%20Pop%202020.md)
+- [Fresh Finds Pop](/playlists/pretty/Fresh%20Finds%20Pop.md)
 - [Fresh Finds: Experimental](/playlists/pretty/Fresh%20Finds:%20Experimental.md)
 - [Friday Cratediggers](/playlists/pretty/Friday%20Cratediggers.md)
 - [Girl Krush](/playlists/pretty/Girl%20Krush.md)
