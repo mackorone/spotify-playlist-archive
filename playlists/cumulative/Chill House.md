@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Addicted to You](https://open.spotify.com/track/7g6wU2kGtt2cwzyH5HWYB6) | [T. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Addicted to You](https://open.spotify.com/album/6Zqc8k6f22Zh3yEEwmKifP) | 2:52 | 2021-01-15 |  |
 | [Almost Love (feat. Dominic Neill)](https://open.spotify.com/track/5rqdZvpgQGp3d8zvlpkl6c) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Almost Love (feat. Dominic Neill)](https://open.spotify.com/album/11Qhu8bimVBjtbb6RXm0O9) | 2:14 | 2020-10-10 |  |
 | [Always There](https://open.spotify.com/track/3NaKHEV7SqwWzwO9Ojh3Nh) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Getaway](https://open.spotify.com/album/3rtizvqme6bcBjN5PuQnSE) | 5:08 | 2020-09-13 |  |
 | [Anyway Friday](https://open.spotify.com/track/7uyzEFBeQNkoHsl35NFMAv) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Voices](https://open.spotify.com/album/3ZHBMDCb4NrguIr1EaDwZK) | 3:33 | 2020-09-13 |  |
