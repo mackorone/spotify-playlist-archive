@@ -4,11 +4,15 @@ import argparse
 import base64
 import collections
 import datetime
+import logging
 import os
 import re
+import requests
 import subprocess
 
-import requests
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
+logger: logging.Logger = logging.getLogger(__name__)
 
 
 Playlist = collections.namedtuple(
@@ -464,12 +468,12 @@ def update_files(now):
     for playlist_id in os.listdir(aliases_dir):
         alias_path = "{}/{}".format(aliases_dir, playlist_id)
         if playlist_id not in playlist_ids:
-            print("Removing unused alias: {}".format(playlist_id))
+            logger.warning("Removing unused alias: {}".format(playlist_id))
             os.remove(alias_path)
             continue
         contents = open(alias_path).read().splitlines()
         if len(contents) != 1:
-            print("Removing malformed alias: {}".format(playlist_id))
+            logger.warning("Removing malformed alias: {}".format(playlist_id))
             os.remove(alias_path)
             continue
         aliases[playlist_id] = contents[0]
@@ -481,10 +485,10 @@ def update_files(now):
         try:
             playlist = spotify.get_playlist(playlist_id, aliases)
         except PrivatePlaylistError:
-            print("Removing private playlist: {}".format(playlist_id))
+            logger.warning("Removing private playlist: {}".format(playlist_id))
             os.remove(plain_path)
         except InvalidPlaylistError:
-            print("Removing invalid playlist: {}".format(playlist_id))
+            logger.warning("Removing invalid playlist: {}".format(playlist_id))
             os.remove(plain_path)
         else:
             readme_lines.append(
@@ -514,9 +518,9 @@ def update_files(now):
 
                 content = func(*args)
                 if content == prev_content:
-                    print("No changes to file: {}".format(path))
+                    logger.info("No changes to file: {}".format(path))
                 else:
-                    print("Writing updates to file: {}".format(path))
+                    logger.info("Writing updates to file: {}".format(path))
                     with open(path, "w") as f:
                         f.write(content)
 
@@ -553,13 +557,13 @@ def update_files(now):
 
 
 def run(args):
-    print("- Running: {}".format(args))
+    logger.info("- Running: {}".format(args))
     result = subprocess.run(
         args=args,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
     )
-    print("- Exited with: {}".format(result.returncode))
+    logger.info("- Exited with: {}".format(result.returncode))
     return result
 
 
@@ -568,10 +572,10 @@ def push_updates(now):
     has_changes = bool(diff.stdout)
 
     if not has_changes:
-        print("No changes, not pushing")
+        logger.info("No changes, not pushing")
         return
 
-    print("Configuring git")
+    logger.info("Configuring git")
 
     config = ["git", "config", "--global"]
     config_name = run(config + ["user.name", "Mack Ward (Bot Account)"])
@@ -582,13 +586,13 @@ def push_updates(now):
     if config_email.returncode != 0:
         raise Exception("Failed to configure email")
 
-    print("Staging changes")
+    logger.info("Staging changes")
 
     add = run(["git", "add", "-A"])
     if add.returncode != 0:
         raise Exception("Failed to stage changes")
 
-    print("Committing changes")
+    logger.info("Committing changes")
 
     build = os.getenv("TRAVIS_BUILD_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
@@ -597,17 +601,17 @@ def push_updates(now):
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
 
-    print("Rebasing onto master")
+    logger.info("Rebasing onto master")
     rebase = run(["git", "rebase", "HEAD", "master"])
     if commit.returncode != 0:
         raise Exception("Failed to rebase onto master")
 
-    print("Removing origin")
+    logger.info("Removing origin")
     remote_rm = run(["git", "remote", "rm", "origin"])
     if remote_rm.returncode != 0:
         raise Exception("Failed to remove origin")
 
-    print("Adding new origin")
+    logger.info("Adding new origin")
     # It's ok to print the token, Travis will hide it
     token = os.getenv("GITHUB_ACCESS_TOKEN")
     url = (
@@ -618,7 +622,7 @@ def push_updates(now):
     if remote_add.returncode != 0:
         raise Exception("Failed to add new origin")
 
-    print("Pushing changes")
+    logger.info("Pushing changes")
     push = run(["git", "push", "origin", "master"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
@@ -638,7 +642,7 @@ def main():
     if args.push:
         push_updates(now)
 
-    print("Done")
+    logger.info("Done")
 
 
 if __name__ == "__main__":
