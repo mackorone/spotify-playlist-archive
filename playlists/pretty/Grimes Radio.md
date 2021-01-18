@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Blood Orange, Oneohtrix Point Never, HANA and more
+> With Mitski, Poppy, FKA twigs and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
