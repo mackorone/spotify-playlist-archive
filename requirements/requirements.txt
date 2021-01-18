@@ -4,13 +4,21 @@
 #
 #    pip-compile requirements/requirements.in
 #
-certifi==2020.6.20
-    # via requests
-chardet==3.0.4
-    # via requests
-idna==2.10
-    # via requests
-requests==2.24.0
+aiohttp==3.7.3
     # via -r requirements/requirements.in
-urllib3==1.25.10
-    # via requests
+async-timeout==3.0.1
+    # via aiohttp
+attrs==20.3.0
+    # via aiohttp
+chardet==3.0.4
+    # via aiohttp
+idna==2.10
+    # via yarl
+multidict==5.1.0
+    # via
+    #   aiohttp
+    #   yarl
+typing-extensions==3.7.4.3
+    # via aiohttp
+yarl==1.6.3
+    # via aiohttp

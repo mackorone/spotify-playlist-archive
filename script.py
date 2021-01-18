@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 
+import aiohttp
 import argparse
+import asyncio
 import base64
 import collections
 import datetime
 import logging
 import os
 import re
-import requests
 import subprocess
 
 
@@ -58,39 +59,22 @@ class Spotify:
 
     BASE_URL = "https://api.spotify.com/v1/playlists/"
 
-    def __init__(self, client_id, client_secret):
-        self._token = self._get_access_token(client_id, client_secret)
+    def __init__(self, access_token):
+        headers = {"Authorization": f"Bearer {access_token}"}
+        self._session = aiohttp.ClientSession(headers=headers)
 
-    @classmethod
-    def _get_access_token(cls, client_id, client_secret):
-        joined = "{}:{}".format(client_id, client_secret)
-        encoded = base64.b64encode(joined.encode()).decode()
+    async def shutdown(self):
+        await self._session.close()
+        # Sleep to allow underlying connections to close
+        # https://docs.aiohttp.org/en/stable/client_advanced.html#graceful-shutdown
+        await asyncio.sleep(0)
 
-        response = requests.post(
-            "https://accounts.spotify.com/api/token",
-            data={"grant_type": "client_credentials"},
-            headers={"Authorization": "Basic {}".format(encoded)},
-        ).json()
-
-        error = response.get("error")
-        if error:
-            raise Exception("Failed to get access token: {}".format(error))
-
-        access_token = response.get("access_token")
-        if not access_token:
-            raise Exception("Invalid access token: {}".format(access_token))
-
-        token_type = response.get("token_type")
-        if token_type != "Bearer":
-            raise Exception("Invalid token type: {}".format(token_type))
-
-        return access_token
-
-    def get_playlist(self, playlist_id, aliases):
+    async def get_playlist(self, playlist_id, aliases):
         playlist_href = self._get_playlist_href(playlist_id)
-        response = self._make_request(playlist_href)
+        async with self._session.get(playlist_href) as response:
+            data = await response.json()
 
-        error = response.get("error")
+        error = data.get("error")
         if error:
             if error.get("status") == 401:
                 raise InvalidAccessTokenError
@@ -101,33 +85,34 @@ class Spotify:
             else:
                 raise Exception("Failed to get playlist: {}".format(error))
 
-        url = self._get_url(response["external_urls"])
+        url = self._get_url(data["external_urls"])
 
         # If the playlist has an alias, use it
         if playlist_id in aliases:
             name = aliases[playlist_id]
         else:
-            name = response["name"]
+            name = data["name"]
 
         # Playlist names can't have "/" so use "\" instead
         name = name.replace("/", "\\")
-        description = response["description"]
-        tracks = self._get_tracks(playlist_id)
+        description = data["description"]
+        tracks = await self._get_tracks(playlist_id)
 
         return Playlist(url=url, name=name, description=description, tracks=tracks)
 
-    def _get_tracks(self, playlist_id):
+    async def _get_tracks(self, playlist_id):
         tracks = []
         tracks_href = self._get_tracks_href(playlist_id)
 
         while tracks_href:
-            response = self._make_request(tracks_href)
+            async with self._session.get(tracks_href) as response:
+                data = await response.json()
 
-            error = response.get("error")
+            error = data.get("error")
             if error:
                 raise Exception("Failed to get tracks: {}".format(error))
 
-            for item in response["items"]:
+            for item in data["items"]:
                 track = item["track"]
                 if not track:
                     continue
@@ -161,7 +146,7 @@ class Spotify:
                     )
                 )
 
-            tracks_href = response["next"]
+            tracks_href = data["next"]
 
         return tracks
 
@@ -184,11 +169,32 @@ class Spotify:
         template = cls.BASE_URL + rest
         return template.format(playlist_id)
 
-    def _make_request(self, href):
-        return requests.get(
-            href,
-            headers={"Authorization": "Bearer {}".format(self._token)},
-        ).json()
+    @classmethod
+    async def get_access_token(cls, client_id, client_secret):
+        joined = "{}:{}".format(client_id, client_secret)
+        encoded = base64.b64encode(joined.encode()).decode()
+
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                "https://accounts.spotify.com/api/token",
+                data={"grant_type": "client_credentials"},
+                headers={"Authorization": "Basic {}".format(encoded)},
+            ) as response:
+                data = await response.json()
+
+        error = data.get("error")
+        if error:
+            raise Exception("Failed to get access token: {}".format(error))
+
+        access_token = data.get("access_token")
+        if not access_token:
+            raise Exception("Invalid access token: {}".format(access_token))
+
+        token_type = data.get("token_type")
+        if token_type != "Bearer":
+            raise Exception("Invalid token type: {}".format(token_type))
+
+        return access_token
 
 
 class Formatter:
@@ -444,11 +450,15 @@ class URL:
         return cls.BASE + "/cumulative/{}.md".format(sanitized)
 
 
-def update_files(now):
-    spotify = Spotify(
-        client_id=os.getenv("SPOTIFY_CLIENT_ID"),
-        client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
-    )
+async def update_files(now):
+    # Check nonempty to fail fast
+    client_id = os.getenv("SPOTIFY_CLIENT_ID")
+    client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
+    assert client_id and client_secret
+
+    # Initialize the Spotify client
+    access_token = await Spotify.get_access_token(client_id, client_secret)
+    spotify = Spotify(access_token)
 
     aliases_dir = "playlists/aliases"
     plain_dir = "playlists/plain"
@@ -483,7 +493,7 @@ def update_files(now):
         plain_path = "{}/{}".format(plain_dir, playlist_id)
 
         try:
-            playlist = spotify.get_playlist(playlist_id, aliases)
+            playlist = await spotify.get_playlist(playlist_id, aliases)
         except PrivatePlaylistError:
             logger.warning("Removing private playlist: {}".format(playlist_id))
             os.remove(plain_path)
@@ -554,6 +564,8 @@ def update_files(now):
     )
     with open("README.md", "w") as f:
         f.write("\n".join(lines) + "\n")
+
+    await spotify.shutdown()
 
 
 def run(args):
@@ -628,7 +640,7 @@ def push_updates(now):
         raise Exception("Failed to push changes")
 
 
-def main():
+async def main():
     parser = argparse.ArgumentParser(description="Snapshot Spotify playlists")
     parser.add_argument(
         "--push",
@@ -637,7 +649,7 @@ def main():
     )
     args = parser.parse_args()
     now = datetime.datetime.now()
-    update_files(now)
+    await update_files(now)
 
     if args.push:
         push_updates(now)
@@ -646,4 +658,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
