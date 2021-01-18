@@ -72,7 +72,7 @@ class Spotify:
     async def get_playlist(self, playlist_id, aliases):
         playlist_href = self._get_playlist_href(playlist_id)
         async with self._session.get(playlist_href) as response:
-            data = await response.json()
+            data = await response.json(content_type=None)
 
         error = data.get("error")
         if error:
