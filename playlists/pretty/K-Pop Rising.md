@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/K-Pop%20Rising.md) - [plain](/playli
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rosario (Feat. CL, ZICO)](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 (Part 1)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 |
+| 1 | [Rosario](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 (Part 1)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 |
 | 2 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR - The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 |
 | 3 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 |
 | 4 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 |
