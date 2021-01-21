@@ -106,7 +106,7 @@ class Spotify:
 
         while tracks_href:
             async with self._session.get(tracks_href) as response:
-                data = await response.json()
+                data = await response.json(content_type=None)
 
             error = data.get("error")
             if error:
