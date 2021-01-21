@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Healy adds some of his favorite tracks to the mix, plus more incred new music to kick off 2021 ⚃ ⚄ ⚅
+> Healy adds some of his fave tracks to the mix, + new music to kick off 2021 ⚃ ⚄ ⚅
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Don't Trust Me](https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:00 | 2020-01-10 |  |
 | [Don't You (Forget About Me) [Live from Abbey Road Studios, London]](https://open.spotify.com/track/6dQcnHgQ1lYNRTRnKWfKyq) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Spotify Singles](https://open.spotify.com/album/7KqYJ55pVihaD2m9TMj07U) | 3:59 | 2019-11-22 | 2019-12-04 |
 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2019-09-20 | 2020-07-29 |
+| [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-21 |  |
 | [DownTown](https://open.spotify.com/track/3dr9xQbzvcLMXGRES9wPuI) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [DownTown](https://open.spotify.com/album/0RfoyySV06N5QQhukS77kE) | 2:57 | 2020-08-14 | 2020-08-21 |
 | [Dream Girl](https://open.spotify.com/track/5o8MOv8SklXbuG1SBoVTW1) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/73EifYmZORyOCz1l48cGfi) | 2:31 | 2019-09-06 | 2019-11-14 |
 | [dream of you - Chloe Lilac edit](https://open.spotify.com/track/0fQA3n1yJRJPqtpGle2dTC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [the masquerade (the edits)](https://open.spotify.com/album/6U1IQja6VycSjIEvf7ERzY) | 3:55 | 2019-11-23 | 2020-01-10 |
@@ -468,6 +469,7 @@
 | [Low](https://open.spotify.com/track/4bEghJHwz3GaFtY9OY4Bnr) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Low](https://open.spotify.com/album/1Qcys5TrMsduwYSkV1D0xw) | 2:22 | 2020-12-18 |  |
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2020-04-20 | 2020-07-31 |
 | [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 | 2019-07-30 | 2019-08-27 |
+| [Lucy](https://open.spotify.com/track/0qqAx9YnwIEZ8y9OyTjZRc) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Lucy](https://open.spotify.com/album/16FvSGhewJJxkKi1Fy05oA) | 3:49 | 2021-01-21 |  |
 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 | 2019-07-30 | 2020-04-18 |
 | [MadHappySad](https://open.spotify.com/track/6xy2hBEpnojRUBupAhde7T) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [MadHappySad](https://open.spotify.com/album/6F8vrmq85tq11d980P2YBr) | 2:48 | 2020-05-22 | 2020-08-20 |
 | [makeup drawer](https://open.spotify.com/track/1xnUqreX9IFFBBpFfI6OBy) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [makeup drawer](https://open.spotify.com/album/5RKmUXywPYyVgoP8PeVbus) | 3:02 | 2020-02-20 | 2020-06-02 |
@@ -674,6 +676,7 @@
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 |  |
 | [Somebody Else](https://open.spotify.com/track/0yyz1ebvy6ye4bh41apO6D) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Somebody Else](https://open.spotify.com/album/72IJG5WNH2onZIf06yIVLf) | 4:24 | 2020-08-21 | 2020-09-17 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2019-07-30 | 2019-10-29 |
+| [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-21 |  |
 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 | 2020-01-14 | 2020-05-29 |
 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 | 2020-12-04 |  |
 | [Something Has to Change](https://open.spotify.com/track/7LuM3Sd4C9X7OC1VmS20lE) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Something Has to Change](https://open.spotify.com/album/5Bzl8KUmOrlQmbDYFDqjaV) | 3:11 | 2019-10-03 | 2020-02-20 |
