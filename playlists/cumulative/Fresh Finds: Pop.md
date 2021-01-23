@@ -1,6 +1,6 @@
-[pretty](/playlists/pretty/Fresh%20Finds%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
+[pretty](/playlists/pretty/Fresh%20Finds:%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
 
-### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
+### [Fresh Finds: Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
 > Fresh Pop releases from independent artists and labels every Wednesday. Cover: Jades Goudreault
 
