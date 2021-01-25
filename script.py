@@ -10,6 +10,7 @@ import logging
 import os
 import re
 import subprocess
+from contextlib import asynccontextmanager
 
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
@@ -62,6 +63,29 @@ class Spotify:
     def __init__(self, access_token):
         headers = {"Authorization": f"Bearer {access_token}"}
         self._session = aiohttp.ClientSession(headers=headers)
+        # Handle rate limiting by retrying
+        self._retry_budget_seconds: int = 30
+        self._session.get = self._make_retryable(self._session.get)
+
+    def _make_retryable(self, func):
+        @asynccontextmanager
+        async def wrapper(*args, **kwargs):
+            while True:
+                response = await func(*args, **kwargs)
+                if response.status != 429:
+                    yield response
+                    return
+                # Add an extra second, just to be safe
+                # https://stackoverflow.com/a/30557896/3176152
+                backoff_seconds = int(response.headers["Retry-After"]) + 1
+                self._retry_budget_seconds -= backoff_seconds
+                if self._retry_budget_seconds <= 0:
+                    raise Exception("Retry budget exceeded")
+                else:
+                    logger.warning(f"Rate limited, will retry after {backoff_seconds}s")
+                    await asyncio.sleep(backoff_seconds)
+
+        return wrapper
 
     async def shutdown(self):
         await self._session.close()
