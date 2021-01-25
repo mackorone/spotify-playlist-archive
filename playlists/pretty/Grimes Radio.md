@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Robert Smith, Kim Petras, FKA twigs and more
+> With Charli XCX, HEALTH, Allie X and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
