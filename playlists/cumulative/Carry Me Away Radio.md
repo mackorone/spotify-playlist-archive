@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Hozier, Maggie Rogers, Eric Clapton and more
+> With John Mayer, Gary Clark Jr., Ryan Hurd, Ben Rector and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
