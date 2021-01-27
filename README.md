@@ -114,6 +114,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Cyberpunk Synthwave](/playlists/pretty/Cyberpunk%20Synthwave.md)
 - [Dance Party](/playlists/pretty/Dance%20Party.md)
 - [Dance Rising](/playlists/pretty/Dance%20Rising.md)
+- [Date Night At Home](/playlists/pretty/Date%20Night%20At%20Home.md)
 - [Deep Focus](/playlists/pretty/Deep%20Focus.md)
 - [Digster HITS - Best of 2013](/playlists/pretty/Digster%20HITS%20-%20Best%20of%202013.md)
 - [Disco Forever](/playlists/pretty/Disco%20Forever.md)
