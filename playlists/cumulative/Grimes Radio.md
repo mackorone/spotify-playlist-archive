@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With St. Vincent, Lil Yachty, Weyes Blood and more
+> With Beach House, Charli XCX, i_o and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

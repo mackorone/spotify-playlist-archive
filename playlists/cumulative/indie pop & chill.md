@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: ELIO
+> it's a vibe (◡ ‿ ◡ ✿) cover: Verzache
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adore](https://open.spotify.com/track/2xsPmu7VITkIVcWelDuzfq) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Adore](https://open.spotify.com/album/0qnu0Rfhqw31Jw8FZg16KE) | 3:45 | 2020-10-29 | 2021-01-27 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2020-10-29 | 2020-11-03 |
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel - EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2020-10-29 | 2020-11-04 |
+| [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 |  |
 | [All My Friends Are Stoned](https://open.spotify.com/track/7BL33HmuFQien4olebugdj) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now - EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:39 | 2020-10-30 |  |
 | [All That We Didn't](https://open.spotify.com/track/5HaoB8kmGcrPwPqfFmgIuU) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending](https://open.spotify.com/album/5jlhviN6cMa1XgTNGrVd9Q) | 3:38 | 2020-10-29 | 2020-11-04 |
 | [All the Animals I Drew as a Kid](https://open.spotify.com/track/3u2jRaRg7kfD6D6LLEo1d9) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better (extended)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 4:04 | 2020-12-12 | 2021-01-27 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [pla
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, John Legend, Ben Rector, Dan + Shay and more
+> With John Mayer, The Head and the Heart, Rhys Lewis, Yoke Lore and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
