@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Morning%20Coffee%20-%20Wake%20Up.md)
 
 ### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd)
 
-> Let the coffee wake your body and the music wake your soul. Tune in - Turn On - Spread Love
+> 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

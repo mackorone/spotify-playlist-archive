@@ -2,7 +2,7 @@
 
 ### [Morning Coffee - Wake Up](https://open.spotify.com/playlist/3JBLiEySHqJWWGLw9VTxKd)
 
-> Let the coffee wake your body and the music wake your soul. Tune in - Turn On - Spread Love
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
