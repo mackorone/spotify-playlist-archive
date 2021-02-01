@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Bleu Clair
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Laxcity
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [2 Phút Hơn - KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn (KAIZ Remix)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2021-01-08 |  |
 | [24 Hours - Sofia Kourtesis Remix](https://open.spotify.com/track/0EYmTKwaNyOSmRcb6tYjfi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [24 Hours (Sofia Kourtesis Remix)](https://open.spotify.com/album/2dL9D2M3SR8LkHuDwjtMWQ) | 5:02 | 2020-10-16 | 2020-10-24 |
 | [6000 Ft.](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak / 6000 Ft.](https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt) | 5:36 | 2020-11-21 | 2021-01-15 |
+| [A Moment Apart](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:54 | 2021-02-01 |  |
 | [About You](https://open.spotify.com/track/0mSxHkAKB6JR8Y3IX20H3n) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [About You](https://open.spotify.com/album/0HcWnlnpzNK3zZsd7aEgpl) | 2:39 | 2020-12-05 |  |
 | [Actin' Fake (feat. Charlie Vox & Cinélu)](https://open.spotify.com/track/5VL2XTEiThJ4auCKBZ44R8) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Charlie Vox](https://open.spotify.com/artist/6qldUuwsqyoatsZNvX3FlY), [Cinélu](https://open.spotify.com/artist/6rlJBwDT8NkVev32YJFdPB) | [Actin' Fake (feat. Charlie Vox & Cinélu)](https://open.spotify.com/album/55g2golpjNKnY4OOoLReKw) | 3:37 | 2020-11-27 |  |
 | [Again - DLMT Remix](https://open.spotify.com/track/0O5dd0a3OoC5QhLwAcUSTn) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Again (DLMT Remix)](https://open.spotify.com/album/1gW2kaLLltSmt8m3wr1ltd) | 3:09 | 2020-11-27 | 2021-01-15 |
