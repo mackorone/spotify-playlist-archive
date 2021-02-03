@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Arlo Parks
+> Genre-less. Quality first always. Cover: Serena Isioma
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Peppers and Onions](https://open.spotify.com/track/3EXtXbj00nX9aCHDz1yEJF) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Peppers and Onions](https://open.spotify.com/album/5WNRHkelCodRwoo6zo77Ig) | 2:50 | 2020-11-19 |  |
 | [Photo ID](https://open.spotify.com/track/0fzE5LlGfQwJLvEiJ7UqUZ) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Photo ID](https://open.spotify.com/album/0KZ5EGfXX5w2T2HOIdOU5p) | 4:25 | 2020-05-01 | 2020-10-15 |
 | [Pikachu](https://open.spotify.com/track/60ABqMtWZFSWw1sxuzo8Pe) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Pikachu](https://open.spotify.com/album/7HxMRPZUJLHTy5wn8I8Zru) | 2:07 | 2020-05-01 | 2020-07-10 |
+| [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-02-03 |  |
 | [Pirouette](https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:57 | 2020-02-28 | 2020-10-15 |
 | [Play (feat. Lancey Foux)](https://open.spotify.com/track/36XDzzVTrpsQaYAZu6rpfC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Play (feat. Lancey Foux)](https://open.spotify.com/album/6oJxOr7hSyh0tW5dipkv2h) | 2:27 | 2020-12-11 |  |
 | [Playground](https://open.spotify.com/track/2fQNhjH4HIX5uGvY7Z6Oac) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Playground](https://open.spotify.com/album/6aV17muYs2vdioZLRfHOCP) | 3:33 | 2019-07-30 | 2019-08-01 |
