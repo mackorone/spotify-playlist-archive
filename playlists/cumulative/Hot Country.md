@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Chris Young & Kane Brown
+> Today's top country hits of the week, worldwide! Cover: Dan + Shay
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 | 2019-05-26 | 2019-11-09 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [GIVE HEAVEN SOME HELL](https://open.spotify.com/album/0GAm85q4EIBAVs27M5hh0J) | 3:37 | 2020-09-05 | 2020-11-22 |
 | [Giving You Up](https://open.spotify.com/track/6ymvTpjleCEqFFXZBghwKI) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/78JnUpxEE1rPwMn4GO4tXs) | 3:50 | 2019-11-02 | 2020-06-29 |
+| [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
 | [God Whispered Your Name](https://open.spotify.com/track/7Ce11Oh1kConF6UlkBWnaZ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [God Whispered Your Name](https://open.spotify.com/album/6AZ3VDmcFGG0rZfJPgUCVp) | 3:52 | 2020-02-28 | 2020-10-18 |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2019-05-26 | 2019-08-31 |
 | [Gold To Glitter](https://open.spotify.com/track/3cxO7LSsDe8gwqdzSTxdON) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Gold To Glitter](https://open.spotify.com/album/2ViuhDrDB4Ve9w0LbrGouV) | 3:50 | 2019-11-09 | 2020-01-26 |
@@ -269,6 +270,7 @@
 | [Second Guessing - From Songland](https://open.spotify.com/track/3TDJO3Vb1N4MXjYXYuAfAC) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Second Guessing (From Songland)](https://open.spotify.com/album/4Uh3V45HNJKNQdYsyW4Xci) | 3:06 | 2020-05-20 | 2020-06-14 |
 | [Seeing Other People](https://open.spotify.com/track/33PK3OdG3Z53gFYN7kiI3b) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Seeing Other People](https://open.spotify.com/album/3x1Q4Iq2LkxAuWlVm6QuIu) | 3:02 | 2020-03-14 | 2020-06-21 |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2020-11-10 |  |
+| [Shallow (The Duet with Garth Brooks and Trisha Yearwood)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow (The Duet with Garth Brooks and Trisha Yearwood)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-02-06 |  |
 | [She Got That](https://open.spotify.com/track/4iK2zz811mSOLZqLGgII16) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [DIRT BOY Vol. 1 - EP](https://open.spotify.com/album/3FfnhK5jhLZnjDD2IIbziR) | 2:37 | 2020-11-22 |  |
 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too (Deluxe Edition)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 | 2019-05-26 | 2019-07-06 |
 | [Silverado](https://open.spotify.com/track/6jLDMzaH9pMs3JkMyS7BIj) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Silverado](https://open.spotify.com/album/7vwchn12FS7dWuaQ8N9peU) | 3:23 | 2020-11-07 | 2020-11-22 |

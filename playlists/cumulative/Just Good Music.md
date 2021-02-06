@@ -2,7 +2,7 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists.  Cover: JP Saxe & Maren Morris
+> Ease into these recent hits and new songs from your favorite artists.  Cover: Sam Fischer & Demi Lovato
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 | 2020-06-29 | 2020-07-31 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-01-15 |  |
 | [Give It To You (from Songland)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You (from Songland)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2020-05-16 | 2020-08-07 |
+| [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2020-08-14 |  |
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2020-02-07 | 2020-05-22 |
 | [Good as Hell (feat. Ariana Grande) - Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell (feat. Ariana Grande) [Remix]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 | 2019-10-25 | 2020-01-10 |
@@ -398,6 +399,7 @@
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2019-08-23 | 2020-05-22 |
 | [What Do You Think Of?](https://open.spotify.com/track/4S5qPSkDocZakNYjzZjqZh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Getting Over Him](https://open.spotify.com/album/2m4CrEo9yZx4g0Kgz5uv2A) | 3:38 | 2020-09-04 | 2021-01-29 |
 | [What Makes A Woman](https://open.spotify.com/track/1tH2L4hkZU7IMJbreHFcMs) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [What Makes A Woman](https://open.spotify.com/album/6WwtlRrCrGP0u02Bf7p46T) | 2:11 | 2020-08-21 | 2020-09-18 |
+| [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-02-06 |  |
 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2020-07-18 | 2020-07-31 |
 | [Whatever Forever Is](https://open.spotify.com/track/1fNznqiu5d1wLezuTyy1UB) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [The Pink Slip EP](https://open.spotify.com/album/125iPOINAQO7FJ4GbyZ332) | 3:37 | 2021-01-15 |  |
 | [When I Hurt You](https://open.spotify.com/track/4ejCLvn0Z5FFMWR0yv5p6t) | [Lev](https://open.spotify.com/artist/4yJNWesVPxT8aoyMt4nlPi) | [When I Hurt You](https://open.spotify.com/album/3xMPMz5uwdgqPzKHP8Yl23) | 3:06 | 2020-10-30 |  |
