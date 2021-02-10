@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Boots.md) - [plain](/playlists
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bucket List](https://open.spotify.com/track/7D1iGhQakEW8oFCfWBlRek) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bucket List](https://open.spotify.com/album/0rpoSHdeRK75XyB8APLIAX) | 3:25 |
-| 2 | [Breakable](https://open.spotify.com/track/1RcCSGyHYHU7mamMrKP53j) | [Finmar](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Breakable](https://open.spotify.com/album/6KgeAiS0PRSPoPMvKJvPJ8) | 3:03 |
+| 2 | [Breakable](https://open.spotify.com/track/1RcCSGyHYHU7mamMrKP53j) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Breakable](https://open.spotify.com/album/6KgeAiS0PRSPoPMvKJvPJ8) | 3:03 |
 | 3 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
 | 4 | [Another](https://open.spotify.com/track/16ayXVtAftZYobyrNsZUQv) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another](https://open.spotify.com/album/34lbLOjW3ub1GbC6fW6bUh) | 3:08 |
 | 5 | [I Don't Know](https://open.spotify.com/track/2ZCga0YJgukbLWUfZ9HomB) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [I Don't Know](https://open.spotify.com/album/0Z9kTdJUcvnXDluRQbsyYl) | 3:03 |
