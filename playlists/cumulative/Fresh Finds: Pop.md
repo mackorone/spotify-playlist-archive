@@ -2,7 +2,7 @@
 
 ### [Fresh Finds: Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> Fresh Pop music by independent artists every Wednesday. Cover: Clubhouse. Artwork: <a href=“https://www.instagram.com/adriana_lozano_roman/”>Adriana Lozano</a>.
+> Fresh Pop music by independent artists every Wednesday. Cover: Clubhouse. Artwork: <a href='https://www.instagram.com/adriana_lozano_roman/'>Adriana Lozano</a>.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
