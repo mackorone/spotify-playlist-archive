@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: Ritt Momney
+> it's a vibe (◡ ‿ ◡ ✿) cover: GRAE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29 | 2020-11-11 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-03 | 2020-11-13 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse EP](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-13 |  |
+| [Guard Down](https://open.spotify.com/track/4Qx7ThsDRXzhxxAaSPLlI6) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Guard Down](https://open.spotify.com/album/5v6JyuSddGvPBgxxo04ljf) | 3:26 | 2021-02-12 |  |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-07 | 2020-11-14 |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-10-29 | 2021-01-27 |
 | [Hate Myself](https://open.spotify.com/track/015ROS1oTBabLaOLMzDF47) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hate Myself](https://open.spotify.com/album/78hIED00HB4E1zADJXIYUy) | 3:28 | 2021-01-16 |  |
@@ -167,7 +168,7 @@
 | [Pillow](https://open.spotify.com/track/5aPpXA1mW1aQ8DiWlMzq8E) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Pillow](https://open.spotify.com/album/02fvUtbnI7eQdAF7wNyM6X) | 2:53 | 2020-10-29 | 2021-01-23 |
 | [play this at my funeral](https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [us/faces](https://open.spotify.com/album/0NygY9X1KPjqhKUvPYyRGD) | 2:21 | 2020-12-19 | 2021-01-09 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-11-04 | 2021-02-06 |
-| [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-29 |  |
+| [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-29 | 2021-02-12 |
 | [Rager teenager!](https://open.spotify.com/track/0wiIuHFABKAtdRlzB4Vv6k) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rager teenager!](https://open.spotify.com/album/4l76L0MfUhTdV2VdRaRKj4) | 3:21 | 2020-10-29 |  |
 | [re:set](https://open.spotify.com/track/0tBQVOAtBpqdQK2ExkbHZX) | [50landing](https://open.spotify.com/artist/5aTRa02UP1y6PW5klZiTt0) | [re:set](https://open.spotify.com/album/1WErNXBlVncZsLHWkNxbTY) | 4:10 | 2020-11-07 | 2020-11-14 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-23 | 2021-02-06 |
@@ -179,6 +180,8 @@
 | [Sidelines](https://open.spotify.com/track/2O8GAg2e0odKtTlPklQZ07) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Sidelines](https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H) | 2:46 | 2021-02-06 |  |
 | [sofa surfer](https://open.spotify.com/track/3GNPTRT1M4W7h2XBeFDH5O) | [Cole Allen](https://open.spotify.com/artist/4vzT0FTZtEqaDWHSpdzGte) | [sofa surfer](https://open.spotify.com/album/2ZaWEyZbage6KSm7PoChC1) | 3:48 | 2021-01-09 | 2021-01-23 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-10-29 |  |
+| [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-12 |  |
+| [Solace](https://open.spotify.com/track/1sgbUhDNA9IcOPNfeIWJ7F) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Natural / Solace](https://open.spotify.com/album/0BoxbrgnyVYUzjx0HAmX78) | 4:02 | 2021-02-12 |  |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 |  |
 | [Someone Special](https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Someone Special](https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj) | 4:16 | 2020-10-29 | 2021-01-15 |
 | [Something You Like](https://open.spotify.com/track/0pcfBKS5NTjakHjwejtftq) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Something You Like](https://open.spotify.com/album/7HKOZnt0ZEtj384ccU3XI2) | 3:33 | 2020-10-29 | 2020-11-07 |
