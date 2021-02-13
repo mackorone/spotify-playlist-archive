@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ✨ ft. Blu DeTiger
+> Claud's album is heeeeere, plus Christian Leave, Syd, and more ✨ cover: Blu DeTiger
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [Picture Perfect](https://open.spotify.com/track/4PAaJhFkM25JSSkFcqjyxC) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Picture Perfect](https://open.spotify.com/album/4X3zGeBgtrv21QgWyeaPFm) | 3:07 | 2020-02-11 | 2020-05-05 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-08-25 | 2020-09-10 |
 | [Plans](https://open.spotify.com/track/21gFBttZdo6RJySWtwPbf5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Plans](https://open.spotify.com/album/4899tf9GNQcdopoBMs4RsW) | 3:11 | 2019-10-10 | 2020-01-17 |
-| [Plans](https://open.spotify.com/track/7JLWTXue6w1uDMMP4VOwGi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 3:11 | 2021-02-06 |  |
+| [Plans](https://open.spotify.com/track/7JLWTXue6w1uDMMP4VOwGi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 3:11 | 2021-02-06 | 2021-02-13 |
 | [play the part](https://open.spotify.com/track/3DiRnA7UDlUPrGDOF9Zb4u) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [play the part](https://open.spotify.com/album/0MqiRHUnLxKrXTTCF0ST7L) | 3:12 | 2019-07-30 | 2019-09-14 |
 | [Please Don't Go](https://open.spotify.com/track/3TQSSpByZmDl8ye6VzeRB4) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Please Don't Go](https://open.spotify.com/album/1hrH58cVsVHCEGgdiMnrA7) | 3:08 | 2020-04-03 | 2020-07-24 |
 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 | 2019-11-14 | 2020-02-05 |
