@@ -194,6 +194,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [POLLEN](/playlists/pretty/POLLEN.md)
 - [Pop Remix](/playlists/pretty/Pop%20Remix.md)
 - [Pop Rising](/playlists/pretty/Pop%20Rising.md)
+- [Pop Sauce](/playlists/pretty/Pop%20Sauce.md)
 - [Power Hour](/playlists/pretty/Power%20Hour.md)
 - [Rap UK](/playlists/pretty/Rap%20UK.md)
 - [RapCaviar](/playlists/pretty/RapCaviar.md)
