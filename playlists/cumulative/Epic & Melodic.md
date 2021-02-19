@@ -2,7 +2,7 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal, for the dragonslayer in you! Cover: Orden Ogan
+> Epic and melodic metal, for the dragonslayer in you! Cover: Sirenia
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Diggy Diggy Hole](https://open.spotify.com/track/2tj5IwADxakXFIoncvOPWL) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Diggy Diggy Hole](https://open.spotify.com/album/5N3iBc0nqrMo21zi9LeSjI) | 5:15 | 2020-11-29 |  |
 | [Dreams and Scars (feat. Renan Zonta)](https://open.spotify.com/track/08TRfTCbtHkrtZyLO8FvFq) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh), [Renan Zonta](https://open.spotify.com/artist/4sl2pZNGrdKIOoXsFoO4wl) | [Dreams and Scars (feat. Renan Zonta)](https://open.spotify.com/album/5pXmkGKt8YhAElNrJJDpvG) | 5:03 | 2020-11-29 |  |
 | [Drunken Dwarves](https://open.spotify.com/track/4qxK1lnNoYm1kevG69mhHU) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Wintersaga](https://open.spotify.com/album/41qphLDtonmyZmvO5gnoui) | 4:32 | 2020-11-29 |  |
+| [Falling](https://open.spotify.com/track/3zKFDfTcVmIJQ0Kfuqgfzl) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Falling](https://open.spotify.com/album/3UWBCocviw7iIxEVn10YL0) | 4:57 | 2021-02-19 |  |
 | [Fannybaws](https://open.spotify.com/track/36hc4eBjRD71wLPRu8EM6h) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Curse of the Crystal Coconut (Deluxe Version)](https://open.spotify.com/album/358YHRqslH5vpQET8b6wmb) | 4:14 | 2020-11-29 |  |
 | [Fantasy's Wings](https://open.spotify.com/track/5n4Ale9oujD3ZsfAM2NFG0) | [Ancient Bards](https://open.spotify.com/artist/3ZlSRBv3StWrGuGTAwKskP) | [Fantasy's Wings](https://open.spotify.com/album/5kKPRzB4yBekhxRbWaROKp) | 4:51 | 2020-11-29 |  |
 | [Forgotten Paths](https://open.spotify.com/track/1mDupi4yX9KQ3Wh6oSYqNP) | [Saor](https://open.spotify.com/artist/4rHMzJ1RKUMtid1K2QEYbr) | [Forgotten Paths](https://open.spotify.com/album/1QC5qcCYUjOlnCUP41Lq1O) | 11:04 | 2020-11-29 |  |
@@ -30,7 +31,7 @@
 | [Gloryhammer](https://open.spotify.com/track/4HA34COgxgVJ6zK88UN4Ik) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Gloryhammer](https://open.spotify.com/album/2HJFrpR304ZxZ4CPQK1ws2) | 5:00 | 2020-11-29 |  |
 | [Golden Dawn](https://open.spotify.com/track/6fHfS2jRIrP52heiBobADA) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT) | [Golden Dawn](https://open.spotify.com/album/6KJWWRCjTEK1vstCfJk2I7) | 4:40 | 2020-12-11 |  |
 | [Gunman](https://open.spotify.com/track/3Mz5lXbMBK2tUmKAwAJwi1) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Gunmen](https://open.spotify.com/album/4yyNmVBMtdAcCTo51u4hvz) | 5:17 | 2020-11-29 | 2021-02-12 |
-| [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 |  |
+| [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 | 2021-02-19 |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-11-29 |  |
 | [Hootsforce](https://open.spotify.com/track/5gJ1DNzFHwNFlEw1UltyFk) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 3:50 | 2020-11-29 |  |
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29 |  |
@@ -44,6 +45,7 @@
 | [Kiss of the Cobra King (New Version 2019)](https://open.spotify.com/track/3NEHXoiwQ3Les2vJ3QfiH4) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Kiss of the Cobra King (New Version 2019)](https://open.spotify.com/album/4VltaOJjOsLjwyf5D3hpTH) | 3:49 | 2020-11-29 |  |
 | [Leierkinder](https://open.spotify.com/track/3ImQFmi5ODojWONMe9S1mu) | [Nachtblut](https://open.spotify.com/artist/5B0OyK2i2akNMaYj3voQ3j) | [Leierkinder](https://open.spotify.com/album/4ULEzWkcdcKjenxTXmyhJc) | 4:00 | 2020-11-29 |  |
 | [Lempo](https://open.spotify.com/track/3WzAw4smXmAsSyXVEE09Qb) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Noita](https://open.spotify.com/album/0VjxxvMfRb10KB92WYbgqN) | 5:35 | 2020-11-29 |  |
+| [Let the Fire Rain](https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Let the Fire Rain](https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc) | 4:35 | 2021-02-19 |  |
 | [Leväluhta](https://open.spotify.com/track/7K5ySzyv9GGJcfNCt5SECJ) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Leväluhta](https://open.spotify.com/album/1zdumiD4KGbWRRyE3SPPeL) | 3:49 | 2020-11-29 | 2021-02-12 |
 | [Lightcrawler](https://open.spotify.com/track/3c75Oqo0wHwivF3Op9CJtu) | [Nothgard](https://open.spotify.com/artist/1PAbtuWk6jScTI9ImsDC8C) | [Lightcrawler](https://open.spotify.com/album/1YIZ5WjiSSJ9unh5JXWgYj) | 4:28 | 2020-11-29 |  |
 | [Live and Let Go](https://open.spotify.com/track/3OQo14KyU0g73UXSDwWGHd) | [Edenbridge](https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ) | [Live and Let Go](https://open.spotify.com/album/69oaxF365xH0f6GYc68pN3) | 4:30 | 2020-11-29 |  |
@@ -64,7 +66,8 @@
 | [No Prayer for the Dying](https://open.spotify.com/track/12oIW4aN054XQjRhXGNKAF) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [No Prayer for the Dying](https://open.spotify.com/album/5dtvJwLwCx0eSdCIFsrIs1) | 4:28 | 2020-11-29 |  |
 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 | 2020-11-29 |  |
 | [Northwest Passage](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Northwest Passage](https://open.spotify.com/album/7aKwMRfEricZ79KMU1kip9) | 4:35 | 2020-11-29 |  |
-| [Nostos](https://open.spotify.com/track/3W6Xik6Xxf06JuUoZSATlD) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU), [Minniva](https://open.spotify.com/artist/50KIyycosYOGrBHfLaI1Ju) | [Nostos](https://open.spotify.com/album/2ZNyqng4E2LUSI2iDA4o04) | 2:55 | 2020-11-29 |  |
+| [Nostos](https://open.spotify.com/track/3W6Xik6Xxf06JuUoZSATlD) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU), [Minniva](https://open.spotify.com/artist/50KIyycosYOGrBHfLaI1Ju) | [Nostos](https://open.spotify.com/album/2ZNyqng4E2LUSI2iDA4o04) | 2:55 | 2020-11-29 | 2021-02-19 |
+| [Omegacoustic](https://open.spotify.com/track/7yG5JmZcNMZzjkUbQWdrlz) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omegacoustic](https://open.spotify.com/album/4GxhRnVmjuRhSkrrU143tZ) | 4:29 | 2021-02-19 |  |
 | [One Folk](https://open.spotify.com/track/4XrS0iZ8T1epgvCcAFRtt1) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [One Folk](https://open.spotify.com/album/0xd69MXvkpCodo9Ph3nUi1) | 4:37 | 2020-11-29 |  |
 | [Ori Ori](https://open.spotify.com/track/50zutyhEg7FI8i0rMW9WZ9) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Ori Ori](https://open.spotify.com/album/73WHWl9AU5SKl6UlFVuib7) | 3:12 | 2020-11-29 |  |
 | [Peacekeepers](https://open.spotify.com/track/7pXR2dMRaCpxz5zOrE0lP9) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Peacekeepers](https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh) | 4:13 | 2020-11-29 |  |
@@ -83,7 +86,8 @@
 | [The Call of the Mountains](https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT), [Masha Scream](https://open.spotify.com/artist/0rKNwdazSGDxEvTaNNxu6X) | [The Call of the Mountains & Ambiramus in Russian](https://open.spotify.com/album/0ifBPqJ1ol8j1H0G8cjZPa) | 4:14 | 2020-11-29 |  |
 | [The Hawthorn](https://open.spotify.com/track/1Kyu2V8kxobYLdGHVrrmFU) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Hawthorn](https://open.spotify.com/album/0rhNvRLBxdsDYjrRotRsuW) | 4:59 | 2020-11-29 |  |
 | [The Land of Xia](https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg) | [Memories Of Old](https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS) | [The Land of Xia](https://open.spotify.com/album/3OeFbWpvoCLnVBaYT0lT90) | 6:00 | 2020-11-29 |  |
-| [The Return](https://open.spotify.com/track/6PFnze11f9ykaDJCL6zSFx) | [Mongol](https://open.spotify.com/artist/3LBx7vONslSdXt0mL2TNzv) | [The Return](https://open.spotify.com/album/775yCS5Clyy00sCXPQOYHK) | 4:25 | 2020-11-29 |  |
+| [The Return](https://open.spotify.com/track/6PFnze11f9ykaDJCL6zSFx) | [Mongol](https://open.spotify.com/artist/3LBx7vONslSdXt0mL2TNzv) | [The Return](https://open.spotify.com/album/775yCS5Clyy00sCXPQOYHK) | 4:25 | 2020-11-29 | 2021-02-19 |
+| [The Séance](https://open.spotify.com/track/49O37nbIIp7JsmI65OXDWD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Séance](https://open.spotify.com/album/5mSx3qsX7azaEwYaQ1RE5V) | 3:42 | 2021-02-19 |  |
 | [Treasure Chest Party Quest](https://open.spotify.com/track/0pymdruOKdQytDKNDyUjz8) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Treasure Chest Party Quest](https://open.spotify.com/album/2gRjQTJRBr8DAuMzoBQhyR) | 4:16 | 2020-11-29 |  |
 | [Tundra](https://open.spotify.com/track/6d6QnJU4MZ6RIwNMPnNx91) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Tundra](https://open.spotify.com/album/0tw2DkmxpU7eM2CvRMQ8qt) | 4:14 | 2020-11-29 | 2020-12-04 |
 | [Tuuleton](https://open.spotify.com/track/3UI7tU9Hw5HwhJ5Z9Xh2yu) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Jylhä](https://open.spotify.com/album/2gsQLMCZXvrq3Rlb4S424v) | 5:50 | 2021-02-12 |  |
@@ -94,4 +98,4 @@
 | [We Are Become Fire](https://open.spotify.com/track/7FMXTrpHqMDKVYtvC4lV5R) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [We Are Become Fire](https://open.spotify.com/album/3T4Zs6q5Ao26jNlDGtV0oF) | 4:24 | 2020-11-29 |  |
 | [Werewolves of Armenia - Rerecorded Version](https://open.spotify.com/track/7uV7feIzEHk0TS1xWw4zwU) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Werewolves of Armenia (New Version 2020)](https://open.spotify.com/album/0pcyE5m2GWpW8CsYv0BiMk) | 4:15 | 2020-11-29 |  |
 | [Where Your Rotting Corpse Lie (W.Y.R.C.L.)](https://open.spotify.com/track/4FwwRLbH09s1v0vJT782mg) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Dancing in Hell](https://open.spotify.com/album/0T4ce8P9dnNoA1Nud6Krbq) | 5:55 | 2020-11-29 |  |
-| [Yggdrasil](https://open.spotify.com/track/2gGveBaLJQMtJ43X4UL5kH) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Yggdrasil](https://open.spotify.com/album/2hRSrX3vNq4zgHOsQmGoH6) | 4:32 | 2020-11-29 |  |
+| [Yggdrasil](https://open.spotify.com/track/2gGveBaLJQMtJ43X4UL5kH) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Yggdrasil](https://open.spotify.com/album/2hRSrX3vNq4zgHOsQmGoH6) | 4:32 | 2020-11-29 | 2021-02-19 |

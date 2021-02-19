@@ -2,7 +2,7 @@
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Featuring Curtis Waters
+> Featuring new music by THE BLOSSOM
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Caught Up](https://open.spotify.com/track/2q6U5nhaGir7u5JdDlyBcE) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Caught Up](https://open.spotify.com/album/3wS0gOhNVeC22pYC7OlTSn) | 2:14 | 2020-10-13 |  |
 | [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 |  |
 | [church](https://open.spotify.com/track/2leLCJ5Gjm9gAgPbcz2frL) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [church / boston](https://open.spotify.com/album/40dtxhAkGMZcsaBoF7zAIU) | 2:35 | 2020-10-13 | 2020-11-03 |
-| [Ciao Bella](https://open.spotify.com/track/6LXSTkMwEG11CjuWvvM2UD) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Wünsch mir Glück](https://open.spotify.com/album/5Haha1eaYwWcKg2VgqPP9t) | 2:46 | 2021-02-13 |  |
+| [Ciao Bella](https://open.spotify.com/track/6LXSTkMwEG11CjuWvvM2UD) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Wünsch mir Glück](https://open.spotify.com/album/5Haha1eaYwWcKg2VgqPP9t) | 2:46 | 2021-02-13 | 2021-02-19 |
 | [Cigarettes On Patios (with 24kGoldn) - Remix](https://open.spotify.com/track/2K2nfIHU02JUJtzLvUx0ju) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Cigarettes On Patios (Remix)](https://open.spotify.com/album/12riFXEWiuTVBpOBkkgAvD) | 3:26 | 2020-10-20 |  |
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2020-10-13 | 2020-10-16 |
 | [Circles](https://open.spotify.com/track/0IoKg9lAThGvbsrIxDZG08) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [What About Now - EP](https://open.spotify.com/album/3HwtxvL5vCqTmQdDNuEMm7) | 2:41 | 2020-11-03 |  |
@@ -78,6 +78,7 @@
 | [droptopbitch](https://open.spotify.com/track/33PdmlGJwPvo6PEtetTCDg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [american spirit](https://open.spotify.com/album/7GKhShhea2QLRQKTHzWTsn) | 2:14 | 2020-10-13 | 2020-11-03 |
 | [Drumdown Mambo (feat. Jasiah)](https://open.spotify.com/track/0ww5NVJt3quNKHp8Fn5wQK) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 1:39 | 2020-10-16 | 2021-02-13 |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13 |  |
+| [Everybody’s Gonna Love Somebody - Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody’s Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 | 2021-02-19 |  |
 | [FACEDOWN](https://open.spotify.com/track/7BBSPfuSgfIC4QNxGwv3To) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [FREERADICAL](https://open.spotify.com/album/16BKHt7X9RLsMWVzQdUheU) | 3:56 | 2020-10-13 | 2021-01-23 |
 | [FAF](https://open.spotify.com/track/70ig0TCWBDkxBBpx1C6cj5) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Wool](https://open.spotify.com/album/1WTHhcrE1GoGl28FM5FjT5) | 1:48 | 2020-10-13 | 2021-01-23 |
 | [Faith](https://open.spotify.com/track/3TdKiAVOFGhQ7ddYdCUhRA) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Faith* MIXTAPE](https://open.spotify.com/album/3dV5DFX67HxH4RoRn3Ft7F) | 2:38 | 2020-11-20 |  |
@@ -104,9 +105,11 @@
 | [GUIDO/MISS KARMA](https://open.spotify.com/track/3PdZ7ePXNA57Z03QbioxeR) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GUIDO/MISS KARMA](https://open.spotify.com/album/1Ihcf6gyegcMVab61gvVqZ) | 2:52 | 2020-12-11 |  |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2020-10-13 | 2020-11-03 |
 | [Halloween](https://open.spotify.com/track/6EPOKdXGMGI0Clx2P7afnC) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Halloween](https://open.spotify.com/album/5bP6MnAwsyaMh0bz1jNR3O) | 2:19 | 2020-10-13 | 2020-10-16 |
+| [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 |  |
 | [Head In The Clouds](https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Head In The Clouds](https://open.spotify.com/album/6V6rqC1c4zTWXa6MDYW56U) | 2:27 | 2020-10-13 |  |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-10-13 | 2021-01-23 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-10-13 |  |
+| [HEAVY METAL](https://open.spotify.com/track/35ZDgSGHRkV04aYdkP1VfI) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [HEAVY METAL](https://open.spotify.com/album/22M4UMtjicyvAs4fwX91AG) | 2:39 | 2021-02-19 |  |
 | [Helen](https://open.spotify.com/track/6J4gaubSjwTGrtCkXKs91T) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Helen](https://open.spotify.com/album/38SJkjc2r7EQGdBaTRCBu0) | 2:37 | 2020-10-13 | 2020-11-03 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-01-30 |  |
 | [Herringbone](https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Herringbone](https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI) | 2:44 | 2021-02-06 |  |

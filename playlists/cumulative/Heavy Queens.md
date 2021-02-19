@@ -2,7 +2,7 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women that like it loud & heavy. Cover: Within Temptation
+> A salute to all of the women that like it loud & heavy. Cover: Icon For Hire
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Breathe in Colours](https://open.spotify.com/track/33npA5AE7FE9Ut52ruIak8) | [Forever Still](https://open.spotify.com/artist/21h3ZMAgqVovSFIqUoP3jv) | [Breathe in Colours](https://open.spotify.com/album/1R3ADNbIPjTkXnE9d3Dm2z) | 4:29 | 2020-12-07 | 2021-02-06 |
 | [Brickwall](https://open.spotify.com/track/7aBYCpaludr9EVl2Nq9E9A) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Brickwall](https://open.spotify.com/album/37W5OEJhp0yaAw86aBGWWP) | 3:40 | 2020-12-07 | 2020-12-11 |
 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 | 2020-12-07 |  |
+| [Brittle](https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:28 | 2021-02-19 |  |
 | [Broken](https://open.spotify.com/track/0KpIAcKc7fhgZwr29Svk7t) | [Volturian](https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ) | [Broken](https://open.spotify.com/album/0KFP8PnNDxR1UHqRGfaztl) | 3:39 | 2020-12-07 |  |
 | [Burning Bridges](https://open.spotify.com/track/1fhdqCtbx5ZBmwyDgs5hQB) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Burning Bridges](https://open.spotify.com/album/7EK2E6RqmxSuYjVKaTn8T8) | 4:16 | 2020-12-07 |  |
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-12-07 |  |
@@ -55,6 +56,7 @@
 | [Ghost Chapter](https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Ghost Chapter](https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y) | 4:23 | 2020-12-07 |  |
 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07 |  |
 | [Gravity](https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Gravity](https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ) | 3:47 | 2020-12-11 |  |
+| [Grayscale](https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Grayscale](https://open.spotify.com/album/2nklray2e6vk84ASC20FsK) | 3:36 | 2021-02-19 |  |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-12-07 |  |
 | [Hideaway](https://open.spotify.com/track/4zyLx5JsozusMZSoqhJL5k) | [Tomorrow Is Lost](https://open.spotify.com/artist/5VwzQ26FbEmmGhOL4b69lw) | [Hideaway](https://open.spotify.com/album/0LVKEVt4AfnoDrx5KL2KKp) | 4:02 | 2020-12-07 |  |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2020-12-07 |  |
@@ -72,8 +74,9 @@
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07 | 2020-12-11 |
 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Lay All Your Love on Me](https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm) | 3:53 | 2020-12-07 |  |
-| [Layers of Time](https://open.spotify.com/track/29EAXbPh9fZdJEfl57TuqG) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Layers of Time](https://open.spotify.com/album/0AdzpqRGrWAkP8XcphMTW5) | 4:07 | 2020-12-07 |  |
+| [Layers of Time](https://open.spotify.com/track/29EAXbPh9fZdJEfl57TuqG) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Layers of Time](https://open.spotify.com/album/0AdzpqRGrWAkP8XcphMTW5) | 4:07 | 2020-12-07 | 2021-02-19 |
 | [Lift Me Up](https://open.spotify.com/track/6ZwpGvNNC9vEzqsrtdRyVk) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/0EaobWjAKwyRNMheJL0OMU) | 3:29 | 2020-12-07 |  |
+| [Listen to Someone](https://open.spotify.com/track/1NO9EWRJgGhiMRkPXuiB4D) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [When I Die, Will I Get Better?](https://open.spotify.com/album/1eo3ZZmqerj4vkR5VqDkGs) | 5:10 | 2021-02-19 |  |
 | [Masters Of Destiny](https://open.spotify.com/track/7DnrGaloG6hmLPrvePhH0L) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Masters Of Destiny](https://open.spotify.com/album/6FsDilyRf5xsIRMbtyqEfE) | 4:54 | 2020-12-07 | 2021-02-06 |
 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 | 2020-12-07 |  |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2020-12-07 |  |
@@ -92,7 +95,7 @@
 | [Reckless](https://open.spotify.com/track/7hEk5UTV73GwV9mjw8fBy8) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Reckless](https://open.spotify.com/album/0nd9VY90TYG8TuZpiU3boV) | 3:05 | 2020-12-07 |  |
 | [Rubicon](https://open.spotify.com/track/4Mu87wivf8gHElYbWYyHvd) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Rubicon](https://open.spotify.com/album/6z1oOyoX1swwbyRilFHR7g) | 4:38 | 2020-12-07 |  |
 | [Run](https://open.spotify.com/track/6QfO2eDPabPXJMhjc84Ie8) | [Ivy Crown](https://open.spotify.com/artist/0Ty4er900wlIfeKinucbBp) | [Run](https://open.spotify.com/album/54HNt5hFD2WXm3W2DkQKVb) | 3:42 | 2020-12-07 |  |
-| [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/5jxfh1iITHYXiqXEsLwvzK) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/album/1dcm1FvkHVbnqe82yMYMB5) | 3:01 | 2020-12-07 |  |
+| [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/5jxfh1iITHYXiqXEsLwvzK) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/album/1dcm1FvkHVbnqe82yMYMB5) | 3:01 | 2020-12-07 | 2021-02-19 |
 | [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07 |  |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07 |  |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07 |  |
@@ -104,7 +107,7 @@
 | [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2020-12-07 |  |
 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 | 2020-12-11 |  |
 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 | 2020-12-07 |  |
-| [Stormbringer](https://open.spotify.com/track/3J7aw9aV1xkwr3wbo7n4aQ) | [Pagan Fury](https://open.spotify.com/artist/6OPsyrpJLYcCZUEhWIEsep), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc) | [Stormbringer](https://open.spotify.com/album/2XDhBdEyeISVJnFQEwoFJx) | 3:09 | 2020-12-07 |  |
+| [Stormbringer](https://open.spotify.com/track/3J7aw9aV1xkwr3wbo7n4aQ) | [Pagan Fury](https://open.spotify.com/artist/6OPsyrpJLYcCZUEhWIEsep), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc) | [Stormbringer](https://open.spotify.com/album/2XDhBdEyeISVJnFQEwoFJx) | 3:09 | 2020-12-07 | 2021-02-19 |
 | [Strong](https://open.spotify.com/track/3FFjdo3CSKqeGx3nlN0WWv) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Strong](https://open.spotify.com/album/5wOeEqQPVbXisrwRKmxLBc) | 3:06 | 2020-12-07 |  |
 | [Survive](https://open.spotify.com/track/52NcH4UUTchFFVFSCTZd45) | [Fourth Circle](https://open.spotify.com/artist/0BwJ4rUxt1w8iIt2bCajCK) | [Worlds](https://open.spotify.com/album/2CuDTHaPofIqYTy2UZYkUR) | 4:10 | 2020-12-07 |  |
 | [Take Me There](https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Take Me There](https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj) | 3:41 | 2020-12-07 |  |
