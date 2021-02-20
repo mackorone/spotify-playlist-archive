@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop with Nessa Berrett and jxdn 
+> next gen pop with Nessa Barrett and jxdn
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
