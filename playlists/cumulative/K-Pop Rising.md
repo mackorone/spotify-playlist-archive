@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: Golden Child
+> New K-pop tracks all in one place. Cover: APOKI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Forever (약속)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever (약속)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 |  |
 | [G.B.T.B.](https://open.spotify.com/track/2snmVNiCZjld3lKI7BTQId) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE US](https://open.spotify.com/album/2lgJVzhHmVMV2ga4eDVGtx) | 3:04 | 2020-10-13 | 2021-01-11 |
 | [Garden In The Air](https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Our Beloved BoA #1 - SM STATION](https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc) | 3:17 | 2020-10-13 | 2020-11-11 |
+| [GET IT OUT](https://open.spotify.com/track/4OCwwHsLQ0tNzC0PzTi47I) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [GET IT OUT](https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk) | 3:37 | 2021-02-23 |  |
 | [Given-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2020-12-09 |  |
 | [Goblin (Favorite Boys)](https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:35 | 2020-10-13 | 2021-01-11 |
 | [GOTCHA](https://open.spotify.com/track/4mgkQnzI5XlVYgXoJGySwc) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [MESSAGE](https://open.spotify.com/album/3DNboyISLbyI3f5s6RHxDT) | 3:24 | 2020-11-05 |  |
@@ -143,6 +144,7 @@
 | [Summer day summer night](https://open.spotify.com/track/7C9JbPpqtVK1tjMbDQR5EE) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 2:59 | 2020-10-13 | 2020-11-05 |
 | [SUPADUPA](https://open.spotify.com/track/0rzOt0WKIC2JcMD06OHWsQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [PO~MYGIRL](https://open.spotify.com/album/5XsxSx1C8PSdv9ygcqtL6v) | 2:57 | 2020-10-13 | 2020-11-05 |
 | [Switch to me (duet with JYP)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me (duet with JYP)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2020-12-31 |  |
+| [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-02-23 |  |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR - The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2021-01-18 |  |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2020-10-13 | 2021-01-18 |
 | [The Melody](https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Melody](https://open.spotify.com/album/749XA133WWzUmG03OCSqFn) | 3:11 | 2020-11-07 |  |
