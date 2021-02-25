@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2020-10-29 |  |
+| [A-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2020-10-29 | 2021-02-25 |
 | [All The Time](https://open.spotify.com/track/40WXqoyOLAAugGmJWZU1FY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:54 | 2021-01-15 |  |
 | [All Yours](https://open.spotify.com/track/1LAzF3sa7k3QrOKtpCVgLJ) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2) | 3:42 | 2021-01-15 |  |
 | [Another Story](https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:34 | 2020-10-29 |  |
@@ -87,7 +87,7 @@
 | [New Slang](https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie) | 3:51 | 2021-01-15 |  |
 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 | 2020-10-29 |  |
 | [No Woman](https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 3:57 | 2021-01-15 |  |
-| [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 | 2020-10-29 | 2021-02-19 |
+| [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 | 2020-10-29 |  |
 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 | 2021-01-15 |  |
 | [O Valencia!](https://open.spotify.com/track/221bl0jrSfJ1LMgUw36zRJ) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The Crane Wife](https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp) | 3:47 | 2020-10-29 | 2021-01-15 |
 | [Old Man](https://open.spotify.com/track/6K9QPIt8AR422heY9O372w) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7) | 3:33 | 2020-10-29 |  |
