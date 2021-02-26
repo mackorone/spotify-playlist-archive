@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ✨ featuring Still Woozy
+> the loose knit sweater, diy bedroom mural wall, alt milk of playlists. ✨ featuring Still Woozy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-07-30 | 2020-10-20 |
 | [Disco Man](https://open.spotify.com/track/7GDjBYc8Q3li08dXaZcMB9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Disco Man](https://open.spotify.com/album/5IkAmFP38hsfWKA5Jv2XQ1) | 3:12 | 2020-05-28 | 2020-08-04 |
 | [Ditch](https://open.spotify.com/track/34b7J43bozWsfeo4sqEViN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/5iz5CAzEp8SumnBmlKdn7d) | 3:30 | 2019-09-24 | 2020-05-22 |
+| [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-02-26 |  |
 | [dnd](https://open.spotify.com/track/4kFHZepxfNcgnR5TzY2Eqx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 2:17 | 2020-11-20 |  |
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2020-06-19 | 2020-06-29 |
 | [Dog Eat](https://open.spotify.com/track/6kyNaZJgV2ngQA6c0mvt5y) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Dog Eat](https://open.spotify.com/album/4tp2NihDQ78g1BHJMxN3zW) | 2:47 | 2020-05-28 | 2020-08-20 |
@@ -442,6 +443,7 @@
 | [Joyride](https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Joyride](https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb) | 3:32 | 2019-07-30 | 2019-10-11 |
 | [July (feat. Leon Bridges)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July (feat. Leon Bridges)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2019-11-08 | 2020-04-28 |
 | [Junior Varsity](https://open.spotify.com/track/6H3vlGfkDO5M2WTDMNbdoI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:12 | 2020-01-10 | 2020-02-20 |
+| [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:56 | 2021-02-26 |  |
 | [Just The Same](https://open.spotify.com/track/3xPZKgZeIPb8vHa1UJH5Rz) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Just The Same](https://open.spotify.com/album/4ZgdrGE9KAeSz2V6HxDssx) | 3:31 | 2019-08-08 | 2019-09-27 |
 | [Kalmia Kid](https://open.spotify.com/track/6w3qUOipi7ir0f0VIsRYk4) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kalmia Kid](https://open.spotify.com/album/5tNXc449ptRyAl1TsT8ONX) | 3:59 | 2019-07-30 | 2019-11-14 |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-12 |  |
@@ -622,6 +624,7 @@
 | [party favor](https://open.spotify.com/track/5JqpiYu1HWojAWs2pxOV5W) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/07WV4Vf6503k6K1yGNWG8X) | 3:24 | 2020-05-12 | 2020-08-20 |
 | [Pastel Pink](https://open.spotify.com/track/3c6r6nNtFafOwLMuR2AyB5) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Pastel Pink](https://open.spotify.com/album/6wfGYKmQCCXUZpJXeoCVN6) | 3:18 | 2020-03-18 | 2020-05-07 |
 | [Patchwork](https://open.spotify.com/track/6ABwRRHXNYgy1nhRu91BeK) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Patchwork](https://open.spotify.com/album/2UvPF7NLFYZZhsnjuwhRwM) | 3:08 | 2019-11-16 | 2020-01-28 |
+| [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-02-26 |  |
 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 | 2019-07-30 | 2020-08-21 |
 | [Peach](https://open.spotify.com/track/4viCwpuK8BuoIkviESRBZV) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Peach](https://open.spotify.com/album/49dI3aZ6iLO6vXf8uJoFja) | 3:32 | 2020-08-14 | 2020-09-04 |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-04-07 |  |
