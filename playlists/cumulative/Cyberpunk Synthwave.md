@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0x460x340x310x2e0x32](https://open.spotify.com/track/354ihNMiT3K10nzg61H8Fp) | [Future Skylines](https://open.spotify.com/artist/0xgMfPueZ8SKl0TBdH21tE) | [0x460x340x310x2e0x32](https://open.spotify.com/album/6KgvN6cLKikPo3tf7kLzt6) | 8:22 | 2021-02-27 |  |
 | [1989](https://open.spotify.com/track/2hIsey47uB5pUORkLAA41j) | [Dreddd](https://open.spotify.com/artist/3gr5cpZs4bk4DLRVFLGFFr) | [Pain Deluxe](https://open.spotify.com/album/1x5LO0gd6FFwjgptNBeGiq) | 3:04 | 2020-12-15 |  |
 | [5000 Light-Years from Home](https://open.spotify.com/track/4ORl3Sl4sj8pQtOLIRy2q2) | [Depthcruiser](https://open.spotify.com/artist/0RwBgMzUdepUvLD3Q1Sqfm) | [Infinity and Beyond](https://open.spotify.com/album/6mQH2gvlkOO5zqjOjZ3fGx) | 4:34 | 2020-12-07 |  |
 | [6.24](https://open.spotify.com/track/6MLptqfOLeV8uwAqwXaZ1v) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [Furi (Original Game Soundtrack)](https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA) | 4:21 | 2020-12-07 |  |
@@ -261,7 +262,7 @@
 | [Synthax Terror](https://open.spotify.com/track/2cLVSYBcSVVVVoKdSaqKn0) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 4:21 | 2020-12-07 |  |
 | [Synthoid '81](https://open.spotify.com/track/16ccNPRKhxvJhFhaodnvR5) | [Fonz Tramontano](https://open.spotify.com/artist/7pFMgAdEZBmdhRZ4lVpbCJ) | [The Singles '81, '82](https://open.spotify.com/album/3OjNA6W8oEEFhM30AlxKs0) | 2:48 | 2020-12-07 |  |
 | [Targeted for Termination](https://open.spotify.com/track/2tAZFHkJeuV2V7lsyv8Jm2) | [Microchip Terror](https://open.spotify.com/artist/5lFrMLWakwjYbvXhULB45l) | [Microchip Terror](https://open.spotify.com/album/2G4ZtMyg4bNafxEA9MngAQ) | 4:47 | 2020-12-07 |  |
-| [Tawa](https://open.spotify.com/track/0qMYgnsRl3lfxXNH6NLxzL) | [Elay Arson](https://open.spotify.com/artist/0Cmf2B7byid4ECMNXDo9rv) | [Spirit | Death](https://open.spotify.com/album/7beTpBNSEwf32Smcbvfa9u) | 3:59 | 2021-02-26 |  |
+| [Tawa](https://open.spotify.com/track/0qMYgnsRl3lfxXNH6NLxzL) | [Elay Arson](https://open.spotify.com/artist/0Cmf2B7byid4ECMNXDo9rv) | [Spirit | Death](https://open.spotify.com/album/7beTpBNSEwf32Smcbvfa9u) | 3:59 | 2021-02-27 |  |
 | [Tears in the Rain](https://open.spotify.com/track/6bHjk4FudnJpUEz1PGs1YS) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 (Original Motion Picture Soundtrack)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 2:10 | 2020-12-07 |  |
 | [Technoir (feat. Noir Deco)](https://open.spotify.com/track/0Qrso3yXM7oHIMHwmNMepN) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Noir Deco](https://open.spotify.com/artist/3MOuN224Cyo0x6yYemdaJv) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 4:39 | 2020-12-07 |  |
 | [Teguchi](https://open.spotify.com/track/6cLbkJ4m0ONNIGLJib8VYX) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Artifact](https://open.spotify.com/album/2Ic5NKVcN4gjm2ZuH0sbsZ) | 4:16 | 2020-12-18 |  |
