@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Laxcity
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Logic1000
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Sinner - Mathame Remix](https://open.spotify.com/track/0BfWS2LBGYDfMIRKitzbLn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Sinner (Mathame Remix)](https://open.spotify.com/album/3unBhjtaFcdwYVvey4MziU) | 6:44 | 2020-10-13 | 2020-11-21 |
 | [Sister](https://open.spotify.com/track/54v4v8ql8XG0ECVMhsOTrJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 4:28 | 2020-10-16 | 2020-11-21 |
 | [Skies](https://open.spotify.com/track/320nFPk23PxsRoEFeOMNgy) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Charlie Miller](https://open.spotify.com/artist/2i6DCdjOpqQGf5ICVpn8dj) | [Skies](https://open.spotify.com/album/1XUUrCGPg9KNAF9I5Xegpr) | 3:00 | 2020-11-21 | 2021-01-29 |
+| [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-03-01 |  |
 | [Slow Lane](https://open.spotify.com/track/2GvnieNPXvvgnrQne1HEtl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Euthymia](https://open.spotify.com/album/4hEE5xua0kBzXm0DRPJKxJ) | 3:14 | 2020-12-18 | 2020-12-19 |
 | [Slow Lane](https://open.spotify.com/track/2GvnieNPXvvgnrQne1HEtl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Euthymia EP](https://open.spotify.com/album/4hEE5xua0kBzXm0DRPJKxJ) | 3:14 | 2020-12-19 | 2021-01-08 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ZQoTDYVDCn9GcmKsoEHL3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/6PrL4XoX5zkaAirigTltPJ) | 2:33 | 2020-10-13 | 2020-10-16 |
