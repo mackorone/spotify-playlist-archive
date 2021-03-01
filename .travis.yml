@@ -5,3 +5,6 @@ script: python script.py --push
 notifications:
   email:
     - mackorone@gmail.com
+branches:
+  only:
+    - master
