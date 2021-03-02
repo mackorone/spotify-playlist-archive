@@ -162,11 +162,13 @@ class Spotify:
                     )
 
                 if not name:
-                    raise Exception("Empty track name: {}".format(url))
+                    logger.warning("Empty track name: {}".format(url))
+                    name = "<MISSING>"
                 if not album:
-                    raise Exception("Empty track album: {}".format(url))
+                    logger.warning("Empty track album: {}".format(url))
+                    album = "<MISSING>"
                 if not artists:
-                    raise Exception("Empty track artists: {}".format(url))
+                    logger.warning("Empty track artists: {}".format(url))
 
                 tracks.append(
                     Track(
@@ -442,7 +444,8 @@ class Formatter:
 
     @classmethod
     def _unlink(cls, link):
-        return re.match(cls.LINK_REGEX, link).group(1)
+        match = re.match(cls.LINK_REGEX, link)
+        return match and match.group(1) or ""
 
     @classmethod
     def _format_duration(cls, duration_ms):
