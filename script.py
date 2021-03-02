@@ -119,6 +119,8 @@ class Spotify:
 
         # Playlist names can't have "/" so use "\" instead
         name = name.replace("/", "\\")
+        if not name:
+            raise Exception("Empty playlist name")
         description = data["description"]
         tracks = await self._get_tracks(playlist_id)
 
@@ -158,6 +160,13 @@ class Spotify:
                             name=artist["name"],
                         )
                     )
+
+                if not name:
+                    raise Exception("Empty track name for {}".format(playlist_id))
+                if not album:
+                    raise Exception("Empty track album for {}".format(playlist_id))
+                if not artists:
+                    raise Exception("Empty track artists for {}".format(playlist_id))
 
                 tracks.append(
                     Track(
