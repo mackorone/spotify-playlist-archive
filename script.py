@@ -178,7 +178,7 @@ class Spotify:
                         album=Album(
                             url=self._get_url(track["album"]["external_urls"]),
                             name=album,
-                        )
+                        ),
                         artists=artists,
                     )
                 )
