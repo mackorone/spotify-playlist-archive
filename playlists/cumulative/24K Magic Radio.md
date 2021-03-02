@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, DNCE, Charlie Puth, Ne-Yo and more
+> With Bruno Mars, Justin Bieber, Ty Dolla $ign, Meghan Trainor and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
