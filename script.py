@@ -162,11 +162,11 @@ class Spotify:
                     )
 
                 if not name:
-                    raise Exception("Empty track name for {}".format(playlist_id))
+                    raise Exception("Empty track name: {}".format(url))
                 if not album:
-                    raise Exception("Empty track album for {}".format(playlist_id))
+                    raise Exception("Empty track album: {}".format(url))
                 if not artists:
-                    raise Exception("Empty track artists for {}".format(playlist_id))
+                    raise Exception("Empty track artists: {}".format(url))
 
                 tracks.append(
                     Track(
