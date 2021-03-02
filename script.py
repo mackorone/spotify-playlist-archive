@@ -146,11 +146,16 @@ class Spotify:
                 id_ = track["id"]
                 url = self._get_url(track["external_urls"])
                 duration_ms = track["duration_ms"]
+
                 name = track["name"]
-                album = Album(
-                    url=self._get_url(track["album"]["external_urls"]),
-                    name=track["album"]["name"],
-                )
+                album = track["album"]["name"]
+
+                if not name:
+                    logger.warning("Empty track name: {}".format(url))
+                    name = "<MISSING>"
+                if not album:
+                    logger.warning("Empty track album: {}".format(url))
+                    album = "<MISSING>"
 
                 artists = []
                 for artist in track["artists"]:
@@ -161,12 +166,6 @@ class Spotify:
                         )
                     )
 
-                if not name:
-                    logger.warning("Empty track name: {}".format(url))
-                    name = "<MISSING>"
-                if not album:
-                    logger.warning("Empty track album: {}".format(url))
-                    album = "<MISSING>"
                 if not artists:
                     logger.warning("Empty track artists: {}".format(url))
 
@@ -176,7 +175,10 @@ class Spotify:
                         url=url,
                         duration_ms=duration_ms,
                         name=name,
-                        album=album,
+                        album=Album(
+                            url=self._get_url(track["album"]["external_urls"]),
+                            name=album,
+                        )
                         artists=artists,
                     )
                 )
