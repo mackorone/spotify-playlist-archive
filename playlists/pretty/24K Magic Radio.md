@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/p
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kendrick Lamar, Anne-Marie, Fifth Harmony and more
+> With Bruno Mars, DJ Snake, Halsey, Philip Lawrence and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/p
 | 41 | [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 |
 | 42 | [Straight up & Down](https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:18 |
 | 43 | [Another Love Song](https://open.spotify.com/track/2QnE0PBovkTW5PpCgvgiu8) | [Ne-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Love Song](https://open.spotify.com/album/0vweWZUAGRHCe2CZGSyEJs) | 3:31 |
-| 44 | [Friends (with BloodPop®)](https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Friends (with BloodPop®)](https://open.spotify.com/album/7huML9zDbY4thKH0xSuZTP) | 3:09 |
-| 45 | [Crazy In Love (feat. Jay-Z)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 46 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 |
-| 47 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
-| 48 | [Cold Water](https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water](https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK) | 3:05 |
-| 49 | [Feels (feat. Pharrell Williams, Katy Perry & Big Sean)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
-| 50 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose (Deluxe)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
+| 44 | [Fuego](https://open.spotify.com/track/0mwPE0lPOgnWf2bo14xedJ) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mis Planes Son Amarte](https://open.spotify.com/album/3nZrIskMQdaS5KWw45PIjd) | 2:47 |
+| 45 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting (Deluxe Version)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 |
+| 46 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
+| 47 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
+| 48 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose (Deluxe)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
+| 49 | [Pull-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 |
+| 50 | [Lady (feat. Pitbull)](https://open.spotify.com/track/32FNQjaLvPJYCqRwDDxMu6) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [For Me + You](https://open.spotify.com/album/7nKNy4dxqjtlMKCeFzwJvm) | 3:31 |
