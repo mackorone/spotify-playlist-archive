@@ -108,6 +108,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [chill\DnB](/playlists/pretty/chill\DnB.md)
 - [Chilled R&B](/playlists/pretty/Chilled%20R&B.md)
 - [Chillin' on a Dirt Road](/playlists/pretty/Chillin'%20on%20a%20Dirt%20Road.md)
+- [Coffee and Piano](/playlists/pretty/Coffee%20and%20Piano.md)
 - [Coffee Beats](/playlists/pretty/Coffee%20Beats.md)
 - [Concentração Perfeita](/playlists/pretty/Concentração%20Perfeita.md)
 - [Confidence Boost](/playlists/pretty/Confidence%20Boost.md)
