@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Darius Rucker
+> Today's top country hits of the week, worldwide! Cover: Gabby Barrett
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Drinking Alone](https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:18 | 2020-05-02 | 2020-06-21 |
 | [Drop](https://open.spotify.com/track/6p6WrBXONAaXj7y2N5xg91) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [The Fall](https://open.spotify.com/album/0fO6mAEG7FpJoCLwEZju0u) | 3:23 | 2019-09-21 | 2020-04-12 |
 | [Drunk & I Miss You](https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:47 | 2020-07-25 | 2020-11-07 |
+| [Drunk (And I Don't Wanna Go Home)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk (And I Don't Wanna Go Home)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2021-03-06 |  |
 | [Easy](https://open.spotify.com/track/5f9vvN6WCezcHMVreAvR2B) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Easy](https://open.spotify.com/album/3bztzbbqYIdPU7ePsUu01r) | 3:05 | 2020-07-12 | 2020-08-30 |
 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel - EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 | 2019-06-22 | 2020-02-01 |
 | [Every Girl in This Town](https://open.spotify.com/track/1TU7prccGLiAY0y59oa1at) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl in This Town](https://open.spotify.com/album/57aarCCujshcTwt0FggIY7) | 2:58 | 2019-06-22 | 2019-08-24 |
