@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Heavy%20Queens.md) - [plain](/playli
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women that like it loud & heavy. Cover: Icon For Hire
+> Music needs women #IWD2021. A salute to all of the women that like it loud & heavy. Cover: Icon For Hire
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

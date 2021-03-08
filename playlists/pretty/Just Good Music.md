@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Just%20Good%20Music.md) - [plain](/p
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beautiful Mistakes (feat. Megan Thee Stallion)](https://open.spotify.com/track/2bdxR16RaP2ECjChCbL0Pa) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes (feat. Megan Thee Stallion)](https://open.spotify.com/album/1iuP8wkS7wPXj5yhDwEEXz) | 3:18 |
+| 1 | [Beautiful Mistakes (feat. Megan Thee Stallion)](https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes (feat. Megan Thee Stallion)](https://open.spotify.com/album/4jGaPN2gEpKciN02ZKRShT) | 3:47 |
 | 2 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 |
 | 3 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
 | 4 | [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 |

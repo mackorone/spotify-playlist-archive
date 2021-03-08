@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: VERIVERY
+> New K-pop tracks all in one place. Cover: DREAMCATCHER
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2020-11-11 |  |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt. 2 - The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2020-11-23 |  |
 | [9LIVES](https://open.spotify.com/track/0TC2qsBgTZC9ojrtbKz8Rd) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Good Girl (Episode 2)](https://open.spotify.com/album/0rnf3v41imToPANdyUNhWF) | 3:23 | 2020-10-13 | 2020-11-05 |
-| [<MISSING>](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [<MISSING>](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-03-02 |  |
+| [<MISSING>](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [<MISSING>](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-03-02 | 2021-03-08 |
 | [ALIEN](https://open.spotify.com/track/4usd9lLG24P5tRp92CRoPc) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [ALIEN](https://open.spotify.com/album/5Q9UJ0rW8js5o6qGIMo2sd) | 3:01 | 2020-10-22 |  |
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2020-12-21 |  |
 | [Apollo 11 (feat. Jay Park)](https://open.spotify.com/track/2PudJHuPDFyXomHjmwTxqG) | [Jamie](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Apollo 11 (feat. Jay Park)](https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl) | 3:20 | 2020-11-12 |  |
