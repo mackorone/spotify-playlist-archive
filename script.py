@@ -119,8 +119,8 @@ class Spotify:
 
         # Playlist names can't have "/" so use "\" instead
         name = name.replace("/", "\\")
-        # Playlist names shouldn't have enclosing spaces
-        name = name.strip()
+        # Playlist names shouldn't have enclosing spaces or dots
+        name = name.strip(" .")
 
         if not name:
             raise Exception("Empty playlist name")
