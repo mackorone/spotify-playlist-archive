@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of Soul-infused music! Cover: Jordan Mackampa
+> Your daily dose of Soul-infused music! Cover: Jake Isaac
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Freeze Tag (feat. Phoelix)](https://open.spotify.com/track/3t3ZvTvH2juv335N5E1ANK) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Freeze Tag (feat. Phoelix)](https://open.spotify.com/album/40is5SPcJdMGa6HSJgB4el) | 3:11 | 2021-03-06 |  |
 | [Gidget](https://open.spotify.com/track/1UrxBDCv9kDRIBUc2oskNR) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:39 | 2020-03-25 | 2020-08-25 |
 | [Goddamn - Nth Power Edit](https://open.spotify.com/track/7mI7TjfK1OSXqeIG8BtKAd) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [The Nth Power](https://open.spotify.com/artist/2bXPPuTujhUR51cpf670Ks) | [Goddamn (Nth Power Edit)](https://open.spotify.com/album/6P8mZIJQxnj4XcAruCR4Fc) | 2:59 | 2020-06-20 | 2020-07-18 |
+| [Good](https://open.spotify.com/track/75zcXgUTmeV0jgih9HnmkG) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:02 | 2021-03-15 |  |
 | [Good Good Good](https://open.spotify.com/track/6FcO64uFdevo392PvgRu4j) | [Michelle David & the Gospel Sessions](https://open.spotify.com/artist/2O2cy4YGu7HV9GwkvjIQCs) | [Good Good Good](https://open.spotify.com/album/3VUMdrRGd5y0TB2GaFF99T) | 3:10 | 2020-03-25 | 2020-03-27 |
 | [Good Thing](https://open.spotify.com/track/68uaEf2jgIsUKwM9RrOiK6) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:32 | 2020-03-25 | 2021-02-24 |
 | [Half-Moon Bag](https://open.spotify.com/track/0Y0yykDeSGqg0whcAh5wHR) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Half-Moon Bag](https://open.spotify.com/album/4lEMfzAAhSGbwH8YaZq3p5) | 4:34 | 2020-05-15 |  |

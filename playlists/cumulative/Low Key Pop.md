@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:7Lk9V7E1u5gqSHmtcKlOqH">Sara Kays</a>
+> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:5RJFJWYgtgWktosLrUDzff">Griff</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

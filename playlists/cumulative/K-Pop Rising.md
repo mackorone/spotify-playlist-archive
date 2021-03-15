@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: DREAMCATCHER
+> New K-pop tracks all in one place. Cover: WOODZ
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [DESSERT](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [SOYEON of (G)I-DLE](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DESSERT](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) | 3:20 | 2020-10-13 | 2020-10-22 |
 | [Dingga](https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dingga](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) | 2:59 | 2020-10-22 | 2021-03-01 |
 | [Dingo X BIBI - she got it](https://open.spotify.com/track/7mMlZ4hhYgq5oZa5O0eGTq) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Dingo X BIBI - she got it](https://open.spotify.com/album/3nzIQDfODv0DvqFRWMW26C) | 3:35 | 2020-10-13 | 2020-11-05 |
+| [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-03-15 |  |
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2020-10-13 | 2021-01-27 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2021-02-22 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13 | 2021-01-25 |
@@ -60,6 +61,7 @@
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-02-20 |  |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2021-03-01 |  |
 | [Feel Good (SECRET CODE)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2020-10-13 | 2021-01-18 |
+| [FEEL LIKE](https://open.spotify.com/track/4CaKUE54LtIgQe5BbA5SnC) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:56 | 2021-03-15 |  |
 | [Fireworks (I'm The One)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2021-03-02 |  |
 | [Flame](https://open.spotify.com/track/1n2oIAbEqbgX6eIxMcdj78) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO - SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:14 | 2020-10-13 | 2020-11-12 |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2020-11-12 |  |
