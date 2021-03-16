@@ -7,8 +7,8 @@ pretty - [cumulative](/playlists/cumulative/Soul%20'n'%20the%20City.md) - [plain
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 |
-| 2 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
-| 3 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
+| 2 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
+| 3 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
 | 4 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B. IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 |
 | 5 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise (Deluxe)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 |
 | 6 | [Years - Radio Edit](https://open.spotify.com/track/1UYTfm8whAH9ErGSn6ycYg) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Years (Radio Edit)](https://open.spotify.com/album/1co3r7BN992aZjj9GVzz4b) | 3:36 |

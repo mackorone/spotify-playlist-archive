@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> swooning over cover songs this week. & remi wolf rules.
+> Bright lights of Lorem: Marinelli, Spill Tab, Wallice, and MyKey are on the cover this week.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [drinking games](https://open.spotify.com/track/2i51VkwbZDKMrt9Kgv4jut) | [Silver Sphere](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/7MMhGXIuHsVNqck2wTf8kZ) | 3:20 | 2020-03-25 | 2021-03-06 |
 | [Drippin](https://open.spotify.com/track/3jrwHtyJcMhlSYVKYFh3WR) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Drippin](https://open.spotify.com/album/7j88wN5MZfc9MXsUzfGH3J) | 2:01 | 2020-09-25 | 2020-11-11 |
 | [Drive (Los Angeles)](https://open.spotify.com/track/1CnIgXRdASWJDYISXmEQs1) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Drive (Los Angeles)](https://open.spotify.com/album/7McfH7dB7smpVIZOnmpEyi) | 3:53 | 2019-10-11 | 2019-10-25 |
-| [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-06 |  |
+| [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-06 | 2021-03-16 |
 | [Drowning](https://open.spotify.com/track/33eHFA6m1rtXJHmT2DE9DT) | [Shrink](https://open.spotify.com/artist/01W8fjvGNifH2wxLoHjEmm) | [Drowning](https://open.spotify.com/album/7eamJMNBOaTHVbSEIOyOgL) | 3:01 | 2020-10-30 | 2021-01-12 |
 | [Duke and the Cash](https://open.spotify.com/track/6OhrBMenfA6uNcpuXBmTiD) | [Baby Boys](https://open.spotify.com/artist/5h1aEtZ8g7GdavtgSg633u) | [Cannonball / Duke and the Cash](https://open.spotify.com/album/40Dy0bFYxrhFhQJjUKw1d7) | 2:14 | 2021-01-19 | 2021-03-06 |
 | [Duke and the Cash](https://open.spotify.com/track/6OhrBMenfA6uNcpuXBmTiD) | [Baby Boys](https://open.spotify.com/artist/5h1aEtZ8g7GdavtgSg633u) | [Duke and the Cash](https://open.spotify.com/album/40Dy0bFYxrhFhQJjUKw1d7) | 2:14 | 2021-01-15 | 2021-01-19 |
@@ -520,7 +520,9 @@
 | [Mango](https://open.spotify.com/track/63G2X3v7ERlgegz692BOan) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mango](https://open.spotify.com/album/3EwfEobd4LwcIojznV2vYl) | 3:11 | 2019-10-03 | 2019-11-14 |
 | [Maniac](https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Maniac](https://open.spotify.com/album/4x1U4pmSekLejbWCRI0SES) | 3:05 | 2019-10-25 | 2020-04-09 |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:33 | 2020-06-29 | 2020-12-23 |
+| [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-16 |  |
 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 | 2020-01-29 |  |
+| [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-16 |  |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2019-08-30 | 2020-06-19 |
 | [Marlboro Nights](https://open.spotify.com/track/7mX1juiy9zR3MM2K39Sa7r) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/7ueKMDjY7NMf2gAIW3niqK) | 1:08 | 2019-08-02 | 2019-11-14 |
 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 | 2019-07-30 | 2020-12-23 |
@@ -606,6 +608,7 @@
 | [Ocean Eyes - Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes (The Remixes)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2019-07-30 | 2019-09-27 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2020-07-08 | 2021-01-12 |
 | [of being alone](https://open.spotify.com/track/568zzc5sQCV74JQGKDmKL3) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a hard drug](https://open.spotify.com/album/0dTge9iHRfBRE63TWBV72r) | 3:26 | 2019-12-04 | 2020-01-28 |
+| [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-03-16 |  |
 | [Oh! Darling - Take 4](https://open.spotify.com/track/5mIcEMUJvJgXF3GohggEWl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road (Super Deluxe Edition)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:30 | 2020-11-20 | 2021-01-12 |
 | [Oh, But Lover](https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Oh, But Lover](https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne) | 4:04 | 2021-02-06 |  |
 | [oh, mexico](https://open.spotify.com/track/4YwGqn5HGXVAOEPauLc9MJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [oh, mexico](https://open.spotify.com/album/2UsD7KcPZQn8aO4tlFTOiG) | 3:04 | 2019-08-02 | 2019-10-03 |
@@ -648,7 +651,7 @@
 | [Photo ID](https://open.spotify.com/track/0fzE5LlGfQwJLvEiJ7UqUZ) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Photo ID](https://open.spotify.com/album/0KZ5EGfXX5w2T2HOIdOU5p) | 4:25 | 2020-05-01 | 2020-07-29 |
 | [Picture Book](https://open.spotify.com/track/3goYNmDLv0HXUXyJ1XQX99) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Picture Book](https://open.spotify.com/album/1uNWkGs5yvLStN7PzCjPB1) | 2:52 | 2020-10-20 | 2020-11-14 |
 | [Picture Perfect](https://open.spotify.com/track/4PAaJhFkM25JSSkFcqjyxC) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Picture Perfect](https://open.spotify.com/album/4X3zGeBgtrv21QgWyeaPFm) | 3:07 | 2020-02-11 | 2020-05-05 |
-| [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 | 2021-03-06 |  |
+| [Pieces Of Me](https://open.spotify.com/track/7yXibbAYi4to5oQTeO738f) | [Ashlee Simpson](https://open.spotify.com/artist/4hqDqHtBlgxXpLXVYf7c8L) | [Autobiography](https://open.spotify.com/album/0w11HUk0hE4WZ95Bvp6vNI) | 3:37 | 2021-03-06 | 2021-03-16 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-09 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-08-25 | 2020-09-10 |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2021-03-14 |  |

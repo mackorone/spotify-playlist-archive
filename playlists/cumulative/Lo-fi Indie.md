@@ -2,7 +2,7 @@
 
 ### [Lo-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams. Cover: pinkpirate
+> Slacker jams. Cover: Eyedress
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [i've got a best friend](https://open.spotify.com/track/1zrkQcUJWom13vJxWHSKM7) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [a love letter to the moments spent outside](https://open.spotify.com/album/4R6Cz3ASQXTOALvohpyJic) | 3:33 | 2021-02-26 |  |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2020-10-27 |  |
 | [Islands Past](https://open.spotify.com/track/3xhCYwASA70y9xdDvdQ44h) | [Saccades](https://open.spotify.com/artist/3hE6XvCH9Di82RPfY8c9tn) | [Islands Past](https://open.spotify.com/album/05WLagEEkSzOETGQoYCq1c) | 3:40 | 2021-02-06 |  |
+| [Jealous](https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 2:02 | 2021-03-16 |  |
 | [just the way it is](https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR) | [latenitexeno](https://open.spotify.com/artist/4ILu2F4cEF1CiFEUT8XFqF), [Triple$ix](https://open.spotify.com/artist/2UQuceFmElR6ErvDnT54eM), [front room club](https://open.spotify.com/artist/1sSuSoA3Mzz8T9LBA0hT8t) | [just the way it is](https://open.spotify.com/album/7ce6J51paS5QUNBeIwpjf0) | 3:07 | 2020-10-27 |  |
 | [Late Smoke](https://open.spotify.com/track/1bAMwlbkQSpHYQB34VsV6B) | [crytothemoon](https://open.spotify.com/artist/0FKZcqak2HXauS8TvS9u6g) | [Late Smoke](https://open.spotify.com/album/7gRDfW6TOP8cBlbbdQAXzg) | 2:27 | 2020-10-27 |  |
 | [Laying out Your Web](https://open.spotify.com/track/2RQbHBSGpU3CmkHUBEWIYJ) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Laying out Your Web](https://open.spotify.com/album/4kK8DRKFsGxfOCAgggFSzt) | 3:00 | 2020-11-27 |  |
@@ -108,7 +109,7 @@
 | [Summer Something](https://open.spotify.com/track/707q7i5koucX2YSs6vR5pk) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Summer Something](https://open.spotify.com/album/7HYvEPOj7atMKoEBQgVtbj) | 3:14 | 2020-10-30 |  |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2020-10-30 |  |
 | [Things That Make It Warm](https://open.spotify.com/track/72g8JEkbyut7eAzILgBxDd) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Things That Make It Warm](https://open.spotify.com/album/1Cz7AaZHxk77OR2vDQnqEi) | 3:05 | 2020-10-27 | 2021-01-12 |
-| [to be alone](https://open.spotify.com/track/6YOOZvhKdHooWw0X6CmKeM) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:24 | 2020-11-13 |  |
+| [to be alone](https://open.spotify.com/track/6YOOZvhKdHooWw0X6CmKeM) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:24 | 2020-11-13 | 2021-03-16 |
 | [Trapped](https://open.spotify.com/track/4M9W9hA3xsQ50u38FbxZQw) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Trapped](https://open.spotify.com/album/0UQyxptHOrJZxKoQCpX7jY) | 4:04 | 2021-02-26 |  |
 | [Trash](https://open.spotify.com/track/7oYHTyfe6jzw2AW0YxzTSg) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [bops etc.](https://open.spotify.com/album/2R6cJKQJJh13mGJjcnUXKh) | 3:13 | 2020-10-27 | 2020-12-11 |
 | [Up in the Air](https://open.spotify.com/track/2rZ1YtyTsdZ5gQbJeOEsa1) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Up in the Air](https://open.spotify.com/album/4Z57NxZ40kf21wK1rgradb) | 2:18 | 2020-10-27 |  |
