@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Bright lights of Lorem: Marinelli, Spill Tab, Wallice, and MyKey are on the cover this week.
+> sweet like strawberries on a summer eve but make it Marinelli, Spill Tab, Wallice, and MyKey.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
