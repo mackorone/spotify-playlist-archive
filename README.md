@@ -122,6 +122,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Disco Forever](/playlists/pretty/Disco%20Forever.md)
 - [Discover Weekly (@catzs)](/playlists/pretty/Discover%20Weekly%20(@catzs).md)
 - [Dreampop](/playlists/pretty/Dreampop.md)
+- [Early Alternative](/playlists/pretty/Early%20Alternative.md)
 - [EDM Top 100](/playlists/pretty/EDM%20Top%20100.md)
 - [Energy Boost](/playlists/pretty/Energy%20Boost.md)
 - [Epic & Melodic](/playlists/pretty/Epic%20&%20Melodic.md)

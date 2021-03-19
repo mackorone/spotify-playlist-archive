@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, The Lumineers, Gary Clark Jr., Kina Grannis and more
+> With John Mayer, Maggie Rogers, Kacey Musgraves, Kina Grannis and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
