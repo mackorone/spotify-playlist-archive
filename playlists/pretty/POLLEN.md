@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/POLLEN.md) - [plain](/playlists/plai
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AIN'T GON STOP ME](https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR) | [Monte Booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Ain't Gon Stop Me](https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT) | 1:36 |
+| 1 | [AIN'T GON STOP ME](https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Monte Booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [AIN'T GON STOP ME](https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT) | 1:36 |
 | 2 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 3 | [Ziplock](https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ziplock / Rich Don't Stop](https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk) | 3:18 |
 | 4 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
