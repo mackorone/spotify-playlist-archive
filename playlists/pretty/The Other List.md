@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/The%20Other%20List.md) - [plain](/pl
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Sweet](https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Be Sweet](https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu) | 3:15 |
-| 2 | [Mol Y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
+| 2 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 3 | [Body & Soul (feat. Biig Piig)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul (feat. Biig Piig)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 |
 | 4 | [The Last Man on Earth](https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man on Earth](https://open.spotify.com/album/339CvLlLSLcrQlMpedt47v) | 4:21 |
 | 5 | [Cigarette Packet](https://open.spotify.com/track/76Rcr2dx6DsPORncOuLDF5) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Separate / Cigarette Packet](https://open.spotify.com/album/236517XbWOZM5wDDVz0CHa) | 2:18 |

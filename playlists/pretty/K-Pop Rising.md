@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/K-Pop%20Rising.md) - [plain](/playli
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Midnight Blue](https://open.spotify.com/track/1cBdno4f4aTiDTtVPCK4nH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Midnight Blue (LOVE STREAMING)](https://open.spotify.com/album/2ux2TXfr9z1EM68eSE85tH) | 3:44 |
+| 1 | [Midnight Blue (Donation Project)](https://open.spotify.com/track/1cBdno4f4aTiDTtVPCK4nH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Midnight Blue (LOVE STREAMING)](https://open.spotify.com/album/2ux2TXfr9z1EM68eSE85tH) | 3:44 |
 | 2 | [Trust Me (MIDZY)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me (MIDZY)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 |
 | 3 | [FEEL LIKE](https://open.spotify.com/track/4CaKUE54LtIgQe5BbA5SnC) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:56 |
 | 4 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
