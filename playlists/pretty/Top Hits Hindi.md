@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Top%20Hits%20Hindi.md) - [plain](/pl
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Tune into the hottest Hindi songs. Cover- Neha Kakkar
+> Best of Hindi songs from last 3 years. Cover- Neha Kakkar
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,5 @@ pretty - [cumulative](/playlists/cumulative/Top%20Hits%20Hindi.md) - [plain](/pl
 | 56 | [Chal Ghar Chalen (From "Malang - Unleash The Madness") [Mithoon feat. Arijit Singh]](https://open.spotify.com/track/2U0BLmYoSESYOdwMxW2yA9) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chal Ghar Chalen (From "Malang - Unleash The Madness") [Mithoon feat. Arijit Singh]](https://open.spotify.com/album/5SipVGOTd69oEJb3W84HYd) | 5:40 |
 | 57 | [Liggi](https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t) | 3:01 |
 | 58 | [Dil Ka Telephone](https://open.spotify.com/track/2by8FVjoggo96ntJFHusVw) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Dil Ka Telephone (From "Dream Girl")](https://open.spotify.com/album/397ZPmSYHIsKym4A6vUGIU) | 3:29 |
-| 59 | [Bekhayali (From "Kabir Singh")](https://open.spotify.com/track/1feANd8EfcDP5UqSvbheM3) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Sachet-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Bekhayali (From "Kabir Singh")](https://open.spotify.com/album/5m5aIc0rrrPUMDARDnQzB9) | 6:11 |
-| 60 | [Pal Pal Dil Ke Paas- Title Track](https://open.spotify.com/track/5CiHCfXZQyQEkmSeEj39PF) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas (Original Motion Picture Soundtrack)](https://open.spotify.com/album/7yO4NM0VMj0DbI8gDIRn0V) | 4:14 |
+| 59 | [Pal Pal Dil Ke Paas- Title Track](https://open.spotify.com/track/5CiHCfXZQyQEkmSeEj39PF) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas (Original Motion Picture Soundtrack)](https://open.spotify.com/album/7yO4NM0VMj0DbI8gDIRn0V) | 4:14 |
+| 60 | [Bekhayali (From "Kabir Singh")](https://open.spotify.com/track/1feANd8EfcDP5UqSvbheM3) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Sachet-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Bekhayali (From "Kabir Singh")](https://open.spotify.com/album/5m5aIc0rrrPUMDARDnQzB9) | 6:11 |

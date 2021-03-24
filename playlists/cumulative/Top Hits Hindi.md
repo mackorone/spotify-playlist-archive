@@ -2,7 +2,7 @@
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Tune into the hottest Hindi songs. Cover- Neha Kakkar
+> Best of Hindi songs from last 3 years. Cover- Neha Kakkar
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
