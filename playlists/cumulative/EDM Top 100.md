@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: A.C.E, Thutmose, Steve Aoki, Jackson Wang, Galantis, MK
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: A.C.E, Thutmose, Steve Aoki, Jackson Wang, Galantis, Dimitri Vegas, Like Mike, Kim Loaiza, Azteck
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
