@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: Lana Del Rey
+> it's a vibe (◡ ‿ ◡ ✿) cover: beabadoobee
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2020-12-19 | 2021-01-16 |
 | [Kicks](https://open.spotify.com/track/5HOqxHVvi2JZfFGviilqmJ) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Kicks](https://open.spotify.com/album/5sd1yuJz5nPdXt2xhghvMk) | 3:32 | 2020-10-29 | 2021-02-20 |
 | [Kool](https://open.spotify.com/track/35arSG83D9FCN2Ts0qOuoc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 2:48 | 2020-11-13 | 2021-02-20 |
+| [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-26 |  |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-10-29 | 2020-11-11 |
 | [Lemonade](https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lemonade](https://open.spotify.com/album/3H590nC6Jt4RkHfd8UBT7s) | 3:47 | 2020-10-29 | 2021-01-06 |
 | [Let Me Feel Low (feat. Miloe)](https://open.spotify.com/track/2WgtDonid49ziQ1jORmrES) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Let Me Feel Low (feat. Miloe)](https://open.spotify.com/album/22EgoSZsZ2WEEZKXaXCum6) | 4:35 | 2020-11-14 | 2020-12-07 |
