@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/This%20Is%20Lady%20Gaga.md) - [plain](/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT))
+pretty - [cumulative](/playlists/cumulative/This%20Is%20Lady%20Gaga.md) - [plain](/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT))
 
 ### [This Is Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1DXc7FZ2VBjaeT)
 

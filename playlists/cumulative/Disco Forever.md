@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Disco%20Forever.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX1MUPbVKMgJE))
+[pretty](/playlists/pretty/Disco%20Forever.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1MUPbVKMgJE))
 
 ### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 

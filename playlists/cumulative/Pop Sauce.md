@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Pop%20Sauce.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPCIWxzZwR1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXaPCIWxzZwR1))
+[pretty](/playlists/pretty/Pop%20Sauce.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPCIWxzZwR1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPCIWxzZwR1))
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 

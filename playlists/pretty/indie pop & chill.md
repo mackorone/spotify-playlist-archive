@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/indie%20pop%20&%20chill.md) - [plain](/playlists/plain/37i9dQZF1DX5y8xoSWyhcz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX5y8xoSWyhcz))
+pretty - [cumulative](/playlists/cumulative/indie%20pop%20&%20chill.md) - [plain](/playlists/plain/37i9dQZF1DX5y8xoSWyhcz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5y8xoSWyhcz))
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 

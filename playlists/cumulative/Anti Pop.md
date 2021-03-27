@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Anti%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWqNV5cS50j6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWqNV5cS50j6))
+[pretty](/playlists/pretty/Anti%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWqNV5cS50j6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWqNV5cS50j6))
 
 ### [Anti Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 

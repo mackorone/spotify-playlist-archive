@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Bollywood%20Dance%20Music.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8xfQRRX1PDm) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX8xfQRRX1PDm))
+[pretty](/playlists/pretty/Bollywood%20Dance%20Music.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8xfQRRX1PDm) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8xfQRRX1PDm))
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 

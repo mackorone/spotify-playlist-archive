@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Epic%20&%20Melodic.md) - [plain](/playlists/plain/37i9dQZF1DX37bXS7EGI3f) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX37bXS7EGI3f))
+pretty - [cumulative](/playlists/cumulative/Epic%20&%20Melodic.md) - [plain](/playlists/plain/37i9dQZF1DX37bXS7EGI3f) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37bXS7EGI3f))
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 

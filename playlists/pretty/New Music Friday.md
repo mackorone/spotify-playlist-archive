@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/New%20Music%20Friday.md) - [plain](/playlists/plain/37i9dQZF1DX4JAvHpjipBk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4JAvHpjipBk))
+pretty - [cumulative](/playlists/cumulative/New%20Music%20Friday.md) - [plain](/playlists/plain/37i9dQZF1DX4JAvHpjipBk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4JAvHpjipBk))
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 

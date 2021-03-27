@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Atmospheric%20Calm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TnpT6vw5rE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX4TnpT6vw5rE))
+[pretty](/playlists/pretty/Atmospheric%20Calm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TnpT6vw5rE) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TnpT6vw5rE))
 
 ### [Atmospheric Calm](https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE)
 

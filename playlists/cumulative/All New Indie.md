@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/All%20New%20Indie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXrPNafg9d) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXdbXrPNafg9d))
+[pretty](/playlists/pretty/All%20New%20Indie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXrPNafg9d) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbXrPNafg9d))
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 

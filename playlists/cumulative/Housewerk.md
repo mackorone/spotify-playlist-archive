@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Housewerk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa8NOEUWPn9W) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXa8NOEUWPn9W))
+[pretty](/playlists/pretty/Housewerk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa8NOEUWPn9W) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa8NOEUWPn9W))
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 

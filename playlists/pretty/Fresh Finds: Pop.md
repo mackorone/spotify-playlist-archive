@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Fresh%20Finds:%20Pop.md) - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
+pretty - [cumulative](/playlists/cumulative/Fresh%20Finds:%20Pop.md) - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
 
 ### [Fresh Finds: Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 

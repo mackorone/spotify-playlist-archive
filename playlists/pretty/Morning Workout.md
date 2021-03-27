@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Morning%20Workout.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/7EYxnpva8IlIgJ42z96zXH))
+pretty - [cumulative](/playlists/cumulative/Morning%20Workout.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH))
 
 ### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 

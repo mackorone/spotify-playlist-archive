@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Ambient%20Relaxation.md) - [plain](/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY))
+pretty - [cumulative](/playlists/cumulative/Ambient%20Relaxation.md) - [plain](/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Ogo9pFvBkY))
 
 ### [Ambient Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY)
 

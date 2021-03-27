@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Synthwave%20|%20Retro%20|%2080s%20Vaporwave.md) - cumulative - [plain](/playlists/plain/3gWAZPuNWpELIhKNbnpfwk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/3gWAZPuNWpELIhKNbnpfwk))
+[pretty](/playlists/pretty/Synthwave%20|%20Retro%20|%2080s%20Vaporwave.md) - cumulative - [plain](/playlists/plain/3gWAZPuNWpELIhKNbnpfwk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3gWAZPuNWpELIhKNbnpfwk))
 
 ### [Synthwave | Retro | 80s Vaporwave](https://open.spotify.com/playlist/3gWAZPuNWpELIhKNbnpfwk)
 

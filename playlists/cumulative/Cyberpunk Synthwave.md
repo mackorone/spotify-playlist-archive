@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Cyberpunk%20Synthwave.md) - cumulative - [plain](/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw))
+[pretty](/playlists/pretty/Cyberpunk%20Synthwave.md) - cumulative - [plain](/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw))
 
 ### [Cyberpunk Synthwave](https://open.spotify.com/playlist/5hnjEy2ZXUZcEcy8jT0Wiw)
 

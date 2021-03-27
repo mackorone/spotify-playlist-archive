@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/HEADPHONES.md) - [plain](/playlists/plain/6ZWbm0tcNxeVmHdssy03yN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6ZWbm0tcNxeVmHdssy03yN))
+pretty - [cumulative](/playlists/cumulative/HEADPHONES.md) - [plain](/playlists/plain/6ZWbm0tcNxeVmHdssy03yN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6ZWbm0tcNxeVmHdssy03yN))
 
 ### [HEADPHONES](https://open.spotify.com/playlist/6ZWbm0tcNxeVmHdssy03yN)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Summer%20Days.md) - [plain](/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh))
+pretty - [cumulative](/playlists/cumulative/Summer%20Days.md) - [plain](/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0nUPQhoNrmw7Kr7sOeUCQh))
 
 ### [Summer Days](https://open.spotify.com/playlist/0nUPQhoNrmw7Kr7sOeUCQh)
 

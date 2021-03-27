@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Chill%20House%202021.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/62bReXvmroQzQfEUuTNe3Y))
+[pretty](/playlists/pretty/Chill%20House%202021.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y))
 
 ### [Chill House 2021](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Japan.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq))
+[pretty](/playlists/pretty/Top%2050%20-%20Japan.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKXQ4mDTEBXq))
 
 ### [Top 50 - Japan](https://open.spotify.com/playlist/37i9dQZEVXbKXQ4mDTEBXq)
 

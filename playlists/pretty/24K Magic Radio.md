@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
+pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Michael Jackson, Don Diablo, Christopher Mintz-Plasse and more
+> With Bruno Mars, Shawn Mendes, Justin Bieber, Quavo and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

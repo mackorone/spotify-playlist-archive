@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Mellow%20Classics.md) - [plain](/playlists/plain/37i9dQZF1DWTQwRw56TKNc) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWTQwRw56TKNc))
+pretty - [cumulative](/playlists/cumulative/Mellow%20Classics.md) - [plain](/playlists/plain/37i9dQZF1DWTQwRw56TKNc) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTQwRw56TKNc))
 
 ### [Mellow Classics](https://open.spotify.com/playlist/37i9dQZF1DWTQwRw56TKNc)
 

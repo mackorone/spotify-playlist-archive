@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Plugged%20In.md) - cumulative - [plain](/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS))
+[pretty](/playlists/pretty/Plugged%20In.md) - cumulative - [plain](/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS))
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 

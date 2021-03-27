@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/EDM%20Top%20100.md) - cumulative - [plain](/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD))
+[pretty](/playlists/pretty/EDM%20Top%20100.md) - cumulative - [plain](/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6P9kL0w6D5JnjAUGVQKXgD))
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 

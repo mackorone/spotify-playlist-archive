@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/Carry%20Me%20Away%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
+[pretty](/playlists/pretty/Carry%20Me%20Away%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Maggie Rogers, Hozier, Andy Grammer and more
+> With John Mayer, Kacey Musgraves, LÉON, Colony House and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

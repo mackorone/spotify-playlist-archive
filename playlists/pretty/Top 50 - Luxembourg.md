@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Luxembourg.md) - [plain](/playlists/plain/37i9dQZEVXbKGcyg6TFGx6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbKGcyg6TFGx6))
+pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Luxembourg.md) - [plain](/playlists/plain/37i9dQZEVXbKGcyg6TFGx6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKGcyg6TFGx6))
 
 ### [Top 50 - Luxembourg](https://open.spotify.com/playlist/37i9dQZEVXbKGcyg6TFGx6)
 

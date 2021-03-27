@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/tear%20drop.md) - [plain](/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl))
+pretty - [cumulative](/playlists/cumulative/tear%20drop.md) - [plain](/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl))
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 

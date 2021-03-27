@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Today's%20Top%20Hits.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBWIGoYBM5M) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DXcBWIGoYBM5M))
+[pretty](/playlists/pretty/Today's%20Top%20Hits.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBWIGoYBM5M) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcBWIGoYBM5M))
 
 ### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 

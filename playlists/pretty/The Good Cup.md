@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/The%20Good%20Cup.md) - [plain](/playlists/plain/37i9dQZF1DWUEbH7oMQunS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWUEbH7oMQunS))
+pretty - [cumulative](/playlists/cumulative/The%20Good%20Cup.md) - [plain](/playlists/plain/37i9dQZF1DWUEbH7oMQunS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUEbH7oMQunS))
 
 ### [The Good Cup](https://open.spotify.com/playlist/37i9dQZF1DWUEbH7oMQunS)
 

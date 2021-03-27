@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Date%20Night%20At%20Home.md) - cumulative - [plain](/playlists/plain/1MmXcTuWbvBApvUMIgxDhV) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/1MmXcTuWbvBApvUMIgxDhV))
+[pretty](/playlists/pretty/Date%20Night%20At%20Home.md) - cumulative - [plain](/playlists/plain/1MmXcTuWbvBApvUMIgxDhV) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1MmXcTuWbvBApvUMIgxDhV))
 
 ### [Date Night At Home](https://open.spotify.com/playlist/1MmXcTuWbvBApvUMIgxDhV)
 

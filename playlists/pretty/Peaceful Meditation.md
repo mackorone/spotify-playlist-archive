@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Peaceful%20Meditation.md) - [plain](/playlists/plain/37i9dQZF1DWZqd5JICZI0u) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWZqd5JICZI0u))
+pretty - [cumulative](/playlists/cumulative/Peaceful%20Meditation.md) - [plain](/playlists/plain/37i9dQZF1DWZqd5JICZI0u) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqd5JICZI0u))
 
 ### [Peaceful Meditation](https://open.spotify.com/playlist/37i9dQZF1DWZqd5JICZI0u)
 

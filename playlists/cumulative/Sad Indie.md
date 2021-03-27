@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Sad%20Indie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVV27DiNWxkR) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWVV27DiNWxkR))
+[pretty](/playlists/pretty/Sad%20Indie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVV27DiNWxkR) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVV27DiNWxkR))
 
 ### [Sad Indie](https://open.spotify.com/playlist/37i9dQZF1DWVV27DiNWxkR)
 

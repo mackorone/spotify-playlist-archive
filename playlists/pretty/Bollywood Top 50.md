@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Bollywood%20Top%2050.md) - [plain](/playlists/plain/4nNVfQ9eWidZXkBKZN5li4) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/4nNVfQ9eWidZXkBKZN5li4))
+pretty - [cumulative](/playlists/cumulative/Bollywood%20Top%2050.md) - [plain](/playlists/plain/4nNVfQ9eWidZXkBKZN5li4) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nNVfQ9eWidZXkBKZN5li4))
 
 ### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
 

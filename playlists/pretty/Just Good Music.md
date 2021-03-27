@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Just%20Good%20Music.md) - [plain](/playlists/plain/37i9dQZF1DX0b1hHYQtJjp) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DX0b1hHYQtJjp))
+pretty - [cumulative](/playlists/cumulative/Just%20Good%20Music.md) - [plain](/playlists/plain/37i9dQZF1DX0b1hHYQtJjp) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0b1hHYQtJjp))
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
