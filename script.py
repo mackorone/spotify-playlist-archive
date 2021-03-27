@@ -647,9 +647,9 @@ def push_updates(now):
 
     logger.info("Committing changes")
 
-    build = os.getenv("GITHUB_RUN_NUMBER")
+    run_number = os.getenv("GITHUB_RUN_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
-    message = "[skip ci] Build #{} ({})".format(build, now_str)
+    message = "[skip ci] {} (Run: {})".format(now_str, run_number)
     commit = run(["git", "commit", "-m", message])
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
