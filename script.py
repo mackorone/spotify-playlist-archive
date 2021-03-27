@@ -469,7 +469,7 @@ class URL:
     BASE = "/playlists"
     HISTORY_BASE = (
         "https://github.githistory.xyz/mackorone/spotify-playlist-archive/"
-        "blob/master/playlists"
+        "blob/main/playlists"
     )
 
     @classmethod
@@ -647,17 +647,17 @@ def push_updates(now):
 
     logger.info("Committing changes")
 
-    build = os.getenv("TRAVIS_BUILD_NUMBER")
+    build = os.getenv("GITHUB_RUN_NUMBER")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     message = "[skip ci] Build #{} ({})".format(build, now_str)
     commit = run(["git", "commit", "-m", message])
     if commit.returncode != 0:
         raise Exception("Failed to commit changes")
 
-    logger.info("Rebasing onto master")
-    rebase = run(["git", "rebase", "HEAD", "master"])
+    logger.info("Rebasing onto main")
+    rebase = run(["git", "rebase", "HEAD", "main"])
     if commit.returncode != 0:
-        raise Exception("Failed to rebase onto master")
+        raise Exception("Failed to rebase onto main")
 
     logger.info("Removing origin")
     remote_rm = run(["git", "remote", "rm", "origin"])
@@ -676,7 +676,7 @@ def push_updates(now):
         raise Exception("Failed to add new origin")
 
     logger.info("Pushing changes")
-    push = run(["git", "push", "origin", "master"])
+    push = run(["git", "push", "origin", "main"])
     if push.returncode != 0:
         raise Exception("Failed to push changes")
 
