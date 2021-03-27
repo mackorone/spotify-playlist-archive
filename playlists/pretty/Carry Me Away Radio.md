@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [pla
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Kacey Musgraves, LÉON, Colony House and more
+> With John Mayer, Leon Bridges, The Head And The Heart, Sara Bareilles and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
