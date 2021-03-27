@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lady%20Gaga%20Radio.md) - [plain](/p
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With JAY-Z, Lorde, Adele and more
+> With Willow Sage Hart, DaBaby, Nicki Minaj and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

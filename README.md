@@ -143,6 +143,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Heavy Queens](/playlists/pretty/Heavy%20Queens.md)
 - [Hot Country](/playlists/pretty/Hot%20Country.md)
 - [Hot Rhythmic](/playlists/pretty/Hot%20Rhythmic.md)
+- [Housewerk](/playlists/pretty/Housewerk.md)
 - [hyperpop](/playlists/pretty/hyperpop.md)
 - [Indie Chillout](/playlists/pretty/Indie%20Chillout.md)
 - [Indie Favourites](/playlists/pretty/Indie%20Favourites.md)

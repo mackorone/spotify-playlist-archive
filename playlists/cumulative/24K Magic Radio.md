@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Nick Jonas, Liam Payne, Charlie Puth and more
+> With Bruno Mars, Rihanna, Fifth Harmony, JP Cooper and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
