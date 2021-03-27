@@ -665,8 +665,8 @@ def push_updates(now):
         raise Exception("Failed to remove origin")
 
     logger.info("Adding new origin")
-    # It's ok to print the token, Travis will hide it
-    token = os.getenv("GITHUB_ACCESS_TOKEN")
+    # It's ok to print the token, GitHub Actions will hide it
+    token = os.getenv("BOT_GITHUB_ACCESS_TOKEN")
     url = (
         "https://mackorone-bot:{}@github.com/mackorone/"
         "spotify-playlist-archive.git".format(token)
