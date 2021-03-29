@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You - Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 | 2019-05-26 |  |
+| [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You - Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 | 2019-05-26 | 2021-03-29 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 | 2019-05-26 |  |
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2019-05-26 | 2021-03-27 |
 | [All Because Of You](https://open.spotify.com/track/6jV9QS9mBYFoiZF8GA6uKk) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/2KqHT8JmV2HI8tMXn7XIZs) | 3:33 | 2020-03-26 |  |
@@ -22,7 +22,7 @@
 | [But Beautiful](https://open.spotify.com/track/1wIpio4Lb8FHbn0BDVQFTZ) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me (Deluxe)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:31 | 2019-05-26 |  |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2019-05-26 |  |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2019-05-26 |  |
-| [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 | 2019-05-27 | 2021-03-24 |
+| [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 | 2019-05-27 |  |
 | [Don't Take Your Love from Me](https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem on My Mind](https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5) | 4:52 | 2019-05-26 |  |
 | [Dream](https://open.spotify.com/track/1ULuglVRXbgfd5LlzSkegz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Dream](https://open.spotify.com/album/1YwZHpA5BjEhBqImNbdvpR) | 4:03 | 2019-05-26 |  |
 | [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26 | 2021-03-23 |
