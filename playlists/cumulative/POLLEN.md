@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Zack Villere
+> Genre-less. Quality first always. Cover: BROCKHAMPTON
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
