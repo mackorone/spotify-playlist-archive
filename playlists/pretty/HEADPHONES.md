@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/HEADPHONES.md) - [plain](/playlists/
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bitter Tonic](https://open.spotify.com/track/77N6PBJUCcJtkaQmIEKJSW) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bitter Tonic](https://open.spotify.com/album/0hDjyDRFlLdK4nAeR876Bd) | 3:21 |
-| 2 | [Inside Out](https://open.spotify.com/track/2rw8wRHbzZkX59MEaJgH1b) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN), [C. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Inside Out](https://open.spotify.com/album/7y57QkZ0pdZC01ur2sseZ5) | 2:44 |
+| 2 | [Inside Out](https://open.spotify.com/track/2rw8wRHbzZkX59MEaJgH1b) | [C. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD), [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [Inside Out](https://open.spotify.com/album/7y57QkZ0pdZC01ur2sseZ5) | 2:44 |
 | 3 | [i looked into your eyes](https://open.spotify.com/track/0CwLue2qwkPcQpovNGNtVx) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [i looked into your eyes](https://open.spotify.com/album/66P0Khl1xjfiSufHMQgDF4) | 2:28 |
 | 4 | [Just How Good You Got It](https://open.spotify.com/track/03AgRWvkcVmkMLdoiFnRlZ) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Just How Good You Got It](https://open.spotify.com/album/64hhmJTX1XOyoqDG1OK4BT) | 4:08 |
 | 5 | [Day Traitor](https://open.spotify.com/track/0j8piy3z4gqpz0vl2XdfkF) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Day Traitor](https://open.spotify.com/album/1EfetcydiK9tFKDL9t1oh2) | 3:03 |
