@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/tear%20drop.md) - [plain](/playlists
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood. Cover: Dro Kenji
+> Emo feels for the misunderstood. Cover: 347aidan
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SUV](https://open.spotify.com/track/3gZ2urfYO9koYgEcw399Hw) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [OZNE](https://open.spotify.com/artist/6xVSS79NEmw3tRZJ7WBe1N) | [SUV](https://open.spotify.com/album/7akh3H6Uq24HVHMyteXZrW) | 3:02 |
-| 2 | [Life's A Mess II (with Clever & Post Malone)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II (with Clever & Post Malone)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
+| 2 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
 | 3 | [the way that you see me (feat. Ayleen Valentine)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me (feat. Ayleen Valentine)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 |
 | 4 | [Young Kid](https://open.spotify.com/track/7kXNWZbHd8ojf6H08XMdtC) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/0KCiBDv3FJ2HDEqddm8JK6) | 3:29 |
 | 5 | [WITHOUT YOU - Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 |
 | 6 | [Kill Cupid](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
-| 7 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
-| 8 | [Last Night](https://open.spotify.com/track/1LoTpLgjRuOZOh4s0RTLjs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Last Night](https://open.spotify.com/album/2KAhU6MX8l2VgPKRxcULa8) | 2:08 |
-| 9 | [Uncomparable](https://open.spotify.com/track/5XBN5qnsOSsdNKTj6kJ5cP) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/2cB3EH9yQll7xyMA4X6NDM) | 1:45 |
-| 10 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 |
+| 7 | [Last Night](https://open.spotify.com/track/1LoTpLgjRuOZOh4s0RTLjs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Last Night](https://open.spotify.com/album/2KAhU6MX8l2VgPKRxcULa8) | 2:08 |
+| 8 | [Uncomparable](https://open.spotify.com/track/5XBN5qnsOSsdNKTj6kJ5cP) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/2cB3EH9yQll7xyMA4X6NDM) | 1:45 |
+| 9 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 |
+| 10 | [Life's A Mess II (with Clever & Post Malone)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II (with Clever & Post Malone)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
 | 11 | [Better Off Dead](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Better Off Dead](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 |
 | 12 | [Ring The Alarm](https://open.spotify.com/track/64YXn0w1Rp1UVyTbO8VJYd) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [ALL i've HEARD](https://open.spotify.com/album/4ebvzBmSPzAodN74GdPMQI) | 2:41 |
 | 13 | [Squash](https://open.spotify.com/track/4XCcz4Rdswrhg09Wk9D6QX) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Squash](https://open.spotify.com/album/3SZVjeca9ZVB7dXTzQp6HR) | 2:03 |

@@ -2,7 +2,7 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood. Cover: Dro Kenji
+> Emo feels for the misunderstood. Cover: 347aidan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Dance to the EDM beats from Bollywood. Cover- Tanishk Bagchi
+> Best of Bollywood dance music from last 10 years. Cover- Tanishk Bagchi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
