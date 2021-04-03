@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music. Cover: Ali Gatie, Marshmello, Ty Dolla $ign 
+> Current favorites and exciting new music. Cover: Joel Corry, RAYE, David Guetta 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Me Gusta - Remix (feat. Cardi B & 24kGoldn)](https://open.spotify.com/track/6vrsT2dvgbttZXmPYNfY8i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta [Remix (feat. Cardi B & 24kGoldn)]](https://open.spotify.com/album/3TRdcUb9S2862uVEHGYWlh) | 2:44 | 2020-11-20 | 2020-11-21 |
 | [Me Gusta - Remix (feat. Cardi B & 24kGoldn)](https://open.spotify.com/track/6vrsT2dvgbttZXmPYNfY8i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Me Gusta [Remix (feat. Cardi B & 24kGoldn)]](https://open.spotify.com/album/3TRdcUb9S2862uVEHGYWlh) | 2:44 | 2020-11-21 | 2021-02-06 |
 | [Medicine](https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Medicine](https://open.spotify.com/album/6K8gvUTwVftCa3gd0MFtI4) | 3:28 | 2021-03-06 |  |
+| [Met Him Last Night (feat. Ariana Grande)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2021-04-03 |  |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2020-10-13 | 2020-11-13 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2020-11-06 | 2021-01-15 |
 | [Monster (Shawn Mendes & Justin Bieber)](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Monster](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) | 2:58 | 2020-11-20 | 2021-03-06 |
