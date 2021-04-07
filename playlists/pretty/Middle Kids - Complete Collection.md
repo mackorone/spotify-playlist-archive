@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Middle%20Kids%20-%20Complete%20Colle
 
 ### [Middle Kids - Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out March 19!
+> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out now!
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

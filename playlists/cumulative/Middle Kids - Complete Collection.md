@@ -2,7 +2,7 @@
 
 ### [Middle Kids - Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out March 19!
+> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out now!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
