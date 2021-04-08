@@ -123,7 +123,7 @@ class Spotify:
         name = name.strip(" .")
 
         if not name:
-            raise Exception("Empty playlist name")
+            raise Exception(f"Empty playlist name: {playlist_id}")
         description = data["description"]
         tracks = await self._get_tracks(playlist_id)
 
@@ -500,7 +500,13 @@ async def update_files(now):
     # Initialize the Spotify client
     access_token = await Spotify.get_access_token(client_id, client_secret)
     spotify = Spotify(access_token)
+    try:
+        await update_files_impl(now, spotify)
+    finally:
+        await spotify.shutdown()
 
+
+async def update_files_impl(now, spotify):
     aliases_dir = "playlists/aliases"
     plain_dir = "playlists/plain"
     pretty_dir = "playlists/pretty"
@@ -605,8 +611,6 @@ async def update_files(now):
     )
     with open("README.md", "w") as f:
         f.write("\n".join(lines) + "\n")
-
-    await spotify.shutdown()
 
 
 def run(args):
