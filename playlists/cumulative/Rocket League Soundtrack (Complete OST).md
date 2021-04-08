@@ -2,7 +2,7 @@
 
 ### [Rocket League Soundtrack (Complete OST)](https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw)
 
-> Only original tracks from RL! Updated: 9 May 2020
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
