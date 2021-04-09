@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Chill%20House%202021.md) - [plain](/
 
 ### [Chill House 2021](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Summer House to chill, vibe or study to. Updated weekly. 
+> Summer House to chill, vibe or travel to. Updated weekly. 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

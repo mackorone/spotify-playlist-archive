@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27 | 2021-04-08 |
+| [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27 |  |
 | [1 000 000](https://open.spotify.com/track/2kTdm97JgsVqkMbQChhXD1) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 3:02 | 2021-03-27 | 2021-03-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27 |  |
 | [AVIA](https://open.spotify.com/track/2qQ38Cb9l2Rwtj0vgxBGr4) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl), [Yung Trappa](https://open.spotify.com/artist/4mWdGXvLBhz5i2Qe5swRXb) | [AVIA](https://open.spotify.com/album/0zqtLNk403BUoBUB9phyfK) | 2:29 | 2021-03-27 | 2021-03-29 |
@@ -34,7 +34,7 @@
 | [Peaches (feat. Daniel Caesar & Giveon)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-04-01 |  |
 | [RANDOM](https://open.spotify.com/track/6N1ZQIxGpxQvtfzye58KQw) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:05 | 2021-03-27 | 2021-04-04 |
 | [RANDOM](https://open.spotify.com/track/3LRmMWVGsf9mprzLlFLJXR) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [RANDOM](https://open.spotify.com/album/51WKiQb8rLOM0CfdxvFnbT) | 2:05 | 2021-03-27 | 2021-03-27 |
-| [SHINOBI](https://open.spotify.com/track/6zSLrRCjeVfbApM20MBvpl) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:29 | 2021-03-27 |  |
+| [SHINOBI](https://open.spotify.com/track/6zSLrRCjeVfbApM20MBvpl) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:29 | 2021-03-27 | 2021-04-09 |
 | [Skamming Shit](https://open.spotify.com/track/4M2O9at0fryRSQYVh3MgdK) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Ugly Muzik, Vol. 1](https://open.spotify.com/album/5iy37OOKJOG3ts8th3dsdj) | 1:40 | 2021-03-27 |  |
 | [Slumber Party (feat. Princess Nokia)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-03-27 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27 | 2021-04-01 |
