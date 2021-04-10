@@ -2,7 +2,7 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> Music needs women #IWD2021. A salute to all of the women that like it loud & heavy. Cover: Icon For Hire
+> A salute to all of the women that like it loud & heavy. Cover: Icon For Hire
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Corrode](https://open.spotify.com/track/3HVPJrmpJvwYSmrGS21af1) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [Corrode](https://open.spotify.com/album/20gYg8xLqeRhmj2nhAyRU1) | 4:14 | 2020-12-07 |  |
 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 | 2020-12-07 |  |
 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 | 2020-12-07 |  |
-| [Dancing in Nightmares](https://open.spotify.com/track/4k5y7lc8Ws9rHzy2YCjU2B) | [South Haven](https://open.spotify.com/artist/1mUiFCHMEKVdSfqbh1mwNt) | [Dancing in Nightmares](https://open.spotify.com/album/1eELICirTb19z8loNTXimj) | 3:22 | 2020-12-07 |  |
+| [Dancing in Nightmares](https://open.spotify.com/track/4k5y7lc8Ws9rHzy2YCjU2B) | [South Haven](https://open.spotify.com/artist/1mUiFCHMEKVdSfqbh1mwNt) | [Dancing in Nightmares](https://open.spotify.com/album/1eELICirTb19z8loNTXimj) | 3:22 | 2020-12-07 | 2021-04-10 |
 | [Dark Love Empress](https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Dark Love Empress](https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW) | 4:43 | 2020-12-07 |  |
 | [Dead Promises (with Björn "Speed" Strid) - Single Version](https://open.spotify.com/track/0oUb90hlUSRArHjBB3gqpC) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [Dead Promises (with Björn "Speed" Strid)](https://open.spotify.com/album/0Z2SoB7Aow297HNIJYp8T6) | 5:51 | 2020-12-07 | 2020-12-11 |
 | [Diamonds and Dark](https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Diamonds and Dark](https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw) | 4:49 | 2020-12-07 |  |
@@ -73,6 +73,7 @@
 | [Jinnslammer](https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Jinnslammer](https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9) | 4:39 | 2020-12-07 |  |
 | [Judgement Day](https://open.spotify.com/track/1OK1Rv7LfOy8MXJbqMqKdq) | [Dark Horse White Horse](https://open.spotify.com/artist/2DJSYNDdVr8jRgPHlfvWCc) | [Judgement Day](https://open.spotify.com/album/1s8KGU1y8BOYCMAIClPPAE) | 4:00 | 2020-12-07 |  |
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07 | 2020-12-11 |
+| [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 |  |
 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Lay All Your Love on Me](https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm) | 3:53 | 2020-12-07 |  |
 | [Layers of Time](https://open.spotify.com/track/29EAXbPh9fZdJEfl57TuqG) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Layers of Time](https://open.spotify.com/album/0AdzpqRGrWAkP8XcphMTW5) | 4:07 | 2020-12-07 | 2021-02-19 |
@@ -97,15 +98,16 @@
 | [Rubicon](https://open.spotify.com/track/4Mu87wivf8gHElYbWYyHvd) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Rubicon](https://open.spotify.com/album/6z1oOyoX1swwbyRilFHR7g) | 4:38 | 2020-12-07 |  |
 | [Run](https://open.spotify.com/track/6QfO2eDPabPXJMhjc84Ie8) | [Ivy Crown](https://open.spotify.com/artist/0Ty4er900wlIfeKinucbBp) | [Run](https://open.spotify.com/album/54HNt5hFD2WXm3W2DkQKVb) | 3:42 | 2020-12-07 |  |
 | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/5jxfh1iITHYXiqXEsLwvzK) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/album/1dcm1FvkHVbnqe82yMYMB5) | 3:01 | 2020-12-07 | 2021-02-19 |
-| [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07 |  |
+| [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07 | 2021-04-10 |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07 |  |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07 |  |
 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 | 2020-12-07 |  |
+| [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 |  |
 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 | 2020-12-07 |  |
 | [Shut Up](https://open.spotify.com/track/2bDXyVBSKbMgoUmNtINxxD) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Shut Up](https://open.spotify.com/album/0Qmkq7844UqsyHkwUm1knk) | 3:31 | 2020-12-07 | 2020-12-11 |
 | [Sinners Hymn](https://open.spotify.com/track/7dUaX05uxCNK5lC3329O0E) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Sinners Hymn](https://open.spotify.com/album/7mL41tnKXoqUdoEvViyO4l) | 4:06 | 2020-12-07 |  |
 | [Skeletons](https://open.spotify.com/track/5IwbNovLgluEiRkg6QRZt4) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Skeletons](https://open.spotify.com/album/2YlBfNiQQjBgl50GSA2PR6) | 3:32 | 2020-12-07 | 2020-12-11 |
-| [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2020-12-07 |  |
+| [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2020-12-07 | 2021-04-10 |
 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 | 2020-12-11 |  |
 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 | 2020-12-07 |  |
 | [Stormbringer](https://open.spotify.com/track/3J7aw9aV1xkwr3wbo7n4aQ) | [Pagan Fury](https://open.spotify.com/artist/6OPsyrpJLYcCZUEhWIEsep), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc) | [Stormbringer](https://open.spotify.com/album/2XDhBdEyeISVJnFQEwoFJx) | 3:09 | 2020-12-07 | 2021-02-19 |
@@ -131,6 +133,7 @@
 | [Umbra](https://open.spotify.com/track/6X5dxdTEbvVlzBWEZaNYYh) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Umbra](https://open.spotify.com/album/3hNt3wQ8EJzxShv4OkJJvw) | 3:57 | 2020-12-07 | 2020-12-11 |
 | [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 | 2020-12-07 |  |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2020-12-07 |  |
+| [Vertigo](https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Vertigo](https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc) | 3:09 | 2021-04-10 |  |
 | [Viral](https://open.spotify.com/track/1iqgx6BkWYRorWDLwkpMJZ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Viral](https://open.spotify.com/album/4yaARCXEEPrYUpdHFP45Aq) | 3:01 | 2020-12-07 | 2020-12-11 |
 | [Wake The Dead](https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb) | [September Mourning](https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1) | [Wake The Dead](https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R) | 3:26 | 2020-12-11 |  |
 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 | 2020-12-07 |  |

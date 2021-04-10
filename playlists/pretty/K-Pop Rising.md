@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/K-Pop%20Rising.md) - [plain](/playli
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: WOODZ
+> New K-pop tracks all in one place. Cover: WJSN
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
