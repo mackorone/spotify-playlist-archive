@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: The Snuts
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10 |  |
 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 | 2020-10-10 | 2021-02-25 |
 | [Shut It Down](https://open.spotify.com/track/4tRR0oqkIFjs39wC5cAuK6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Colorado](https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv) | 3:44 | 2020-10-10 | 2021-02-25 |
+| [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 |  |
 | [Sing - Reworked](https://open.spotify.com/track/1NCxmZdBcaaV7D4fc6NdKk) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights (Reworked)](https://open.spotify.com/album/2ERh42P9SszlEESjnV6cQp) | 2:47 | 2020-10-10 | 2021-02-25 |
 | [Sing Along](https://open.spotify.com/track/5Q2gtn5mYtdlqu76kp20sR) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Sing Along](https://open.spotify.com/album/78jC17cW2py0Yw3NPSJIAG) | 2:54 | 2020-10-10 | 2021-02-25 |
 | [Sinner](https://open.spotify.com/track/7z21IYXNRcxdmubc6YG13B) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:27 | 2020-10-10 | 2021-02-25 |
