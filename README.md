@@ -307,6 +307,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Ultimate Indie](/playlists/pretty/Ultimate%20Indie.md)
 - [Unwind 00s](/playlists/pretty/Unwind%2000s.md)
 - [Warm Fuzzy Feeling](/playlists/pretty/Warm%20Fuzzy%20Feeling.md)
+- [When We Were Young Radio](/playlists/pretty/When%20We%20Were%20Young%20Radio.md)
 - [Wild + Free](/playlists/pretty/Wild%20+%20Free.md)
 - [Women of Pop](/playlists/pretty/Women%20of%20Pop.md)
 - [You & Me](/playlists/pretty/You%20&%20Me.md)
