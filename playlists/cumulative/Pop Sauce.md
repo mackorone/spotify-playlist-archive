@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop featuring Lil Nas X
+> next gen pop featuring Nessa Barrett, jxdn ☕️
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
