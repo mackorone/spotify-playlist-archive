@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tierra Whack
+> Genre-less. Quality first always. Cover: Fred again...
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Bon acteur](https://open.spotify.com/track/7HvFxi1R19RxRjLOFmC3TH) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Bon acteur](https://open.spotify.com/album/4VFinoLqAcGUN3JsSXjFRG) | 2:22 | 2020-07-02 | 2020-09-18 |
 | [Borderline - Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline (Blood Orange Remix)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-26 | 2021-02-19 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-07-30 | 2019-12-06 |
+| [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-17 |  |
 | [Both Of Us - Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2020-06-29 | 2020-10-24 |
 | [Bottom Dollar](https://open.spotify.com/track/7M2P4sLwIi1tivJAoeH4qs) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [C.S. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Bottom Dollar](https://open.spotify.com/album/3oLMbUH7hcpaFbWu1P1pnG) | 3:04 | 2020-08-07 | 2020-12-11 |
 | [BOY BYE](https://open.spotify.com/track/0VqC8QZDK6mkEmfcwX77Xe) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [BOY BYE](https://open.spotify.com/album/4lRiXGum7cZNDDFLebNjoj) | 2:22 | 2019-08-16 | 2019-11-02 |
@@ -510,6 +511,7 @@
 | [K.L.F.G.](https://open.spotify.com/track/5wH6o90uoZMmTBBVfw68aw) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [K.L.F.G.](https://open.spotify.com/album/7Cz9YIlq2kXpDnLQNCoTWW) | 1:54 | 2020-09-18 | 2021-01-15 |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-15 | 2021-04-03 |
 | [Karlaplan](https://open.spotify.com/track/4Wm7v3q3zEAsh5wgyP7iE8) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Karlaplan](https://open.spotify.com/album/06Kk4K3I7aXSSzZ0HWQh1r) | 3:38 | 2020-09-16 | 2020-11-21 |
+| [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-04-17 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-03-25 |  |
 | [Kerosene!](https://open.spotify.com/track/52vVxJeUJUPMkETpTfhHO5) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Kerosene!](https://open.spotify.com/album/3lpLu3yxcn1NMkj6T66NJ9) | 5:05 | 2020-03-10 | 2020-08-13 |
 | [Kevin](https://open.spotify.com/track/2DylrERZbUpx845Cd8y7hU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Kevin](https://open.spotify.com/album/6rqZTOVumjrqnV4cT6i9xq) | 3:19 | 2020-05-01 | 2020-10-03 |
@@ -562,6 +564,7 @@
 | [Lovezone](https://open.spotify.com/track/1gJ7I46oRO9tvlP1IlexRj) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Lovezone](https://open.spotify.com/album/7Ef5RjtzcXSJvTw5ysf3Ye) | 2:48 | 2020-12-18 | 2021-02-06 |
 | [Lucy](https://open.spotify.com/track/0qqAx9YnwIEZ8y9OyTjZRc) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Lucy](https://open.spotify.com/album/16FvSGhewJJxkKi1Fy05oA) | 3:49 | 2021-01-23 |  |
 | [Lumbago](https://open.spotify.com/track/3UR9JqoEaQc2qhsMTDgOiz) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/77Wq66HlKZgyKOtN5Whdbr) | 2:08 | 2021-03-19 |  |
+| [Lydia (Please Make It Better)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life (April 14 - December 17 2020)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 | 2021-04-17 |  |
 | [Magic Loop](https://open.spotify.com/track/268QdafLK67UZrGLuU1Yzw) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Magic Loop](https://open.spotify.com/album/6Hf6waAeu2HqDc8fHLRaBz) | 2:36 | 2019-07-30 | 2019-08-09 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2020-11-06 | 2021-01-23 |
 | [MANGO (feat. Adeline)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO (feat. Adeline)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2020-10-16 |  |
