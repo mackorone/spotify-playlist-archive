@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/All%20Out%2060s.md) - [plain](/playl
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Say a Little Prayer](https://open.spotify.com/track/0FD8KMG4pHp0O9clTpChjp) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Respect - The Very Best of](https://open.spotify.com/album/3IadQMKTsvI9DhuE4UexFz) | 3:36 |
-| 2 | [God Only Knows - Mono / Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds (Original Mono & Stereo Mix Versions)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
+| 2 | [God Only Knows - Remastered 1997 / Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds (Original Mono & Stereo Mix Versions)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 3 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 4 | [Suspicious Minds](https://open.spotify.com/track/6KDG8vvFerlCU63IXdw1zb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 #1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 4:32 |
 | 5 | [To Love Somebody](https://open.spotify.com/track/3rGFsUgyH9GbbYJT4iwbhJ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Bee Gees' 1st](https://open.spotify.com/album/7vuSqubgqkVA95zgz0R44a) | 3:02 |

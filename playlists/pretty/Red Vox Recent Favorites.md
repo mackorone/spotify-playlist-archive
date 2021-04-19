@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/Streamed.md) - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
+pretty - [cumulative](/playlists/cumulative/Red%20Vox%20Recent%20Favorites.md) - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
 
-### [Streamed](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
+### [Red Vox Recent Favorites](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 
-> Automatic playlist created by the Spotify Recently Played extension on Twitch
+> 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -603,3 +603,6 @@ pretty - [cumulative](/playlists/cumulative/Streamed.md) - [plain](/playlists/pl
 | 595 | [Wouldn't Mama Be Proud](https://open.spotify.com/track/4GZRKea2czcuYBX2HhNNsI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:25 |
 | 596 | [Noble Soldier](https://open.spotify.com/track/4ROK1pfHcrMFP7BhMY2Yw3) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Old Locomotive](https://open.spotify.com/album/4qPNJWSfQwQK1hTizW1w2U) | 2:44 |
 | 597 | [Walk On - 2016 Remaster](https://open.spotify.com/track/1MF5iQOhiz11mhehiqjPMN) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [On the Beach](https://open.spotify.com/album/3w5Hok05AFjCLy269xXM7e) | 2:42 |
+| 598 | [Borrowed Tune](https://open.spotify.com/track/321hoM2XRQRaqGIrix1633) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Tonight's the Night](https://open.spotify.com/album/2wjrhhAibIUwC40oFMALtr) | 3:25 |
+| 599 | [How to Fight Loneliness](https://open.spotify.com/track/1CsMuJeMzRqNgS7G0fo1Gv) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:52 |
+| 600 | [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 |

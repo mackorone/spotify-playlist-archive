@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/Streamed.md) - cumulative - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
+[pretty](/playlists/pretty/Red%20Vox%20Recent%20Favorites.md) - cumulative - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
 
-### [Streamed](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
+### [Red Vox Recent Favorites](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 
-> Automatic playlist created by the Spotify Recently Played extension on Twitch
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Blue Diamonds](https://open.spotify.com/track/1vTAeV45Er8hZIVTu4yJ77) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 3:49 | 2020-10-12 |  |
 | [Boogieman Sam](https://open.spotify.com/track/1imA2gM3IjetWVmetLNbCa) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Fishing For Fishies](https://open.spotify.com/album/1Q5gtIhAPUYszJQveFEhRr) | 4:41 | 2020-10-12 |  |
 | [Bored and Razed](https://open.spotify.com/track/3Irpfqo370st9qV2Q3OW5E) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:35 | 2020-10-12 |  |
+| [Borrowed Tune](https://open.spotify.com/track/321hoM2XRQRaqGIrix1633) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Tonight's the Night](https://open.spotify.com/album/2wjrhhAibIUwC40oFMALtr) | 3:25 | 2021-04-19 |  |
 | [Bowie](https://open.spotify.com/track/4YMevPl7WLQ0WFmAx9ylkQ) | [Flight of the Conchords](https://open.spotify.com/artist/2lRyvAihjwylPfhGqydQbC) | [Flight Of The Conchords](https://open.spotify.com/album/4iXilUplgTLmXfoVRHRIVq) | 3:15 | 2020-10-12 |  |
 | [Breaking Down](https://open.spotify.com/track/4s7DGDyfSty3AS71Xrtt1D) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:25 | 2020-10-12 |  |
 | [Brean Down](https://open.spotify.com/track/3dtTFzOl8s8j7laFU3SyrC) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>>](https://open.spotify.com/album/60yPG02ecqockwxPD5XWSJ) | 3:51 | 2020-10-12 |  |
@@ -199,6 +200,7 @@
 | [Grave Architecture](https://open.spotify.com/track/71m8TLglSP4Naj0CVPd9pc) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Wowee Zowee](https://open.spotify.com/album/5C1ePFbSzOGHdypuNBIDZh) | 4:16 | 2020-10-12 |  |
 | [Grey Lanes](https://open.spotify.com/track/0bULxvo3EybNcJ2GiEUbUV) | [Jacco Gardner](https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn) | [Hypnophobia](https://open.spotify.com/album/3PDgKBSnMy41T0IDRqIudq) | 3:06 | 2020-10-12 |  |
 | [Growin' Up](https://open.spotify.com/track/6XqFS3UxIiDh0s6aNvSpc7) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Delorean Highway](https://open.spotify.com/album/2bzz6q23UzitaG2UAdrrNN) | 4:07 | 2020-10-12 |  |
+| [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 | 2021-04-19 |  |
 | [Hand Mouth Dancer](https://open.spotify.com/track/5cvzazmKknWEYWG3taVUys) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:40 | 2020-10-12 |  |
 | [Happiness Is A Warm Gun - 2018 Mix](https://open.spotify.com/track/3z2ngCk1Us5E0DtNGczXwJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 2:44 | 2020-10-12 |  |
 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 | 2020-10-12 |  |
@@ -219,6 +221,7 @@
 | [Houses in Motion - 2005 Remaster](https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light (Deluxe Version)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:33 | 2020-10-12 |  |
 | [How Many Zeros](https://open.spotify.com/track/5vyZOkW20IjzDdP6HLiYoI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 3:25 | 2020-10-12 |  |
 | [How Sweet to Be an Idiot - 2007 Remaster](https://open.spotify.com/track/512g8sFxfMjqTFUQikmMG9) | [Neil Innes](https://open.spotify.com/artist/1Os8dbAw15y0pCfTZH0Sq0) | [Keynsham](https://open.spotify.com/album/2jilIHMgdLrXClngtdHdjN) | 2:52 | 2020-10-12 |  |
+| [How to Fight Loneliness](https://open.spotify.com/track/1CsMuJeMzRqNgS7G0fo1Gv) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:52 | 2021-04-19 |  |
 | [Humility (feat. George Benson)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 | 2020-10-12 |  |
 | [Hurdy Gurdy Man](https://open.spotify.com/track/7AL6qzIDHIX7pEUWrzNiIs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Hurdy Gurdy Man](https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz) | 3:13 | 2021-03-01 |  |
 | [I Bleed](https://open.spotify.com/track/4azCKNOIuNsCB98BSRBR2B) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:34 | 2020-10-12 |  |
