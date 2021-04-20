@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The finest in UK rap. Cover: Fumez the Engineer
+> The finest in UK rap. Cover: Dave
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

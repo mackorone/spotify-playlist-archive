@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Pop%20Revolution.md) - [plain]
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> Pop is the best that it's ever been. Need proof? Just press play. Cover: Charlotte Grace
+> Pop is the best that it's ever been. Need proof? Just press play. Cover: Charlotte Jane
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
