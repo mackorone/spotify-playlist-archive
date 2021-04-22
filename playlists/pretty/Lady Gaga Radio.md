@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lady%20Gaga%20Radio.md) - [plain](/p
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Katy Perry, Camila Cabello, Ava Max and more
+> With Selena Gomez, Nicki Minaj, Timbaland and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
