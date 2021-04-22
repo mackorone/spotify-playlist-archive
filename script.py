@@ -117,8 +117,9 @@ class Spotify:
         else:
             name = data["name"]
 
-        # Playlist names can't have "/" so use "\" instead
-        name = name.replace("/", "\\")
+        # Playlist names can't have "/" or "\" so use " " instead
+        name = name.replace("/", " ")
+        name = name.replace("\\", " ")
         # Windows filenames can't have ":" so use " -" instead
         name = name.replace(":", " -")
         # Windows filenames can't have "|" so use "-" instead
