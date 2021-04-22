@@ -133,7 +133,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Friday Cratediggers](/playlists/pretty/Friday%20Cratediggers.md)
 - [Girl Krush](/playlists/pretty/Girl%20Krush.md)
 - [Good Vibes](/playlists/pretty/Good%20Vibes.md)
-- [Got Djent?](/playlists/pretty/Got%20Djent?.md)
+- [Got Djent](/playlists/pretty/Got%20Djent.md)
 - [Grimes Radio](/playlists/pretty/Grimes%20Radio.md)
 - [Happy Hits!](/playlists/pretty/Happy%20Hits!.md)
 - [Happy Pop](/playlists/pretty/Happy%20Pop.md)

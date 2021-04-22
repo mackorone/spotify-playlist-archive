@@ -1,6 +1,6 @@
-pretty - [cumulative](/playlists/cumulative/Got%20Djent?.md) - [plain](/playlists/plain/37i9dQZF1DX6GRSnGELn7L) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GRSnGELn7L))
+pretty - [cumulative](/playlists/cumulative/Got%20Djent.md) - [plain](/playlists/plain/37i9dQZF1DX6GRSnGELn7L) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GRSnGELn7L))
 
-### [Got Djent?](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L)
+### [Got Djent](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L)
 
 > Whether you call it technical, progressive or math metal, it all djents. Cover: Erra
 
