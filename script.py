@@ -119,14 +119,16 @@ class Spotify:
 
         # Playlist names can't have "/" so use "\" instead
         name = name.replace("/", "\\")
+        # Windows filenames can't have ":" so use " -" instead
+        name = name.replace(":", " -")
         # Playlist names shouldn't have enclosing spaces or dots
         name = name.strip(" .")
 
         if not name:
             raise Exception(f"Empty playlist name: {playlist_id}")
+
         description = data["description"]
         tracks = await self._get_tracks(playlist_id)
-
         return Playlist(url=url, name=name, description=description, tracks=tracks)
 
     async def _get_tracks(self, playlist_id):
