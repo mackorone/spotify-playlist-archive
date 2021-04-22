@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lady%20Gaga%20Radio.md) - [plain](/p
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Selena Gomez, Katy Perry, Britney Spears and more
+> With Katy Perry, Adele, Fifth Harmony and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

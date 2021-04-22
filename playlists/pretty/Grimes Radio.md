@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Slayyyter, Robert Smith, Warpaint and more
+> With Toro y Moi, Blood Orange, Warpaint and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

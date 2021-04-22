@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: WJSN
+> New K-pop tracks all in one place. Cover: P1Harmony
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,11 +62,12 @@
 | [Do Re Mi Fa Sol (Feat. CHANGMO)](https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Do Re Mi Fa Sol](https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0) | 3:04 | 2021-04-02 |  |
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2020-10-13 | 2021-01-27 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2021-02-22 |  |
+| [Down (feat. Grey)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4Fq2tqZyZA2W3NvQqPcksO) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-04-22 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13 | 2021-01-25 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [SOYEON of (G)I-DLE](https://open.spotify.com/artist/7bhzw1KVooq7vvGR0r0SXf) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-15 | 2020-10-23 |
 | [Dynamite](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite](https://open.spotify.com/album/3zWmE5c3alhuoPLphxjMVd) | 3:19 | 2020-10-13 | 2021-03-10 |
 | [Eat My Love](https://open.spotify.com/track/0nkmvo78mFGGRab2BwK37i) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Eat My Love](https://open.spotify.com/album/7tZUSDEIMXqOg5rsSszQKR) | 2:42 | 2021-02-01 | 2021-03-01 |
-| [Eeny Meeny](https://open.spotify.com/track/6g1bC84sN16hsWICgeXXb9) | [U-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Eeny Meeny](https://open.spotify.com/album/5wnySScBf5FmEoBWIirXaH) | 2:39 | 2021-01-27 |  |
+| [Eeny Meeny](https://open.spotify.com/track/6g1bC84sN16hsWICgeXXb9) | [U-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Eeny Meeny](https://open.spotify.com/album/5wnySScBf5FmEoBWIirXaH) | 2:39 | 2021-01-27 | 2021-04-22 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-02-20 |  |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2021-03-01 |  |
 | [Feel Good (SECRET CODE)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2020-10-13 | 2021-01-18 |
@@ -79,7 +80,7 @@
 | [Garden In The Air](https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Our Beloved BoA #1 - SM STATION](https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc) | 3:17 | 2020-10-13 | 2020-11-11 |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ [ROUND 1 : HALL]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2021-03-02 |  |
 | [GET IT OUT](https://open.spotify.com/track/4OCwwHsLQ0tNzC0PzTi47I) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [GET IT OUT](https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk) | 3:37 | 2021-02-23 | 2021-04-22 |
-| [Given-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2020-12-09 |  |
+| [Given-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2020-12-09 | 2021-04-22 |
 | [Goblin (Favorite Boys)](https://open.spotify.com/track/0QTx81gggSfDhmmdjpCfrT) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:35 | 2020-10-13 | 2021-01-11 |
 | [GOTCHA](https://open.spotify.com/track/4mgkQnzI5XlVYgXoJGySwc) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [MESSAGE](https://open.spotify.com/album/3DNboyISLbyI3f5s6RHxDT) | 3:24 | 2020-11-05 | 2021-04-22 |
 | [GOTTA GO](https://open.spotify.com/track/7Gb3K6a2YyJTf7j0UTf9jJ) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [GOTTA GO](https://open.spotify.com/album/5e8KAB3PANlikarQhJnLUu) | 3:26 | 2020-10-13 | 2020-10-22 |
@@ -104,6 +105,7 @@
 | [INCEPTION](https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:30 | 2020-10-13 | 2020-11-05 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-04-20 |  |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2021-03-31 |  |
+| [JAJA](https://open.spotify.com/track/1FmOWhvlAerXKE8xCZUOgy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 3:16 | 2021-04-22 |  |
 | [Jungle](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 3: Hello, Strange Time](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) | 3:48 | 2020-10-27 | 2021-03-10 |
 | [KILLA](https://open.spotify.com/track/7MyF8hoeUbpv6ZIEVlsTY8) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [KILLA - MIRAE 1st Mini Album](https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V) | 3:32 | 2021-04-22 |  |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [-77.82x-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2020-10-13 | 2021-03-18 |

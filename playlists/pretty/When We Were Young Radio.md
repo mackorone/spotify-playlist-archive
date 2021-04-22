@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/When%20We%20Were%20Young%20Radio.md)
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Ella Henderson, Tori Kelly, Jason Mraz and more
+> With Adele, One Direction, Jasmine Thompson, Sam Smith and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

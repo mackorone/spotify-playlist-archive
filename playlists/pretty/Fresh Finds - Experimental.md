@@ -1,6 +1,6 @@
-pretty - [cumulative](/playlists/cumulative/Fresh%20Finds:%20Experimental.md) - [plain](/playlists/plain/37i9dQZF1DX8C585qnMYHP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8C585qnMYHP))
+pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20-%20Experimental.md) - [plain](/playlists/plain/37i9dQZF1DX8C585qnMYHP) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8C585qnMYHP))
 
-### [Fresh Finds: Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
+### [Fresh Finds - Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
 > The best new music from independent artists and labels. Updates every Wednesday. Cover: Beautify Junkyards. Artwork: Thami Nabil 
 

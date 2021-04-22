@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Beyoncé, Sean Paul, Ari Levine and more
+> With Bruno Mars, Lil Wayne, Demi Lovato, Meghan Trainor and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
