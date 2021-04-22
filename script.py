@@ -121,6 +121,8 @@ class Spotify:
         name = name.replace("/", "\\")
         # Windows filenames can't have ":" so use " -" instead
         name = name.replace(":", " -")
+        # Windows filenames can't have "|" so use "-" instead
+        name = name.replace("|", "-")
         # Windows filenames can't have "?" so just remove them
         name = name.replace("?", "")
         # Playlist names shouldn't have enclosing spaces or dots
