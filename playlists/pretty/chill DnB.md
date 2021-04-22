@@ -1,6 +1,6 @@
-pretty - [cumulative](/playlists/cumulative/chill\DnB.md) - [plain](/playlists/plain/3g1eliu8IsLV3pW4Otv0Te) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3g1eliu8IsLV3pW4Otv0Te))
+pretty - [cumulative](/playlists/cumulative/chill%20DnB.md) - [plain](/playlists/plain/3g1eliu8IsLV3pW4Otv0Te) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3g1eliu8IsLV3pW4Otv0Te))
 
-### [chill\DnB](https://open.spotify.com/playlist/3g1eliu8IsLV3pW4Otv0Te)
+### [chill DnB](https://open.spotify.com/playlist/3g1eliu8IsLV3pW4Otv0Te)
 
 > 
 
