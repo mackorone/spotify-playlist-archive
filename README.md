@@ -220,7 +220,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Summer Hits](/playlists/pretty/Summer%20Hits.md)
 - [Summer Party](/playlists/pretty/Summer%20Party.md)
 - [Sunny Day](/playlists/pretty/Sunny%20Day.md)
-- [Synthwave | Retro | 80s Vaporwave](/playlists/pretty/Synthwave%20|%20Retro%20|%2080s%20Vaporwave.md)
+- [Synthwave - Retro - 80s Vaporwave](/playlists/pretty/Synthwave%20-%20Retro%20-%2080s%20Vaporwave.md)
 - [tear drop](/playlists/pretty/tear%20drop.md)
 - [Techno Bunker](/playlists/pretty/Techno%20Bunker.md)
 - [The Good Cup](/playlists/pretty/The%20Good%20Cup.md)
