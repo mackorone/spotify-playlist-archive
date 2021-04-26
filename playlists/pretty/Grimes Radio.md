@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With FKA twigs, Yves Tumor, Angel Olsen and more
+> With i_o, Caroline Polachek, Toro y Moi and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -81,6 +81,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [All Out 80s](/playlists/pretty/All%20Out%2080s.md)
 - [All Out 90s](/playlists/pretty/All%20Out%2090s.md)
 - [All The Feels](/playlists/pretty/All%20The%20Feels.md)
+- [All-Nighter](/playlists/pretty/All-Nighter.md)
 - [Always Perfect](/playlists/pretty/Always%20Perfect.md)
 - [Ambient Relaxation](/playlists/pretty/Ambient%20Relaxation.md)
 - [Anti Pop](/playlists/pretty/Anti%20Pop.md)
