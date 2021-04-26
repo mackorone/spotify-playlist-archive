@@ -86,7 +86,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Anti Pop](/playlists/pretty/Anti%20Pop.md)
 - [Apply Yourself](/playlists/pretty/Apply%20Yourself.md)
 - [Atmospheric Calm](/playlists/pretty/Atmospheric%20Calm.md)
-- [Barack Obama's 2020 Summer Playlist](/playlists/pretty/Barack%20Obama's%202020%20Summer%20Playlist.md)
+- [Barack Obama's 2021 Summer Playlist](/playlists/pretty/Barack%20Obama's%202021%20Summer%20Playlist.md)
 - [Beast Mode](/playlists/pretty/Beast%20Mode.md)
 - [Beats to think to](/playlists/pretty/Beats%20to%20think%20to.md)
 - [Bedroom Pop](/playlists/pretty/Bedroom%20Pop.md)
