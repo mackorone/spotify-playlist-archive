@@ -2,5 +2,6 @@
 - Add type hints
 - Splitting by `" | "` breaks for some tracks
 - Clean up near-duplicates in cumulative playlists
+- Automatically add all "Spotify" user playlists
 - Handle playlist renames seamlessly
 - Only fetch each track once (same track in multiple playlists)
