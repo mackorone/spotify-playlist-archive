@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/When%20We%20Were%20Young%20Radio.md)
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Jess Glynne, Alicia Keys, Camila Cabello and more
+> With Adele, Snow Patrol, James Bay, Rihanna and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

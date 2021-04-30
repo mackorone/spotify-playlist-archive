@@ -172,6 +172,7 @@ $ pip-sync requirements/requirements-dev.txt
 - [Mellow Beats](/playlists/pretty/Mellow%20Beats.md)
 - [Mellow Classics](/playlists/pretty/Mellow%20Classics.md)
 - [Middle Kids - Complete Collection](/playlists/pretty/Middle%20Kids%20-%20Complete%20Collection.md)
+- [Monday Motivation](/playlists/pretty/Monday%20Motivation.md)
 - [Mood Booster](/playlists/pretty/Mood%20Booster.md)
 - [Morning Acoustic](/playlists/pretty/Morning%20Acoustic.md)
 - [Morning Coffee - Wake Up](/playlists/pretty/Morning%20Coffee%20-%20Wake%20Up.md)

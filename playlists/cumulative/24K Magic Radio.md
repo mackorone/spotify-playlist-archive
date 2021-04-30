@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Rihanna, The King's Men, Cambridge, MAGIC! and more
+> With Bruno Mars, Mark Ronson, Justin Timberlake, Jonas Blue and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,12 +2,13 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: Babygirl
+> it's a vibe (◡ ‿ ◡ ✿) cover: Charlie Houston
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-01-30 | 2021-04-10 |
 | [1001](https://open.spotify.com/track/7igCO03QlSBWIJkEho0c0z) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [1001](https://open.spotify.com/album/7nqJMtyMIGyeGZk7XS0Plh) | 3:24 | 2021-04-10 |  |
+| [19](https://open.spotify.com/track/708hXPrY8mxgKSvAZUq4Yz) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:04 | 2021-04-30 |  |
 | [2003](https://open.spotify.com/track/7HjVMDiXcG6bHC9FHGE428) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [2003](https://open.spotify.com/album/1W4pzoxMqrY1RgxV7wHs8m) | 3:39 | 2020-11-28 | 2021-03-06 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-27 |  |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2020-10-29 | 2021-02-20 |
@@ -25,6 +26,7 @@
 | [All the Animals I Drew as a Kid](https://open.spotify.com/track/3u2jRaRg7kfD6D6LLEo1d9) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better (extended)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 4:04 | 2020-12-12 | 2021-01-27 |
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2020-10-29 | 2021-01-06 |
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-01-16 | 2021-03-27 |
+| [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-30 |  |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29 | 2021-02-06 |
 | [ARIZONA](https://open.spotify.com/track/2aA86ZJwbNDQYnMLCLC8kW) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [ARIZONA](https://open.spotify.com/album/13uEXPLANR6eShZMvkxC6W) | 3:35 | 2020-10-29 | 2021-01-21 |
 | [Arthur](https://open.spotify.com/track/1EdTbKWP1qUfrVWpEgUBCv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Arthur](https://open.spotify.com/album/21m9iSX3X6JeCJpY7l1kXr) | 3:14 | 2021-02-13 | 2021-02-27 |
@@ -73,6 +75,7 @@
 | [Cotton Candy](https://open.spotify.com/track/0RLIUOXaZUvZub2Qn7NHqh) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/1hVCtTKZ96eJByKOEjKsbz) | 1:33 | 2020-10-29 | 2021-03-14 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2020-10-29 | 2021-02-13 |
 | [cowboy in LA](https://open.spotify.com/track/0E6uWutxRjIDhleURR92do) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [cowboy in LA](https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5) | 3:33 | 2020-10-29 | 2021-02-13 |
+| [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-04-30 |  |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2021-01-30 | 2021-02-27 |
 | [crybaby](https://open.spotify.com/track/4HRf7m1LQyUggiOl1YunVc) | [Krash Krinny](https://open.spotify.com/artist/4QIgLYZfUb6UD5kfWjnnXV) | [Boneyard Blues](https://open.spotify.com/album/2uQc5xDcHbdOxsfgbDKNu6) | 3:02 | 2021-02-20 | 2021-03-14 |
 | [Cuff Your Jeans](https://open.spotify.com/track/0q9v0aM8nBBF045S4lUMJE) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Cuff Your Jeans](https://open.spotify.com/album/7Ety4yx03V4LF6xqNiqL1w) | 2:55 | 2021-01-16 | 2021-02-20 |
@@ -128,6 +131,7 @@
 | [God Only Knows](https://open.spotify.com/track/6UyPSZ3eoofOB67QbrlGTx) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [God Only Knows](https://open.spotify.com/album/5ZlfGQXdbl7xmDAVRQX5q5) | 3:47 | 2021-01-16 | 2021-01-23 |
 | [going out](https://open.spotify.com/track/3hDNIAnUnraurZCuiuPegu) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel - EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:54 | 2020-11-04 | 2021-03-06 |
 | [Golden Eyes](https://open.spotify.com/track/5AttrOwTxBFkAwC9EjSXzY) | [Tide Rider](https://open.spotify.com/artist/4eloIu0JWZycM9HqzL5DnV) | [Golden Eyes](https://open.spotify.com/album/5fpzdodK5qIYdQiP3DsVzG) | 2:18 | 2021-02-20 | 2021-04-10 |
+| [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2021-04-30 |  |
 | [Gonna Be Okay](https://open.spotify.com/track/1FfQScGXFnfPu309jwGgwg) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Gonna Be Okay](https://open.spotify.com/album/31BsDGUGcmuIXG7W76JV4v) | 2:51 | 2020-10-29 | 2021-02-13 |
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29 | 2020-11-11 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2020-11-03 | 2020-11-13 |
@@ -176,6 +180,7 @@
 | [Jet Lag](https://open.spotify.com/track/3AvUUJ8HopzSeDTi9aFiCN) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Jet Lag](https://open.spotify.com/album/3OACbRi43tEvh5GrPsWrJq) | 2:41 | 2021-02-06 | 2021-03-27 |
 | [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:56 | 2021-02-27 |  |
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2020-12-19 | 2021-01-16 |
+| [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-04-30 |  |
 | [Kicks](https://open.spotify.com/track/5HOqxHVvi2JZfFGviilqmJ) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Kicks](https://open.spotify.com/album/5sd1yuJz5nPdXt2xhghvMk) | 3:32 | 2020-10-29 | 2021-02-20 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 |  |
 | [Kool](https://open.spotify.com/track/35arSG83D9FCN2Ts0qOuoc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 2:48 | 2020-11-13 | 2021-02-20 |
@@ -303,6 +308,7 @@
 | [The Kiss Of Venus (Dominic Fike)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus (Dominic Fike)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-03-14 |  |
 | [the overthinker](https://open.spotify.com/track/21Pkk76qnEgB5d0iDot4Dk) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the overthinker](https://open.spotify.com/album/2dFilrvVa8lmEQ3H7ipSLv) | 3:16 | 2021-03-14 | 2021-04-10 |
 | [The Rest](https://open.spotify.com/track/2SRx7uOuHLWrUuN2dyrZ41) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [The Rest](https://open.spotify.com/album/3lGu5v2t3o5F1jRurv9Nqq) | 2:20 | 2021-03-06 |  |
+| [The Trend](https://open.spotify.com/track/6uEZw7lGWqjoezSwzcbXxQ) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [The Trend](https://open.spotify.com/album/4cTeTD1wo72KlNwsmuJjDI) | 3:07 | 2021-04-30 |  |
 | [the way that you see me (feat. Ayleen Valentine)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me (feat. Ayleen Valentine)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 | 2021-02-20 | 2021-04-10 |
 | [THERAPY](https://open.spotify.com/track/1Kwa1zBDS4CaTGHPZ3pKau) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [THERAPY](https://open.spotify.com/album/1i0QT2p3Af2fcmVKq4TZ1u) | 3:11 | 2021-01-30 | 2021-03-06 |
 | [THEY DON'T LIKE ME](https://open.spotify.com/track/2bc7SqBhY9VaioLwZ2Jj8I) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [THEY DON'T LIKE ME](https://open.spotify.com/album/3A0uVETyD1PPrgOJ3sEaoM) | 2:48 | 2021-03-06 |  |
