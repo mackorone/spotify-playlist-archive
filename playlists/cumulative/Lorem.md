@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> spring vibes, thanks to Jelani Aryeh. 
+> put me in a field with daisies. ft girl in red
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [THEY DON'T LIKE ME](https://open.spotify.com/track/6H7hG4GzTlRIYWHIC2DNZS) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [THEY DON'T LIKE ME](https://open.spotify.com/album/4EHgAGZtx5WR6Y067fzNpo) | 2:48 | 2021-02-24 |  |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-14 |  |
 | [Things Won't Go My Way](https://open.spotify.com/track/1t46CVb0ge4YrBXKogogSg) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Things Won't Go My Way](https://open.spotify.com/album/2ovchCl2ofFJYus4s8uXuI) | 2:50 | 2020-03-27 | 2020-06-13 |
+| [this is me trying](https://open.spotify.com/track/0j5renyfv1ChCoe1ca7bDP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:15 | 2021-04-30 |  |
 | [This Town](https://open.spotify.com/track/4iDbH9ySrDlg7iBA0tq7Eq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:44 | 2021-02-12 | 2021-03-06 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 |  |
 | [Time](https://open.spotify.com/track/2yNca0rxzR3LpCQ2wHzlXf) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Time](https://open.spotify.com/album/4sdFl7WonLdXOfYqHHAm5a) | 4:06 | 2020-07-18 | 2020-08-20 |
@@ -1011,6 +1012,7 @@
 | [You're the Best](https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 2:57 | 2019-07-30 | 2019-11-14 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-05-15 | 2020-07-29 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-01-15 |  |
+| [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 |  |
 | [yours](https://open.spotify.com/track/1FHy0U8vbNRJY6t9sk4rC2) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 3:46 | 2019-07-30 | 2019-08-30 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-02-12 |  |
 | [‎twenty20](https://open.spotify.com/track/0h2WvTmqrTkptGRUEYJxGr) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎twenty20](https://open.spotify.com/album/5cPLoiHXHsbm7BRrCqebB3) | 3:08 | 2020-07-18 | 2020-07-31 |
