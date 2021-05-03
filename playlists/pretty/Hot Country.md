@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Hot%20Country.md) - [plain](/playlis
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Country Again](https://open.spotify.com/track/3SR6R5XetNfOcVqvUwDkTz) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again (Side A)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 3:41 |
+| 1 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again (Side A)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
 | 2 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 |
 | 3 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
 | 4 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |

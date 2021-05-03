@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> New K-pop tracks all in one place. Cover: P1Harmony
+> New K-pop tracks all in one place. Cover: ENHYPEN
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [No More (Prod. Zion.T)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 | 2020-10-13 | 2020-11-11 |
 | [Nostalgia](https://open.spotify.com/track/7pd6TOInBnDKg44BtCwlXT) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 1st Mini Album [Boyager]](https://open.spotify.com/album/2czdUhuifRaIUcewSR16VY) | 3:08 | 2020-11-05 | 2021-01-25 |
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2020-10-13 | 2021-03-10 |
+| [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 | 2021-05-03 |  |
 | [Numbers (feat. CHANGMO)](https://open.spotify.com/track/79r5vi5H3sYvnRNpkNylXP) | [Jamie](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Numbers (feat. CHANGMO)](https://open.spotify.com/album/1u6pT9rNfRZrG0llsv8crN) | 2:56 | 2020-10-13 | 2021-01-11 |
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album [Unforgettable]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2020-10-13 | 2021-01-11 |
 | [Odd Eye](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) | [DREAMCATCHER](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [[Dystopia : Road to Utopia]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:04 | 2021-01-27 |  |

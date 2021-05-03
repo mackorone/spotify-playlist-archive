@@ -92,7 +92,6 @@ $ pip-sync requirements/requirements-dev.txt
 - [Beats to think to](/playlists/pretty/Beats%20to%20think%20to.md)
 - [Bedroom Pop](/playlists/pretty/Bedroom%20Pop.md)
 - [Binaural Beats - Focus](/playlists/pretty/Binaural%20Beats%20-%20Focus.md)
-- [Black Girl Magic](/playlists/pretty/Black%20Girl%20Magic.md)
 - [Bollywood Dance Music](/playlists/pretty/Bollywood%20Dance%20Music.md)
 - [Bollywood Top 50](/playlists/pretty/Bollywood%20Top%2050.md)
 - [Brain Food](/playlists/pretty/Brain%20Food.md)

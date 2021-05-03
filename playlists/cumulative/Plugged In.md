@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: The Snuts
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Royal Blood
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [No Plans](https://open.spotify.com/track/4CZHbzrzXSNDagymnv99TB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [No Plans](https://open.spotify.com/album/7AHkP6mbv9D3qpHVwqJl3n) | 3:21 | 2020-10-10 |  |
 | [North Of No South - Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South (Edit)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 | 2021-02-25 |  |
 | [Now That I've Found You](https://open.spotify.com/track/4QSxcUAwEx5sFitOKZfQDN) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not. (Deluxe Edition)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:20 | 2020-10-10 | 2021-02-25 |
+| [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2021-05-03 |  |
 | [Odyssey](https://open.spotify.com/track/7h2rpQothFWwG0sO2zRWpx) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Odyssey](https://open.spotify.com/album/5NTFPgPaqFogz8IXmwtcLY) | 3:57 | 2020-10-10 |  |
 | [Oh Love - Otis Big Guitar Mix](https://open.spotify.com/track/5lvwDxlYo15gorOJQvCAOR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Otis Big Guitar Mix](https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl) | 4:52 | 2020-10-10 |  |
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2020-10-10 |  |
