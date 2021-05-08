@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Royal Blood
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Weezer
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 |  |
 | [All My Friends](https://open.spotify.com/track/4dubRkWBWpYKviADvMYgv1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [All My Friends](https://open.spotify.com/album/423eX0ukaU4IirW8RTQB2V) | 4:42 | 2020-10-10 |  |
 | [All My Friends Are Dead](https://open.spotify.com/track/2Alzd7ST1ymqz2p3vxnU6X) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [All My Friends Are Dead](https://open.spotify.com/album/4PV9MpvPEWIveMH0iXnYWg) | 3:47 | 2020-10-10 | 2021-02-25 |
+| [All the Good Ones](https://open.spotify.com/track/5jbF98Etpr6mBTwEZ5efyW) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 2:44 | 2021-05-08 |  |
 | [Alter Ego](https://open.spotify.com/track/4WkwaDueMMiU1bKHh31B6C) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Alter Ego](https://open.spotify.com/album/0C0fEWm9CaCishihwPOluu) | 4:08 | 2020-10-10 |  |
 | [Always](https://open.spotify.com/track/3CWwGkncQoPE2MKEL1zFj3) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Always](https://open.spotify.com/album/2674CYMtyVGOz2BaIaEts9) | 3:23 | 2021-02-25 |  |
 | [America (You're Freaking Me Out)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America (You're Freaking Me Out)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 | 2020-10-10 | 2021-02-25 |
@@ -66,6 +67,7 @@
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-10-10 |  |
 | [Glasgow](https://open.spotify.com/track/6nCFIb0seIECUijbDpYNDu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L. (Deluxe)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 4:26 | 2021-04-06 |  |
 | [Go](https://open.spotify.com/track/1IWom0fqK0dJKITk1H95BB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:26 | 2020-10-10 | 2021-02-25 |
+| [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2021-05-08 |  |
 | [Guilty Love](https://open.spotify.com/track/4RGXedMqIrohHTmhMXPnLc) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14), [Broods](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Guilty Love](https://open.spotify.com/album/3nIzN4pn6G17EXctMPCSNS) | 3:00 | 2021-03-08 |  |
 | [Hard Luck](https://open.spotify.com/track/7Cpn5JqDJR22FoF6c94lHd) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:59 | 2020-10-10 | 2021-02-25 |
 | [Here Comes the End (feat. Judith Hill)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End (feat. Judith Hill)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10 |  |
@@ -80,6 +82,7 @@
 | [I Love Us](https://open.spotify.com/track/0KOSSMQDkpHulm08iO00mF) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [I Love Us](https://open.spotify.com/album/3IBmX0kudqBXygh2Q9IApI) | 3:10 | 2020-10-10 |  |
 | [I Missed Out](https://open.spotify.com/track/4DQVTfZfLYIf88tZJsVsXx) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [I Missed Out](https://open.spotify.com/album/0xpUbobig8qJeW38JgJbow) | 3:33 | 2020-10-10 | 2021-02-25 |
 | [I Need Some of That](https://open.spotify.com/track/2bVC92dVDTRzlQGcz4RtOp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Need Some of That](https://open.spotify.com/album/758At0nYWEPPSkWiGOlEwj) | 3:19 | 2021-04-24 |  |
+| [I Need Some of That](https://open.spotify.com/track/1fDFIckfX373VPKvpIzFAl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 3:19 | 2021-05-08 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 | 2020-10-10 |  |
 | [I Want It](https://open.spotify.com/track/2ZUJm9FIiHeNabiRATQbFt) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [I Want It](https://open.spotify.com/album/3c6NudskLgwQfeFjkJiw1q) | 1:58 | 2021-04-24 |  |
 | [Identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Identity](https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL) | 3:36 | 2020-10-10 |  |
@@ -107,6 +110,7 @@
 | [Midnight Train](https://open.spotify.com/track/161esqOztHsKYDh9Aj4yij) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Midnight Train / Don't Wade In The Water](https://open.spotify.com/album/3BpPThkSnJZF2wo5vrmUup) | 3:16 | 2020-10-23 |  |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2020-10-10 |  |
 | [Monsters (feat. Demi Lovato and blackbear)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters (feat. Demi Lovato and blackbear)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2021-02-15 |  |
+| [Moonstar](https://open.spotify.com/track/6XJfecxMzGgOqtMsCSMUOy) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Moonstar](https://open.spotify.com/album/2a7Iemv4KcVROkxXOKQ1Mg) | 2:57 | 2021-05-08 |  |
 | [Mother](https://open.spotify.com/track/0kgXAjZ2y0kGjKUekY0H8t) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2020-10-10 |  |
 | [Mountains](https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 3:21 | 2020-10-10 | 2021-02-25 |
 | [My Religion Is You](https://open.spotify.com/track/6vet37GQffjXnGHvXvHNb5) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [My Religion Is You](https://open.spotify.com/album/5OgdfcoqYckDBhnxaONIGs) | 3:33 | 2020-10-10 |  |

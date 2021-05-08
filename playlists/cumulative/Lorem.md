@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> it's girl in red dayyyyyyy 
+> don't know if i hate you or if i wanna date you. cover: girl in red
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Blue Cellophane](https://open.spotify.com/track/0tpsGNKhQwqTlj2XZ03ql2) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Blue Cellophane](https://open.spotify.com/album/4OfgZO9nnAjfwA1ez25pCg) | 3:01 | 2019-11-16 | 2020-05-29 |
 | [blue skies](https://open.spotify.com/track/7duh8jJuNZbWQjoTx2GsDz) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [blue skies](https://open.spotify.com/album/4ZDKZJpwxWeMZ1IhCPDb0R) | 2:08 | 2019-09-14 | 2020-03-25 |
 | [Bluebird](https://open.spotify.com/track/4yJXtHBwT2BTcmAh3h3ZgU) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Bluebird](https://open.spotify.com/album/4VyCH3PAdhRsWBZUDCHQcj) | 3:47 | 2020-09-17 | 2020-11-20 |
+| [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2021-05-08 |  |
 | [BooHoo](https://open.spotify.com/track/5uidTQXrmYWTCwfJxPVW90) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:11 | 2020-10-08 | 2020-11-11 |
 | [Bored](https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Bored](https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa) | 2:39 | 2021-03-26 |  |
 | [Boredom (feat. Rex Orange County & Anna of the North)](https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 5:20 | 2020-05-12 | 2020-09-15 |
@@ -213,6 +214,7 @@
 | [Crazy For Your Love](https://open.spotify.com/track/1AyzJorHtj08PHX3vD3wto) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/7s8ErTFhlpVRuRSlnDA7HQ) | 2:21 | 2020-02-12 | 2020-02-20 |
 | [Crazy For Your Love](https://open.spotify.com/track/1AyzJorHtj08PHX3vD3wto) | [Johnny Utah](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/7s8ErTFhlpVRuRSlnDA7HQ) | 2:21 | 2019-08-08 | 2020-02-12 |
 | [Crossed Out](https://open.spotify.com/track/0UmjMgq7MEBPx1pPMEqNU8) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo), [Daniel Lin](https://open.spotify.com/artist/5JunRwYHa8kpYtiWEu8DsE) | [Crossed Out](https://open.spotify.com/album/395RRLmxtfaSdGzYZTk4pd) | 2:45 | 2021-01-15 | 2021-02-09 |
+| [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-05-08 |  |
 | [Crush](https://open.spotify.com/track/6q7Tz67loOULIPEXo941hk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Crush](https://open.spotify.com/album/6YCCXSCAnh4Ppzs8Hv3xXd) | 3:36 | 2019-09-20 | 2020-02-05 |
 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 | 2019-07-30 | 2020-03-20 |
 | [Crushes](https://open.spotify.com/track/64Cto2O2ZZuGObczMYnSrK) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Crushes](https://open.spotify.com/album/1sezJQ3BzHaoIrCTLHBEJC) | 2:31 | 2020-08-21 | 2021-01-12 |
@@ -841,6 +843,7 @@
 | [STAY IN (feat. LoveLeo)](https://open.spotify.com/track/2smYox7uyoZCKgMHoqfg4X) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [STAY IN](https://open.spotify.com/album/0xO1o1vjzil8Nch5mNjjox) | 2:08 | 2021-02-06 | 2021-03-19 |
 | [Stayback](https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stayback](https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk) | 2:39 | 2020-08-07 | 2020-08-21 |
 | [Staying In Bed Too Late (feat. Jimi Somewhere)](https://open.spotify.com/track/59IgXH4eku2CIqRDinAGGJ) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Staying In Bed Too Late (feat. Jimi Somewhere)](https://open.spotify.com/album/7p7zcgq3J4G1TrJMT8PV5i) | 3:25 | 2020-12-04 | 2021-01-12 |
+| [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2021-05-08 |  |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2020-04-03 | 2021-01-12 |
 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 | 2021-01-27 | 2021-03-06 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-01-07 | 2021-03-09 |
@@ -915,7 +918,7 @@
 | [THEY DON'T LIKE ME](https://open.spotify.com/track/6H7hG4GzTlRIYWHIC2DNZS) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [THEY DON'T LIKE ME](https://open.spotify.com/album/4EHgAGZtx5WR6Y067fzNpo) | 2:48 | 2021-02-24 | 2021-05-03 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-14 |  |
 | [Things Won't Go My Way](https://open.spotify.com/track/1t46CVb0ge4YrBXKogogSg) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Things Won't Go My Way](https://open.spotify.com/album/2ovchCl2ofFJYus4s8uXuI) | 2:50 | 2020-03-27 | 2020-06-13 |
-| [this is me trying](https://open.spotify.com/track/0j5renyfv1ChCoe1ca7bDP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:15 | 2021-04-30 |  |
+| [this is me trying](https://open.spotify.com/track/0j5renyfv1ChCoe1ca7bDP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:15 | 2021-04-30 | 2021-05-08 |
 | [This Town](https://open.spotify.com/track/4iDbH9ySrDlg7iBA0tq7Eq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:44 | 2021-02-12 | 2021-03-06 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 |  |
 | [Time](https://open.spotify.com/track/2yNca0rxzR3LpCQ2wHzlXf) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Time](https://open.spotify.com/album/4sdFl7WonLdXOfYqHHAm5a) | 4:06 | 2020-07-18 | 2020-08-20 |
