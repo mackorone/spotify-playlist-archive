@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5McngUiuALFIS4VVF4oko5.md) - [plain]
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 37 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 37 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 362280,
       "name": "Cono",
       "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-06-20",
       "duration_ms": 285619,
       "name": "Itarafo",
       "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": "2022-07-19",
       "duration_ms": 245000,
       "name": "Karifa",
       "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 475760,
       "name": "Lony",
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 366921,
       "name": "Oh Affa",
       "url": "https://open.spotify.com/track/5abjhX0glgRUX6AFoPlNL9"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": "2022-06-01",
       "duration_ms": 196613,
       "name": "Souvent",
       "url": "https://open.spotify.com/track/7pTBsCyeQ5fIt4u7e0aAaH"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": "2022-06-05",
       "duration_ms": 330240,
       "name": "Tono",
       "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 285866,
       "name": "Wamba",
       "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"
@@ -1109,6 +1109,32 @@
       "duration_ms": 365040,
       "name": "Waraya",
       "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
+    },
+    {
+      "album": {
+        "name": "Timhamba",
+        "url": "https://open.spotify.com/album/7KtNzZvqQ4R0FFIecKrh0x"
+      },
+      "artists": [
+        {
+          "name": "Mzee",
+          "url": "https://open.spotify.com/artist/69COTYkIcm05ulpx4qfvgV"
+        },
+        {
+          "name": "Rafiki",
+          "url": "https://open.spotify.com/artist/2VhIcPYW2csXTCEQCSincR"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 388933,
+      "name": "We Are All Africans",
+      "url": "https://open.spotify.com/track/6frehrOUQYph3hpqJQvsUn"
     },
     {
       "album": {

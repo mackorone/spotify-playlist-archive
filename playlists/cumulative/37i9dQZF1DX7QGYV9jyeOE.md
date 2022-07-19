@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-70 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
+72 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Tempest](https://open.spotify.com/track/2blEElPRwz8TaXcASaGcC2) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Renewal](https://open.spotify.com/album/2yWua3aCOCQ3sUVEmbhMX5) | 4:42 | 2021-10-15 |  |
 | [Tender Side of the Moon](https://open.spotify.com/track/1TQTyI63w5oX6gF3B35EVI) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Sage](https://open.spotify.com/album/5naJLHIAF4UnAIDkIuKBva) | 2:33 | 2021-10-15 |  |
 | [The Angels Voice](https://open.spotify.com/track/5jssdePPnGzHhhJOdoSbZD) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 7:05 | 2021-10-15 |  |
+| [The Angels' Lullaby](https://open.spotify.com/track/0vWzufzHUeEOfCHxs264j3) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:25 | 2022-05-06 |  |
 | [The Ascent](https://open.spotify.com/track/5v1ucXIMPDgWYveqEmAYCp) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Transcendence](https://open.spotify.com/album/6xyvXQYAkNYjINgig3bTia) | 10:53 | 2021-10-15 |  |
 | [The Breeze at Dawn](https://open.spotify.com/track/1TNE2Y8FJsBYwzUeT9Y0PF) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Meditations](https://open.spotify.com/album/4csMLWzL1MrzK68NUh6adm) | 11:09 | 2021-10-15 |  |
 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/4JwNHNK2qjggRJkdkfERxa) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/40tlrXYp2qd0ioGD92haRj) | 4:03 | 2021-10-15 |  |
@@ -72,6 +73,7 @@
 | [The Reminder of Long Ago](https://open.spotify.com/track/5lwF8gbYyZ8LSdrVAqlFxt) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 4:54 | 2021-10-15 |  |
 | [The Silence of Grace](https://open.spotify.com/track/0V0kO7OPzP95tTSlFZv6f7) | [Deborah Martin](https://open.spotify.com/artist/21A7hijIs2g7i44kE2HUvq), [Jill Haley](https://open.spotify.com/artist/6NdwACy3mQjqlQ8WX1iyyZ) | [The Silence of Grace](https://open.spotify.com/album/4vMBG50zF7pYRPUUZOo1xd) | 6:54 | 2021-10-15 |  |
 | [The Sweetness of Mist](https://open.spotify.com/track/6sAl9wE59xAC4w8rS5HpNp) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [The Shimmering Land](https://open.spotify.com/album/3uKsRcKOfpqKGyzLhJ53gG) | 8:50 | 2021-10-15 |  |
+| [The Two Feathers](https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:26 | 2022-05-06 |  |
 | [The Unveiling](https://open.spotify.com/track/04siHNnNCNgBkpALyouJZv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 5:09 | 2021-10-15 |  |
 | [Tides V](https://open.spotify.com/track/03qT1kvlTKcdsCH4axWiEe) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 6:36 | 2021-10-15 |  |
 | [Tides VII](https://open.spotify.com/track/5tmJVC4Eh86aZcjmBOpr94) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 3:20 | 2021-10-15 |  |

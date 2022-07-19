@@ -4,7 +4,7 @@
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-74 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
+75 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 | 2022-01-28 |  |
 | [El Fandango Aquí](https://open.spotify.com/track/3W4Qe7SCvaiuqfn2MYI98c) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [El Fandango Aquí](https://open.spotify.com/album/4d8SbW1LBGeOptPHPr92Oe) | 3:07 | 2022-01-28 |  |
 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/3SrnZHhXpgtvHerbxEDOWW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [30 Grandes Canciones](https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR) | 3:51 | 2022-01-28 |  |
+| [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 | 2022-07-14 |  |
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2022-01-28 |  |
 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 | 2022-01-28 |  |
 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Leonardo Favio Cronología \- Fuiste Mía un Verano \(1968\)](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 | 2022-01-28 |  |

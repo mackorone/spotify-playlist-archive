@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-66 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
+67 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [G.U.Y.](https://open.spotify.com/track/3sQyifoaayj7MUTMxb5TjH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k) | 3:52 | 2020-10-16\* |  |
 | [Hair](https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* |  |
 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 | 2020-10-16\* |  |
+| [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-09 |  |
 | [I Concentrate On You](https://open.spotify.com/track/1Z2el1XLsdJwt6Kefb2F5p) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:56 | 2021-10-02 | 2021-10-16 |
 | [I Don't Know What Love Is](https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 2:57 | 2020-10-16\* |  |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [I Get A Kick Out Of You](https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab) | 3:33 | 2021-08-05 |  |

@@ -476,6 +476,36 @@
     },
     {
       "album": {
+        "name": "Shamshera",
+        "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Karan Malhotra",
+          "url": "https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308459,
+      "name": "Fitoor",
+      "url": "https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM"
+    },
+    {
+      "album": {
         "name": "Gerua (From \"Dilwale\")",
         "url": "https://open.spotify.com/album/4UdX8yGAWSZADs8cDxInY8"
       },
@@ -599,6 +629,32 @@
       "duration_ms": 289999,
       "name": "Hawayein",
       "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
+    },
+    {
+      "album": {
+        "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
+        "url": "https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238252,
+      "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
+      "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
     },
     {
       "album": {
@@ -730,6 +786,32 @@
     },
     {
       "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
+    {
+      "album": {
         "name": "Chhichhore",
         "url": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
       },
@@ -771,6 +853,32 @@
       "duration_ms": 335709,
       "name": "Khamoshiyan (From \"Khamoshiyan\")",
       "url": "https://open.spotify.com/track/5Gy67YHzPZTk9Q0D73LAGH"
+    },
+    {
+      "album": {
+        "name": "Kitni Haseen Hogi (From \"Hit - The First Case\")",
+        "url": "https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330906,
+      "name": "Kitni Haseen Hogi (From \"Hit - The First Case\")",
+      "url": "https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5"
     },
     {
       "album": {

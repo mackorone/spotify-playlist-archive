@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Replongez dans les plus grands tubes de la p\u00e9riode y\u00e9y\u00e9.",
+  "description": "Replongez dans les plus grands tubes de la p\u00e9riode y\u00e9y\u00e9. Photo : Fran\u00e7oise Hardy",
   "name": "Salut les y\u00e9y\u00e9s",
   "published_playlist_ids": [
     "1E6Av7gXZceh7QkqVWHz8v"
@@ -229,6 +229,24 @@
     {
       "album": {
         "name": "Tendres Annees",
+        "url": "https://open.spotify.com/album/5ka3kH5QiNRqPJr0HvTSmY"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D"
+    },
+    {
+      "album": {
+        "name": "Tendres Annees",
         "url": "https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG"
       },
       "artists": [
@@ -300,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Il est cinq heures",
+        "url": "https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Il est cinq heures, Paris s'\u00e9veille",
+      "url": "https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj"
+    },
+    {
+      "album": {
         "name": "Il Fait Trop Beau Pour Travailler",
         "url": "https://open.spotify.com/album/3qYJhooIMPsv0O501RunHQ"
       },
@@ -333,6 +369,24 @@
       "duration_ms": 137173,
       "name": "Itsi Bitsi Petit Bikini / Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
       "url": "https://open.spotify.com/track/3AmaOYSLccL1G0dw9SC8eQ"
+    },
+    {
+      "album": {
+        "name": "En Vogue",
+        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
     },
     {
       "album": {
@@ -471,6 +525,60 @@
           "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
         }
       ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Le petit pain au chocolat",
+      "url": "https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Le t\u00e9l\u00e9fon",
+      "url": "https://open.spotify.com/track/5MkRyZiEyNnosHTAYs23Mx"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -495,6 +603,24 @@
       "duration_ms": 207400,
       "name": "Les elucubrations d'Antoine",
       "url": "https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2"
+    },
+    {
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "album": {
@@ -606,6 +732,60 @@
     },
     {
       "album": {
+        "name": "Salut les copains",
+        "url": "https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156293,
+      "name": "Salut les copains",
+      "url": "https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Siffler sur la colline",
+      "url": "https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW"
+    },
+    {
+      "album": {
         "name": "Souvenirs, Souvenirs",
         "url": "https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL"
       },
@@ -635,7 +815,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
@@ -733,6 +913,24 @@
       "duration_ms": 176466,
       "name": "Vous permettez Monsieur",
       "url": "https://open.spotify.com/track/7ooXNiHvxOaVJ8Bfb4hnic"
+    },
+    {
+      "album": {
+        "name": "Twistin\u2019 The Rock, Vol. 9",
+        "url": "https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg"
+      },
+      "artists": [
+        {
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OVycSP3AXz"

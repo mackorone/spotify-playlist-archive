@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 204036,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39"
+    },
+    {
+      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
@@ -690,7 +708,7 @@
       "artists": [
         {
           "name": "Teleradio Donoso",
-          "url": "https://open.spotify.com/artist/5mD1DfOcAyu9yEFMWp6Now"
+          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
         }
       ],
       "date_added": "2022-01-21",
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 201223,
       "name": "Holy Soul",
       "url": "https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 200960,
       "name": "Vienen A Verme - Theme from \"El Chapo\"",
       "url": "https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi"

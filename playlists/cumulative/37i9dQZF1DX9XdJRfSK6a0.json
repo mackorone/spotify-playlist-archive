@@ -8,6 +8,96 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b"
+    },
+    {
+      "album": {
         "name": "1440 (Remastered 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g"
       },
@@ -23,24 +113,6 @@
       "duration_ms": 416847,
       "name": "1440 (Remastered 10th Anniversary Edition)",
       "url": "https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD"
-    },
-    {
-      "album": {
-        "name": "A Prominent Response",
-        "url": "https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3"
-      },
-      "artists": [
-        {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
-        }
-      ],
-      "date_added": "2019-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173298,
-      "name": "A Prominent Response",
-      "url": "https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31"
     },
     {
       "album": {
@@ -156,24 +228,6 @@
     },
     {
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27"
-      },
-      "artists": [
-        {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
-        }
-      ],
-      "date_added": "2019-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194000,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b"
-    },
-    {
-      "album": {
         "name": "Staring Directly Into the Sun",
         "url": "https://open.spotify.com/album/5jmGz6ggQWnhCNjkEfYCcL"
       },
@@ -189,24 +243,6 @@
       "duration_ms": 287296,
       "name": "Everything That Can Be Invented",
       "url": "https://open.spotify.com/track/1sNHnNghTXeVqhWfklniyl"
-    },
-    {
-      "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD"
-      },
-      "artists": [
-        {
-          "name": "Kylian Rebour",
-          "url": "https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX"
-        }
-      ],
-      "date_added": "2019-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123762,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY"
     },
     {
       "album": {
@@ -598,24 +634,6 @@
     },
     {
       "album": {
-        "name": "To Jan",
-        "url": "https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I"
-      },
-      "artists": [
-        {
-          "name": "Leonard Anderson",
-          "url": "https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS"
-        }
-      ],
-      "date_added": "2019-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188411,
-      "name": "The Girl Plays",
-      "url": "https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8"
-    },
-    {
-      "album": {
         "name": "Kning Disk 2005-2012 Box Set",
         "url": "https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu"
       },
@@ -793,24 +811,6 @@
       "duration_ms": 224773,
       "name": "Vissel",
       "url": "https://open.spotify.com/track/5EdblWf0gHqPPVhjQSLyLT"
-    },
-    {
-      "album": {
-        "name": "Waves From a Distance",
-        "url": "https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo"
-      },
-      "artists": [
-        {
-          "name": "Martin Skoog",
-          "url": "https://open.spotify.com/artist/3yLhat6RGpb8cdE1NLSFrw"
-        }
-      ],
-      "date_added": "2019-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160625,
-      "name": "Waves From a Distance",
-      "url": "https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T"
     },
     {
       "album": {

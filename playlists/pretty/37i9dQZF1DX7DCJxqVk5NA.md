@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,232 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,612 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 12 | [Simon Says \(feat\. Juicy J\)](https://open.spotify.com/track/4l2maonUDTMvGGT4bmkB3h) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:20 |
 | 13 | [Playas Rock \(feat\. Boxie\)](https://open.spotify.com/track/5wRiOkVmRhxa8OdLLgMuAt) | [Hurricane Chris](https://open.spotify.com/artist/1fQ46lgoUCz8FVXdTVNk0a), [Boxie](https://open.spotify.com/artist/4PlUxptvZ1Ja8dSW142OCh) | [51/50 Ratchet](https://open.spotify.com/album/5LcmD1KwDZV4TZXuPSH24t) | 4:11 |
 | 14 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 |
-| 15 | [Independent \(feat\. Lil' Boosie and Lil' Phat\)](https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf) | [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Lil Phat](https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9) | [Savage Life 2 \(Explicit Version\)](https://open.spotify.com/album/06J105KDZyAjOjca0RToRL) | 4:10 |
+| 15 | [Independent \(feat\. Lil' Boosie and Lil' Phat\)](https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf) | [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Lil Phat](https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9) | [Savage Life 2](https://open.spotify.com/album/06J105KDZyAjOjca0RToRL) | 4:10 |
 | 16 | [Rock Yo Hips](https://open.spotify.com/track/76dZuMVXjIyLPRLv00skGd) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo) | [Hated on Mostly](https://open.spotify.com/album/0UkPbHf0xnTbNTLn6YUajE) | 3:46 |
 | 17 | [Pop, Lock & Drop It \(feat\. Bow Wow & T\-Pain\) \- Remix](https://open.spotify.com/track/6nbRXoZJAWlHtnWcPAY9Or) | [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Notebook Paper](https://open.spotify.com/album/2o5LE6Q7svPXHmwM75xWbv) | 4:29 |
 | 18 | [Back That Azz Up](https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [400 Degreez](https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ) | 4:25 |

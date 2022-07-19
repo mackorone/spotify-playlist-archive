@@ -210,6 +210,28 @@
     },
     {
       "album": {
+        "name": "Behind the Sea",
+        "url": "https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        },
+        {
+          "name": "Jens Filser",
+          "url": "https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Behind the Sea",
+      "url": "https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3"
+    },
+    {
+      "album": {
         "name": "Big Mama'S Door",
         "url": "https://open.spotify.com/album/3TNHq2DDgfhMnXsmGac0Bm"
       },
@@ -225,6 +247,28 @@
       "duration_ms": 231400,
       "name": "Big Mama's Door",
       "url": "https://open.spotify.com/track/3AkN7wZwvXmhvlSWDMKkbr"
+    },
+    {
+      "album": {
+        "name": "Blessings and Blues",
+        "url": "https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 154500,
+      "name": "Blessings and Blues",
+      "url": "https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK"
     },
     {
       "album": {
@@ -592,6 +636,36 @@
     },
     {
       "album": {
+        "name": "The Lost Session",
+        "url": "https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh"
+      },
+      "artists": [
+        {
+          "name": "Frank Schaap Quartet",
+          "url": "https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC"
+        },
+        {
+          "name": "Josh Levine",
+          "url": "https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272"
+        },
+        {
+          "name": "David Langlois",
+          "url": "https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv"
+        },
+        {
+          "name": "Miguel Weissman",
+          "url": "https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282263,
+      "name": "Eyesight to the Blind",
+      "url": "https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR"
+    },
+    {
+      "album": {
         "name": "Then & Now",
         "url": "https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp"
       },
@@ -816,6 +890,24 @@
     },
     {
       "album": {
+        "name": "It Would Be Better for the Bad to Be Good",
+        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "It Would Be Better for the Bad to Be Good",
+      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
+    },
+    {
+      "album": {
         "name": "Animals In The Dark",
         "url": "https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R"
       },
@@ -979,7 +1071,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km"
@@ -1113,7 +1205,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 152075,
       "name": "Oh Now",
       "url": "https://open.spotify.com/track/3WxksalSl9j5N3JkvFn8lY"
@@ -1149,7 +1241,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 251960,
       "name": "Outside In",
       "url": "https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL"
@@ -1337,6 +1429,32 @@
       "duration_ms": 348382,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2L7M2b2WZJkPSvPGy9BBmi"
+    },
+    {
+      "album": {
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/6GtrAnXKQgxz1QLs1yPYLq"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Jimmy Vivino",
+          "url": "https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Running Through High Water",
+      "url": "https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS"
     },
     {
       "album": {
@@ -1643,7 +1761,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195666,
       "name": "Under His Command",
       "url": "https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0"

@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161724,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP"
+    },
+    {
+      "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe"
       },
@@ -161,10 +179,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 184000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/0tKH2CJjEBh74qXBdh8Xvl"
+    },
+    {
+      "album": {
+        "name": "Bad Habits (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/2mV9Gs9S0tuXTSjD6bKsUO"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236226,
+      "name": "Bad Habits (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4RkslWnwxbvU5wy00BNRsR"
     },
     {
       "album": {
@@ -329,7 +365,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 218181,
       "name": "Better Together - Instrumental",
       "url": "https://open.spotify.com/track/2f9V1rIwActY4UKBQuxHqq"
@@ -495,7 +531,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232160,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6fh2YS29IrmW1yCHMlTDTM"
@@ -561,7 +597,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 306571,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/1WhbXPpGtDdMlu9yPpA9fb"
@@ -627,7 +663,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187786,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk"
@@ -663,7 +699,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177600,
       "name": "Don't Wanna Know",
       "url": "https://open.spotify.com/track/7ICe7aEcO7GaVGWwUc0edv"
@@ -717,7 +753,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 250174,
       "name": "Drop the Game (Piano Arrangement)",
       "url": "https://open.spotify.com/track/74XiL7qOPpqY1jOItswAWr"
@@ -905,7 +941,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 229026,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s"
@@ -941,7 +977,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 165882,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw"
@@ -977,7 +1013,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 253000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4mfzUScqJrZuzL9EvP1jTE"
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 372746,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0"
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 294100,
       "name": "Imagine / What a Wonderful World",
       "url": "https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV"
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 221653,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie"
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 234453,
       "name": "Never Gonna Give You Up (feat. Simply Three)",
       "url": "https://open.spotify.com/track/4TijaNZQchZj9E86WK5jSH"
@@ -1569,6 +1605,46 @@
       "duration_ms": 184440,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289648,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill (Violin)",
+        "url": "https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 246666,
+      "name": "Running Up That Hill - Violin",
+      "url": "https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3"
     },
     {
       "album": {
@@ -1805,7 +1881,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197586,
       "name": "Sour Times (arr. Metcalfe, Assad)",
       "url": "https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT"
@@ -1823,7 +1899,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 395721,
       "name": "Space Oddity",
       "url": "https://open.spotify.com/track/2BZkZHf4HRzWQtQQefZIRm"
@@ -2088,6 +2164,28 @@
     },
     {
       "album": {
+        "name": "Watermelon Sugar",
+        "url": "https://open.spotify.com/album/25ejJm7KpguIh1zBc3q7ev"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175934,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/3vZ5bB1uAQQsG6N78BvaIJ"
+    },
+    {
+      "album": {
         "name": "Who Wants to Live Forever: Queen on a Steinway",
         "url": "https://open.spotify.com/album/2VH1mSWHCYUqQMRsD3FazF"
       },
@@ -2103,7 +2201,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181160,
       "name": "We Are the Champions (Arr. S. Mulligan for Piano)",
       "url": "https://open.spotify.com/track/3w2R0fwS0APnP1hKPNI2kB"

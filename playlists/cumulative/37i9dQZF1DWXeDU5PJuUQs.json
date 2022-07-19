@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Adicta al Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 184430,
+      "name": "Adicta al Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3"
+    },
+    {
+      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 328000,
       "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
       "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
@@ -153,7 +171,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 243275,
       "name": "Amor Sin Fronteras (En Vivo Movistar Arena Santiago, Chile)",
       "url": "https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE"
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 462272,
       "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
       "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-14",
       "duration_ms": 222208,
       "name": "Cumbia Fuerte - En Vivo",
       "url": "https://open.spotify.com/track/6SVlZ15BSPgi0ieB4SO8gG"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-08",
       "duration_ms": 218151,
       "name": "C\u00f3ncavo y Convexo - En Vivo",
       "url": "https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR"
@@ -301,10 +319,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 317068,
       "name": "Damas Gratis Mix",
       "url": "https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8"
+    },
+    {
+      "album": {
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
     },
     {
       "album": {
@@ -373,7 +409,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 117653,
       "name": "El Tano Pastita",
       "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
@@ -449,10 +485,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
+    },
+    {
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     },
     {
       "album": {
@@ -467,7 +521,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-06-03",
       "duration_ms": 184790,
       "name": "Falso Malo - En Vivo",
       "url": "https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h"
@@ -485,7 +539,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 297351,
       "name": "Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame - En Vivo",
       "url": "https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5"
@@ -525,7 +579,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 218827,
       "name": "Hacela de Noche / Nacido para Geder - En Vivo en Tropitango",
       "url": "https://open.spotify.com/track/2iNKr6J2h2iE0wOPbOqQEK"
@@ -543,7 +597,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-14",
       "duration_ms": 257091,
       "name": "Haciendo Nada (En Vivo Movistar Arena Santiago, Chile)",
       "url": "https://open.spotify.com/track/4QZ9cwXcaMSLI4pBlkNWc8"
@@ -561,7 +615,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 166000,
       "name": "Hawai / Vida de Rico - Live Session",
       "url": "https://open.spotify.com/track/55PpTrstgX5l4CpJIjm34I"
@@ -579,7 +633,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 503514,
       "name": "Hembra Salvaje / Placer y Olvido / Ni Tu Amiga Ni Tu Amante / Me Vas a Extra\u00f1ar / No Te Creas Tan Importante / La Cerveza",
       "url": "https://open.spotify.com/track/645tk4gC3hk9hBDEXSX5os"
@@ -727,7 +781,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 1189152,
       "name": "La Huella / Aprovechadora / Has Vuelto Mi Amor / Vengo a Pedirte / Amor de Adolescente / Una Noche Mas / Regresa por Favor / La Que Me Pudo Enamorar / Te Extra\u00f1o a Ti / Pensando en Ti / Desesperado - En Vivo",
       "url": "https://open.spotify.com/track/6K4dgYClJiJvHmlxHGKY4X"
@@ -807,7 +861,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 124253,
       "name": "La Ultima Cancion - En Vivo",
       "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
@@ -843,7 +897,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 92020,
       "name": "Labios Compartidos - En Vivo",
       "url": "https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q"
@@ -883,7 +937,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 240773,
       "name": "Locura y Pasi\u00f3n (En Vivo en la Quinta Vergara)",
       "url": "https://open.spotify.com/track/34ibXLS4Wp2x2vDAlAzIRM"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 130922,
       "name": "Los Duen\u0303os del Pabell\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/2UixuBXjGIS0hoyECo85Vp"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 287320,
       "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
       "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
@@ -937,7 +991,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 95400,
       "name": "Maldita Cazafortuna - En Vivo",
       "url": "https://open.spotify.com/track/4xkwbDPG8vtks0zkmdOUYv"
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 340000,
       "name": "Me Acostumbr\u00e9 a Ti / Chica Brasilera - Live Session",
       "url": "https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M"
@@ -995,7 +1049,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-06-19",
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
@@ -1057,7 +1111,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-05",
       "duration_ms": 474505,
       "name": "Mentiras / Es Mi Culpa / Lo Intentamos - En Vivo",
       "url": "https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk"
@@ -1093,7 +1147,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 168195,
       "name": "Mi Unico Amor - En Vivo",
       "url": "https://open.spotify.com/track/1D4uvZibCvsPF4iaBcyQ57"
@@ -1111,7 +1165,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-06",
       "duration_ms": 589000,
       "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
       "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
@@ -1129,10 +1183,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-16",
       "duration_ms": 212009,
       "name": "Mueve el Cucuta - En Vivo en Pasi\u00f3n",
       "url": "https://open.spotify.com/track/7lAS6xdJTGd7QJPX467jsq"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "album": {
@@ -1201,7 +1273,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 183583,
       "name": "No Me Vuelvo a Enamorar - En Vivo",
       "url": "https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo"
@@ -1259,7 +1331,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-12",
       "duration_ms": 156969,
       "name": "Paisaje - En Vivo",
       "url": "https://open.spotify.com/track/6eoyDlYshTp0L8t6qPodeN"
@@ -1295,7 +1367,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
@@ -1389,7 +1461,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 246946,
       "name": "Presentaci\u00f3n / Dej\u00e9moslo As\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj"
@@ -1407,7 +1479,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-06",
       "duration_ms": 71981,
       "name": "Pupilas Lejanas - En Vivo",
       "url": "https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR"
@@ -1483,7 +1555,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-06",
       "duration_ms": 131120,
       "name": "Sencillamente - En Vivo",
       "url": "https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if"
@@ -1501,7 +1573,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 306238,
       "name": "Session Live: Te Llevas Todo / Me Preocupa Sin Ti / D\u00e9jenla Que Llore Sola",
       "url": "https://open.spotify.com/track/0ipf9Js7CHIj2LXzuFMFkR"
@@ -1559,7 +1631,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 79516,
       "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
@@ -1577,7 +1649,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 235106,
       "name": "Solo Aspirina - En Vivo",
       "url": "https://open.spotify.com/track/6uZwsrPLO56Y4CnVF2aks3"
@@ -1613,7 +1685,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-15",
       "duration_ms": 384634,
       "name": "Su Mujer y La Cita - En Vivo",
       "url": "https://open.spotify.com/track/0AOj4m3RMoqpQAXpbUtOb6"
@@ -1649,7 +1721,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 178000,
       "name": "Te Amar\u00e9 Hasta Que Me Olvides - Live Session",
       "url": "https://open.spotify.com/track/6FA9D5Ne8D8qFxZAuL03wk"
@@ -1671,7 +1743,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-19",
       "duration_ms": 213859,
       "name": "Te Hubieras Ido Antes - En Vivo",
       "url": "https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv"
@@ -1707,7 +1779,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 184032,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/1zpZws099ymKYMQsQNZJ8n"
@@ -1725,7 +1797,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Tomar\u00e9 para Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/7aygU6AcA7qItFRSQRQfsQ"
@@ -1743,10 +1815,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 121087,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
     },
     {
       "album": {
@@ -1819,7 +1909,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 105000,
       "name": "Un Amor Que No Se Olvida - En Vivo",
       "url": "https://open.spotify.com/track/2U7pudlBcLKtF79qyUjRKJ"
@@ -1837,7 +1927,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 429920,
       "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
       "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
@@ -1891,7 +1981,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-06",
       "duration_ms": 260096,
       "name": "Ya Te Olvide - En Vivo",
       "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
@@ -1909,7 +1999,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-20",
       "duration_ms": 129904,
       "name": "Yo Tengo un Angel - En Vivo",
       "url": "https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI"

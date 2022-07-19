@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 180927,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
@@ -364,6 +364,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210859,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
+    },
+    {
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Belly Dance",
       "url": "https://open.spotify.com/track/7cYuWkbHyld3zWV9jx5vTQ"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 186017,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 150106,
       "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
       "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
@@ -550,6 +568,32 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
+      },
+      "artists": [
+        {
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+        },
+        {
+          "name": "Loredvn",
+          "url": "https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY"
+        },
+        {
+          "name": "Geanina",
+          "url": "https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152555,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+    },
+    {
+      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/4uw61lolt65J501aWdt4Fr"
       },
@@ -565,7 +609,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": "2022-07-06",
       "duration_ms": 201864,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7vdihCV62kwUQq56ogHK1Q"
@@ -591,7 +635,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-07",
       "duration_ms": 201463,
       "name": "Count on You - Anthony Keyrouz Remix - Radio Edit",
       "url": "https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0"
@@ -642,6 +686,28 @@
     },
     {
       "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "album": {
         "name": "Dar Gnawa Ep",
         "url": "https://open.spotify.com/album/3ZwlXB4sw91PjNlsLSmBxJ"
       },
@@ -653,7 +719,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 419904,
       "name": "Dar Gnawa - Original Mix",
       "url": "https://open.spotify.com/track/3y5HE8dQl42d0fzyfrIdU5"
@@ -813,7 +879,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 438674,
       "name": "Dle Yaman (116 Deep Mix)",
       "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
@@ -919,7 +985,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 341386,
       "name": "Eibada",
       "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
@@ -1032,6 +1098,28 @@
     },
     {
       "album": {
+        "name": "Futureland",
+        "url": "https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Turkish Coffee",
+          "url": "https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381308,
+      "name": "Fi Alfarah",
+      "url": "https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r"
+    },
+    {
+      "album": {
         "name": "Fiddle",
         "url": "https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg"
       },
@@ -1109,7 +1197,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 234838,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
@@ -1255,7 +1343,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
@@ -1273,7 +1361,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-25",
       "duration_ms": 194015,
       "name": "I Can't Be - Radio Mix",
       "url": "https://open.spotify.com/track/1foM3WWlTMWsWw7LHv2kfd"
@@ -1408,6 +1496,24 @@
     },
     {
       "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/2OqAZG09xs8wbGFP2qzxf8"
       },
@@ -1463,7 +1569,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
@@ -1529,7 +1635,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 681500,
       "name": "Khayyam",
       "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
@@ -1587,7 +1693,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 394280,
       "name": "Lala",
       "url": "https://open.spotify.com/track/4e8eGYuknZV22JYoOCV2MY"
@@ -1609,7 +1715,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 390717,
       "name": "Lalai",
       "url": "https://open.spotify.com/track/05DbXdyYmbC4FMsALulcSa"
@@ -1631,7 +1737,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 338400,
       "name": "Lalla Aicha - Main Mix",
       "url": "https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ"
@@ -1715,7 +1821,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 192262,
       "name": "Larg",
       "url": "https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb"
@@ -1769,11 +1875,15 @@
         {
           "name": "Oum",
           "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        },
+        {
+          "name": "Mashti & Polyesta",
+          "url": "https://open.spotify.com/artist/5Ua1N3HlmmjliTsgsIuZu8"
         }
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 323720,
       "name": "Lik - Mashti & Polyesta Remix for Womex 14",
       "url": "https://open.spotify.com/track/7AlDyIyHRVg5eeNiuJnJKn"
@@ -1865,7 +1975,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 170228,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH"
@@ -1927,7 +2037,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
@@ -2025,7 +2135,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "Mizaru",
       "url": "https://open.spotify.com/track/3zEjvQVs0DQO0rU6KDWe4C"
@@ -2050,6 +2160,36 @@
     },
     {
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
+      },
+      "artists": [
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        },
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Yohan & David",
+          "url": "https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452950,
+      "name": "Mosaic - Yohan & David Remix",
+      "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "album": {
         "name": "Mosa\u00efque",
         "url": "https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb"
       },
@@ -2061,7 +2201,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 221962,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ"
@@ -2079,10 +2219,32 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 434521,
       "name": "Moultan - Original Mix",
       "url": "https://open.spotify.com/track/1iwcs9HYCGkineRo2ya52m"
+    },
+    {
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/4GngckWbcK6cWopdBoWLdg"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-02",
+      "duration_ms": 247422,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/5jYntKRDo21t5sEQHx8OM2"
     },
     {
       "album": {
@@ -2101,7 +2263,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
@@ -2123,7 +2285,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 172216,
       "name": "My Name Is Tokyo",
       "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
@@ -2171,7 +2333,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-07-17",
       "duration_ms": 172695,
       "name": "Nentori (feat. Arilena Ara)",
       "url": "https://open.spotify.com/track/6IluCTRwb67xmoxSKu5MyK"
@@ -2193,7 +2355,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 328000,
       "name": "Nouaassi",
       "url": "https://open.spotify.com/track/73hp1lkSkYR674gCyB10m6"
@@ -2431,7 +2593,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR"
@@ -2489,7 +2651,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 435187,
       "name": "OUD",
       "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
@@ -2507,7 +2669,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 516000,
       "name": "Oud Imperial",
       "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
@@ -2737,7 +2899,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
@@ -2755,7 +2917,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 278778,
       "name": "Route 55",
       "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
@@ -2865,7 +3027,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "Salat Ala Nabina - Radio Edit",
       "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
@@ -2883,7 +3045,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 283659,
       "name": "Samra",
       "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
@@ -2927,7 +3089,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
@@ -2949,7 +3111,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
@@ -3025,7 +3187,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 381818,
       "name": "Souq - Bonus Track",
       "url": "https://open.spotify.com/track/4zME4qWOOXhtLlInSaBt1E"
@@ -3112,6 +3274,32 @@
     },
     {
       "album": {
+        "name": "Sunset (The Distance & Riddick Remix)",
+        "url": "https://open.spotify.com/album/0wMQBrQHrr4qesm0ACrI49"
+      },
+      "artists": [
+        {
+          "name": "Can Sezgin",
+          "url": "https://open.spotify.com/artist/1eqqKW8azBmxyYXkXs1DeG"
+        },
+        {
+          "name": "Dilara Ferit",
+          "url": "https://open.spotify.com/artist/3V3tV0iCRgGDEYsBT7rMLW"
+        },
+        {
+          "name": "Emre Yazg\u0131n",
+          "url": "https://open.spotify.com/artist/0fua7ATlfXlVZETvWnqvtM"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 325423,
+      "name": "Sunset (The Distance & Riddick Remix)",
+      "url": "https://open.spotify.com/track/3hjW2PYBIY4hxVgCwHLdOe"
+    },
+    {
+      "album": {
         "name": "Syria",
         "url": "https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54"
       },
@@ -3145,7 +3333,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 545813,
       "name": "Tarlabasi - Be Svendsen Remix",
       "url": "https://open.spotify.com/track/41JWvOS6vhn2uANnUsKVEG"
@@ -3163,10 +3351,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
+    },
+    {
+      "album": {
+        "name": "The Clarinetto",
+        "url": "https://open.spotify.com/album/635atptPBSgJZjOnYtcssp"
+      },
+      "artists": [
+        {
+          "name": "Lele Cecchini",
+          "url": "https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E"
+        },
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "The Clarinetto",
+      "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
     },
     {
       "album": {
@@ -3189,7 +3399,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 176164,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
@@ -3211,7 +3421,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 304091,
       "name": "The Long March - Remix",
       "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
@@ -3255,7 +3465,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 335483,
       "name": "Undersand",
       "url": "https://open.spotify.com/track/7cFwlRiqAjrF4V0ZSJlGMB"
@@ -3335,7 +3545,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-16",
+      "date_removed": "2022-06-19",
       "duration_ms": 182505,
       "name": "Whenever You Go (La La La)",
       "url": "https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB"
@@ -3383,7 +3593,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
@@ -3409,7 +3619,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
@@ -3471,7 +3681,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 171129,
       "name": "Youm Wara Youm (Remix)",
       "url": "https://open.spotify.com/track/0Nwjfrhdu6s4fG20fzNs7V"
@@ -3493,7 +3703,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 196015,
       "name": "Your Love - Anthony Keyrouz Remix",
       "url": "https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z"
@@ -3515,7 +3725,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 325165,
       "name": "Zagora",
       "url": "https://open.spotify.com/track/4SNEe0K9EmOa1zXBrjjoHM"
@@ -3559,7 +3769,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-29",
       "duration_ms": 470624,
       "name": "Zid Lmel",
       "url": "https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp"

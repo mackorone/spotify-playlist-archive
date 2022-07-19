@@ -460,28 +460,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Nocturnes (Volume 1)",
-        "url": "https://open.spotify.com/album/3RePY8Fh1liHgQQ2X8CjYH"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Luis Fernando P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2MDkMAXgLEGJFogdR000Au"
-        }
-      ],
-      "date_added": "2021-12-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268426,
-      "name": "Nocturne en mi b\u00e9mol majeur opus 9 n\u00b02: Ballade en Sol Mineur No.1",
-      "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd"
-    },
-    {
-      "album": {
         "name": "Chopin: The Nocturnes",
         "url": "https://open.spotify.com/album/4Lq2ben6ERqYOQB1PM5QfB"
       },
@@ -501,6 +479,28 @@
       "duration_ms": 334053,
       "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
       "url": "https://open.spotify.com/track/1EGFCxKCQ3isMnlPzEW8G1"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/3RePY8Fh1liHgQQ2X8CjYH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Luis Fernando P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2MDkMAXgLEGJFogdR000Au"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Nocturnes, Op. 9: II. Andante",
+      "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd"
     },
     {
       "album": {
@@ -542,8 +542,8 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 342680,
-      "name": "Pavane pour une infante d\u00e9funte",
+      "duration_ms": 342666,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/7MjEk3ha3TdVVfeYryOIAq"
     },
     {
@@ -883,7 +883,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279160,
-      "name": "Suite bergamasque: Suite bergamasque: III. Clair de lune. Andante tr\u00e8s expressif",
+      "name": "Suite Bergamasque, L. 75: III. Clair de lune (Andante tr\u00e8s expressif)",
       "url": "https://open.spotify.com/track/6N7JzrteJv8lsr1GWYyu0b"
     },
     {

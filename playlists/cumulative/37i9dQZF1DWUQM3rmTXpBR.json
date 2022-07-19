@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: \u0178UMA.",
+  "description": "Alternative Arabic songs. Cover: Nai Barghouti.",
   "name": "Arab Indie",
   "published_playlist_ids": [
     "5Kcna48CrV8fuYA6mNyZOZ"
@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "Balak",
+        "url": "https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Balak",
+      "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
+    },
+    {
+      "album": {
         "name": "BIZARRE",
         "url": "https://open.spotify.com/album/65Usg4LljKNGmUiohPoJhL"
       },
@@ -322,6 +344,28 @@
     },
     {
       "album": {
+        "name": "GHIR BLACH",
+        "url": "https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Hattab",
+          "url": "https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3"
+        },
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "GHIR BLACH",
+      "url": "https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE"
+    },
+    {
+      "album": {
         "name": "GRAND CASABLANCA",
         "url": "https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY"
       },
@@ -421,6 +465,24 @@
       "duration_ms": 179331,
       "name": "Hamm O Bala \u0647\u064e\u0645 \u0648\u0628\u0644\u0627",
       "url": "https://open.spotify.com/track/26cRbIbCHaMNPFDITAwVWI"
+    },
+    {
+      "album": {
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320635,
+      "name": "Haramt Aghani",
+      "url": "https://open.spotify.com/track/0c2pXS4IL185gDEpqwgPUF"
     },
     {
       "album": {
@@ -855,10 +917,6 @@
       },
       "artists": [
         {
-          "name": "Moustafa Max",
-          "url": "https://open.spotify.com/artist/2Zjp2UNHX1ILlwjjN0MPDQ"
-        },
-        {
           "name": "Xoureldin",
           "url": "https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi"
         }
@@ -1049,7 +1107,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 196795,
       "name": "Shem Wroud",
       "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
@@ -1121,7 +1179,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 281715,
       "name": "Soot El Reeh",
       "url": "https://open.spotify.com/track/1vEwEQwqaxtpsvAnMsb7CB"

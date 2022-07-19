@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The decade when country and rockabilly came together. Cover: Lefty Frizzell, Hank Williams, Kitty Wells",
+  "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
   "name": "50s Country",
   "published_playlist_ids": [
     "2fX5VjjnFjAPoruPmq1WKV"
@@ -153,10 +153,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 130826,
       "name": "Ballad of a Teenage Queen",
       "url": "https://open.spotify.com/track/5HwAaXDLVDgVcoGIjDRANK"
+    },
+    {
+      "album": {
+        "name": "Ballad Of A Teenage Queen / Big River",
+        "url": "https://open.spotify.com/album/7Kr8LI2gijAGicOBlLL9LN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130757,
+      "name": "Ballad Of A Teenage Queen",
+      "url": "https://open.spotify.com/track/4Io1aec8TYbaEffiJrlTV2"
     },
     {
       "album": {
@@ -189,10 +211,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 151426,
       "name": "Big River",
       "url": "https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It"
+    },
+    {
+      "album": {
+        "name": "Sings the Songs that Made Him Famous",
+        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151338,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
     },
     {
       "album": {
@@ -207,10 +251,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 171288,
       "name": "Birmingham Bounce",
       "url": "https://open.spotify.com/track/0nd00V0zyqu1oEIqHtlDU7"
+    },
+    {
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "album": {
@@ -225,7 +287,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 136960,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS"
@@ -376,6 +438,28 @@
     },
     {
       "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146970,
+      "name": "Cry! Cry! Cry!",
+      "url": "https://open.spotify.com/track/0i0kLLNXBnX31p1vWb69jr"
+    },
+    {
+      "album": {
         "name": "Johnny Cash at Sun",
         "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
       },
@@ -387,7 +471,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 183000,
       "name": "Cry, Cry, Cry - Long Version",
       "url": "https://open.spotify.com/track/7DP5q4CQMx5hf4K5RnVVYP"
@@ -459,10 +543,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172026,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/6pPmgSgrdWMemkmpRWO2aQ"
+    },
+    {
+      "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/1Vw5YUBbtlUmkhEnee55Zo"
     },
     {
       "album": {
@@ -593,10 +699,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 111240,
       "name": "Great Balls of Fire",
       "url": "https://open.spotify.com/track/7xe3EQCvXnx6Q0zs41Y65n"
+    },
+    {
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "album": {
@@ -943,10 +1067,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 163026,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/7kIDzcFzCSaPLOi4ZMt2Bx"
+    },
+    {
+      "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
     },
     {
       "album": {
@@ -1033,10 +1179,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 125906,
       "name": "In The Jailhouse Now",
       "url": "https://open.spotify.com/track/5xcJtLxdprEWBR2jRqcQPW"
+    },
+    {
+      "album": {
+        "name": "Golden Hits (Vol. 2)",
+        "url": "https://open.spotify.com/album/11KvQ30X7J2y2v8JPOUQbS"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138538,
+      "name": "In the Jailhouse Now",
+      "url": "https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR"
     },
     {
       "album": {
@@ -1274,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Raunchy / The Midnite Man",
+        "url": "https://open.spotify.com/album/0BAy0J5TiC20PJMn9tHVMq"
+      },
+      "artists": [
+        {
+          "name": "Bill Justis",
+          "url": "https://open.spotify.com/artist/0z16OEWcUEFzMRWBOGyOcF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140713,
+      "name": "Raunchy",
+      "url": "https://open.spotify.com/track/0wZfUYCWJ2c57Xqpt7mIXr"
+    },
+    {
+      "album": {
         "name": "Sun King Collection - Bill Justis",
         "url": "https://open.spotify.com/album/3uzGSTvgx4oQb0qp1RCYmm"
       },
@@ -1285,7 +1467,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 144826,
       "name": "Raunchy",
       "url": "https://open.spotify.com/track/5gsVdCTBKYHzzGcYNg1TXT"
@@ -1339,10 +1521,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 147440,
       "name": "Send Me the Pillow You Dream On",
       "url": "https://open.spotify.com/track/5zVjs89nsOIT7I90ETawau"
+    },
+    {
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "album": {

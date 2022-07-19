@@ -1,15 +1,15 @@
 {
   "description": "A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red-headed baroque legend than just The Four Seasons.",
-  "num_followers": 258346,
+  "num_followers": 290667,
   "original_name": "This Is Vivaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxNDA4NiwwMDAwMDAwZjAwMDAwMTdlMjVmMTcwMjYwMDAwMDE3MDdkNDRlYWZk",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAxMzAwMDAwMTgyMDAwNTNmMWQwMDAwMDE3MDdkNDRlYWZk",
   "tracks": [
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons",
         "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Giuliani & Vivaldi: Guitar Concertos",
         "url": "https://open.spotify.com/album/5mJUEg7X66N27nkv2MRlJr"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/42LRjYQYJeogQINxQo0BcJ"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos for Strings",
         "url": "https://open.spotify.com/album/1bKVopvjDzU8d115PMOy3X"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/5cM8gFBSjkCm4INulurbuM"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concerti \"Alla Rustica\"",
         "url": "https://open.spotify.com/album/4b5kE77FNjtravy7V452po"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4ZP3UMVksKg07IeeAjHkEy"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Gloria/Nisi Dominus/4 Cantatas etc.",
         "url": "https://open.spotify.com/album/05XOtXSI9pc9aUPrzMqUmQ"
@@ -145,7 +145,31 @@
       "url": "https://open.spotify.com/track/6DimgukTnjDrTxaQ0NnZvM"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Concerto for Strings in G Minor, RV 152: II. Andante molto e sempre pianissimo",
+        "url": "https://open.spotify.com/album/0vstwokTPLXEZYhtRjI1Tv"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Concerto for Strings in G Minor, RV 152: II. Andante molto e sempre pianissimo",
+      "url": "https://open.spotify.com/track/79D8Unn36v7C0GkMrpOXOF"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons",
         "url": "https://open.spotify.com/album/1ygrLLOxoQCblAjIm7FfjJ"
@@ -169,7 +193,31 @@
       "url": "https://open.spotify.com/track/4wgS4pen0Kej9PafGhUhMJ"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Concerto for Viola d\u2019Amore, Strings & Continuo in D Minor, RV 394: I. Allegro",
+        "url": "https://open.spotify.com/album/0wF8OAsHAsxyXISv7CqE00"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Adrian Chandler",
+          "url": "https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz"
+        },
+        {
+          "name": "La Serenissima",
+          "url": "https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Concerto for Viola d\u2019Amore, Strings & Continuo in D Minor, RV 394: I. Allegro",
+      "url": "https://open.spotify.com/track/37avtC3pPHLtaRpUNYcl4t"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Violin Concerto in D Major, RV 211: III. Allegro",
         "url": "https://open.spotify.com/album/2Q5uDlfz5LUnhEpKyWqG2F"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/7fKHeJdwHroMIGBwtnuLDg"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: 14 Concertos (for Mandolin, Flute, Trumpet, Violin, etc.) [2 CDs]",
         "url": "https://open.spotify.com/album/4Nb5uTBdRSIgY6kxw4jj2S"
@@ -221,9 +269,9 @@
       "url": "https://open.spotify.com/track/3Htqdp3sfxvPoNx7aDwflH"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Vivaldi Gloria",
+        "name": "Vivaldi: Gloria, RV 589 - Dixit Dominus, RV 594 & Magnificat, RV 610",
         "url": "https://open.spotify.com/album/0jkM5CrTfhifTAyqYr8VSD"
       },
       "artists": [
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/5Txwlv081K39njx353jh7r"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons.",
         "url": "https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/6zOijs9wmanFgqIBqz2IKQ"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
         "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
@@ -297,11 +345,11 @@
         }
       ],
       "duration_ms": 151506,
-      "name": "Spring 1",
+      "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi",
         "url": "https://open.spotify.com/album/6E8gEhkNLbMa6GEbgtgjbN"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/0jPvRJCRE8P4MqIx38vHyQ"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Flute Concertos",
         "url": "https://open.spotify.com/album/46hsjBkeLxDaO2QhBIdpfG"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/3PijGK87OvRw77YUGRW7OY"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Dresden Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/5S44PBsAIMMAa6iMNrki6M"
@@ -381,7 +429,7 @@
       "url": "https://open.spotify.com/track/4cYHwhbkqpRRrXJlo2pgn7"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Recorder Concertos (Complete)",
         "url": "https://open.spotify.com/album/1E9QMuFaE4fBgvnBO5sQqa"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/0O2ewkadecJRbns5UYu0RS"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos and Cantatas",
         "url": "https://open.spotify.com/album/7lbtZx0nn6xS07CcKWy6rL"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/19uZ9EujStZLHD19ORTlRq"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Oboe Concertos, Vol. 1",
         "url": "https://open.spotify.com/album/53nhadctlEEKXlWvdAsbeu"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/3GhfAfbNiJFMOXszHkDNaE"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Dresden Concertos, Vol. 2",
         "url": "https://open.spotify.com/album/0MNXpa9ZlTiBsjR8U8oegw"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/3JQiNlVcyflzXS1qhcRsTo"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Bassoon Concertos (Complete), Vol. 4",
         "url": "https://open.spotify.com/album/2zFnkTo4ykQn1FoJFE8Hmk"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/6gM1DA8Cr34Dcp5H3mPf6O"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concerti per due violini e archi I",
         "url": "https://open.spotify.com/album/1FgjztE4ng8tXW5nH0l7Tf"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/76d6R3Arx2LCszSyXALNeW"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi 5 Violin Concertos",
         "url": "https://open.spotify.com/album/7etHxO42n1LT4GiAlPGp1O"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/6u11Hdd1ZUpFKeT084dF2U"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi, A.: Sacred Music, Vol. 2",
         "url": "https://open.spotify.com/album/2nyAfVib0yayFWgFDBBAc0"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/51rCaDuahvdcUWzHPTbARj"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos for Strings",
         "url": "https://open.spotify.com/album/1bKVopvjDzU8d115PMOy3X"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/6tcTKTzid5MnguRqMXfmpq"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Cello Concerti, Vol. 3",
         "url": "https://open.spotify.com/album/2OEsgu7qm2AGe14jWfelFA"
@@ -661,7 +709,7 @@
       "url": "https://open.spotify.com/track/2o3QK3FLkD4CVn0xvj9Xj7"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Chamber Concertos",
         "url": "https://open.spotify.com/album/1Mc201v9mCjrC9YNTi1E6B"
@@ -701,7 +749,7 @@
       "url": "https://open.spotify.com/track/5sPZReD8VztfqAGJlhGY1N"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos for two Violins",
         "url": "https://open.spotify.com/album/5xDvwTPVlpwzqjaA4nGamp"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/28bl4jzGKXm5BUaEvCm973"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Wind Concertos",
         "url": "https://open.spotify.com/album/2rc4WB2sKjOIBm9Zu1ucbm"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/0COiTzBMUkI3PhgcbEFgli"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Flute Concertos",
         "url": "https://open.spotify.com/album/46hsjBkeLxDaO2QhBIdpfG"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/4k8EvQy6SffHBtsRbyzBm4"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Flute Concertos, Vol. 1",
         "url": "https://open.spotify.com/album/2Gjk54hiOjWRsvpLKoP45u"
@@ -817,7 +865,7 @@
       "url": "https://open.spotify.com/track/7K0vkQVlZOytCDf6OkABg4"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons & Violin Concertos",
         "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/2xsvdEyqL37Qj3nBjekrUA"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi's Cello (Remastered)",
         "url": "https://open.spotify.com/album/36eVEeDGGTRLsab8AzI2Yj"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/2FDBZsJdZf1xeUsdMlH76j"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Pastor Fido (Il), Op. 13, Nos. 1-6",
         "url": "https://open.spotify.com/album/5hAlbEv8Hyzdl5VuyFg5qk"
@@ -897,7 +945,7 @@
       "url": "https://open.spotify.com/track/6F44R6JFGTn10ghD7ITrSO"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "VIVALDI: Cello Concertos, Vol. 4",
         "url": "https://open.spotify.com/album/6Xfu5aCwnWp1r4IWQ2SYYm"
@@ -925,7 +973,7 @@
       "url": "https://open.spotify.com/track/5gSZ1yErjxw3Rp0gUupU2U"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: L' Estro Armonico, Op. 3",
         "url": "https://open.spotify.com/album/6VZGh5bgK8zvudUYtxmBHB"
@@ -949,7 +997,7 @@
       "url": "https://open.spotify.com/track/5f9KHFwZBbnkWoHNnUXVuu"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: L'estro armonico; 6 Flute Concertos",
         "url": "https://open.spotify.com/album/4rHVOtD58NkpJVjmGKZVpp"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/45M0qfEV7MtoMn8eHkSAjF"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos for two Violins",
         "url": "https://open.spotify.com/album/5xDvwTPVlpwzqjaA4nGamp"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1ynk38YsWYdO3RdPpJmqo2"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi, A.: Sacred Music, Vol. 3",
         "url": "https://open.spotify.com/album/3qpLQ8ABbeUNJC8zfh5RFz"
@@ -1037,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3tGAemu93uRU1vwblakvYU"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Cello Concerti, Vol. 3",
         "url": "https://open.spotify.com/album/2OEsgu7qm2AGe14jWfelFA"
@@ -1065,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0JNDWe6fCiTL6N0CotmdCe"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos for 2 Violins",
         "url": "https://open.spotify.com/album/1zaP4htuZg6ePdV2MHkPa1"
@@ -1085,7 +1133,7 @@
       "url": "https://open.spotify.com/track/19A8C6U7ulm8Oc0WQaajWp"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Les quatre saisons - Concertos pour deux violons, RV 511 & RV 522",
         "url": "https://open.spotify.com/album/5UREjirQHMxHtyB0Op3rpk"
@@ -1113,7 +1161,7 @@
       "url": "https://open.spotify.com/track/21FuEp6ezh5Yau5mq4pKfV"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons.",
         "url": "https://open.spotify.com/album/4YpaKMCcb65yOoee75UUOh"
@@ -1137,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0KJHN5Y2zDcKh7riFHvpTt"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Oboe Concertos, Vol. 1",
         "url": "https://open.spotify.com/album/53nhadctlEEKXlWvdAsbeu"
@@ -1173,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6POfrpc0tv287bg8lpfsRs"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi - Il Giustino",
         "url": "https://open.spotify.com/album/1HDV2Rdpzh6bp5Lxn63PGc"
@@ -1221,7 +1269,7 @@
       "url": "https://open.spotify.com/track/4vGkaPECPrris9KsNGQRgX"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concerto for 2 Cellos, Strings and Continuo in G Minor, RV 531: 3. Allegro",
         "url": "https://open.spotify.com/album/2PWzufwTMXXbmP5JjI3azn"
@@ -1253,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4rVzmgF1Suh8ciF2gTajde"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: L' Estro Armonico, Op. 3",
         "url": "https://open.spotify.com/album/6VZGh5bgK8zvudUYtxmBHB"
@@ -1277,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2laDCLfjMm8zT5aGRwamJW"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons",
         "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
@@ -1301,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1VIPloT2xEb9KExrtKHNoI"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: The Four Seasons & Violin Concertos",
         "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
@@ -1325,7 +1373,7 @@
       "url": "https://open.spotify.com/track/0BFJctGKh0cIb9bfVDTDuh"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concertos and Cantatas",
         "url": "https://open.spotify.com/album/7lbtZx0nn6xS07CcKWy6rL"
@@ -1349,7 +1397,7 @@
       "url": "https://open.spotify.com/track/1oVwU8KczhTe0JBMcQG4x3"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Griselda",
         "url": "https://open.spotify.com/album/5GH4lCfRI5KVCbnibjGlgI"
@@ -1373,7 +1421,7 @@
       "url": "https://open.spotify.com/track/003UIX0Xv5pMEPO7BdMxBg"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi",
         "url": "https://open.spotify.com/album/6E8gEhkNLbMa6GEbgtgjbN"
@@ -1397,7 +1445,7 @@
       "url": "https://open.spotify.com/track/0S9HS61FcL7xXzIP8AtINv"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Concerti \"Alla Rustica\"",
         "url": "https://open.spotify.com/album/4b5kE77FNjtravy7V452po"
@@ -1429,7 +1477,7 @@
       "url": "https://open.spotify.com/track/14p10KnISsMIrU7ZXBAge9"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: L'estro armonico; 6 Flute Concertos",
         "url": "https://open.spotify.com/album/4rHVOtD58NkpJVjmGKZVpp"
@@ -1457,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5MvYoCWAVSl35kiQPCNBU0"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi's Cello (Remastered)",
         "url": "https://open.spotify.com/album/36eVEeDGGTRLsab8AzI2Yj"
@@ -1485,7 +1533,7 @@
       "url": "https://open.spotify.com/track/18RXepgNsHvASLfk7O74jC"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi, A.: Sacred Music, Vol. 2",
         "url": "https://open.spotify.com/album/2nyAfVib0yayFWgFDBBAc0"
@@ -1513,7 +1561,7 @@
       "url": "https://open.spotify.com/track/2WbIYxPe15imyA6W1kvpZ9"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Bassoon Concertos (Complete), Vol. 3",
         "url": "https://open.spotify.com/album/66W0Cu1jvP0NBh3I1f95CA"
@@ -1541,9 +1589,9 @@
       "url": "https://open.spotify.com/track/5x6conkFofQWv2kKwYwcGF"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Vivaldi Gloria",
+        "name": "Vivaldi: Gloria, RV 589 - Dixit Dominus, RV 594 & Magnificat, RV 610",
         "url": "https://open.spotify.com/album/0jkM5CrTfhifTAyqYr8VSD"
       },
       "artists": [
@@ -1569,7 +1617,7 @@
       "url": "https://open.spotify.com/track/6XD4NSKuLQNUi2POXUkl2V"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi: Pastor Fido (Il), Op. 13, Nos. 1-6",
         "url": "https://open.spotify.com/album/5hAlbEv8Hyzdl5VuyFg5qk"
@@ -1597,7 +1645,7 @@
       "url": "https://open.spotify.com/track/39cRm00OAb9Zka4zWjMymr"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi Concertos",
         "url": "https://open.spotify.com/album/5azdIeNzDTXL5rTyPLWvQa"
@@ -1625,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6ItjMOKNTO5JpkbfnDkJKv"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi, A.: Bassoon Concertos (Complete), Vol. 5",
         "url": "https://open.spotify.com/album/7IifSQMujYbVVIKwgDfcTh"
@@ -1653,7 +1701,7 @@
       "url": "https://open.spotify.com/track/63fLm1fW6spUdRgF6jqpBK"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi 5 Violin Concertos",
         "url": "https://open.spotify.com/album/7etHxO42n1LT4GiAlPGp1O"
@@ -1681,7 +1729,7 @@
       "url": "https://open.spotify.com/track/4aDDrg0VaoijdLEa8PdCl3"
     },
     {
-      "added_at": "2021-07-06 13:48:51",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Vivaldi, A.: Sacred Music, Vol. 3",
         "url": "https://open.spotify.com/album/3qpLQ8ABbeUNJC8zfh5RFz"

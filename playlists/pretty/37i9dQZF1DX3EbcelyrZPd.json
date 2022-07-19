@@ -1,13 +1,33 @@
 {
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rich Mavoko",
-  "num_followers": 40312,
+  "description": "Get your fill of vibes straight out of Tanzania.",
+  "num_followers": 43111,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE3OTU0MCwwMDAwMDA0ZDAwMDAwMTgwNzFmODRlOGQwMDAwMDE3ZmJiZDg1Y2Fi",
+  "snapshot_id": "MTY1NzgzMjM0MCwwMDAwMDA1YTAwMDAwMTgxZmU4MWZhYjYwMDAwMDE4MWQ5YzM4M2Fj",
   "tracks": [
+    {
+      "added_at": "2022-04-14 20:59:00",
+      "album": {
+        "name": "Naogopa",
+        "url": "https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Naogopa",
+      "url": "https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG"
+    },
     {
       "added_at": "2022-01-06 20:59:00",
       "album": {
@@ -29,60 +49,48 @@
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
     },
     {
-      "added_at": "2022-01-13 20:59:00",
+      "added_at": "2022-06-09 20:59:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
+        "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+        "url": "https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE"
       },
       "artists": [
         {
-          "name": "The Ben",
-          "url": "https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E"
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
         },
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
-    },
-    {
-      "added_at": "2022-03-17 20:59:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0tQvHv3J5vXMHBMa42vj9u"
-      },
-      "artists": [
-        {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2lhslrjGZOgYfZI0OI4kT2"
-    },
-    {
-      "added_at": "2022-04-14 20:59:00",
-      "album": {
-        "name": "Naogopa",
-        "url": "https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
         },
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Naogopa",
-      "url": "https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG"
+      "duration_ms": 252785,
+      "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+      "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
+    },
+    {
+      "added_at": "2022-07-07 20:59:00",
+      "album": {
+        "name": "Napona",
+        "url": "https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 169937,
+      "name": "Napona",
+      "url": "https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv"
     },
     {
       "added_at": "2022-01-20 20:59:00",
@@ -105,20 +113,84 @@
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
     },
     {
-      "added_at": "2022-01-13 20:59:00",
+      "added_at": "2022-03-17 20:59:00",
       "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0tQvHv3J5vXMHBMa42vj9u"
       },
       "artists": [
         {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
         }
       ],
-      "duration_ms": 244908,
-      "name": "Utu",
-      "url": "https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57"
+      "duration_ms": 200000,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2lhslrjGZOgYfZI0OI4kT2"
+    },
+    {
+      "added_at": "2022-01-13 20:59:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
+      },
+      "artists": [
+        {
+          "name": "The Ben",
+          "url": "https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
+    },
+    {
+      "added_at": "2022-06-09 20:59:00",
+      "album": {
+        "name": "Deka (feat. Mabantu)",
+        "url": "https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Deka (feat. Mabantu)",
+      "url": "https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF"
+    },
+    {
+      "added_at": "2022-06-30 20:59:00",
+      "album": {
+        "name": "Finesse (East African Mix) [feat. Rayvanny & Theecember]",
+        "url": "https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Theecember",
+          "url": "https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs"
+        }
+      ],
+      "duration_ms": 155892,
+      "name": "Finesse (East African Mix) - feat. Rayvanny & Theecember",
+      "url": "https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -135,6 +207,130 @@
       "duration_ms": 223373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4"
+    },
+    {
+      "added_at": "2022-06-16 20:59:00",
+      "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/3zr51b8usrlLH6dLM3Gj70"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "duration_ms": 190839,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6KVESuAVZDmmMqGVLgPW2P"
+    },
+    {
+      "added_at": "2022-06-30 20:59:00",
+      "album": {
+        "name": "The King Of New School",
+        "url": "https://open.spotify.com/album/5yAlMOYeLIEerxJyCbJEtu"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 177408,
+      "name": "Tunapendana (feat. Maud Elka)",
+      "url": "https://open.spotify.com/track/2rwU0kvCkwejnSy3TGhRDS"
+    },
+    {
+      "added_at": "2022-06-23 20:59:00",
+      "album": {
+        "name": "Wild Party",
+        "url": "https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Wild Party",
+      "url": "https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q"
+    },
+    {
+      "added_at": "2022-05-05 20:59:00",
+      "album": {
+        "name": "Simuachi",
+        "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Simuachi",
+      "url": "https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "Manzese",
+        "url": "https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo"
+      },
+      "artists": [
+        {
+          "name": "Navy Kenzo",
+          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Manzese",
+      "url": "https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s"
+    },
+    {
+      "added_at": "2022-07-14 20:59:00",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk"
+    },
+    {
+      "added_at": "2022-01-13 20:59:00",
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 244908,
+      "name": "Utu",
+      "url": "https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57"
     },
     {
       "added_at": "2021-11-18 20:59:00",
@@ -157,6 +353,190 @@
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
+      "added_at": "2022-07-07 20:59:00",
+      "album": {
+        "name": "Tamu Kwa Tamu",
+        "url": "https://open.spotify.com/album/0VYGQMTaK2E8l8lWresCxq"
+      },
+      "artists": [
+        {
+          "name": "Mzee Yusuph",
+          "url": "https://open.spotify.com/artist/1JyYRDJWdQMECFjJGWjMqm"
+        }
+      ],
+      "duration_ms": 248321,
+      "name": "Nibebe",
+      "url": "https://open.spotify.com/track/0wAeptB1IYnjfmU4yP6Mxn"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "Namsosomola",
+        "url": "https://open.spotify.com/album/33uT8tBAbDxnOH12LdoVyV"
+      },
+      "artists": [
+        {
+          "name": "Shetta",
+          "url": "https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Namsosomola",
+      "url": "https://open.spotify.com/track/3fXb1cxpNEsaQPRZDMmB2U"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "Bestfriend",
+        "url": "https://open.spotify.com/album/1yAjYmx4h0wcZkQYXPHnnh"
+      },
+      "artists": [
+        {
+          "name": "Nino Tz",
+          "url": "https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn"
+        }
+      ],
+      "duration_ms": 213383,
+      "name": "Bestfriend",
+      "url": "https://open.spotify.com/track/71VfgEoTxsvCM6t3ezM4O4"
+    },
+    {
+      "added_at": "2022-07-14 20:59:00",
+      "album": {
+        "name": "Nishazama",
+        "url": "https://open.spotify.com/album/0aN6E9LOov8eZ6daNph6Sc"
+      },
+      "artists": [
+        {
+          "name": "Marry G",
+          "url": "https://open.spotify.com/artist/4a2pfrraFdyyLThW3OECWb"
+        }
+      ],
+      "duration_ms": 148924,
+      "name": "Nishazama",
+      "url": "https://open.spotify.com/track/3fG8h0OYj0mcPr1pY4a3xm"
+    },
+    {
+      "added_at": "2022-06-09 20:59:00",
+      "album": {
+        "name": "Atakuoa Nani",
+        "url": "https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        },
+        {
+          "name": "Stamina",
+          "url": "https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Atakuoa Nani",
+      "url": "https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro"
+    },
+    {
+      "added_at": "2022-07-07 20:59:00",
+      "album": {
+        "name": "Papaa",
+        "url": "https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk"
+      },
+      "artists": [
+        {
+          "name": "B Gway",
+          "url": "https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Papaa",
+      "url": "https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY"
+      },
+      "artists": [
+        {
+          "name": "Juan Dani\u00e9l",
+          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
+        },
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        }
+      ],
+      "duration_ms": 152119,
+      "name": "Vamonos",
+      "url": "https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK"
+      },
+      "artists": [
+        {
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 212294,
+      "name": "Nioneshe (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "La La",
+        "url": "https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "La La",
+      "url": "https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ"
+    },
+    {
+      "added_at": "2021-11-11 20:59:00",
+      "album": {
+        "name": "For Your Love (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 233417,
+      "name": "For Your Love (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "Mwambieni",
@@ -173,22 +553,6 @@
       "url": "https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9"
     },
     {
-      "added_at": "2022-04-14 20:59:00",
-      "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK"
-      },
-      "artists": [
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        }
-      ],
-      "duration_ms": 202284,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/7bcYejtryMBwpWehedwsse"
-    },
-    {
       "added_at": "2021-09-16 20:59:00",
       "album": {
         "name": "Naanzaje",
@@ -203,6 +567,38 @@
       "duration_ms": 199308,
       "name": "Naanzaje",
       "url": "https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK"
+    },
+    {
+      "added_at": "2021-12-16 20:59:00",
+      "album": {
+        "name": "Ng'ari Ng'ari",
+        "url": "https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Ng'ari Ng'ari",
+      "url": "https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf"
+    },
+    {
+      "added_at": "2022-04-14 20:59:00",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "duration_ms": 202284,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/7bcYejtryMBwpWehedwsse"
     },
     {
       "added_at": "2022-01-06 20:59:00",
@@ -225,56 +621,36 @@
       "url": "https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp"
     },
     {
-      "added_at": "2022-02-10 20:59:00",
+      "added_at": "2022-07-14 20:59:00",
       "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh"
       },
       "artists": [
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
         }
       ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+      "duration_ms": 146399,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS"
     },
     {
-      "added_at": "2021-12-16 20:59:00",
+      "added_at": "2022-02-24 20:59:00",
       "album": {
-        "name": "Ng'ari Ng'ari",
-        "url": "https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4"
+        "name": "Gidi",
+        "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
       },
       "artists": [
         {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 269773,
-      "name": "Ng'ari Ng'ari",
-      "url": "https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf"
-    },
-    {
-      "added_at": "2022-04-28 20:59:00",
-      "album": {
-        "name": "The Green Light EP",
-        "url": "https://open.spotify.com/album/7pdlUhrWvOQBgNjEhrUDch"
-      },
-      "artists": [
-        {
-          "name": "killy",
-          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
-        }
-      ],
-      "duration_ms": 200472,
-      "name": "Vumilia",
-      "url": "https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu"
+      "duration_ms": 167666,
+      "name": "Gidi",
+      "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
     },
     {
       "added_at": "2022-03-10 20:59:00",
@@ -299,22 +675,42 @@
     {
       "added_at": "2022-02-10 20:59:00",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF"
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
       },
       "artists": [
         {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
         }
       ],
-      "duration_ms": 167872,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6"
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2021-10-14 20:59:00",
+      "album": {
+        "name": "My Voice",
+        "url": "https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28"
+      },
+      "artists": [
+        {
+          "name": "Mac Voice",
+          "url": "https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
     },
     {
       "added_at": "2021-09-23 20:59:00",
@@ -337,40 +733,92 @@
       "url": "https://open.spotify.com/track/5kZpQHkVT0EtRDPlE5nHkO"
     },
     {
-      "added_at": "2021-11-11 20:59:00",
+      "added_at": "2022-04-28 20:59:00",
       "album": {
-        "name": "For Your Love (feat. Zuchu)",
-        "url": "https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx"
+        "name": "The Green Light EP",
+        "url": "https://open.spotify.com/album/7pdlUhrWvOQBgNjEhrUDch"
       },
       "artists": [
         {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+          "name": "killy",
+          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
         }
       ],
-      "duration_ms": 233417,
-      "name": "For Your Love (feat. Zuchu)",
-      "url": "https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es"
+      "duration_ms": 200472,
+      "name": "Vumilia",
+      "url": "https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu"
     },
     {
-      "added_at": "2022-02-24 20:59:00",
+      "added_at": "2022-05-05 20:59:00",
       "album": {
-        "name": "Gidi",
-        "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj"
       },
       "artists": [
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
         }
       ],
-      "duration_ms": 167666,
-      "name": "Gidi",
-      "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
+      "duration_ms": 174905,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41"
+    },
+    {
+      "added_at": "2022-02-10 20:59:00",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 167872,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx"
+      },
+      "artists": [
+        {
+          "name": "10kleeroy",
+          "url": "https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k"
+        },
+        {
+          "name": "Modizo",
+          "url": "https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN"
+        }
+      ],
+      "duration_ms": 172094,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa"
+    },
+    {
+      "added_at": "2022-03-24 20:59:00",
+      "album": {
+        "name": "Fundi",
+        "url": "https://open.spotify.com/album/65MtM8HhzXZIa7Q9RCIDOU"
+      },
+      "artists": [
+        {
+          "name": "Rich Mavoko",
+          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+        }
+      ],
+      "duration_ms": 149099,
+      "name": "Kopo",
+      "url": "https://open.spotify.com/track/6VMjurq5gUfi3Piz9W52mR"
     },
     {
       "added_at": "2021-10-14 20:59:00",
@@ -393,22 +841,6 @@
       "url": "https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV"
     },
     {
-      "added_at": "2022-03-24 20:59:00",
-      "album": {
-        "name": "Fundi",
-        "url": "https://open.spotify.com/album/65MtM8HhzXZIa7Q9RCIDOU"
-      },
-      "artists": [
-        {
-          "name": "Rich Mavoko",
-          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
-        }
-      ],
-      "duration_ms": 149099,
-      "name": "Kopo",
-      "url": "https://open.spotify.com/track/6VMjurq5gUfi3Piz9W52mR"
-    },
-    {
       "added_at": "2022-03-10 20:59:00",
       "album": {
         "name": "Pepetua",
@@ -425,24 +857,20 @@
       "url": "https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3"
     },
     {
-      "added_at": "2021-10-14 20:59:00",
+      "added_at": "2022-02-04 02:59:46",
       "album": {
-        "name": "My Voice",
-        "url": "https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28"
+        "name": "Mwaka Wangu",
+        "url": "https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P"
       },
       "artists": [
         {
-          "name": "Mac Voice",
-          "url": "https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Tamu",
-      "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
+      "duration_ms": 193879,
+      "name": "Mwaka Wangu",
+      "url": "https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe"
     },
     {
       "added_at": "2021-11-25 20:59:00",
@@ -485,24 +913,20 @@
       "url": "https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg"
     },
     {
-      "added_at": "2022-02-04 02:59:46",
+      "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Nakumpenda",
-        "url": "https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO"
+        "name": "As Long As You Know",
+        "url": "https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk"
       },
       "artists": [
         {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "jd muliki",
-          "url": "https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Nakumpenda",
-      "url": "https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7"
+      "duration_ms": 197333,
+      "name": "As Long As You Know",
+      "url": "https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2"
     },
     {
       "added_at": "2022-03-31 20:59:00",
@@ -525,6 +949,30 @@
       "url": "https://open.spotify.com/track/5uneKCIU2LgjMDCtAPs67x"
     },
     {
+      "added_at": "2022-05-05 20:59:00",
+      "album": {
+        "name": "Shinda Rmx",
+        "url": "https://open.spotify.com/album/0CBojdIhHZtam1KgBxWe4u"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siffredi",
+          "url": "https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ"
+        },
+        {
+          "name": "BAQABO",
+          "url": "https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn"
+        },
+        {
+          "name": "The Fuego",
+          "url": "https://open.spotify.com/artist/63osCxwkEmgSOqyWszgPTy"
+        }
+      ],
+      "duration_ms": 217435,
+      "name": "SHINDA - The Fuego Rmx",
+      "url": "https://open.spotify.com/track/0OTH2GQ4PaEo1Txzu5zPRt"
+    },
+    {
       "added_at": "2022-02-24 20:59:00",
       "album": {
         "name": "Halichachi",
@@ -543,22 +991,6 @@
       "duration_ms": 205680,
       "name": "Halichachi",
       "url": "https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "As Long As You Know",
-        "url": "https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "As Long As You Know",
-      "url": "https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2"
     },
     {
       "added_at": "2022-02-10 20:59:00",
@@ -581,376 +1013,24 @@
       "url": "https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi"
     },
     {
-      "added_at": "2022-01-13 20:59:00",
+      "added_at": "2022-06-02 20:59:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+        "name": "IDWT",
+        "url": "https://open.spotify.com/album/2MsqUhm5EJ5hKZmwiyg5kx"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
         }
       ],
-      "duration_ms": 164790,
-      "name": "Serious Love",
-      "url": "https://open.spotify.com/track/6noceDOLHTTjEtGI4xPh8P"
-    },
-    {
-      "added_at": "2022-04-07 20:59:00",
-      "album": {
-        "name": "Bado Natafuta",
-        "url": "https://open.spotify.com/album/3OPs7PQYNDanBf77wX9KxV"
-      },
-      "artists": [
-        {
-          "name": "Nino Tz",
-          "url": "https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Bado Natafuta",
-      "url": "https://open.spotify.com/track/4zXLZzQDLpPgNGCKd2ZTfZ"
-    },
-    {
-      "added_at": "2022-02-04 02:59:46",
-      "album": {
-        "name": "Mwaka Wangu",
-        "url": "https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
-        }
-      ],
-      "duration_ms": 193879,
-      "name": "Mwaka Wangu",
-      "url": "https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe"
-    },
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Unachezaje",
-        "url": "https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 161645,
-      "name": "Unachezaje",
-      "url": "https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B"
-    },
-    {
-      "added_at": "2021-09-16 20:59:00",
-      "album": {
-        "name": "Beer Tam",
-        "url": "https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Abbah",
-          "url": "https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV"
-        },
-        {
-          "name": "Visca",
-          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
-        }
-      ],
-      "duration_ms": 293846,
-      "name": "Beer Tam",
-      "url": "https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla"
-    },
-    {
-      "added_at": "2021-11-04 20:59:00",
-      "album": {
-        "name": "Kunjani",
-        "url": "https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        }
-      ],
-      "duration_ms": 261896,
-      "name": "Kunjani",
-      "url": "https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9"
-    },
-    {
-      "added_at": "2021-09-02 20:59:00",
-      "album": {
-        "name": "Teacher",
-        "url": "https://open.spotify.com/album/0JVHEH1hP4q68xZ6x6k6Mr"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 191096,
-      "name": "Teacher",
-      "url": "https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl"
-    },
-    {
-      "added_at": "2021-08-26 20:59:00",
-      "album": {
-        "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
-        "url": "https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mapara A Jazz",
-          "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
-        },
-        {
-          "name": "Ntosh Gazi",
-          "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
-        }
-      ],
-      "duration_ms": 277428,
-      "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
-      "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
-    },
-    {
-      "added_at": "2022-03-03 20:59:00",
-      "album": {
-        "name": "Toroka (feat. Harmonize)",
-        "url": "https://open.spotify.com/album/4h0DfQ52UCckHUf4khRyGX"
-      },
-      "artists": [
-        {
-          "name": "Anjella",
-          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
-        },
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Toroka (feat. Harmonize)",
-      "url": "https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2"
-    },
-    {
-      "added_at": "2022-01-06 20:59:00",
-      "album": {
-        "name": "Kitu (feat. Bontle Smith & Tyler ICU)",
-        "url": "https://open.spotify.com/album/3rlcakt6Svb3HU2oXWKNkA"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "Bontle Smith",
-          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        }
-      ],
-      "duration_ms": 356836,
-      "name": "Kitu (feat. Bontle Smith & Tyler ICU)",
-      "url": "https://open.spotify.com/track/0GyrZ0OTQ7XEEhNtxumVzq"
-    },
-    {
-      "added_at": "2021-10-07 20:59:00",
-      "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 207385,
-      "name": "Oya Oya",
-      "url": "https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl"
-    },
-    {
-      "added_at": "2021-11-25 20:59:00",
-      "album": {
-        "name": "Addiction (feat. Harmonize)",
-        "url": "https://open.spotify.com/album/0k7jBbWkGebFNwiNY6l2RC"
-      },
-      "artists": [
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        },
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
-        }
-      ],
-      "duration_ms": 214269,
-      "name": "Addiction (feat. Harmonize)",
-      "url": "https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr"
-    },
-    {
-      "added_at": "2021-08-26 20:59:00",
-      "album": {
-        "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
-        "url": "https://open.spotify.com/album/43FwegLk89Afrx8IlgYVtI"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Abdukiba",
-          "url": "https://open.spotify.com/artist/3x8WCqlqNZRdGrZ7lbEzJk"
-        },
-        {
-          "name": "K2ga",
-          "url": "https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW"
-        },
-        {
-          "name": "Tommy Flavour",
-          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
-        }
-      ],
-      "duration_ms": 179129,
-      "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
-      "url": "https://open.spotify.com/track/0LS9OwMeG8F46UbnXprQSK"
-    },
-    {
-      "added_at": "2021-11-18 20:59:00",
-      "album": {
-        "name": "Kufuli",
-        "url": "https://open.spotify.com/album/0Va6eNgw90XvaIOcZP4JEr"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Tboy Daflame",
-          "url": "https://open.spotify.com/artist/63QeEAU156JSxXF5uce9ZT"
-        }
-      ],
-      "duration_ms": 263799,
-      "name": "Kufuli",
-      "url": "https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM"
-    },
-    {
-      "added_at": "2022-01-20 20:59:00",
-      "album": {
-        "name": "Chetu",
-        "url": "https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37"
-      },
-      "artists": [
-        {
-          "name": "Billnass",
-          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Chetu",
-      "url": "https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg"
-    },
-    {
-      "added_at": "2021-12-06 09:51:51",
-      "album": {
-        "name": "Tayari",
-        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
-      },
-      "artists": [
-        {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Tayari",
-      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
-    },
-    {
-      "added_at": "2021-10-21 20:59:00",
-      "album": {
-        "name": "Gimmie (feat. Rema)",
-        "url": "https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 162361,
-      "name": "Gimmie (feat. Rema)",
-      "url": "https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV"
-    },
-    {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Slave Becomes A King",
-        "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
-      },
-      "artists": [
-        {
-          "name": "Darassa",
-          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH"
-        }
-      ],
-      "duration_ms": 205691,
-      "name": "Loyalty (feat. Marioo & Nandy)",
-      "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
+      "duration_ms": 200439,
+      "name": "IDWT",
+      "url": "https://open.spotify.com/track/59u9PBmy9cvXyoqVWZKjnE"
     },
     {
       "added_at": "2022-01-06 20:59:00",
@@ -969,22 +1049,6 @@
       "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
     },
     {
-      "added_at": "2021-09-09 20:59:00",
-      "album": {
-        "name": "Katerina",
-        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
-      },
-      "artists": [
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 275487,
-      "name": "Katerina",
-      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
-    },
-    {
       "added_at": "2021-11-04 20:59:00",
       "album": {
         "name": "Inatosha",
@@ -999,22 +1063,6 @@
       "duration_ms": 247857,
       "name": "Inatosha",
       "url": "https://open.spotify.com/track/5j5hhTlvg38VVgdvhu56n4"
-    },
-    {
-      "added_at": "2022-01-20 20:59:00",
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h"
-      },
-      "artists": [
-        {
-          "name": "Kusah",
-          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
-        }
-      ],
-      "duration_ms": 180812,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk"
     },
     {
       "added_at": "2021-09-02 20:59:00",
@@ -1033,20 +1081,20 @@
       "url": "https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe"
     },
     {
-      "added_at": "2021-06-25 05:29:59",
+      "added_at": "2021-09-09 20:59:00",
       "album": {
-        "name": "Sukari",
-        "url": "https://open.spotify.com/album/6isoRSZgLFVrU3l4McoMKE"
+        "name": "Katerina",
+        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
       },
       "artists": [
         {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
         }
       ],
-      "duration_ms": 180775,
-      "name": "Sukari",
-      "url": "https://open.spotify.com/track/0b6rUnRfjDuv60k5oWrCKa"
+      "duration_ms": 275487,
+      "name": "Katerina",
+      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
       "added_at": "2021-08-26 20:59:00",
@@ -1079,6 +1127,30 @@
       "duration_ms": 187560,
       "name": "Komesha",
       "url": "https://open.spotify.com/track/2dkVYJdwNJJ3XHxLwbcfaG"
+    },
+    {
+      "added_at": "2021-06-25 05:29:59",
+      "album": {
+        "name": "Slave Becomes A King",
+        "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH"
+        }
+      ],
+      "duration_ms": 205691,
+      "name": "Loyalty (feat. Marioo & Nandy)",
+      "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
     },
     {
       "added_at": "2021-09-09 20:59:00",
@@ -1117,22 +1189,6 @@
       "url": "https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb"
     },
     {
-      "added_at": "2021-09-16 20:59:00",
-      "album": {
-        "name": "Sina Neno",
-        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "Sina Neno",
-      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
-    },
-    {
       "added_at": "2021-11-04 20:59:00",
       "album": {
         "name": "Zai",
@@ -1149,44 +1205,36 @@
       "url": "https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2"
     },
     {
-      "added_at": "2021-09-23 20:59:00",
+      "added_at": "2022-01-20 20:59:00",
       "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI"
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h"
       },
       "artists": [
         {
-          "name": "Abbah",
-          "url": "https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV"
-        },
-        {
-          "name": "Maua Sama",
-          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
-        },
-        {
-          "name": "G Nako",
-          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
         }
       ],
-      "duration_ms": 166760,
-      "name": "Mwagia Ndani",
-      "url": "https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6"
+      "duration_ms": 180812,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk"
     },
     {
-      "added_at": "2021-09-23 20:59:00",
+      "added_at": "2022-04-07 20:59:00",
       "album": {
-        "name": "Wanaweweseka",
-        "url": "https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA"
+        "name": "Bado Natafuta",
+        "url": "https://open.spotify.com/album/3OPs7PQYNDanBf77wX9KxV"
       },
       "artists": [
         {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+          "name": "Nino Tz",
+          "url": "https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Wanaweweseka",
-      "url": "https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep"
+      "duration_ms": 225280,
+      "name": "Bado Natafuta",
+      "url": "https://open.spotify.com/track/4zXLZzQDLpPgNGCKd2ZTfZ"
     },
     {
       "added_at": "2021-09-02 20:59:00",
@@ -1209,112 +1257,52 @@
       "url": "https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ"
     },
     {
-      "added_at": "2021-09-02 20:59:00",
+      "added_at": "2021-09-16 20:59:00",
       "album": {
-        "name": "Jipinde",
-        "url": "https://open.spotify.com/album/4JMCOqbKas506lkTUtGGOq"
+        "name": "Beer Tam",
+        "url": "https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ"
       },
       "artists": [
         {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Jipinde",
-      "url": "https://open.spotify.com/track/66Y7mdsIOB9o6VrAJjdJGU"
-    },
-    {
-      "added_at": "2021-08-26 20:59:00",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/41BrRZ2kg2mbflJaASkCFU"
-      },
-      "artists": [
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
         },
         {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Basi Tu",
-      "url": "https://open.spotify.com/track/6u9PnXag7PlwoosKq9NLFk"
-    },
-    {
-      "added_at": "2021-09-30 20:59:00",
-      "album": {
-        "name": "Jah Jah (feat. Alikiba)",
-        "url": "https://open.spotify.com/album/1tki8aWgHmQDaEmIdDFRG4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flavour",
-          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
         },
         {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Jah Jah (feat. Alikiba)",
-      "url": "https://open.spotify.com/track/5QNBhXntzUTdGEQYPerZ2i"
-    },
-    {
-      "added_at": "2021-11-11 20:59:00",
-      "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
+          "name": "Abbah",
+          "url": "https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV"
+        },
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
         }
       ],
-      "duration_ms": 186855,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1"
+      "duration_ms": 293846,
+      "name": "Beer Tam",
+      "url": "https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla"
     },
     {
       "added_at": "2022-03-03 20:59:00",
       "album": {
-        "name": "Sasambu",
-        "url": "https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz"
+        "name": "Toroka (feat. Harmonize)",
+        "url": "https://open.spotify.com/album/4h0DfQ52UCckHUf4khRyGX"
       },
       "artists": [
         {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        }
-      ],
-      "duration_ms": 157853,
-      "name": "Sasambu",
-      "url": "https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh"
-    },
-    {
-      "added_at": "2021-10-21 20:59:00",
-      "album": {
-        "name": "Upendo (feat. Zuchu)",
-        "url": "https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+          "name": "Anjella",
+          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
         },
         {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Upendo (feat. Zuchu)",
-      "url": "https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP"
+      "duration_ms": 199615,
+      "name": "Toroka (feat. Harmonize)",
+      "url": "https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2"
     }
   ],
   "unique_name": "Bongo Flava",

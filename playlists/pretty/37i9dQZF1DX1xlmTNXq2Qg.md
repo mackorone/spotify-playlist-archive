@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 
 > Time for dancing in the kitchen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,962 likes - 56 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,047 likes - 56 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 | 55 | [like you lots](https://open.spotify.com/track/25KwUCiGvdCP3Xy3waYffE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/2XQhKfcXw1TrOB1QQPWSSl) | 3:18 |
 | 56 | [Pancakes](https://open.spotify.com/track/5zZ4EPA81iTmQ8K6LwaU1r) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:52 |
 
-Snapshot ID: `MTYzNzMyNDAxNCwwMDAwMDAzMjAwMDAwMTdkMzgxZGM0NjEwMDAwMDE3YmY0MGQzZjc2`
+Snapshot ID: `MTY1NzExODc5OCwwMDAwMDAzMzAwMDAwMTgxZDNmYTM0NzkwMDAwMDE4MWQzZjlmNDk0`

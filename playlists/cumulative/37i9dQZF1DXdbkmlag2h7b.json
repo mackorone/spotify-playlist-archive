@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
@@ -206,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Ascending Journey",
+        "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Ascending Journy",
+      "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -235,7 +275,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
@@ -307,7 +347,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 170560,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/4dUdnalJalKkzu2fKDM3NF"
@@ -361,7 +401,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 303600,
       "name": "Closer - Stripped",
       "url": "https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP"
@@ -415,7 +455,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 204477,
       "name": "Dedication",
       "url": "https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj"
@@ -653,7 +693,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
@@ -696,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
+      },
+      "artists": [
+        {
+          "name": "Aiden Gaarder",
+          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226833,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
+    },
+    {
+      "album": {
         "name": "Gotham",
         "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
       },
@@ -707,7 +765,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-11",
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
@@ -725,7 +783,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 172589,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
@@ -945,7 +1003,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "Into the Deep",
       "url": "https://open.spotify.com/track/2gNdWpUGH3hJjg0O4fqeFq"
@@ -1017,7 +1075,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 120172,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
@@ -1161,7 +1219,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
@@ -1197,7 +1255,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 227093,
       "name": "Minism",
       "url": "https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx"
@@ -1219,6 +1277,24 @@
       "duration_ms": 213371,
       "name": "my child is getting closer to the moonlight",
       "url": "https://open.spotify.com/track/19GWhHevcqTXC9O5cYLWO3"
+    },
+    {
+      "album": {
+        "name": "My Halo Orbit",
+        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199923,
+      "name": "My Halo Orbit",
+      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
     },
     {
       "album": {
@@ -1583,7 +1659,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
@@ -1623,6 +1699,24 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "album": {
@@ -1860,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "The Art of Subtlety",
+        "url": "https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U"
+      },
+      "artists": [
+        {
+          "name": "Laura Antelme",
+          "url": "https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102300,
+      "name": "The Art of Subtlety",
+      "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
+    },
+    {
+      "album": {
         "name": "The Land of the Sun",
         "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
       },
@@ -1889,7 +2001,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
@@ -1925,10 +2037,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 118600,
       "name": "The Shortest Flight",
       "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
+    },
+    {
+      "album": {
+        "name": "Turiya",
+        "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120300,
+      "name": "Turiya",
+      "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
     },
     {
       "album": {

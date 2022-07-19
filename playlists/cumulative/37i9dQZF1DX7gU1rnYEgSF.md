@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-91 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
+92 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Elasmosaurus](https://open.spotify.com/track/7bjofqDcOORj16dVlFh3xL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 1:12 | 2022-01-14 |  |
 | [Future Dinosaur](https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 2:36 | 2022-01-14 |  |
 | [How Do Dinosaurs Say Goodnight](https://open.spotify.com/track/3AlNkt4yLvvhVwuIKdiu7P) | [Miss Nina](https://open.spotify.com/artist/5KEhjdWM9S9VlQ23cl0nvq) | [Sha Doo Be Doop](https://open.spotify.com/album/1djqfg4Ff7SQr11qDwlhda) | 3:29 | 2022-01-14 |  |
+| [I Am a Lonely T\-Rex](https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 2:25 | 2022-07-08 |  |
 | [I Am a Paleontologist](https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:32 | 2022-01-14 |  |
 | [I Love Dinosaurs](https://open.spotify.com/track/4VR721woI4keJB0FEexftt) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The MikMaks](https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI) | 1:52 | 2022-01-14 |  |
 | [I Want to Be a Dinosaur](https://open.spotify.com/track/67jLpM4I2DwzgdkEkpYMqH) | [Monkey Rock Music](https://open.spotify.com/artist/1Nb0YH1uQpQOnLlYDYwEiM) | [Monkey Rock Music](https://open.spotify.com/album/5mNZjlGPSFy80rU9tqD6R0) | 2:53 | 2022-01-14 |  |

@@ -1,15 +1,15 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 28172,
+  "num_followers": 29239,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc1MjIwODksMDAwMDAwMDA4ZTcwZGY3ZDJjYzhhM2I3NGUzY2NkZmYzMTY3NDUyOA==",
+  "snapshot_id": "Mjc2MzYwMjEsMDAwMDAwMDAxOGM1YzYyN2VjY2QxMjVhYjI5Yjg3MGRkNjA4MWFiOQ==",
   "tracks": [
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Boy Who Cried Freedom",
         "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/1u9iIukLvxQgahsrPjqcmV"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "What Do You Love",
         "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
@@ -133,7 +133,39 @@
       "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
@@ -157,23 +189,7 @@
       "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 297026,
-      "name": "Slow Up",
-      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
@@ -205,23 +221,7 @@
       "url": "https://open.spotify.com/track/0lUt61v9PK6Qrl0GjkTXAw"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
@@ -241,7 +241,23 @@
       "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
@@ -257,10 +273,10 @@
       "url": "https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
-        "name": "Just When I Thought",
-        "url": "https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
       },
       "artists": [
         {
@@ -268,28 +284,12 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 282104,
-      "name": "Just When I Thought",
-      "url": "https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU"
+      "duration_ms": 208248,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/32sEFeCIpyTaEwnhWGrE1J"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Other People\u2019s Heartache (Pt. 4)",
         "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
@@ -321,7 +321,23 @@
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
@@ -357,23 +373,7 @@
       "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/35YVOeHNe5vOOQMN5PwBuB"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Brand New Machine (Deluxe Version)",
         "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/35YVOeHNe5vOOQMN5PwBuB"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Boy Who Cried Freedom",
         "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
@@ -409,7 +425,71 @@
       "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/1OWu2Vin6WH1gVvgO05Pw8"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 290115,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2Olm3JcejBFmtCGciV7BR6"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Just When I Thought",
+        "url": "https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 282104,
+      "name": "Just When I Thought",
+      "url": "https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
@@ -429,7 +509,23 @@
       "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 241889,
+      "name": "You Don't Even Call Me",
+      "url": "https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
@@ -445,23 +541,7 @@
       "url": "https://open.spotify.com/track/0gxvQg0BxoKjiIE2v4ie7y"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 290115,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
         "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
@@ -477,55 +557,7 @@
       "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/1OWu2Vin6WH1gVvgO05Pw8"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/32sEFeCIpyTaEwnhWGrE1J"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
@@ -545,39 +577,7 @@
       "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "Move With You",
-        "url": "https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 189423,
-      "name": "Move with You",
-      "url": "https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/2Olm3JcejBFmtCGciV7BR6"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
@@ -593,7 +593,23 @@
       "url": "https://open.spotify.com/track/0kFV57VAYDJEcbtOK7YmNS"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Move With You",
+        "url": "https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 189423,
+      "name": "Move with You",
+      "url": "https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "I Owe You Nothing / Remember",
         "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
@@ -633,7 +649,55 @@
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2ZKHqERUbvXfcJGXLObv0X"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 137932,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238728,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/0PZge1heMrngPMX9ukisQc"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Broken Chandeliers",
         "url": "https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
@@ -669,23 +733,7 @@
       "url": "https://open.spotify.com/track/3lQ8BST2eefzk8nLuUQmlC"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 137932,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "SOMEONE ELSE (feat. Jacob Banks)",
         "url": "https://open.spotify.com/album/7GcRDb1Li5vr4q1hLQCWdM"
@@ -705,55 +753,7 @@
       "url": "https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 238728,
-      "name": "YOLO",
-      "url": "https://open.spotify.com/track/0PZge1heMrngPMX9ukisQc"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "You Don't Even Call Me",
-      "url": "https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "Every Age",
-        "url": "https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 130087,
-      "name": "Every Age",
-      "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
@@ -769,7 +769,39 @@
       "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "Every Age",
+        "url": "https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 130087,
+      "name": "Every Age",
+      "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB"
+    },
+    {
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p"
@@ -789,10 +821,10 @@
       "url": "https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
       "artists": [
         {
@@ -800,12 +832,12 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/2ZKHqERUbvXfcJGXLObv0X"
+      "duration_ms": 202776,
+      "name": "Rizla",
+      "url": "https://open.spotify.com/track/5RcM4gHZICI1DqMr5SpnVE"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "Life (Deluxe)",
         "url": "https://open.spotify.com/album/1Z0wiHzWvZ1qtWkEKNE6TW"
@@ -829,23 +861,7 @@
       "url": "https://open.spotify.com/track/6i9Y0BUxejRaa1oiQK6cqf"
     },
     {
-      "added_at": "2022-04-30 13:29:49",
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 202776,
-      "name": "Rizla",
-      "url": "https://open.spotify.com/track/5RcM4gHZICI1DqMr5SpnVE"
-    },
-    {
-      "added_at": "2022-04-30 13:29:49",
+      "added_at": "2022-07-18 16:21:35",
       "album": {
         "name": "About 30",
         "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"

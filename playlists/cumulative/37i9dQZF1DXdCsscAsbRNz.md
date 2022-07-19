@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-292 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+298 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alone and Together](https://open.spotify.com/track/1rdFI1lGwGZucoxDRqHW9U) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 2:44 | 2020-10-20\* |  |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2020-10-20\* |  |
 | [Amanda](https://open.spotify.com/track/4SHDRSDsjbftsEuzxcPbny) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Amanda](https://open.spotify.com/album/6VRpCNA9flJiEnFjRKCSVj) | 1:17 | 2020-10-20\* |  |
+| [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 | 2022-06-24 |  |
 | [And Then Stillness](https://open.spotify.com/track/733fxItPfz9T3xTeiP9gle) | [Mabelle Jonsson](https://open.spotify.com/artist/5aAGDGHMxeND8iwylX046x) | [Touching The Void](https://open.spotify.com/album/755rSJmOkxaIp0XWbyxc6n) | 2:00 | 2020-10-20\* |  |
 | [Andare Lentamente](https://open.spotify.com/track/5foXZOVwYZ9Xs0P61JHHqF) | [Spacious Minds](https://open.spotify.com/artist/1Whq2mxIJ5AjZWxQY19S7V) | [Andare Lentamente](https://open.spotify.com/album/0fjDEGWTfCMf9B9mnjgENQ) | 2:26 | 2021-04-15 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2022-02-04 |
@@ -30,9 +31,11 @@
 | [Ava](https://open.spotify.com/track/2ZOcIBtmGkwQeL1ZQxhCEy) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Ava](https://open.spotify.com/album/7v48jyII9Nshy8uhsFSiMX) | 2:48 | 2020-10-20\* |  |
 | [Beautiful Wave](https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN) | [Patterns In Everything](https://open.spotify.com/artist/2mgIQPmnKgc7jOQgq8JDDl) | [Beautiful Wave](https://open.spotify.com/album/3og8lAbTWBCejbKVa0O6Vh) | 3:58 | 2020-10-20\* |  |
 | [Bedtime Roses](https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [Bedtime Roses](https://open.spotify.com/album/1D1pF0jmc7dIiqltajtMPr) | 2:24 | 2020-10-20\* |  |
+| [Bergamot](https://open.spotify.com/track/7E5pn3FakM4zKk7CpbK6hI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Bergamot](https://open.spotify.com/album/2qI2lDAkfUH8nBKszazYRs) | 3:15 | 2022-07-15 |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* |  |
 | [Big Sky](https://open.spotify.com/track/0Km4RigFVzZCLcqMXOH5jp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:35 | 2020-10-20\* |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-07-04 |  |
+| [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-22 |  |
 | [Boötes](https://open.spotify.com/track/1nIVZg8EmaIZD5FuJ5nOuw) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Boötes](https://open.spotify.com/album/6lllSwLLJB19hH6jYb3e8i) | 3:12 | 2020-10-20\* |  |
 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-21 |  |
@@ -125,6 +128,7 @@
 | [I](https://open.spotify.com/track/770urYRt3t7vImMY8106hB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/1Xdzq7uZAv640cXUoeAFAZ) | 1:17 | 2020-10-20\* |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2020-10-20\* |  |
 | [Ice Clouds](https://open.spotify.com/track/6K6L7X4M60Mk3dk9i7gN2u) | [unwaxed lemons](https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG) | [Ice Clouds](https://open.spotify.com/album/1xUC5g3SvEj8YFCJYbnfSf) | 1:40 | 2020-10-20\* | 2022-02-04 |
+| [Idyllic Mind](https://open.spotify.com/track/6AXrDum543JUdzxxeLITHR) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Idyllic Mind](https://open.spotify.com/album/0bF7W7vbkEIAcMHrQ1ILXV) | 2:34 | 2022-06-16 |  |
 | [Il mio letto](https://open.spotify.com/track/2InugPJTdU4OHJ94OJvkzt) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Il mio letto](https://open.spotify.com/album/410x6BJpJrLSxbFvJfpIWm) | 2:50 | 2020-10-20\* |  |
 | [Immersed](https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [In the Waiting](https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t) | 3:02 | 2020-10-20\* |  |
 | [In Context](https://open.spotify.com/track/3VtwqVa4zccZMKIiFsMEtk) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Foreigner](https://open.spotify.com/album/1x6UF3Zkljn2tgf8juSF5I) | 2:34 | 2020-10-20\* |  |
@@ -148,6 +152,7 @@
 | [Maroon Lake](https://open.spotify.com/track/4Ck1myMt261ophVYeSOC84) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Outings](https://open.spotify.com/album/79gZ4wm7D1GfdC0yNWrKvL) | 2:50 | 2020-10-20\* |  |
 | [Meaning](https://open.spotify.com/track/1M2bdpwWkekhMWIlVFmd3e) | [Arpeggiated Motives](https://open.spotify.com/artist/2vJaUyXZAIBV2sKiznI4kH) | [First Temple](https://open.spotify.com/album/2gzsnt28uMDKwAnSle9veo) | 3:39 | 2020-10-20\* |  |
 | [Merak](https://open.spotify.com/track/4saUR7QV5oTnzqj9XaZJFp) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Merak](https://open.spotify.com/album/3C3x7kYNc1rQdTC35wNNDX) | 2:48 | 2020-10-20\* |  |
+| [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:52 | 2022-06-16 |  |
 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 | 2020-10-20\* |  |
 | [Midnight Meandering \(Peace\)](https://open.spotify.com/track/6pxESpr2mORBYPLA63wy3D) | [Stephen M Harris](https://open.spotify.com/artist/0o0VNIjdMpG2tP6oLVdgll) | [Midnight Meandering \(Peace\)](https://open.spotify.com/album/0Dhi5zQ7W0CldoKMGP6rU4) | 3:00 | 2020-10-20\* |  |
 | [Midnight Sun](https://open.spotify.com/track/5WQDL5w2hdjltJ1aqWgFLm) | [Zach Levi](https://open.spotify.com/artist/2GR5LQXtNXyejm2nJvyYQb) | [Midnight Sun](https://open.spotify.com/album/5pkhOVnGe8LcXSgGspGeld) | 2:40 | 2021-01-30 |  |
@@ -155,6 +160,7 @@
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-10-09 | 2021-12-10 |
 | [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2020-10-20\* |  |
 | [Monita](https://open.spotify.com/track/2kYi4RwuTernByCJR6D4e1) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:16 | 2020-10-20\* |  |
+| [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moving through mist](https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG) | [Esther Saunders](https://open.spotify.com/artist/2AmTNUzax2gngw3CseeDPK) | [Moving through mist](https://open.spotify.com/album/0ScW79cTIcqvIRfOhCugOc) | 2:17 | 2021-08-27 |  |
 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 | 2020-10-20\* |  |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2020-12-25 |  |
@@ -242,7 +248,7 @@
 | [Sugar High](https://open.spotify.com/track/0H9ObVXY0RvFsXqdFDAdyp) | [Vanessa Sky](https://open.spotify.com/artist/3EBmLqXbxXtrJ1FDp4NRur) | [Sugar High](https://open.spotify.com/album/4cErrJtWfohldIG7dpgfiw) | 3:29 | 2020-10-20\* |  |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* |  |
 | [Sugarcane Dreams](https://open.spotify.com/track/3RMUFE3e72UAPzdEN7HoSc) | [Lilly Emeralda](https://open.spotify.com/artist/72XN9POMTdHyg1CdCnb2ox) | [Sugarcane Dreams](https://open.spotify.com/album/3mtJb7zt4qXzYpyO0RVl2C) | 2:37 | 2021-08-27 |  |
-| [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2020-10-20\* |  |
+| [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2020-10-20\* | 2022-05-27 |
 | [Summits](https://open.spotify.com/track/7GfuqKFwIqZMPT3QpMOZay) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Worlds Apart](https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS) | 2:07 | 2020-10-20\* | 2021-07-16 |
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2020-10-20\* |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-01-07 |  |
@@ -259,7 +265,7 @@
 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 | 2021-07-16 |  |
 | [The Hermod](https://open.spotify.com/track/7drTYp9dKioyAQYDTLtzbR) | [Levandau](https://open.spotify.com/artist/4i8dFLIE5uXyj0y8mX8Ngo) | [The Hermod](https://open.spotify.com/album/0qwe4xq1aqAt75YR1lPiRi) | 2:44 | 2020-10-20\* |  |
 | [The Leaves](https://open.spotify.com/track/12aqk9J5v3zqoMolpAB3ZQ) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [The Leaves](https://open.spotify.com/album/7H0KuKgpChynqWsA7kmnnU) | 2:40 | 2021-11-17 |  |
-| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* |  |
+| [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* | 2022-07-16 |
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2021-09-08 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2022-02-04 |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* |  |

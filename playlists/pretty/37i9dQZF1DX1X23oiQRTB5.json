@@ -1,15 +1,67 @@
 {
-  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
-  "num_followers": 1183910,
+  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "num_followers": 1220073,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE4MzIwMCwwMDAwMDJlMTAwMDAwMTgwNzIzMDI3YzcwMDAwMDE4MDcwZDgwY2Y0",
+  "snapshot_id": "MTY1NzgzNjA2MCwwMDAwMDJlZTAwMDAwMTgxZmViYWJlMGMwMDAwMDE4MWVlMjkxOGVl",
   "tracks": [
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "RAPPEL",
+        "url": "https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217948,
+      "name": "RAPPEL",
+      "url": "https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Chop (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Chop (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Gasolina (feat. Rsko)",
+      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "OCHO (Deluxe)",
         "url": "https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y"
@@ -29,43 +81,23 @@
       "url": "https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "On se reverra plus (feat. Gazo)",
-        "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
+        "name": "MOLLY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz"
       },
       "artists": [
-        {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
-        },
         {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 179040,
-      "name": "On se reverra plus (feat. Gazo)",
-      "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
+      "duration_ms": 142027,
+      "name": "MOLLY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Mozart Capitaine Jackson (Episode 2)",
         "url": "https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi"
@@ -81,79 +113,87 @@
       "url": "https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "MAUVAIS 2X (feat. Ninho)",
-        "url": "https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch"
+        "name": "Si j'savais",
+        "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 240373,
-      "name": "MAUVAIS 2X (feat. Ninho)",
-      "url": "https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv"
+      "duration_ms": 223480,
+      "name": "Si j'savais",
+      "url": "https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Fixette",
-        "url": "https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 213594,
-      "name": "Fixette",
-      "url": "https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "N.I",
-        "url": "https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9"
+        "name": "Le monde est m\u00e9chant",
+        "url": "https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2"
       },
       "artists": [
         {
           "name": "Niska",
           "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "44",
+      "url": "https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Drama queen",
+        "url": "https://open.spotify.com/album/01mO9ZxpTUCroczjsauart"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "Drama queen",
+      "url": "https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "CELINE 3X",
+        "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158223,
+      "name": "CELINE 3X",
+      "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
         {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 179026,
-      "name": "N.I",
-      "url": "https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz"
+      "duration_ms": 187027,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Dans le R\u00e9seau",
-        "url": "https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 144416,
-      "name": "Dans le R\u00e9seau",
-      "url": "https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
@@ -173,163 +213,23 @@
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "ARR\u00caTEZ-LE ! (Vol.2)",
-        "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
+        "name": "Papel",
+        "url": "https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5"
       },
       "artists": [
         {
-          "name": "1PLIK\u00c9140",
-          "url": "https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         }
       ],
-      "duration_ms": 179386,
-      "name": "CANADA",
-      "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
+      "duration_ms": 190466,
+      "name": "Papel",
+      "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 177705,
-      "name": "Jefe",
-      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Le monde est m\u00e9chant",
-        "url": "https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "44",
-      "url": "https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Les gentils bandits / Focus",
-        "url": "https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv"
-      },
-      "artists": [
-        {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Les gentils bandits",
-      "url": "https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Reste-l\u00e0 (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U"
-      },
-      "artists": [
-        {
-          "name": "Gambino La MG",
-          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Reste-l\u00e0 (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Big Meech",
-        "url": "https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 220632,
-      "name": "Big Meech",
-      "url": "https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Toujours nous-m\u00eames",
-        "url": "https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP"
-      },
-      "artists": [
-        {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 153720,
-      "name": "Gasolina (feat. Ninho)",
-      "url": "https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "COCO JOJO",
-        "url": "https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD"
-      },
-      "artists": [
-        {
-          "name": "Guy2bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Full black",
-      "url": "https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1gKn9d5OHN2aUw9FHRFD4C"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 211180,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "Tout Droit",
         "url": "https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux"
@@ -349,78 +249,10 @@
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "DRILL FR",
-        "url": "https://open.spotify.com/album/31H0KWvM2hCC3p8jkctCWN"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "HAINE&SEX",
-      "url": "https://open.spotify.com/track/6Vcxzw4ifKqYxVrp3ckpVF"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Enna",
-        "url": "https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "A la base",
-      "url": "https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "R.A.S.",
-        "url": "https://open.spotify.com/album/5aLlyDJDyw2OD4ESHvM7D7"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 186951,
-      "name": "R.A.S.",
-      "url": "https://open.spotify.com/track/1nIxCTbXldWJXeQB2h4Lyh"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "MELANCHOLIA 999",
-        "url": "https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "FUM22 NOCIVE",
-      "url": "https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Le chemin des braves",
-        "url": "https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo"
+        "name": "On se reverra plus (feat. Gazo)",
+        "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
       },
       "artists": [
         {
@@ -428,32 +260,304 @@
           "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
         },
         {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "On se reverra plus (feat. Gazo)",
+      "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "COCO JOJO",
+        "url": "https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a"
+      },
+      "artists": [
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Beretta",
+      "url": "https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
+        {
           "name": "Ninho",
           "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 229226,
-      "name": "Kongolais mauvais (feat. Ninho)",
-      "url": "https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs"
+      "duration_ms": 177705,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "GROKUWA",
-        "url": "https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH"
+        "name": "Reste-l\u00e0 (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U"
       },
       "artists": [
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Reste-l\u00e0 (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Big Meech",
+        "url": "https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
         {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 182973,
-      "name": "GROKUWA",
-      "url": "https://open.spotify.com/track/0RnWcpTwUpfzPWGDjajX0o"
+      "duration_ms": 220632,
+      "name": "Big Meech",
+      "url": "https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "N.I",
+        "url": "https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "N.I",
+      "url": "https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Dans le R\u00e9seau",
+        "url": "https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 144416,
+      "name": "Dans le R\u00e9seau",
+      "url": "https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/6yVw74sZZ2lDyvVVnWPTRc"
+      },
+      "artists": [
+        {
+          "name": "ISK",
+          "url": "https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 191995,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/2I09PaS6In9XUCrREVo4C6"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "NOSTALGIA+",
+        "url": "https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "NEYMAR JR",
+      "url": "https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "VOL 169 ATTERRISSAGE",
+        "url": "https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh"
+      },
+      "artists": [
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Chic choc",
+      "url": "https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Toujours nous-m\u00eames",
+        "url": "https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "Gasolina (feat. Ninho)",
+      "url": "https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Fixette",
+        "url": "https://open.spotify.com/album/6Y4OKe6gdIgxaVfJrASQzE"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 213594,
+      "name": "Fixette",
+      "url": "https://open.spotify.com/track/5sLfmuQHJtPjSORQF2sbrJ"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "COCO JOJO",
+        "url": "https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD"
+      },
+      "artists": [
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Full black",
+      "url": "https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk"
+      },
+      "artists": [
+        {
+          "name": "S-Crew",
+          "url": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "22",
+      "url": "https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "Troph\u00e9e",
+        "url": "https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        },
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Troph\u00e9e",
+      "url": "https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "ARR\u00caTEZ-LE ! (Vol.2)",
+        "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
+      },
+      "artists": [
+        {
+          "name": "1PLIK\u00c9140",
+          "url": "https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "CANADA",
+      "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "La 15 (GSXR)",
+        "url": "https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "La 15 (GSXR)",
+      "url": "https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "94 bois, vol. 2",
         "url": "https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC"
@@ -473,99 +577,111 @@
       "url": "https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Louis V",
-        "url": "https://open.spotify.com/album/1BYuCRO2VsdMLNCTirNUMr"
+        "name": "FRAUDE",
+        "url": "https://open.spotify.com/album/1ds595bn2azH1sYiG38A66"
       },
       "artists": [
         {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Louis V",
-      "url": "https://open.spotify.com/track/7r83PYx36835T5BQCbzrjc"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "L\u2019Amour",
-        "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
-      },
-      "artists": [
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
         },
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
         }
       ],
-      "duration_ms": 198396,
-      "name": "RENCONTRE",
-      "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
+      "duration_ms": 188706,
+      "name": "FRAUDE",
+      "url": "https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "\u00c9tincelle (Maradona)",
-        "url": "https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma"
+        "name": "Les gentils bandits / Focus",
+        "url": "https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
         }
       ],
-      "duration_ms": 212946,
-      "name": "\u00c9tincelle - Maradona",
-      "url": "https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO"
+      "duration_ms": 220920,
+      "name": "Les gentils bandits",
+      "url": "https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Enfant2LaRue Vol. 2",
-        "url": "https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG"
+        "name": "Enna",
+        "url": "https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I"
       },
       "artists": [
         {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "A la base",
+      "url": "https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "A l'aube",
+        "url": "https://open.spotify.com/album/09ObghqbDSf17hSctgsO2Z"
+      },
+      "artists": [
+        {
+          "name": "Soso Maness",
+          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
         },
         {
-          "name": "Kaza",
-          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Elle veut",
-      "url": "https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR"
+      "duration_ms": 194360,
+      "name": "Parapluie (feat. Maes)",
+      "url": "https://open.spotify.com/track/7AXGvNJ6kcnMuNhE9KhvaI"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "Nintch",
-        "url": "https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p"
+        "name": "MELANCHOLIA 999",
+        "url": "https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a"
       },
       "artists": [
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        },
-        {
-          "name": "Agis ou R\u00eave",
-          "url": "https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nintch",
-      "url": "https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy"
+      "duration_ms": 131013,
+      "name": "FUM22 NOCIVE",
+      "url": "https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
+      "album": {
+        "name": "G\u00e2chette",
+        "url": "https://open.spotify.com/album/0qpgphzMRmKDgi9UGCLc2w"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "G\u00e2chette",
+      "url": "https://open.spotify.com/track/0rjKTXFvdFgAZ4dEG4AryJ"
+    },
+    {
+      "added_at": "2022-07-14 22:01:00",
       "album": {
         "name": "SVR",
         "url": "https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy"
@@ -589,184 +705,24 @@
       "url": "https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8"
     },
     {
-      "added_at": "2022-04-28 22:00:00",
+      "added_at": "2022-07-14 22:01:00",
       "album": {
-        "name": "R\u00e9elle vie 3.0",
-        "url": "https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc"
+        "name": "L\u2019Amour",
+        "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
       },
       "artists": [
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         },
         {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 194056,
-      "name": "Kalenji",
-      "url": "https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Loi de la calle",
-        "url": "https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/0C4ExMgzd77NOPH8lwtEG1"
-        },
-        {
-          "name": "Mister You",
-          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
-        },
-        {
-          "name": "Kofs",
-          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
-        },
-        {
-          "name": "Le Rat Luciano",
-          "url": "https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "Le classico organis\u00e9",
-          "url": "https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW"
-        }
-      ],
-      "duration_ms": 344720,
-      "name": "Loi de la calle",
-      "url": "https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Anunnaki",
-        "url": "https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Anunnaki",
-      "url": "https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Ar\u00e8s",
-        "url": "https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        },
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "Tchalla",
-        "url": "https://open.spotify.com/album/48WjMsMmHRLQTC2ZXqPwaw"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        },
-        {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "Tchalla",
-      "url": "https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "M.A.N (Black Roses & Lost Feelings)",
-        "url": "https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        },
-        {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Br\u00fble",
-      "url": "https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "MAUVAIS PAYEUR",
-        "url": "https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "MAUVAIS PAYEUR",
-      "url": "https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk"
-    },
-    {
-      "added_at": "2022-04-28 22:00:00",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        },
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Peon (feat. Orelsan)",
-      "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
+      "duration_ms": 198396,
+      "name": "RENCONTRE",
+      "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
     }
   ],
   "unique_name": "PVNCHLNRS",

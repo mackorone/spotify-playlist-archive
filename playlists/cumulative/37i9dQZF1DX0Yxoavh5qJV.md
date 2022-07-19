@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-117 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
+118 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/1prYSRBfwPvE3v8jSRZL3Q) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [My Kind Of Christmas](https://open.spotify.com/album/0gtE70KEjYETTUYPsctiae) | 1:57 | 2021-12-16 |  |
 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 | 2021-12-16 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-16 |  |
+| [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 | 2022-06-01 |  |
 | [Lonely This Christmas](https://open.spotify.com/track/5DMItYJluCFc7YtFdP4aXo) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 3:33 | 2021-12-16 |  |
 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 | 2021-12-16 |  |
 | [Man With The Bag](https://open.spotify.com/track/18g50kFt5uwVeCzQbrCvAO) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/3NpQCCaahU3jIgug1N89EV) | 2:41 | 2021-12-16 |  |

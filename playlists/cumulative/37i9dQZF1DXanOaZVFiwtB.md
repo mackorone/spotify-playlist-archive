@@ -4,11 +4,11 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-50 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+51 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 | 2022-04-10 |  |
+| [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [Makoto Kawamoto](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 | 2022-04-10 |  |
 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 | 2022-04-10 |  |
 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [gumi](https://open.spotify.com/artist/7EpnSFEhtEQmIOXPDwGXQ5) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 | 2022-04-10 |  |
 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 | 2022-04-10 |  |
@@ -53,6 +53,7 @@
 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 | 2022-04-10 |  |
 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 | 2022-04-10 |  |
 | [虚空の迷宮](https://open.spotify.com/track/7w7BTGHrb0TOJDJtkBS3SL) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/5BjhOyL2SL0DfQIAfKV41f) | 4:18 | 2022-04-10 |  |
+| [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 | 2022-05-27 |  |
 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 | 2022-04-10 |  |
 | [輝きは君の中に](https://open.spotify.com/track/04uMxC39AD3awh5DoNdyP5) | [Yume Suzuki](https://open.spotify.com/artist/3DafdgrWjaJJ9pHUtnKUvt) | [決定盤「NINKU\-忍空\-」アニメ主題歌&キャラソン大全集\(+BGM集\)](https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx) | 4:39 | 2022-04-10 |  |
 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 |  |

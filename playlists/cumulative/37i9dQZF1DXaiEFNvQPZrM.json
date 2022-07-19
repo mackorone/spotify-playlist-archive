@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        },
+        {
+          "name": "Jason Sellers",
+          "url": "https://open.spotify.com/artist/5TRj3DqC4pcZaTIGFq99Bg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256399,
+      "name": "A Little Past Little Rock",
+      "url": "https://open.spotify.com/track/0ieL9hQJOHdlnyeOoBv768"
+    },
+    {
+      "album": {
         "name": "Strait From The Heart",
         "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
       },
@@ -163,7 +185,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-24",
       "duration_ms": 223133,
       "name": "Big Day in a Small Town",
       "url": "https://open.spotify.com/track/2R4GzWIHMWTQfAtZX74l8i"
@@ -217,7 +239,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 196120,
       "name": "Boys Back Home",
       "url": "https://open.spotify.com/track/6aMCyqX0t9BZGF4VCRJvud"
@@ -397,7 +419,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-05-06",
       "duration_ms": 206689,
       "name": "Country In The Girl",
       "url": "https://open.spotify.com/track/0qxFuP4qRzvXAlRdlAdd1c"
@@ -433,7 +455,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 230226,
       "name": "Damn Strait",
       "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
@@ -451,7 +473,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 230226,
       "name": "Damn Strait",
       "url": "https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b"
@@ -513,10 +535,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 204320,
       "name": "Demons",
       "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
+    },
+    {
+      "album": {
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "album": {
@@ -610,6 +650,28 @@
     },
     {
       "album": {
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+    },
+    {
+      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -639,7 +701,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-07",
       "duration_ms": 215333,
       "name": "From A Table Away",
       "url": "https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG"
@@ -765,10 +827,28 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+    },
+    {
+      "album": {
+        "name": "Come On Come On",
+        "url": "https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/7zV7ij696h7hsLqFNpXPz2"
     },
     {
       "album": {
@@ -830,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Honky Tonk Land",
+        "url": "https://open.spotify.com/album/5faF1UVFN3ErXhkOiXoz6T"
+      },
+      "artists": [
+        {
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 176386,
+      "name": "Honky Tonk Land",
+      "url": "https://open.spotify.com/track/3GkSLx4Sfv9XB6NpxOnd80"
+    },
+    {
+      "album": {
         "name": "Son Of A",
         "url": "https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3"
       },
@@ -877,7 +975,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-15",
       "duration_ms": 239145,
       "name": "I Can Be Your Whiskey",
       "url": "https://open.spotify.com/track/0A7GvbqAUCnpSQb3TLKKFO"
@@ -913,10 +1011,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 201533,
       "name": "I Met a Girl",
       "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
+    },
+    {
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "album": {
@@ -935,6 +1051,24 @@
       "duration_ms": 208365,
       "name": "I'd Do It Different",
       "url": "https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc"
+    },
+    {
+      "album": {
+        "name": "Some Things I Know",
+        "url": "https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "I'll Think Of A Reason Later",
+      "url": "https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa"
     },
     {
       "album": {
@@ -967,7 +1101,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 223280,
       "name": "If Heaven Wasn't So Far Away",
       "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
@@ -986,7 +1120,7 @@
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134373,
+      "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
@@ -1075,7 +1209,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-07",
       "duration_ms": 218720,
       "name": "Just Might Have Her Radio On",
       "url": "https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm"
@@ -1115,6 +1249,24 @@
       "duration_ms": 185049,
       "name": "Kings and Queens of the Modern Day Honky Tonk",
       "url": "https://open.spotify.com/track/6ljSShN6zlEVlXAQMm17k2"
+    },
+    {
+      "album": {
+        "name": "Little Miss Saturday Night",
+        "url": "https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 200438,
+      "name": "Little Miss Saturday Night",
+      "url": "https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs"
     },
     {
       "album": {
@@ -1199,7 +1351,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 199150,
       "name": "Love, Cold Beer, Cheap Smoke",
       "url": "https://open.spotify.com/track/4DkcQ60CkQtf5oYtfPu3la"
@@ -1224,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
+    },
+    {
+      "album": {
         "name": "When Country Was",
         "url": "https://open.spotify.com/album/349YKa9ysD4XZMzhJJCYjJ"
       },
@@ -1235,7 +1405,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 196880,
       "name": "Me on You",
       "url": "https://open.spotify.com/track/68yrOD2q0Chbbd5BEsj7aM"
@@ -1271,7 +1441,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-17",
       "duration_ms": 157961,
       "name": "My Kinda Trouble",
       "url": "https://open.spotify.com/track/26DQPEXZJNwU5Qiite8NxW"
@@ -1361,7 +1531,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 220613,
       "name": "Old Porch Swing",
       "url": "https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8"
@@ -1649,7 +1819,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 199706,
       "name": "Shot Glass",
       "url": "https://open.spotify.com/track/1GwfKxtZb6JAr9lXa7b383"
@@ -1761,7 +1931,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 242986,
       "name": "Stealing Cinderella",
       "url": "https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl"
@@ -1779,7 +1949,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-10",
       "duration_ms": 201893,
       "name": "Still Gonna Be You",
       "url": "https://open.spotify.com/track/3ihVt9DqGFWgUWSBbzsAbo"
@@ -1869,7 +2039,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
@@ -1930,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "Lee Ann Womack",
+        "url": "https://open.spotify.com/album/6GfwKwr0IXUY95d5UaRgC3"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/1rVZ7EqoVJfrciRW80Uljh"
+    },
+    {
+      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -1945,6 +2133,24 @@
       "duration_ms": 257266,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
+    {
+      "album": {
+        "name": "Then Again",
+        "url": "https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rossell",
+          "url": "https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205740,
+      "name": "Then Again",
+      "url": "https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM"
     },
     {
       "album": {
@@ -2020,6 +2226,24 @@
     },
     {
       "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+    },
+    {
+      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -2067,7 +2291,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
@@ -2121,7 +2345,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-06",
       "duration_ms": 197800,
       "name": "Whole Lotta You",
       "url": "https://open.spotify.com/track/3ECYvcf518GveIlB2MT64l"
@@ -2211,7 +2435,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"

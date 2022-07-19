@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,250 likes - 49 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,035 likes - 49 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On The Nature Of Daylight](https://open.spotify.com/track/5DFUsGW4Cmltv8Spd0u1aV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks](https://open.spotify.com/album/2Zlgv1oosng3OWHzdcTk9a) | 6:11 |
-| 2 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin \- Piano Works](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
+| 2 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
 | 3 | [Barber: Adagio for Strings, Op\. 11](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio \(100th anniversary\)](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 |
 | 4 | [Glass: Truman Sleeps \("The Truman Show"\)](https://open.spotify.com/track/6LmLH4PpmQLhXSefqIPNHA) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Contemporary Classical Music](https://open.spotify.com/album/1bzUvjcrxduXlrfbXY1fDg) | 2:40 |
 | 5 | [Adagio in G Minor \(Arr\. for Harp and Orchestra\)](https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Stefan Klieme](https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [L'Arte del mondo](https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY) | [Notte Veneziana](https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO) | 5:00 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 | 48 | [Les feuilles mortes](https://open.spotify.com/track/2mZzobMVnCqPKojqhmVEZw) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [Matthias & Maxime \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ce8Lcbg7w6Kz1DJZfS4EZ) | 1:37 |
 | 49 | [La melancolie \(arr\. H\. Kraggerud\): La Melancolie \(arr\. H\. Kraggerud\)](https://open.spotify.com/track/7rurwR9jA7XDEj9cfnB1fz) | [Henning Kraggerud](https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb), [Ole Bull](https://open.spotify.com/artist/1cLnJI3RJwDH9Gt2CTM0zY), [Razumovsky Symphony Orchestra](https://open.spotify.com/artist/6lxAqIorVmYY2bzWr9kmCA), [Bjarte Engeset](https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d) | [Norwegian Violin Favourites](https://open.spotify.com/album/5dtYq2KwetYV4zr9v8qgv4) | 2:19 |
 
-Snapshot ID: `MTYzNDU1NjUzNywwMDAwMDAyNzAwMDAwMTdjOTMyOTY5ZDEwMDAwMDE3MGVlOWU0MTc3`
+Snapshot ID: `MTY1NzU2Mzc0NSwwMDAwMDAyODAwMDAwMTgxZWU3ZjhjMDUwMDAwMDE3MGVlOWU0MTc3`

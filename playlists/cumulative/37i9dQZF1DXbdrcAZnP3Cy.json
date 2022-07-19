@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 178773,
       "name": "Cahuates, Pistaches",
       "url": "https://open.spotify.com/track/3XjLgsdtkpwhr8N105ZTOA"
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "El Sonidito",
+        "url": "https://open.spotify.com/album/7517072y7Mved9OzrsTB4E"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-11",
+      "duration_ms": 199893,
+      "name": "El Sonidito",
+      "url": "https://open.spotify.com/track/5L5Ox4ze5TZaQNw5CvD6CL"
+    },
+    {
+      "album": {
         "name": "La Historia De Los Exitos - Bailables",
         "url": "https://open.spotify.com/album/5ECdGv5S3xRhiVxKUWxg98"
       },
@@ -659,7 +677,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 172293,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/4PRK2buQisTuAOVef5t3qz"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": "2022-06-29",
       "duration_ms": 151586,
       "name": "La Leona y el Mandil\u00f3n",
       "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 177346,
       "name": "Mu\u00e9veme el Pollo",
       "url": "https://open.spotify.com/track/2gnuSmoVQu8Xqi3DecCpaX"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 165946,
       "name": "Pistear, Pistear, Pistear",
       "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 233546,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 154540,
       "name": "Un Fin en Culiacan",
       "url": "https://open.spotify.com/track/0JTq2Zh8PQsIj0gqxnM7SY"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": "2022-07-04",
       "duration_ms": 154493,
       "name": "Un Fin en Culiac\u00e1n",
       "url": "https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 180080,
       "name": "\u00bfPor Qu\u00e9 Terminamos?",
       "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"

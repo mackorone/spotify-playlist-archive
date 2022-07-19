@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Evolutions",
+        "url": "https://open.spotify.com/album/1qo5NaOMvLbHTQ5Fbrg8fe"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133362,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/2VZk7tEFeZ2WkpRsTPAnfp"
+    },
+    {
+      "album": {
         "name": "Brotin",
         "url": "https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH"
       },
@@ -261,6 +279,28 @@
       "duration_ms": 251173,
       "name": "Bylur",
       "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+    },
+    {
+      "album": {
+        "name": "The Turning Year",
+        "url": "https://open.spotify.com/album/69q5BWCtoQAgoeNxx6kvWB"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149976,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/55tehuewleUyLqkKuovHkQ"
     },
     {
       "album": {
@@ -624,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/0Gy9ISFxfGL5LFvLNNlMsq"
+      },
+      "artists": [
+        {
+          "name": "Rubin Henkel",
+          "url": "https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Hello Yellow",
+      "url": "https://open.spotify.com/track/4A2XEAdCajGcm5ZOUWoQrA"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/1qLmLJmIbqiWwMjvjm4ECD"
       },
@@ -639,6 +697,24 @@
       "duration_ms": 346198,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/5ufCopwrQuarKWJv1joxmb"
+    },
+    {
+      "album": {
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/24ogFunadlg51m8Yq7nT2h"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213545,
+      "name": "HYMN",
+      "url": "https://open.spotify.com/track/5jkf6m1XJYIMp751df40z1"
     },
     {
       "album": {
@@ -865,7 +941,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 439533,
       "name": "Klarinettenkonzert A-Dur, K. 622: 2. Adagio (Jenseits von Afrika): Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/1T3WTXFY6lQ0cPN1FUoGQ6"
@@ -1004,6 +1080,28 @@
     },
     {
       "album": {
+        "name": "Loom (Sunrise Session II)",
+        "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Reykjav\u00edk Recording Orchestra",
+          "url": "https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Loom - Sunrise Session II",
+      "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
+    },
+    {
+      "album": {
         "name": "Lucida",
         "url": "https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL"
       },
@@ -1019,6 +1117,24 @@
       "duration_ms": 399277,
       "name": "Lucida",
       "url": "https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Manhattan Sunrise",
+        "url": "https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Manhattan Sunrise",
+      "url": "https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd"
     },
     {
       "album": {
@@ -1079,6 +1195,24 @@
       "duration_ms": 128693,
       "name": "Martyrdom - Movement 1",
       "url": "https://open.spotify.com/track/50LqUYIes3bfMQ7mSHrXzA"
+    },
+    {
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/3EKd8Rj7d7t19f9sXlkSuC"
+      },
+      "artists": [
+        {
+          "name": "David Tolk",
+          "url": "https://open.spotify.com/artist/3OvrUspbOHgGI6T7D5Fb6P"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284181,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/372fVbBQxBOf80OOU9Qij8"
     },
     {
       "album": {
@@ -1638,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "Provenance",
+        "url": "https://open.spotify.com/album/03uwKDQx2mMQu43KxFK2y6"
+      },
+      "artists": [
+        {
+          "name": "Tim Linghaus",
+          "url": "https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137701,
+      "name": "Self-Service Laundry",
+      "url": "https://open.spotify.com/track/2F3lFJtwn2a7VaEasMW5fp"
+    },
+    {
+      "album": {
         "name": "Silent Waves",
         "url": "https://open.spotify.com/album/4YUHjJEz3YWglKA0Tv88zo"
       },
@@ -1745,7 +1897,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 250000,
       "name": "Sospiri, Op. 70 (Arr. Violin and Piano)",
       "url": "https://open.spotify.com/track/2auuNbeUzVCaH3qWfImD6I"

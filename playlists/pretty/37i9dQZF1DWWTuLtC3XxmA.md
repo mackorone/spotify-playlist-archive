@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,053 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,744 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 27 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
 | 28 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 |
 | 29 | [Ave Maria](https://open.spotify.com/track/7fSQOK7USZYJ9ndPB0qPnz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:55 |
-| 30 | [Christmas Don't Be Late](https://open.spotify.com/track/4EUgNt34cAvEwYEgoPvsRE) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 2:40 |
+| 30 | [Christmas Don't Be Late](https://open.spotify.com/track/4EUgNt34cAvEwYEgoPvsRE) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 2:40 |
 | 31 | [Step Into Christmas](https://open.spotify.com/track/0m8JScKN5AX29Lejm6Z7wI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/3TklXHH0ZQtDBw06qalt28) | 4:32 |
 | 32 | [River \- Recorded At RAK Studios, London](https://open.spotify.com/track/29UQV9kjexf0TJAR0UElID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4ecvpp0mbSwKEUWHAPngLV) | 3:28 |
 | 33 | [Joy to the World \(with Georgia Mass Choir\)](https://open.spotify.com/track/0sKAxwRubZuqKadRspVY96) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:41 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 48 | [Christmas in New York](https://open.spotify.com/track/6ojf8Uq0jgu9zJggnifDHg) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:15 |
 | 49 | [A Hand For Mrs\. Claus](https://open.spotify.com/track/5GMaaILYpTiAo1SAhvvBKi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 2:29 |
 | 50 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 |
-| 51 | [Run Rudolph Run](https://open.spotify.com/track/0tm9wjJs6eT8zRxtBY4Gxc) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:11 |
+| 51 | [Run Rudolph Run](https://open.spotify.com/track/0tm9wjJs6eT8zRxtBY4Gxc) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:11 |
 | 52 | [Sleigh Ride](https://open.spotify.com/track/1ba3RJ93r300sxl3BXUstM) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:26 |
 | 53 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1WrksSayukHRLctEsjcSGf) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/1QKSquXHKLOclEqcstI9vN) | 4:03 |
 | 54 | [Wrapped in Red](https://open.spotify.com/track/5fclVBnzaGrbucvVMC228o) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:36 |

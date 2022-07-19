@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 
 > Looking back at the greatest metal released in 2016.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 121 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 916 likes - 121 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

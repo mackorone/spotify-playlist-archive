@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6YMK6nqc1jS11fGraCU1o2.md) - [plain]
 
 > Sleep, study, or simply still your mind with the soothing sounds of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 21 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 21 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

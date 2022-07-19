@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,190 likes - 48 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,226 likes - 48 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

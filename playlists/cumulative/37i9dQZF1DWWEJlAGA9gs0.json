@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of <a href=\"spotify:genre:classical\">classical</a> music.",
+  "description": "A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.",
   "name": "Classical Essentials",
   "published_playlist_ids": [
     "4GpVB3ZYw6xDnEoi26xxbh"
@@ -87,20 +87,20 @@
           "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+          "name": "Leon Spierer",
+          "url": "https://open.spotify.com/artist/3Fh9zNaErzNE0uHLwrsION"
         },
         {
           "name": "David Bell",
           "url": "https://open.spotify.com/artist/29BEmD7wvKp6F5GTCcejY3"
         },
         {
-          "name": "Leon Spierer",
-          "url": "https://open.spotify.com/artist/3Fh9zNaErzNE0uHLwrsION"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
         }
       ],
       "date_added": "2021-09-27",
@@ -484,7 +484,7 @@
     },
     {
       "album": {
-        "name": "Chopin - Piano Works",
+        "name": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
         "url": "https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9"
       },
       "artists": [
@@ -2029,16 +2029,12 @@
           "url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
         },
         {
-          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
-          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         },
         {
           "name": "Antonio Pappano",
           "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         }
       ],
       "date_added": "2021-09-27",
@@ -2561,7 +2557,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151506,
-      "name": "Spring 1",
+      "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
@@ -2810,7 +2806,7 @@
     },
     {
       "album": {
-        "name": "Berlioz: Symphonie Fantastique - Rameau: Suite de Hippolyte et Aricie",
+        "name": "Berlioz: Symphonie fantastique: Rameau: Suite de Hippolyte et aricie",
         "url": "https://open.spotify.com/album/5MOLPQzAGSikHV8OjlhOCc"
       },
       "artists": [
@@ -2831,7 +2827,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 431786,
-      "name": "Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",
+      "name": "Symphonie fantastique, Op. 14: Marche au supplice (Allegro non troppo)",
       "url": "https://open.spotify.com/track/1SHixA41Vy0TTlJJSX9Gbo"
     },
     {
@@ -3783,7 +3779,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 424653,
-      "name": "Violin Concerto in D Major, Op. 35, TH. 59: III. Finale: Allegro assai vivace",
+      "name": "Violin Concerto In D Major, Op. 35: III. Finale: Allegro assai vivace",
       "url": "https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "These women rock our worlds with their music and influence. Cover: Alanis Morissette",
-  "num_followers": 632985,
+  "num_followers": 658690,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQ4NjYxMCwwMDAwMDAzODAwMDAwMTgwNDhhYjA5ZTAwMDAwMDE3ZjY2YTYxNjUz",
+  "snapshot_id": "MTY1MzkxNzcxMywwMDAwMDAzYTAwMDAwMTgxMTUyZDg1OGQwMDAwMDE3ZjY2YTYxNjUz",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -23,6 +23,70 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2020-03-11 14:04:42",
+      "album": {
+        "name": "Bella Donna",
+        "url": "https://open.spotify.com/album/2anR0CWeiIAyEE2VNwLTaP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329680,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/1m9saE7zpF33TxI19j57UN"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2020-03-11 14:04:42",
+      "album": {
+        "name": "Janis",
+        "url": "https://open.spotify.com/album/294SMYuchjGEbo3bko8QVt"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2RWraN4ZkuqjcNQAlBNGEH"
+    },
+    {
+      "added_at": "2021-02-01 21:38:57",
+      "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
     },
     {
       "added_at": "2020-03-11 14:04:42",
@@ -59,28 +123,12 @@
     {
       "added_at": "2020-03-11 14:04:42",
       "album": {
-        "name": "Bella Donna",
-        "url": "https://open.spotify.com/album/2anR0CWeiIAyEE2VNwLTaP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/1m9saE7zpF33TxI19j57UN"
-    },
-    {
-      "added_at": "2020-03-11 14:04:42",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
       "artists": [
         {
-          "name": "Joan Jett & The Blackhearts",
+          "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
@@ -105,20 +153,20 @@
       "url": "https://open.spotify.com/track/38bHLl4pznhxzRJLuw1OA7"
     },
     {
-      "added_at": "2021-02-01 21:38:57",
+      "added_at": "2020-03-11 14:04:42",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2020-03-11 14:04:42",
@@ -135,22 +183,6 @@
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2020-03-11 14:04:42",
-      "album": {
-        "name": "Janis",
-        "url": "https://open.spotify.com/album/294SMYuchjGEbo3bko8QVt"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2RWraN4ZkuqjcNQAlBNGEH"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -183,22 +215,6 @@
       "duration_ms": 171293,
       "name": "Hit Me With Your Best Shot - 1999 Digital Remaster",
       "url": "https://open.spotify.com/track/7nrtHjt4Vk4Z5jMHOwaS8F"
-    },
-    {
-      "added_at": "2020-03-11 14:04:42",
-      "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2020-03-11 14:04:42",
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
@@ -594,6 +594,10 @@
         {
           "name": "Suzi Quatro",
           "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        },
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
         }
       ],
       "duration_ms": 239529,

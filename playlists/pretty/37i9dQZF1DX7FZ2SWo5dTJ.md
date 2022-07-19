@@ -1,0 +1,44 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain](/playlists/plain/37i9dQZF1DX7FZ2SWo5dTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FZ2SWo5dTJ)
+
+### [Jeanette Jenkins' Stretch\. Yoga\. Playlist](https://open.spotify.com/playlist/37i9dQZF1DX7FZ2SWo5dTJ)
+
+> Soundtrack your 2022 resolutions with Jeanette Jenkins.
+
+[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 32 songs - 2 hr 28 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Is This Love \- Montmartre Remix](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI) | 4:29 |
+| 2 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
+| 3 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
+| 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 5 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
+| 6 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
+| 7 | [Work That](https://open.spotify.com/track/3j59mQGu5USFF16v8nPNmw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 3:30 |
+| 8 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
+| 9 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
+| 10 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
+| 11 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 |
+| 12 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
+| 13 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
+| 14 | [Cover Me In Sunshine](https://open.spotify.com/track/0UKUfxIkDAMZz7hMdiVX3m) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [All I Know So Far: Setlist](https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn) | 2:18 |
+| 15 | [This Luv](https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:09 |
+| 16 | [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 |
+| 17 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
+| 18 | [Kiss of Love](https://open.spotify.com/track/0rRLM4kWgMqoBtCHNdS0VX) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/4tYiiSjPEguQYzSMne1HfX) | 4:10 |
+| 19 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
+| 20 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
+| 21 | [This Woman's Work \- Remastered 2021](https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:00 |
+| 22 | [Redemption Song](https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:47 |
+| 23 | [Welcome to Africa](https://open.spotify.com/track/6s2a0YXofZiN66QdMLg1R5) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude Alaafiya](https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG) | 5:46 |
+| 24 | [Mavinga](https://open.spotify.com/track/25ePJQLoXy4iTdhwYFH6Uo) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude Alaafiya](https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG) | 3:40 |
+| 25 | [Sundown in Madagaskar](https://open.spotify.com/track/0JNtTOu0D2Jh6DuirdsDMy) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude Alaafiya](https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG) | 5:29 |
+| 26 | [Back to Marrakech](https://open.spotify.com/track/1e2k8HCh3YVZMyM3nGfvEU) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Horriya](https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI) | 4:50 |
+| 27 | [Amon Ra](https://open.spotify.com/track/5G1h1so2Hh2NJMn2KfGp8j) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Horriya](https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI) | 4:04 |
+| 28 | [Oriental Feeling](https://open.spotify.com/track/4IkYn8LncFHDUk2XuQbHxG) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Horriya](https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI) | 4:35 |
+| 29 | [Tibetology](https://open.spotify.com/track/27B8fO1LVObBxWl0nIkLpR) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Best Of](https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM) | 7:14 |
+| 30 | [Under the Ocean](https://open.spotify.com/track/0IUfTNfxRme2djKnw3jLg5) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Best Of](https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM) | 4:14 |
+| 31 | [Freedom](https://open.spotify.com/track/3PuPUsDKtao10gqUJF5gRU) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Best Of](https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM) | 3:45 |
+| 32 | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU) | [Zen Meditations from a Sleeping Buddha](https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz) | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA) | 15:12 |
+
+Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMzAwMDAwMTdlNGVlNzY3MDcwMDAwMDE3ZTQ5YjE0ZTky`

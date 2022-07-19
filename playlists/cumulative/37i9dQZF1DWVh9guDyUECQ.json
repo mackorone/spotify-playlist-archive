@@ -154,6 +154,28 @@
     },
     {
       "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/2f96IzR5mHpjwIgMKOafuP"
+      },
+      "artists": [
+        {
+          "name": "Mr Eduard",
+          "url": "https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd"
+        },
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191509,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/7B2CuqBGNI1m7lf8ES6dVf"
+    },
+    {
+      "album": {
         "name": "A Tu Manera (Remix)",
         "url": "https://open.spotify.com/album/0JCTdXqGfjQObVF4ilRZ31"
       },
@@ -371,7 +393,7 @@
       },
       "artists": [
         {
-          "name": "GabrielRodriguezEMC",
+          "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         },
         {
@@ -639,7 +661,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-16",
       "duration_ms": 178264,
       "name": "Canciones Eternas",
       "url": "https://open.spotify.com/track/49RxMW7KwbrboLyEt56dAO"
@@ -749,7 +771,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-01",
       "duration_ms": 234897,
       "name": "Coherente - Remix",
       "url": "https://open.spotify.com/track/3fgkDvwdu13ZAPX1G6mIBG"
@@ -845,7 +867,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 192036,
       "name": "Cotizate",
       "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
@@ -1017,7 +1039,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 222857,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF"
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 279759,
       "name": "El Cielo Llor\u00f3",
       "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
@@ -1191,7 +1213,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
@@ -1209,7 +1231,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 169187,
       "name": "El Perd\u00f3n",
       "url": "https://open.spotify.com/track/5bsiikhimXTUQGSxFiFHGV"
@@ -1313,7 +1335,7 @@
       },
       "artists": [
         {
-          "name": "GabrielRodriguezEMC",
+          "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         },
         {
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 260769,
       "name": "Ens\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/40BKOLOZwGvF1sWQLeUjoM"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
@@ -1501,7 +1523,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 210337,
       "name": "Flow Cristiano",
       "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
@@ -1643,7 +1665,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 188921,
       "name": "Gozo Yo Quer\u00eda",
       "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 214373,
       "name": "Incapaz",
       "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
@@ -2097,7 +2119,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-03",
       "duration_ms": 207333,
       "name": "La Cumbia del Pueblo",
       "url": "https://open.spotify.com/track/47DqucSNOYX7TCehMcsuhj"
@@ -2305,7 +2327,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -2455,7 +2477,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 152467,
       "name": "Los Haters",
       "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
@@ -2603,7 +2625,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 186602,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
@@ -2881,7 +2903,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
@@ -3383,7 +3405,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-07",
       "duration_ms": 302465,
       "name": "Pa' mi gente (feat. Fern & Mod G) - Remix",
       "url": "https://open.spotify.com/track/3QNtpZ2D9d8fg0DqWm4PcD"
@@ -3423,7 +3445,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-01",
       "duration_ms": 378643,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/5VvHuqHKd3cfABM2vtoIXl"
@@ -3581,7 +3603,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 173823,
       "name": "Pila De Versos",
       "url": "https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1"
@@ -3716,6 +3738,24 @@
     },
     {
       "album": {
+        "name": "No Hay Duda",
+        "url": "https://open.spotify.com/album/1NCF5XC8HapipoUXYp1Y6j"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 263155,
+      "name": "Proclamar\u00e9",
+      "url": "https://open.spotify.com/track/7dmN0thy16SmX0f1plMXyq"
+    },
+    {
+      "album": {
         "name": "Proclamar\u00e9",
         "url": "https://open.spotify.com/album/4sBbudlj26HZyrnYA1OZAY"
       },
@@ -3727,7 +3767,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-06",
       "duration_ms": 263155,
       "name": "Proclamar\u00e9",
       "url": "https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe"
@@ -3829,7 +3869,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-15",
       "duration_ms": 229565,
       "name": "Rap Alto Calibre",
       "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
@@ -4091,7 +4131,7 @@
       },
       "artists": [
         {
-          "name": "GabrielRodriguezEMC",
+          "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         },
         {
@@ -4119,7 +4159,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 263538,
       "name": "Siempre Est\u00e1s",
       "url": "https://open.spotify.com/track/4HFuTWvUqHcpI1IV9Au5Xi"
@@ -4131,7 +4171,7 @@
       },
       "artists": [
         {
-          "name": "GabrielRodriguezEMC",
+          "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         },
         {
@@ -4141,7 +4181,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
@@ -4207,7 +4247,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 213798,
       "name": "Sin Exigir",
       "url": "https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In"
@@ -4313,7 +4353,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7iAeBmzxRne7jjkefsHhdb"
@@ -4401,7 +4441,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 135850,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1uABVd0XV7yZLb3kAHEtUI"
@@ -4511,7 +4551,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8"
@@ -4569,7 +4609,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 203408,
       "name": "Te Digo Adios",
       "url": "https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm"
@@ -4587,7 +4627,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 199808,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/5QqUyePqVQ1AUsQuCd4qgL"
@@ -4623,7 +4663,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 201527,
       "name": "Tengo La Luz",
       "url": "https://open.spotify.com/track/2v4kYoVwudJuLyi0ZxExLO"
@@ -4827,11 +4867,15 @@
         {
           "name": "El Leo Pa\u00b4",
           "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "New Generation Music",
+          "url": "https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v"
         }
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Tres Tazas",
       "url": "https://open.spotify.com/track/1QfWCkCKjpcZCq1IWSiBL9"
@@ -5063,7 +5107,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Valiente Y Sereno",
       "url": "https://open.spotify.com/track/2vJRPSoADCr7VSTM5UPIlB"
@@ -5089,7 +5133,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"
@@ -5341,7 +5385,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Yo Te Mire",
       "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"

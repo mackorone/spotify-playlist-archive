@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,161 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,534 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 | 33 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Funk é Nóis GR6 3.1 \- Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 |
 | 34 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 35 | [Mustang Preto](https://open.spotify.com/track/6Vgn3IEUkWs3d6og029Gtm) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mustang Preto](https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA) | 3:03 |
-| 36 | [Química Bandida](https://open.spotify.com/track/3fd0OYbtSlySGiHXJOy8Ea) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr) | [Química Bandida](https://open.spotify.com/album/5zK57gD4rd5flGbeSWtOgE) | 4:06 |
+| 36 | [Química Bandida](https://open.spotify.com/track/3fd0OYbtSlySGiHXJOy8Ea) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [Química Bandida](https://open.spotify.com/album/5zK57gD4rd5flGbeSWtOgE) | 4:06 |
 | 37 | [30 Dias](https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [MIDNIGHT CALLS](https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc) | 4:11 |
 | 38 | [Mais Que Isso](https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Mais Que Isso](https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa) | 2:42 |
 | 39 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |

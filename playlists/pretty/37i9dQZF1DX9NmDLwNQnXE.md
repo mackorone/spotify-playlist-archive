@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,708 likes - 339 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,372 likes - 339 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 338 | [Pouring Rain And Thunder](https://open.spotify.com/track/6lZhsqlVmplDidqrUqCV8b) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Ovader](https://open.spotify.com/album/3FFVMgDTGRlZNPWqj3TGwq) | 2:34 |
 | 339 | [Rainy Misty Skies](https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Afternoon Rainfall](https://open.spotify.com/album/5wiZUoAFlYkLnaDgH6qzUn) | 2:36 |
 
-Snapshot ID: `MTY0Nzg3NjY1MywwMDAwMDA0MDAwMDAwMTdmYWQxYTQyYTEwMDAwMDE2Y2Y2OTNmYjE0`
+Snapshot ID: `MTY1ODE1NjAyMCwwMDAwMDA0MTAwMDAwMTgyMTFjY2YzYTgwMDAwMDE4MjExY2MwZmFm`

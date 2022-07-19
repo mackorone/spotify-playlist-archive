@@ -4,10 +4,12 @@
 
 > Soft, relaxing music for workout recovery.
 
-116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+118 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 0:00 | 2021-12-10 |  |
+| [](https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0uq7tFuxPm21pzggXlckgO) | 0:00 | 2021-12-10 |  |
 | [A Quiet Mood](https://open.spotify.com/track/1ffxltifZRL415rEVX0TAt) | [Freecastor](https://open.spotify.com/artist/3xs7b2VxntawH7PkicmyLR) | [A Quiet Mood](https://open.spotify.com/album/0qM1Gt6GwHsKWxHPKm1iq5) | 2:53 | 2021-12-10 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-10 |  |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2022-01-07 |  |
@@ -75,8 +77,8 @@
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2021-12-10 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
 | [Monsoon](https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF) | 3:51 | 2021-12-10 |  |
+| [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 | 2021-12-10 |  |
-| [Nordic Light](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Nordic Light](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 3:23 | 2021-12-10 |  |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 |  |
 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 | 2021-12-10 |  |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-10 |  |
@@ -93,6 +95,7 @@
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
 | [Salamanca](https://open.spotify.com/track/0wcO44QmAQWAXaCRbyWJzG) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/3SMBwU08IA8vUO3QgC8MK3) | 3:30 | 2021-12-10 |  |
+| [Seasons](https://open.spotify.com/track/2k4okcxh49oktYeFDo1hXZ) | [Mesiki](https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL) | [Seasons](https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf) | 2:30 | 2022-06-16 |  |
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-10 |  |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-12-10 |  |
 | [Send a Wish](https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [Send a Wish](https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS) | 2:46 | 2021-12-10 |  |
@@ -100,7 +103,6 @@
 | [Showstopper](https://open.spotify.com/track/2zIcVl9zWEYmYXQHA14SGz) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Showstopper](https://open.spotify.com/album/43Ex3NtMg3QFmlvanuM8yE) | 2:39 | 2021-12-10 |  |
 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 | 2021-12-10 |  |
 | [Silver Lines](https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F) | [Jane Deliah](https://open.spotify.com/artist/3sWzxP1XwTIvyyQpz9sZXM) | [Mercury](https://open.spotify.com/album/6ZdtsFFTfV3LXvRHJsnF9M) | 2:41 | 2021-12-10 |  |
-| [Simple Beauty](https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL) | [Martin Fox](https://open.spotify.com/artist/6Kts0UKiwBhE5V7mnmS1SO) | [Simple Beauty](https://open.spotify.com/album/0uq7tFuxPm21pzggXlckgO) | 1:34 | 2021-12-10 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-10 |  |
 | [Sombre Skies](https://open.spotify.com/track/32aIhNW375SKumCg2Xaodu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Sombre Skies](https://open.spotify.com/album/67boTj5EroXcdNOhMwiPap) | 3:33 | 2021-12-10 |  |
 | [Spiritual Conquest](https://open.spotify.com/track/0OLknAPE9i8CXou7d9Hk4M) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:22 | 2021-12-10 |  |
@@ -119,7 +121,7 @@
 | [Vitality \- Relaxing Music for Zen Meditation and Deep Breathing](https://open.spotify.com/track/2XEZOoJC9nu2o5k3DpDyC6) | [Spa Music Collective](https://open.spotify.com/artist/58yicdDBopSJkQdBVZqCbs) | [Mediterranea Spa Music \- Mediterranean Spa Music\. Relaxation Meditation Healing Music for Deep Meditation, Reiki, Massage, Chakra, Yoga and Tai Chi\. Relaxing Sounds from the Islands in the Sun](https://open.spotify.com/album/1SInC2a5j6Kyunocj3PEE2) | 5:38 | 2021-12-10 |  |
 | [Voyage De La Nuit](https://open.spotify.com/track/24lJCQciPgJBhRrij2Faa5) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Voyage De La Nuit](https://open.spotify.com/album/0xbHriOJdjYspeBXZtQzwv) | 3:21 | 2021-12-10 |  |
 | [Vrede en rust](https://open.spotify.com/track/4MLInfMhS1GoMiaYCFGlS6) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Vrede en rust \(Ambient Version\)](https://open.spotify.com/album/4XL60eMczS4oQssVRz0ExD) | 2:38 | 2021-12-10 |  |
-| [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 |  |
+| [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 | 2022-05-27 |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3) | 3:53 | 2021-12-10 |  |
 | [You Are Loved](https://open.spotify.com/track/0QYlKxVXf0pCnFzHIxNFBl) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/0fPrAx93fmY0y7WVlvxjIH) | 2:40 | 2021-12-10 |  |
 | [Zeroes](https://open.spotify.com/track/32MYi4KuEh2z2gdT2XD80r) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Zeroes](https://open.spotify.com/album/1gSPQ3HDP7ffBBpvaPiawI) | 3:14 | 2022-03-03 |  |

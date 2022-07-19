@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57clV3IPw1TXSWdzzDVDwp.md) - [plain]
 
 > Relive your favourite artist moments from the Brilliant Minds conference during <a href="http://symposium.co/">Symposium Stockholm</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-108 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
+109 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Unanswered Question](https://open.spotify.com/track/507JG4hPjRrTAJ82Zq1f5G) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Morning](https://open.spotify.com/album/13Yxiwc6ETb76A6U9VUiZ4) | 3:34 | 2021-12-28 |  |
 | [Until You Came](https://open.spotify.com/track/7Ejy9RFl9aftQUE7r5bE1G) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [The First Lady \(Bonus Track Edition\)](https://open.spotify.com/album/4HwyrUnATwh6khyIJACNkY) | 4:45 | 2021-07-09 |  |
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/69m2f2jbcsxvwbA0RlspCU) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI) | 7:10 | 2021-07-09 |  |
+| [What Am I Gonna Do](https://open.spotify.com/track/6IOQR0cX0I8TW3GemSy5bG) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [2000 Watts](https://open.spotify.com/album/3iqLf7BrFWw215CTshTq1J) | 4:40 | 2022-06-16 |  |
 | [What Kind of Cool \- QuestLove Remix](https://open.spotify.com/track/3VtoOb3SteJnXAJWHpVlK4) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf) | [Landing On a Hundred: B Sides and Remixes](https://open.spotify.com/album/2H4nWuCGz83gV3uE49x9dS) | 5:31 | 2021-07-09 |  |
 | [When You're Near](https://open.spotify.com/track/0DrFL4UAerLseMvbDvRU7l) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:03 | 2021-07-09 |  |
 | [Will You Love Me?](https://open.spotify.com/track/3cIveITeLwHPpjraBo8umU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Funk This](https://open.spotify.com/album/7IVmHdUJ0ua2Tydu0199iC) | 4:58 | 2021-07-09 |  |

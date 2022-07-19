@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 
 > Score your day with some signature indie ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 57 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 57 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

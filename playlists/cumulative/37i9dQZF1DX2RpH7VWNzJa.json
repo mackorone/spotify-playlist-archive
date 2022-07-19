@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 185984,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-17",
       "duration_ms": 262285,
       "name": "El Club de los Ojos Tristes",
       "url": "https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 159327,
       "name": "Estoy ida",
       "url": "https://open.spotify.com/track/2VqjJVJmmRIfSXaWCP1Myw"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 107200,
       "name": "Harmful",
       "url": "https://open.spotify.com/track/1DmyBKM2RhkCdfdr0wLPVd"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-16",
       "duration_ms": 181600,
       "name": "Llama",
       "url": "https://open.spotify.com/track/7m7EGngnVidYTBVUsvRWQ9"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 206197,
       "name": "Malabares",
       "url": "https://open.spotify.com/track/3TArda30KGDCgfB3U9fmrC"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 205714,
       "name": "ME ENCANTA EL EXCESO",
       "url": "https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 234336,
       "name": "Me sabe mal",
       "url": "https://open.spotify.com/track/3FnmU5kBbYvoW3AltpMtth"
@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Adicion",
+        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 259800,
+      "name": "No Dices Mas",
+      "url": "https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU"
+    },
+    {
+      "album": {
         "name": "No Estar\u00eda Tan Mal",
         "url": "https://open.spotify.com/album/51MAQT42Q0O9Gpel3LaRcj"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 174452,
       "name": "No Estar\u00eda Tan Mal",
       "url": "https://open.spotify.com/track/4ttROL4K76305wGVsTczfU"
@@ -910,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Big Fan of the Sesh, Vol. 1",
+        "url": "https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-19",
+      "duration_ms": 180949,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW"
+    },
+    {
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
@@ -939,7 +975,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-03",
       "duration_ms": 253714,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/27jOQfdiGuKUw69HxKH9vV"
@@ -1087,7 +1123,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-16",
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9"
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 185681,
       "name": "un ni\u00f1o",
       "url": "https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI"

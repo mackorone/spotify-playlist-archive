@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DH66SG2vZ7dIocTxxA5q9.md) - [plain]
 
 > Ystad Jazzfestival arrangeras i sommar för tredje gången\. 2012 års festival går av stapeln den 2:a augusti och pågår t.o.m\. den 5:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 32 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 32 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

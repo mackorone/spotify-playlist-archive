@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,386 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,882 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 22 | [I'm Going Away](https://open.spotify.com/track/1ZcBa2buf2Mx5LHTyOujri) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Shake Sugaree](https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt) | 3:25 |
 | 23 | [What's Going On](https://open.spotify.com/track/1c1exoaNbV6w3cydNDw5wF) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [What's Going On](https://open.spotify.com/album/0ZgGiET6nxLm3cQTaMS3gx) | 4:27 |
 | 24 | [All You Fascists Bound To Lose](https://open.spotify.com/track/2Wi7o9PKa9kF7pZ6RvPQ18) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [All You Fascists Bound To Lose](https://open.spotify.com/album/0HjRc6KFqCrqbc0A16YmMN) | 3:21 |
-| 25 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 |
+| 25 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 |
 | 26 | [Witness](https://open.spotify.com/track/5EZSZuOQLCuZ050rIY4djw) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG) | 2:57 |
 | 27 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 |
 | 28 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country rap songs, made to be cranked up. Cover: Colt Ford",
+  "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
   "name": "Field Party",
   "published_playlist_ids": [
     "5OOV5iyhlmgq86m7yR7wwP"
@@ -657,6 +657,28 @@
       "duration_ms": 225740,
       "name": "Goin\u2019 Back Down (feat. Colt Ford)",
       "url": "https://open.spotify.com/track/6gshpXdlUNPFQyWsgLXxsh"
+    },
+    {
+      "album": {
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/18jrZYZL0jeARmFJgt0yZX"
+      },
+      "artists": [
+        {
+          "name": "Haystak",
+          "url": "https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Good Friends",
+      "url": "https://open.spotify.com/track/12HvBvQI60HRKnsAEABRId"
     },
     {
       "album": {
@@ -1484,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "Son Of The Dirty South",
+        "url": "https://open.spotify.com/album/4GLrwjbdcgzlW3MGWJFarS"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs"
+    },
+    {
+      "album": {
         "name": "Dirt Road Revival",
         "url": "https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk"
       },
@@ -1838,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0rjjFia9xRgY9tr6d5kRBn"
+      },
+      "artists": [
+        {
+          "name": "Brandon Hartt",
+          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 234000,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/4rO6myJAeyQIb1laSwfyOq"
+    },
+    {
+      "album": {
         "name": "Dirt Rock",
         "url": "https://open.spotify.com/album/124DUhKDSECFhsfBfO0cGG"
       },
@@ -1857,6 +1919,36 @@
       "duration_ms": 229773,
       "name": "Willie Nelson",
       "url": "https://open.spotify.com/track/3LLYOFp0hDXvyc3RX0wvgc"
+    },
+    {
+      "album": {
+        "name": "Yee Yee Like Me (Remix)",
+        "url": "https://open.spotify.com/album/0ZApEtDz71WVNJY3NU6821"
+      },
+      "artists": [
+        {
+          "name": "Young Gunner",
+          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "J Rosevelt",
+          "url": "https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394287,
+      "name": "Yee Yee Like Me - Remix",
+      "url": "https://open.spotify.com/track/1ejQFgJS3UYIzhsZ6KFl1Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc0fQ4sGOnVJ"

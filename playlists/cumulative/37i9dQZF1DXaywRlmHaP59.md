@@ -18,6 +18,7 @@
 | [Bahebek Ya Lebnan](https://open.spotify.com/track/5zzPDh8xmEtifNqeuv79zR) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 6:02 | 2021-09-10 |  |
 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 | 2021-09-10 |  |
 | [Bukra Ahla](https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5) | 2:40 | 2021-09-10 |  |
+| [Do3f Nazar](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Do3f Nazar](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2021-09-10 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2021-09-10 |  |
 | [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 | 2021-09-10 |  |
 | [El Hob El Hob](https://open.spotify.com/track/4q1zwkAWuwTvJe10jxWuif) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [El Hob El Hob](https://open.spotify.com/album/1z65J61oSJOskywPbemr1y) | 3:38 | 2021-09-10 |  |
@@ -58,6 +59,5 @@
 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 | 2021-09-10 |  |
 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 | 2021-09-10 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2021-09-10 |  |
-| [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2021-09-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

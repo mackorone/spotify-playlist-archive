@@ -4,10 +4,13 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-60 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
+60 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 0:00 | 2021-11-19 |  |
+| [](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 0:00 | 2021-11-19 |  |
+| [](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-11-19 |  |
 | [A Baby Changes Everything](https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:33 | 2021-11-19 |  |
 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 | 2021-11-19 |  |
 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 | 2021-11-19 |  |
@@ -23,7 +26,6 @@
 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:46 | 2021-11-19 |  |
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/1Bo6w9VDrKexPdDDzWOj5n) | [Anne Stahl](https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4) | [Good Christian Men, Rejoice](https://open.spotify.com/album/5I6pNQUojbwiZz5ybNPDWO) | 2:51 | 2021-11-19 |  |
 | [Coventry Carol](https://open.spotify.com/track/6wjdQUvDqBtrHUoqeI9ehb) | [David Nevue](https://open.spotify.com/artist/7zbq3gjHu4JAiMV7dWbUdv) | [O Come Emmanuel](https://open.spotify.com/album/3yOqSiDRYHeoe8B3bH4bUT) | 4:05 | 2021-11-19 |  |
-| [Ding Dong Merrily On High](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [Christmas Piano Players](https://open.spotify.com/artist/7wxo3zltsG1q2vHTcRVJ39) | [Christmas Memories](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 1:30 | 2021-11-19 |  |
 | [Ding Dong! Merrily on High \- Herz und Mund und Tat und Leben, BWV 147: Jesu, bleibet meine Freude \(arr\. C.M\. Taylor for piano\)](https://open.spotify.com/track/3qURLCQx6PHG9HYrN4Yr0r) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Carolyne M\. Taylor](https://open.spotify.com/artist/684cQQ4irZEBSIp2tEzul4), [Jeffrey Biegel](https://open.spotify.com/artist/4icuZTJZA4AOw2BWuKdspv) | [A Steinway Christmas Album](https://open.spotify.com/album/1xyebt37cG56P72RwwlPEQ) | 4:32 | 2021-11-19 |  |
 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 | 2021-11-19 |  |
 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 | 2021-11-19 |  |
@@ -45,8 +47,6 @@
 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 | 2021-11-19 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-11-19 |  |
-| [Mary's Boy Child](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [Danny Silberman](https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa) | [My Piano Christmas](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 3:13 | 2021-11-19 |  |
-| [O Come, All Ye Faithful](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [Arthur Mass](https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:56 | 2021-11-19 |  |
 | [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 | 2021-11-19 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 | 2021-11-19 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 2:38 | 2021-11-19 |  |

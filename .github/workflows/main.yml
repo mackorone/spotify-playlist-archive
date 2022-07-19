@@ -20,9 +20,9 @@ jobs:
 
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.8
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
@@ -31,7 +31,6 @@ jobs:
 
       - name: Run script
         env:
-          BOT_GITHUB_ACCESS_TOKEN: ${{ secrets.BOT_GITHUB_ACCESS_TOKEN }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python src/main.py --commit-and-push --auto-register

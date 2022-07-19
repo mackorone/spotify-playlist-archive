@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6zcjhNUkQ6taQK9hxhweCj.md) - [plain]
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

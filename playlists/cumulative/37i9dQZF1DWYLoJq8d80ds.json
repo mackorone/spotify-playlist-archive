@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Sele Vera y Los Pampas.",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: AHYRE.",
   "name": "Lunas de Folklore",
   "published_playlist_ids": [
     "4jV8thGCLiOJDMuDg71WqM"
@@ -517,6 +517,28 @@
       "duration_ms": 258000,
       "name": "El Antigal",
       "url": "https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd"
+    },
+    {
+      "album": {
+        "name": "El Buen Amor",
+        "url": "https://open.spotify.com/album/2s5IEssk2imk49CDHNRFdA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Clerc",
+          "url": "https://open.spotify.com/artist/1OR1n8BM2O2WcV33F9M6hf"
+        },
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194154,
+      "name": "El Buen Amor",
+      "url": "https://open.spotify.com/track/2CIKfgKkXhzkBwLhKGvstL"
     },
     {
       "album": {
@@ -1086,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Las Ideas",
+        "url": "https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234894,
+      "name": "Las Ideas",
+      "url": "https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb"
+    },
+    {
+      "album": {
         "name": "Con el Alma (Sesiones 2020)",
         "url": "https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx"
       },
@@ -1293,7 +1333,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 144010,
       "name": "Navidad y A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D"
@@ -1329,7 +1369,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 165477,
       "name": "Noctilucado",
       "url": "https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm"
@@ -1637,6 +1677,24 @@
     {
       "album": {
         "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+    },
+    {
+      "album": {
+        "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
       },
       "artists": [
@@ -1669,7 +1727,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 221936,
       "name": "Todo Todo",
       "url": "https://open.spotify.com/track/12JymUNRIQZbyS9XIBvuk8"

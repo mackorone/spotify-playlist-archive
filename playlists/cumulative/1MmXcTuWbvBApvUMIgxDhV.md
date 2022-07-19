@@ -4,7 +4,7 @@
 
 > 
 
-81 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/6tKteHIqGif5NGbdYIC5jm)
+84 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/6tKteHIqGif5NGbdYIC5jm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Anywhere With You](https://open.spotify.com/track/0AHUTBEn4I2yuhwzw7BvmC) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Anywhere With You](https://open.spotify.com/album/4FBtOH83aLnS4kfR7C4m61) | 3:22 | 2021-05-13 |  |
 | [Be Without You](https://open.spotify.com/track/3E1MFVYKSEBytmaRpaHtmj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:37 | 2020-05-12 |  |
 | [Be Without You \(Jordan Reynolds Remix\)](https://open.spotify.com/track/2pVtdS4z9kiVABrN2m3UOo) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Jordan Reynolds](https://open.spotify.com/artist/1O7E3iPhoI5pLfbVdBbYJL) | [Dreaming in Electric Blue \(Reimagined\)](https://open.spotify.com/album/6ci4eieRl6cZ9fQCdkxuaK) | 3:33 | 2021-01-27\* | 2021-09-15 |
-| [Best Part \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 | 2020-05-12 |  |
+| [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 | 2020-05-12 |  |
 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 | 2020-07-08 |  |
 | [Blessed](https://open.spotify.com/track/0KyzXQhY2yzcb1FYCHkZc2) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:01 | 2020-05-12 |  |
 | [Brown Eyed Lover](https://open.spotify.com/track/2fewvKX1SzRMfNdQDnyoQj) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Brown Eyed Lover](https://open.spotify.com/album/0fRyRxsLn4dPKJ7ZxIqDzj) | 3:58 | 2020-05-12 |  |
@@ -41,6 +41,8 @@
 | [fire](https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0) | 3:09 | 2021-06-17 |  |
 | [For Life \(Take You out, Treat You Right\)](https://open.spotify.com/track/1dulvrK6yMIbklTAwYX95q) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Guess I’m Grown Now](https://open.spotify.com/album/76BxrqfWvYqkx5LKgunLPc) | 3:16 | 2020-05-12 |  |
 | [Go](https://open.spotify.com/track/3D8coaxE1f0mxna8K5y4M4) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/1gH1fXGLT3cTgVJPLoiPxY) | 3:14 | 2020-09-24 |  |
+| [God Gave Me You](https://open.spotify.com/track/25D6zIyudIsXSlDMy84d2Z) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Remembering: Vol\. 1](https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e) | 3:46 | 2022-06-21 |  |
+| [Good](https://open.spotify.com/track/03lF1XDc2Zkv4cXxobsiYP) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Remembering: Vol\. 1](https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e) | 3:50 | 2022-06-21 |  |
 | [Good Day for Marrying You](https://open.spotify.com/track/6vlYWXOfSSUGnO6N2ldLcu) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Hymns for Her](https://open.spotify.com/album/4qVzelNhCSGVGBTARNAG1c) | 2:42 | 2021-05-13 |  |
 | [Hey Lady](https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Undergrad Romance and the Moses in Me](https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb) | 3:50 | 2021-06-17 |  |
 | [Hocus Pocus](https://open.spotify.com/track/23TL1H9YRub4jpMs552fak) | [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Year One](https://open.spotify.com/album/6as5QIUlyIgEYjerecf786) | 3:38 | 2020-05-12 |  |
@@ -61,6 +63,7 @@
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2020-05-12 |  |
 | [My Love Will Follow You](https://open.spotify.com/track/06PEUqyLumcfAv2Kt7TuKa) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:50 | 2021-09-14 |  |
 | [My Love Will Follow You](https://open.spotify.com/track/6qwfJDqZAnJCIcevQLRnuC) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [My Love Will Follow You](https://open.spotify.com/album/1ytZJZp8tTe72GObKxUOSx) | 3:50 | 2021-03-01 |  |
+| [Nothing Fancy](https://open.spotify.com/track/4sBgzYKDbtWww4v3pRn1FI) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Remembering: Vol\. 1](https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e) | 3:01 | 2022-06-21 |  |
 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 | 2020-05-12 |  |
 | [Only Good Will Come of This](https://open.spotify.com/track/0hvtolGCxG6gNMJ2lx7DrZ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Only Good Will Come of This](https://open.spotify.com/album/32xs2JhqNvv8gWorGiKDwY) | 3:30 | 2021-03-29 |  |
 | [Only Good Will Come of This](https://open.spotify.com/track/1Xbv4U1mn5i2tmj5MTBa3I) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Everytime She Falls in Love](https://open.spotify.com/album/44O4J8YOMSFojpKonyIsrP) | 3:30 | 2021-05-13 |  |

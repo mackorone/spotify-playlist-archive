@@ -2,9 +2,9 @@
 
 ### [Ambient Shoegaze](https://open.spotify.com/playlist/37i9dQZF1DWYIlyW5yvFjI)
 
-> Beautiful noise: when Shoegaze goes Ambient.
+> Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-73 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+75 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Popol Vuh 2](https://open.spotify.com/track/7uIEEymPrIjXZykQQGyhXt) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 5:01 | 2022-04-08 |  |
 | [Reason](https://open.spotify.com/track/1dLIjycI4ac6txLjnvdnMD) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Like Author, Like Daughter](https://open.spotify.com/album/5RQRwaL260xB7XNuVdyzyC) | 5:03 | 2022-04-08 |  |
 | [Remove the Inside](https://open.spotify.com/track/6l2qdqdu5CNKYTCB4rUaB0) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:59 | 2022-04-08 |  |
+| [Romeo Heart](https://open.spotify.com/track/1wp8hExeVH9xjL6OVNxAy7) | [Polmo Polpo](https://open.spotify.com/artist/1U6FsNuRWd37LpzvM1lH1g) | [Like Hearts Swelling](https://open.spotify.com/album/2TiECNmwR7SGcSPteRGQTp) | 7:55 | 2022-07-01 |  |
 | [Rutti](https://open.spotify.com/track/03wpSoF5jgbHyVcrdvL9t1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 10:06 | 2022-04-08 |  |
 | [She Loves Me That Way](https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 8:34 | 2022-04-08 |  |
 | [Signals](https://open.spotify.com/track/1qnyUXmLgN9Se3ZUMXDS8G) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 5:47 | 2022-04-08 |  |
@@ -60,6 +61,7 @@
 | [sovfx](https://open.spotify.com/track/3xqTSrrpVIj66VZtin03oj) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Voirshn](https://open.spotify.com/album/2T0luu0TDaGbKfKVvQiWQW) | 3:40 | 2022-04-08 |  |
 | [Stained Glass Body](https://open.spotify.com/track/395kkfqRukDVft9bfzpJ7V) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Love Is A Stream](https://open.spotify.com/album/0PeiGSI11Ym2KeXhIYjtf5) | 5:28 | 2022-04-08 |  |
 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 | 2022-04-08 |  |
+| [Sunlight crying](https://open.spotify.com/track/360NvrhUSzWSbBfCCuADPv) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 7:33 | 2022-07-07 |  |
 | [Sunrise](https://open.spotify.com/track/4ICvDl03lQOVwJq9WVFVc5) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Antarctica: Bliss Out v.2](https://open.spotify.com/album/5hMi6ouwcemUnLYdBBWDlg) | 8:33 | 2022-04-08 |  |
 | [Super Timeknowing Gentleman](https://open.spotify.com/track/6RgA0Bs2Fzt3LfXEcdFiNq) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 2:23 | 2022-04-08 |  |
 | [Tapir](https://open.spotify.com/track/65L1bYGDGVWBQT1mWL1kYa) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Tapir](https://open.spotify.com/album/1irDXGPlQ4AjsrMGepCbKG) | 4:03 | 2022-04-08 |  |

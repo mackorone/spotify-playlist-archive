@@ -1,175 +1,15 @@
 {
   "description": "Want some metal? Better to start with the essentials. Cover: Metallica",
-  "num_followers": 1210387,
+  "num_followers": 1527421,
   "original_name": "Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM1OTIwNywwMDAwMDA4NzAwMDAwMTdlOWZkNzgyMjkwMDAwMDE3N2I2NmQwNzc2",
+  "snapshot_id": "MTY1NzgyOTE5NSwwMDAwMDA4ZDAwMDAwMTgxZmU1MWZmYTgwMDAwMDE3N2I2NmQwNzc2",
   "tracks": [
     {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Duality",
-      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Paranoid (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "American Capitalist (Standard)",
-        "url": "https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Under and Over It",
-      "url": "https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/3cwDSDzTiWr5H5xMQhQ6Mx"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
-      "album": {
-        "name": "Reign In Blood (Expanded)",
-        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 255186,
-      "name": "Raining Blood",
-      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE"
-    },
-    {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
@@ -185,10 +25,26 @@
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
@@ -196,15 +52,111 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Paranoid (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "American Capitalist (Standard)",
+        "url": "https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/3cwDSDzTiWr5H5xMQhQ6Mx"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
       },
       "artists": [
         {
@@ -212,12 +164,28 @@
           "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 298533,
-      "name": "South Of Heaven",
-      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
+      "duration_ms": 255186,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-13 13:38:56",
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Rainbow in the Dark",
+      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
@@ -233,7 +201,7 @@
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
@@ -249,7 +217,7 @@
       "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -265,7 +233,7 @@
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
@@ -281,7 +249,7 @@
       "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
@@ -297,23 +265,23 @@
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
+      "duration_ms": 331266,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
@@ -324,12 +292,12 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 166920,
+      "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Countdown To Extinction",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
@@ -345,7 +313,7 @@
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Beyond Hell / Above Heaven",
         "url": "https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9"
@@ -361,7 +329,7 @@
       "url": "https://open.spotify.com/track/5mNbJIYaKkphf5WqwhXhva"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "The Sickness (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
@@ -377,7 +345,7 @@
       "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Hellraiser (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq"
@@ -401,7 +369,7 @@
       "url": "https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
@@ -417,7 +385,7 @@
       "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "\u00c6nima",
         "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
@@ -433,7 +401,7 @@
       "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
@@ -449,7 +417,7 @@
       "url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Ashes Of The Wake",
         "url": "https://open.spotify.com/album/22cwC9T4GqpPukJzWNBrlH"
@@ -465,7 +433,7 @@
       "url": "https://open.spotify.com/track/0lCwaZYSRy6q0jLmnYiQxi"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
@@ -481,7 +449,7 @@
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "System Of A Down",
         "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
@@ -497,7 +465,7 @@
       "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
@@ -513,7 +481,7 @@
       "url": "https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
@@ -529,7 +497,7 @@
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
@@ -545,7 +513,7 @@
       "url": "https://open.spotify.com/track/4WJNMSihHL8e4hs9SkBq9C"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36"
@@ -561,7 +529,7 @@
       "url": "https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
@@ -577,7 +545,7 @@
       "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
@@ -593,7 +561,7 @@
       "url": "https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
@@ -609,7 +577,7 @@
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "L.D. 50",
         "url": "https://open.spotify.com/album/1PxA0y3aRMejJGb0wJH9gS"
@@ -625,7 +593,7 @@
       "url": "https://open.spotify.com/track/3H0ZY55seypgo0zXI6zwRk"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/0hSRCjd8f3eGCEdeXD0hoL"
@@ -641,7 +609,7 @@
       "url": "https://open.spotify.com/track/0jI2IdL3Bco0a3IPc7pHbY"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Are You Dead Yet?",
         "url": "https://open.spotify.com/album/4JtmC1dly1OaggJbhdYAyZ"
@@ -657,7 +625,7 @@
       "url": "https://open.spotify.com/track/2T2vudIHfVMA5ychWTU3KA"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Clayman (Reissue 2014)",
         "url": "https://open.spotify.com/album/1aK0ZfM3mY983J4cKoTHfy"
@@ -673,7 +641,7 @@
       "url": "https://open.spotify.com/track/03zYFtluA21jFWQVPMbUYO"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Spreading The Disease",
         "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
@@ -689,7 +657,7 @@
       "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
@@ -705,7 +673,7 @@
       "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
@@ -721,7 +689,7 @@
       "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
@@ -737,7 +705,7 @@
       "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Ascendancy (Special Edition)",
         "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
@@ -753,7 +721,7 @@
       "url": "https://open.spotify.com/track/0dzMcLqdF9NnNT3CgXJ5XG"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Clawfinger (Remastered version)",
         "url": "https://open.spotify.com/album/5EA1276qleBpN5O80kM0mT"
@@ -769,7 +737,7 @@
       "url": "https://open.spotify.com/track/4KdCtL3tO5osDoxtZR1aqg"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
@@ -785,7 +753,7 @@
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
@@ -801,7 +769,7 @@
       "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
@@ -817,7 +785,7 @@
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
@@ -833,7 +801,39 @@
       "url": "https://open.spotify.com/track/15z9QEJOBV6hDdWsdZwDKP"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "South Of Heaven",
+        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "South Of Heaven",
+      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/3yubyWatnRRLHkIsN1ZI2Q"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/0I7y3aEavUHgkt4aCreBDa"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2vaeoAzATVgE2npjBCnH5x"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/2edSHS8PhbiPgLxQhMpMkO"
     },
     {
-      "added_at": "2022-01-28 08:40:07",
+      "added_at": "2022-07-01 08:01:44",
       "album": {
         "name": "Octavarium",
         "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"

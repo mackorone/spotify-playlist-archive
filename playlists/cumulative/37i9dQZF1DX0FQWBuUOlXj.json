@@ -1,0 +1,919 @@
+{
+  "date_first_scraped": "2022-05-30",
+  "description": "The official playlist for After Life, curated by Ricky Gervais. Watch on Netflix.",
+  "name": "After Life Official Playlist",
+  "published_playlist_ids": [
+    "4inUUkb748ZVOhsVuP6XCq"
+  ],
+  "tracks": [
+    {
+      "album": {
+        "name": "Departure Songs",
+        "url": "https://open.spotify.com/album/2qYkNaEeAbiarc0rwkjkh3"
+      },
+      "artists": [
+        {
+          "name": "We Lost The Sea",
+          "url": "https://open.spotify.com/artist/7GVByFFfFJYCzK4d8ZyL6s"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364986,
+      "name": "A Gallant Gentleman",
+      "url": "https://open.spotify.com/track/7MZM9KhwGQG8QJ4BycsnQn"
+    },
+    {
+      "album": {
+        "name": "The Thorns",
+        "url": "https://open.spotify.com/album/5IVP3ySAumaC1e3mkVFs2J"
+      },
+      "artists": [
+        {
+          "name": "The Thorns",
+          "url": "https://open.spotify.com/artist/4KQqMAIk9n7Axul2872iWj"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "Among The Living",
+      "url": "https://open.spotify.com/track/4XM78FD2aTl9sJrK6AtBVM"
+    },
+    {
+      "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "And So It Goes",
+      "url": "https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A"
+    },
+    {
+      "album": {
+        "name": "This Time of the Year",
+        "url": "https://open.spotify.com/album/2lEZnRnI0UAmOJUb4ImFvA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229860,
+      "name": "Back to the Beginning",
+      "url": "https://open.spotify.com/track/4g374m0wawUeanQ9iov9jI"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Todd Rundgren",
+        "url": "https://open.spotify.com/album/5vsHuXiqwQZYT6AD5NKYsd"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Can We Still Be Friends?",
+      "url": "https://open.spotify.com/track/4Io9zVkAKSu7LBdUGVQFL7"
+    },
+    {
+      "album": {
+        "name": "Young Americans (2016 Remaster)",
+        "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Can You Hear Me - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0iWHMJwpVl46UJ2KZ2IEKt"
+    },
+    {
+      "album": {
+        "name": "Universalis",
+        "url": "https://open.spotify.com/album/1akyiiCQFxpLTuxjcCVUyg"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352310,
+      "name": "Cliffside",
+      "url": "https://open.spotify.com/track/6BloUqtE0wESk3ZZKz9QHw"
+    },
+    {
+      "album": {
+        "name": "Onka's Big Moka",
+        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "album": {
+        "name": "The Malady Of Elegance",
+        "url": "https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Finding It There",
+      "url": "https://open.spotify.com/track/5G9rra29bm2HtXcyDtRf1y"
+    },
+    {
+      "album": {
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/46Ky1123o1MoI4tTCeIEdp"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384768,
+      "name": "For My Sister",
+      "url": "https://open.spotify.com/track/1CULWWJfT5Oo0Bh4gko7ZS"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/6TKewkXqDeg8q2lqzNXTmZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "David Jaggs",
+          "url": "https://open.spotify.com/artist/2M6D03CV5HO5J5lqOnNQRJ"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "From Both Sides Now",
+      "url": "https://open.spotify.com/track/4e6Y85KHKWhn9EdguhfB6l"
+    },
+    {
+      "album": {
+        "name": "Hymn for the Greatest Generation",
+        "url": "https://open.spotify.com/album/5rA4U2ywbTKECawyF54ZW0"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457226,
+      "name": "Hymn for the Greatest Generation",
+      "url": "https://open.spotify.com/track/3ofrLJrQjMPuEBQddeAbZn"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "album": {
+        "name": "Ten Easy Pieces",
+        "url": "https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Webb",
+          "url": "https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "If These Walls Could Speak",
+      "url": "https://open.spotify.com/track/1Mlc3atP5OQaMPFwudJ55K"
+    },
+    {
+      "album": {
+        "name": "Oblivion Hymns",
+        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333187,
+      "name": "In the Middle of This Nowhere",
+      "url": "https://open.spotify.com/track/1CZROHuLm6RdvDKonQh1Zx"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (Remastered)",
+        "url": "https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr"
+    },
+    {
+      "album": {
+        "name": "Happy Songs for Happy People",
+        "url": "https://open.spotify.com/album/1k2uLH7mwB72zbepvM8rR4"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327173,
+      "name": "Kids Will Be Skeletons",
+      "url": "https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6"
+    },
+    {
+      "album": {
+        "name": "Best Of Patti Labelle",
+        "url": "https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT"
+    },
+    {
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "album": {
+        "name": "Oblivion Hymns (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ApCBV30bmY7lr9nBLPspz"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490187,
+      "name": "Like a Valley With No Echo",
+      "url": "https://open.spotify.com/track/5aBDtRsFWcEsxEawLh8ksM"
+    },
+    {
+      "album": {
+        "name": "Mona Bone Jakon (Remastered 2020)",
+        "url": "https://open.spotify.com/album/2XXF6pODroMYQ3qPmXeMB1"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Lilywhite",
+      "url": "https://open.spotify.com/track/2xua22XyOXFs0y2VziBvQQ"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH"
+      },
+      "artists": [
+        {
+          "name": "Dave Thomas Junior",
+          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295486,
+      "name": "Little Piece of Nothing",
+      "url": "https://open.spotify.com/track/71hPJJ106daQSnIY34YCg5"
+    },
+    {
+      "album": {
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384324,
+      "name": "Losing You to You",
+      "url": "https://open.spotify.com/track/7vx8gqZX9CCxl7U6634P79"
+    },
+    {
+      "album": {
+        "name": "Dr. Heckle & Mr. Jive",
+        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "Love Is the Answer",
+      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
+    },
+    {
+      "album": {
+        "name": "With A Twist . . .",
+        "url": "https://open.spotify.com/album/5j7UIp3eUzF17DhK8eQOq1"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Love Is the Answer",
+      "url": "https://open.spotify.com/track/3NgWyJELLSEOiVdbdkjcOF"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336560,
+      "name": "Mandolin Wind",
+      "url": "https://open.spotify.com/track/4sWZwY8RQfK6Fc2pYC7tN1"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313460,
+      "name": "Masollan",
+      "url": "https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz"
+    },
+    {
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387733,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241213,
+      "name": "Passing Afternoon",
+      "url": "https://open.spotify.com/track/2G2PpiNxdcNnPRKt76iShb"
+    },
+    {
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "Satellite of Love",
+      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
+    },
+    {
+      "album": {
+        "name": "Judith",
+        "url": "https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
+    },
+    {
+      "album": {
+        "name": "Past.Present.Future.",
+        "url": "https://open.spotify.com/album/2MhMiuJX4tsAFaQDkzPauF"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dave Thomas Junior",
+          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209754,
+      "name": "Silence (feat. Dave Thomas Junior)",
+      "url": "https://open.spotify.com/track/3R0Et3SS6eO5VgpZGpnTaU"
+    },
+    {
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "So Amazing",
+      "url": "https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK"
+    },
+    {
+      "album": {
+        "name": "Carrie & Lowell Live",
+        "url": "https://open.spotify.com/album/3xuObdpsMyG6pInICz9M2I"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341798,
+      "name": "The Only Thing - Live",
+      "url": "https://open.spotify.com/track/1VBhcNMKyc1G9CsUOujGno"
+    },
+    {
+      "album": {
+        "name": "Kenotic",
+        "url": "https://open.spotify.com/album/4muC3Gg4Us6ZIJ3wFDSQmS"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320120,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/7JA9PvWd4SeWtmY7NIdjEP"
+    },
+    {
+      "album": {
+        "name": "Deceptive Bends",
+        "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "The Things We Do For Love",
+      "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "album": {
+        "name": "Almost Famous (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99706,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/5Fd8MgmA8ydCyvRbsoCEZg"
+    },
+    {
+      "album": {
+        "name": "Oblivion Hymns",
+        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403250,
+      "name": "Then the Quiet Explosion",
+      "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
+    },
+    {
+      "album": {
+        "name": "For Everyman",
+        "url": "https://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2dcoDVcOc9hGPbtZFtpcw3"
+    },
+    {
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398506,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
+    },
+    {
+      "album": {
+        "name": "The Malady Of Elegance",
+        "url": "https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281120,
+      "name": "Threnody",
+      "url": "https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa"
+    },
+    {
+      "album": {
+        "name": "Departure Songs",
+        "url": "https://open.spotify.com/album/1F2MQNCmYXDcZyJVdbhNw9"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428464,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/5vsM2dLOcZRljhNgGj10lm"
+    },
+    {
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179173,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
+    },
+    {
+      "album": {
+        "name": "Universalis",
+        "url": "https://open.spotify.com/album/1akyiiCQFxpLTuxjcCVUyg"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274005,
+      "name": "We Are More Than We Are",
+      "url": "https://open.spotify.com/track/1LKSKnYsPFS2nYL899XvO5"
+    },
+    {
+      "album": {
+        "name": "Silencia",
+        "url": "https://open.spotify.com/album/5g9CwdPva16mAs8ZBOexI4"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "We Try to Make Sense of It All",
+      "url": "https://open.spotify.com/track/3ktYqSOe2lpIZ7pLP8YLr3"
+    },
+    {
+      "album": {
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346103,
+      "name": "Will You Ever Love Yourself?",
+      "url": "https://open.spotify.com/track/4R3GdFZdmY2ase6ULLCVtW"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0FQWBuUOlXj"
+}

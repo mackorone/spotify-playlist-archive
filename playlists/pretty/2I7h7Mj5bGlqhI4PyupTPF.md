@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2I7h7Mj5bGlqhI4PyupTPF.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2I7h7Mj5bGlqhI4PyupTPF.md) - [plain]
 | 11 | [Baby Boy \(feat\. Sean Paul\)](https://open.spotify.com/track/6dF5QhnUT1pjG0mDCbEYVf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 4:04 |
 | 12 | [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 4:53 |
 | 13 | [21 Questions](https://open.spotify.com/track/6sWd2RlxEJKFDvFPR7pzJA) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [21 Questions \[International Version \(Explicit\)\]](https://open.spotify.com/album/2rvOghytv8EQQc8oZBpx7N) | 3:47 |
-| 14 | [All I Have](https://open.spotify.com/track/6xGDXrZQoisoWkKWsgplcZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [This Is Me...Then](https://open.spotify.com/album/0yrEC0zQQa0Gf8PfqnOYsp) | 4:14 |
+| 14 | [All I Have](https://open.spotify.com/track/6xGDXrZQoisoWkKWsgplcZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [This Is Me...Then](https://open.spotify.com/album/0yrEC0zQQa0Gf8PfqnOYsp) | 4:14 |
 | 15 | [Beautiful](https://open.spotify.com/track/0Ri6sPso4CNTnHn7RroCt4) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera/Stripped](https://open.spotify.com/album/4hpmO3kS2S4wd8XQR8DFe0) | 3:58 |
 | 16 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/440JHgcmlgu65MbKBg20ba) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/7xfoGxTPNTt33IVcWjDrRt) | 5:24 |
 | 17 | [I'm with You](https://open.spotify.com/track/2jHujamO9UuZv8im9eLdOB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin/Let Go](https://open.spotify.com/album/6N8IR15CZE0bI2rGKTU2Bz) | 3:43 |

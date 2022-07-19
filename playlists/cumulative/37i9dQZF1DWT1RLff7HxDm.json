@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 368213,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m A Woman [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352013,
+      "name": "Can't Let Go - Live (Remastered)",
+      "url": "https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO"
+    },
+    {
+      "album": {
         "name": "Can't Walk Away From It Now (Live)",
         "url": "https://open.spotify.com/album/5o1wAMgW0MN63RlrhkjLnw"
       },
@@ -163,10 +181,32 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t You See What You\u2019re Doing To Me (Live)",
+        "url": "https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373809,
+      "name": "Can\u2019t You See What You\u2019re Doing To Me - Live",
+      "url": "https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1"
     },
     {
       "album": {
@@ -181,7 +221,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 410520,
       "name": "Chills & Thrills",
       "url": "https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq"
@@ -199,7 +239,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-05-13",
       "duration_ms": 256986,
       "name": "Cry a Little - Live",
       "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
@@ -217,7 +257,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7"
@@ -253,7 +293,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 256398,
       "name": "Damn Right, I've Got The Blues - Live at New Orleans Jazz & Heritage Festival, 2014",
       "url": "https://open.spotify.com/track/0Jt849xbK5RTJt8UORof5A"
@@ -289,7 +329,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-27",
       "duration_ms": 215540,
       "name": "Do You Wanna - Live",
       "url": "https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy"
@@ -307,7 +347,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-08",
       "duration_ms": 269440,
       "name": "Down For Love - Live",
       "url": "https://open.spotify.com/track/6OQ3GvlaMOJTCPNi1mYKwQ"
@@ -415,7 +455,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-30",
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
@@ -445,8 +485,8 @@
       },
       "artists": [
         {
-          "name": "John Mayer Trio",
-          "url": "https://open.spotify.com/artist/68xuC1qXRhCUvGd4SSM655"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
       "date_added": "2020-10-30",
@@ -477,7 +517,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-19",
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
@@ -549,7 +589,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-15",
       "duration_ms": 274853,
       "name": "I Didn't Think She Would Do It - Live",
       "url": "https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh"
@@ -603,7 +643,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
@@ -621,7 +661,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-17",
       "duration_ms": 275033,
       "name": "Keep Coming Back - Live",
       "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
@@ -693,7 +733,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 335955,
       "name": "Let Me Love You Baby - Live",
       "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
@@ -751,7 +791,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 261874,
       "name": "Lonesome Whistle Blues - Live",
       "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
@@ -773,7 +813,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-05-09",
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live In Concert",
       "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
@@ -835,7 +875,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 426835,
       "name": "Mr Luck (feat. Mick Taylor) - Live",
       "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
@@ -853,7 +893,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
@@ -929,7 +969,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 477786,
       "name": "Open Hearted Woman - Live",
       "url": "https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P"
@@ -947,7 +987,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-05-18",
       "duration_ms": 509607,
       "name": "Pallet Soft and Low (Live)",
       "url": "https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk"
@@ -965,7 +1005,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 497133,
       "name": "Pocket Full of Dust (Live)",
       "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
@@ -1009,7 +1049,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-16",
       "duration_ms": 615573,
       "name": "Red Light - Live",
       "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
@@ -1027,7 +1067,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 501010,
       "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
       "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
@@ -1063,7 +1103,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 446206,
       "name": "Rocket 88 - Live",
       "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
@@ -1099,7 +1139,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 241135,
       "name": "Some Other Day, Some Other Time - Live",
       "url": "https://open.spotify.com/track/6w7zKtNuKcSkYg3WFo1zGX"
@@ -1117,7 +1157,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw"
@@ -1153,7 +1193,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 382741,
       "name": "Steamroller / Powerful Thing - Live",
       "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
@@ -1214,6 +1254,28 @@
     },
     {
       "album": {
+        "name": "Blues From The Heart Live",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349573,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "album": {
         "name": "Tell Her You Belong To Me (Live)",
         "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
       },
@@ -1225,7 +1287,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me (Live)",
       "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
@@ -1337,7 +1399,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 498752,
       "name": "Three O'Clock Blues / Sweet Sixteen (Medley) - Live at New Orleans Jazz & Heritage Festival, 2015",
       "url": "https://open.spotify.com/track/6zKPUuCXaM4KDKlPcWBLCZ"
@@ -1391,7 +1453,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -1409,7 +1471,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-12",
       "duration_ms": 324440,
       "name": "Up Your Sleeve - Live",
       "url": "https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG"
@@ -1463,7 +1525,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 329840,
       "name": "Watchagonnado (Live)",
       "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
@@ -1499,7 +1561,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 771564,
       "name": "West L.A. Fadeaway - Live",
       "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
@@ -1521,7 +1583,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 252106,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
@@ -1539,7 +1601,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 574040,
       "name": "Why Does It Take So Long To Say Goodbye - Live",
       "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"
@@ -1575,7 +1637,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 260133,
       "name": "Woman Like You - Live",
       "url": "https://open.spotify.com/track/0T6JNuBGbmRWizQ6Vdcchz"

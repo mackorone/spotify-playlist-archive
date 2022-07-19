@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 92500,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 107440,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 121058,
       "name": "Arioso",
       "url": "https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW"
@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Don't Grow Up Too Soon",
+        "url": "https://open.spotify.com/album/2wDOy7gi6i20n0uv4o8ksl"
+      },
+      "artists": [
+        {
+          "name": "Melody McKinsey",
+          "url": "https://open.spotify.com/artist/2AZSk3cuYwMLXv3okcGBxx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Don't Grow Up Too Soon",
+      "url": "https://open.spotify.com/track/1Y2GR3ytnyBeMUGl53yF5g"
+    },
+    {
+      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5fqjLiDafcWE7steZN3cES"
       },
@@ -739,10 +757,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 73000,
       "name": "Down By The Bay",
       "url": "https://open.spotify.com/track/3FpGkazRKFALtFqgoSHP94"
+    },
+    {
+      "album": {
+        "name": "Dream Dreams",
+        "url": "https://open.spotify.com/album/7ywh2jYHwz3eAlwSW9gBJL"
+      },
+      "artists": [
+        {
+          "name": "Jannah Zoey",
+          "url": "https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63557,
+      "name": "Dream Dreams",
+      "url": "https://open.spotify.com/track/2oppXf0oJKglJLVoSPdDb3"
     },
     {
       "album": {
@@ -872,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Evening Song",
+        "url": "https://open.spotify.com/album/4A6ddYIanxdO5mL5QLYUF6"
+      },
+      "artists": [
+        {
+          "name": "Emma Fredrikson",
+          "url": "https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69025,
+      "name": "Evening Song",
+      "url": "https://open.spotify.com/track/3PrdHOBhWRtE4qih1vRe19"
+    },
+    {
+      "album": {
         "name": "Fall Asleep My Little Angel",
         "url": "https://open.spotify.com/album/4nA8Ac5jgG93hgcoMzjLbD"
       },
@@ -980,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "In mom's purse",
+        "url": "https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Elder",
+          "url": "https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89500,
+      "name": "Going on a trip",
+      "url": "https://open.spotify.com/track/145u5e0k2ZlZwXOp8y2K4h"
+    },
+    {
+      "album": {
         "name": "London Bridge",
         "url": "https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180"
       },
@@ -1070,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Sommerferien min",
+        "url": "https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Eriksen",
+          "url": "https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88750,
+      "name": "Hver dag med deg",
+      "url": "https://open.spotify.com/track/481atd1wQfDApIcP7viDSy"
+    },
+    {
+      "album": {
         "name": "Kumbaya my lord",
         "url": "https://open.spotify.com/album/39IRgH2P5Tp7v9vCsixiFO"
       },
@@ -1085,6 +1175,60 @@
       "duration_ms": 40374,
       "name": "H\u00e4nschen klein",
       "url": "https://open.spotify.com/track/7CLSv8Jzp0aG04JSaAclTR"
+    },
+    {
+      "album": {
+        "name": "I Can't Help Falling In Love (Music Box)",
+        "url": "https://open.spotify.com/album/5RkYkiGiLJRMJ0AMtOSx9U"
+      },
+      "artists": [
+        {
+          "name": "Melinah Daniels",
+          "url": "https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106393,
+      "name": "I Can't Help Falling In Love - Music Box",
+      "url": "https://open.spotify.com/track/2tBDvIzbmWvy4fvzcwBdq3"
+    },
+    {
+      "album": {
+        "name": "In mom's purse",
+        "url": "https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Elder",
+          "url": "https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71500,
+      "name": "In mom's purse",
+      "url": "https://open.spotify.com/track/3KXK50MwbDlWNvXDIzCHDt"
+    },
+    {
+      "album": {
+        "name": "It's So Dark",
+        "url": "https://open.spotify.com/album/4Zj4uCUzd7w4AP7miOrg4f"
+      },
+      "artists": [
+        {
+          "name": "Joyce O'Doherty",
+          "url": "https://open.spotify.com/artist/0BhmSnbI95ljdLhEPzRXoU"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82750,
+      "name": "It's So Dark",
+      "url": "https://open.spotify.com/track/5fa4i6QCrVZ67iAAggH7fE"
     },
     {
       "album": {
@@ -1430,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Our Quiet Place",
+        "url": "https://open.spotify.com/album/0IkH2e0Bzm0AE8bY3QTxD4"
+      },
+      "artists": [
+        {
+          "name": "Amy Chesney",
+          "url": "https://open.spotify.com/artist/5yJ7GLInAPoiOY6MCEbMyi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81339,
+      "name": "Our Quiet Place",
+      "url": "https://open.spotify.com/track/4w9sHq7JXwhFAalNLsiR4b"
+    },
+    {
+      "album": {
         "name": "Our Special Song",
         "url": "https://open.spotify.com/album/6885FAfzicnieiGZA3yqVb"
       },
@@ -1664,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Sleeping On Cloud 9",
+        "url": "https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd"
+      },
+      "artists": [
+        {
+          "name": "Torben Overgaard",
+          "url": "https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88250,
+      "name": "Sleeping On Cloud 9",
+      "url": "https://open.spotify.com/track/1q1mOWrsNhTPvaCVq2jwjW"
+    },
+    {
+      "album": {
         "name": "Slumberland Song",
         "url": "https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6"
       },
@@ -1718,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Sommerferien min",
+        "url": "https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Eriksen",
+          "url": "https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77250,
+      "name": "Sommerferien min",
+      "url": "https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE"
+    },
+    {
+      "album": {
         "name": "Splashing in the Sun",
         "url": "https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb"
       },
@@ -1736,6 +1934,42 @@
     },
     {
       "album": {
+        "name": "Stars At Night",
+        "url": "https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl"
+      },
+      "artists": [
+        {
+          "name": "Jannah Zoey",
+          "url": "https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76903,
+      "name": "Stars At Night",
+      "url": "https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q"
+    },
+    {
+      "album": {
+        "name": "Summertime Waltz",
+        "url": "https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy"
+      },
+      "artists": [
+        {
+          "name": "Margaret Bloom",
+          "url": "https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123360,
+      "name": "Summertime Waltz",
+      "url": "https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes (and Fall Asleep)",
         "url": "https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7"
       },
@@ -1751,6 +1985,24 @@
       "duration_ms": 124129,
       "name": "Sun and Moon",
       "url": "https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz"
+    },
+    {
+      "album": {
+        "name": "Dawn to Dusk",
+        "url": "https://open.spotify.com/album/0jslyyu2E866KnKJBHpAmF"
+      },
+      "artists": [
+        {
+          "name": "Violet Lilac",
+          "url": "https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139054,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4QIW0q7sXcyj8GpKECfqRx"
     },
     {
       "album": {
@@ -2147,6 +2399,24 @@
       "duration_ms": 86500,
       "name": "To the stars and back",
       "url": "https://open.spotify.com/track/4KecvpSzjpYDyYZgO8sukR"
+    },
+    {
+      "album": {
+        "name": "Tuck You In",
+        "url": "https://open.spotify.com/album/5qONknLa05F4T926ZHio4k"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Ness",
+          "url": "https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92368,
+      "name": "Tuck You In",
+      "url": "https://open.spotify.com/track/7BAOAgb7oHDU7c2px6Jr2w"
     },
     {
       "album": {

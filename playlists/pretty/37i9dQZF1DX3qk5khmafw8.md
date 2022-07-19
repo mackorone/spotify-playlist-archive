@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qk5khmafw8.md) - [plain]
 
 > A collection of live, intimate, exclusive performances from the most exciting pop artists in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,723 likes - 44 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,720 likes - 44 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

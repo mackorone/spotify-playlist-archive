@@ -1,0 +1,866 @@
+{
+  "description": "Cruise through Japanese \u201cNeo\u201d City Pop from the \u201900s./ \u6e0b\u8c37\u7cfb\u306e\u7cfb\u8b5c\u304b\u3089\u3001\u30dc\u30fc\u30c0\u30fc\u30ec\u30b9\u306b\u591a\u69d8\u5316\u306b\u5411\u304b\u3063\u3066\u3044\u3063\u305f\u201900\u5e74\u4ee3\u3002\u30cd\u30aa\u30fb\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7\u65b0\u6642\u4ee3\u306e\u6ce2\u306f\u3059\u3050\u305d\u3053\u306b\u3002",
+  "num_followers": 9251,
+  "original_name": "City Pop '00s",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTYyNzgyNTg0MiwwMDAwMDAxMzAwMDAwMTdiMDFmYjI4ZjUwMDAwMDE3NzFiOTJlYzlh",
+  "tracks": [
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u30ca\u30c1\u30e5\u30e9\u30eb\u30fb\u30a6\u30fc\u30de\u30f3",
+        "url": "https://open.spotify.com/album/0ldetMVuLOhcTFaV7egM1f"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/7z7MzAt1ftbVkffYkTpm4Q"
+        },
+        {
+          "name": "Hiyajo Atsuko",
+          "url": "https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf"
+        }
+      ],
+      "duration_ms": 330504,
+      "name": "\u307e\u308f\u308c \u307e\u308f\u308c",
+      "url": "https://open.spotify.com/track/6e8yvuGdwKfHEdx7ABrc9v"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "A color+5",
+        "url": "https://open.spotify.com/album/2uNrgJuHjlJLKUUGUrpYzS"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "\u79d8\u5bc6",
+      "url": "https://open.spotify.com/track/0LZG3B9w3hN95CWKLAsA92"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "ENJOYEE! (YOUR LIFETIME)",
+        "url": "https://open.spotify.com/album/3IUuDVlRHTRask5D6qM9Tf"
+      },
+      "artists": [
+        {
+          "name": "NONA REEVES",
+          "url": "https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "\u571f\u66dc\u65e5\u306e\u604b\u4eba",
+      "url": "https://open.spotify.com/track/6QPxwu1ANmwojiIkMhw12L"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Shipbuilding",
+        "url": "https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "\u9999\u308a\u3068\u5f71",
+      "url": "https://open.spotify.com/track/7lfibSBnB10b7KzmCOj7yt"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "WILD AND GENTLE",
+        "url": "https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx"
+      },
+      "artists": [
+        {
+          "name": "Miyuki Hatakeyama",
+          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "\u6d77\u304c\u6b32\u3057\u3044\u306e\u306b",
+      "url": "https://open.spotify.com/track/3UMuI3Do2J7cLp9D4opEnr"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Romeo Michiyuki",
+        "url": "https://open.spotify.com/album/5y0t6zh6FB8FjVZK4ANeBI"
+      },
+      "artists": [
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        }
+      ],
+      "duration_ms": 302173,
+      "name": "Mikakunin Hikoutai",
+      "url": "https://open.spotify.com/track/77LMizNt1rTxojfMt9sL7t"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/1mYzruTSwymSdYfe5ChiBp"
+      },
+      "artists": [
+        {
+          "name": "KUCHIRORO",
+          "url": "https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA"
+        }
+      ],
+      "duration_ms": 286201,
+      "name": "\u590f\u306e\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/4TSuIRGTLoHeCz1Njv6dpB"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u30b7\u30c6\u30a3\u30df\u30e5\u30fc\u30b7\u3099\u30c3\u30af (\u30ea\u30de\u30b9\u30bf\u30ea\u30f3\u30af\u3099)",
+        "url": "https://open.spotify.com/album/19bB89Jjgd0xogUWKsOGbI"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 310053,
+      "name": "3\u53f7\u7dda",
+      "url": "https://open.spotify.com/track/33X2BynK6JcdImh2S1nH8F"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "LOVE CITY",
+        "url": "https://open.spotify.com/album/4dIKfsHcrQs20nVi2IRjHF"
+      },
+      "artists": [
+        {
+          "name": "Keiichi Sokabe",
+          "url": "https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq"
+        }
+      ],
+      "duration_ms": 463200,
+      "name": "\u571f\u66dc\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/5xXAxsrPDuDBdrZ5Fg9P1o"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u771f\u51ac\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/03TK4SkQREOHRLEFm1vDKE"
+      },
+      "artists": [
+        {
+          "name": "Yasuyuki Horigome",
+          "url": "https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj"
+        },
+        {
+          "name": "Miyuki Hatakeyama",
+          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
+        },
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "\u771f\u51ac\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/0Sufsd6ssifoWXXkrTvaw0"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "I Got Rhythm?",
+        "url": "https://open.spotify.com/album/7nTlXzNcnMlIBLdSrkgSva"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "sing sing",
+      "url": "https://open.spotify.com/track/5su6NPdyWBcCluMcUJvS2x"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Summerin'",
+        "url": "https://open.spotify.com/album/6L6yRvmmoGMQubMeYBPWLi"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "\u5c0f\u9ea6\u8272\u306e\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/5gcFA0NZLvLeRW7BY7eqZF"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u9ec4\u660f\u30a8\u30b9\u30d7\u30ec\u30c3\u30bd",
+        "url": "https://open.spotify.com/album/3ai5JlwsbwdbwzabV5wMNc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f4hei Dojima",
+          "url": "https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9"
+        }
+      ],
+      "duration_ms": 348506,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30fb\u30b7\u30c6\u30a3\u30fb\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/10aTe0dzbJcpmFhF6F5jcM"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u611b\u3068\u6d77\u3068\u97f3\u697d\u3068",
+        "url": "https://open.spotify.com/album/6zkGaurGfYwvWJBMzWcHye"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30b1\u30c3\u30c8\u30de\u30f3",
+          "url": "https://open.spotify.com/artist/4zV9GuqvmeJTKHTI3iMOp5"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "\u3044\u3064\u3082\u306e\u671d",
+      "url": "https://open.spotify.com/track/1A5z7MbEgCgCXONGBfiXxO"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "LOVE ALBUM",
+        "url": "https://open.spotify.com/album/70fv04HqVVkpwRpWChVm0T"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Service",
+          "url": "https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/2BCoHO5o1LMy6lBKesSAWj"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "VIVA! 6x7",
+        "url": "https://open.spotify.com/album/4f4fIIv5TSpPuHBWa9Fy7J"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Takao Tajima",
+          "url": "https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV"
+        }
+      ],
+      "duration_ms": 267372,
+      "name": "\u592a\u967d\u306e\u9003\u4ea1\u8005",
+      "url": "https://open.spotify.com/track/7EQ7VERVM2ybwZ2Ecq3Kd4"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Shiplaunching [2019Mix]",
+        "url": "https://open.spotify.com/album/70YgjTk4iBDjLmzDqWW2cU"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        },
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 301333,
+      "name": "\u30d7\u30e9\u30b7\u30fc\u30dc\u30fb\u30bb\u30b7\u30dc\u30f3 (2019 Mix)",
+      "url": "https://open.spotify.com/track/4apUqeI2MZNsp9qD2HOuzN"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u604b\u4eba\u3078",
+        "url": "https://open.spotify.com/album/6WgMpBZ44zDNKIlVPbjrwn"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 263840,
+      "name": "\u6700\u7d42\u5217\u8eca\u306f25\u6642",
+      "url": "https://open.spotify.com/track/0hXjQnyGcdr0b1TNEsZiCb"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "A color+5",
+        "url": "https://open.spotify.com/album/2uNrgJuHjlJLKUUGUrpYzS"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "duration_ms": 316653,
+      "name": "\u30e2\u30ce\u30af\u30ed",
+      "url": "https://open.spotify.com/track/7ay4c4JrjlWhrAobosK2IN"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u30ca\u30c1\u30e5\u30e9\u30eb\u30fb\u30a6\u30fc\u30de\u30f3",
+        "url": "https://open.spotify.com/album/0ldetMVuLOhcTFaV7egM1f"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62 & \u6bd4\u5c4b\u5b9a\u7be4\u5b50",
+          "url": "https://open.spotify.com/artist/0x90ov8mPk5pLKOdYbOGrJ"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "\u4f55\u3082\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/5AUzZQtaC3M49no31nBvEO"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "type III",
+        "url": "https://open.spotify.com/album/4XTM5TtY5yfeMF33qor7qd"
+      },
+      "artists": [
+        {
+          "name": "paris match",
+          "url": "https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof"
+        }
+      ],
+      "duration_ms": 318653,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/0uzNud88n4dRpgw0ZopzjP"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u30b8\u30eb\u30c7\u30b32",
+        "url": "https://open.spotify.com/album/5q66IhxM41xp2oxkXQgtFs"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "SUMMER MAGIC",
+      "url": "https://open.spotify.com/track/3wba4zxsmsf3ztqclVh5AX"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "corridor",
+        "url": "https://open.spotify.com/album/4ablWmXxoeKubRVlctBPUV"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "duration_ms": 334413,
+      "name": "beautiful life",
+      "url": "https://open.spotify.com/track/3mwNJ7lUDPIKQgGGxYF7T6"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Shipbuilding",
+        "url": "https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "God bless you!",
+      "url": "https://open.spotify.com/track/4ByQJljgktiflk70HvM5Ue"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "One Fine Day",
+        "url": "https://open.spotify.com/album/3DDUxmZuaycCN87ZYsw1QG"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "One Fine Day With You",
+      "url": "https://open.spotify.com/track/32e2YSUw3hsSb9DXWntx0T"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Nice Beat",
+        "url": "https://open.spotify.com/album/05vCEQbfb2hPKokOunJvAK"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+          "url": "https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "Odoroyo, Fish",
+      "url": "https://open.spotify.com/track/5RxcFmvEwHdnOeSdEWSVxP"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "TOKYO SNIPER",
+        "url": "https://open.spotify.com/album/4dSqIQl3wHFHLOCyml3IvU"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 266680,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30fc\u30f3\u30fb\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/5wUfPhiugmns6jbHUxNbP7"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "A color+5",
+        "url": "https://open.spotify.com/album/2uNrgJuHjlJLKUUGUrpYzS"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "122",
+      "url": "https://open.spotify.com/track/2l5S3X3w0oBJQGsk5jhP1X"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "A BIRD",
+        "url": "https://open.spotify.com/album/4SskAJSmh7UojYEYllCz1d"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 315853,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/5DBmGbbZM6u6q86yZT5sd7"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Rainbow Magic",
+        "url": "https://open.spotify.com/album/2tSHIJ6527UQsNZUr5dElH"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Takano",
+          "url": "https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4SxR8CXGR9WsgORWTf98vR"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "MUSIC GREETINGS VOL. TWO",
+        "url": "https://open.spotify.com/album/5GUqiFcUQYVZgsJjnRbOzD"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Side Seat",
+      "url": "https://open.spotify.com/track/4zBP3qL2fJwTwQlPBOvrFD"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u6728\u6d29\u967d\u901a\u308a\u306b\u3066",
+        "url": "https://open.spotify.com/album/5E74hczbln3vnszAQ1wf2E"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 299520,
+      "name": "\u4eca\u591c\u3082\u541b\u306b\u30c6\u30ec\u30d5\u30a9\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6Kock1KhJinf3qJ1pzSn7M"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "LIVING / LOVING",
+        "url": "https://open.spotify.com/album/5VpJWWzEe4P4iMpgMDOXmq"
+      },
+      "artists": [
+        {
+          "name": "Carnation",
+          "url": "https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "\u3084\u308b\u305b\u306a\u304f\u679c\u3066\u3057\u306a\u304f",
+      "url": "https://open.spotify.com/track/150iDVQYiUYauupjlaqjL3"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Sweet Reaction",
+        "url": "https://open.spotify.com/album/2XaEzIMc9LrExulIoG2gq4"
+      },
+      "artists": [
+        {
+          "name": "NONA REEVES",
+          "url": "https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/55J50MIkkCPin2cDLtewXc"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Shipbuilding",
+        "url": "https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 356666,
+      "name": "\u7720\u308a\u306e\u68ee",
+      "url": "https://open.spotify.com/track/2k4KivT5hRwKOK9ED43A4U"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "TALKIN'",
+        "url": "https://open.spotify.com/album/4FCZFT1bje03oXw2f7q5Po"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 387560,
+      "name": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2",
+      "url": "https://open.spotify.com/track/1CLdt3sHTa13JQ0Vf5Y8fU"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Home Ground",
+        "url": "https://open.spotify.com/album/0HXIBUt2IXmP5ahJv1btmH"
+      },
+      "artists": [
+        {
+          "name": "Takaki Horigome",
+          "url": "https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "\u51ac\u6765\u305f\u308a\u306a\u3070",
+      "url": "https://open.spotify.com/track/1AbAUvjrSfpdEfwJMQlG0e"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "A GIRL IN SUMMER",
+        "url": "https://open.spotify.com/album/6cdmOr7ACF6j7OZNkr0Avr"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 244837,
+      "name": "\u8679\u306e\u4e0b\u306e\u3069\u3057\u3083\u964d\u308a\u3067",
+      "url": "https://open.spotify.com/track/3MLFTklefqLMP17AGX0O5P"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Spring Rain Keeps Fallin On My Head",
+        "url": "https://open.spotify.com/album/24yetVma2PeUIVqAwl8sqP"
+      },
+      "artists": [
+        {
+          "name": "Mamalaid Rag",
+          "url": "https://open.spotify.com/artist/112Zt20SrWrXOrzlV2IzjJ"
+        }
+      ],
+      "duration_ms": 277640,
+      "name": "Spring Rain Keeps Fallin on My Head",
+      "url": "https://open.spotify.com/track/3PQsf3jCUw9lGXuP3zC0OJ"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "LOVE ALBUM",
+        "url": "https://open.spotify.com/album/70fv04HqVVkpwRpWChVm0T"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Service",
+          "url": "https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "\u591c\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/4GU9mHZtZ29oERjallcozQ"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/0i6Fv4ihjPOjhYpM8NA7Oh"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "Ameha Moufunoyouni",
+      "url": "https://open.spotify.com/track/4uxpCP62wODRT4lwtr1VLy"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "RENASCENCE",
+        "url": "https://open.spotify.com/album/6NXUqXrL6U54xbkqGxoMMc"
+      },
+      "artists": [
+        {
+          "name": "Sing Like Talking",
+          "url": "https://open.spotify.com/artist/6XrphHC917hKfMIzHW6Bsq"
+        },
+        {
+          "name": "Misako Odani",
+          "url": "https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT"
+        }
+      ],
+      "duration_ms": 324840,
+      "name": "\u661f\u964d\u3089\u306a\u3044\u591c",
+      "url": "https://open.spotify.com/track/6CI7HfVKIr9RdS8w4SOx95"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/39ATuRqjwAb6MJOkqMSAJs"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "duration_ms": 248267,
+      "name": "\u5fae\u7b11\u307f\u306e\u3072\u3068",
+      "url": "https://open.spotify.com/track/5lcTuZBBsRIzquCxCOoeJg"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Shipbuilding",
+        "url": "https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "Miyuki Hatakeyama",
+          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
+        }
+      ],
+      "duration_ms": 303466,
+      "name": "\u8010\u3048\u96e3\u304f\u3082\u7518\u3044\u5b63\u7bc0",
+      "url": "https://open.spotify.com/track/1gGZZbpyDMkWoTvv392e7f"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "TOKYO SNIPER",
+        "url": "https://open.spotify.com/album/4dSqIQl3wHFHLOCyml3IvU"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "\u82b1\u3073\u3089",
+      "url": "https://open.spotify.com/track/577aRC0qwOKEPMDnpCmNqb"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "SOUNDS",
+        "url": "https://open.spotify.com/album/3G4xM7Pt2SpeDc7HJM6wVJ"
+      },
+      "artists": [
+        {
+          "name": "FreeTEMPO",
+          "url": "https://open.spotify.com/artist/31XOXmRJOp83N2kyVNRDy4"
+        },
+        {
+          "name": "Mari Mizuno from paris match",
+          "url": "https://open.spotify.com/artist/54Yomu8IZ9KQkune9c76LK"
+        },
+        {
+          "name": "Another Side",
+          "url": "https://open.spotify.com/artist/2oO4DrJjObGQHGnQWvm3oi"
+        }
+      ],
+      "duration_ms": 359933,
+      "name": "KINDLY FEAT.MARI MIZUNO FROM PARIS MATCH\u3001ANOTHER SIDE",
+      "url": "https://open.spotify.com/track/7KiOfl4nKAlq4wUtfBiLNc"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "\u8e0a\u308b\u592a\u967d",
+        "url": "https://open.spotify.com/album/0VlNJhtDkqaGe6BNcFVMzC"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "\u604b\u306e\u5f57\u661f",
+      "url": "https://open.spotify.com/track/32uA7XyuewkwLIdTsq4Er0"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "discover",
+        "url": "https://open.spotify.com/album/6CN51DFfuqjKTV4n5DwduJ"
+      },
+      "artists": [
+        {
+          "name": "Junpei Shiina",
+          "url": "https://open.spotify.com/artist/5uf7EvW4352mAFNNN9IOZT"
+        }
+      ],
+      "duration_ms": 333373,
+      "name": "Itsuka Hareta Hini",
+      "url": "https://open.spotify.com/track/22WFRMB0NEKHNTfr0C4y6F"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux"
+      },
+      "artists": [
+        {
+          "name": "bird",
+          "url": "https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi"
+        }
+      ],
+      "duration_ms": 347760,
+      "name": "Arekara",
+      "url": "https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG"
+    },
+    {
+      "added_at": "2021-08-01 13:50:42",
+      "album": {
+        "name": "WILD AND GENTLE",
+        "url": "https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx"
+      },
+      "artists": [
+        {
+          "name": "Miyuki Hatakeyama",
+          "url": "https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "\u7f4c\u7c9f",
+      "url": "https://open.spotify.com/track/6x1hT5lHXcraem8FQCPykz"
+    }
+  ],
+  "unique_name": "City Pop '00s",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0cgcWoYFXZp"
+}

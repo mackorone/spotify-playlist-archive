@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xOUcH7zbML.md) - [plain]
 
 > L7 e o melhor do Hip Hop nacional em 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,475 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

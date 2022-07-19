@@ -4,7 +4,7 @@
 
 > Actress and activist Shakina Nayfack shares interviews with some of her favorite trans artists.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/521JvolPoBjY1pBdL5sKXN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

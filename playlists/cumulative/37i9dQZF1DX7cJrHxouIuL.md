@@ -4,10 +4,11 @@
 
 > Kindie tunes for the whole family.
 
-147 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+148 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Little Recycling Adventure](https://open.spotify.com/track/4yld7dVSxsCDWUPMyhxLYO) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU) | [A Little Recycling Adventure](https://open.spotify.com/album/3XJie4zhDqXL0bS7ewPEC8) | 4:02 | 2022-05-25 |  |
 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 | 2022-04-15 |  |
 | [Be Kind](https://open.spotify.com/track/1SSgq52TJSHbsqsh3rDB1a) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:00 | 2022-04-15 |  |
 | [Be the Light \(feat\. SaulPaul\)](https://open.spotify.com/track/5DKgL6ACLMjVfNgCpROmIU) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg), [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 3:33 | 2022-04-15 |  |
@@ -85,7 +86,7 @@
 | [Lightning](https://open.spotify.com/track/05G7em6cXUO1i4zNv8nCRT) | [Mr\. Steve, the Music Man](https://open.spotify.com/artist/41XCyhAiNvU600YWQREBO8) | [Earth Party!](https://open.spotify.com/album/0BdM7wmFLQM9ipSi5626hd) | 2:54 | 2022-04-15 |  |
 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 | 2022-04-15 |  |
 | [Little Bitta You](https://open.spotify.com/track/0MAmaesEcenot1iKsV08S1) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Odds & Ends](https://open.spotify.com/album/7z0GxmcXQ2pxwN3fEKC4N2) | 2:20 | 2022-04-15 |  |
-| [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 | 2022-04-15 |  |
+| [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN), [Eastcoast inspirational Singers](https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 | 2022-04-15 |  |
 | [Long as I Got You](https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 2:23 | 2022-04-15 |  |
 | [Magnolia Tree](https://open.spotify.com/track/3JFY8pm1zVpC3DlA6yB6FG) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Magnolia Tree](https://open.spotify.com/album/05L03Xp2wSBc4jRbbYj0gc) | 2:53 | 2022-04-15 |  |
 | [Marshmallow Man](https://open.spotify.com/track/38fIUDIRJ3C5V82BJhg74t) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [Marshmallow Man](https://open.spotify.com/album/0fY7fzuEW14bZgbu4FVupp) | 2:36 | 2022-04-15 |  |

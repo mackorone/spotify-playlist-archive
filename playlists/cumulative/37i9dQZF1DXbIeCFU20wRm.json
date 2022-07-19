@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "The Man Who Fell to Earth: Themes and Sketches (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4beVfwojO8N54K78hNmAtS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Justin\u2019s Theme",
+      "url": "https://open.spotify.com/track/0rUBl0Fu9Dkzv7taNrFTqa"
+    },
+    {
+      "album": {
         "name": "Under The Skin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6we3dlKJ8GPvKLwe9ysyC8"
       },
@@ -343,10 +361,46 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 233973,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/06lV8j761EK8DtGi0m6bmJ"
+    },
+    {
+      "album": {
+        "name": "Night Sky (Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62"
+      },
+      "artists": [
+        {
+          "name": "Danny Bensi and Saunder Jurriaans",
+          "url": "https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73258,
+      "name": "Make History",
+      "url": "https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
     },
     {
       "album": {
@@ -433,10 +487,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 265693,
       "name": "Prophecy Theme",
       "url": "https://open.spotify.com/track/63XWBP50fCjsP52MLnIpKm"
+    },
+    {
+      "album": {
+        "name": "Paul's Dream (Dune: Music from the Soundtrack)",
+        "url": "https://open.spotify.com/album/5NPENYJdwcFMwMBlwyfw32"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314786,
+      "name": "Ripples in the Sand",
+      "url": "https://open.spotify.com/track/6YuwwEkKJAbFm4QlBT4Xas"
     },
     {
       "album": {
@@ -539,6 +611,24 @@
       "duration_ms": 284834,
       "name": "Sunshine (Adagio in D Minor)",
       "url": "https://open.spotify.com/track/50ExtKr8j9cHTY3OEw282G"
+    },
+    {
+      "album": {
+        "name": "The Adam Project",
+        "url": "https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295760,
+      "name": "The Adam Project",
+      "url": "https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe"
     },
     {
       "album": {
@@ -685,7 +775,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268226,
-      "name": "The Thing - The Thing - From \u201cThe Thing\u201d",
+      "name": "The Thing - From \"The Thing\"",
       "url": "https://open.spotify.com/track/3prpCQntkUBMO4AYhHlGZr"
     },
     {
@@ -723,14 +813,14 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 752720,
       "name": "The Visitors / Bye / End Titles: The Special Edition",
       "url": "https://open.spotify.com/track/2AXPdHyeJFqEh8OyR2JImr"
     },
     {
       "album": {
-        "name": "Inception (Music From The Motion Picture)",
+        "name": "Inception (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
       },
       "artists": [

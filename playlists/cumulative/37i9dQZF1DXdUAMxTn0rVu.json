@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": "2022-07-17",
       "duration_ms": 256160,
       "name": "1999 - Street",
       "url": "https://open.spotify.com/track/1379SGBOnPB6yNc3sj1Dj6"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": "2022-06-30",
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -146,6 +146,32 @@
     },
     {
       "album": {
+        "name": "Home Field Advantage",
+        "url": "https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF"
+      },
+      "artists": [
+        {
+          "name": "The High & Mighty",
+          "url": "https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj"
+        },
+        {
+          "name": "Mad Skillz",
+          "url": "https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 234760,
+      "name": "B-Boy Document '99",
+      "url": "https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN"
+    },
+    {
+      "album": {
         "name": "Murs 3:16: The 9th Edition",
         "url": "https://open.spotify.com/album/73P9PjA8US77r5NoAr9Qul"
       },
@@ -175,7 +201,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 191720,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/5AD44maUoBRU4UHdD25wGF"
@@ -259,7 +285,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 281592,
       "name": "Bonafide (feat. Jay-Z) - Bonus Track",
       "url": "https://open.spotify.com/track/07oV92wFjUOLFeKzjtUQ2I"
@@ -277,7 +303,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 236413,
       "name": "Boom",
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
@@ -313,7 +339,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 243330,
       "name": "Bumpy Knuckles Baby",
       "url": "https://open.spotify.com/track/5PU1UsxI8wuLsXWMt3t7Fy"
@@ -335,7 +361,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 275160,
       "name": "Cake",
       "url": "https://open.spotify.com/track/03iOfageXwoI9jGY4Q6LGw"
@@ -407,7 +433,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
@@ -497,7 +523,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 267080,
       "name": "Don't Nobody Care About Us",
       "url": "https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY"
@@ -555,10 +581,44 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 313106,
       "name": "Due Process",
       "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
+    },
+    {
+      "album": {
+        "name": "The Platform",
+        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        },
+        {
+          "name": "DEFARI",
+          "url": "https://open.spotify.com/artist/0OKCuosIAUo21nLAI2WMRB"
+        },
+        {
+          "name": "Phil Da Agony",
+          "url": "https://open.spotify.com/artist/2lyAOf6NTpZBKZV7sdB9LW"
+        },
+        {
+          "name": "Planet Asia",
+          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
+        },
+        {
+          "name": "White E. Ford",
+          "url": "https://open.spotify.com/artist/5fG5FehlqfYR2ympdwyP0w"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 304973,
+      "name": "Ear Drums Pop - Remix",
+      "url": "https://open.spotify.com/track/310EKBuhAZEPsfGTv3mFe1"
     },
     {
       "album": {
@@ -601,7 +661,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 278226,
       "name": "Estragen",
       "url": "https://open.spotify.com/track/19z4jhkupcoFUrb89nqTus"
@@ -659,7 +719,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": "2022-07-19",
       "duration_ms": 237230,
       "name": "For the Kids",
       "url": "https://open.spotify.com/track/6HtDVEavCO8VTOPoJM7pJX"
@@ -677,7 +737,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
@@ -757,7 +817,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -782,6 +842,24 @@
     },
     {
       "album": {
+        "name": "The Bootleg of the Bootleg (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh"
+      },
+      "artists": [
+        {
+          "name": "Jean Grae",
+          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 313666,
+      "name": "Hater's Anthem",
+      "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
+    },
+    {
+      "album": {
         "name": "The Grind Date",
         "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
@@ -801,6 +879,24 @@
       "duration_ms": 224426,
       "name": "He Comes (feat. Ghostface)",
       "url": "https://open.spotify.com/track/4l6SxtkpHebFGpKH2xPnAU"
+    },
+    {
+      "album": {
+        "name": "Time Waits For No Man",
+        "url": "https://open.spotify.com/album/2TlXbfIjSLPBvhs6jUmhJW"
+      },
+      "artists": [
+        {
+          "name": "Rasco",
+          "url": "https://open.spotify.com/artist/3W9SDpMLYOSVYn5zIqr90j"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Hip Hop Essentials",
+      "url": "https://open.spotify.com/track/4gBwvgP9zhEv6S0QkIsreH"
     },
     {
       "album": {
@@ -851,7 +947,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": "2022-06-25",
       "duration_ms": 200066,
       "name": "I Love You (Bitch)",
       "url": "https://open.spotify.com/track/30Fn7SCjCEqG0hZTOyQb52"
@@ -873,6 +969,28 @@
       "duration_ms": 259708,
       "name": "I See Now",
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
+    },
+    {
+      "album": {
+        "name": "The Future Is Now",
+        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
+      },
+      "artists": [
+        {
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
+        {
+          "name": "ILL Bill",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 29048,
+      "name": "If You Got Love",
+      "url": "https://open.spotify.com/track/3lUFS9JWltJckovUrFbZqA"
     },
     {
       "album": {
@@ -953,7 +1071,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-17",
       "duration_ms": 242573,
       "name": "Just Don't Give A Fuck",
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
@@ -971,7 +1089,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-05",
       "duration_ms": 198800,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ"
@@ -989,7 +1107,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 169106,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
@@ -1043,7 +1161,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": "2022-06-25",
       "duration_ms": 246935,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/1JIbic6YKL5botFoobqbEs"
@@ -1103,7 +1221,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": "2022-06-25",
       "duration_ms": 224823,
       "name": "Lyrical Fluctuation 2000 - Spinna Mix",
       "url": "https://open.spotify.com/track/77nhlIoaNT2fAbBBZq1JpP"
@@ -1199,7 +1317,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 226560,
       "name": "Neva Forget",
       "url": "https://open.spotify.com/track/1Zonfgke599Z9UMCVK6peB"
@@ -1217,7 +1335,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": "2022-07-04",
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
@@ -1367,7 +1485,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 290173,
       "name": "Right the Wrongs",
       "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
@@ -1411,7 +1529,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 239973,
       "name": "Rock Stars",
       "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
@@ -1429,7 +1547,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 345120,
       "name": "Secret Wars I",
       "url": "https://open.spotify.com/track/3fzyAit0yOzLBedkR6gLB3"
@@ -1473,7 +1591,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 251826,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/6VpypBnMQyP8iH2hAXaAHX"
@@ -1513,7 +1631,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 259320,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/2CDnjjOWh18YG3LXsgvSLG"
@@ -1531,7 +1649,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-18",
       "duration_ms": 286879,
       "name": "So Damn Down",
       "url": "https://open.spotify.com/track/3z9t8kTMBnb1Ibgii8BUKP"
@@ -1586,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Apocalypse",
+          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 307133,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
+    },
+    {
+      "album": {
         "name": "Ruff Draft",
         "url": "https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm"
       },
@@ -1615,7 +1755,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 228626,
       "name": "The Life",
       "url": "https://open.spotify.com/track/7m8953z6jic9AxnJqGF4AK"
@@ -1725,7 +1865,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 269319,
       "name": "Thelonious",
       "url": "https://open.spotify.com/track/5Swsw4ceP3CJeXsTV9t3Pv"
@@ -1747,7 +1887,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-19",
       "duration_ms": 241422,
       "name": "They Forced My Hand",
       "url": "https://open.spotify.com/track/7gaZzopbjGHF2GyWSYdymx"
@@ -1777,7 +1917,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
@@ -1819,8 +1959,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 318573,
-      "name": "Travellin' Man - Remastered",
+      "name": "Travellin' Man (Remastered)",
       "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
+    },
+    {
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/13O12KqGuOuDzTnQgoDdBq"
+      },
+      "artists": [
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 308573,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/2Y12QeVNn7Gx894J9Pt29w"
     },
     {
       "album": {
@@ -1860,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Rawkus Records - Best of Decade I 1995-2005 (Explicit Version)",
+        "url": "https://open.spotify.com/album/3Uk9Cu2QdEwM1BHacXYp9W"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 264240,
+      "name": "Universal Magnetic - (best of decade I version)",
+      "url": "https://open.spotify.com/track/1gdEHaKsgRqCHpYrip8QhV"
+    },
+    {
+      "album": {
         "name": "Krumbsnatcha Classics",
         "url": "https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx"
       },
@@ -1893,7 +2069,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 236040,
       "name": "War",
       "url": "https://open.spotify.com/track/3VA6w5mesmwXiGgZFHGjrY"
@@ -1911,7 +2087,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 234013,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/7htuNpZWosnto4wXMkKYZk"
@@ -1937,7 +2113,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-10",
       "duration_ms": 240426,
       "name": "Western Ways, Pt. 2 (La Seleccion)",
       "url": "https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi"
@@ -1955,7 +2131,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-11",
       "duration_ms": 229333,
       "name": "What They Call Me",
       "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"
@@ -1973,7 +2149,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 165693,
       "name": "Whenimondamic",
       "url": "https://open.spotify.com/track/5v9isbe4BHsWc9N25MmWfj"
@@ -1991,7 +2167,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 239413,
       "name": "Whirlwind Thru Cities",
       "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
@@ -2027,7 +2203,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 177120,
       "name": "Workinonit",
       "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
@@ -2045,7 +2221,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "Workinonit",
       "url": "https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG"
@@ -2063,7 +2239,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"

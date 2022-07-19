@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Echo Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Cleaning So Clean",
+      "url": "https://open.spotify.com/track/7AIAzWtSyzlCFImgYigdsr"
+    },
+    {
+      "album": {
         "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
         "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
       },

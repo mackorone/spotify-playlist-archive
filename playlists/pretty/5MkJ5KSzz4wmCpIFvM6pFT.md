@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5MkJ5KSzz4wmCpIFvM6pFT.md) - [plain]
 
 > Missa inte Johnossi på Flamingo\-scenen på TORSDAG / 18.45
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 10 songs - 41 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 10 songs - 41 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

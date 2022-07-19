@@ -4,7 +4,7 @@
 
 > Classic blues for a blue summer day.
 
-50 songs - 3 hr 2 min - not published yet
+50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/7xFVJioAl5jsYyYHXGnsSy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -27,7 +27,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-15",
       "duration_ms": 171000,
       "name": "22",
       "url": "https://open.spotify.com/track/2Tqx4GFD1TfbOwBHZgltwM"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 206379,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-11",
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 199506,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 229955,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/35OtIIqxDHdw3GGAfSbe9b"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/47NXoEc8bJd8OISRir1JLW"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 241960,
       "name": "Soy Jose",
       "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 203187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
@@ -943,10 +943,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 248944,
       "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
       "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 283317,
+      "name": "TRAPCHATA",
+      "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
     },
     {
       "album": {
@@ -969,7 +987,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 228101,
       "name": "Yo Te Prometo - Remix",
       "url": "https://open.spotify.com/track/3dO8ScvlHx9OnnICsFCFHN"

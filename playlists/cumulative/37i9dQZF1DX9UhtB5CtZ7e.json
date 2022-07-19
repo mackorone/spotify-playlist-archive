@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 208533,
       "name": "At the Hotel",
       "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
@@ -103,20 +103,38 @@
       },
       "artists": [
         {
-          "name": "Joe Emerson",
-          "url": "https://open.spotify.com/artist/6mOaeh2qYFfUhiZmpCZ1SG"
-        },
-        {
-          "name": "Donnie Emerson",
-          "url": "https://open.spotify.com/artist/1tl2qa7kefHTrJCUA6360r"
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
         }
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 251133,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3DoMSMhFxZex9Wk8aLcZUt"
+    },
+    {
+      "album": {
+        "name": "Begin (feat. Wales)",
+        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Wales",
+          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 242859,
+      "name": "Begin (feat. Wales)",
+      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
     },
     {
       "album": {
@@ -131,7 +149,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 200440,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 233097,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-15",
       "duration_ms": 305776,
       "name": "Cheer up, My Brother",
       "url": "https://open.spotify.com/track/31zYh8oGKMrGbQV3nnoes3"
@@ -225,6 +243,24 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "album": {
+        "name": "Eat, Sleep, Repeat",
+        "url": "https://open.spotify.com/album/6j8bkEn6mrw9ufvyHB797c"
+      },
+      "artists": [
+        {
+          "name": "Copeland",
+          "url": "https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 229560,
+      "name": "Control Freak",
+      "url": "https://open.spotify.com/track/4PVpvUWgviaM3AK0dti9jI"
     },
     {
       "album": {
@@ -297,7 +333,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 459506,
       "name": "Desire Lines",
       "url": "https://open.spotify.com/track/63JP68VirmCXtWRoMTX8Xi"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
@@ -351,7 +387,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-06-03",
       "duration_ms": 194426,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
@@ -405,7 +441,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-06-25",
       "duration_ms": 130427,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
@@ -456,6 +492,42 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 242035,
+      "name": "February 3rd",
+      "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
+    },
+    {
+      "album": {
+        "name": "February 3rd",
+        "url": "https://open.spotify.com/album/48r3lQUlV3mE0adcuG4Qoa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 242035,
+      "name": "February 3rd",
+      "url": "https://open.spotify.com/track/5OA7eJqztQr6G6Xzo6eu55"
+    },
+    {
+      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
       },
@@ -467,7 +539,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-05-30",
       "duration_ms": 188800,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
@@ -485,7 +557,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-31",
       "duration_ms": 242226,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU"
@@ -510,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Range of Light",
+        "url": "https://open.spotify.com/album/1X9wbIUBJBlghKjfQ6J5qQ"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 240546,
+      "name": "Glass / Film",
+      "url": "https://open.spotify.com/track/69cfUHh7euaWxqom2MVM29"
+    },
+    {
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
       },
@@ -521,10 +611,68 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-05-15",
       "duration_ms": 214853,
       "name": "Green Lights",
       "url": "https://open.spotify.com/track/1y16qMm3FofXQICk50Y7Gc"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1hryVGXoRLV9WAhO97xEDJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 225920,
+      "name": "Have You Been Making out Ok",
+      "url": "https://open.spotify.com/track/1E3bdX10Souaxsmgnf50Oq"
+    },
+    {
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/4EhEkDClVOByI6FzYxfvlc"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Jenifer Lewis",
+          "url": "https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 216066,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/6lvjwK4i5Y9fVRielMpHJf"
+    },
+    {
+      "album": {
+        "name": "Submarine - Original Songs From The Film By Alex Turner",
+        "url": "https://open.spotify.com/album/2nrjrRYf2ANHE3jsUrs0gJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Turner",
+          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 186720,
+      "name": "Hiding tonight",
+      "url": "https://open.spotify.com/track/0x47zt71IYykbt1ET933pJ"
     },
     {
       "album": {
@@ -575,7 +723,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 144929,
       "name": "Homesick Remedy",
       "url": "https://open.spotify.com/track/2Sn2XxPVmOgoZbdxckimxP"
@@ -593,7 +741,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 168480,
       "name": "Honest",
       "url": "https://open.spotify.com/track/48adozpGXvUuNFFLur3Mq6"
@@ -647,7 +795,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
@@ -683,7 +831,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 214733,
       "name": "I Wish I Was the Moon",
       "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
@@ -737,7 +885,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 230066,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
@@ -798,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Livid",
+        "url": "https://open.spotify.com/album/5zHegmAbozAiELXCK25AUb"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 269354,
+      "name": "Livid",
+      "url": "https://open.spotify.com/track/599PccF9Zi8Mvc39ZLdhqr"
+    },
+    {
+      "album": {
         "name": "HEAVN",
         "url": "https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb"
       },
@@ -813,10 +979,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 205595,
       "name": "Lonely (feat. Lorine Chia)",
       "url": "https://open.spotify.com/track/31c86U35gJEV813lIaQzZe"
+    },
+    {
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
     },
     {
       "album": {
@@ -871,7 +1055,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
@@ -907,10 +1091,32 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-29",
       "duration_ms": 219333,
       "name": "Missing Home",
       "url": "https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS"
+    },
+    {
+      "album": {
+        "name": "The Gentle Side Of John Coltrane",
+        "url": "https://open.spotify.com/album/0hc0DLxQyod6p5UdCjNOJS"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-31",
+      "duration_ms": 296666,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/1BPmVDqR4cX9aFC0Qx0eWn"
     },
     {
       "album": {
@@ -943,7 +1149,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 197182,
       "name": "Naked - Bonus Track",
       "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
@@ -997,7 +1203,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 158146,
       "name": "OKAY OKAY",
       "url": "https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ"
@@ -1033,7 +1239,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -1051,7 +1257,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
@@ -1171,7 +1377,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-04",
       "duration_ms": 438906,
       "name": "Spooky Couch",
       "url": "https://open.spotify.com/track/1wRCg1JyRmbJEg9ESOMlVp"
@@ -1207,7 +1413,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 249666,
       "name": "Strawberry Swing",
       "url": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"
@@ -1225,7 +1431,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 224680,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
@@ -1304,6 +1510,28 @@
     },
     {
       "album": {
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+    },
+    {
+      "album": {
         "name": "Two Punks In Love",
         "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
       },
@@ -1315,7 +1543,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-05-29",
       "duration_ms": 195346,
       "name": "Two Punks In Love",
       "url": "https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK"
@@ -1333,10 +1561,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 261594,
       "name": "Warm on a Cold Night",
       "url": "https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "album": {

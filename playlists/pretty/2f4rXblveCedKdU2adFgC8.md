@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f4rXblveCedKdU2adFgC8.md) - [plain]
 
 > Live large, run hard\. Score your workout with some epic action movie soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/2f4rXblveCedKdU2adFgC8.md) - [plain]
 | 5 | [Assets And Targets](https://open.spotify.com/track/5VEgpGJlMJIRR2sxRmsFvG) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [The Bourne Ultimatum](https://open.spotify.com/album/53brXw3bzCrMr8chGbbW2V) | 7:18 |
 | 6 | [Now You See Me \(Robert DeLong Remix\)](https://open.spotify.com/track/1iVdyNerHWfu89CKN6DX9K) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Now You See Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ebhoqWPxOB1bHKYjiouEX) | 3:40 |
 | 7 | [To Glory](https://open.spotify.com/track/4qxQreMZwLWqfrD9e2dZoz) | [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Invincible](https://open.spotify.com/album/0zOdkaCbYN1B42zw8TUYlY) | 4:35 |
-| 8 | [The Day We Fight Back](https://open.spotify.com/track/6UuWNI1giJdOfUM2j8fEwI) | [David Arnold](https://open.spotify.com/artist/6xpxzGS2J2tijVVWp2RY0j), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Independence Day](https://open.spotify.com/album/0OOwpWVLZPD4Sj2xS8cXBb) | 4:58 |
+| 8 | [The Day We Fight Back](https://open.spotify.com/track/6UuWNI1giJdOfUM2j8fEwI) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Independence Day](https://open.spotify.com/album/0OOwpWVLZPD4Sj2xS8cXBb) | 4:58 |
 | 9 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/2KNmDKL0Ngf5wd7iB25cap) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0uTUceT9cduDWIsAwK2sCA) | 4:55 |
 | 10 | [Superman Returns \- Main Titles](https://open.spotify.com/track/1DEyNBgRKrfw8x3eLxlyQa) | [John Ottman](https://open.spotify.com/artist/6uhyakkTnWoxbEKn9pIc6V) | [Superman Returns Music From The Motion Picture \[Digital Version\]](https://open.spotify.com/album/33Lcyo4XyurjgzdfDIC3kh) | 3:47 |
 | 11 | [Janissary Attack](https://open.spotify.com/track/0aceVBNkZAVSbCQBdgEqIA) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Dracula Untold \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L51HAjtTIWAiuNV2oIkew) | 2:17 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/2f4rXblveCedKdU2adFgC8.md) - [plain]
 | 32 | [Live Free Or Die Hard](https://open.spotify.com/track/2qOdGFw1P2KGkEbpxg0X5o) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [Live Free Or Die Hard \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IjRGizzJBfWGBnFs4BaO9) | 2:56 |
 | 33 | [Escape From Embassy](https://open.spotify.com/track/1UZrL7pwj2LvFrHl3MEzcA) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Bourne Identity](https://open.spotify.com/album/7CHdyKpyQwxRVARnA523yC) | 3:13 |
 | 34 | [Man Versus Man](https://open.spotify.com/track/2mjAy2WGCmj3pna4m4exJg) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [The Bourne Ultimatum](https://open.spotify.com/album/53brXw3bzCrMr8chGbbW2V) | 5:45 |
-| 35 | [The Name's Bond..\. James Bond](https://open.spotify.com/track/52cYivJcryreRplexrYTlC) | [David Arnold](https://open.spotify.com/artist/6xpxzGS2J2tijVVWp2RY0j) | [Casino Royale](https://open.spotify.com/album/4GWyNknKDbVB8Lg1IiTy5k) | 2:49 |
+| 35 | [The Name's Bond..\. James Bond](https://open.spotify.com/track/52cYivJcryreRplexrYTlC) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale](https://open.spotify.com/album/4GWyNknKDbVB8Lg1IiTy5k) | 2:49 |
 | 36 | [Thor Kills the Destroyer](https://open.spotify.com/track/3t02S89P6VOr3RMxWQxT7Y) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Thor](https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw) | 1:53 |
 | 37 | [Logan's Run](https://open.spotify.com/track/41W6E2bUxrHScvToRwt4Ux) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Pete Anthony](https://open.spotify.com/artist/5KKEMrGvNos1TXpuGz9Rbr) | [The Wolverine](https://open.spotify.com/album/2wrlDHUaJOIgfOJMcYyW2w) | 3:56 |
 | 38 | [Whitehall](https://open.spotify.com/track/78szAXPJ2jiVCUkoftuHc5) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Edge of Tomorrow: Original Motion Picture Soundtrack](https://open.spotify.com/album/20SdPbdkGcwlYdagZysRr2) | 2:09 |

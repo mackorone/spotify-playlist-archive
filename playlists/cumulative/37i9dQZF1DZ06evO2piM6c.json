@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-08",
       "duration_ms": 244706,
       "name": "Every Word",
       "url": "https://open.spotify.com/track/2044AELKGaOBQJ5ZqTbJMO"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 229413,
       "name": "Flower of the Universe (From Disney's \"A Wrinkle in Time\")",
       "url": "https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-08",
       "duration_ms": 181240,
       "name": "Long Hard Road",
       "url": "https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P"
@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 260066,
+      "name": "Maureen",
+      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
+    },
+    {
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -581,6 +599,24 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r"
     },
     {
       "album": {
@@ -667,10 +703,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 220826,
       "name": "Please Send Me Someone to Love",
       "url": "https://open.spotify.com/track/7pm8e1QG0XJDZ2nJZTeDBw"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 315973,
+      "name": "Siempre Hay Esperanza",
+      "url": "https://open.spotify.com/track/0QK7KQ2tKZzqZURTFo2Xru"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 252466,
       "name": "Slave Song",
       "url": "https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3"

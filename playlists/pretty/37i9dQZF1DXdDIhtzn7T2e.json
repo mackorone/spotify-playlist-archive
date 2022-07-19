@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 67898,
+  "num_followers": 71883,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQ4NzI4MSwwMDAwMDAwYzAwMDAwMTgwNDhiNTQ3ZmUwMDAwMDE3ZmIzNTBlMmVk",
+  "snapshot_id": "MTY1NzI1MjgwMCwwMDAwMDAwZjAwMDAwMTgxZGJmNmU3MTIwMDAwMDE3ZmIzNTBlMmVk",
   "tracks": [
     {
       "added_at": "2022-04-20 20:41:21",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
     },
     {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Tulip Drive",
+        "url": "https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk"
+    },
+    {
       "added_at": "2022-04-20 20:41:21",
       "album": {
         "name": "Up and Rolling",
@@ -455,6 +471,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2022-05-20 04:38:27",
+      "album": {
+        "name": "The Cannabis Cowboy",
+        "url": "https://open.spotify.com/album/550hySPdjcyx1HSsdIrI4F"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "duration_ms": 219423,
+      "name": "The Cannabis Cowboy",
+      "url": "https://open.spotify.com/track/1mJyMvJoHJGiNs7NCxpd7l"
     },
     {
       "added_at": "2022-04-20 20:41:21",
@@ -831,22 +863,6 @@
     {
       "added_at": "2022-04-20 20:41:21",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 348413,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99"
-    },
-    {
-      "added_at": "2022-04-20 20:41:21",
-      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -905,6 +921,22 @@
       "url": "https://open.spotify.com/track/4ruDnMiMxH6VMKUqN77wsX"
     },
     {
+      "added_at": "2022-07-08 04:00:00",
+      "album": {
+        "name": "Doobie Like U Do",
+        "url": "https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "duration_ms": 227122,
+      "name": "Doobie Like U Do",
+      "url": "https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo"
+    },
+    {
       "added_at": "2022-04-20 20:41:21",
       "album": {
         "name": "Heroes",
@@ -955,6 +987,22 @@
       "duration_ms": 232693,
       "name": "Wasted and Rollin'",
       "url": "https://open.spotify.com/track/5dpvpHFvkiwUl4aVQ5WKPn"
+    },
+    {
+      "added_at": "2022-04-20 20:41:21",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 348413,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99"
     },
     {
       "added_at": "2022-04-20 20:41:21",

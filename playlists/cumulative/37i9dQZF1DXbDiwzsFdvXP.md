@@ -4,7 +4,7 @@
 
 > Explore food culture through a Black lens\. Updates once a month.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/5QvlhWqVJnFJOXXtPl4PVr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Acu\u00e9rdate de estas canciones cl\u00e1sicas. Foto: Zion & Lennox.",
+  "description": "Acu\u00e9rdate de estas canciones cl\u00e1sicas. Foto: Plan B.",
   "name": "Reggaet\u00f3n Viejito",
   "published_playlist_ids": [
     "5SgU8PR0wDw30k07Az00VU"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "301",
+        "url": "https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 169333,
+      "name": "301",
+      "url": "https://open.spotify.com/track/5GJBSWrbSZRj0M9yi0nDdS"
+    },
     {
       "album": {
         "name": "Sobrenatural",
@@ -146,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Luny Tunes Presents ERRE XI",
+        "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
+      },
+      "artists": [
+        {
+          "name": "Erre XI",
+          "url": "https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 188546,
+      "name": "Al Desnudo",
+      "url": "https://open.spotify.com/track/38Mzy2BNRAAHQ1kzMdoyGw"
+    },
+    {
+      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -183,7 +223,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 209452,
       "name": "Algo Musical",
       "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
@@ -209,10 +249,50 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-05-13",
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "album": {
+        "name": "Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/5DMTLrpmTZO8GLDZ5Je1yT"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-13",
+      "duration_ms": 131773,
+      "name": "Amor Con La Ropa",
+      "url": "https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo"
+    },
+    {
+      "album": {
+        "name": "The Final Countdown",
+        "url": "https://open.spotify.com/album/5KVIpC7VeaGbEnIbf1HYaT"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235755,
+      "name": "Amor De Pobre",
+      "url": "https://open.spotify.com/track/1rToNAo7kZtG04m8v7KHlf"
     },
     {
       "album": {
@@ -227,7 +307,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 248986,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/0bwYBDMo3fD6OsNczAv9tm"
@@ -336,7 +416,7 @@
     },
     {
       "album": {
-        "name": "\u00d1ejo & Dalmata (Special Edition) - EP",
+        "name": "\u00d1ejo & Dalmata (Special Edition)",
         "url": "https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo"
       },
       "artists": [
@@ -351,7 +431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 219480,
       "name": "Automovil",
       "url": "https://open.spotify.com/track/2qq5HTgeJTLL9oY7b4X16y"
@@ -420,6 +500,24 @@
     },
     {
       "album": {
+        "name": "2007 A\u00f1os De Exitos Reggaeton",
+        "url": "https://open.spotify.com/album/26zyyIjsP6eCPV9H7urkVq"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/491iDJVvDHYffvfKUIMWhC"
+    },
+    {
+      "album": {
         "name": "Bailando Fue",
         "url": "https://open.spotify.com/album/4YB6pWN3gdxtfM3ZZt6AOh"
       },
@@ -465,10 +563,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-07-07",
       "duration_ms": 142867,
       "name": "Bailando Provocas",
       "url": "https://open.spotify.com/track/3IaMJw9SJ1VxI1pjUQUtWB"
+    },
+    {
+      "album": {
+        "name": "Playero 41: Past Present & Future Part 1",
+        "url": "https://open.spotify.com/album/3flZYLVafxIZDaEiAdZ6y8"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 173026,
+      "name": "Bailando Quiero Verlas",
+      "url": "https://open.spotify.com/track/7L70JFP6AVHi4DJKP1gH1p"
+    },
+    {
+      "album": {
+        "name": "Sangre Nueva",
+        "url": "https://open.spotify.com/album/37FWTNHuhgyX2cduoJgOPs"
+      },
+      "artists": [
+        {
+          "name": "Kartier",
+          "url": "https://open.spotify.com/artist/460De0zEBZIHd67TZBJkNa"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 213226,
+      "name": "Bailando Sola",
+      "url": "https://open.spotify.com/track/6kAfAYGGj0xcsA2sHuY9jE"
     },
     {
       "album": {
@@ -505,7 +639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 305280,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
@@ -585,7 +719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-07",
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
@@ -603,10 +737,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-06",
       "duration_ms": 191146,
       "name": "Caile",
       "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
+    },
+    {
+      "album": {
+        "name": "Cantinero",
+        "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 221074,
+      "name": "Cantinero",
+      "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
+    },
+    {
+      "album": {
+        "name": "Chica 10",
+        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229015,
+      "name": "Chica 10",
+      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
     },
     {
       "album": {
@@ -643,7 +813,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
@@ -683,10 +853,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-24",
       "duration_ms": 183947,
       "name": "Cojela Que Va Sin Jockey",
       "url": "https://open.spotify.com/track/3z3xLDfgUtO1wL6lt3Omk3"
+    },
+    {
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221768,
+      "name": "Como Yo Le Doy",
+      "url": "https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj"
     },
     {
       "album": {
@@ -727,7 +915,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
@@ -763,7 +951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 349354,
       "name": "C\u00f3jela Que Va Sin Jockey / Aqu\u00ed Est\u00e1 T\u00fa Caldo / M\u00edrame - Live",
       "url": "https://open.spotify.com/track/6qREJ7GPWPd0QQARgNyL98"
@@ -900,7 +1088,7 @@
     },
     {
       "album": {
-        "name": "\u00d1ejo & Dalmata (Special Edition) - EP",
+        "name": "\u00d1ejo & Dalmata (Special Edition)",
         "url": "https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo"
       },
       "artists": [
@@ -951,7 +1139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-10",
       "duration_ms": 219010,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
@@ -1275,7 +1463,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": "2022-05-13",
       "duration_ms": 169457,
       "name": "En La Disco Bailoteo",
       "url": "https://open.spotify.com/track/5JrcvfOt5mDZvrsrLtHazX"
@@ -1315,10 +1503,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 233840,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
+    },
+    {
+      "album": {
+        "name": "Big Yamo o Nada",
+        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
+      },
+      "artists": [
+        {
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Vato 18k",
+          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Entre la Playa Ella y Yo",
+      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
     },
     {
       "album": {
@@ -1351,7 +1561,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": "2022-05-05",
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
@@ -1395,7 +1605,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 292120,
       "name": "Es Mejor Olvidarlo",
       "url": "https://open.spotify.com/track/5ZEh7PjppT52nuO7HA9eDI"
@@ -1471,7 +1681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
@@ -1642,6 +1852,46 @@
     },
     {
       "album": {
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212986,
+      "name": "Gangsta Zone",
+      "url": "https://open.spotify.com/track/3h99fBGkTn3J2NsrYU8rcO"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "album": {
         "name": "Rompiendo El Hielo",
         "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
       },
@@ -1701,7 +1951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-19",
       "duration_ms": 219106,
       "name": "Gata Gangster",
       "url": "https://open.spotify.com/track/0vpEg6cBXfG0PZXRSKZ4bE"
@@ -1719,7 +1969,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 234733,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
@@ -1755,7 +2005,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 163056,
       "name": "Guatauba - Remastered",
       "url": "https://open.spotify.com/track/7EgzelA4pKViZdaWfY7Zjf"
@@ -1975,7 +2225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 240000,
       "name": "La Fuga",
       "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
@@ -2109,7 +2359,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": "2022-07-02",
       "duration_ms": 151875,
       "name": "Latigazo",
       "url": "https://open.spotify.com/track/25cPUTGr9amjoO7cNrYFT0"
@@ -2131,7 +2381,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-04",
       "duration_ms": 219133,
       "name": "Let's Go To My Crib",
       "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
@@ -2196,6 +2446,28 @@
     },
     {
       "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281813,
+      "name": "Lo Grande Que Es Perdonar",
+      "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
+    },
+    {
+      "album": {
         "name": "2K20, Pt. 1 (Live)",
         "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
       },
@@ -2207,7 +2479,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 209934,
       "name": "Lo Que Pas\u00f3 Pas\u00f3 - Live",
       "url": "https://open.spotify.com/track/1XMflaah8kpeECqmqGwfe1"
@@ -2326,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Megahitz Volumen Uno",
+        "url": "https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 262407,
+      "name": "Maniatica",
+      "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
+    },
+    {
+      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -2353,7 +2643,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
@@ -2495,7 +2785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 245080,
       "name": "Me Niegas - Remix",
       "url": "https://open.spotify.com/track/6ON9AeWrNPTajo68rtgz8D"
@@ -2549,7 +2839,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-01",
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
@@ -2629,7 +2919,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-06-02",
       "duration_ms": 229694,
       "name": "Mi Gatita y Yo",
       "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
@@ -2651,10 +2941,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 259449,
       "name": "Mis Canciones Hablan de Sexo",
       "url": "https://open.spotify.com/track/2jStpYzz9JMcaKZwSWQoun"
+    },
+    {
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "album": {
@@ -2664,7 +2976,7 @@
       "artists": [
         {
           "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         },
         {
           "name": "Jory Boy",
@@ -2787,7 +3099,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 244662,
       "name": "Nada Va Pasar",
       "url": "https://open.spotify.com/track/1FTTvjvgX2Qd9ZJqo36m1C"
@@ -2848,7 +3160,7 @@
         },
         {
           "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         },
         {
           "name": "Arcangel",
@@ -2883,6 +3195,28 @@
       "duration_ms": 208274,
       "name": "Nena Fichu",
       "url": "https://open.spotify.com/track/2mIhnz6uEyGqXDaYUtr87x"
+    },
+    {
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/2kpv8aDirgn8AWvs9txgBo"
+      },
+      "artists": [
+        {
+          "name": "Rayo & Toby",
+          "url": "https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 194586,
+      "name": "Ninf\u00f3mana",
+      "url": "https://open.spotify.com/track/3aScXwESHmWZH8aQys64zv"
     },
     {
       "album": {
@@ -2985,7 +3319,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 208999,
       "name": "No Se Como Se LLama",
       "url": "https://open.spotify.com/track/18D5YCbcyUdGZHDuopbFcA"
@@ -3021,7 +3355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 213185,
       "name": "No Se Si Fue",
       "url": "https://open.spotify.com/track/4kPatgCcFF7kVsdMUG21O8"
@@ -3223,7 +3557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-12",
       "duration_ms": 218409,
       "name": "Pa Bajarte el Calentamiento",
       "url": "https://open.spotify.com/track/1pWAxwbITR6lG3kuwyWrGf"
@@ -3317,7 +3651,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 282133,
       "name": "Pegaito a la Pared (feat. Plan B) - Remix",
       "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
@@ -3352,7 +3686,7 @@
         },
         {
           "name": "Demphra",
-          "url": "https://open.spotify.com/artist/3gZzl850v5xv1sHlzGuDWQ"
+          "url": "https://open.spotify.com/artist/6iWtjkkeqeuVyPlFTVXMxh"
         }
       ],
       "date_added": "2021-12-17",
@@ -3361,6 +3695,28 @@
       "duration_ms": 243026,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4JOcMuy5myeEaNCKlu5j19"
+    },
+    {
+      "album": {
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/5iiLFpwUmmDOjbulpAzica"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-16",
+      "duration_ms": 242480,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/0I0o9LdUckzfXcxjWy1vlo"
     },
     {
       "album": {
@@ -3682,6 +4038,24 @@
     },
     {
       "album": {
+        "name": "Clothes Drop",
+        "url": "https://open.spotify.com/album/6tcCbVccUMe4qhrp1BFcuw"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/6Yxwkhk5LW0uiurTMT7jLL"
+    },
+    {
+      "album": {
         "name": "2K20, Pt. 1 (Live)",
         "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
       },
@@ -3693,7 +4067,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-03",
       "duration_ms": 182621,
       "name": "Rompe - Live",
       "url": "https://open.spotify.com/track/55kYRn7VFOM5eZ6c4kkk4s"
@@ -3719,7 +4093,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-05",
       "duration_ms": 301133,
       "name": "Ronca",
       "url": "https://open.spotify.com/track/3XaFdB9TrrD6ZVKs61zltw"
@@ -3820,6 +4194,24 @@
     },
     {
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Salud y Vida",
+      "url": "https://open.spotify.com/track/5sC0youR92ljJRn6VatElb"
+    },
+    {
+      "album": {
         "name": "Rankiaera",
         "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
       },
@@ -3875,6 +4267,24 @@
       "duration_ms": 244813,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 218226,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY"
     },
     {
       "album": {
@@ -3980,6 +4390,24 @@
     },
     {
       "album": {
+        "name": "El Lider 1",
+        "url": "https://open.spotify.com/album/5bgEtqqua9CATuZnviakMG"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 206838,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/3yrxa5dhvaFO12T2wH2FKE"
+    },
+    {
+      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -4039,7 +4467,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 225453,
       "name": "Si la Ves (feat. Cruzito)",
       "url": "https://open.spotify.com/track/5tTfhWFI9lt6FE8Emp1U6x"
@@ -4083,7 +4511,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 238890,
       "name": "Si No Cuidas Tu Mujer",
       "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
@@ -4108,6 +4536,28 @@
     },
     {
       "album": {
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+      },
+      "artists": [
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Kartiel",
+          "url": "https://open.spotify.com/artist/3va7QuLvGN0JGzpgW8Arsg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213577,
+      "name": "Si Te Vas (feat. Kartiel)",
+      "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -4123,7 +4573,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-05-13",
       "duration_ms": 251600,
       "name": "Si te Vas - The Remix",
       "url": "https://open.spotify.com/track/4RSl0KvbJI4aDzV9bOKAtm"
@@ -4149,6 +4599,24 @@
       "duration_ms": 188733,
       "name": "Siente El Boom",
       "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+    },
+    {
+      "album": {
+        "name": "Sigue Bailando Amor",
+        "url": "https://open.spotify.com/album/2n1qutg8DjXjP1BbEXdeVB"
+      },
+      "artists": [
+        {
+          "name": "El Rockie",
+          "url": "https://open.spotify.com/artist/1SKXy5ppTwhVNobciJ844c"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Sigue Bailando Amor",
+      "url": "https://open.spotify.com/track/779XeyOdJTHIcPuyW4yrWc"
     },
     {
       "album": {
@@ -4203,6 +4671,42 @@
       "duration_ms": 173506,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+    },
+    {
+      "album": {
+        "name": "Pura Playa",
+        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218130,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
+    },
+    {
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 197032,
+      "name": "Solo Es Mejor",
+      "url": "https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C"
     },
     {
       "album": {
@@ -4269,7 +4773,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 293010,
       "name": "S\u00e1cala (feat. Don Omar, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/0UJDACz30ouV0IbVA7oiY0"
@@ -4294,6 +4798,28 @@
     },
     {
       "album": {
+        "name": "Te Gateo",
+        "url": "https://open.spotify.com/album/7Epmj1ZdSYg6Icj8sADKTv"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 239988,
+      "name": "Te Gateo",
+      "url": "https://open.spotify.com/track/4Olg2t4aeAGzC1Zo4C63SC"
+    },
+    {
+      "album": {
         "name": "Alex Gargolas Greatest Hits",
         "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
       },
@@ -4305,7 +4831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-05-10",
       "duration_ms": 186592,
       "name": "Te Hago El Amor",
       "url": "https://open.spotify.com/track/21NQMdXxiobkDmP6BdvPWy"
@@ -4341,7 +4867,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 202053,
       "name": "Te Imagino",
       "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
@@ -4384,6 +4910,28 @@
     },
     {
       "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
+    },
+    {
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
@@ -4413,7 +4961,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 238946,
       "name": "Te Regalo Amores",
       "url": "https://open.spotify.com/track/6MJBOJJ7UOANBN0id1cQgO"
@@ -4492,6 +5040,32 @@
     },
     {
       "album": {
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 260293,
+      "name": "Tengo Un Amor (feat. Rakim & Ken-Y) - Remix Version",
+      "url": "https://open.spotify.com/track/4mDWapOAzoFsHu8TPcP2R0"
+    },
+    {
+      "album": {
         "name": "Solo \u00c9xitos",
         "url": "https://open.spotify.com/album/1vyXWLs2GgT6lSv2TJP2oP"
       },
@@ -4514,6 +5088,24 @@
     },
     {
       "album": {
+        "name": "Perreo salvaje",
+        "url": "https://open.spotify.com/album/7JgzgwB5tY9EGA5wYg8f5v"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045"
+    },
+    {
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
       },
@@ -4525,7 +5117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-05-23",
       "duration_ms": 207786,
       "name": "Tra Tra Tra (Remix)",
       "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
@@ -4543,7 +5135,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 199933,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
@@ -4627,7 +5219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-06-23",
       "duration_ms": 215946,
       "name": "Tu Quieres Duro",
       "url": "https://open.spotify.com/track/0pv0URPkbZIU4Jyrq47vWc"
@@ -4645,7 +5237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-06-24",
       "duration_ms": 165133,
       "name": "Tuya Soy",
       "url": "https://open.spotify.com/track/61BqBI1qfCqN0Am0asCWmx"
@@ -4692,6 +5284,28 @@
     },
     {
       "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3DGMNR9O9QpuMhRaZlxAtN"
+      },
+      "artists": [
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294826,
+      "name": "Vaina Loca - Remix",
+      "url": "https://open.spotify.com/track/6dZyrKtOxPV8kXlln1ylk8"
+    },
+    {
+      "album": {
         "name": "Guillaera",
         "url": "https://open.spotify.com/album/6MmriVAm5hv6bVImoUWRpP"
       },
@@ -4703,7 +5317,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-10",
       "duration_ms": 168018,
       "name": "Vamos Pa' La Disco",
       "url": "https://open.spotify.com/track/5ui4NzxjntyFHYsB88PIT4"
@@ -4721,7 +5335,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 196053,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
@@ -4761,7 +5375,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": "2022-05-15",
       "duration_ms": 144186,
       "name": "Villana",
       "url": "https://open.spotify.com/track/53chAlZL168uo8eVAs2bdS"
@@ -4869,7 +5483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-15",
       "duration_ms": 169400,
       "name": "Wiki Wiki",
       "url": "https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO"
@@ -4891,7 +5505,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 226008,
       "name": "Ya lo Se",
       "url": "https://open.spotify.com/track/2EwquaMz0nVqQ3PrjK4fAe"
@@ -4984,7 +5598,7 @@
         },
         {
           "name": "Zion",
-          "url": "https://open.spotify.com/artist/4zPVVxxHRDSZ43lCr823IZ"
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
       "date_added": "2021-12-17",
@@ -5007,7 +5621,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-05-08",
       "duration_ms": 225348,
       "name": "Yo Voy A Llegar",
       "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
@@ -5029,6 +5643,24 @@
       "duration_ms": 304091,
       "name": "Zun Da Da",
       "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+    },
+    {
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190512,
+      "name": "\u00bfPor Que Te Demoras?",
+      "url": "https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm"

@@ -4,7 +4,7 @@
 
 > Get inspired by these stories and conversations around self\-improvement.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/5JUkv93VdyoFVJJLUuUhdA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

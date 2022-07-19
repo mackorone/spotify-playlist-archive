@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 135133,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
@@ -689,6 +689,24 @@
       "duration_ms": 185373,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/6i9dXbSk2vPtgciV9ZuRUv"
+    },
+    {
+      "album": {
+        "name": "MxPx",
+        "url": "https://open.spotify.com/album/3BzXDW6hEFVmHQWN7Hjozs"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 204307,
+      "name": "Let's Ride",
+      "url": "https://open.spotify.com/track/0fS39bIa0jM3NfywM5cb4h"
     },
     {
       "album": {
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-31",
       "duration_ms": 160893,
       "name": "My Girlfriend's Dead",
       "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-06-01",
       "duration_ms": 157533,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 185026,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-05",
       "duration_ms": 179600,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-16",
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Around Midnight",
+        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
+    },
+    {
+      "album": {
         "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
         "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
       },
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 127626,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
@@ -125,6 +143,24 @@
       "duration_ms": 193053,
       "name": "Baby, I Don't Cry Over You",
       "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
+    },
+    {
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308626,
+      "name": "Beware My Heart",
+      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
     },
     {
       "album": {
@@ -175,7 +211,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 155600,
       "name": "Blue And Sentimental - 1947 Version",
       "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
@@ -305,7 +341,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
@@ -323,7 +359,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 134173,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
@@ -385,6 +421,46 @@
       "duration_ms": 228360,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
+    },
+    {
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "album": {
@@ -469,7 +545,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 164296,
       "name": "Happy on My Own",
       "url": "https://open.spotify.com/track/7BozlERtVb0LkGt9Hzo0OM"
@@ -558,7 +634,7 @@
         },
         {
           "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp"
+          "url": "https://open.spotify.com/artist/1RcZLbtdGVQwn9x6kO6CXp"
         }
       ],
       "date_added": "2022-04-13",
@@ -679,6 +755,24 @@
       "duration_ms": 181333,
       "name": "I Just Couldn't Stand It No More",
       "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
+    },
+    {
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "I Just Dropped By To Say Hello",
+      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "album": {
@@ -1063,7 +1157,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
@@ -1121,6 +1215,24 @@
       "duration_ms": 216790,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+    },
+    {
+      "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
     },
     {
       "album": {
@@ -1189,7 +1301,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 196120,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
@@ -1327,7 +1439,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
@@ -1361,7 +1473,7 @@
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
+          "name": "BLOSSOM DEARIE",
           "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
@@ -1649,7 +1761,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj"
@@ -1667,7 +1779,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 240666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1UzvPKVlVgRgkRtvO2hct0"
@@ -1721,7 +1833,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 172866,
       "name": "Too Young To Go Steady - Remastered",
       "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
@@ -1851,7 +1963,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 142005,
       "name": "Why Should I Cry Over You?",
       "url": "https://open.spotify.com/track/7HDxplMdwp2fBTAoRQaC94"

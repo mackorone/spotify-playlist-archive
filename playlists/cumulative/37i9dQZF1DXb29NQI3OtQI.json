@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 176893,
       "name": "All In All",
       "url": "https://open.spotify.com/track/2EU0r8nNJQ4VllOx2ES5sK"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-16",
       "duration_ms": 240400,
       "name": "Bother",
       "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 255560,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 298893,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/3xOAzRgOEDn0zc4zPIBRsE"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "Grazed Knees",
       "url": "https://open.spotify.com/track/0RwZ0ZBJ7BOROv4JkewvKK"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-17",
       "duration_ms": 197133,
       "name": "Shut Your Eyes",
       "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 235000,
       "name": "The Story",
       "url": "https://open.spotify.com/track/6xKos15gJxZ9J3Q9qnSUU5"
@@ -1569,6 +1569,24 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286146,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/2AYVRHuzCRn0eZipEZX4EP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb29NQI3OtQI"

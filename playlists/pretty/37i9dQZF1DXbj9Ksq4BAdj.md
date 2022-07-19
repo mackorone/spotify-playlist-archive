@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj9Ksq4BAdj.md) - [plain](/playlists/plain/37i9dQZF1DXbj9Ksq4BAdj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbj9Ksq4BAdj)
 
-### [This Is Metallica](https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj)
+### [This Is Metallica \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj)
 
 > The best of Metallica, all in one playlist.
 

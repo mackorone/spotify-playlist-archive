@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RDaNNfUPt3.md) - [plain]
 
 > <a href="spotify:artist:1qpR5mURxk3d8f6mww6uKT">Shura</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379 likes - 26 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

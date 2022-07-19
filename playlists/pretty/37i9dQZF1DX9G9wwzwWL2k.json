@@ -1,12 +1,12 @@
 {
   "description": "Lend a little drama to the occasion with this collection of truly epic classical music.",
-  "num_followers": 501219,
+  "num_followers": 513700,
   "original_name": "Epic Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc5OTQ2NiwwMDAwMDAzNjAwMDAwMTdmZTQxYjQ1NDIwMDAwMDE3ZWY4OTFiY2Fk",
+  "snapshot_id": "MTY1NzcxNTcwNSwwMDAwMDAzNzAwMDAwMTgxZjc4ZTQ1ZWYwMDAwMDE4MWY3OGUxOGQ0",
   "tracks": [
     {
       "added_at": "2022-02-14 14:10:24",
@@ -35,30 +35,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Prokofiev: Romeo and Juliet",
-        "url": "https://open.spotify.com/album/3M5idfqFUxge3skgZQu4R3"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 341693,
-      "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 2: Dance of the Knights",
-      "url": "https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "Orff: Carmina Burana",
         "url": "https://open.spotify.com/album/6qhs0KJyOcA7CERbkddjtE"
       },
@@ -83,6 +59,30 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
+        "name": "Prokofiev: Romeo and Juliet",
+        "url": "https://open.spotify.com/album/3M5idfqFUxge3skgZQu4R3"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 341693,
+      "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 2: Dance of the Knights",
+      "url": "https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
         "name": "Holst: The Planets / John Williams: Star Wars Suite / Strauss, R.: Also sprach Zarathustra",
         "url": "https://open.spotify.com/album/7MOYiQcBcdYvqCyopWBj64"
       },
@@ -103,6 +103,26 @@
       "duration_ms": 429600,
       "name": "The Planets, Op. 32: 1. Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/0dXrZ47LxK2PHm4mjSlwgt"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Karl Jenkins: Quirk, Sarikiz & Over the Stone",
+        "url": "https://open.spotify.com/album/6WggQRWkbz8LU1HFzddVjA"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "Jenkins: Palladio, for Strings (Excerpt, Allegretto)",
+      "url": "https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -199,50 +219,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Beethoven: Symphonies Nos.5 & 7",
-        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Karl Jenkins: Quirk, Sarikiz & Over the Stone",
-        "url": "https://open.spotify.com/album/6WggQRWkbz8LU1HFzddVjA"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "Jenkins: Palladio, for Strings (Excerpt, Allegretto)",
-      "url": "https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "Brahms: 21 Hungarian Dances",
         "url": "https://open.spotify.com/album/4ItbBO7SVJLn7HU6BXrmKV"
       },
@@ -319,58 +295,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue & An American in Paris",
-        "url": "https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        },
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        }
-      ],
-      "duration_ms": 987266,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/7oB0QBEnGRIJjvlDc8YnM6"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Elgar",
-        "url": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        }
-      ],
-      "duration_ms": 493320,
-      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
-      "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "The Sound of Sibelius",
         "url": "https://open.spotify.com/album/3c4pFqVpXlGjUt9yGSaCQi"
       },
@@ -391,54 +315,6 @@
       "duration_ms": 507973,
       "name": "Finlandia, Op. 26",
       "url": "https://open.spotify.com/track/3hHWhvw2hjwfngWcFjIzqr"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
-        "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
-      },
-      "artists": [
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        },
-        {
-          "name": "Yevgeny Sudbin",
-          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
-        },
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        }
-      ],
-      "duration_ms": 524360,
-      "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
-      "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Copland Conducts Copland - Expanded Edition (Fanfare for the Common Man, Appalachian Spring, Old American Songs (Complete), Rodeo: Four Dance Episodes)",
-        "url": "https://open.spotify.com/album/6HTApVGuu1fLH9QBbB3vEQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Copland",
-          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Fanfare for the Common Man",
-      "url": "https://open.spotify.com/track/3T9HSgS5jBFdXIBPav51gj"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -583,54 +459,26 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Shostakovich, D.: Symphonies, Vol. 2 - Symphonies Nos. 5 and 9",
-        "url": "https://open.spotify.com/album/42zZJIFAKnTpqDah60SFlS"
+        "name": "Mahler: Symphony No. 5 in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/0A2dvgIj7tFz0L4Hgvrwal"
       },
       "artists": [
         {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+          "name": "SWR Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
         },
         {
-          "name": "Vasily Petrenko",
-          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+          "name": "Michael Gielen",
+          "url": "https://open.spotify.com/artist/0846wlmyZ8g1zGTudT6jMe"
         }
       ],
-      "duration_ms": 767160,
-      "name": "Symphony No. 5 in D Minor, Op. 47: IV. Allegro non troppo",
-      "url": "https://open.spotify.com/track/5WUD6s1M0deBvjLVbRTeAO"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Mozart: Requiem; Kyrie in D minor",
-        "url": "https://open.spotify.com/album/62TBuvIWwGvb1Y9P7NShjd"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "The Monteverdi Choir",
-          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Requiem in D minor, K.626: 3. Sequentia: Dies irae",
-      "url": "https://open.spotify.com/track/2r2U2tFfbtHzzhjI0YDaIU"
+      "duration_ms": 790893,
+      "name": "Symphony No. 5 in C-Sharp Minor: I. Trauermarsch. In gemessenem Schritt. Streng. Wie ein Kondukt",
+      "url": "https://open.spotify.com/track/3bj6TOhNXfh7MDqQXRvgWS"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -667,6 +515,30 @@
       "duration_ms": 1271946,
       "name": "Symphony No. 2 in C Minor, \"Resurrection\": I. Allegro maestoso",
       "url": "https://open.spotify.com/track/2TQdH3wUzuX5vOg8JdmQKi"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Dvor\u00e1k: Symphony No.9 , Op.95, B. 178 \"From the New World\" / Smetana: The Moldau",
+        "url": "https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S"
+      },
+      "artists": [
+        {
+          "name": "Bed\u0159ich Smetana",
+          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 766000,
+      "name": "M\u00e1 Vlast, JB1:112: 2. Vltava",
+      "url": "https://open.spotify.com/track/5P6ySmn4cxd3pF4BNeMOIG"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -723,6 +595,58 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
+        "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
+        "url": "https://open.spotify.com/album/1oRI5tMJtYyl5FHIKmZbFY"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 950280,
+      "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live",
+      "url": "https://open.spotify.com/track/636vk4x62hzOZ667m9qBmY"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Shostakovich, D.: Symphonies, Vol. 2 - Symphonies Nos. 5 and 9",
+        "url": "https://open.spotify.com/album/42zZJIFAKnTpqDah60SFlS"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "duration_ms": 767160,
+      "name": "Symphony No. 5 in D Minor, Op. 47: IV. Allegro non troppo",
+      "url": "https://open.spotify.com/track/5WUD6s1M0deBvjLVbRTeAO"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
         "name": "Beethoven: Symphony No.9",
         "url": "https://open.spotify.com/album/2J30o5yqvwrIhmrOjTrVux"
       },
@@ -775,31 +699,31 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Stravinsky: The Firebird & Petrushka (1947 Version)",
-        "url": "https://open.spotify.com/album/00JUTB3HBxnqTTPFUrkjK0"
+        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
+        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
         },
         {
-          "name": "Robert Craft",
-          "url": "https://open.spotify.com/artist/3aSbvbaiN2nvlFSftGKoJK"
+          "name": "James Gaffigan",
+          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
         }
       ],
-      "duration_ms": 278160,
-      "name": "The Firebird, Tableau I: Infernal Dance of Kastchei and His Subjects Under the Firebird's Magic Spell",
-      "url": "https://open.spotify.com/track/6snP2R2ysQXCZu22QFuTCu"
+      "duration_ms": 461080,
+      "name": "Symphony No. 6 in D Major, Op. 60, B. 112: III. Scherzo (Furiant)",
+      "url": "https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C"
     },
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Berlioz: Symphonie Fantastique - Rameau: Suite de Hippolyte et Aricie",
+        "name": "Berlioz: Symphonie fantastique: Rameau: Suite de Hippolyte et aricie",
         "url": "https://open.spotify.com/album/5MOLPQzAGSikHV8OjlhOCc"
       },
       "artists": [
@@ -817,8 +741,132 @@
         }
       ],
       "duration_ms": 431786,
-      "name": "Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",
+      "name": "Symphonie fantastique, Op. 14: Marche au supplice (Allegro non troppo)",
       "url": "https://open.spotify.com/track/1SHixA41Vy0TTlJJSX9Gbo"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
+        "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        },
+        {
+          "name": "Yevgeny Sudbin",
+          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
+        },
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        }
+      ],
+      "duration_ms": 524360,
+      "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
+      "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Prokofiev: Alexander Nevsky; Scythian Suite; Lieutenant Kij\u00e9",
+        "url": "https://open.spotify.com/album/4mJyaYqgM43JAS2jNnLnH7"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        }
+      ],
+      "duration_ms": 724000,
+      "name": "Alexander Nevsky, Op. 78: V. The Battle On Ice",
+      "url": "https://open.spotify.com/track/5kMynFPblo5lJuO48j9OvO"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Le Grand Cahier (Suite for String Orchestra)",
+        "url": "https://open.spotify.com/album/6SqJ7tpZS9AQBMq7QFjzWA"
+      },
+      "artists": [
+        {
+          "name": "Alexander Litvinovsky",
+          "url": "https://open.spotify.com/artist/28yzshAIS5oCBCAhVR5vpJ"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Le grand cahier: X. L'incendie",
+      "url": "https://open.spotify.com/track/2JIfLTeDcerjIMZOenVr2Z"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Copland Conducts Copland - Expanded Edition (Fanfare for the Common Man, Appalachian Spring, Old American Songs (Complete), Rodeo: Four Dance Episodes)",
+        "url": "https://open.spotify.com/album/6HTApVGuu1fLH9QBbB3vEQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Fanfare for the Common Man",
+      "url": "https://open.spotify.com/track/3T9HSgS5jBFdXIBPav51gj"
+    },
+    {
+      "added_at": "2022-02-14 14:10:24",
+      "album": {
+        "name": "Beethoven: Symphonies Nos.5 & 7",
+        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
     },
     {
       "added_at": "2022-02-14 14:10:24",
@@ -891,34 +939,6 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Prokofiev: Alexander Nevsky; Scythian Suite; Lieutenant Kij\u00e9",
-        "url": "https://open.spotify.com/album/4mJyaYqgM43JAS2jNnLnH7"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "London Symphony Chorus",
-          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
-        }
-      ],
-      "duration_ms": 724000,
-      "name": "Alexander Nevsky, Op. 78: V. The Battle On Ice",
-      "url": "https://open.spotify.com/track/5kMynFPblo5lJuO48j9OvO"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
         "name": "Tchaikovsky: Symphony No. 4",
         "url": "https://open.spotify.com/album/45GvgGNWfSg5Ga5FnDUvE4"
       },
@@ -943,126 +963,82 @@
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
-        "url": "https://open.spotify.com/album/1oRI5tMJtYyl5FHIKmZbFY"
+        "name": "Gershwin: Rhapsody in Blue & An American in Paris",
+        "url": "https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
         }
       ],
-      "duration_ms": 950280,
-      "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live",
-      "url": "https://open.spotify.com/track/636vk4x62hzOZ667m9qBmY"
+      "duration_ms": 987266,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/7oB0QBEnGRIJjvlDc8YnM6"
     },
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Dvor\u00e1k: Symphony No.9 , Op.95, B. 178 \"From the New World\" / Smetana: The Moldau",
-        "url": "https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S"
+        "name": "Mozart: Requiem; Kyrie in D minor",
+        "url": "https://open.spotify.com/album/62TBuvIWwGvb1Y9P7NShjd"
       },
       "artists": [
         {
-          "name": "Bed\u0159ich Smetana",
-          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
         },
         {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
         }
       ],
-      "duration_ms": 766000,
-      "name": "M\u00e1 Vlast, JB1:112: 2. Vltava",
-      "url": "https://open.spotify.com/track/5P6ySmn4cxd3pF4BNeMOIG"
+      "duration_ms": 106000,
+      "name": "Requiem in D minor, K.626: 3. Sequentia: Dies irae",
+      "url": "https://open.spotify.com/track/2r2U2tFfbtHzzhjI0YDaIU"
     },
     {
       "added_at": "2022-02-14 14:10:24",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 6. American Suite, Op. 98b",
-        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
+        "name": "Elgar",
+        "url": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg"
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
         },
         {
-          "name": "Luzerner Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
         },
         {
-          "name": "James Gaffigan",
-          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
         }
       ],
-      "duration_ms": 461080,
-      "name": "Symphony No. 6 in D Major, Op. 60, B. 112: Symphony No. 6 in D Major, Op. 60, B. 112: III. Scherzo (Furiant). Presto",
-      "url": "https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Mahler: Symphony No. 5 in C-Sharp Minor",
-        "url": "https://open.spotify.com/album/0A2dvgIj7tFz0L4Hgvrwal"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "SWR Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
-        },
-        {
-          "name": "Michael Gielen",
-          "url": "https://open.spotify.com/artist/0846wlmyZ8g1zGTudT6jMe"
-        }
-      ],
-      "duration_ms": 790893,
-      "name": "Symphony No. 5 in C-Sharp Minor: I. Trauermarsch. In gemessenem Schritt. Streng. Wie ein Kondukt",
-      "url": "https://open.spotify.com/track/3bj6TOhNXfh7MDqQXRvgWS"
-    },
-    {
-      "added_at": "2022-02-14 14:10:24",
-      "album": {
-        "name": "Le Grand Cahier (Suite for String Orchestra)",
-        "url": "https://open.spotify.com/album/6SqJ7tpZS9AQBMq7QFjzWA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Litvinovsky",
-          "url": "https://open.spotify.com/artist/28yzshAIS5oCBCAhVR5vpJ"
-        },
-        {
-          "name": "Metamorphose String Orchestra",
-          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
-        },
-        {
-          "name": "Pavel Lyubomudrov",
-          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Le grand cahier: X. L'incendie",
-      "url": "https://open.spotify.com/track/2JIfLTeDcerjIMZOenVr2Z"
+      "duration_ms": 493320,
+      "name": "Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
+      "url": "https://open.spotify.com/track/11nAMCXHi82msHXGXAUmOI"
     },
     {
       "added_at": "2022-02-14 14:10:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LV3QymAMCD.md) - [plain]
 
 > Ambient music to create the perfect atmosphere for gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,904 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,352 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

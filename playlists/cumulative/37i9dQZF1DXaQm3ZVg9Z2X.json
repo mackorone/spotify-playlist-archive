@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Biutyful",
+        "url": "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192394,
+      "name": "Biutyful",
+      "url": "https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa"
+    },
+    {
+      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },

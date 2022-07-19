@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Echo Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "I Am a Lonely T-Rex",
+      "url": "https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29"
+    },
+    {
+      "album": {
         "name": "Here Comes Science",
         "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,685 likes - 68 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,239 likes - 68 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 24 | [1 to 10](https://open.spotify.com/track/5rzsyz15ulv7yJykUxRJrj) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:08 |
 | 25 | [Afraid](https://open.spotify.com/track/4IIzisEAQJ0pDkvHChn9O4) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:32 |
 | 26 | [Zombie \- English Ver.](https://open.spotify.com/track/3h34cQPPddk4x9cluPIAvv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 |
-| 27 | [예뻤어 You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
+| 27 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
 | 28 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 |
 | 29 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 |
 | 30 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 |
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 33 | [Time of Our Life](https://open.spotify.com/track/21BoUOSvHlXgcEhiA4T1nA) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:25 |
 | 34 | [행복했던 날들이었다 days gone by](https://open.spotify.com/track/5vubdGDI1f6Dgq8l9kYOXV) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:25 |
 | 35 | [그렇더라고요 When you love someone](https://open.spotify.com/track/66kaQ6mH75Gt2KQjVnNmR2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:46 |
-| 36 | [아 왜 I Wait](https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:38 |
+| 36 | [I Wait](https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:38 |
 | 37 | [좋아합니다 I like you](https://open.spotify.com/track/54oqfjjT3vSqS72LMmTdSI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 4:00 |
-| 38 | [반드시 웃는다 I Smile](https://open.spotify.com/track/4hD74G2sLm0lxcRW5Jnl6X) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:47 |
+| 38 | [I Smile](https://open.spotify.com/track/4hD74G2sLm0lxcRW5Jnl6X) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:47 |
 | 39 | [Like a flowing wind](https://open.spotify.com/track/6RW5fxlCyOxfBJbru1v9ol) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:22 |
 | 40 | [Not Fine](https://open.spotify.com/track/4r2pzvLIdg0Zgk5Bef7mIV) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:35 |
 | 41 | [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 3:49 |
 | 42 | [아픈 길 hurt road](https://open.spotify.com/track/3GqdYA40CzErF1Um7ZzK5P) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 4:09 |
 | 43 | [Beautiful Feeling](https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:28 |
 | 44 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 |
-| 45 | [어떻게 말해 How Can I Say](https://open.spotify.com/track/3lUTXq1JLSDQX4qBRHMBdU) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:21 |
+| 45 | [How Can I Say](https://open.spotify.com/track/3lUTXq1JLSDQX4qBRHMBdU) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:21 |
 | 46 | [DANCE DANCE](https://open.spotify.com/track/30LuvfdiCtpw7Tki3PmkBb) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 |
 | 47 | [어쩌다 보니 Somehow](https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:22 |
 | 48 | [Not Mine](https://open.spotify.com/track/67C8NRYbI2XwiYilezmxZQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:15 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 55 | [365247](https://open.spotify.com/track/6y722oXVv5JxS8aUuogxV5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 2:53 |
 | 56 | [Cover](https://open.spotify.com/track/7MvhufnZEiAsf2x45ZK3MR) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:26 |
 | 57 | [Wanna Go Back](https://open.spotify.com/track/7lvYniMPVbh78IEaVifmm6) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:35 |
-| 58 | [장난 아닌데 I'm Serious](https://open.spotify.com/track/3iFjNnlsAsC9OcE3P1yLEW) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:14 |
-| 59 | [그럴 텐데 I Would](https://open.spotify.com/track/0dYpPDvC5XA0E7LcrvGWOA) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 |
+| 58 | [I'm Serious](https://open.spotify.com/track/3iFjNnlsAsC9OcE3P1yLEW) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:14 |
+| 59 | [I Would](https://open.spotify.com/track/0dYpPDvC5XA0E7LcrvGWOA) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 |
 | 60 | [How to love](https://open.spotify.com/track/0eYv585XqQBswrj2aLrDWU) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:24 |
 | 61 | [Best Part](https://open.spotify.com/track/7wPKlkoPDyeDcMpaGizvDk) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:41 |
 | 62 | [121U](https://open.spotify.com/track/6KyMCzvrP5pGHFS1LgBaKZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:14 |
 | 63 | [혼자야 All Alone](https://open.spotify.com/track/322t99AIkTbD4lew9tvdgs) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:44 |
 | 64 | [For me](https://open.spotify.com/track/4VA4px7fJHnQfR0IND4obq) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:27 |
 | 65 | [두통 Headache](https://open.spotify.com/track/04XmAoRBg3oZdc3cMb52iJ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 2:57 |
-| 66 | [겨울이 간다 Goodbye winter](https://open.spotify.com/track/6cf0GCjuqAwlfFDrNLlhtw) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:07 |
+| 66 | [Goodbye winter](https://open.spotify.com/track/6cf0GCjuqAwlfFDrNLlhtw) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:07 |
 | 67 | [WARNING!](https://open.spotify.com/track/6P3opmvaRieLo5vLKRPbjy) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:25 |
 | 68 | [OUCH](https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:17 |
 

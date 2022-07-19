@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables del Regional Mexicano. Yuridia en portada.",
+  "description": "Estas son las indomables del Regional Mexicano. Laraim en portada.",
   "name": "Mujeres Brav\u00edas",
   "published_playlist_ids": [
     "0i8T7w20lOXAWefxMbsjZ0"
@@ -23,6 +23,28 @@
       "duration_ms": 198080,
       "name": "200 COPAS",
       "url": "https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST"
+    },
+    {
+      "album": {
+        "name": "A Poco S\u00ed A Poco No",
+        "url": "https://open.spotify.com/album/7bwBWm3SuVG2vzHSmFd8kk"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        },
+        {
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "A Poco S\u00ed A Poco No",
+      "url": "https://open.spotify.com/track/6PiCtlrRnL5SWS92EOSXkw"
     },
     {
       "album": {
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196407,
       "name": "Always On My Mind (Banda Sonora de la Serie Amsterdam)",
       "url": "https://open.spotify.com/track/2awmX60LDBZufim98UCpW4"
@@ -255,7 +277,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 187280,
       "name": "As\u00ed Es La Vida",
       "url": "https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7"
@@ -439,7 +461,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 158778,
       "name": "Cheque En Blanco",
       "url": "https://open.spotify.com/track/4JNtuFkaKrJrxi9Grof8DK"
@@ -483,6 +505,24 @@
       "duration_ms": 235000,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/480hoG0YscIIOf6L2s8Zqd"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "Cielo Rojo - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV"
     },
     {
       "album": {
@@ -648,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Cuando Te Conviene",
+        "url": "https://open.spotify.com/album/4qzTpc4D7i95KNzrmdu61B"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Cuando Te Conviene",
+      "url": "https://open.spotify.com/track/7m5OVz1PPmvXNm85gFVlR9"
+    },
+    {
+      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -702,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC"
       },
@@ -713,10 +789,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 177420,
       "name": "Dejalo Ir",
       "url": "https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ"
+    },
+    {
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "album": {
@@ -731,7 +829,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
@@ -879,7 +977,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 177053,
       "name": "En Toda La Chapa",
       "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
@@ -1063,7 +1161,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
@@ -1099,7 +1197,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 227040,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I"
@@ -1251,6 +1349,46 @@
       "duration_ms": 247706,
       "name": "Jab\u00f3n De Olor",
       "url": "https://open.spotify.com/track/1Bqux8vSIgwoRycpC0eLcV"
+    },
+    {
+      "album": {
+        "name": "Andan Hablando De Mi",
+        "url": "https://open.spotify.com/album/5MxHjNgVXSaie2hDyMCb1c"
+      },
+      "artists": [
+        {
+          "name": "La Dama Brava",
+          "url": "https://open.spotify.com/artist/1gih3S3zpg3aJz7Y9Q0v6K"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "Jefe De La Plaza",
+      "url": "https://open.spotify.com/track/7mXuZOGs63m6dipfm2D1M0"
+    },
+    {
+      "album": {
+        "name": "JGL (En Vivo)",
+        "url": "https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        },
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "JGL (En Vivo)",
+      "url": "https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c"
     },
     {
       "album": {
@@ -1417,7 +1555,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 141373,
       "name": "Las Destrampadas",
       "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
@@ -1487,6 +1625,24 @@
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
+    },
+    {
+      "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/0IGP6C5YqaQqwlwGwAlpgc"
+      },
+      "artists": [
+        {
+          "name": "La Martita",
+          "url": "https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/4z3y40WAWyUdrBOlURhExY"
     },
     {
       "album": {
@@ -1844,6 +2000,24 @@
     },
     {
       "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
+    },
+    {
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -2021,7 +2195,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
@@ -2404,6 +2578,24 @@
     },
     {
       "album": {
+        "name": "Por Tu Perra Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Por Tu Perra Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6"
+    },
+    {
+      "album": {
         "name": "Por un Malandro",
         "url": "https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T"
       },
@@ -2451,7 +2643,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 156329,
       "name": "Que Facilito",
       "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
@@ -2715,7 +2907,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 186848,
       "name": "Recaer",
       "url": "https://open.spotify.com/track/3cONWvEXMdgERGKSfo1zH1"
@@ -2993,7 +3185,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
@@ -3408,6 +3600,24 @@
     },
     {
       "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+    },
+    {
+      "album": {
         "name": "Ya Viv\u00ed El Desamor",
         "url": "https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi"
       },
@@ -3441,6 +3651,42 @@
       "duration_ms": 177973,
       "name": "Yo Sin Tu Amor",
       "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
+    },
+    {
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/2nOlcZVussuCXAI2nKHXXk"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/1fLmabFCw5UpyjgbWVCxo4"
     },
     {
       "album": {

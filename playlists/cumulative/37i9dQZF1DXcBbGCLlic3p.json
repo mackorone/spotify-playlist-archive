@@ -8,6 +8,96 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY"
+    },
+    {
+      "album": {
         "name": "Bittersweet World",
         "url": "https://open.spotify.com/album/6S14GsEPWVumGwNoc4t0Zw"
       },
@@ -152,24 +242,6 @@
     },
     {
       "album": {
-        "name": "Arctic Tern",
-        "url": "https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lansing",
-          "url": "https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 144500,
-      "name": "Arctic Tern",
-      "url": "https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj"
-    },
-    {
-      "album": {
         "name": "As The Journey Begins",
         "url": "https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7"
       },
@@ -188,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Ascending",
+        "url": "https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr"
+      },
+      "artists": [
+        {
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Ascending",
+      "url": "https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc"
+    },
+    {
+      "album": {
         "name": "Ashes to Dawn",
         "url": "https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN"
       },
@@ -203,24 +293,6 @@
       "duration_ms": 112941,
       "name": "Ashes to Dawn",
       "url": "https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq"
-    },
-    {
-      "album": {
-        "name": "Atoms",
-        "url": "https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139804,
-      "name": "Atoms",
-      "url": "https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47"
     },
     {
       "album": {
@@ -602,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Donia",
+        "url": "https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae"
+      },
+      "artists": [
+        {
+          "name": "Duanova",
+          "url": "https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Donia",
+      "url": "https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV"
+    },
+    {
+      "album": {
         "name": "Dormiveglia",
         "url": "https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89"
       },
@@ -710,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Empfidlich",
+        "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Empfidlich",
+      "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
+    },
+    {
+      "album": {
         "name": "Endless Fragments of Time",
         "url": "https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL"
       },
@@ -782,24 +890,6 @@
     },
     {
       "album": {
-        "name": "Equal",
-        "url": "https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt"
-      },
-      "artists": [
-        {
-          "name": "Dylan Francis",
-          "url": "https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 131988,
-      "name": "Equal",
-      "url": "https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC"
-    },
-    {
-      "album": {
         "name": "Etheral Ease",
         "url": "https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne"
       },
@@ -815,6 +905,24 @@
       "duration_ms": 195494,
       "name": "Etheral Ease",
       "url": "https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70"
+    },
+    {
+      "album": {
+        "name": "Etoile",
+        "url": "https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT"
+      },
+      "artists": [
+        {
+          "name": "Eztebe Matia",
+          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135751,
+      "name": "Etoile",
+      "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
     },
     {
       "album": {
@@ -1700,21 +1808,21 @@
     },
     {
       "album": {
-        "name": "Moving Forest",
-        "url": "https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC"
+        "name": "Moves Like Waves",
+        "url": "https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp"
       },
       "artists": [
         {
-          "name": "Hultana",
-          "url": "https://open.spotify.com/artist/0CBdXL77mOTeqHWtVcKsBo"
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
         }
       ],
-      "date_added": "2021-12-23",
+      "date_added": "2022-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 128000,
-      "name": "Moving Forest",
-      "url": "https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY"
+      "duration_ms": 221358,
+      "name": "Moves Like Waves",
+      "url": "https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH"
     },
     {
       "album": {
@@ -2546,6 +2654,24 @@
     },
     {
       "album": {
+        "name": "Similarities",
+        "url": "https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb"
+      },
+      "artists": [
+        {
+          "name": "Benny Dawn",
+          "url": "https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Similarities",
+      "url": "https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r"
+    },
+    {
+      "album": {
         "name": "Skirr",
         "url": "https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj"
       },
@@ -2687,24 +2813,6 @@
       "duration_ms": 207258,
       "name": "Soothing Me",
       "url": "https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d"
-    },
-    {
-      "album": {
-        "name": "Spanish Evening",
-        "url": "https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o"
-      },
-      "artists": [
-        {
-          "name": "Hilda Atkins",
-          "url": "https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151487,
-      "name": "Spanish Evening",
-      "url": "https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS"
     },
     {
       "album": {
@@ -3079,10 +3187,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 192000,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT"
+    },
+    {
+      "album": {
+        "name": "Unclouded",
+        "url": "https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP"
+      },
+      "artists": [
+        {
+          "name": "Thalia Mathis",
+          "url": "https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Unclouded",
+      "url": "https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu"
     },
     {
       "album": {
@@ -3119,6 +3245,24 @@
       "duration_ms": 182555,
       "name": "Valentinios Pier",
       "url": "https://open.spotify.com/track/4bUkrtLWyZRbG9jit1vgdY"
+    },
+    {
+      "album": {
+        "name": "Veilless",
+        "url": "https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy"
+      },
+      "artists": [
+        {
+          "name": "Adriana Milou",
+          "url": "https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138138,
+      "name": "Veilless",
+      "url": "https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT"
     },
     {
       "album": {

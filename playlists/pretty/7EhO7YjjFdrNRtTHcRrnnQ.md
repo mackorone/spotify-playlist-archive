@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 347 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 | 32 | [Who Put The Bomp?](https://open.spotify.com/track/1zjzLPwQi3qoKndgNurI29) | [Barry Mann](https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU) | [Who Put The Bomp In The Bomp\-Bomp\-Bomp](https://open.spotify.com/album/4u6c0El5f78GfHj8vQEmrK) | 2:42 |
 | 33 | [Calendar Girl \- Remastered](https://open.spotify.com/track/1Pg2yx1drvE8uJhMCnIpGN) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [The Very Best Of Neil Sedaka](https://open.spotify.com/album/4LEVq549JUbYQmzma1NzEl) | 2:36 |
 | 34 | [I Like It Like That](https://open.spotify.com/track/5wIxMTfyrSEx4w1MxaM96c) | [Chris Kenner](https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 1:57 |
-| 35 | [Apache](https://open.spotify.com/track/0FKNRNN2mcY9dBjenoxbeY) | [Jorgen Ingmann](https://open.spotify.com/artist/2mBHooYuyPrDI0JukWjS9f) | [Atlantic 60th: Instrumental Jams](https://open.spotify.com/album/4pOVCX3BM02U0AudLBVoQG) | 2:55 |
+| 35 | [Apache](https://open.spotify.com/track/0FKNRNN2mcY9dBjenoxbeY) | [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [Atlantic 60th: Instrumental Jams](https://open.spotify.com/album/4pOVCX3BM02U0AudLBVoQG) | 2:55 |
 | 36 | [Don't Bet Money, Honey \(In the Style of Linda Scott\) \[instrumental Backing Track\]](https://open.spotify.com/track/7tAjijxeQ8hT7HuRI4BltI) | [Original Backing Tracks](https://open.spotify.com/artist/3zTYSIlGGbY2wLixqetrvM) | [Karaoke Hits: More Uk Hits](https://open.spotify.com/album/0Y4tISfZNfwU0j1TTZSlHC) | 2:33 |
 | 37 | [Without You](https://open.spotify.com/track/69f7vu51cpC4TM6MKrqJOi) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Deep Into The Sixties \- 20 Rare Grooves](https://open.spotify.com/album/3pHHT1JwvLNu89JUbfADaW) | 2:09 |
 | 38 | [Wings Of A Dove \- Re\-Recording](https://open.spotify.com/track/6q5UzeMm00DBIkKv8uL18e) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [60's Country \- Six Days On The Road](https://open.spotify.com/album/7bePNwwUP5oUzBKPlJAQba) | 2:20 |

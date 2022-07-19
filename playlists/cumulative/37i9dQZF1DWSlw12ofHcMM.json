@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold tracks packing some serious swagger...",
+  "description": "Bold tracks packing some serious swagger.",
   "name": "Swagger",
   "published_playlist_ids": [
     "1mwIOAyn3PtAgQdJFJ2Psa"
@@ -1498,6 +1498,28 @@
     },
     {
       "album": {
+        "name": "Run On",
+        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
+      },
+      "artists": [
+        {
+          "name": "Jamie Bower",
+          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+        },
+        {
+          "name": "King Sugar",
+          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212705,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS"
       },
@@ -1823,7 +1845,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 142443,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4"

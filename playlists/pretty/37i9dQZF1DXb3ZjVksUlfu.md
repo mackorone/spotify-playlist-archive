@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,593 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,163 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 5 | [Shot By Both Sides \- Remastered](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
 | 6 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 7 | [Sound and Vision \- 1999 Remaster](https://open.spotify.com/track/2JzZ8UTEb1GGvR8Ra0Nfy2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(1999 Remaster\)](https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b) | 3:04 |
-| 8 | [20th Century Boy \- 2012 Remaster](https://open.spotify.com/track/1y5LL9dpLXbCXNKKqw5wCJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(The Visconti Master\)](https://open.spotify.com/album/7z7CGJZt7ZuMaBFjxy5fWo) | 3:38 |
+| 8 | [20th Century Boy \- Remaster](https://open.spotify.com/track/1y5LL9dpLXbCXNKKqw5wCJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(The Visconti Master\)](https://open.spotify.com/album/7z7CGJZt7ZuMaBFjxy5fWo) | 3:38 |
 | 9 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 |
 | 10 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 |
 | 11 | [Hanging Around \- 1996 Remaster](https://open.spotify.com/track/4OvQsAObGMF3dpkCV6DZzb) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 46 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 47 | [Personality Crisis](https://open.spotify.com/track/0tsHAAhdxSzwHAeHHXKbsw) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/7brYayd20fiMrCiVwlidRI) | 3:41 |
 | 48 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
-| 49 | [Rock and Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/0ZfP7K8NoyJRjEfWWk8Mlv) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 4:43 |
+| 49 | [Rock & Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/0ZfP7K8NoyJRjEfWWk8Mlv) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 4:43 |
 | 50 | [Top of the Pops](https://open.spotify.com/track/2sICTf5zrSZnTttimrcm2M) | [The Rezillos](https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv) | [Can't Stand The Rezillos: The \[Almost\] Complete Rezillos](https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo) | 2:55 |
 | 51 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
 | 52 | [I Heard It Through The Grapevine](https://open.spotify.com/track/4GRnCW4Alb5vcfptFytJdl) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/4iNtNt45SY3Ieb5FR8qt3Q) | 4:02 |

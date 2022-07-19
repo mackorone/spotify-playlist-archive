@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT"
+    },
+    {
+      "album": {
         "name": "Carved By Glaciers",
         "url": "https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG"
       },
@@ -19,7 +55,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 169013,
       "name": "1000 Arms",
       "url": "https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G"
@@ -37,7 +73,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 148902,
       "name": "160512",
       "url": "https://open.spotify.com/track/4qTfc9EIeFGUhy5uYLkpjU"
@@ -59,6 +95,24 @@
       "duration_ms": 424866,
       "name": "A Brief Walk in the Sea",
       "url": "https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n"
+    },
+    {
+      "album": {
+        "name": "A Free Mind",
+        "url": "https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe"
+      },
+      "artists": [
+        {
+          "name": "Jupos",
+          "url": "https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210072,
+      "name": "A Free Mind",
+      "url": "https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1"
     },
     {
       "album": {
@@ -199,7 +253,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 320693,
       "name": "All in Here",
       "url": "https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv"
@@ -458,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Bordeaux Moon",
+        "url": "https://open.spotify.com/album/2UYphakqsLg8j9EBBpLSNd"
+      },
+      "artists": [
+        {
+          "name": "Julie G.",
+          "url": "https://open.spotify.com/artist/1VG91IxmTFXz0RCvxb0K4t"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176804,
+      "name": "Bordeaux Moon",
+      "url": "https://open.spotify.com/track/09JbJj21UNrdtkj9G3j625"
+    },
+    {
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/1iMu7CCrDIfXnQggRXNLq9"
       },
@@ -545,24 +617,6 @@
       "duration_ms": 174915,
       "name": "Butterfly Waltz",
       "url": "https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA"
-    },
-    {
-      "album": {
-        "name": "Calhau Cave",
-        "url": "https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm"
-      },
-      "artists": [
-        {
-          "name": "Firestore",
-          "url": "https://open.spotify.com/artist/6AUfvB5MsOc8lG6voZ2BoA"
-        }
-      ],
-      "date_added": "2020-12-08",
-      "date_added_asterisk": true,
-      "date_removed": null,
-      "duration_ms": 263473,
-      "name": "Calhau Cave",
-      "url": "https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 142418,
       "name": "Commute",
       "url": "https://open.spotify.com/track/1xmu8X6YGxlWaWUoxx6WOx"
@@ -1196,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "High Flyer",
+        "url": "https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT"
+      },
+      "artists": [
+        {
+          "name": "Sola Slavic",
+          "url": "https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "High Flyer",
+      "url": "https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb"
+    },
+    {
+      "album": {
         "name": "Homeopat",
         "url": "https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2"
       },
@@ -1207,7 +1279,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 234749,
       "name": "Homeopat",
       "url": "https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7"
@@ -1441,7 +1513,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 419120,
       "name": "Kaksi",
       "url": "https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK"
@@ -1610,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4tt",
+        "url": "https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf"
+      },
+      "artists": [
+        {
+          "name": "Soulgarden",
+          "url": "https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "L\u00e4tt",
+      "url": "https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3"
+    },
+    {
+      "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS"
       },
@@ -1718,21 +1808,21 @@
     },
     {
       "album": {
-        "name": "M\u00fdvatna",
-        "url": "https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc"
+        "name": "Naslednji\u010d",
+        "url": "https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv"
       },
       "artists": [
         {
-          "name": "Dreyma",
-          "url": "https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77"
+          "name": "Fabijan Spa\u0107i",
+          "url": "https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX"
         }
       ],
-      "date_added": "2020-12-08",
-      "date_added_asterisk": true,
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 270932,
-      "name": "M\u00fdvatna",
-      "url": "https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT"
+      "duration_ms": 195500,
+      "name": "Naslednji\u010d",
+      "url": "https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5"
     },
     {
       "album": {
@@ -2155,7 +2245,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 159013,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq"
@@ -2234,6 +2324,24 @@
     },
     {
       "album": {
+        "name": "Somnolent Summer",
+        "url": "https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2"
+      },
+      "artists": [
+        {
+          "name": "Dream City",
+          "url": "https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122954,
+      "name": "Reveries",
+      "url": "https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u"
+    },
+    {
+      "album": {
         "name": "Reversoothes",
         "url": "https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ"
       },
@@ -2285,6 +2393,24 @@
       "duration_ms": 373914,
       "name": "Santa Rosa",
       "url": "https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg"
+    },
+    {
+      "album": {
+        "name": "ivory comet & sapphire soul",
+        "url": "https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "sapphire soul",
+      "url": "https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77"
     },
     {
       "album": {
@@ -2461,7 +2587,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 100946,
       "name": "Small Memory",
       "url": "https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko"
@@ -2519,6 +2645,24 @@
       "duration_ms": 182068,
       "name": "Solar Winds",
       "url": "https://open.spotify.com/track/13iYeXC6LAzTierH7y8kJZ"
+    },
+    {
+      "album": {
+        "name": "Solicitude",
+        "url": "https://open.spotify.com/album/3p2ACTKxG9jRenqzfVi6x3"
+      },
+      "artists": [
+        {
+          "name": "Garden of Sound",
+          "url": "https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Solicitude",
+      "url": "https://open.spotify.com/track/3RlM2UQzdojpM6BzCyY37v"
     },
     {
       "album": {
@@ -2839,10 +2983,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 393266,
       "name": "They Disappear Into the Palms",
       "url": "https://open.spotify.com/track/3BCqIl5vYtb8u4QP79JtPo"
+    },
+    {
+      "album": {
+        "name": "Tikslingas",
+        "url": "https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm"
+      },
+      "artists": [
+        {
+          "name": "Teo Walter",
+          "url": "https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Tikslingas",
+      "url": "https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ"
     },
     {
       "album": {
@@ -2879,6 +3041,24 @@
       "duration_ms": 165000,
       "name": "Umbrian Affair",
       "url": "https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG"
+    },
+    {
+      "album": {
+        "name": "Unkai",
+        "url": "https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt"
+      },
+      "artists": [
+        {
+          "name": "Kazunobu Nishiyama",
+          "url": "https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Unkai",
+      "url": "https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ"
     },
     {
       "album": {
@@ -2951,6 +3131,24 @@
       "duration_ms": 233055,
       "name": "Waves are coming",
       "url": "https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98"
+    },
+    {
+      "album": {
+        "name": "Westerfall",
+        "url": "https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy"
+      },
+      "artists": [
+        {
+          "name": "Auricz",
+          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "Westerfall",
+      "url": "https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain]
 
 > Celebrate one year of Spotify and PlayStation with the biggest tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

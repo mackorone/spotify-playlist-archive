@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
 
-87 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+88 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 |  |
 | [Walking Wounded](https://open.spotify.com/track/0oda94HwAfT8uLO7jC3ykV) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 4:14 | 2020-11-05 |  |
 | [We're Gonna Make It](https://open.spotify.com/track/0T648GgCmHNdLhk7LxQdmM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:23 | 2020-11-05 |  |
+| [What A Strange Time To Be Alive](https://open.spotify.com/track/0mmapJXijQcLERMo1t747B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [What A Strange Time To Be Alive](https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp) | 3:06 | 2022-05-20 |  |
 | [What I Could Do](https://open.spotify.com/track/5srEzUANfAqAe9T9gSM3U7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love Is an Army](https://open.spotify.com/album/4uFhns7SLmcnhf6xHCUI18) | 4:07 | 2020-11-05 |  |
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2020-11-05 |  |
 | [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 | 2020-11-05 |  |

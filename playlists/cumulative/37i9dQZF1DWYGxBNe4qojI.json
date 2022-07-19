@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Cam'ron...Harlem's Greatest",
+        "url": "https://open.spotify.com/album/0WCgmoRReO4RQhO8nnnEgY"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "357",
+      "url": "https://open.spotify.com/track/112leVygcmiYSCvtWkh0zt"
+    },
+    {
+      "album": {
         "name": "Ironman",
         "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
       },
@@ -23,7 +41,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-18",
       "duration_ms": 320813,
       "name": "All That I Got Is You (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/627vP3nl9eI4xF4yEQEyze"
@@ -92,6 +110,24 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/2O2K34hjyvLqWpG5wyaszl"
+      },
+      "artists": [
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Beanie (Mack B****)",
+      "url": "https://open.spotify.com/track/67t2pIIrrdBWFr0u8y4L1b"
+    },
+    {
+      "album": {
         "name": "Hard Core",
         "url": "https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT"
       },
@@ -103,7 +139,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-13",
       "duration_ms": 256866,
       "name": "Big Momma Thang",
       "url": "https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy"
@@ -121,7 +157,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 252746,
       "name": "Big Poppa - 2005 Remaster",
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
@@ -161,7 +197,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 189760,
       "name": "Bring The Pain",
       "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
@@ -223,7 +259,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 275640,
       "name": "Brooklyn's Finest",
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
@@ -241,7 +277,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-15",
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -373,7 +409,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-05-14",
       "duration_ms": 297040,
       "name": "Come Clean - E New Y Radio",
       "url": "https://open.spotify.com/track/6wbBrsE2H2pupmnfoVSY6w"
@@ -403,7 +439,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 273453,
       "name": "Crooklyn - Crooklyn/Soundtrack Version",
       "url": "https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF"
@@ -483,7 +519,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": "2022-07-10",
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
@@ -501,7 +537,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 266066,
       "name": "Dead Presidents II",
       "url": "https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz"
@@ -599,7 +635,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 220800,
       "name": "Everything Remains Raw",
       "url": "https://open.spotify.com/track/4M8SdMmrvx001Au6aZFchJ"
@@ -675,7 +711,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 227360,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/2ey8VvW7LS4G0q9xtgEtBA"
@@ -745,7 +781,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 243240,
       "name": "Get At Me Dog",
       "url": "https://open.spotify.com/track/64Jvj5JVttGkVHXHN21wiG"
@@ -785,7 +821,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-11",
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
@@ -912,6 +948,28 @@
     },
     {
       "album": {
+        "name": "Cam'ron...Harlem's Greatest",
+        "url": "https://open.spotify.com/album/0WCgmoRReO4RQhO8nnnEgY"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "Horse & Carriage (feat. Mase)",
+      "url": "https://open.spotify.com/track/6pULM1qkKtreWYytq64ZIV"
+    },
+    {
+      "album": {
         "name": "Da Real World",
         "url": "https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i"
       },
@@ -981,7 +1039,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-07",
       "duration_ms": 220040,
       "name": "How Many MC's...",
       "url": "https://open.spotify.com/track/4dk6zfG0ohEToKP7h7yQkO"
@@ -1069,7 +1127,7 @@
       },
       "artists": [
         {
-          "name": "LL Cool J",
+          "name": "LL COOL J",
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         },
         {
@@ -1091,7 +1149,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 303533,
       "name": "I Shot Ya - Remix",
       "url": "https://open.spotify.com/track/3sZHiawNPhPF68sYhdNUho"
@@ -1113,7 +1171,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -1183,7 +1241,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 253226,
       "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
       "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
@@ -1241,7 +1299,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 277946,
       "name": "In My Lifetime - Remix",
       "url": "https://open.spotify.com/track/39OmRNMasnt4QCQZOeMkwl"
@@ -1259,7 +1317,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 282666,
       "name": "Incarcerated Scarfaces",
       "url": "https://open.spotify.com/track/3SL3GG9Bs7m1s9aqhjCeIa"
@@ -1285,7 +1343,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 286653,
       "name": "Iron Maiden",
       "url": "https://open.spotify.com/track/63LVYnGJmWjNnmHiOVsGhe"
@@ -1443,7 +1501,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 272466,
       "name": "Jeeps, Lex Coups, Bimaz & Benz",
       "url": "https://open.spotify.com/track/02nH7HXbs3i9kdWef9or8E"
@@ -1483,7 +1541,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 302760,
       "name": "Juicy - 2005 Remaster",
       "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
@@ -1541,7 +1599,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 224253,
       "name": "Last Dayz",
       "url": "https://open.spotify.com/track/0usovqilR2yhLw9zWEaWzk"
@@ -1559,7 +1617,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 302973,
       "name": "Leflaur Leflah Eshkoshka",
       "url": "https://open.spotify.com/track/3RvFnZZz1x00l8FIHE5wxx"
@@ -1577,7 +1635,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-06-14",
       "duration_ms": 270800,
       "name": "Liquid Swords",
       "url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE"
@@ -1629,7 +1687,7 @@
       },
       "artists": [
         {
-          "name": "LL Cool J",
+          "name": "LL COOL J",
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
@@ -1711,7 +1769,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 350733,
       "name": "Masta I.C.",
       "url": "https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn"
@@ -1759,6 +1817,28 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Money Ain't A Thang",
+      "url": "https://open.spotify.com/track/3dT126FgdirenOn5aDXHBE"
     },
     {
       "album": {
@@ -1980,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "NOTORIOUS Music From and Inspired by the Original Motion Picture",
+        "url": "https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Party and Bullshit - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T"
+    },
+    {
+      "album": {
         "name": "Do You Want More?!!!??! (Deluxe Version)",
         "url": "https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9"
       },
@@ -1991,7 +2089,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 275994,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/6iRtbpHOfLvItuLXuGu05F"
@@ -2361,7 +2459,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 329426,
       "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
@@ -2415,7 +2513,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 259453,
       "name": "Sound Bwoy Bureill",
       "url": "https://open.spotify.com/track/3enjxX3aOAsFyaKeH1O9jO"
@@ -2531,7 +2629,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
@@ -2571,7 +2669,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 300200,
       "name": "Temperature's Rising (feat. Crystal Johnson)",
       "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
@@ -2589,7 +2687,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 204026,
       "name": "Ten Crack Commandments - 2014 Remaster",
       "url": "https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2"
@@ -2625,7 +2723,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-17",
       "duration_ms": 226173,
       "name": "The Most Beautifullest Thing In This World",
       "url": "https://open.spotify.com/track/3tZQaOGFwlqkhxKOeVrH4V"
@@ -2669,7 +2767,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 264866,
       "name": "The Roc (Just Fire)",
       "url": "https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf"
@@ -2705,7 +2803,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 290573,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/5FHXxdJeq1iAE9PjDTEgyd"
@@ -2872,6 +2970,28 @@
     },
     {
       "album": {
+        "name": "Twinz (Deep Cover '98) [feat. Fat Joe] EP",
+        "url": "https://open.spotify.com/album/2jGHEcn66aPd1I3qSSeY31"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/4FvzYxkJ6GYZm7RtvuXwfR"
+    },
+    {
+      "album": {
         "name": "Black Reign",
         "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
       },
@@ -2883,7 +3003,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-13",
       "duration_ms": 250840,
       "name": "U.N.I.T.Y.",
       "url": "https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv"
@@ -2945,7 +3065,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "Warning - 2005 Remaster",
       "url": "https://open.spotify.com/track/33rsCCLHklTQav9klbpnAi"
@@ -2985,7 +3105,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
@@ -3003,7 +3123,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 179466,
       "name": "What Up Gangsta",
       "url": "https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f"
@@ -3073,7 +3193,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 188546,
       "name": "Whateva Man",
       "url": "https://open.spotify.com/track/0pSaDwrMLM7F82LWJg9v6s"
@@ -3091,7 +3211,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 341466,
       "name": "Where My Homiez? (Come Around My Way)",
       "url": "https://open.spotify.com/track/0l9HPSkf0L7sPq9OpIQ2zG"
@@ -3109,7 +3229,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 270066,
       "name": "Who Got Da Props",
       "url": "https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ"
@@ -3127,7 +3247,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 259440,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
@@ -3163,7 +3283,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
@@ -3181,7 +3301,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 274933,
       "name": "Whutcha Want?",
       "url": "https://open.spotify.com/track/1Gr0pZcdhwKQCdOd7SMfK6"

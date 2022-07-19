@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 265966,
       "name": "(Po)ci\u0105g dalszy nast\u0105pi",
       "url": "https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-09",
+      "date_removed": "2022-05-07",
       "duration_ms": 301573,
       "name": "100 dni do matury",
       "url": "https://open.spotify.com/track/78L2RUFISfqkmZMTCLYQJC"
@@ -123,6 +123,60 @@
       "duration_ms": 160000,
       "name": "15,2 (FREESTYLE)",
       "url": "https://open.spotify.com/track/6FejloHojCZDBE911vH4z0"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/0dEj9U7vpuKBOlkrWlEqfM"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 151840,
+      "name": "18",
+      "url": "https://open.spotify.com/track/06cJ7hTMrHG7ajs0no3XJw"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "18",
+      "url": "https://open.spotify.com/track/18DbAECX4iPyws8Ux7MVMX"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172233,
+      "name": "200 os\u00f3b w kawalerce",
+      "url": "https://open.spotify.com/track/0WwTcMK4Qj9vKHVV2Me1l8"
     },
     {
       "album": {
@@ -488,6 +542,32 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 215533,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/2jidsTTbs8VEXKyc16rqgQ"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -576,6 +656,28 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187080,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/35MRc3PXbP6CHCxr5jDyRj"
+    },
+    {
+      "album": {
         "name": "Agrest i bez",
         "url": "https://open.spotify.com/album/6HA4qjWlNsQVD1vNcFaTwq"
       },
@@ -657,6 +759,28 @@
       "duration_ms": 241026,
       "name": "Agrest i bez",
       "url": "https://open.spotify.com/track/5rcH7HIJH3l3eojjKmZWWi"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 193733,
+      "name": "Albo Jest Zajebi\u015bcie Albo Jest Smutno",
+      "url": "https://open.spotify.com/track/5nIyC7218eXa3wIWgRIfyv"
     },
     {
       "album": {
@@ -1040,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Any\u017cowe \u017celki",
+        "url": "https://open.spotify.com/album/5bYQfIpnHyL18WS668K4Ll"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Any\u017cowe \u017celki",
+      "url": "https://open.spotify.com/track/7AGGiiTX5RhsVM2rYF6s5O"
+    },
+    {
+      "album": {
         "name": "Akademia Sztuk Pi\u0119knych",
         "url": "https://open.spotify.com/album/2pzDm1usjCxQGw8nYU8nkZ"
       },
@@ -1066,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -1077,7 +1237,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -1205,6 +1365,32 @@
       "duration_ms": 223689,
       "name": "audi",
       "url": "https://open.spotify.com/track/5XQWRhOjCWb2HekJhdQXMB"
+    },
+    {
+      "album": {
+        "name": "Awaryjne \u015bwiat\u0142a",
+        "url": "https://open.spotify.com/album/16VnzZ0tqCOOtzNOHEqtme"
+      },
+      "artists": [
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        },
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Awaryjne \u015bwiat\u0142a",
+      "url": "https://open.spotify.com/track/5unyYFSkKz0lhsNsAx3fAz"
     },
     {
       "album": {
@@ -1394,6 +1580,28 @@
     },
     {
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "album": {
         "name": "Bandyta",
         "url": "https://open.spotify.com/album/6gGxvgeHwp2Eef5mzwx0HP"
       },
@@ -1460,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-13",
+      "duration_ms": 211956,
+      "name": "Bardziej Sob\u0105 Ni\u017c Kiedykolwiek",
+      "url": "https://open.spotify.com/track/00KWg3ywQZVELTUa1U2vsx"
+    },
+    {
+      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2ic3eJZGU3nIuMvNa3Nw7P"
       },
@@ -1483,6 +1709,40 @@
       "duration_ms": 172799,
       "name": "Batman",
       "url": "https://open.spotify.com/track/7dtPm74yO2bHZs4IAAVtTp"
+    },
+    {
+      "album": {
+        "name": "BEDOESIARA",
+        "url": "https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c"
+      },
+      "artists": [
+        {
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        },
+        {
+          "name": "Abel de Jong",
+          "url": "https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169428,
+      "name": "BEDOESIARA",
+      "url": "https://open.spotify.com/track/7kRCfAV3W39reD8Tjie8jP"
     },
     {
       "album": {
@@ -1813,7 +2073,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-29",
       "duration_ms": 141972,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5zq97EBupOTN1XOPX5ukRJ"
@@ -1967,7 +2227,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 186666,
       "name": "Boj\u0119 Si\u0119 Kocha\u0107",
       "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
@@ -2027,6 +2287,24 @@
       "duration_ms": 181640,
       "name": "Bon appetit",
       "url": "https://open.spotify.com/track/1hz0GlXPfnnlxxXo92Yyoj"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 161253,
+      "name": "Booker (baw si\u0119)",
+      "url": "https://open.spotify.com/track/4VsOtqpVlQQzR6hHR9RxDT"
     },
     {
       "album": {
@@ -2124,6 +2402,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 151506,
+      "name": "Broly",
+      "url": "https://open.spotify.com/track/7GE1JoBBu7qCNRaZzTlU3U"
+    },
+    {
+      "album": {
         "name": "Broly",
         "url": "https://open.spotify.com/album/16jDin0wodvlSdHZKsnAZ0"
       },
@@ -2161,7 +2457,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 151874,
       "name": "Brudasy With Attitude (feat. Farid Bang)",
       "url": "https://open.spotify.com/track/6q5Bx8Jm9yZC7tmI3leDOi"
@@ -2191,6 +2487,46 @@
       "duration_ms": 284000,
       "name": "BUBBLETEA",
       "url": "https://open.spotify.com/track/7eBYMVok43QesT0KnuIkjn"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 204973,
+      "name": "Buch na dw\u00f3ch",
+      "url": "https://open.spotify.com/track/5YU8d0mtnSpxKWd33lbaYE"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 172253,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/7HHLkDCw8SF3HduVtf4hsh"
     },
     {
       "album": {
@@ -2586,6 +2922,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 243507,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+    },
+    {
+      "album": {
         "name": "Rewolucja Romantyczna",
         "url": "https://open.spotify.com/album/32voLjYZbp9m86l0MoSO1J"
       },
@@ -2739,7 +3093,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 137992,
       "name": "COCO",
       "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"
@@ -2856,6 +3210,58 @@
     },
     {
       "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "album": {
+        "name": "Cudowna",
+        "url": "https://open.spotify.com/album/7lsmQiZpz8Dql9lMU2JlIo"
+      },
+      "artists": [
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        },
+        {
+          "name": "pukasz",
+          "url": "https://open.spotify.com/artist/2zRlDOWD6CqI5OJDBQbjCK"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 142670,
+      "name": "Cudowna",
+      "url": "https://open.spotify.com/track/6OqgVN4LCmuafrFmAgK0gw"
+    },
+    {
+      "album": {
         "name": "Czes\u0142awa",
         "url": "https://open.spotify.com/album/2SAtG4FkiHBVdx9USZG3AH"
       },
@@ -2963,7 +3369,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 201007,
       "name": "Cze\u015b\u0107, jak si\u0119 masz?",
       "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
@@ -3018,6 +3424,42 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 187342,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "album": {
         "name": "Hample",
         "url": "https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1"
       },
@@ -3033,7 +3475,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 175493,
       "name": "dddd",
       "url": "https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz"
@@ -3139,6 +3581,32 @@
       "duration_ms": 161840,
       "name": "Diamentowy Las",
       "url": "https://open.spotify.com/track/0FvivPj6W2AZD4x2rpVKiS"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
       "album": {
@@ -3381,6 +3849,24 @@
       "duration_ms": 216653,
       "name": "Doba hotelowa",
       "url": "https://open.spotify.com/track/1YztiL42w9fq0Z2jGcDSZR"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 167058,
+      "name": "Doja Cat",
+      "url": "https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA"
     },
     {
       "album": {
@@ -3770,6 +4256,62 @@
     },
     {
       "album": {
+        "name": "Dzielny Pacjent",
+        "url": "https://open.spotify.com/album/0dv2L5TZRI3Ww6nzO2pASn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 158852,
+      "name": "Dzielny Pacjent",
+      "url": "https://open.spotify.com/track/2JgXs4DAmnN9Jz65gIrhCB"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sekko",
+          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 158852,
+      "name": "Dzielny Pacjent",
+      "url": "https://open.spotify.com/track/5t82x7Pp2y5ji2R1BpiOik"
+    },
+    {
+      "album": {
         "name": "Dzie\u0144 jeden w roku",
         "url": "https://open.spotify.com/album/5fWXtZtTHHlIIUtV6ZD4Sr"
       },
@@ -3872,6 +4414,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/5mciN01WQyi171fxxYcxEh"
+    },
+    {
+      "album": {
         "name": "EKIPA (SE4ON)",
         "url": "https://open.spotify.com/album/7MKBCwPOH3TXjJI3swJzkH"
       },
@@ -3957,7 +4517,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -4150,6 +4710,28 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -4314,6 +4896,28 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/2I92Sf5qvoTeigtWer05Yi"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-17",
+      "duration_ms": 148253,
+      "name": "Fresh Water Soda",
+      "url": "https://open.spotify.com/track/1iNTYA9OCTFVObcmLTSf02"
+    },
+    {
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -4345,6 +4949,28 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-21",
+      "duration_ms": 169031,
+      "name": "FURIA47",
+      "url": "https://open.spotify.com/track/3K50r0Fu794rBkcKatO88X"
     },
     {
       "album": {
@@ -4410,6 +5036,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "Glosy w Glowie",
         "url": "https://open.spotify.com/album/27coS4uDe1cfwKASHa2yox"
       },
@@ -4447,6 +5091,24 @@
       "duration_ms": 333461,
       "name": "God Breathed",
       "url": "https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO"
+    },
+    {
+      "album": {
+        "name": "Golem",
+        "url": "https://open.spotify.com/album/6f5exUw2PSP5aIVikkSWsr"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-22",
+      "duration_ms": 181221,
+      "name": "Golem",
+      "url": "https://open.spotify.com/track/12sKndfU70ZyJ3X2xDpOwp"
     },
     {
       "album": {
@@ -4513,6 +5175,46 @@
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 191958,
+      "name": "Grapejuice",
+      "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    {
+      "album": {
+        "name": "In hajs we trust 2",
+        "url": "https://open.spotify.com/album/5RxiT0mQKcTESbsMqoTz4G"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Grill u Gawrona",
+      "url": "https://open.spotify.com/track/7n7QAwwFJG7jOjxgACW1XC"
     },
     {
       "album": {
@@ -4637,7 +5339,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 176350,
       "name": "Harna\u015b ice tea",
       "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
@@ -4778,6 +5480,28 @@
     },
     {
       "album": {
+        "name": "Huragan",
+        "url": "https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 141290,
+      "name": "Huragan",
+      "url": "https://open.spotify.com/track/07Av3mjaJZglOphEyYKA63"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -4793,6 +5517,24 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -4823,6 +5565,24 @@
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-17",
+      "duration_ms": 71520,
+      "name": "I To Jest Fakt",
+      "url": "https://open.spotify.com/track/1e5AS7EC7VnUo40me9YNwV"
     },
     {
       "album": {
@@ -4881,7 +5641,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 149647,
       "name": "Icey",
       "url": "https://open.spotify.com/track/6BDfLF0GoHND77V6BvFeBo"
@@ -4983,6 +5743,24 @@
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 39306,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1o5oOrnleiwHct6lFiJZCy"
     },
     {
       "album": {
@@ -5114,6 +5892,28 @@
     },
     {
       "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 153598,
+      "name": "Jad\u0119 noc\u0105 na Mazurach 2",
+      "url": "https://open.spotify.com/track/1qeJpVuhVscumLYp9YOZC7"
+    },
+    {
+      "album": {
         "name": "Jad\u0119 noc\u0105 na Mazurach 2",
         "url": "https://open.spotify.com/album/7IStkgbkCECOCSB7Iqtweu"
       },
@@ -5129,7 +5929,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 153600,
       "name": "Jad\u0119 noc\u0105 na Mazurach 2",
       "url": "https://open.spotify.com/track/6oV6tM8BZgvuh1zzFpHwrn"
@@ -5250,6 +6050,46 @@
     },
     {
       "album": {
+        "name": "Jakie To Uczucie?",
+        "url": "https://open.spotify.com/album/0ByKrxjxy75v4TsWyFP4sZ"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 162935,
+      "name": "Jakie To Uczucie?",
+      "url": "https://open.spotify.com/track/01ss574aTs8b4E1fL1yDDW"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Nolyrics Beats",
+          "url": "https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Jakie To Uczucie?",
+      "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
+    },
+    {
+      "album": {
         "name": "amfisbena",
         "url": "https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4"
       },
@@ -5269,6 +6109,32 @@
       "duration_ms": 173806,
       "name": "James Bond",
       "url": "https://open.spotify.com/track/4ojZvcOAwl2rauDDdfosX4"
+    },
+    {
+      "album": {
+        "name": "Jan Pawe\u0142",
+        "url": "https://open.spotify.com/album/0g7XLIA8NELyJYf3QiJtXQ"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        },
+        {
+          "name": "Piotrek Lewandowski",
+          "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-30",
+      "duration_ms": 171645,
+      "name": "Jan Pawe\u0142",
+      "url": "https://open.spotify.com/track/1utCnSKPuPx2YmaDj5WXkV"
     },
     {
       "album": {
@@ -5313,6 +6179,24 @@
       "duration_ms": 169240,
       "name": "Janusz Walczuk",
       "url": "https://open.spotify.com/track/0YP31wufzmNmleMYjViXlb"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 167226,
+      "name": "Jazda",
+      "url": "https://open.spotify.com/track/3Pny5t3prCNBWga9Ic4NzP"
     },
     {
       "album": {
@@ -5422,6 +6306,66 @@
     },
     {
       "album": {
+        "name": "Jest tylko teraz (feat. Bedoes, Krzysztof Zalewski & Kwiat Jab\u0142oni)",
+        "url": "https://open.spotify.com/album/1HlWatPRHfTF1gw0DjMZbG"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra 2022",
+          "url": "https://open.spotify.com/artist/1WbPJm4WVQvxOEQO1GEJy7"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        },
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 217315,
+      "name": "Jest tylko teraz",
+      "url": "https://open.spotify.com/track/5dPw2tijsvrIfDKHzXYe2m"
+    },
+    {
+      "album": {
+        "name": "Jest tylko teraz (feat. Bedoes, Krzysztof Zalewski & Kwiat Jab\u0142oni)",
+        "url": "https://open.spotify.com/album/1HlWatPRHfTF1gw0DjMZbG"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra 2022",
+          "url": "https://open.spotify.com/artist/1WbPJm4WVQvxOEQO1GEJy7"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        },
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 213022,
+      "name": "Jest tylko teraz - Radio edit",
+      "url": "https://open.spotify.com/track/4qkNsta8kLO5EacT7FxipM"
+    },
+    {
+      "album": {
         "name": "Bufor",
         "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
       },
@@ -5466,6 +6410,58 @@
     },
     {
       "album": {
+        "name": "Ostatni Taniec",
+        "url": "https://open.spotify.com/album/6iiNhUsuFIJOM5rc3DMO0y"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 172799,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/1J1y8T37ay8bieIED4p4SQ"
+    },
+    {
+      "album": {
+        "name": "Jetlag",
+        "url": "https://open.spotify.com/album/4XTXF4tITQIz64oGJZ8Ctb"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 172799,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/4Oy2KzRns9F72JlSCAkpMO"
+    },
+    {
+      "album": {
         "name": "Jetlag (feat. The Plug)",
         "url": "https://open.spotify.com/album/7asDfD691s6DPhNyKuPyaT"
       },
@@ -5493,6 +6489,28 @@
       "duration_ms": 126084,
       "name": "Jetlag (feat. The Plug)",
       "url": "https://open.spotify.com/track/2jG3STVcZ9fjYlhXPi7nJ1"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 171523,
+      "name": "Jezioro",
+      "url": "https://open.spotify.com/track/3i7hI7oaXoy0i5jWFf9BBX"
     },
     {
       "album": {
@@ -5605,10 +6623,32 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 208676,
       "name": "Je\u017cyk!",
       "url": "https://open.spotify.com/track/05vIFEbXYpmGOsLgWZVJCX"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Nolyrics Beats",
+          "url": "https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208676,
+      "name": "Je\u017cyk!",
+      "url": "https://open.spotify.com/track/7jCy1opEtV4a0TnKrtsSdo"
     },
     {
       "album": {
@@ -5856,6 +6896,72 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 140241,
+      "name": "Keep Driving",
+      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
+    },
+    {
+      "album": {
+        "name": "KFC",
+        "url": "https://open.spotify.com/album/7FsPhlpy8PbOrvXhgecAC4"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 148645,
+      "name": "KFC",
+      "url": "https://open.spotify.com/track/1VSbzjgW7EiERehFVjFQRb"
+    },
+    {
+      "album": {
+        "name": "Kiedy\u015b to b\u0119dzie",
+        "url": "https://open.spotify.com/album/27jR8kcGY0dCC9S3Ilt1s2"
+      },
+      "artists": [
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        },
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Lazy The Loser",
+          "url": "https://open.spotify.com/artist/49lQtOKR5qR5Td63sbZUN5"
+        },
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 171674,
+      "name": "Kiedy\u015b to b\u0119dzie",
+      "url": "https://open.spotify.com/track/7ML3PJvlOPg477q7AloDIK"
+    },
+    {
+      "album": {
         "name": "Kingda Ka",
         "url": "https://open.spotify.com/album/6rqcJvQOVd4tcT5gJtSEiB"
       },
@@ -6073,6 +7179,28 @@
       "duration_ms": 177906,
       "name": "Kl\u0119kaj przed panem",
       "url": "https://open.spotify.com/track/4U8ZJ3uMe4epN62wEqJwrb"
+    },
+    {
+      "album": {
+        "name": "KOCIMI\u0118TKA",
+        "url": "https://open.spotify.com/album/463SxeYyF3ZsGSIoCuH9MT"
+      },
+      "artists": [
+        {
+          "name": "Dawid, Artysta",
+          "url": "https://open.spotify.com/artist/5io96qFvFJevk6P5NSM2pq"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120016,
+      "name": "KOCIMI\u0118TKA",
+      "url": "https://open.spotify.com/track/0czMIykCNrza3OEmWvJEYO"
     },
     {
       "album": {
@@ -6438,6 +7566,28 @@
     },
     {
       "album": {
+        "name": "La Manga",
+        "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
+      },
+      "artists": [
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "Josef Bratan",
+          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180806,
+      "name": "La Manga",
+      "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
+    },
+    {
+      "album": {
         "name": "In hajs we trust 3: Ostateczne rozliczenie",
         "url": "https://open.spotify.com/album/1fxOr9VDdMU7eh6pNqOC2u"
       },
@@ -6453,7 +7603,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 186533,
       "name": "Las po\u0142\u00f3wek",
       "url": "https://open.spotify.com/track/0un4Xt2ikufllyAiiBJxI8"
@@ -6478,6 +7628,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
         "name": "Megalomania",
         "url": "https://open.spotify.com/album/7bPOmqpNy4BMsKS1YcYwNG"
       },
@@ -6489,7 +7657,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 178758,
       "name": "Lato",
       "url": "https://open.spotify.com/track/0oF40HEGBYbYQufEtB81BM"
@@ -6740,6 +7908,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -6799,10 +7985,36 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 167111,
       "name": "Lot",
       "url": "https://open.spotify.com/track/00h3UmLzktuyywU2faS7os"
+    },
+    {
+      "album": {
+        "name": "Ostatni Taniec",
+        "url": "https://open.spotify.com/album/6iiNhUsuFIJOM5rc3DMO0y"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Wac Toja",
+          "url": "https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Lot",
+      "url": "https://open.spotify.com/track/4QNoyvy5MPuxV3wSQOGTIe"
     },
     {
       "album": {
@@ -6843,6 +8055,24 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 191638,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
     },
     {
       "album": {
@@ -6922,6 +8152,24 @@
     },
     {
       "album": {
+        "name": "Luty",
+        "url": "https://open.spotify.com/album/6AUAsBYmisqlhgLFfhNCZL"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "Luty",
+      "url": "https://open.spotify.com/track/5GjZXNj68pNeQrGMLDCUHs"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -6937,6 +8185,28 @@
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
+    },
+    {
+      "album": {
+        "name": "moja ciemno\u015b\u0107 (deluxe edition)",
+        "url": "https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169235,
+      "name": "mam kogo\u015b lepszego - Skytech Remix",
+      "url": "https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS"
     },
     {
       "album": {
@@ -6995,7 +8265,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 128421,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l"
@@ -7057,7 +8327,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 180033,
       "name": "Mamo ty\u015b p\u0142aka\u0142a",
       "url": "https://open.spotify.com/track/4jj5GdqQwsGu3qJQokLG9L"
@@ -7105,6 +8375,24 @@
       "duration_ms": 189767,
       "name": "Mateusz",
       "url": "https://open.spotify.com/track/6ZTYmNJgzHjJLuIXlhiOSY"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "album": {
@@ -7260,6 +8548,24 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/4CLbl4VqadjMK5qwqGrfno"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 224000,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/7u67sgTIVLxqkQTDIBTw2K"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -7271,10 +8577,32 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-15",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Palar",
+          "url": "https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 216960,
+      "name": "Milan\u00f3wek callin'",
+      "url": "https://open.spotify.com/track/5l74luBcjQrNqa62BZd7MD"
     },
     {
       "album": {
@@ -7620,6 +8948,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -7720,6 +9066,58 @@
     },
     {
       "album": {
+        "name": "Ostatni Taniec",
+        "url": "https://open.spotify.com/album/6iiNhUsuFIJOM5rc3DMO0y"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "mikipublicenemy",
+          "url": "https://open.spotify.com/artist/5ZXTSDZNzoceBOA7FLL1nA"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Myto",
+      "url": "https://open.spotify.com/track/1tb9XAB1rOFE86RUDGhvMQ"
+    },
+    {
+      "album": {
+        "name": "Myto",
+        "url": "https://open.spotify.com/album/3wfjzwdHLBjZNXcXo9WKtE"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "mikipublicenemy",
+          "url": "https://open.spotify.com/artist/5ZXTSDZNzoceBOA7FLL1nA"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 154838,
+      "name": "Myto",
+      "url": "https://open.spotify.com/track/5F5FoAZd5BC053jSW6sXuc"
+    },
+    {
+      "album": {
         "name": "Kol\u0119dy polskie (p\u0142yta niebieska)",
         "url": "https://open.spotify.com/album/6hTit9bmJgFXQ4MM5oLYGO"
       },
@@ -7797,6 +9195,24 @@
       "duration_ms": 154720,
       "name": "M\u0142ody Say10",
       "url": "https://open.spotify.com/track/4UNkylFotUHRrEZBkgQYM2"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -7893,6 +9309,24 @@
       "duration_ms": 210357,
       "name": "Nad ranem",
       "url": "https://open.spotify.com/track/7jP1BjqK9Qkbmk4rq3Vjdy"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 199999,
+      "name": "Najm\u0142odszy \u0141ajcior",
+      "url": "https://open.spotify.com/track/7yG2diFTemvipx35M4NeDP"
     },
     {
       "album": {
@@ -8146,6 +9580,36 @@
     },
     {
       "album": {
+        "name": "Nie Mam Czasu Na Wakacje",
+        "url": "https://open.spotify.com/album/6HFlpGs0TiNuCl3RZAWFH3"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Nie Mam Czasu Na Wakacje",
+      "url": "https://open.spotify.com/track/5FYjUbPN2SDxLVBWGxkb9z"
+    },
+    {
+      "album": {
         "name": "Pu\u0142apka Na Motyle",
         "url": "https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ"
       },
@@ -8268,6 +9732,28 @@
     },
     {
       "album": {
+        "name": "Numer o spodenkach kr\u00f3tkich",
+        "url": "https://open.spotify.com/album/1xVdmtInnRptFSb2lcKtA1"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-30",
+      "duration_ms": 157714,
+      "name": "Numer o spodenkach kr\u00f3tkich",
+      "url": "https://open.spotify.com/track/2lCq8c3uKMxbX6GwUNVXij"
+    },
+    {
+      "album": {
         "name": "Ziomalski Mixtape",
         "url": "https://open.spotify.com/album/18ZSIoCKeHralHR4T1iIMi"
       },
@@ -8352,6 +9838,24 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 129949,
+      "name": "Od \u015arody Do Wtorku",
+      "url": "https://open.spotify.com/track/1IhxoOfcNAAWLQ1pz2UXf7"
+    },
+    {
+      "album": {
         "name": "moja ciemno\u015b\u0107 (deluxe edition)",
         "url": "https://open.spotify.com/album/1InfnL8zdaJifAftJNBkNY"
       },
@@ -8367,7 +9871,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-03",
       "duration_ms": 180541,
       "name": "odbicie - Mark Neve Remix",
       "url": "https://open.spotify.com/track/4g3rbugeQbsMMdQPWn3mwK"
@@ -8626,6 +10130,28 @@
     },
     {
       "album": {
+        "name": "Olimp",
+        "url": "https://open.spotify.com/album/54dOztJog6IgsWfzNELsox"
+      },
+      "artists": [
+        {
+          "name": "Reto",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 142500,
+      "name": "Olimp",
+      "url": "https://open.spotify.com/track/3Sh4yTnlwiNxtFw8sWgJoe"
+    },
+    {
+      "album": {
         "name": "Oni Nie Zamkn\u0105 Mnie",
         "url": "https://open.spotify.com/album/1neRr6BPn9cxBF4gz6xNig"
       },
@@ -8693,7 +10219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 219521,
       "name": "Origami",
       "url": "https://open.spotify.com/track/3205ZtwMnzMBtr7GQZ1IbH"
@@ -8767,6 +10293,28 @@
       "duration_ms": 219546,
       "name": "Ostatni (Rojst '97 | Netflix)",
       "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
+    },
+    {
+      "album": {
+        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
     },
     {
       "album": {
@@ -9259,7 +10807,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 275666,
       "name": "Parapet\u00f3wa",
       "url": "https://open.spotify.com/track/62CHTBeGAVo9b0ivzaNdc1"
@@ -9339,6 +10887,28 @@
       "duration_ms": 160000,
       "name": "Patolove",
       "url": "https://open.spotify.com/track/24Gw6xOLcc028XPZJBQeEr"
+    },
+    {
+      "album": {
+        "name": "PATOPROHIBICJA (28.01.2022)",
+        "url": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "FUNDACJA 420",
+          "url": "https://open.spotify.com/artist/2dYknSy44veSRSUq19AOMo"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "PATOPROHIBICJA (28.01.2022)",
+      "url": "https://open.spotify.com/track/4uOHYc6dCVLcNdQBRUlA0G"
     },
     {
       "album": {
@@ -9510,6 +11080,24 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-17",
+      "duration_ms": 142866,
+      "name": "Per\u0142y",
+      "url": "https://open.spotify.com/track/2qszWv3wS3lDxy1xVXdSc6"
+    },
+    {
+      "album": {
         "name": "Piek\u0142o",
         "url": "https://open.spotify.com/album/1AsADMOctrJnWtPkEZpVw9"
       },
@@ -9554,6 +11142,98 @@
     },
     {
       "album": {
+        "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+        "url": "https://open.spotify.com/album/6I15CUN214bjchqrB35lIs"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 184477,
+      "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+      "url": "https://open.spotify.com/track/4opJMB2zYbRF24WF2tMSLB"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+      "url": "https://open.spotify.com/track/3izCgazreV74HxRq40mkFR"
+    },
+    {
+      "album": {
+        "name": "Pierwszy raz",
+        "url": "https://open.spotify.com/album/2UHVu8wQrtgrQ8NoCSQu9J"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 173253,
+      "name": "Pierwszy raz",
+      "url": "https://open.spotify.com/track/1TNpNH9b6r4U6r2E6VQA3z"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 173253,
+      "name": "Pierwszy raz",
+      "url": "https://open.spotify.com/track/6FE12L43AtddGuy2kh3x4g"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -9576,6 +11256,32 @@
     },
     {
       "album": {
+        "name": "Pijemy Za Lepszy Czas",
+        "url": "https://open.spotify.com/album/7ev2BtFyL6h0hBOU5igPyb"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Nearr",
+          "url": "https://open.spotify.com/artist/5qgvgbyv6g7BULhgas4QIy"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "Pijemy Za Lepszy Czas",
+      "url": "https://open.spotify.com/track/032CWjRKDdkVHAsrdgOj1w"
+    },
+    {
+      "album": {
         "name": "PI\u0104TEK WIECZ\u00d3R",
         "url": "https://open.spotify.com/album/62HDzNstWeU5EEN6xvXcXn"
       },
@@ -9591,10 +11297,76 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 196506,
       "name": "PI\u0104TEK WIECZ\u00d3R",
       "url": "https://open.spotify.com/track/38ryCMNFOZ6GW5udIFnQI7"
+    },
+    {
+      "album": {
+        "name": "PREZES",
+        "url": "https://open.spotify.com/album/22abKDorS8rc5OoFViqWwu"
+      },
+      "artists": [
+        {
+          "name": "Jacu\u015b",
+          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 196506,
+      "name": "PI\u0104TEK WIECZ\u00d3R",
+      "url": "https://open.spotify.com/track/3ylASir5ydGFQMwbKnCqcN"
+    },
+    {
+      "album": {
+        "name": "Pi\u0119kny \u015awiat",
+        "url": "https://open.spotify.com/album/0oCWwAD1XzR219h3uda6KK"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Kie\u0142as",
+          "url": "https://open.spotify.com/artist/0mnfjy5rfAQk4dFCiKeaAI"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233370,
+      "name": "Pi\u0119kny \u015awiat",
+      "url": "https://open.spotify.com/track/5UZubwcBr5gKfGx2r8Ds8p"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-13",
+      "duration_ms": 167191,
+      "name": "Po Co Ten Foch?",
+      "url": "https://open.spotify.com/track/0iIUGVo6Mia74TJC87HYJZ"
     },
     {
       "album": {
@@ -9787,7 +11559,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 147692,
       "name": "Polski Karnawa\u0142",
       "url": "https://open.spotify.com/track/6QzEN3q6NpVFdxktMj427g"
@@ -9861,6 +11633,24 @@
       "duration_ms": 186122,
       "name": "Poranna Rosa",
       "url": "https://open.spotify.com/track/0yeSYRUaDopaGht2nC3bx3"
+    },
+    {
+      "album": {
+        "name": "POST",
+        "url": "https://open.spotify.com/album/1sp6vUksf2fCFkMYuUXbfQ"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171055,
+      "name": "POST",
+      "url": "https://open.spotify.com/track/0u7wjOCv1AbuEkI9UVyMZ6"
     },
     {
       "album": {
@@ -10158,6 +11948,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 157800,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5U6CJC3l0EV30GUsH6wpR0"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -10335,7 +12143,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-20",
       "duration_ms": 218827,
       "name": "Proste fakty",
       "url": "https://open.spotify.com/track/6IVFyySW33VfordEuGDPHk"
@@ -10654,6 +12462,36 @@
     },
     {
       "album": {
+        "name": "Ratchet Business Class",
+        "url": "https://open.spotify.com/album/52Sk1JefeYNI9pGSg3mmB6"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 178857,
+      "name": "Ratchet Business Class",
+      "url": "https://open.spotify.com/track/5fukCaaofklUVZBfqgAvox"
+    },
+    {
+      "album": {
         "name": "Ratuj",
         "url": "https://open.spotify.com/album/4dcgq4s53OxOlHwZw40HU3"
       },
@@ -10673,6 +12511,36 @@
       "duration_ms": 157953,
       "name": "Ratuj",
       "url": "https://open.spotify.com/track/3tW8M4Jrrw9K5atA2YpMOF"
+    },
+    {
+      "album": {
+        "name": "Refren troch\u0119 jak Lana Del Rey",
+        "url": "https://open.spotify.com/album/6ZOivoC0hhmnauIIsyJ9FY"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Ka-Meal",
+          "url": "https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        },
+        {
+          "name": "SecretiveSuicide",
+          "url": "https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 289742,
+      "name": "Refren troch\u0119 jak Lana Del Rey",
+      "url": "https://open.spotify.com/track/0bJPQcJGw4G8ffS3VIjHWI"
     },
     {
       "album": {
@@ -10742,6 +12610,60 @@
     },
     {
       "album": {
+        "name": "RiRi",
+        "url": "https://open.spotify.com/album/3OOvMK5o8BJxryzRtNxYFJ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 151106,
+      "name": "RiRi",
+      "url": "https://open.spotify.com/track/4pRJeJb1KI755CsrDP8ay5"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "RiRi",
+      "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
+    },
+    {
+      "album": {
+        "name": "Ochman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cgyAvJqQXpY5dpasG4B2f"
+      },
+      "artists": [
+        {
+          "name": "Ochman",
+          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 180201,
+      "name": "River - Eurovision 2022 - Poland",
+      "url": "https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE"
+    },
+    {
+      "album": {
         "name": "amfisbena (DELUXE)",
         "url": "https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc"
       },
@@ -10757,7 +12679,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 131707,
       "name": "Robotniczy Trap",
       "url": "https://open.spotify.com/track/0Vm4VKVkSvKLyAHm6XWrfx"
@@ -10793,10 +12715,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 140968,
       "name": "Rok Tygrysa",
       "url": "https://open.spotify.com/track/26l97lmrC7PPNInBw9THPU"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 190343,
+      "name": "Rozmazana kreska",
+      "url": "https://open.spotify.com/track/4pC3CZojdcC4S90GqIpHbC"
     },
     {
       "album": {
@@ -10811,7 +12751,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 190880,
       "name": "Rozmazana kreska",
       "url": "https://open.spotify.com/track/5Dwpfuw962xZq6mNg8OgzN"
@@ -10833,6 +12773,24 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
       "album": {
@@ -10928,6 +12886,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/5ysmXHXHU9MpRb0r6hDKhA"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 153213,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/4WjLgoOVuJA85zbnyUb2xA"
+    },
+    {
+      "album": {
         "name": "Kylie Christmas",
         "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
@@ -10961,6 +12937,24 @@
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "album": {
@@ -11044,6 +13038,28 @@
     },
     {
       "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/0UVK86EK4BxRldoLrBXRMZ"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114187,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/4yRqjKmYzKutOFsQRaDAkV"
+    },
+    {
+      "album": {
         "name": "SEZON3 (Deluxe)",
         "url": "https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA"
       },
@@ -11077,7 +13093,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 206931,
       "name": "Sen we \u015bnie",
       "url": "https://open.spotify.com/track/281o5SXjmCOop5bkRh6tgu"
@@ -11255,7 +13271,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-06",
       "duration_ms": 188566,
       "name": "SKUTE BOBO",
       "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
@@ -11334,6 +13350,24 @@
     },
     {
       "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 63802,
+      "name": "Sonic Skit",
+      "url": "https://open.spotify.com/track/5d2lkJfRpza95F0c1ZhTfX"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -11353,6 +13387,24 @@
       "duration_ms": 166333,
       "name": "Spacer po lecie",
       "url": "https://open.spotify.com/track/0VFUJEHSKlKM6gyze2CkAx"
+    },
+    {
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 161086,
+      "name": "Stado Hart\u00f3w",
+      "url": "https://open.spotify.com/track/3acxoGTeBiGxYLKR4ODaws"
     },
     {
       "album": {
@@ -11397,6 +13449,24 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "Stefania (Kalush Orchestra)",
+        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 179545,
+      "name": "Stefania (Kalush Orchestra)",
+      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
     },
     {
       "album": {
@@ -11561,6 +13631,24 @@
       "duration_ms": 182957,
       "name": "suma wszystkich strach\u00f3w",
       "url": "https://open.spotify.com/track/5g1ESSHBIxKHGBeqghXwGb"
+    },
+    {
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "album": {
@@ -11793,7 +13881,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-05",
       "duration_ms": 165653,
       "name": "Szmata",
       "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
@@ -11919,6 +14007,24 @@
       "duration_ms": 177485,
       "name": "Szymek Smor\u0105g",
       "url": "https://open.spotify.com/track/2PGPOwCnhXsRNdLYSfa1CL"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 163853,
+      "name": "S\u0105siedzi",
+      "url": "https://open.spotify.com/track/0kKrjmCLOaRbv7H4K326sC"
     },
     {
       "album": {
@@ -12414,6 +14520,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 247466,
+      "name": "Traplife",
+      "url": "https://open.spotify.com/track/6ylKuNAHPNiv8ryrQ14ZrH"
+    },
+    {
+      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -12495,7 +14619,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 225000,
       "name": "Tr\u00f3jk\u0105t Bermudzki",
       "url": "https://open.spotify.com/track/3xyEgP4dQbnQtLoYDCKzEv"
@@ -12547,7 +14671,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 288820,
       "name": "T\u0119skni\u0119 sobie",
       "url": "https://open.spotify.com/track/17Tx4usaccaAWCFGGa3EQf"
@@ -12594,6 +14718,24 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+    },
+    {
+      "album": {
         "name": "Fight Club",
         "url": "https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj"
       },
@@ -12609,6 +14751,32 @@
       "duration_ms": 227053,
       "name": "V",
       "url": "https://open.spotify.com/track/6nxGAhJNQr59BHL2yuxvue"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/2ccf19f8bAysRSNLrziawu"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 199093,
+      "name": "W cenie",
+      "url": "https://open.spotify.com/track/276m46Zcnv9wAN0HL1alTu"
     },
     {
       "album": {
@@ -12744,6 +14912,42 @@
     },
     {
       "album": {
+        "name": "WCHJ",
+        "url": "https://open.spotify.com/album/2UFQSYJVmAmD5Syj4urJ32"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 118932,
+      "name": "WCHJ",
+      "url": "https://open.spotify.com/track/6p2Uq2RXAhIrNR9XUgFxtI"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-29",
+      "duration_ms": 119109,
+      "name": "WCHJ",
+      "url": "https://open.spotify.com/track/722oEPrFH6i8MHdWrM9ewF"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -12795,7 +14999,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-05",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -12861,6 +15065,40 @@
       "duration_ms": 171693,
       "name": "Witamy, witamy, witamy",
       "url": "https://open.spotify.com/track/14XliW4nEd2LDPlRiRQ0u2"
+    },
+    {
+      "album": {
+        "name": "WI\u0118CEJ DYMU",
+        "url": "https://open.spotify.com/album/7jpaMrXyirYMgkREyS3mZL"
+      },
+      "artists": [
+        {
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "flexxy2115",
+          "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 165000,
+      "name": "WI\u0118CEJ DYMU",
+      "url": "https://open.spotify.com/track/41UYfhZqeITq1gQJVstvG5"
     },
     {
       "album": {
@@ -13151,6 +15389,28 @@
       "duration_ms": 225925,
       "name": "WROOBEL DAJ TO G\u0141O\u015aNIEJ",
       "url": "https://open.spotify.com/track/33wOUjoZaJrG5qhPdtgUCp"
+    },
+    {
+      "album": {
+        "name": "WWA Melan\u017c",
+        "url": "https://open.spotify.com/album/6IsakvslNyqecM88jPlQOP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 133090,
+      "name": "WWA Melan\u017c",
+      "url": "https://open.spotify.com/track/2bhyuZ4ZXmLFCTWt18U2v7"
     },
     {
       "album": {
@@ -13542,6 +15802,24 @@
     },
     {
       "album": {
+        "name": "Zapalimy blanta",
+        "url": "https://open.spotify.com/album/0mM7JXAA8vvQ1YMg3362cn"
+      },
+      "artists": [
+        {
+          "name": "Kumi",
+          "url": "https://open.spotify.com/artist/0RprDFOPQg38NEJXqnwxUn"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 195350,
+      "name": "Zapalimy blanta",
+      "url": "https://open.spotify.com/track/5Y60b8DmqpvAgB41hW7Nac"
+    },
+    {
+      "album": {
         "name": "Zapomnij O Mnie",
         "url": "https://open.spotify.com/album/3iQf1XdsfQ4qVYaK2Pfis1"
       },
@@ -13565,6 +15843,42 @@
       "duration_ms": 204033,
       "name": "Zapomnij O Mnie",
       "url": "https://open.spotify.com/track/3My2uITQy5Fbfe0mgoB7sO"
+    },
+    {
+      "album": {
+        "name": "LETNISKO",
+        "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189901,
+      "name": "Zegarek ze Szwajcarii",
+      "url": "https://open.spotify.com/track/1exAqJDmOQJiwenSklhP0Q"
+    },
+    {
+      "album": {
+        "name": "Zegarek ze Szwajcarii",
+        "url": "https://open.spotify.com/album/3Tkhe88GUd78Dw1KD4HfQV"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 189902,
+      "name": "Zegarek ze Szwajcarii",
+      "url": "https://open.spotify.com/track/6h0FK5TBm2ZMDYzh9xYisW"
     },
     {
       "album": {
@@ -13613,7 +15927,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 223200,
       "name": "ZEMSTA",
       "url": "https://open.spotify.com/track/6MFXlDBL1gbEuLaExXcOwI"
@@ -13635,6 +15949,24 @@
       "duration_ms": 172564,
       "name": "Zero Calorie Cookie",
       "url": "https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf"
+    },
+    {
+      "album": {
+        "name": "Summertime, Vol. 3",
+        "url": "https://open.spotify.com/album/1qe8Fp22LTJWOZ1hpURFE3"
+      },
+      "artists": [
+        {
+          "name": "Kuki",
+          "url": "https://open.spotify.com/artist/3eM69n1zBUNhr7nsDLm5AH"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 204573,
+      "name": "Zgon przy porodzie",
+      "url": "https://open.spotify.com/track/3vg8Z3aNXo8zUFxPmJJGIv"
     },
     {
       "album": {
@@ -13840,6 +16172,24 @@
     },
     {
       "album": {
+        "name": "Zosia",
+        "url": "https://open.spotify.com/album/2l4qvKEMnWj4gS1xeAeRJD"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141663,
+      "name": "Zosia",
+      "url": "https://open.spotify.com/track/785dMrfsQWxg1hcPWXnyli"
+    },
+    {
+      "album": {
         "name": "SEZON3 (Deluxe)",
         "url": "https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA"
       },
@@ -13969,7 +16319,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 165213,
       "name": "\u0141yk i buch",
       "url": "https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK"
@@ -14025,6 +16375,50 @@
       "duration_ms": 173880,
       "name": "\u015alady na ciele",
       "url": "https://open.spotify.com/track/6QmwZt82aTQCGHj9kFsk7g"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 83786,
+      "name": "\u015aliczny ch\u0142opiec",
+      "url": "https://open.spotify.com/track/3kHm4pomeGOSSDXXI5PbMk"
+    },
+    {
+      "album": {
+        "name": "\u015aMIECI WYW\u00d3Z",
+        "url": "https://open.spotify.com/album/2sWzr1gIioEsc5ZGu4R5Hu"
+      },
+      "artists": [
+        {
+          "name": "Tromba",
+          "url": "https://open.spotify.com/artist/200MtPeV3YvYrfwUj66Vh8"
+        },
+        {
+          "name": "Bomba KRK",
+          "url": "https://open.spotify.com/artist/2Z6eeOgcF9WSh411HuoJxE"
+        },
+        {
+          "name": "Zeju POG",
+          "url": "https://open.spotify.com/artist/25Sdw0GeQ3Vu5oL0QuGkw5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 129360,
+      "name": "\u015aMIECI WYW\u00d3Z",
+      "url": "https://open.spotify.com/track/2MB3DbFviuZX3HJHBa8kFg"
     },
     {
       "album": {

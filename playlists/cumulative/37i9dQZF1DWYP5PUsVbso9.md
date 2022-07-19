@@ -2,9 +2,9 @@
 
 ### [70s Country](https://open.spotify.com/playlist/37i9dQZF1DWYP5PUsVbso9)
 
-> The decade of the Outlaws of Country Music \- where traditional and crossover country collided.
+> The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-96 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
+98 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,10 @@
 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 | 2018-12-10 |  |
 | [I Can't Believe She Gives It All To Me \- Single Version](https://open.spotify.com/track/7aatEerxno8RipIcuqPRG1) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Gold](https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy) | 2:23 | 2018-12-10 |  |
 | [I Love](https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [20th Century Masters: The Millennium Collection: Best Of Tom T\. Hall](https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk) | 2:05 | 2018-12-10 |  |
+| [I'd Rather Love You](https://open.spotify.com/track/6Zo1yJyD4Fj3fgg2FHxfTw) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [I'm Just Me](https://open.spotify.com/album/08t9IC4bH98d4uSihXa40x) | 2:48 | 2022-05-27 |  |
 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 | 2018-12-10 |  |
 | [If We're Not Back In Love By Monday](https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Ramblin' Fever](https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX) | 3:16 | 2018-12-10 |  |
+| [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 | 2022-05-27 |  |
 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 | 2018-12-10 |  |
 | [It's Not Love \(But It's Not Bad\)](https://open.spotify.com/track/7hxJo1SVlgaluuJm453Yt1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Very Best Of Merle Haggard](https://open.spotify.com/album/3Dxz3uQzGEsV9AFHnNwbwK) | 3:21 | 2018-12-10 |  |
 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 | 2018-12-10 |  |

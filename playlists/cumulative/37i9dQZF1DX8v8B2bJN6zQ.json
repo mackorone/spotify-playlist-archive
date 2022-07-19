@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/23j75jqckSwFHI3qKYiE83"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344852,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/7pJJrnSCxd0et4zhHFsJiJ"
+    },
+    {
+      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -671,7 +689,7 @@
       },
       "artists": [
         {
-          "name": "Ghastly",
+          "name": "GHASTLY",
           "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         },
         {
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 349714,
       "name": "Humanity - Synthatic Remix",
       "url": "https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB"
@@ -860,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4Tp41x9IOv0i2yEnONpkW9"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426086,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/2RebCZEslR9Zkm0GzdeO0J"
+    },
+    {
+      "album": {
         "name": "Kamasutra",
         "url": "https://open.spotify.com/album/2kC5NUhHHqKsqk1b5TmHob"
       },
@@ -875,7 +911,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 355804,
       "name": "Kamasutra - Raz Remix",
       "url": "https://open.spotify.com/track/3HqZ1VLMpR8g6VJTdBMJB4"
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 176401,
       "name": "Move",
       "url": "https://open.spotify.com/track/4PNbyXDTrkNzrVuVz35o3p"
@@ -1247,6 +1283,24 @@
       "duration_ms": 193548,
       "name": "Quarentoxic",
       "url": "https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y"
+    },
+    {
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/4xHZ6oFXaheV5IS8ssm6go"
+      },
+      "artists": [
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 247448,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/4HLBbEY2ZUFXq3Ygy3wN16"
     },
     {
       "album": {
@@ -1565,6 +1619,24 @@
       "duration_ms": 204800,
       "name": "TERROR",
       "url": "https://open.spotify.com/track/2JYuqwjVVDN8urZZOoGXS6"
+    },
+    {
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9"
+      },
+      "artists": [
+        {
+          "name": "Reverence",
+          "url": "https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296275,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw"
     },
     {
       "album": {

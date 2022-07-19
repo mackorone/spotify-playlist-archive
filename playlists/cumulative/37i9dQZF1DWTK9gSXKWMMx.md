@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-52 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+53 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Solo Piano Blues Improv](https://open.spotify.com/track/1UDsIm2Zv4seGt2Iz96zjb) | [Michael Silverman Jazz Piano Trio](https://open.spotify.com/artist/0higANuaOqI1ye1LxB46Aj) | [Relaxing Jazz For Quiet Moments: Relaxing Jazz Piano Music](https://open.spotify.com/album/4bHSQNDqSd5TFjHBDPsUhl) | 1:55 | 2021-12-03 |  |
 | [Something Blue](https://open.spotify.com/track/6iRURJLwZ955oKZflqydbs) | [Eximo Blue](https://open.spotify.com/artist/4lA30wTihw90nvQdV78pjm) | [Sunday Blues Piano](https://open.spotify.com/album/5PaoMcY6LaWaYToobjUrzp) | 1:52 | 2021-12-03 |  |
 | [The Grind](https://open.spotify.com/track/1V5e4VotOmyiv6gq5HF46d) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:45 | 2021-12-03 |  |
+| [The Homeless Wanderer](https://open.spotify.com/track/1NUdV2Lc7e2sbC14T7kG4q) | [Tsegue\-Maryam Guebrou](https://open.spotify.com/artist/1wJQvcfqhxMm2X6ErAZNrq) | [Ethiopiques, vol\. 21: Emahoy \(Piano Solo\)](https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk) | 7:07 | 2022-05-27 |  |
 | [The Way It Should Be Played](https://open.spotify.com/track/0MFmzLHt46NlMXp9uBwG4W) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2), [Kazuhiro Chujo](https://open.spotify.com/artist/3h7iR2Yq6tYRfZou6MjtyV) | [Bar Blues Piano BGM](https://open.spotify.com/album/3HdSdlPlAW0qSqHB229Mpg) | 2:14 | 2021-12-03 |  |
 | [Three O'clock in the Morning](https://open.spotify.com/track/57ZHl1a9YV0HlXz3wflmhT) | [Chris Banta](https://open.spotify.com/artist/2TOHI8x53t6K4EK0Jod7ve) | [Boogie Woogie & Blues Piano](https://open.spotify.com/album/3AWdv42Hu1netbXSt6gx82) | 2:46 | 2021-12-03 |  |
 | [Un piccolo vecchio swing](https://open.spotify.com/track/60DRLblaDS96A0c2Bqwp4I) | [Gian Marco La Serra](https://open.spotify.com/artist/2UqzItH7bRUBh8hfjSkKMq), [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4) | [Un piccolo vecchio swing](https://open.spotify.com/album/1dhJbEok8jzxoyVH7tYTMv) | 2:29 | 2021-12-03 |  |

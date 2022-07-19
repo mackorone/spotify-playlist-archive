@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-51 songs - 3 hr 38 min - not published yet
+51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6D9HxUt6bBYLuLVJOCEhrG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

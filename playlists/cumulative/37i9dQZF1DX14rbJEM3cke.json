@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Abuse Me (ft. L'exquisite Douleur)",
+        "url": "https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        },
+        {
+          "name": "L'exquisite Douleur",
+          "url": "https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "Abuse Me (ft. L'exquisite Douleur)",
+      "url": "https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC"
+    },
+    {
+      "album": {
         "name": "The Ends",
         "url": "https://open.spotify.com/album/2xY1XseDL8vVO8TLofNbXm"
       },
@@ -37,7 +59,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
@@ -88,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Poser",
+        "url": "https://open.spotify.com/album/0RS7DFD78rcCxwIofO13et"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59757,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/3NMToDCphGcHJMt3aYmIMC"
+    },
+    {
+      "album": {
         "name": "WRONG GENERATION",
         "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
       },
@@ -103,6 +143,24 @@
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh"
+    },
+    {
+      "album": {
+        "name": "All Girls Go to Heaven",
+        "url": "https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV"
+      },
+      "artists": [
+        {
+          "name": "Mint Green",
+          "url": "https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247659,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/45t5U9tRXXYjp40w4PZpgU"
     },
     {
       "album": {
@@ -283,7 +341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210200,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0"
@@ -305,7 +363,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 217512,
       "name": "Come Home feat. Ayla Tesler-Mabe",
       "url": "https://open.spotify.com/track/7GVgDSeuspSUANtLBmZi0D"
@@ -483,10 +541,50 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 194419,
       "name": "FCKN IN LOVE",
       "url": "https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z"
+    },
+    {
+      "album": {
+        "name": "Feel A Thing",
+        "url": "https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206820,
+      "name": "Feel A Thing",
+      "url": "https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Derek Sanders",
+          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180472,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
     },
     {
       "album": {
@@ -519,7 +617,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 177201,
       "name": "Gappetto",
       "url": "https://open.spotify.com/track/3a31RvVMMyz6dIXMN4IdNe"
@@ -559,10 +657,32 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 124705,
       "name": "god of the sunsets",
       "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
+    },
+    {
+      "album": {
+        "name": "GOOD MOOD (feat. grandson)",
+        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "GOOD MOOD (feat. grandson)",
+      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
     },
     {
       "album": {
@@ -581,6 +701,42 @@
       "duration_ms": 153600,
       "name": "Green Vision",
       "url": "https://open.spotify.com/track/0uKDTGcI5biTS7KeJw7Y4Y"
+    },
+    {
+      "album": {
+        "name": "Happier Still",
+        "url": "https://open.spotify.com/album/7zpVbElXtWfAh5pSmLaejC"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/7MqDKoOp5Y0r0CYuTnzV4N"
+    },
+    {
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263946,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s"
     },
     {
       "album": {
@@ -624,6 +780,24 @@
     },
     {
       "album": {
+        "name": "I GAVE YOU EVERYTHING",
+        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "I GAVE YOU EVERYTHING",
+      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
+    },
+    {
+      "album": {
         "name": "i'm gonna tell my therapist on you",
         "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
@@ -664,6 +838,42 @@
     },
     {
       "album": {
+        "name": "Alpha Games",
+        "url": "https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175180,
+      "name": "In Situ",
+      "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
+    },
+    {
+      "album": {
+        "name": "just in case the world ends",
+        "url": "https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "in this world of mona lisa's, you\u2019re my jackson pollock",
+      "url": "https://open.spotify.com/track/4rgvIfCpL3KPqZk1qpS4rN"
+    },
+    {
+      "album": {
         "name": "Party At The Cemetery",
         "url": "https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ"
       },
@@ -675,7 +885,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 169685,
       "name": "Jump",
       "url": "https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh"
@@ -872,7 +1082,7 @@
         },
         {
           "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/3tC2KRYIZgqJzfNm47eva7"
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
         }
       ],
       "date_added": "2022-03-04",
@@ -978,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Puzzles",
+      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
+    },
+    {
+      "album": {
         "name": "queen st",
         "url": "https://open.spotify.com/album/1Zw3TjtEff6LALfHLqOKRe"
       },
@@ -1065,7 +1293,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 153794,
       "name": "Right Now (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/1GlaDUecMXdHig5D1tgY8p"
@@ -1141,7 +1369,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 127746,
       "name": "Stains",
       "url": "https://open.spotify.com/track/0HkHg1vLHKEqFqmUZKBrYX"
@@ -1235,7 +1463,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 158146,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/5o89wZBm3klAcMufTGeYBJ"
@@ -1297,7 +1525,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
@@ -1449,7 +1677,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 184333,
       "name": "Virus",
       "url": "https://open.spotify.com/track/1Yqx7WwyNUuZ96GqpxL2J8"
@@ -1467,10 +1695,28 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 312262,
       "name": "Voodoo Child",
       "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/3THLOqXhxu22JUfr78jGPn"
+      },
+      "artists": [
+        {
+          "name": "M.A.G.S.",
+          "url": "https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237814,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1YUKuWqXXMDoIWMxeTHPDf"
     },
     {
       "album": {

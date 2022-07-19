@@ -4,7 +4,7 @@
 
 > Take a listen to the most viral interviews and episodes of JRE.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/5eFCzueFdc5RgFZzOHzFS4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

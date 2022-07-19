@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain]
 
 > A collection to remember and honor the music and life of Joe Cocker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 47 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 47 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,444 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,735 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 21 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
 | 22 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 |
 | 23 | [Spellbound](https://open.spotify.com/track/3ePwkVyUDNo4UnITQWZcRS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju \(Remastered & Expanded\)](https://open.spotify.com/album/5ShmAjEGEkWROooVfA0Amb) | 3:17 |
-| 24 | [Bad Reputation](https://open.spotify.com/track/5M5ySjWYS4s6hi2pEvEwb5) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Remastered\)](https://open.spotify.com/album/4W6ZPZ7h5P3F9oL2Y3oN75) | 2:50 |
+| 24 | [Bad Reputation](https://open.spotify.com/track/5M5ySjWYS4s6hi2pEvEwb5) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Remastered\)](https://open.spotify.com/album/4W6ZPZ7h5P3F9oL2Y3oN75) | 2:50 |
 | 25 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 26 | [Boyz Will Be Boyz](https://open.spotify.com/track/4OQ5Ts4dShOK2jWNnvIol0) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:18 |
 | 27 | [If I Don't Tell You](https://open.spotify.com/track/609lPDan9hpZ6MwAWktQ7P) | [HAVVK](https://open.spotify.com/artist/0up20da9ITwCzq8Qv9JTCB) | [Cause & Effect](https://open.spotify.com/album/50VoEgI4OSAipVLMWb5ZgI) | 3:00 |

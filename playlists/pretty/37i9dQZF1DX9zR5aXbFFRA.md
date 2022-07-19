@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zR5aXbFFRA.md) - [plain]
 
 > Kick it old school with this playlist of throwback R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,830 likes - 26 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,640 likes - 26 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

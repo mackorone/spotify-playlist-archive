@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-01",
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
   "name": "Queercore",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6Y9w0H6oDcjBBpPRKrQxKq"
+  ],
   "tracks": [
     {
       "album": {
@@ -240,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Steady Damage",
+        "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 187933,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
+    },
+    {
+      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
@@ -377,7 +397,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 143568,
       "name": "Fake Great Britain",
       "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
@@ -399,6 +419,24 @@
       "duration_ms": 176617,
       "name": "Fall Asleep",
       "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W"
+      },
+      "artists": [
+        {
+          "name": "SATE",
+          "url": "https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196947,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
     },
     {
       "album": {
@@ -467,7 +505,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 139688,
       "name": "Fuck Shades",
       "url": "https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG"
@@ -579,6 +617,42 @@
       "duration_ms": 167276,
       "name": "Good Time Charlie",
       "url": "https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW"
+    },
+    {
+      "album": {
+        "name": "Happier Still",
+        "url": "https://open.spotify.com/album/5yeZzxpwP5gQuGm8JcxFBn"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/0mcuFEYftMEs8rWQKokhqp"
+    },
+    {
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "album": {
@@ -755,7 +829,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 133520,
       "name": "Macaulay Sulkin'",
       "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
@@ -773,7 +847,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
@@ -971,7 +1045,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 55733,
       "name": "Save the Planet, You Dumb Shit",
       "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
@@ -993,6 +1067,24 @@
       "duration_ms": 208466,
       "name": "Seashore",
       "url": "https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd"
+    },
+    {
+      "album": {
+        "name": "Severed Ties",
+        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Venom",
+          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Severed Ties",
+      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
     },
     {
       "album": {
@@ -1137,6 +1229,24 @@
       "duration_ms": 114053,
       "name": "Staplegun",
       "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+    },
+    {
+      "album": {
+        "name": "Stupid Rich Boy",
+        "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
+      },
+      "artists": [
+        {
+          "name": "Froggy",
+          "url": "https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263546,
+      "name": "Stupid Rich Boy",
+      "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
     },
     {
       "album": {
@@ -1313,7 +1423,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 254200,
       "name": "Thrash Unreal",
       "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
@@ -1335,6 +1445,24 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
+    },
+    {
+      "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "album": {

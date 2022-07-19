@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 599080,
       "name": "Birdsong in the Spring Sunshine",
       "url": "https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 132695,
       "name": "Chill Waves",
       "url": "https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"
@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134625,
+      "name": "Late Night Calm (Ocean)",
+      "url": "https://open.spotify.com/track/4F7mrKbhRNQq7DqB9azPPI"
+    },
+    {
+      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 188598,
       "name": "Light Rain",
       "url": "https://open.spotify.com/track/3BA4y1ENVDOeT7XP82sk09"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 222586,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/6xUIF4Z4PcCPHHWi0Ljp5E"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 251622,
       "name": "Night Forest",
       "url": "https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 218267,
       "name": "Night Frogs",
       "url": "https://open.spotify.com/track/6S6J3x5DCHoAiQt4SKp2BB"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 273819,
       "name": "Pouring River & Forest Sounds",
       "url": "https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 235692,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa"
@@ -1376,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Wave Sounds From Scandinavia Vol. 2",
+        "url": "https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le"
+      },
+      "artists": [
+        {
+          "name": "In The Ocean (Sound FX)",
+          "url": "https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160850,
+      "name": "Soothing Waves",
+      "url": "https://open.spotify.com/track/3afgb2bRHdcpGgssbzd2kv"
+    },
+    {
+      "album": {
         "name": "Soothing Waves of Santa Barbara",
         "url": "https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af"
       },
@@ -1535,6 +1571,24 @@
       "duration_ms": 173500,
       "name": "Sweet Chirping At The Lake",
       "url": "https://open.spotify.com/track/24NfMFq9KuUvECooBHmhGq"
+    },
+    {
+      "album": {
+        "name": "Yugen (Nature)",
+        "url": "https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tapuaetai (Ocean)",
+      "url": "https://open.spotify.com/track/573SvJPVFgEoLDhesecKpG"
     },
     {
       "album": {

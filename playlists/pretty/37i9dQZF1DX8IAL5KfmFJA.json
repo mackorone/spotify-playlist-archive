@@ -1,15 +1,35 @@
 {
   "description": "In loving memory of Marie Fredriksson.",
-  "num_followers": 320379,
+  "num_followers": 328723,
   "original_name": "This Is Roxette",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDcyMjcyOSwwMDAwMDAwZDAwMDAwMTc3ZjRmOTg0MmMwMDAwMDE2ZDE1MjViNDZm",
+  "snapshot_id": "MTY1MTczNzg4NywwMDAwMDAxMDAwMDAwMTgwOTM0MDA0ZGQwMDAwMDE2ZDE1MjViNDZm",
   "tracks": [
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 145807,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+    },
+    {
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Let Your Heart Dance With Me",
         "url": "https://open.spotify.com/album/7CCCA04QzihpAgSqXdatI7"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/6Zz5roTd5pRgkrH7Mc8qdh"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
@@ -57,23 +77,7 @@
       "url": "https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
-      "album": {
-        "name": "Joyride (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Fading Like A Flower (Every Time You Leave)",
-      "url": "https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY"
-    },
-    {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
@@ -105,7 +109,23 @@
       "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
+      "album": {
+        "name": "Joyride (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Fading Like A Flower (Every Time You Leave)",
+      "url": "https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY"
+    },
+    {
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Joyride (Deluxe Version)",
         "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Tourism (2009 Version)",
         "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/3rfOs6Miteal5wQUdFx8w1"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The 30 Biggest Hits XXX",
         "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/3Me4YCKqNWLXZXl0CN3trv"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Tourism (2009 Version)",
         "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/1JJdm396S3IhI88Wh5J4YJ"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/4G9c17xuGBFJ7mmlxfbkjl"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Baladas En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/1kAJFyicakML1Bjd3Tqt1B"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/0WA3oDtGuzprTGI5qEZuTl"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The 30 Biggest Hits XXX",
         "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/5zKyU6CL3L0QA2J4jcBzRM"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/1zeqAF6Hf1lPJoNkkmNA9j"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Baladas En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Tourism (2009 Version)",
         "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/0pSv1DbIvg3ifHrEuEGdYW"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/6pQxFWetpilh5MW6oRDB6I"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Look Sharp! (2009 Version)",
         "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/1Ukp8zQgZL03ZwVhiMtYzo"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/2ml34OiH9fNXFS9bS5Q6in"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
         "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/3tSdiH7uUhSQG7QQtj9uTr"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Baladas En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Crash! Boom! Bang! (2009 Version)",
         "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/3f5r7wd7GdLHzDuCY9M0X6"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The Ballad Hits",
         "url": "https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Tourism (2009 Version)",
         "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/1IXnv4cO6Ux36cusZZrk35"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Tourism (2009 Version)",
         "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/7IvJlX1B8GBopPaVORMfBw"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The Ballad Hits",
         "url": "https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/5PadY2fmWAzotfo4pocchC"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The 30 Biggest Hits XXX",
         "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
@@ -581,11 +601,11 @@
         }
       ],
       "duration_ms": 203093,
-      "name": "The Centre of the Heart - 2003 Remaster",
+      "name": "The Centre Of The Heart - 2003 Remaster",
       "url": "https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Good Karma",
         "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/2C2zQXyclwXTaZMJ5OFsmM"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Why Don't You Bring Me Flowers?",
         "url": "https://open.spotify.com/album/7nJefveE7soD4bJREznZU9"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/3shCCsCcBrJp1uBhMlZ0XI"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Good Karma",
         "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/7B0cmoe2K9vOTaYZP8AWP8"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/0zM1qpdxZXFw8P64Kxpzfh"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/2C15CwZ176WSxYqA5YPGDJ"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "It's Possible",
         "url": "https://open.spotify.com/album/2vQKf3N26prloq9dQ5Tpai"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/3SFFxUve1VZf8FNQTCrmxT"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Good Karma",
         "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/6YkGISbmio8Lr5D5NSg3e2"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/6QsZWMB6zW0DyxNEe8Fc1r"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Baladas En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/4Uf16gygVXW2aZuuXI0qRO"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "The 30 Biggest Hits XXX",
         "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/7qEX3cgvAK1dULKCnSuKIO"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Good Karma",
         "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/652SjitiLFptw9ac34uQoz"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Baladas En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/7Jwp98P2bsP5n5lE2We8GJ"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Charm School",
         "url": "https://open.spotify.com/album/6BcDgENhbFI6CHX2rNnS98"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/3nxqafow5BCurvyPaVzH1q"
     },
     {
-      "added_at": "2020-10-01 22:02:00",
+      "added_at": "2022-05-05 08:04:35",
       "album": {
         "name": "Good Karma",
         "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"

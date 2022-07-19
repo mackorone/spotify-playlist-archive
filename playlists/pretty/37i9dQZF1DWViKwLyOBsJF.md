@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,356 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,121 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [O Come, All Ye Faithful](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [Arthur Mass](https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:56 |
+| 1 | [](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 |
 | 2 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/1Bo6w9VDrKexPdDDzWOj5n) | [Anne Stahl](https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4) | [Good Christian Men, Rejoice](https://open.spotify.com/album/5I6pNQUojbwiZz5ybNPDWO) | 2:51 |
 | 3 | [What Child Is This](https://open.spotify.com/track/2ITVOYAPc3tUdqtqt4fIdk) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 2:24 |
 | 4 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 6 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 |
 | 7 | [Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
 | 8 | [Hark! the Herald Angels Sing](https://open.spotify.com/track/6UJEo8y9mfG7oymaDrsVXM) | [Sarah Brooks](https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN) | [Simply Christmas: Instrumental Hymns](https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq) | 1:57 |
-| 9 | [Ding Dong Merrily On High](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [Christmas Piano Players](https://open.spotify.com/artist/7wxo3zltsG1q2vHTcRVJ39) | [Christmas Memories](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 1:30 |
+| 9 | [](https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa) | 0:00 |
 | 10 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
 | 11 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/38hSJb4lgLRHENsdJjSopS) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:28 |
 | 12 | [What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 17 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 |
 | 18 | [The First Noel](https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Winter Carols](https://open.spotify.com/album/1YHbzjlMq9UIyGWZmaFOc5) | 3:28 |
 | 19 | [We Three Kings \- Piano/Strings](https://open.spotify.com/track/6W2PFX6g7FlbatxRneeUCK) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 3:30 |
-| 20 | [Mary's Boy Child](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [Danny Silberman](https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa) | [My Piano Christmas](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 3:13 |
+| 20 | [](https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m) | 0:00 |
 | 21 | [A Baby Changes Everything](https://open.spotify.com/track/7JlChhx7Srvi2bOveY2HOI) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:33 |
 | 22 | [I Saw Three Ships](https://open.spotify.com/track/6vT9ESh7N1SPjLfME1oLcp) | [Traditional Song](https://open.spotify.com/artist/4xpFJ59XzXnBngXKoH9Uld), [Øyen](https://open.spotify.com/artist/4An8FdoKpdHizSEaWQlqmT) | [24 Christmas Songs & Carols Gently on My Piano](https://open.spotify.com/album/4lGJils3BIt3Uv5hQpCxM2) | 1:34 |
 | 23 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 |

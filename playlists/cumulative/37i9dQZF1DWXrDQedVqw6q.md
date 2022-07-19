@@ -4,13 +4,13 @@
 
 > Calm music to help you focus on your reading.
 
-142 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+146 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-03-21 |  |
 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 | 2022-03-21 |  |
-| [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 |  |
+| [Arpegio D](https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8) | [The Zapan](https://open.spotify.com/artist/4uUjj6DgZwg15yMXzoHlg0) | [Arpegio D](https://open.spotify.com/album/18uoUXsDi5Pmr2I4iDXJEa) | 2:02 | 2022-03-21 | 2022-05-06 |
 | [Artemis](https://open.spotify.com/track/7vnEWOMLuZLpkbJk8HFuus) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Artemis](https://open.spotify.com/album/4lmVb8zknEw7BpRaLkc6mQ) | 2:25 | 2022-03-21 |  |
 | [At Ease](https://open.spotify.com/track/0EkXqaHCTYzqJm3rsbYe58) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 3:18 | 2022-03-21 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-03-21 |  |
@@ -31,9 +31,10 @@
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-03-21 |  |
 | [Comfort](https://open.spotify.com/track/46iE5py9jK5Oxxtqp3IwBI) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Comfort](https://open.spotify.com/album/6GnVpoGbHb2Qoha334e1e9) | 2:13 | 2022-03-21 |  |
 | [Coming Home](https://open.spotify.com/track/30ACOtgBj1PqZs1erzFZkU) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Coming Home](https://open.spotify.com/album/2mzEZ3vrrDLk3pA381vWiG) | 2:52 | 2022-03-21 |  |
-| [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 |  |
+| [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 | 2022-06-25 |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
+| [Decades](https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc) | [The Crystal Cathedral](https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm) | [Centripetal](https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S) | 2:10 | 2022-05-25 |  |
 | [Desert Silhouette](https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:43 | 2022-03-21 |  |
 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 | 2022-03-21 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2022-03-21 |  |
@@ -105,6 +106,7 @@
 | [Skipping Rocks](https://open.spotify.com/track/6ZGM0mFQi4mJSqTNqruU7s) | [Kitt River](https://open.spotify.com/artist/79CdA7sDrqRL3FJymXgjM8) | [Skipping Rocks](https://open.spotify.com/album/4x6dhgo8hBSxaL24XC4fKP) | 2:13 | 2022-03-21 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-03-21 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2022-03-21 |  |
+| [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 |  |
 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 | 2022-03-21 |  |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2022-03-21 |  |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2022-03-21 |  |
@@ -112,10 +114,12 @@
 | [Staying Safe](https://open.spotify.com/track/3uokV7euVTekwkO5SzFpnK) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Staying Safe](https://open.spotify.com/album/60dIOyOzwfUnHjnanDTQaZ) | 3:18 | 2022-03-21 |  |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2022-03-21 |  |
 | [Sum Of The Parts](https://open.spotify.com/track/1eaeklJFnNjG203g72IKuj) | [Dana Kiley](https://open.spotify.com/artist/0o3CUUalrv4PcKlVTcUvBO) | [Sum Of The Parts](https://open.spotify.com/album/3JMRUEN6Mq7BxBotzuyPue) | 2:18 | 2022-03-21 |  |
+| [Summer](https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Summer](https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f) | 2:47 | 2022-07-08 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2022-03-21 |  |
 | [Surging Shapes](https://open.spotify.com/track/1CAk7eIlboHJ3FfmGeSzlV) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Surging Shapes](https://open.spotify.com/album/28GVLis8M4eYoMCxbXTgis) | 2:54 | 2022-03-21 |  |
 | [Surrender](https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6) | [Frozen Forests](https://open.spotify.com/artist/3JMKuMIkqPhpsXO0nAUhs9) | [Elevate](https://open.spotify.com/album/3Jr1NEoQbFZ9xi1fYa4Fq6) | 3:32 | 2022-03-21 |  |
 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 | 2022-03-21 |  |
+| [Take 5 \- Solips \- Klaus Sahm Rework](https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Klaus Sahm](https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Take 5 \- Solips \(Klaus Sahm Rework\)](https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96) | 2:55 | 2022-06-24 |  |
 | [Tapestry](https://open.spotify.com/track/048o35tQQ7UzsXhargOg58) | [Gemine](https://open.spotify.com/artist/5w2xbgzp4LNrCqUdKn6rlC) | [Tapestry](https://open.spotify.com/album/4vbSpUsxGb5Ve7WjusZekX) | 2:20 | 2022-03-21 |  |
 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2022-03-21 |  |
 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2022-03-21 |  |
@@ -139,7 +143,7 @@
 | [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 | 2022-03-21 |  |
 | [Unknown](https://open.spotify.com/track/0CBVAaE1crsiQgrYui9qEg) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Spectrum](https://open.spotify.com/album/3HUqYyfkP0i5CqCAf2m1dM) | 2:33 | 2022-03-21 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2022-03-21 |  |
-| [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2022-03-21 |  |
+| [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2022-03-21 | 2022-05-06 |
 | [Violet Illusion](https://open.spotify.com/track/2owgy2BLBfzhszYsdkYZEc) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Violet illusion](https://open.spotify.com/album/6g9FrS4LYp5tgX29nLnFT7) | 4:25 | 2022-03-21 |  |
 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 | 2022-03-21 |  |
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2022-03-21 |  |

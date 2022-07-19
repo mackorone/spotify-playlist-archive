@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-06-06",
       "duration_ms": 152613,
       "name": "Baby Now That I've Found You",
       "url": "https://open.spotify.com/track/3QU7LEmu0j98vtsZfRk22n"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-04",
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-07",
       "duration_ms": 203240,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 162306,
       "name": "Come See About Me - Stereo Version",
       "url": "https://open.spotify.com/track/22dLbMQkxE1cpDpu4VM3zc"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 230693,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56"
@@ -499,10 +499,28 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-14",
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Bobby Darin",
+        "url": "https://open.spotify.com/album/4lEEthFJDOnSAdi2JfKxyH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/3YM4s7iD4LLkPcmdCztWdd"
     },
     {
       "album": {
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 128266,
       "name": "Everyday - Single Version",
       "url": "https://open.spotify.com/track/5MMU5J8jtVDZiryukBeruJ"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 140440,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
@@ -602,7 +620,7 @@
       "artists": [
         {
           "name": "Oliver",
-          "url": "https://open.spotify.com/artist/46Amhna9FwJWprGpPD14C7"
+          "url": "https://open.spotify.com/artist/3kn0edxse3lzsrrtrNTtyU"
         }
       ],
       "date_added": "2021-01-05",
@@ -625,7 +643,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 156493,
       "name": "Happy Days (Theme from ''Happy Days'')",
       "url": "https://open.spotify.com/track/1CCuMgDauGruOwxrSh9NSW"
@@ -665,6 +683,24 @@
       "duration_ms": 166466,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6fuvYxKEvU4inG8eTB2nYi"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 140400,
+      "name": "I Feel Fine - Remastered 2009",
+      "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
     },
     {
       "album": {
@@ -722,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3yS8gcHmbKBK6XhLmq7ZcK"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 131953,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4gxaW9GptUInJt5RYljbmn"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Jackson 5",
         "url": "https://open.spotify.com/album/2oJRp9GV4zpFzpnneGZqZH"
       },
@@ -733,7 +787,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 180893,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj"
@@ -751,7 +805,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 145466,
       "name": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
       "url": "https://open.spotify.com/track/0hbC2CAJidLslKqJ39Lxh4"
@@ -805,7 +859,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 119933,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/2LW29dEaw4EWNkHNzRma2O"
@@ -866,6 +920,24 @@
     },
     {
       "album": {
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -877,7 +949,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
@@ -913,7 +985,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 172186,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
@@ -985,7 +1057,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": "2022-07-06",
       "duration_ms": 146360,
       "name": "Rhythm of the Rain",
       "url": "https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP"
@@ -1021,7 +1093,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
@@ -1075,7 +1147,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-15",
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
@@ -1136,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "The Great Buddy Holly",
+        "url": "https://open.spotify.com/album/2YFdtCUiNcDIPUNdazX2Mg"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 150000,
+      "name": "That'll Be The Day - Decca Version",
+      "url": "https://open.spotify.com/track/6w40zjwprgA1s99VUxvuMx"
+    },
+    {
+      "album": {
         "name": "The Loco-Motion",
         "url": "https://open.spotify.com/album/6tm67XDibv0P4PZPqRC2mf"
       },
@@ -1147,7 +1237,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-18",
       "duration_ms": 145173,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/78X60f17Lbn4zfN7gxQLSH"
@@ -1169,6 +1259,24 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of The Isley Brothers-The Motown Years",
+        "url": "https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 175893,
+      "name": "This Old Heart Of Mine (Is Weak For You) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/0CPwNXw5qD9588d86nropo"
     },
     {
       "album": {
@@ -1219,7 +1327,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": "2022-07-05",
       "duration_ms": 123520,
       "name": "Wake up Little Susie",
       "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"

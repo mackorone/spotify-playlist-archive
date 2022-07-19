@@ -1226,6 +1226,36 @@
     },
     {
       "album": {
+        "name": "Colourise",
+        "url": "https://open.spotify.com/album/18OaP6pTpdip9DMEl3OrsL"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "London Choral Sinfonia",
+          "url": "https://open.spotify.com/artist/5DxtR5z156ZfT5EyhGRD44"
+        },
+        {
+          "name": "Michael Waldron",
+          "url": "https://open.spotify.com/artist/3yfhIRL4Q5iIZzcWN7xD7V"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 954373,
+      "name": "The Lark Ascending (Arr. P. Drayton for Violin & Choir)",
+      "url": "https://open.spotify.com/track/3wfcHU7zosDEdfHbNwnmG1"
+    },
+    {
+      "album": {
         "name": "Bryars, Maskats & Silvestrov: On Photography",
         "url": "https://open.spotify.com/album/58qFFn7dFshCUQo3t3Pkb5"
       },
@@ -1603,6 +1633,36 @@
       "duration_ms": 317933,
       "name": "Whilst Great Is Our Poverty",
       "url": "https://open.spotify.com/track/4x0gTKvCwR5gn9yFw0xWWX"
+    },
+    {
+      "album": {
+        "name": "You Know Me",
+        "url": "https://open.spotify.com/album/624ZBZmFpq61KTZA9J6AJk"
+      },
+      "artists": [
+        {
+          "name": "Kristina Arakelyan",
+          "url": "https://open.spotify.com/artist/6UXUq4Med1aSPNuLd6RG3W"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Pembroke College Girls\u2019 Choir",
+          "url": "https://open.spotify.com/artist/1yOR9zLmkleTdu93bcuQRT"
+        },
+        {
+          "name": "Joseph Beadle",
+          "url": "https://open.spotify.com/artist/2jVxDO6KuBAyDG34mhngFg"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "You Know Me",
+      "url": "https://open.spotify.com/track/6FHGjrG7b7XFcrzZ4Tmbep"
     },
     {
       "album": {

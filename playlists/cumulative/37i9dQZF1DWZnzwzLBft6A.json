@@ -60,7 +60,7 @@
     },
     {
       "album": {
-        "name": "J.S. Bach: Keyboard Concertos",
+        "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
       "artists": [
@@ -90,7 +90,7 @@
     },
     {
       "album": {
-        "name": "J.S. Bach: Keyboard Concertos",
+        "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
       "artists": [
@@ -261,6 +261,44 @@
       "duration_ms": 636426,
       "name": "Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro",
       "url": "https://open.spotify.com/track/7ImuASnzYk9YHn3isFjZ0j"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
+        "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Hannah Roberts",
+          "url": "https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr"
+        },
+        {
+          "name": "Ben Davies",
+          "url": "https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU"
+        },
+        {
+          "name": "Desmond Neysmith",
+          "url": "https://open.spotify.com/artist/1JDbWFeVdrcXAhwIrE9xf4"
+        },
+        {
+          "name": "Max Ruisi",
+          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Come, Sweet Death (Arr. for 5 Cellos)",
+      "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
     },
     {
       "album": {
@@ -1273,6 +1311,28 @@
       "duration_ms": 167533,
       "name": "Sinfonia in D Major, BWV 1045: III. Allegro",
       "url": "https://open.spotify.com/track/61RhvwAkvVnPLTv0nzUK0w"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Inventions, Duets & Sinfonias, BWVV 772-805",
+        "url": "https://open.spotify.com/album/3OFxiRVu7f6uo4CzqL5rWo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Maurizio Zaccaria",
+          "url": "https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126350,
+      "name": "Sinfonia No. 2 in C Minor, BWV 788",
+      "url": "https://open.spotify.com/track/3rVkgrxefCZ9IhUzvWQuW4"
     },
     {
       "album": {

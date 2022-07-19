@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 590743,
+  "num_followers": 596432,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzg1OSwwMDAwMDAwMGY1NDgxMWNhMGE2NWJlMDA2ZmUzYWE4NjFlZjFhZmQx",
+  "snapshot_id": "MTY1ODE5NDMzMywwMDAwMDAwMGMwYzIzOTUwZjIxYWMwMmI2ZThiMGVhNjRkMGMyZDQ4",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -43,22 +43,66 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/3VMVyCKspZA2gbmzNol02g"
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/24gwZpFPcNhXmz4p9h4HcH"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
         }
       ],
-      "duration_ms": 228340,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
+      "duration_ms": 275581,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/17MqdngAFPDWcaSt9wkPQi"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Touch From You",
+        "url": "https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "duration_ms": 237257,
+      "name": "Touch From You",
+      "url": "https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Believe For It (Live)",
+        "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -83,38 +127,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Believe For It (Live)",
-        "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Touch From You",
-        "url": "https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        }
-      ],
-      "duration_ms": 237257,
-      "name": "Touch From You",
-      "url": "https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
       },
@@ -127,246 +139,6 @@
       "duration_ms": 238084,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Greenleaf Soundtrack - Season 2",
-        "url": "https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won't He Do It",
-      "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Changing Your Story",
-        "url": "https://open.spotify.com/album/33Ew8vazpkcYhyyNMv8jhj"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 373771,
-      "name": "Jehovah Jireh - Live",
-      "url": "https://open.spotify.com/track/7l6yY4kttGsr96vM9vY7XX"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 275582,
-      "name": "Just for Me",
-      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/3dyaOFr6Y4DzicPueFKSPP"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        },
-        {
-          "name": "Deborah Carolina",
-          "url": "https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m"
-        }
-      ],
-      "duration_ms": 282540,
-      "name": "I Am (Radio Edit)",
-      "url": "https://open.spotify.com/track/5MRxO8zELsdc5ZHMV0y9JZ"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/6qRdVs6kUETGZ7GxlnydG7"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/4YlCbMRNnELzzAj333hvEz"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Jesus Is Born",
-        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
-      },
-      "artists": [
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 185439,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 346765,
-      "name": "In Spite Of Me",
-      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
-        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "Good & Loved (feat. DOE) - Stellars 2020",
-      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Deitrick Haddon & Hill City Worship Camp",
-        "url": "https://open.spotify.com/album/54fmFSJ25qYXO4mUD9wt3O"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 458498,
-      "name": "A Billion People",
-      "url": "https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "We Gon\u2019 Be Alright",
-        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "We Gon\u2019 Be Alright",
-      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -399,6 +171,150 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Changing Your Story",
+        "url": "https://open.spotify.com/album/33Ew8vazpkcYhyyNMv8jhj"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 373771,
+      "name": "Jehovah Jireh - Live",
+      "url": "https://open.spotify.com/track/7l6yY4kttGsr96vM9vY7XX"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/3dyaOFr6Y4DzicPueFKSPP"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "Deborah Carolina",
+          "url": "https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m"
+        }
+      ],
+      "duration_ms": 282540,
+      "name": "I Am (Radio Edit)",
+      "url": "https://open.spotify.com/track/5MRxO8zELsdc5ZHMV0y9JZ"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/3VMVyCKspZA2gbmzNol02g"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 228340,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 185439,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 346765,
+      "name": "In Spite Of Me",
+      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Greenleaf Soundtrack - Season 2",
+        "url": "https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won't He Do It",
+      "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
+        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 232232,
+      "name": "Good & Loved (feat. DOE) - Stellars 2020",
+      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI"
       },
@@ -415,50 +331,54 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/6qRdVs6kUETGZ7GxlnydG7"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        },
-        {
-          "name": "Donald Lawrence & Company",
-          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 278460,
-      "name": "Famous For (I Believe) [Sunday A.M. Version]",
-      "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
+      "duration_ms": 283040,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/4YlCbMRNnELzzAj333hvEz"
     },
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/54fmFSJ25qYXO4mUD9wt3O"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -475,102 +395,6 @@
       "duration_ms": 376360,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/50CnlEH8KWLVNPxi29dnwb"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        }
-      ],
-      "duration_ms": 423106,
-      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
-      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Gotta Believe",
-        "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 170843,
-      "name": "Gotta Believe",
-      "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Anthony Brown & group therAPy",
-        "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
-      },
-      "artists": [
-        {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
-        },
-        {
-          "name": "Group Therapy",
-          "url": "https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -647,6 +471,78 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "We Gon\u2019 Be Alright",
+        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "We Gon\u2019 Be Alright",
+      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
       },
@@ -671,74 +567,46 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Glory / Stranger",
-        "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
+        "name": "Gospel According To PJ",
+        "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
       "artists": [
         {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         },
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
         },
         {
-          "name": "Shannon Sanders",
-          "url": "https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
         }
       ],
-      "duration_ms": 210122,
-      "name": "Glory / Stranger",
-      "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
+      "duration_ms": 232345,
+      "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
+      "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
     },
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+        "name": "Gotta Believe",
+        "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 379562,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+      "duration_ms": 170843,
+      "name": "Gotta Believe",
+      "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -759,8 +627,48 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Love Theory",
-        "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Donald Lawrence & Company",
+          "url": "https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as"
+        }
+      ],
+      "duration_ms": 278460,
+      "name": "Famous For (I Believe) [Sunday A.M. Version]",
+      "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "More Than Anything (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "More Than Anything (Radio Edit)",
+      "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
@@ -768,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 251258,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
+      "duration_ms": 275582,
+      "name": "Just for Me",
+      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -787,6 +695,86 @@
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 269579,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrew Wilson",
+          "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "You're Bigger (Radio Edit)",
+      "url": "https://open.spotify.com/track/6H81l4DgtgdEvfRGow3gI9"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     }
   ],
   "unique_name": "Spread the Gospel",

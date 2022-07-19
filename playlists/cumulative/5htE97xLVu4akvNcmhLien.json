@@ -726,7 +726,7 @@
       "artists": [
         {
           "name": "Andresito Otro Corte",
-          "url": "https://open.spotify.com/artist/1OMtneDgHO2gWTsAPSZMCu"
+          "url": "https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo"
         }
       ],
       "date_added": "2020-09-15",
@@ -3417,12 +3417,12 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
           "name": "Lenny Tav\u00e1rez",
           "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         },
         {
           "name": "Zion",
@@ -7728,7 +7728,7 @@
       "artists": [
         {
           "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         },
         {
           "name": "Jory Boy",
@@ -9704,6 +9704,28 @@
     },
     {
       "album": {
+        "name": "Que M\u00e1s Da",
+        "url": "https://open.spotify.com/album/43GyPCDV9p3Jf87IdmjZvq"
+      },
+      "artists": [
+        {
+          "name": "Sam J",
+          "url": "https://open.spotify.com/artist/4v2oVa2u78nWdgTLG2BbLE"
+        },
+        {
+          "name": "Malave",
+          "url": "https://open.spotify.com/artist/0i3zXKKwGsdAZPMv59OXFk"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165867,
+      "name": "Que M\u00e1s Da",
+      "url": "https://open.spotify.com/track/5ynW8BAyud480f3aaamePh"
+    },
+    {
+      "album": {
         "name": "Que Raro",
         "url": "https://open.spotify.com/album/5SbxItfw88TI8QgKy4hHEJ"
       },
@@ -11535,40 +11557,6 @@
     {
       "album": {
         "name": "Sola",
-        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "date_added": "2017-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 307910,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "album": {
-        "name": "Sola",
         "url": "https://open.spotify.com/album/7l7VGR0l3UdqyMeFW20Maq"
       },
       "artists": [
@@ -11609,6 +11597,40 @@
       "duration_ms": 200814,
       "name": "sOlA",
       "url": "https://open.spotify.com/track/3JXhH0oMikYjoz9qDmpiWr"
+    },
+    {
+      "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2017-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307910,
+      "name": "Sola (Remix)",
+      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
       "album": {
@@ -12878,7 +12900,7 @@
         },
         {
           "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         },
         {
           "name": "Arcangel",

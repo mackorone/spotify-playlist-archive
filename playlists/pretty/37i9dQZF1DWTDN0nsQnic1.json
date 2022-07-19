@@ -1,13 +1,29 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 10108,
+  "num_followers": 11840,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAwYTAwMDAwMTgwNzM3YjkzMzMwMDAwMDE3ZDliNGUzOTA0",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwZDAwMDAwMTgyMDAwNTNmZGMwMDAwMDE3ZDliNGUzOTA0",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Crescent Spoon",
+        "url": "https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30"
+      },
+      "artists": [
+        {
+          "name": "Regressor",
+          "url": "https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT"
+        }
+      ],
+      "duration_ms": 313500,
+      "name": "Saffron Sunset",
+      "url": "https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -390,10 +406,6 @@
         {
           "name": "Ben Rosett",
           "url": "https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ"
-        },
-        {
-          "name": "Eternity Forever",
-          "url": "https://open.spotify.com/artist/57jIhbre5LNTiR4Pr60wUs"
         }
       ],
       "duration_ms": 198823,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,632 likes - 47 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,993 likes - 47 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 38 | [O Come, Emmanuel](https://open.spotify.com/track/0qTC6qO2CjO3Iu14kcm3yz) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/5K5lN54zQk4TLtVEnXuYjF) | 1:34 |
 | 39 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
 | 40 | [Es ist ein Ros’ entsprungen](https://open.spotify.com/track/0r5JI9ZsG495DXCtnqYp9A) | [Michael Praetorius](https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2), [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas Presence](https://open.spotify.com/album/1xGSHVD5al3Jh6KnCY3D4b) | 2:35 |
-| 41 | [Holst: In the Bleak Midwinter \(2008 Version\)](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 |
+| 41 | [Holst: 3 Hymns for the English Hymnal: No\. 1, In the Bleak Mid\-Winter](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 |
 | 42 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/50rROXBrkI47R1yd8uHPWy) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [The World For Christmas](https://open.spotify.com/album/436UoH1iPqAScPS84usYOM) | 5:11 |
 | 43 | [O Holy Night \- Acapella](https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [O Holy Night](https://open.spotify.com/album/1hBZmVyxC8dHxPZpzL7Zwu) | 4:30 |
 | 44 | [Joy To The World](https://open.spotify.com/track/6B02IyJebCQknVIIT9K3eL) | [The Seasonal Singers](https://open.spotify.com/artist/5WHHG2CE0jbiLXiQZPm2fO) | [Holiday Songs](https://open.spotify.com/album/0WsyaxYre2udKrLLppHVm8) | 2:04 |

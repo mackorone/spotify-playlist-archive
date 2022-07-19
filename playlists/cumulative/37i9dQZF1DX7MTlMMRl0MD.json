@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Tu lista favorita de Bachata. Cover: Chesca",
+  "description": "Tu lista favorita de Bachata. Cover: Prince Royce, Nicky Jam, Jay Wheeler",
   "name": "Bachata Lovers",
   "published_playlist_ids": [
     "45MmNxif45mvjmVUvvusGU"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 215594,
       "name": "A\u00fan No Es Tarde",
       "url": "https://open.spotify.com/track/4y10P06aOJBnBzfJczW5z5"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197694,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/4ui5Hqz3BHuPFRDCSe05D7"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 219000,
       "name": "Brindemos por Ellas",
       "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
@@ -454,6 +454,28 @@
     },
     {
       "album": {
+        "name": "Como Duele",
+        "url": "https://open.spotify.com/album/5ge3dQLnbFHYb043rtbh5M"
+      },
+      "artists": [
+        {
+          "name": "YouMaico",
+          "url": "https://open.spotify.com/artist/192QJ1f1rDbTrroEg5rSaf"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 202850,
+      "name": "Como Duele",
+      "url": "https://open.spotify.com/track/3ptfTUrZq8it3KljikCCPr"
+    },
+    {
+      "album": {
         "name": "Hablamos En La Cama",
         "url": "https://open.spotify.com/album/4v6H0THnWjG3pakiQ9zQR9"
       },
@@ -465,7 +487,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 224160,
       "name": "Como Lo Niego",
       "url": "https://open.spotify.com/track/2lFlP9UEVDVOpF58RirmO7"
@@ -523,7 +545,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 232038,
       "name": "Contando Minutos",
       "url": "https://open.spotify.com/track/64WDNSCm5ZljHQikDj8tnC"
@@ -545,7 +567,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 205990,
       "name": "Criminal (Bachata Version)",
       "url": "https://open.spotify.com/track/3xzzzL1kdD6zCwDVdq4jWg"
@@ -567,6 +589,28 @@
       "duration_ms": 243540,
       "name": "Cuando Se Acaba el Placer",
       "url": "https://open.spotify.com/track/4PcyHWQiux9kwZ43cUJA9W"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "album": {
@@ -621,7 +665,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 221559,
       "name": "Culpa al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0KBfGeUKLjNaernyUDUqgM"
@@ -705,7 +749,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 211831,
       "name": "Dec. 21",
       "url": "https://open.spotify.com/track/5HXMo0UmeCdK9c8uDm9KKz"
@@ -745,7 +789,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-14",
       "duration_ms": 183649,
       "name": "Descarados",
       "url": "https://open.spotify.com/track/37LgVakNT0vVHU8C7kPjKd"
@@ -893,7 +937,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 209942,
       "name": "El Gui\u00f3n",
       "url": "https://open.spotify.com/track/0vhTmQVJYu1IGKcGHfwkYO"
@@ -965,7 +1009,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 166011,
       "name": "Ella Baila",
       "url": "https://open.spotify.com/track/16OF2jzcdoPXg8RbmPcYcC"
@@ -1149,7 +1193,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-20",
       "duration_ms": 226777,
       "name": "Hoy en Dia",
       "url": "https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn"
@@ -1257,7 +1301,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
@@ -1409,7 +1453,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
@@ -1815,7 +1859,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 223410,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/02OLLxwUuwBKo7ZeoSks1E"
@@ -1924,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "Pa Que Tu Me Llamas",
+        "url": "https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235228,
+      "name": "Pa Que Tu Me Llamas",
+      "url": "https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn"
+    },
+    {
+      "album": {
         "name": "Hasta El Fin",
         "url": "https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02"
       },
@@ -1964,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "Pilot (Extended Version)",
+        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
+    },
+    {
+      "album": {
         "name": "Pincesa Mia",
         "url": "https://open.spotify.com/album/5Cn3fxulYCvMIosx6iYaLn"
       },
@@ -1993,7 +2073,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 220889,
       "name": "Por Amor",
       "url": "https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK"
@@ -2011,7 +2091,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-06-24",
       "duration_ms": 201906,
       "name": "Por Tu Culpa",
       "url": "https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi"
@@ -2069,7 +2149,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 259053,
       "name": "Que Cosas Tiene El Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS"
@@ -2105,7 +2185,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 228000,
       "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
       "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
@@ -2123,7 +2203,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-05",
       "duration_ms": 269120,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl"
@@ -2141,7 +2221,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 271013,
       "name": "Quien Sabe",
       "url": "https://open.spotify.com/track/5ZkPBld8QqfUkS6aJG40yj"
@@ -2213,7 +2293,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 241874,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf"
@@ -2267,7 +2347,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-09",
       "duration_ms": 224000,
       "name": "Rompe Corazones",
       "url": "https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA"
@@ -2285,7 +2365,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 216290,
       "name": "Saborearte de Nuevo",
       "url": "https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl"
@@ -2307,6 +2387,24 @@
       "duration_ms": 201480,
       "name": "Se Busca un Corazon",
       "url": "https://open.spotify.com/track/6Ng9Utc9N8OUP7qEJjOaCO"
+    },
+    {
+      "album": {
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/0cMIPSoZNwGg0lsIEcXLxH"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/5SYyFYbEVvwgKUEkAFXcQB"
     },
     {
       "album": {
@@ -2397,10 +2495,36 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 236330,
       "name": "Si supieras",
       "url": "https://open.spotify.com/track/1d0ELue9Kv1kVKCgoplzLW"
+    },
+    {
+      "album": {
+        "name": "Si Te Preguntan...",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan...",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
       "album": {
@@ -2451,7 +2575,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 226613,
       "name": "Sigo Siendo El Due\u00f1o",
       "url": "https://open.spotify.com/track/2amDEL2PDqi5VruNH3Z387"
@@ -2509,7 +2633,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 251800,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7f7hBMVpdt2KGVOMHCGQnl"
@@ -2650,6 +2774,24 @@
     },
     {
       "album": {
+        "name": "Te Lo Pido por Favor",
+        "url": "https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170208,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa"
+    },
+    {
+      "album": {
         "name": "Soy el Mismo",
         "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
       },
@@ -2715,7 +2857,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Traici\u00f3nalo Conmigo",
       "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
@@ -2733,7 +2875,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 234899,
       "name": "Traiganme Alcohol",
       "url": "https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K"
@@ -2751,7 +2893,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-06-27",
       "duration_ms": 234899,
       "name": "Traiganme Alcohol",
       "url": "https://open.spotify.com/track/7bWXvDVdp8CsNozvQ4lD9X"
@@ -2805,7 +2947,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 208517,
       "name": "Tu Tienes Tu Vida",
       "url": "https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4"
@@ -2907,10 +3049,46 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 250928,
       "name": "Volvieron a Darme las 6",
       "url": "https://open.spotify.com/track/6XBhB6lKrqeAnKn4CB0sVz"
+    },
+    {
+      "album": {
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Ya Fu\u00e9 Bastante",
+      "url": "https://open.spotify.com/track/0S76ldR7V4vQ0BDjRFKxi4"
+    },
+    {
+      "album": {
+        "name": "Yo Tengo Un Angel",
+        "url": "https://open.spotify.com/album/6J7lnjPKdPcZXvsw6dZWSu"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 243500,
+      "name": "Yo Tengo Un Angel",
+      "url": "https://open.spotify.com/track/2Wp00eqjQ0Z9IlE26Ls5yG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD"

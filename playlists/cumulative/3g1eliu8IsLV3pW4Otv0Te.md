@@ -4,7 +4,7 @@
 
 > 
 
-169 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/4hCSnoct0qgbc2W4GKc86U)
+170 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/4hCSnoct0qgbc2W4GKc86U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Everyday](https://open.spotify.com/track/2fBzt7a2PeIUkqZ6Hb3Udp) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Everyday / Come Back Home](https://open.spotify.com/album/7EACeFoLFyKH6ADn8HiY1H) | 5:19 | 2016-10-04 |  |
 | [Evil Beauty](https://open.spotify.com/track/4FXj4ZKMO2dSkqiAhV7L8t) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Reach For Glory](https://open.spotify.com/album/0XHpO9qTpqJJQwa2zFxAAE) | 3:48 | 2016-01-14 |  |
 | [Eyes Closed](https://open.spotify.com/track/13xDNcUNMt4L9y6ckxeQJ1) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Eyes Closed](https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl) | 6:19 | 2016-01-14 |  |
-| [Fade](https://open.spotify.com/track/6uX6WZUzgIQ6a6diuUIWVg) | [Hybrid Minds feat\. Katie's Ambition](https://open.spotify.com/artist/49PdNpyUlk2c7vpr1RApOr), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Katie's Ambition](https://open.spotify.com/artist/6I53ZTCmJL1e8Prbm6GVFo) | [UKF Drum & Bass 2012](https://open.spotify.com/album/09j92c9KobGlhxS5erfpLJ) | 5:17 | 2016-10-05 |  |
+| [Fade](https://open.spotify.com/track/6uX6WZUzgIQ6a6diuUIWVg) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Katie's Ambition](https://open.spotify.com/artist/6I53ZTCmJL1e8Prbm6GVFo) | [UKF Drum & Bass 2012](https://open.spotify.com/album/09j92c9KobGlhxS5erfpLJ) | 5:17 | 2016-10-05 |  |
 | [Fade \- Vocal](https://open.spotify.com/track/64ZM9Ynl5ICN95ZMpbI1Kf) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM), [Maiday](https://open.spotify.com/artist/4qK6oQkDJ2tGgSrjhyTuLL) | [Fade](https://open.spotify.com/album/3u7hhcoPnKLpm8w66wnGjM) | 3:23 | 2016-01-14 |  |
 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 | 2019-01-04 |  |
 | [Far Away](https://open.spotify.com/track/4Il5kSTG6ZE6puGv2fx0Dq) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Cross The Line](https://open.spotify.com/album/0p4wVrItpi1R9IB2hkk9I4) | 4:09 | 2016-01-27 |  |
@@ -138,6 +138,7 @@
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |
 | [Starscapes \- Rameses B Remix](https://open.spotify.com/track/2aw6LCIiF9kqmKvZmm92wB) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Starscapes](https://open.spotify.com/album/1X0na0LkeuKTH5nGJAP7fA) | 4:51 | 2016-07-14 |  |
 | [Stay High \- Habits Remix](https://open.spotify.com/track/4J8WVHRtXM6SMgsF7qohXy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Truth Serum](https://open.spotify.com/album/11goDT4Xan4nsWpiFIsf6N) | 4:18 | 2016-01-15 |  |
+| [Strawberry Robots](https://open.spotify.com/track/6p6t7KpxaxceOf9MqqWYMK) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX), [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV), [austenyo](https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM) | [Strawberry Robots Pack](https://open.spotify.com/album/2Cj8NszoHAguiOTBJJ4M2y) | 3:00 | 2022-06-17 |  |
 | [Strip That Down](https://open.spotify.com/track/4Ro98RCK90oHqqSZUnTFq5) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Strip That Down](https://open.spotify.com/album/4PrFFsJ2WAD46IXNdfx2dx) | 3:24 | 2019-04-05 |  |
 | [subconscious](https://open.spotify.com/track/7mDwXNqwxpK1nPqaJiPhc5) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD) | [subconscious](https://open.spotify.com/album/28r9zbvyEp3fRbMD8Yupt2) | 3:06 | 2016-01-15 |  |
 | [Suffocate](https://open.spotify.com/track/1zgr42SsVORYzUEfWrYNdw) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX) | [UKF Drum & Bass 2012](https://open.spotify.com/album/09j92c9KobGlhxS5erfpLJ) | 4:55 | 2016-01-15 |  |

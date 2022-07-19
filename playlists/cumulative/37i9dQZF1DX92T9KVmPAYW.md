@@ -4,7 +4,7 @@
 
 > Classic Ambient and Environmental music made in Japan.
 
-48 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
+49 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2021-12-23 |  |
 | [Ishiura \(Abridged\)](https://open.spotify.com/track/5p4jRUhL9DRX8mbITOJRiS) | [Toshi Tsuchitori](https://open.spotify.com/artist/7hXNts8FQfZudbAwVv5AWx) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:13 | 2021-12-23 |  |
 | [Komorebi](https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 3:55 | 2021-12-23 |  |
+| [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-05-27 |  |
 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 | 2021-12-23 |  |
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2021-12-23 |  |
 | [SAKU](https://open.spotify.com/track/533TZP8RSOvLW5aydnvfRp) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 5:45 | 2021-12-23 |  |

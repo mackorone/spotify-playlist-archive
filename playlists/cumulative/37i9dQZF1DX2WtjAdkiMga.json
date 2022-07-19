@@ -62,6 +62,42 @@
     },
     {
       "album": {
+        "name": "Alice In Wonderland",
+        "url": "https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3"
+      },
+      "artists": [
+        {
+          "name": "Beth McLaughlin",
+          "url": "https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
+      "duration_ms": 180778,
+      "name": "Alice In Wonderland",
+      "url": "https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw"
+      },
+      "artists": [
+        {
+          "name": "Esmee Price",
+          "url": "https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/1Ysn52DqNxhj2EWYIAvFWk"
+    },
+    {
+      "album": {
         "name": "The Piano Album",
         "url": "https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K"
       },
@@ -95,6 +131,24 @@
       "duration_ms": 127396,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ"
+    },
+    {
+      "album": {
+        "name": "Jazz Standard Lullabies",
+        "url": "https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140913,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf"
     },
     {
       "album": {
@@ -149,6 +203,24 @@
       "duration_ms": 176203,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s"
+    },
+    {
+      "album": {
+        "name": "Con Alma",
+        "url": "https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI"
+      },
+      "artists": [
+        {
+          "name": "Stephani Scotty",
+          "url": "https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155124,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St"
     },
     {
       "album": {
@@ -469,7 +541,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 150973,
       "name": "In Her Eyes",
       "url": "https://open.spotify.com/track/0PjTLWBueZwMxxEnGl9WAc"
@@ -487,10 +559,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 234000,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr"
+    },
+    {
+      "album": {
+        "name": "In The Wee Small Hours Of The Morning",
+        "url": "https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd"
+      },
+      "artists": [
+        {
+          "name": "Natalie Fall",
+          "url": "https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr"
     },
     {
       "album": {
@@ -836,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Jazz Standard Lullabies",
+        "url": "https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147675,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx"
+    },
+    {
+      "album": {
         "name": "Lullabies",
         "url": "https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ"
       },
@@ -959,6 +1067,24 @@
       "duration_ms": 186316,
       "name": "Sometimes When You Sleep",
       "url": "https://open.spotify.com/track/15LAuh3deuRHFf07mxhObf"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5IOWturujCNhauxjhTAeyn"
+      },
+      "artists": [
+        {
+          "name": "Helene Augbert",
+          "url": "https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206898,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2cwhWgieqTWkEC1BL1pmhh"
     },
     {
       "album": {
@@ -1088,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107620,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ"
+    },
+    {
+      "album": {
         "name": "You Stepped Out of a Dream",
         "url": "https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM"
       },
@@ -1135,10 +1279,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 187906,
       "name": "What a Difference a Day Made",
       "url": "https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star",
+        "url": "https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz"
+      },
+      "artists": [
+        {
+          "name": "Ted Gaupt",
+          "url": "https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178264,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11"
     },
     {
       "album": {

@@ -1173,10 +1173,36 @@
       ],
       "date_added": "2020-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276400,
+      "date_removed": "2022-07-02",
+      "duration_ms": 29048,
       "name": "Roman nepi tancok (Romanian Folk Dances), BB 68: Romanian Folk Dances, Sz 56",
       "url": "https://open.spotify.com/track/12edUqCUDcO7Msb4X42Q2z"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Romanian Folk Dances, Sz. 56",
+        "url": "https://open.spotify.com/album/5cN3SnsXVmAil7xtDjwOKl"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Orchestra of the Swan",
+          "url": "https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq"
+        },
+        {
+          "name": "David le Page",
+          "url": "https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402253,
+      "name": "Romanian Folk Dances, Sz. 56 - Arr. for String Orchestra by Arthur Wilner",
+      "url": "https://open.spotify.com/track/2XokuveOGJtpPvhIb3nLvy"
     },
     {
       "album": {
@@ -1467,50 +1493,20 @@
           "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
         },
         {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        },
-        {
           "name": "Swedish Radio Symphony Orchestra",
           "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
       "date_added": "2020-01-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 918026,
-      "name": "Violin Concerto No. 2, Sz 112: Violin Concerto No. 2, Sz 112: I. Allegro non troppo",
+      "name": "Violin Concerto No. 2, Sz. 112: I. Allegro non troppo (excerpt)",
       "url": "https://open.spotify.com/track/6eJO3KPASyzKrVP9izfCEC"
-    },
-    {
-      "album": {
-        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
-        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 556493,
-      "name": "Violin Concerto No. 2, Sz 112: Violin Concerto No. 2, Sz 112: II. Andante tranquillo",
-      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
     },
     {
       "album": {
@@ -1541,6 +1537,36 @@
       "duration_ms": 625800,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/7h31TCL1ZXVQvIGQSAgODu"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
+        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556493,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
     },
     {
       "album": {

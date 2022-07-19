@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 
 > Songs to help your kids learn in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 65 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 65 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 | 23 | [The Solar System Song](https://open.spotify.com/track/38EBb626VY2MLEgvRw7UUL) | [Kids TV 123](https://open.spotify.com/artist/0zC8dOCRSyLAqsBq99du1f) | [Educational Songs 1](https://open.spotify.com/album/1wzSIovQv6FXAUvn6TAq3U) | 4:11 |
 | 24 | [The Piranha Song](https://open.spotify.com/track/7Dsbo5Csnzyn47M9DtHc7i) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:07 |
 | 25 | [Me Gusta \(I Like It\)](https://open.spotify.com/track/4C1r13PlR7cmnCf1eEnU8X) | [Rosita](https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf), [Sesame Street's Luis](https://open.spotify.com/artist/5gkgowgHErOkz7nmAed0hD), [Sesame Street's Maria](https://open.spotify.com/artist/57OWlDKazIVF2qqFDWoFFp), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [¡C es para Canta!](https://open.spotify.com/album/2Am4OCwxhJuQKLAstBzhNq) | 1:49 |
-| 26 | [Sound Like An Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 |
+| 26 | [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 |
 | 27 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
 | 28 | [Shapes Train Song](https://open.spotify.com/track/4DvfoXiSwTT6TOAQ2XTwmx) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 2:02 |
 | 29 | [La Canción del Tren](https://open.spotify.com/track/6z7Z8LLWdAIgyeTcOe5XH4) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 2:02 |

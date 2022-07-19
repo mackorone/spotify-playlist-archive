@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 190760,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
@@ -177,6 +177,42 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "album": {
@@ -407,7 +443,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
@@ -425,7 +461,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
@@ -497,7 +533,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
@@ -587,7 +623,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 230000,
       "name": "Hypnotize - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
@@ -623,7 +659,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
@@ -699,7 +735,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 152360,
       "name": "It Mek",
       "url": "https://open.spotify.com/track/1tKAI8igKXPqovihv4Px57"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-11",
       "duration_ms": 214533,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-06-08",
       "duration_ms": 213760,
       "name": "Let's Make Love and Listen to Death from Above - Dan Carey Mix",
       "url": "https://open.spotify.com/track/5GTEB0XsQBwCaiJYaIRCgg"
@@ -775,7 +811,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-08",
       "duration_ms": 239621,
       "name": "Like Sugar",
       "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
@@ -811,10 +847,28 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 168946,
       "name": "Long Shot Kick De Bucket",
       "url": "https://open.spotify.com/track/1fsp1ZvQ6F5nf8Ut5TBtAX"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/3hZvMcitlooQEsZOvGXKON"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 260399,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3I1AAFYxXMWeg0BlnihXHb"
     },
     {
       "album": {
@@ -979,7 +1033,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165789,
-      "name": "Move on Up",
+      "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
@@ -1017,6 +1071,24 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
+    },
+    {
+      "album": {
+        "name": "1000 Volts of Holt (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318106,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
     },
     {
       "album": {
@@ -1075,7 +1147,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
@@ -1097,6 +1169,24 @@
       "duration_ms": 172933,
       "name": "One Love / People Get Ready",
       "url": "https://open.spotify.com/track/4OsZ1vrenrtSbqLJxOceKl"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 204733,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn"
     },
     {
       "album": {
@@ -1129,10 +1219,28 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-15",
       "duration_ms": 244306,
       "name": "Police & Thieves",
       "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
+    },
+    {
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268746,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd"
     },
     {
       "album": {
@@ -1183,7 +1291,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 150013,
       "name": "Return Of Django",
       "url": "https://open.spotify.com/track/3wvj54RWGQIVlc3cgepoNs"
@@ -1298,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "album": {
         "name": "My Boo: R&B Dance",
         "url": "https://open.spotify.com/album/6FuLaTw08gPezpqqmm12VR"
       },
@@ -1313,6 +1439,28 @@
       "duration_ms": 271920,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6fMEVICO96WV6yd1zA2hiS"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 226013,
+      "name": "Sunshine (feat. Anthony Hamilton)",
+      "url": "https://open.spotify.com/track/5y8WWi1BaKHXfuln0XoIZs"
     },
     {
       "album": {
@@ -1417,10 +1565,50 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
+    },
+    {
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 185333,
+      "name": "The Upsetter",
+      "url": "https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "album": {
@@ -1453,7 +1641,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 174160,
       "name": "Train To Skaville",
       "url": "https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs"
@@ -1515,7 +1703,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 209186,
       "name": "Two Sevens Clash",
       "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
@@ -1533,7 +1721,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-06-22",
       "duration_ms": 231786,
       "name": "Uptown Top Ranking",
       "url": "https://open.spotify.com/track/6l9urkfD8rPoX5EbCszrb0"
@@ -1573,6 +1761,28 @@
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "album": {
+        "name": "Maxi",
+        "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
+      },
+      "artists": [
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        },
+        {
+          "name": "John Gallen",
+          "url": "https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 218426,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
     },
     {
       "album": {
@@ -1641,7 +1851,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W"

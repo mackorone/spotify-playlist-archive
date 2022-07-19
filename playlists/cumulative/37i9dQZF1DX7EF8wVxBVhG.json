@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "sinewave party",
+        "url": "https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3"
+      },
+      "artists": [
+        {
+          "name": "Binaural Bob",
+          "url": "https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Alpha Overload (1.4hz)",
+      "url": "https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P"
+    },
+    {
+      "album": {
         "name": "Binaural Concentration",
         "url": "https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l"
       },
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 134489,
       "name": "Binaural Alpha Sinus 200 Hz - 208 Hz",
       "url": "https://open.spotify.com/track/5h7DAfGthRE8WMRi0SoBCL"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 160000,
       "name": "Breathe (Alpha 10 Hz)",
       "url": "https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge"
@@ -2709,6 +2727,24 @@
       "duration_ms": 190112,
       "name": "Deepstate Beta",
       "url": "https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM"
+    },
+    {
+      "album": {
+        "name": "Alpha Sinus Therapy",
+        "url": "https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7"
+      },
+      "artists": [
+        {
+          "name": "Drone",
+          "url": "https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183883,
+      "name": "Dreams - Alpha Sinus 105 Hz - 107 Hz",
+      "url": "https://open.spotify.com/track/7mudqKvibtfNDLwKVs46Wl"
     },
     {
       "album": {
@@ -3526,6 +3562,24 @@
     },
     {
       "album": {
+        "name": "Hillsmiota",
+        "url": "https://open.spotify.com/album/2fKzE71lVCPhSi7h9tnk6i"
+      },
+      "artists": [
+        {
+          "name": "Milo Graves",
+          "url": "https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170687,
+      "name": "Hillsmiota (Binaural Alpha 73.6 Hz - 81 Hz)",
+      "url": "https://open.spotify.com/track/26DCohYR7X4PJGRQoEVn6c"
+    },
+    {
+      "album": {
         "name": "Deep Binaural",
         "url": "https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v"
       },
@@ -3829,6 +3883,24 @@
       "duration_ms": 105511,
       "name": "Natarajasana - Alpha Sinus",
       "url": "https://open.spotify.com/track/1phOmHd9mYpXut6FsUXo60"
+    },
+    {
+      "album": {
+        "name": "Alpha Sinus Therapy",
+        "url": "https://open.spotify.com/album/4bhxlTMGlBXf5W96IEdPl7"
+      },
+      "artists": [
+        {
+          "name": "Drone",
+          "url": "https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185751,
+      "name": "Nation - Alpha Sinus 62,5 Hz - 66 Hz",
+      "url": "https://open.spotify.com/track/21OVFEyW5pmHO3PHkteoxA"
     },
     {
       "album": {

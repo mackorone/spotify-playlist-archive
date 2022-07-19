@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3"
+    },
+    {
+      "album": {
         "name": "The Day After",
         "url": "https://open.spotify.com/album/2TB0dVyAIenZAbADN8PWcL"
       },
@@ -363,24 +399,6 @@
       "duration_ms": 128780,
       "name": "French Riviera",
       "url": "https://open.spotify.com/track/6BbQ8awsF9a0cdldNXM5aP"
-    },
-    {
-      "album": {
-        "name": "Fry Day",
-        "url": "https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR"
-      },
-      "artists": [
-        {
-          "name": "Freckle & Pete",
-          "url": "https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3"
-        }
-      ],
-      "date_added": "2020-10-20",
-      "date_added_asterisk": true,
-      "date_removed": null,
-      "duration_ms": 217582,
-      "name": "Fry Day",
-      "url": "https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3"
     },
     {
       "album": {
@@ -770,7 +788,7 @@
     },
     {
       "album": {
-        "name": "listener's digest",
+        "name": "Listener's Digest",
         "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
       },
       "artists": [
@@ -783,7 +801,7 @@
       "date_added_asterisk": true,
       "date_removed": null,
       "duration_ms": 253706,
-      "name": "Peace and tranquility to earth",
+      "name": "Peace and Tranquility to Earth",
       "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
     },
     {
@@ -1095,24 +1113,6 @@
       "duration_ms": 143414,
       "name": "Tivoli",
       "url": "https://open.spotify.com/track/6I79CoVndGtHiVwUZlSnI9"
-    },
-    {
-      "album": {
-        "name": "Turning Heads",
-        "url": "https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA"
-      },
-      "artists": [
-        {
-          "name": "Boyakaza",
-          "url": "https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5"
-        }
-      ],
-      "date_added": "2020-10-20",
-      "date_added_asterisk": true,
-      "date_removed": null,
-      "duration_ms": 186032,
-      "name": "Turning Heads",
-      "url": "https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR"
     },
     {
       "album": {

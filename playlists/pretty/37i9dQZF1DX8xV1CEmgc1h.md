@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 
 > Chart topping hits from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,110 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,270 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xV1CEmgc1h.md) - [plain]
 | 53 | [Touch Me In The Morning](https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Touch Me In The Morning](https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7) | 3:27 |
 | 54 | [Sir Duke](https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e) | 3:54 |
 | 55 | [I Wish](https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e) | 4:12 |
-| 56 | [Love Machine](https://open.spotify.com/track/2j4k2Q2SGEijVhTv8pycv2) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Billy Griffin](https://open.spotify.com/artist/1C4zTmHRkm3XRJSex4vTiZ) | [City Of Angels](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 6:55 |
+| 56 | [Love Machine](https://open.spotify.com/track/2j4k2Q2SGEijVhTv8pycv2) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Billy Griffin](https://open.spotify.com/artist/1C4zTmHRkm3XRJSex4vTiZ) | [City Of Angels \(Expanded Edition\)](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 6:55 |
 | 57 | [The Happening \- Album Version \(Stereo\)](https://open.spotify.com/track/6WGtWrzsyCtHjUod3dKbIU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/5OnA6kyXMAxx6SEPPSPcGW) | 2:49 |
 | 58 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 59 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |

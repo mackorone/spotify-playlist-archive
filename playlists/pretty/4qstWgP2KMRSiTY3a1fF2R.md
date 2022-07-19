@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4qstWgP2KMRSiTY3a1fF2R.md) - [plain]
 
 > Get your morning on the ropes with some ANGRY ROCK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 939 likes - 22 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 938 likes - 22 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

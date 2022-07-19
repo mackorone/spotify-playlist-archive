@@ -1,13 +1,297 @@
 {
-  "description": "The best in blues right now. Cover: Mavis Staples",
-  "num_followers": 36688,
+  "description": "The best in blues right now. Cover: Kirk Fletcher",
+  "num_followers": 38722,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA0ODAwMDAwMTgwNzM3YjkzM2YwMDAwMDE4MDY3MTkyNDk1",
+  "snapshot_id": "MTY1Nzg5MTkxMSwwMDAwMDA1NDAwMDAwMTgyMDIwZWY4MWYwMDAwMDE4MjAyMGVjZTA2",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Heartache by the Pound",
+        "url": "https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Heartache by the Pound",
+      "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 190436,
+      "name": "Virginia Soil",
+      "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
+    },
+    {
+      "added_at": "2022-07-12 17:38:18",
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Sleeping Dogs Best Left Alone",
+        "url": "https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 239320,
+      "name": "Sleeping Dogs Best Left Alone",
+      "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Rich White Honky Blues",
+        "url": "https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "I Like It When It's Stormy",
+      "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "I'm Just Getting Started!",
+      "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 275054,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "I Like Games",
+        "url": "https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu"
+      },
+      "artists": [
+        {
+          "name": "Arthur Brown",
+          "url": "https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm"
+        }
+      ],
+      "duration_ms": 261946,
+      "name": "I Like Games - Single Version",
+      "url": "https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "Mount up on the Wings of the King",
+      "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Bitches Blues",
+        "url": "https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "Still The World Goes Round",
+      "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Strong as Steel",
+        "url": "https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Strong as Steel",
+      "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "In Blood",
+        "url": "https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Casablanca",
+          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
+        },
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "duration_ms": 245930,
+      "name": "In Blood",
+      "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Through Being Blue Over You",
+      "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Sitting on Top of the World / Love Will Never Say Goodbye",
+        "url": "https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp"
+      },
+      "artists": [
+        {
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -59,22 +343,6 @@
       "duration_ms": 328000,
       "name": "Star",
       "url": "https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Don't You Forget About Me",
-        "url": "https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Don't You Forget About Me",
-      "url": "https://open.spotify.com/track/6p1Sim61QcZgVWIEq5s5n7"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -143,22 +411,6 @@
       "duration_ms": 223546,
       "name": "Cornbread, Peas, Black Molasses",
       "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/78AbRfKfLgNCIPsm03P72R"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 309175,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -253,54 +505,6 @@
       "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Georgia Women",
-        "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Georgia Women",
-      "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "The Razor's Edge",
-        "url": "https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "The Razor's Edge",
-      "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Smokestack Lightning",
-        "url": "https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Smokestack Lightning",
-      "url": "https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Bad Man",
@@ -315,42 +519,6 @@
       "duration_ms": 279223,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Something's Got a Hold of My Heart / Made Up Mind",
-        "url": "https://open.spotify.com/album/3XZEdt2q21fNTX6ZISUR9l"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 292053,
-      "name": "Something's Got a Hold of My Heart",
-      "url": "https://open.spotify.com/track/6Im2CaHEparEKMF7ooUQ44"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lone Star Blues",
-        "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -371,42 +539,6 @@
       "duration_ms": 342853,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "You Got To Move",
-        "url": "https://open.spotify.com/album/0CuehB0whg0SkLEqF8dDNa"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Levon Helm",
-          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
-        }
-      ],
-      "duration_ms": 161139,
-      "name": "You Got To Move",
-      "url": "https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Oh Betty",
-        "url": "https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 236219,
-      "name": "Oh Betty",
-      "url": "https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -457,22 +589,6 @@
       "url": "https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Here I'm Is",
@@ -487,22 +603,6 @@
       "duration_ms": 147106,
       "name": "Here I'm Is",
       "url": "https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Baby We're Through",
-        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -535,22 +635,6 @@
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Highest Bidder",
-        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "Highest Bidder",
-      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -889,22 +973,6 @@
       "url": "https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "The Heart That Never Waits",
-        "url": "https://open.spotify.com/album/6SX2nIztLCFIYH9UMABV7R"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 351253,
-      "name": "The Heart That Never Waits",
-      "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "You've Been Cheatin'",
@@ -1001,22 +1069,6 @@
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Retro Mofo",
-        "url": "https://open.spotify.com/album/2roKb6eMy2lrlcWrYh26oi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Retro Mofo",
-      "url": "https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "The Blues Album",
@@ -1095,22 +1147,6 @@
       "duration_ms": 177693,
       "name": "Further",
       "url": "https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Waste Time With Me",
-        "url": "https://open.spotify.com/album/3ObYcqtUkxQkxjSxCla997"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Waste Time With Me",
-      "url": "https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc"
     },
     {
       "added_at": "2021-08-06 04:01:00",
@@ -1201,22 +1237,6 @@
       "url": "https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 427480,
-      "name": "Time Clocks",
-      "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
-    },
-    {
       "added_at": "2021-09-17 05:00:00",
       "album": {
         "name": "One Way Out",
@@ -1249,22 +1269,6 @@
       "url": "https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Make Me Feel Alright",
-      "url": "https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Twisted Ambition",
@@ -1295,22 +1299,6 @@
       "duration_ms": 227434,
       "name": "Poor Black Children",
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Move Into The Light",
-        "url": "https://open.spotify.com/album/3C35eldU8vnhAa8UTUFX1Q"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "Move Into The Light",
-      "url": "https://open.spotify.com/track/2ndX8xxdVrgFn698rfqao5"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1365,22 +1353,6 @@
       "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Wild Women Don't Have the Blues",
-        "url": "https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 218163,
-      "name": "Wild Women Don't Have the Blues",
-      "url": "https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Resurrection",
@@ -1411,66 +1383,6 @@
       "duration_ms": 244746,
       "name": "Hangover Blues",
       "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "One Foot On The Path",
-      "url": "https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
-        "url": "https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        },
-        {
-          "name": "Robert Randolph",
-          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
-        },
-        {
-          "name": "Tony Coleman",
-          "url": "https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8"
-        }
-      ],
-      "duration_ms": 273981,
-      "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
-      "url": "https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Hardware",
-        "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
-      },
-      "artists": [
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "She\u2019s On Fire",
-      "url": "https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4"
     }
   ],
   "unique_name": "Got Blues",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,516 likes - 26 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,550 likes - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 | 17 | [Battle Cry \- Yumi And The Weather Remix](https://open.spotify.com/track/4xVBt22eGoJREVJbJfGyHR) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Yumi And The Weather](https://open.spotify.com/artist/23HlNyyzzIg06ROx6tBsIS) | [Battle Cry](https://open.spotify.com/album/3xgTEWqlVyMGUC1bhGWCCA) | 4:26 |
 | 18 | [Vegas](https://open.spotify.com/track/4BL0cwm1vMK8Yl45gtdbKz) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Ratchet](https://open.spotify.com/album/3AH5uKRSJRdahN9ut2XE9D) | 4:16 |
 | 19 | [Trash](https://open.spotify.com/track/0QrWi1AvY401URVZlz08EW) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Trash](https://open.spotify.com/album/3LivFdxK0GoykeIifallwV) | 3:36 |
-| 20 | [Boom](https://open.spotify.com/track/05oJbmJsjisyNM4NWwS7re) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 3:26 |
+| 20 | [Boom](https://open.spotify.com/track/05oJbmJsjisyNM4NWwS7re) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 3:26 |
 | 21 | [Queen](https://open.spotify.com/track/52WTLETEHs5jwCr7LCq0VW) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT) | 3:50 |
 | 22 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/7tvMOBSGPAl4Gyiq6fdiRd) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel To The World](https://open.spotify.com/album/2NBh8cWPygbHUaLUmhYSJt) | 3:59 |
 | 23 | [Another Lonely Night](https://open.spotify.com/track/7kOJsVkJXvLQPQ9osGWeKd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:45 |

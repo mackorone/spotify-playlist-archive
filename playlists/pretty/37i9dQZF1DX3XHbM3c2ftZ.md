@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 
 > Celebrate Dad with these songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 34 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 34 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

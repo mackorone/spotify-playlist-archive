@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5"
       },
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 261959,
       "name": "Bobby & Rowdy (feat. Knucks)",
       "url": "https://open.spotify.com/track/61cml5GtNpau6KAsVjxvcV"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 214477,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/0Va1ocTchf8fzw7BFBdgI8"
@@ -438,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Clearest of Signs",
+        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135416,
+      "name": "Clearest of Signs",
+      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
+    },
+    {
+      "album": {
         "name": "NO EGO",
         "url": "https://open.spotify.com/album/3wPjVwHURwkLHIDpJUX4NE"
       },
@@ -449,7 +485,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 200000,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/7yN30glPvQFjFZFftY0zbt"
@@ -543,10 +579,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 94068,
       "name": "Die Young X Drill",
       "url": "https://open.spotify.com/track/06kwlhUxySmSgchQLHrF4F"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
     },
     {
       "album": {
@@ -595,6 +649,24 @@
       "duration_ms": 227727,
       "name": "Drunk and Confused 2.0",
       "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
+    },
+    {
+      "album": {
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "album": {
@@ -685,6 +757,24 @@
       "duration_ms": 245034,
       "name": "Have You Ever Heard A Love Song On Drill?",
       "url": "https://open.spotify.com/track/7x19JpxcxilHUPLbrWdpDW"
+    },
+    {
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "album": {
@@ -793,6 +883,24 @@
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "album": {
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
     },
     {
       "album": {
@@ -970,13 +1078,31 @@
     },
     {
       "album": {
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
       "artists": [
         {
-          "name": "k5ive2x",
-          "url": "https://open.spotify.com/artist/7BZMHodxOCQJivEi3S2CFe"
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
         }
       ],
       "date_added": "2022-04-05",
@@ -1220,6 +1346,28 @@
     },
     {
       "album": {
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+    },
+    {
+      "album": {
         "name": "Next Up - S4-E2",
         "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
       },
@@ -1325,7 +1473,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 218943,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7nXLZ598IP6i7YN0YjMBsW"
@@ -1368,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "One Pop",
+        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
+      },
+      "artists": [
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "One Pop",
+      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
       },
@@ -1379,7 +1545,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 188041,
       "name": "Pain",
       "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
@@ -1433,10 +1599,36 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 146991,
       "name": "Popular Loner",
       "url": "https://open.spotify.com/track/5e3E0LdMpP3JgfHJn7NUAc"
+    },
+    {
+      "album": {
+        "name": "Popular Loner (Remix) [feat. ARZ & JBee]",
+        "url": "https://open.spotify.com/album/5dgLLxotbmPvWKKTDeP3au"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        },
+        {
+          "name": "JBee",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Popular Loner (Remix) [feat. ARZ & JBee]",
+      "url": "https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6"
     },
     {
       "album": {
@@ -1451,7 +1643,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169945,
       "name": "Reference",
       "url": "https://open.spotify.com/track/3ujWwlBBHka38mAH2y4Wi5"
@@ -1473,6 +1665,24 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "album": {
@@ -1541,7 +1751,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208695,
       "name": "Soulja",
       "url": "https://open.spotify.com/track/6ilDAH3APXX7JI5funRb0j"
@@ -1809,7 +2019,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 192287,
       "name": "War",
       "url": "https://open.spotify.com/track/7M5MRJOlIBklSmQBWpPbSP"
@@ -1827,7 +2037,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 201030,
       "name": "What's the Point - Radio Edit",
       "url": "https://open.spotify.com/track/24sWJqJEiYdycQnA62uys6"
@@ -1870,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
+    },
+    {
+      "album": {
         "name": "c2c",
         "url": "https://open.spotify.com/album/27sSI2AzVhhO1ldaekF2Wz"
       },
@@ -1903,7 +2131,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 150857,
       "name": "You Get It",
       "url": "https://open.spotify.com/track/2lIvFaS40srVFc5oPNNlcO"

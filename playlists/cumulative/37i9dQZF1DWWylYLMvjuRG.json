@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-05",
-  "description": "The biggest party hits of the 2010s. Cover: Pitbull.",
+  "description": "The biggest party hits of the 2010s. Cover: Flo Rida",
   "name": "Party Hits 2010s",
   "published_playlist_ids": [
     "577hBQgsPRJu9fnDHiVtpO"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 277675,
       "name": "2U (feat. Justin Bieber) - Tujamo Remix",
       "url": "https://open.spotify.com/track/3QO7zoDums3r4dBVmSyPRE"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-05",
       "duration_ms": 238493,
       "name": "Bananza (Belly Dancer)",
       "url": "https://open.spotify.com/track/0dNPpDFdvzj6XFIRzg2hmp"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-30",
       "duration_ms": 209423,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/2pyhJF2s7myJiXP9ceczB9"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": "2022-05-22",
       "duration_ms": 201254,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-26",
       "duration_ms": 276968,
       "name": "Chained To The Rhythm - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk"
@@ -1133,8 +1133,8 @@
           "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         },
         {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+          "name": "Matt Masurka",
+          "url": "https://open.spotify.com/artist/5RIimuW7xG7et3aQX1idHV"
         }
       ],
       "date_added": "2021-03-22",
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-15",
       "duration_ms": 237266,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1vqT6w3wtW3UoF2JQOFqws"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-27",
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 211460,
       "name": "Don't Be so Hard on Yourself",
       "url": "https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 206120,
       "name": "Don't Stop the Party (feat. TJR)",
       "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-14",
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
@@ -1838,6 +1838,32 @@
     },
     {
       "album": {
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -2015,7 +2041,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-07-13",
       "duration_ms": 158095,
       "name": "Happier - Breathe Carolina Remix",
       "url": "https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX"
@@ -2113,7 +2139,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": "2022-07-17",
       "duration_ms": 185714,
       "name": "High Hopes - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
@@ -2157,7 +2183,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -2201,6 +2227,24 @@
       "duration_ms": 221493,
       "name": "How to Be a Heartbreaker",
       "url": "https://open.spotify.com/track/0AfYeE3bfJRcq9J2hUJXmM"
+    },
+    {
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "I Cry",
+      "url": "https://open.spotify.com/track/4bZd0nRuX8HyjeXAUBczvm"
     },
     {
       "album": {
@@ -2319,7 +2363,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-25",
       "duration_ms": 188643,
       "name": "I Miss You (feat. Julia Michaels) - Cahill Remix",
       "url": "https://open.spotify.com/track/1CSk9lJFJt4OdcvOH5iK61"
@@ -2359,7 +2403,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 197720,
       "name": "I Really Like You - The Scene Kings Remix",
       "url": "https://open.spotify.com/track/2WoAS2PvbJeRTrfQh0A8Ij"
@@ -2447,7 +2491,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 240617,
       "name": "IDGAF - Hazers Remix",
       "url": "https://open.spotify.com/track/0FlnsBDwPglenLJoQjPd4K"
@@ -2525,7 +2569,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 200597,
       "name": "In the Name of Love - DallasK Remix",
       "url": "https://open.spotify.com/track/55y30bh2ZUtzOXjWLxn7XT"
@@ -2547,7 +2591,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 176097,
       "name": "Insomnia - King Topher Remix",
       "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
@@ -2573,7 +2617,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-18",
       "duration_ms": 165461,
       "name": "Instruction",
       "url": "https://open.spotify.com/track/1yAVnDXvfUb1UnLtnBjttw"
@@ -2617,7 +2661,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 197146,
       "name": "Into You - 3LAU Remix",
       "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
@@ -2757,7 +2801,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-19",
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
@@ -2779,7 +2823,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-06-17",
       "duration_ms": 189173,
       "name": "Kiss and Make Up",
       "url": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i"
@@ -2805,7 +2849,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 177793,
       "name": "La Cintura (feat. Flo Rida & TINI) - Remix",
       "url": "https://open.spotify.com/track/56gH0zGe3SP9SGNoQ2pWwn"
@@ -2911,7 +2955,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 176561,
       "name": "Lean On (feat. M\u00d8 & DJ Snake)",
       "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16"
@@ -2945,6 +2989,24 @@
       "duration_ms": 174800,
       "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "album": {
+        "name": "R.E.D. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4HPdvrPf9RGfJ2hNYrODpC"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 251626,
+      "name": "Let Me Love You (Until You Learn To Love Yourself)",
+      "url": "https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8"
     },
     {
       "album": {
@@ -3011,7 +3073,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 166138,
       "name": "Light It Up (feat. Nyla & Fuse ODG) [Remix]",
       "url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY"
@@ -3055,7 +3117,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
@@ -3265,7 +3327,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-15",
       "duration_ms": 199480,
       "name": "Malibu - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
@@ -3379,7 +3441,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 192866,
       "name": "Million Voices - Radio Edit",
       "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
@@ -3397,7 +3459,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 219986,
       "name": "More - RedOne Jimmy Joker Remix",
       "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"
@@ -3495,7 +3557,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-21",
       "duration_ms": 219159,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
@@ -3664,6 +3726,24 @@
     },
     {
       "album": {
+        "name": "Nobody To Love",
+        "url": "https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 189720,
+      "name": "Nobody To Love - Radio Edit",
+      "url": "https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1"
+    },
+    {
+      "album": {
         "name": "Ocean (feat. Khalid) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
       },
@@ -3789,7 +3869,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -4023,7 +4103,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
@@ -4415,7 +4495,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
@@ -4463,7 +4543,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 273230,
       "name": "Rude - Zedd Remix",
       "url": "https://open.spotify.com/track/6rmtT7Y8cH7NpvovoPiV6k"
@@ -4481,7 +4561,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-17",
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
@@ -4499,7 +4579,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": "2022-06-11",
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4qABfS1RaGVXdBhj2BQyhO"
@@ -4609,7 +4689,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 200624,
       "name": "Scared To Be Lonely - Brooks Remix",
       "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
@@ -4649,7 +4729,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-22",
       "duration_ms": 234693,
       "name": "Scream",
       "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
@@ -4737,7 +4817,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-05-18",
       "duration_ms": 199480,
       "name": "Sexy And I Know It",
       "url": "https://open.spotify.com/track/70Vdd1gx5tn84jkAU31ASv"
@@ -4865,7 +4945,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": "2022-06-17",
       "duration_ms": 187142,
       "name": "So Am I - Steve Void Dance Remix",
       "url": "https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B"
@@ -4965,7 +5045,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-11",
       "duration_ms": 230853,
       "name": "Something Just Like This - Don Diablo Remix",
       "url": "https://open.spotify.com/track/15MTd64KUMG7CF6mOyovsQ"
@@ -5237,7 +5317,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": "2022-07-18",
       "duration_ms": 224791,
       "name": "Strip That Down - Nevada Remix",
       "url": "https://open.spotify.com/track/4QYG3uvLviKL4kkChZC0xk"
@@ -5259,7 +5339,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
@@ -5303,7 +5383,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-01",
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
@@ -5347,7 +5427,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-26",
       "duration_ms": 216408,
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
@@ -5391,7 +5471,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 202149,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/614TxLN6BP9nN8pFcPdLVE"
@@ -5413,7 +5493,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": "2022-07-18",
       "duration_ms": 206320,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55"
@@ -5465,7 +5545,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 177685,
       "name": "Talk Dirty (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/31JwK4iHCf75rnQWoMPU5t"
@@ -5491,7 +5571,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-18",
       "duration_ms": 247560,
       "name": "Talk Dirty (feat. 2 Chainz) - TJR Remix",
       "url": "https://open.spotify.com/track/22r0HoAyCPma3BhIA8NDj4"
@@ -5553,7 +5633,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-30",
       "duration_ms": 220640,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM"
@@ -5593,7 +5673,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-02",
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
@@ -5806,7 +5886,7 @@
     },
     {
       "album": {
-        "name": "This Is What You Came For (feat. Rihanna)",
+        "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
       "artists": [
@@ -5823,7 +5903,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222160,
-      "name": "This Is What You Came For (feat. Rihanna)",
+      "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
@@ -5843,7 +5923,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016] - Faustix Remix",
       "url": "https://open.spotify.com/track/2iwuVfywrt9K29Rc8opPOp"
@@ -5865,7 +5945,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-13",
       "duration_ms": 235613,
       "name": "Thrift Shop (feat. Wanz)",
       "url": "https://open.spotify.com/track/3AYcyxEACnmE6d96RPubID"
@@ -5967,7 +6047,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 208278,
       "name": "Treasure - Cash Cash Radio Mix",
       "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
@@ -6011,7 +6091,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-05-22",
       "duration_ms": 199680,
       "name": "Turn Me On (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
@@ -6241,7 +6321,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-06-18",
       "duration_ms": 256794,
       "name": "We Don't Talk Anymore (feat. Selena Gomez) - Junge Junge Remix",
       "url": "https://open.spotify.com/track/2YdFnOdRJ2cR1Z18CiOqcV"
@@ -6413,7 +6493,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 221982,
       "name": "Whistle - Jakob Lido Remix",
       "url": "https://open.spotify.com/track/5oHF4TGeQib4ILA2WhOIEg"
@@ -6519,7 +6599,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 213493,
       "name": "Without You - Otto Knows Remix",
       "url": "https://open.spotify.com/track/5As2NoLCvfghXEuTFAaRHA"
@@ -6541,7 +6621,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": "2022-07-05",
       "duration_ms": 172003,
       "name": "Woman Like Me - Wideboys Remix",
       "url": "https://open.spotify.com/track/2ki7ORQj7Jrx9u4JxmJDXG"
@@ -6581,7 +6661,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 174400,
       "name": "Year of Summer (feat. Niels Geusebroek) - Radio Edit",
       "url": "https://open.spotify.com/track/1YT4DY3Xs9HdjBYa5PAwLu"
@@ -6665,7 +6745,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 150528,
       "name": "Youngblood - R3HAB Remix",
       "url": "https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT"

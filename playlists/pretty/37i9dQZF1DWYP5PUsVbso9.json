@@ -1,15 +1,31 @@
 {
-  "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided.",
-  "num_followers": 204982,
+  "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
+  "num_followers": 209740,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2NzU0MCwwMDAwMDAwMDk3MWU1ZDMyZjJlZjU3NTY4MWRlNzEwMzA4MjlhYjU0",
+  "snapshot_id": "MTY1ODE5MzU1NiwwMDAwMDAwMDNjMWRiMDdiMTFkMmRkODAxNjQ2NWJlZDdjYmZkM2U1",
   "tracks": [
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
@@ -29,55 +45,7 @@
       "url": "https://open.spotify.com/track/5xZYQAl2oktfGQ20rLOJt6"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "20 #1's: Classic Country",
-        "url": "https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/2TFOYnjp4YW0WY34D3H58O"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential John Denver",
         "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
@@ -93,7 +61,55 @@
       "url": "https://open.spotify.com/track/6n7bcDnJOuKj3Zc5FbnaWs"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20 #1's: Classic Country",
+        "url": "https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/2TFOYnjp4YW0WY34D3H58O"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
@@ -113,39 +129,7 @@
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Charley Pride",
-        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 123133,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
@@ -161,23 +145,7 @@
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/00CBhqdZu9aooYsvTkYWgT"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "Lucille - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/53JzReeFzXYkCUTCHuulkW"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
@@ -193,23 +161,7 @@
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Oak Ridge Boys Greatest Hits",
         "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
@@ -225,75 +177,23 @@
       "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 183666,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Johnny Paycheck - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        },
-        {
-          "name": "Howard Willing",
-          "url": "https://open.spotify.com/artist/3I37MUvWY6evRUFGpgPJHu"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Rhinestone Cowboy",
-      "url": "https://open.spotify.com/track/3UjdvK3tW0YjEtdbSfO8M5"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
@@ -309,7 +209,39 @@
       "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/00CBhqdZu9aooYsvTkYWgT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "Lucille - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/53JzReeFzXYkCUTCHuulkW"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Ronnie Milsap",
+        "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Daydreams About Night Things",
+      "url": "https://open.spotify.com/track/3rX2dDipynV30H8TYrmTRU"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
@@ -329,23 +261,7 @@
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Tom T. Hall",
-        "url": "https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 125666,
-      "name": "I Love",
-      "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
@@ -361,39 +277,7 @@
       "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Million Mile Reflections",
-        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Rose Colored Glasses",
         "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
@@ -409,71 +293,23 @@
       "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Ultimate Ronnie Milsap",
-        "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
+        "name": "Johnny Paycheck - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
         }
       ],
-      "duration_ms": 140960,
-      "name": "Pure Love - Remastered",
-      "url": "https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6"
+      "duration_ms": 156666,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "20 #1's: Classic Country",
-        "url": "https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Coal Miner's Daughter",
-      "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Let Me Be There",
-      "url": "https://open.spotify.com/track/2SS6MAZIFjrn1XNkjgJuV4"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Charlie Rich - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Tom T. Hall",
         "url": "https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk"
@@ -484,28 +320,28 @@
           "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 165293,
-      "name": "The Year That Clayton Delaney Died",
-      "url": "https://open.spotify.com/track/5Sxz7cjDvezdZgjx3aZNvz"
+      "duration_ms": 125666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Bocephus Box Set",
-        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Family Tradition",
-      "url": "https://open.spotify.com/track/2lYMQJyM2LOGEG3rVkdFod"
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
@@ -516,140 +352,28 @@
           "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Some Broken Hearts Never Mend - Single Version",
-      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Essential Ronnie Milsap",
-        "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 143333,
-      "name": "Daydreams About Night Things",
-      "url": "https://open.spotify.com/track/3rX2dDipynV30H8TYrmTRU"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
-      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential John Denver",
-        "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Ronnie Milsap",
-        "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "What a Difference You've Made in My Life",
-      "url": "https://open.spotify.com/track/2aRZlcf5SE7Qq0SslQh30R"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
@@ -669,7 +393,331 @@
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Ultimate Ronnie Milsap",
+        "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Pure Love - Remastered",
+      "url": "https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20 #1's: Classic Country",
+        "url": "https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Coal Miner's Daughter",
+      "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Bocephus Box Set",
+        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/2lYMQJyM2LOGEG3rVkdFod"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Charlie Rich - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential John Denver",
+        "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Ronnie Milsap",
+        "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "What a Difference You've Made in My Life",
+      "url": "https://open.spotify.com/track/2aRZlcf5SE7Qq0SslQh30R"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Some Broken Hearts Never Mend - Single Version",
+      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Conway Twitty - 25 Number Ones",
+        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 181932,
+      "name": "You've Never Been This Far Before",
+      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "East Bound and Down",
+      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/59jNebnIHrwxov1YplmvTN"
+      },
+      "artists": [
+        {
+          "name": "Gary Stewart",
+          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
+      "url": "https://open.spotify.com/track/32YbeD81QS0opdouHEQc7r"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Howard Willing",
+          "url": "https://open.spotify.com/artist/3I37MUvWY6evRUFGpgPJHu"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/3UjdvK3tW0YjEtdbSfO8M5"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Ultimate Collection: Gene Watson",
+        "url": "https://open.spotify.com/album/7MX4FrybOtKHPp2k6YCMS4"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/0DT0jbuh51K52Rn5sTqWeq"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Stop And Smell The Roses",
+        "url": "https://open.spotify.com/album/4vZ6eSpIwea2IIPnwG8jfx"
+      },
+      "artists": [
+        {
+          "name": "Mac Davis",
+          "url": "https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Stop And Smell The Roses",
+      "url": "https://open.spotify.com/track/0gXj72vNlNoh7kiC8zPEQp"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Tom T. Hall",
+        "url": "https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "The Year That Clayton Delaney Died",
+      "url": "https://open.spotify.com/track/5Sxz7cjDvezdZgjx3aZNvz"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Best Of Billy \"Crash\" Craddock",
         "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
@@ -685,27 +733,23 @@
       "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Louisiana Woman, Mississippi Man",
-        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
+        "name": "Crystal Gayle: The Hits",
+        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 151731,
-      "name": "Louisiana Woman, Mississippi Man",
-      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+      "duration_ms": 157933,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/0d8U9eJajtUmiJVXbIO624"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Ultimate Moe & Joe",
         "url": "https://open.spotify.com/album/4NRkFoFZcGKt3mi5AwuELG"
@@ -725,122 +769,10 @@
       "url": "https://open.spotify.com/track/1eKTcxiptSrdGKZuPNQdCr"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Before The Next Teardrop Falls",
-        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
-      },
-      "artists": [
-        {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
-        }
-      ],
-      "duration_ms": 171761,
-      "name": "Wasted Days And Wasted Nights",
-      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Stop And Smell The Roses",
-        "url": "https://open.spotify.com/album/4vZ6eSpIwea2IIPnwG8jfx"
-      },
-      "artists": [
-        {
-          "name": "Mac Davis",
-          "url": "https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Stop And Smell The Roses",
-      "url": "https://open.spotify.com/track/0gXj72vNlNoh7kiC8zPEQp"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Heaven's Just A Sin Away",
-        "url": "https://open.spotify.com/album/4OqnmwpbHOdLF0Zo81oKaJ"
-      },
-      "artists": [
-        {
-          "name": "The Kendalls",
-          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "Heaven's Just A Sin Away",
-      "url": "https://open.spotify.com/track/7F0duVleRBoCey6qtIFC79"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Southern Nights",
-      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Conway Twitty - 25 Number Ones",
-        "url": "https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 181932,
-      "name": "You've Never Been This Far Before",
-      "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
@@ -848,76 +780,12 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/145rlLSza5obOXk6dVjioX"
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Very Best Of Merle Haggard",
-        "url": "https://open.spotify.com/album/3Dxz3uQzGEsV9AFHnNwbwK"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "It's Not Love (But It's Not Bad)",
-      "url": "https://open.spotify.com/track/7hxJo1SVlgaluuJm453Yt1"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Crystal Gayle: The Hits",
-        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/0d8U9eJajtUmiJVXbIO624"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/2DoWlIvoIcq6g8aKQCj71f"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rodriguez",
-          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
-        }
-      ],
-      "duration_ms": 126200,
-      "name": "Ridin' My Thumb To Mexico",
-      "url": "https://open.spotify.com/track/4cts2JWIBKsSyMuclg7yZP"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential Ray Price",
         "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
@@ -933,7 +801,23 @@
       "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Before The Next Teardrop Falls",
+        "url": "https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+        }
+      ],
+      "duration_ms": 171761,
+      "name": "Wasted Days And Wasted Nights",
+      "url": "https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Greatest Hits - Original Recordings",
         "url": "https://open.spotify.com/album/0QtzjdxO5CAi9NqpiusEMh"
@@ -949,39 +833,123 @@
       "url": "https://open.spotify.com/track/7uomyxZYl0CXHEgVphykOB"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 128253,
-      "name": "The Wurlitzer Prize (I Don't Want to Get Over You)",
-      "url": "https://open.spotify.com/track/39vRhTRqO7qQggd8aID96o"
+      "duration_ms": 179586,
+      "name": "Southern Nights",
+      "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Ultimate Collection: Gene Watson",
-        "url": "https://open.spotify.com/album/7MX4FrybOtKHPp2k6YCMS4"
+        "name": "Louisiana Woman, Mississippi Man",
+        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
       "artists": [
         {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Love In The Hot Afternoon",
-      "url": "https://open.spotify.com/track/0DT0jbuh51K52Rn5sTqWeq"
+      "duration_ms": 151731,
+      "name": "Louisiana Woman, Mississippi Man",
+      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Let Me Be There",
+      "url": "https://open.spotify.com/track/2SS6MAZIFjrn1XNkjgJuV4"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/145rlLSza5obOXk6dVjioX"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Marty Robbins - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/2BtD437dXDA3LlCMxhueNL"
@@ -997,39 +965,7 @@
       "url": "https://open.spotify.com/track/7K40sZ0ZV6vGjzSso2nFyr"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0HDwfB5n6VpcOFkY61uMLl"
-      },
-      "artists": [
-        {
-          "name": "Bob Luman",
-          "url": "https://open.spotify.com/artist/7GHomDn4a8u8k0AlUTwBWQ"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Lonely Women Make Good Lovers",
-      "url": "https://open.spotify.com/track/5je7nvdte7odjJvs5iM1bS"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/5xuf2wjRUotcmTTxZk8TXR"
-      },
-      "artists": [
-        {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Don't the Girls All Get Prettier at Closing Time",
-      "url": "https://open.spotify.com/track/0dFPe0V76Q9eXHbXVxG3C9"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Best Of Sammi Smith",
         "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
@@ -1045,199 +981,23 @@
       "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Country Greats",
-        "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
+        "name": "Heaven's Just A Sin Away",
+        "url": "https://open.spotify.com/album/4OqnmwpbHOdLF0Zo81oKaJ"
       },
       "artists": [
         {
-          "name": "Billie Jo Spears",
-          "url": "https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf"
+          "name": "The Kendalls",
+          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Blanket On The Ground",
-      "url": "https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ"
+      "duration_ms": 146466,
+      "name": "Heaven's Just A Sin Away",
+      "url": "https://open.spotify.com/track/7F0duVleRBoCey6qtIFC79"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/6jGQ29kDc6anvkkzoF75Cv"
-      },
-      "artists": [
-        {
-          "name": "Dave and Sugar",
-          "url": "https://open.spotify.com/artist/3mDN0fZ5avC4Li91LwwKHD"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "The Door Is Always Open",
-      "url": "https://open.spotify.com/track/0kDE8iIZcedP244LZ3xGJz"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Mother Country Music",
-      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Delta Dawn",
-        "url": "https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Conway Twitty's Greatest Hits Volume II",
-        "url": "https://open.spotify.com/album/3QM29gUyTJvl5KfWckjydn"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "Linda On My Mind - Single Version",
-      "url": "https://open.spotify.com/track/02q9atOyzjCRfk2uUcfqxe"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Ramblin' Fever",
-        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If We're Not Back In Love By Monday",
-      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 144733,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/03T4H6czLK426qcW870hBZ"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Ultimate Collection (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63cg3nGFJXmCeh9odxBpgI"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Shadows In The Moonlight",
-      "url": "https://open.spotify.com/track/7i6YbLIaM45ntr0OnkEfBj"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Amos Moses",
-      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
@@ -1253,7 +1013,23 @@
       "url": "https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Freddy Fender Collection",
         "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
@@ -1269,42 +1045,74 @@
       "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+        "name": "The Ultimate Collection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63cg3nGFJXmCeh9odxBpgI"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         }
       ],
-      "duration_ms": 140173,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
+      "duration_ms": 209733,
+      "name": "Shadows In The Moonlight",
+      "url": "https://open.spotify.com/track/7i6YbLIaM45ntr0OnkEfBj"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Essential Mickey Gilley",
-        "url": "https://open.spotify.com/album/7gShw7z82byC9rxQ2cJtgn"
+        "name": "The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2DoWlIvoIcq6g8aKQCj71f"
       },
       "artists": [
         {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+          "name": "Johnny Rodriguez",
+          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
         }
       ],
-      "duration_ms": 145253,
-      "name": "The Power of Positive Drinkin'",
-      "url": "https://open.spotify.com/track/22CngS28FQLN8jiUhGgfNV"
+      "duration_ms": 126200,
+      "name": "Ridin' My Thumb To Mexico",
+      "url": "https://open.spotify.com/track/4cts2JWIBKsSyMuclg7yZP"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Ramblin' Fever",
+        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If We're Not Back In Love By Monday",
+      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
       "artists": [
         {
@@ -1312,28 +1120,44 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "RCA Country Legends",
-        "url": "https://open.spotify.com/album/59jNebnIHrwxov1YplmvTN"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/6jGQ29kDc6anvkkzoF75Cv"
       },
       "artists": [
         {
-          "name": "Gary Stewart",
-          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+          "name": "Dave and Sugar",
+          "url": "https://open.spotify.com/artist/3mDN0fZ5avC4Li91LwwKHD"
         }
       ],
-      "duration_ms": 171093,
-      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
-      "url": "https://open.spotify.com/track/32YbeD81QS0opdouHEQc7r"
+      "duration_ms": 163800,
+      "name": "The Door Is Always Open",
+      "url": "https://open.spotify.com/track/0kDE8iIZcedP244LZ3xGJz"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Don't Take It Away - Single Version",
+      "url": "https://open.spotify.com/track/2ZvnuEEAso2ApgAsmu29Oj"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Best Of Billy Swan",
         "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
@@ -1349,7 +1173,135 @@
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/5xuf2wjRUotcmTTxZk8TXR"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Don't the Girls All Get Prettier at Closing Time",
+      "url": "https://open.spotify.com/track/0dFPe0V76Q9eXHbXVxG3C9"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Delta Dawn",
+        "url": "https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 144733,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/03T4H6czLK426qcW870hBZ"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Amos Moses",
+      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+      },
+      "artists": [
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Country Greats",
+        "url": "https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG"
+      },
+      "artists": [
+        {
+          "name": "Billie Jo Spears",
+          "url": "https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Blanket On The Ground",
+      "url": "https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 128253,
+      "name": "The Wurlitzer Prize (I Don't Want to Get Over You)",
+      "url": "https://open.spotify.com/track/39vRhTRqO7qQggd8aID96o"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
         "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
@@ -1369,10 +1321,26 @@
       "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy"
+        "name": "The Essential Mickey Gilley",
+        "url": "https://open.spotify.com/album/7gShw7z82byC9rxQ2cJtgn"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "The Power of Positive Drinkin'",
+      "url": "https://open.spotify.com/track/22CngS28FQLN8jiUhGgfNV"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Conway Twitty's Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/3QM29gUyTJvl5KfWckjydn"
       },
       "artists": [
         {
@@ -1380,60 +1348,76 @@
           "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 221400,
-      "name": "Don't Take It Away - Single Version",
-      "url": "https://open.spotify.com/track/2ZvnuEEAso2ApgAsmu29Oj"
+      "duration_ms": 162693,
+      "name": "Linda On My Mind - Single Version",
+      "url": "https://open.spotify.com/track/02q9atOyzjCRfk2uUcfqxe"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "The Very Best Of Merle Haggard",
+        "url": "https://open.spotify.com/album/3Dxz3uQzGEsV9AFHnNwbwK"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 201386,
+      "name": "It's Not Love (But It's Not Bad)",
+      "url": "https://open.spotify.com/track/7hxJo1SVlgaluuJm453Yt1"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 160920,
-      "name": "Out Of My Head And Back In My Bed",
-      "url": "https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1"
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
-        "name": "Phases And Stages",
-        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Bloody Mary Morning",
-      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+      "duration_ms": 140173,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0HDwfB5n6VpcOFkY61uMLl"
+      },
+      "artists": [
+        {
+          "name": "Bob Luman",
+          "url": "https://open.spotify.com/artist/7GHomDn4a8u8k0AlUTwBWQ"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Lonely Women Make Good Lovers",
+      "url": "https://open.spotify.com/track/5je7nvdte7odjJvs5iM1bS"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/3Jz1yh5nTHsJjpfxcIVFF5"
@@ -1449,39 +1433,7 @@
       "url": "https://open.spotify.com/track/0KaaQF4tqn8Ser0PxfqTGz"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Essential Tammy Wynette",
-        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
-      "album": {
-        "name": "The Very Best Of...Volume 1",
-        "url": "https://open.spotify.com/album/6dzuXj0vb9I2VD9QX2hCQI"
-      },
-      "artists": [
-        {
-          "name": "Moe Bandy",
-          "url": "https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Barstool Mountain",
-      "url": "https://open.spotify.com/track/6kTddqCu2KqjggSNi7ZtNP"
-    },
-    {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
@@ -1497,7 +1449,55 @@
       "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Mother Country Music",
+      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 160920,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/6LgnrA4iYE1xEuusQlQQQy"
@@ -1513,7 +1513,39 @@
       "url": "https://open.spotify.com/track/4sgQHkppFQrWhAjoQszici"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "The Very Best Of...Volume 1",
+        "url": "https://open.spotify.com/album/6dzuXj0vb9I2VD9QX2hCQI"
+      },
+      "artists": [
+        {
+          "name": "Moe Bandy",
+          "url": "https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Barstool Mountain",
+      "url": "https://open.spotify.com/track/6kTddqCu2KqjggSNi7ZtNP"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
+      "album": {
+        "name": "I'm Just Me",
+        "url": "https://open.spotify.com/album/08t9IC4bH98d4uSihXa40x"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "I'd Rather Love You",
+      "url": "https://open.spotify.com/track/6Zo1yJyD4Fj3fgg2FHxfTw"
+    },
+    {
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy"
@@ -1529,7 +1561,7 @@
       "url": "https://open.spotify.com/track/7aatEerxno8RipIcuqPRG1"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "All His Great Hits",
         "url": "https://open.spotify.com/album/7v6FxNBb4iN8EDOZSdlTYx"
@@ -1545,7 +1577,7 @@
       "url": "https://open.spotify.com/track/7vRwCuTsBIbV1oVoyPEHrd"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential Ronnie Milsap",
         "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
@@ -1561,7 +1593,7 @@
       "url": "https://open.spotify.com/track/79vfnjh0dqLBx9gijw3f2C"
     },
     {
-      "added_at": "2018-12-10 16:15:57",
+      "added_at": "2022-05-27 16:20:56",
       "album": {
         "name": "The Essential Tammy Wynette",
         "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"

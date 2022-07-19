@@ -4,7 +4,7 @@
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-104 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0anfdNe2iPWw4Dhq3AouqG)
+105 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0anfdNe2iPWw4Dhq3AouqG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2021-08-13 |  |
 | [Muy Personal](https://open.spotify.com/track/4pOzYeieOMPD1xTQuDgELK) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Muy Personal](https://open.spotify.com/album/3uerJDlTiS2HmJ1Twy54xz) | 3:29 | 2021-08-13 |  |
 | [Negro](https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:02 | 2021-08-13 |  |
+| [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-07-15 |  |
 | [No Es Justo](https://open.spotify.com/track/1RTlTuLOdnmgbe11ynwR7c) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [No Es Justo](https://open.spotify.com/album/3CjbO5ZFF7fPc3XFxONAE6) | 4:11 | 2021-08-13 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2021-08-13 |  |
 | [No Te Vayas](https://open.spotify.com/track/3nowY0ZuWMuAmmAu1plEBP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:47 | 2021-08-13 |  |

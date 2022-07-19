@@ -4,7 +4,7 @@
 
 > Revisit the year in Folk & Americana with the best songs released in 2021\. Cover: Brandi Carlile
 
-100 songs - 6 hr 3 min - not published yet
+100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/2g88U0CaHjq9ygfdz2xBlC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

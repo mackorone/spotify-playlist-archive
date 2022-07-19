@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-12",
       "duration_ms": 215360,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1ntjFaRNVpC1V2cKekUnU5"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-06",
       "duration_ms": 262960,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 262800,
       "name": "Dance Into The Light",
       "url": "https://open.spotify.com/track/4oKHWJpgJKHcBvqyUNYQey"
@@ -261,6 +261,24 @@
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "album": {
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-08",
       "duration_ms": 208360,
       "name": "Got the Feelin' - Radio Edit",
       "url": "https://open.spotify.com/track/0HjeuAy5DCzkwmODn3tYpT"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-04",
       "duration_ms": 269626,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/0HgDGw5QDBIfDCTIrdV1Tx"
@@ -628,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Life Is a Flower",
+      "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
+    },
+    {
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -755,7 +791,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-08",
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
@@ -831,7 +867,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
@@ -867,7 +903,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -885,7 +921,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 252133,
       "name": "Paying The Price Of Love",
       "url": "https://open.spotify.com/track/33Z1BRngcyzyEYo3lRQY8H"
@@ -957,7 +993,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 240493,
       "name": "Sight for Sore Eyes",
       "url": "https://open.spotify.com/track/0EHIEIJq0Tskc6YPNViMFv"
@@ -1011,7 +1047,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-10",
       "duration_ms": 235666,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/1bvsVJDGG7bXsvGKfwM3yV"
@@ -1137,7 +1173,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 243069,
       "name": "Think of You - Radio Edit",
       "url": "https://open.spotify.com/track/4cjHy6TwppuNZ05yrP8Fic"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-05-09",
       "duration_ms": 219466,
       "name": "We've Got It Goin' On - Radio Edit",
       "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "When The Going Gets Tough",
       "url": "https://open.spotify.com/track/1T4ESEbRfULesxX4zLUrCv"

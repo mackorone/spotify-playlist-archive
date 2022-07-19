@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,411 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,716 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 50 | [Run Tings \(feat\. Dounia\)](https://open.spotify.com/track/0wYYZ1ag9YbdVKFxoWo6yO) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Press L To Continue](https://open.spotify.com/album/0kYqF9RnizQlTrVpIrRmac) | 2:49 |
 | 51 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 |
 | 52 | [COMMA$](https://open.spotify.com/track/1Fk9MDDgy1VvMosMh4m34G) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [LORD$OFDOGTOWN](https://open.spotify.com/album/7uBoH5eDFQ7ifeAjjtS9Zn) | 2:26 |
-| 53 | [Tokyo](https://open.spotify.com/track/14NWHFVIYDXGkQDGQOuFHQ) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/1IpaSxwo3XeClRCTGjfxjP) | 2:56 |
+| 53 | [Tokyo](https://open.spotify.com/track/14NWHFVIYDXGkQDGQOuFHQ) | [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/1IpaSxwo3XeClRCTGjfxjP) | 2:56 |
 | 54 | [Rewind](https://open.spotify.com/track/6eZo2NQF38Ir58bQgXOf5W) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/2JdaxFKa5lnYAiSv29sCHv) | 2:52 |
 | 55 | [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 |
 | 56 | [Wait For It](https://open.spotify.com/track/5hKAv7ake0SWKlozUOGGDR) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Tender](https://open.spotify.com/album/6QTcJJoYeVNo9pIGapG6q2) | 2:21 |

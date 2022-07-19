@@ -246,13 +246,21 @@ class CumulativePlaylist:
 
             updated_tracks.append(
                 CumulativeTrack(
+                    # pyre-fixme[61]
                     url=url,
+                    # pyre-fixme[61]
                     name=name,
+                    # pyre-fixme[61]
                     album=album,
+                    # pyre-fixme[61]
                     artists=artists,
+                    # pyre-fixme[61]
                     duration_ms=duration_ms,
+                    # pyre-fixme[61]
                     date_added=date_added,
+                    # pyre-fixme[61]
                     date_added_asterisk=date_added_asterisk,
+                    # pyre-fixme[61]
                     date_removed=date_removed,
                 )
             )

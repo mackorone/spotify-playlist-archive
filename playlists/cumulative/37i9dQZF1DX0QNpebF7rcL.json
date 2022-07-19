@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Mavis Staples",
+  "description": "The best in blues right now. Cover: Kirk Fletcher",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 236543,
       "name": "Baby We're Through",
       "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 207546,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/6p1Sim61QcZgVWIEq5s5n7"
@@ -666,6 +666,64 @@
     },
     {
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "album": {
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275054,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+    },
+    {
+      "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel"
       },
@@ -684,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Fireman Ring The Bell",
+        "url": "https://open.spotify.com/album/1s3GXdslMBVItrS4Vy47ug"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 328386,
+      "name": "Fireman Ring The Bell",
+      "url": "https://open.spotify.com/track/05VTy9texeo4kNKcKG0ENe"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT"
       },
@@ -699,6 +775,24 @@
       "duration_ms": 358000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     },
     {
       "album": {
@@ -767,7 +861,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 245280,
       "name": "Georgia Women",
       "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
@@ -821,7 +915,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 309175,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0Abu2kVKUQrTNSqfowYWEp"
@@ -918,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "Heartache by the Pound",
+        "url": "https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Heartache by the Pound",
+      "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
+    },
+    {
+      "album": {
         "name": "Here I'm Is",
         "url": "https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9"
       },
@@ -965,7 +1077,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214054,
       "name": "Highest Bidder",
       "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
@@ -995,7 +1107,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 273981,
       "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
       "url": "https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti"
@@ -1154,6 +1266,42 @@
     },
     {
       "album": {
+        "name": "I Like Games",
+        "url": "https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu"
+      },
+      "artists": [
+        {
+          "name": "Arthur Brown",
+          "url": "https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261946,
+      "name": "I Like Games - Single Version",
+      "url": "https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9"
+    },
+    {
+      "album": {
+        "name": "Rich White Honky Blues",
+        "url": "https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "I Like It When It's Stormy",
+      "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
+    },
+    {
+      "album": {
         "name": "I Shall Not Be Moved",
         "url": "https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6"
       },
@@ -1173,6 +1321,28 @@
       "duration_ms": 259293,
       "name": "I Shall Not Be Moved",
       "url": "https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs"
+    },
+    {
+      "album": {
+        "name": "I Walk On Guilded Splinters",
+        "url": "https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
+      "duration_ms": 293960,
+      "name": "I Walk On Guilded Splinters",
+      "url": "https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f"
     },
     {
       "album": {
@@ -1235,6 +1405,24 @@
       "duration_ms": 210053,
       "name": "I'd Climb Mountains",
       "url": "https://open.spotify.com/track/3Viv0Zuw0FT4EuxdVGfrDo"
+    },
+    {
+      "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159886,
+      "name": "I'm Just Getting Started!",
+      "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
     },
     {
       "album": {
@@ -1325,6 +1513,28 @@
       "duration_ms": 238856,
       "name": "If You Love to Be Right",
       "url": "https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ"
+    },
+    {
+      "album": {
+        "name": "In Blood",
+        "url": "https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Casablanca",
+          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
+        },
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245930,
+      "name": "In Blood",
+      "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
     },
     {
       "album": {
@@ -1525,7 +1735,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
@@ -1605,7 +1815,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
@@ -1623,7 +1833,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 223706,
       "name": "Make Me Feel Alright",
       "url": "https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme"
@@ -1720,6 +1930,28 @@
     },
     {
       "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "Mount up on the Wings of the King",
+      "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
+    },
+    {
+      "album": {
         "name": "Move Into The Light",
         "url": "https://open.spotify.com/album/3C35eldU8vnhAa8UTUFX1Q"
       },
@@ -1731,7 +1963,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 183463,
       "name": "Move Into The Light",
       "url": "https://open.spotify.com/track/2ndX8xxdVrgFn698rfqao5"
@@ -1814,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "album": {
         "name": "No More Worlds to Conquer",
         "url": "https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR"
       },
@@ -1843,7 +2093,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0"
@@ -1949,7 +2199,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 215240,
       "name": "One Foot On The Path",
       "url": "https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll"
@@ -2145,10 +2395,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 214493,
       "name": "Retro Mofo",
       "url": "https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 296645,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C"
     },
     {
       "album": {
@@ -2311,7 +2579,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 166946,
       "name": "She\u2019s On Fire",
       "url": "https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4"
@@ -2372,6 +2640,42 @@
     },
     {
       "album": {
+        "name": "Sitting on Top of the World / Love Will Never Say Goodbye",
+        "url": "https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp"
+      },
+      "artists": [
+        {
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr"
+    },
+    {
+      "album": {
+        "name": "Sleeping Dogs Best Left Alone",
+        "url": "https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "Sleeping Dogs Best Left Alone",
+      "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
+    },
+    {
+      "album": {
         "name": "Sorry You Couldn't Make It",
         "url": "https://open.spotify.com/album/3Z2NP5RmJvOwxdRm2AGKAA"
       },
@@ -2409,7 +2713,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238573,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r"
@@ -2503,7 +2807,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 292053,
       "name": "Something's Got a Hold of My Heart",
       "url": "https://open.spotify.com/track/6Im2CaHEparEKMF7ooUQ44"
@@ -2600,6 +2904,24 @@
     },
     {
       "album": {
+        "name": "Bitches Blues",
+        "url": "https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241480,
+      "name": "Still The World Goes Round",
+      "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
+    },
+    {
+      "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT"
       },
@@ -2663,6 +2985,24 @@
       "duration_ms": 246826,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2"
+    },
+    {
+      "album": {
+        "name": "Strong as Steel",
+        "url": "https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Strong as Steel",
+      "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
     },
     {
       "album": {
@@ -2785,7 +3125,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 351253,
       "name": "The Heart That Never Waits",
       "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
@@ -2861,7 +3201,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 182480,
       "name": "The Razor's Edge",
       "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
@@ -2980,6 +3320,24 @@
     },
     {
       "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Through Being Blue Over You",
+      "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg"
       },
@@ -2991,7 +3349,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 427480,
       "name": "Time Clocks",
       "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
@@ -3136,6 +3494,42 @@
     },
     {
       "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190436,
+      "name": "Virginia Soil",
+      "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "album": {
         "name": "Warm Me Up",
         "url": "https://open.spotify.com/album/4SHFOYqlrh2RPH8BOeV8zM"
       },
@@ -3165,7 +3559,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 177066,
       "name": "Waste Time With Me",
       "url": "https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc"
@@ -3343,7 +3737,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 218163,
       "name": "Wild Women Don't Have the Blues",
       "url": "https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3"
@@ -3401,7 +3795,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 161139,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1"

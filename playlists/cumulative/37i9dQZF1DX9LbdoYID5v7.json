@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": "2022-05-31",
       "duration_ms": 192786,
       "name": "1995",
       "url": "https://open.spotify.com/track/67AknQFFqvFfYRbUjSK4n6"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": "2022-07-03",
       "duration_ms": 323453,
       "name": "2080",
       "url": "https://open.spotify.com/track/1jF7PygdhLDuKpi8lDEf01"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "The Bravery",
+        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
+      },
+      "artists": [
+        {
+          "name": "The Bravery",
+          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 219706,
+      "name": "An Honest Mistake",
+      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
+    },
+    {
+      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 212333,
       "name": "Bandages",
       "url": "https://open.spotify.com/track/3D4NfLvG99xCEZnL6MHZ84"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 405013,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/5d5vSYY4mek3bHv0rwHA5o"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 236240,
       "name": "Cult Logic",
       "url": "https://open.spotify.com/track/1vlXU4TwppxOYXd50pQWzJ"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": "2022-07-09",
       "duration_ms": 210693,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5uAEx8Gbz7FIWhhorTfU9o"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 188800,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-19",
       "duration_ms": 198893,
       "name": "French Navy",
       "url": "https://open.spotify.com/track/0xVU3b2ZWl8cq8QuZ6oYPl"
@@ -588,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Med Sud \u00ed Eyrum Vid Spilum Endalaust",
+        "url": "https://open.spotify.com/album/2wnG7nZgzyvwrnALYqgMla"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-13",
+      "duration_ms": 186693,
+      "name": "Gobbledigook",
+      "url": "https://open.spotify.com/track/3LOJNVN7sz2Chxy5ALBpDR"
+    },
+    {
+      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -599,7 +635,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Gold Lion",
       "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
@@ -617,7 +653,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": "2022-07-14",
       "duration_ms": 249693,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/038A1NyyetJslykmlBKyGo"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 285920,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
@@ -768,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "I Was A Lover",
+      "url": "https://open.spotify.com/track/68GdLQqyM7zkjDlVgMqRv8"
+    },
+    {
+      "album": {
         "name": "Who Will Cut Our Hair When We're Gone? (Remastered)",
         "url": "https://open.spotify.com/album/3CZAwft1FIOixtUqkIPiUI"
       },
@@ -779,7 +833,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 165613,
       "name": "I Was Born (A Unicorn)",
       "url": "https://open.spotify.com/track/6YOOsFMPWUG2gGZNVr1qYG"
@@ -819,7 +873,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": "2022-07-19",
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
@@ -837,7 +891,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -880,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Saturdays = Youth",
+        "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 322933,
+      "name": "Kim & Jessie",
+      "url": "https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP"
+    },
+    {
+      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -891,7 +963,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
@@ -981,10 +1053,28 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-06-09",
       "duration_ms": 246973,
       "name": "Little Lion Man",
       "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
+    },
+    {
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/2d2nOfrJxU2Wpzc1AAZewC"
+      },
+      "artists": [
+        {
+          "name": "Girls",
+          "url": "https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/72DTGt2tVAL6ATVhzVjvkk"
     },
     {
       "album": {
@@ -1017,7 +1107,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 199413,
       "name": "Master of None",
       "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u"
@@ -1053,7 +1143,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-16",
       "duration_ms": 222106,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/7d8GetOsjbxYnlo6Y9e5Kw"
@@ -1107,7 +1197,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": "2022-07-18",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4AHsOf7UnQr3AXNA75cJBs"
@@ -1125,7 +1215,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
@@ -1269,7 +1359,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-06-25",
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
@@ -1395,7 +1485,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-12",
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
@@ -1431,7 +1521,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 302800,
       "name": "Teen Angst",
       "url": "https://open.spotify.com/track/4y7VfYUU5OW8Q2VAQMPgr4"
@@ -1449,7 +1539,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 218000,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV"
@@ -1575,7 +1665,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": "2022-07-14",
       "duration_ms": 292400,
       "name": "Us",
       "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
@@ -1665,7 +1755,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "When Did Your Heart Go Missing?",
       "url": "https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR"
@@ -1683,7 +1773,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK"
@@ -1719,7 +1809,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 223133,
       "name": "With Arms Outstretched",
       "url": "https://open.spotify.com/track/4AnNE7nPSshznEi1WCBfFI"
@@ -1755,7 +1845,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 405693,
       "name": "You! Me! Dancing! - Remastered",
       "url": "https://open.spotify.com/track/0BiYKvf5gJ9bGNJnngyDkU"
@@ -1773,7 +1863,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
@@ -1791,7 +1881,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6TfWHHxBSPhfszuwEuNdwX"

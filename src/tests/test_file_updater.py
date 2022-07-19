@@ -4,7 +4,7 @@ import datetime
 import pathlib
 import tempfile
 import textwrap
-from typing import Optional, Type, TypeVar
+from typing import Optional, TypeVar
 from unittest import IsolatedAsyncioTestCase
 from unittest.mock import AsyncMock, Mock, call, patch, sentinel
 
@@ -20,18 +20,9 @@ T = TypeVar("T")
 
 
 class TestUpdateFiles(IsolatedAsyncioTestCase):
-    def _patch(
-        self,
-        target: str,
-        new_callable: Type[T],
-    ) -> T:
-        patcher = patch(target, new_callable=new_callable)
-        mock_object = patcher.start()
-        self.addCleanup(patcher.stop)
-        return mock_object
-
     async def asyncSetUp(self) -> None:
-        self.mock_get_env = self._patch(
+        self.mock_get_env = UnittestUtils.patch(
+            self,
             "plants.environment.Environment.get_env",
             new_callable=Mock,
         )
@@ -40,15 +31,16 @@ class TestUpdateFiles(IsolatedAsyncioTestCase):
             "SPOTIFY_CLIENT_SECRET": "client_secret",
         }[name]
 
-        self.mock_spotify_class = self._patch(
+        self.mock_spotify_class = UnittestUtils.patch(
+            self,
             "file_updater.Spotify",
             new_callable=Mock,
         )
         self.mock_spotify_class.get_access_token = AsyncMock()
         self.mock_spotify_class.return_value.shutdown = AsyncMock()
 
-        self.mock_update_files_impl = self._patch(
-            "file_updater.FileUpdater._update_files_impl", new_callable=AsyncMock
+        self.mock_update_files_impl = UnittestUtils.patch(
+            self, "file_updater.FileUpdater._update_files_impl", new_callable=AsyncMock
         )
 
     async def test_error(self) -> None:
@@ -104,31 +96,30 @@ class TestUpdateFilesImpl(IsolatedAsyncioTestCase):
         self.file_manager = FileManager(self.playlists_dir)
 
         # Mock the get_published_cumulative_playlists method
-        patcher = patch(
+        self.mock_get_published_cumulative_playlists = UnittestUtils.patch(
+            self,
             "github.GitHub.get_published_cumulative_playlists",
-            return_value={},
+            new_callable=lambda: AsyncMock(return_value={}),
         )
-        self.mock_get_published_cumulative_playlists = patcher.start()
-        self.addCleanup(patcher.stop)
 
         # Mock the GitUtils methods
-        patcher = patch(
+        UnittestUtils.patch(
+            self,
             "git_utils.GitUtils.any_uncommitted_changes",
-            return_value=False,
+            new_callable=lambda: Mock(return_value=False),
         )
-        patcher.start()
-        self.addCleanup(patcher.stop)
-        patcher = patch(
+        UnittestUtils.patch(
+            self,
             "git_utils.GitUtils.get_last_commit_content",
-            return_value=[],
+            new_callable=lambda: Mock(return_value=[]),
         )
-        patcher.start()
-        self.addCleanup(patcher.stop)
 
         # Mock the spotify class
-        patcher = patch("file_updater.Spotify")
-        self.mock_spotify_class = patcher.start()
-        self.addCleanup(patcher.stop)
+        self.mock_spotify_class = UnittestUtils.patch(
+            self,
+            "file_updater.Spotify",
+            new_callable=Mock,
+        )
 
         # Use AsyncMocks for async methods
         self.mock_spotify = self.mock_spotify_class.return_value

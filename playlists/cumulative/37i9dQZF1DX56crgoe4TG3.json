@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/6aJU6GmzDVVCyIt3K41cGn"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266748,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1WCr2LWff8IKCuz71tM0ta"
+    },
+    {
+      "album": {
         "name": "Big Iron",
         "url": "https://open.spotify.com/album/47plHNfuDrN3zubm8Iy2MM"
       },
@@ -1292,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Misirlou",
+        "url": "https://open.spotify.com/album/3QjwvTaEt6WBksPrs00Mb7"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z"
+    },
+    {
+      "album": {
         "name": "Distance and Time",
         "url": "https://open.spotify.com/album/797UYpfApMa598iaCNnSP5"
       },
@@ -1770,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219007,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe"
+    },
+    {
+      "album": {
         "name": "Greatest Hits Vol. 2",
         "url": "https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE"
       },
@@ -2070,6 +2124,28 @@
     },
     {
       "album": {
+        "name": "True Bluegrass Instrumentals",
+        "url": "https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi"
+    },
+    {
+      "album": {
         "name": "Will The Circle Be Unbroken",
         "url": "https://open.spotify.com/album/5Vp7FdPMarEESivkc6xaSD"
       },
@@ -2139,6 +2215,24 @@
       "duration_ms": 205320,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/2Og7xHU8mVnIJqxQ5CFoyN"
+    },
+    {
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295067,
+      "name": "You\u2019ll Never Leave Harlan Alive",
+      "url": "https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3"

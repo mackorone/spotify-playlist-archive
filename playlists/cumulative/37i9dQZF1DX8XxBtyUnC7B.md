@@ -4,7 +4,7 @@
 
 > Relax and transport yourself to a tranquil sojourn in France.
 
-50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/4Zi2nJkHRT6Icgb5fuEvc3)
+51 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/4Zi2nJkHRT6Icgb5fuEvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 | 2021-12-06 |  |
 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 | 2021-12-06 |  |
 | [Couleur café](https://open.spotify.com/track/7Gnvasgy1EdC4sXTOsMEsV) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Intégrale](https://open.spotify.com/album/60Ayl1qqEGtZPTEfJHzTtU) | 2:12 | 2021-12-06 |  |
-| [Dieu fumeur de havanes \- BOF "Je vous aime"](https://open.spotify.com/track/0Ng5CwvQgMFNignMvm0j4F) | [Catherine Deneuve](https://open.spotify.com/artist/16XHvtzF0KN8PSvjkkCpTk), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Intégrale](https://open.spotify.com/album/60Ayl1qqEGtZPTEfJHzTtU) | 3:50 | 2021-12-06 |  |
+| [Dieu fumeur de havanes \- BOF "Je vous aime"](https://open.spotify.com/track/0Ng5CwvQgMFNignMvm0j4F) | [Catherine Deneuve](https://open.spotify.com/artist/16XHvtzF0KN8PSvjkkCpTk), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Intégrale](https://open.spotify.com/album/60Ayl1qqEGtZPTEfJHzTtU) | 3:50 | 2021-12-06 | 2022-06-01 |
 | [Douce France](https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Platinum](https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq) | 3:12 | 2021-12-06 |  |
 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 | 2021-12-06 |  |
 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 | 2021-12-06 |  |
@@ -25,6 +25,7 @@
 | [Jolie môme](https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Thank You Ferre](https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6) | 2:38 | 2021-12-06 |  |
 | [L'amour l'amour l'amour](https://open.spotify.com/track/72Ntmxs2SxFkWEtu3rti4u) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Comme un p'tit coquelicot](https://open.spotify.com/album/48c1IwTHlokOXRkZWij3Et) | 3:01 | 2021-12-06 |  |
 | [L'idole des jeunes](https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'Idole des jeunes](https://open.spotify.com/album/2uUQ2HkoPEzh55x1Zx549F) | 2:28 | 2021-12-06 |  |
+| [La Chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 | 2022-06-01 |  |
 | [La chanson de Prévert](https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'Etonnant Serge Gainsbourg](https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T) | 2:59 | 2021-12-06 |  |
 | [La gadoue](https://open.spotify.com/track/0pwNSYWleRoqdb9PXdCq1G) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 | 2021-12-06 |  |
 | [La Java bleue](https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq) | [Fréhel](https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho) | [Fréhel \[Collection disques Pathé\]](https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI) | 2:45 | 2021-12-06 |  |

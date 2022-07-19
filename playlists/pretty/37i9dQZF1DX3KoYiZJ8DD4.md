@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 
 > Celebrating the music of Aretha Franklin with the songs she inspired.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,720 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,287 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

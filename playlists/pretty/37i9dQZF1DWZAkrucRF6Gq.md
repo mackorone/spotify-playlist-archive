@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 
 > Celebrated masters of 'French touch', This Is Daft Punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,410 likes - 43 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,026 likes - 43 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 | 42 | [Ouverture](https://open.spotify.com/track/1pyTJdbGVBVvKXC3MtemHA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 2:40 |
 | 43 | [Beyond](https://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:50 |
 
-Snapshot ID: `MTY1MTM2NzU2MSwwMDAwMDAwMGQyMDAyNGUwYmQ3MGYyNmJjNDViNjBhZmRiYTI3ZmY4`
+Snapshot ID: `MTY1ODE5MzYxMSwwMDAwMDAwMGQyMDAyNGUwYmQ3MGYyNmJjNDViNjBhZmRiYTI3ZmY4`

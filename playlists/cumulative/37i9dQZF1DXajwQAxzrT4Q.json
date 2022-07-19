@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+    },
+    {
+      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/2O6hFD8p2jBrGY2DTN92iM"
       },
@@ -30,6 +48,24 @@
     },
     {
       "album": {
+        "name": "POPULAR LONER",
+        "url": "https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100858,
+      "name": "70s",
+      "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
+    },
+    {
+      "album": {
         "name": "The Bounce - EP",
         "url": "https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9"
       },
@@ -45,7 +81,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 109106,
       "name": "African Rotation (feat. DJ Flex)",
       "url": "https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj"
@@ -115,7 +151,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 134000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/7ki5Zd8IydTM7m4uUauLVp"
@@ -133,7 +169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-15",
       "duration_ms": 208487,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/3WTU9tmtTPw7cEChV9e9n5"
@@ -177,7 +213,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 184782,
       "name": "Ass on a G String",
       "url": "https://open.spotify.com/track/3VHC9wI06KF4lXw7qxht28"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 123480,
       "name": "Ayo (Jersey Club) [feat. DJ Bake]",
       "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
@@ -246,6 +282,32 @@
     },
     {
       "album": {
+        "name": "Sounds Of A Menace (Jersey Club)",
+        "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
+      },
+      "artists": [
+        {
+          "name": "Dj Darknite",
+          "url": "https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg"
+        },
+        {
+          "name": "Groove The Producer",
+          "url": "https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1"
+        },
+        {
+          "name": "Mattknight",
+          "url": "https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "Back Stabbers Jersey Club Mix",
+      "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
+    },
+    {
+      "album": {
         "name": "Back Up On It (Jasmine)",
         "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
       },
@@ -265,7 +327,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 200869,
       "name": "Back Up On It (Jasmine)",
       "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
@@ -305,7 +367,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-09",
       "duration_ms": 155110,
       "name": "Banji",
       "url": "https://open.spotify.com/track/6tS9z4PYZpOFaHFs6Nuoz0"
@@ -327,7 +389,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-08",
       "duration_ms": 72045,
       "name": "Beat A Bitch Up Challenge",
       "url": "https://open.spotify.com/track/3YokUz1GMTM4hDVSwL9dHn"
@@ -371,7 +433,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 89142,
       "name": "Better Than Sex - DONN Remix",
       "url": "https://open.spotify.com/track/0VbzSrHUF5sAjB4HrywQxY"
@@ -470,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0bkjle50P1ZvOu5AiCMU1G"
+      },
+      "artists": [
+        {
+          "name": "Niamoni",
+          "url": "https://open.spotify.com/artist/0SPTKSeUoN0qOJHlMH7xhd"
+        },
+        {
+          "name": "Dj Fresh",
+          "url": "https://open.spotify.com/artist/7lmA780bzaejgdZSkWipgY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160031,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3iAGWI09BCggHdWYq3aNpW"
+    },
+    {
+      "album": {
         "name": "Bounce Out",
         "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
       },
@@ -503,7 +587,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 130080,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh"
@@ -547,6 +631,28 @@
       "duration_ms": 168191,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3QSQCwfiYdb3aiEwpNqP9O"
+    },
+    {
+      "album": {
+        "name": "Can You Bounce? (Remix)",
+        "url": "https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "DJ Blizz",
+          "url": "https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126955,
+      "name": "Can You Bounce? - Remix",
+      "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
     },
     {
       "album": {
@@ -601,7 +707,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-25",
       "duration_ms": 164571,
       "name": "Chocolate Parfait",
       "url": "https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge"
@@ -634,6 +740,28 @@
     },
     {
       "album": {
+        "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
+        "url": "https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw"
+      },
+      "artists": [
+        {
+          "name": "5Star",
+          "url": "https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164828,
+      "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
+    },
+    {
+      "album": {
         "name": "So Far So Good (Deluxe)",
         "url": "https://open.spotify.com/album/5QPYD8dztySGd1vOQiOoUS"
       },
@@ -649,10 +777,46 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 144000,
       "name": "Crowd Pleaser",
       "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
+    },
+    {
+      "album": {
+        "name": "Cupid, Pt. 2",
+        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102948,
+      "name": "Cupid, Pt. 2",
+      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157390,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
     },
     {
       "album": {
@@ -667,7 +831,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 142858,
       "name": "Da Fuq",
       "url": "https://open.spotify.com/track/0z5gsQSyA40rhq0EcoH35X"
@@ -685,7 +849,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 99910,
       "name": "Dancin' On My Own",
       "url": "https://open.spotify.com/track/3Njz7L25zEyQiciWmlaFaU"
@@ -711,7 +875,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 156764,
       "name": "Deep Enough - Jayhood Remix",
       "url": "https://open.spotify.com/track/7w18hgPZPWP1u552DndXmq"
@@ -736,6 +900,32 @@
     },
     {
       "album": {
+        "name": "Desire (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY"
+      },
+      "artists": [
+        {
+          "name": "NXCRE",
+          "url": "https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw"
+        },
+        {
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
+        },
+        {
+          "name": "JIDDY",
+          "url": "https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Desire - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
+    },
+    {
+      "album": {
         "name": "DIGITAL DIVA",
         "url": "https://open.spotify.com/album/5x3YEa00qnFNNvgPNtFdDJ"
       },
@@ -747,7 +937,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 119999,
       "name": "DIGITAL DIVA 2.0",
       "url": "https://open.spotify.com/track/0on2i3aXyFzIthn5wzWh41"
@@ -791,6 +981,28 @@
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+    },
+    {
+      "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
     },
     {
       "album": {
@@ -838,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "album": {
         "name": "Fantasy EP",
         "url": "https://open.spotify.com/album/4yrWoe8oWj5PNcMbp4RvG3"
       },
@@ -871,7 +1101,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 138017,
       "name": "Fast",
       "url": "https://open.spotify.com/track/7dkOCI9ZygjkpV3213Ydrf"
@@ -911,7 +1141,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 158260,
       "name": "Feel The Burn",
       "url": "https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z"
@@ -951,7 +1181,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 121364,
       "name": "For You - DJ Taj Jersey Mix",
       "url": "https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp"
@@ -1009,10 +1239,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-05",
       "duration_ms": 108173,
       "name": "Get It TT Challenge",
       "url": "https://open.spotify.com/track/3Txdc1LG5pXtW9Lbpqcfab"
+    },
+    {
+      "album": {
+        "name": "Get Jumped",
+        "url": "https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124848,
+      "name": "Get Jumped (with Bandmanrill)",
+      "url": "https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY"
     },
     {
       "album": {
@@ -1057,7 +1309,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 179644,
       "name": "Glitchy Gal",
       "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
@@ -1119,7 +1371,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 128000,
       "name": "Hands Up!",
       "url": "https://open.spotify.com/track/5fr3HjB7aX529pw2CExfGl"
@@ -1145,7 +1397,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 116610,
       "name": "Hatin' Ass Bitches Anthem",
       "url": "https://open.spotify.com/track/7wwzzrCmvvtewHzdngxxDE"
@@ -1192,6 +1444,36 @@
     },
     {
       "album": {
+        "name": "Hit Dat Ass (JERSEY CLUB)",
+        "url": "https://open.spotify.com/album/2LcPtjiQxbFCW0bnJOxRjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Difficult",
+          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
+        },
+        {
+          "name": "A.B.E",
+          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
+        },
+        {
+          "name": "Dj Popbang",
+          "url": "https://open.spotify.com/artist/2BIIrGzP3w8YM9OhTmcgWy"
+        },
+        {
+          "name": "Slice ThaHitMaker",
+          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259715,
+      "name": "Hit Dat Ass (JERSEY CLUB)",
+      "url": "https://open.spotify.com/track/6sKRoplEWT13gRT0hayL7L"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4o79Ofism0WKksZ55QyEwp"
       },
@@ -1203,7 +1485,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4yKQddXwEu8feEhYtV3mVP"
@@ -1287,7 +1569,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 179964,
       "name": "I Want You - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/34i6YUs9Lh4pgj8IeMgcyI"
@@ -1305,7 +1587,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 164000,
       "name": "I'm A Feak - Original Mix",
       "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
@@ -1378,6 +1660,58 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
+      },
+      "artists": [
+        {
+          "name": "KiaBHN",
+          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ BigO",
+          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
+        },
+        {
+          "name": "Vivid The Producer",
+          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192949,
+      "name": "Jersey Anniversary",
+      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
+    },
+    {
+      "album": {
+        "name": "JIMMY CROOKS (Remix)",
+        "url": "https://open.spotify.com/album/2MA1NPxeBKMzkCxWYguYYT"
+      },
+      "artists": [
+        {
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145711,
+      "name": "JIMMY CROOKS - Remix",
+      "url": "https://open.spotify.com/track/1Fyezl6Ep6Swory5K78NR3"
+    },
+    {
+      "album": {
         "name": "K So (Street Bangers Factory 16)",
         "url": "https://open.spotify.com/album/6z1udd7xIDYerwHvirDP6b"
       },
@@ -1389,10 +1723,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 173419,
       "name": "K So - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/3uHgmgoxBqqU88kjx1YOgl"
+    },
+    {
+      "album": {
+        "name": "Let It Burn (Jersey Club)",
+        "url": "https://open.spotify.com/album/0PYccUeVOwyQ0bWdLHvHtR"
+      },
+      "artists": [
+        {
+          "name": "Quis Chandla",
+          "url": "https://open.spotify.com/artist/4pOaNtzVMWNYdoCqTw4n38"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113921,
+      "name": "Let It Burn (Jersey Club)",
+      "url": "https://open.spotify.com/track/5d4yr29onORjW3t8wQHXto"
     },
     {
       "album": {
@@ -1419,7 +1775,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-10",
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
@@ -1441,7 +1797,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 126380,
       "name": "Level Up (Jersey Club)",
       "url": "https://open.spotify.com/track/0nhlsJHrfmxMIWYKAeQYIk"
@@ -1477,7 +1833,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 102243,
       "name": "Look Back at It (Club Mix)",
       "url": "https://open.spotify.com/track/0viwsuWYy2OV7QFlbjm0iw"
@@ -1579,7 +1935,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 192876,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/0IDuxGsdO9aKPzmLbrFO4J"
@@ -1601,7 +1957,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 123350,
       "name": "Missed Calls - DJ Jayhood Remix",
       "url": "https://open.spotify.com/track/7fCDEma2FIR7E1C313NYWi"
@@ -1641,7 +1997,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 163200,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2zsSsvsJD16JbnrBKrRwRt"
@@ -1663,7 +2019,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
@@ -1733,7 +2089,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 101851,
       "name": "MY Shit GET Back",
       "url": "https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa"
@@ -1795,7 +2151,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 264094,
       "name": "Nxwxrk - Dj Sliink Remix",
       "url": "https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ"
@@ -1853,7 +2209,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 139026,
       "name": "POP",
       "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
@@ -1871,7 +2227,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Pop It Like a Pro",
       "url": "https://open.spotify.com/track/7cZftLl511eByHiuWeU1jP"
@@ -1893,6 +2249,28 @@
       "duration_ms": 112587,
       "name": "Posted In The Club",
       "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"
+    },
+    {
+      "album": {
+        "name": "POZZ",
+        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+      },
+      "artists": [
+        {
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+        },
+        {
+          "name": "COSMO ENVOIE DES TRACKS",
+          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128776,
+      "name": "POZZ",
+      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
     },
     {
       "album": {
@@ -1929,7 +2307,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 165052,
       "name": "Problem (DJ Sliink Remix)",
       "url": "https://open.spotify.com/track/2CsxuGouCICQgKyPACByU9"
@@ -1951,10 +2329,36 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 113760,
       "name": "Pump It Up [Jersey Club]",
       "url": "https://open.spotify.com/track/48aHpYVBmeIMxizdTAI7yD"
+    },
+    {
+      "album": {
+        "name": "Push It (UNIIQU3 Remix)",
+        "url": "https://open.spotify.com/album/5XjWZdnDZ3W52t1gGmNPlV"
+      },
+      "artists": [
+        {
+          "name": "XHOSA",
+          "url": "https://open.spotify.com/artist/5mmqZLCCtJTdVnqn8jnFii"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Push It - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/072REW0b0PT7z1K7sKAE9I"
     },
     {
       "album": {
@@ -2005,7 +2409,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 142978,
       "name": "RAVE IN MY ROOM",
       "url": "https://open.spotify.com/track/5ki811IbmzpR9Q2r79LUdW"
@@ -2063,7 +2467,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 91324,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
@@ -2103,7 +2507,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 144000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0at8XjfeGHOWe3DzcOkz8N"
@@ -2125,7 +2529,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 184058,
       "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
       "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
@@ -2165,7 +2569,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-10",
       "duration_ms": 117055,
       "name": "Running Man Challenge (My Boo)",
       "url": "https://open.spotify.com/track/60JiEa7IaQguLaV3Vc6GUc"
@@ -2326,6 +2730,28 @@
     },
     {
       "album": {
+        "name": "SLIME PROTOCOL",
+        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
+      },
+      "artists": [
+        {
+          "name": "Koi the Alchemist",
+          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
+        },
+        {
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149747,
+      "name": "SLIME PROTOCOL",
+      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
+    },
+    {
+      "album": {
         "name": "Slow Motion (VIP)",
         "url": "https://open.spotify.com/album/6iUEy35Zaa2I2RkomahqSm"
       },
@@ -2337,7 +2763,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 132937,
       "name": "Slow Motion (VIP)",
       "url": "https://open.spotify.com/track/4gv8CrIsF5qBMstG7cFwhu"
@@ -2381,10 +2807,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 104727,
       "name": "Steal Her Man Challenge (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/7kfh2iyJlRgONMJgyhZEPf"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "album": {
@@ -2403,7 +2847,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 123533,
       "name": "SuperBad - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1uRswTqUtGeuAZHEe4jG0p"
@@ -2429,7 +2873,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 113228,
       "name": "Swamp Life Anthem - DJ Jayhood Jersey Club Remix",
       "url": "https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj"
@@ -2447,7 +2891,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 178207,
       "name": "Team Lilman Anthem",
       "url": "https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW"
@@ -2530,6 +2974,24 @@
     },
     {
       "album": {
+        "name": "Walk It",
+        "url": "https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL"
+      },
+      "artists": [
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137195,
+      "name": "Walk It",
+      "url": "https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW"
+    },
+    {
+      "album": {
         "name": "Walkdown",
         "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
       },
@@ -2589,7 +3051,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
@@ -2611,7 +3073,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 85786,
       "name": "Weak (Bend Over)",
       "url": "https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2"
@@ -2633,7 +3095,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 127007,
       "name": "When We Get Home",
       "url": "https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA"
@@ -2655,7 +3117,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 148715,
       "name": "When We Vibe - DeFalco Remix",
       "url": "https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv"
@@ -2673,7 +3135,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"

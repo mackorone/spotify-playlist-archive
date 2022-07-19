@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The magical soundscapes of the rain forest.",
+  "description": "Recordings from the tropical rainforest ",
   "name": "Sounds of the Rain Forest",
   "published_playlist_ids": [
     "2IGFxvMJkgpydS1w8Mozy7"
@@ -170,7 +170,7 @@
     },
     {
       "album": {
-        "name": "Country Crickets Sleep Aid Loop - Single",
+        "name": "Country Crickets Sleep Aid Loop",
         "url": "https://open.spotify.com/album/6RqEMiXSrJ2CktsDvztFiA"
       },
       "artists": [
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 608000,
       "name": "Country Crickets Sleep Aid Loop",
       "url": "https://open.spotify.com/track/3uGk1gDFXQSXPwxVjtcNWu"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 240000,
       "name": "Deep Forest Soft Rain Birds Chirp Away",
       "url": "https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH"
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/6VjivM6ZIYQcZbVQ3hjtsP"
+      },
+      "artists": [
+        {
+          "name": "Zebric",
+          "url": "https://open.spotify.com/artist/1I4n7zzunfZwuEo8bPB7VZ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124651,
+      "name": "In The Wild",
+      "url": "https://open.spotify.com/track/402u8vEl017GWUpTxYwbxT"
+    },
+    {
+      "album": {
         "name": "Sounds of Rainforests",
         "url": "https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg"
       },
@@ -581,6 +599,24 @@
       "duration_ms": 120000,
       "name": "Jungle Relaxation Sleep",
       "url": "https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL"
+    },
+    {
+      "album": {
+        "name": "Sounds of Burma",
+        "url": "https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h"
+      },
+      "artists": [
+        {
+          "name": "Mandalay Hill",
+          "url": "https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Late Night In The Rainforest",
+      "url": "https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY"
     },
     {
       "album": {
@@ -671,6 +707,24 @@
       "duration_ms": 166000,
       "name": "Na Foresta",
       "url": "https://open.spotify.com/track/6z3iPlhweUAe8gWOeYWYX4"
+    },
+    {
+      "album": {
+        "name": "Let the forest talk",
+        "url": "https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Nap In The Rainforest",
+      "url": "https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx"
     },
     {
       "album": {
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 153042,
       "name": "Rainforest Waterfall",
       "url": "https://open.spotify.com/track/3DE9J1LRkzuvCflWR2pjoK"
@@ -1121,6 +1175,24 @@
       "duration_ms": 208000,
       "name": "Sleep Under The Leaves",
       "url": "https://open.spotify.com/track/1PsGLGg9ohMYigEsqoQrqQ"
+    },
+    {
+      "album": {
+        "name": "Waterfall Creek",
+        "url": "https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg"
+      },
+      "artists": [
+        {
+          "name": "Wildazon",
+          "url": "https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sleepy Rainforest",
+      "url": "https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1"
     },
     {
       "album": {

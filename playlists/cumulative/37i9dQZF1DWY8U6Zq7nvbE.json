@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Ain't That Why (Acoustic)",
+        "url": "https://open.spotify.com/album/4urkIKItqfoz5YKTsdszCV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 167114,
+      "name": "Ain't That Why - Acoustic",
+      "url": "https://open.spotify.com/track/1wIf4GoPEDn4BIHlTmyrxi"
+    },
+    {
+      "album": {
         "name": "All Into Nothing (Acoustic)",
         "url": "https://open.spotify.com/album/3oDJKvkqTcZ6g891jNFMNY"
       },
@@ -77,7 +99,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 198304,
       "name": "Ambulance - Acoustic",
       "url": "https://open.spotify.com/track/5l1HfxucMgMyl79DcJyYCF"
@@ -243,7 +265,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 164350,
       "name": "Better - Acoustic",
       "url": "https://open.spotify.com/track/0knOiZDfsoG4F92DI2JC5d"
@@ -345,7 +367,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 216830,
       "name": "Black Car (feat. ALMA) - Acoustic",
       "url": "https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw"
@@ -719,7 +741,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 242581,
       "name": "Girl I Wish I Didn't Know (Acoustic)",
       "url": "https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL"
@@ -777,7 +799,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
@@ -849,7 +871,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 158846,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD"
@@ -961,7 +983,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 145346,
       "name": "If You Knew Better",
       "url": "https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn"
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 189729,
       "name": "Joke's On You - Acoustic",
       "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
@@ -1513,7 +1535,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
@@ -1571,7 +1593,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 105547,
       "name": "Rumors - Acoustic",
       "url": "https://open.spotify.com/track/65Yuc4cz9ozKZKj40dfFcg"
@@ -1977,7 +1999,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 149166,
       "name": "We Do - Acoustic",
       "url": "https://open.spotify.com/track/4If0j5i6fSA992aS9lOMPK"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 145217,
       "name": "Whiplash - Acoustic",
       "url": "https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV"

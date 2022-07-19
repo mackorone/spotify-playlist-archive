@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216200,
       "name": "Ashes to Ashes - 2016 Remaster",
       "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 254960,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/4EWiuBTfN4jl13YeGD7YvT"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 153666,
       "name": "Denise",
       "url": "https://open.spotify.com/track/7Ijr2MeaWwyqXp48bSu1Cl"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 196866,
       "name": "Everglade",
       "url": "https://open.spotify.com/track/1nWccj9gU34OmDYL63pTFS"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 257480,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 256200,
       "name": "Honky's Ladder",
       "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 300240,
       "name": "I Don't Know Anything",
       "url": "https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ"
@@ -530,7 +530,7 @@
     },
     {
       "album": {
-        "name": "Resident Alien",
+        "name": "In The Meantime",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
       "artists": [
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 150960,
       "name": "Julianne",
       "url": "https://open.spotify.com/track/5dYOIVFuh9iaepv1IZrJXe"
@@ -613,10 +613,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 137306,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/2QN7lhAV6D9VaJ7HfjDg6Z"
+    },
+    {
+      "album": {
+        "name": "Secret Samadhi",
+        "url": "https://open.spotify.com/album/42x2xMRsc2eZm4m3I6fhL4"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299266,
+      "name": "Lakini's Juice",
+      "url": "https://open.spotify.com/track/3vcybGRC3eU6btnEWuFWII"
     },
     {
       "album": {
@@ -674,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
+      },
+      "artists": [
+        {
+          "name": "Screaming Trees",
+          "url": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247093,
+      "name": "Nearly Lost You",
+      "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
+    },
+    {
+      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -721,10 +757,46 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 216733,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "album": {
+        "name": "I Am An Elastic Firecracker",
+        "url": "https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5"
+      },
+      "artists": [
+        {
+          "name": "Tripping Daisy",
+          "url": "https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/1vqw24tqUeqKtTA8fiPccF"
+    },
+    {
+      "album": {
+        "name": "Rubberneck",
+        "url": "https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN"
+      },
+      "artists": [
+        {
+          "name": "Toadies",
+          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308333,
+      "name": "Possum Kingdom",
+      "url": "https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s"
     },
     {
       "album": {
@@ -746,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Saint Joe On The School Bus",
+      "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
+    },
+    {
+      "album": {
         "name": "Troublegum",
         "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
       },
@@ -757,7 +847,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 156906,
       "name": "Screamager",
       "url": "https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp"
@@ -847,10 +937,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 159333,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/1kX7Z3FnesBjWC6H4qqmGx"
+    },
+    {
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "album": {
@@ -908,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Cracker",
+        "url": "https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp"
+      },
+      "artists": [
+        {
+          "name": "Cracker",
+          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Teen Angst (What The World Needs Now)",
+      "url": "https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz"
+    },
+    {
+      "album": {
         "name": "Come On Feel The Lemonheads",
         "url": "https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq"
       },
@@ -919,7 +1045,7 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 171426,
       "name": "The Great Big No",
       "url": "https://open.spotify.com/track/5k9R6CCR9H7WETvgKkv7yn"
@@ -1009,10 +1135,28 @@
       ],
       "date_added": "2020-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 230800,
       "name": "Water's Edge",
       "url": "https://open.spotify.com/track/0pvmUroOxa5sBu9wINCbI9"
+    },
+    {
+      "album": {
+        "name": "Wax Ecstatic",
+        "url": "https://open.spotify.com/album/66c7nl612haIOxKKiTCimr"
+      },
+      "artists": [
+        {
+          "name": "Sponge",
+          "url": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 248613,
+      "name": "Wax Ecstatic (To Sell Angelina)",
+      "url": "https://open.spotify.com/track/0SKiQidbB2lEY7us6yDt2m"
     },
     {
       "album": {

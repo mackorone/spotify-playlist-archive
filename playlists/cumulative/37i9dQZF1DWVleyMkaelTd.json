@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-01",
   "description": "Soundtrack your dinner with bossa sounds.",
   "name": "Bossa Nova Dinner",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "00GgJo3w4SYrEnE4bIAXpT"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
@@ -204,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Black Orpheus",
+        "url": "https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204873,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF"
+    },
+    {
+      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK"
       },
@@ -215,7 +235,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 310593,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/509iWZpdj11TayPbutE5JG"
@@ -550,6 +570,24 @@
     },
     {
       "album": {
+        "name": "One For Roy",
+        "url": "https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f"
+    },
+    {
+      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -565,6 +603,24 @@
       "duration_ms": 257085,
       "name": "Descer Pelo Rio",
       "url": "https://open.spotify.com/track/5EPMAKQslCbGpMqgj6UDL9"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
+      },
+      "artists": [
+        {
+          "name": "Naira Fonseca",
+          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
     },
     {
       "album": {
@@ -723,7 +779,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 152333,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
@@ -759,7 +815,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 142533,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
@@ -957,7 +1013,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 206000,
       "name": "I Should Have Known Better",
       "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
@@ -975,7 +1031,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 301543,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
@@ -1029,7 +1085,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 252200,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
@@ -1119,7 +1175,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 143179,
       "name": "Meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
@@ -1465,6 +1521,24 @@
       "duration_ms": 169066,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
+    },
+    {
+      "album": {
+        "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
+      },
+      "artists": [
+        {
+          "name": "Jade Vieira",
+          "url": "https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
     },
     {
       "album": {

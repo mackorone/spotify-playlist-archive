@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Azucena",
+        "url": "https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi"
+      },
+      "artists": [
+        {
+          "name": "Sylvani",
+          "url": "https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185705,
+      "name": "Azucena",
+      "url": "https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3"
+    },
+    {
+      "album": {
         "name": "Backyard Stories \u2014 Summer Forever",
         "url": "https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES"
       },
@@ -368,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Channels",
+        "url": "https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf"
+      },
+      "artists": [
+        {
+          "name": "Hazel Calm",
+          "url": "https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "Channels",
+      "url": "https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N"
+    },
+    {
+      "album": {
         "name": "Chateau (Holmsey Remix)",
         "url": "https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK"
       },
@@ -387,6 +423,24 @@
       "duration_ms": 240083,
       "name": "Chateau - Holmsey Remix",
       "url": "https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG"
+    },
+    {
+      "album": {
+        "name": "Cheap Week",
+        "url": "https://open.spotify.com/album/1GRm4CtpICVfP9ACydDVsi"
+      },
+      "artists": [
+        {
+          "name": "Lukall",
+          "url": "https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Cheap Week",
+      "url": "https://open.spotify.com/track/6FApcHEMgIKjS59AJHQxth"
     },
     {
       "album": {
@@ -498,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Let Go",
+        "url": "https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie"
+      },
+      "artists": [
+        {
+          "name": "Superbandy",
+          "url": "https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "Don't Wanna Let Go",
+      "url": "https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW"
+    },
+    {
+      "album": {
         "name": "Picturesque",
         "url": "https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe"
       },
@@ -509,7 +581,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 323500,
       "name": "Extrinsic",
       "url": "https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV"
@@ -545,7 +617,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143460,
       "name": "Faro",
       "url": "https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V"
@@ -642,6 +714,42 @@
     },
     {
       "album": {
+        "name": "Fragmented Memories / Woodpecker (Call Me)",
+        "url": "https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207631,
+      "name": "Fragmented Memories",
+      "url": "https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj"
+    },
+    {
+      "album": {
+        "name": "Cygnus A",
+        "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158584,
+      "name": "Free Range",
+      "url": "https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv"
+    },
+    {
+      "album": {
         "name": "Get In",
         "url": "https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5"
       },
@@ -678,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2dAz5HgtxPy5I5NYWiKABC"
+      },
+      "artists": [
+        {
+          "name": "MOOGADISHU",
+          "url": "https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/1ddppe7df96sqbzEkw7Khk"
+    },
+    {
+      "album": {
         "name": "Gone Fishing",
         "url": "https://open.spotify.com/album/2CH3raSR42wJfkvBQxdVPj"
       },
@@ -693,6 +819,24 @@
       "duration_ms": 213818,
       "name": "Gone Fishing",
       "url": "https://open.spotify.com/track/0KBpSaFvoYODDM5r8uvUQJ"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/21TmHAoMlDytDjrYs55hWk"
+      },
+      "artists": [
+        {
+          "name": "DJ Mayson",
+          "url": "https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 221326,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/27cKloOulot9GZuKTwwPG7"
     },
     {
       "album": {
@@ -747,6 +891,24 @@
       "duration_ms": 160862,
       "name": "Growing",
       "url": "https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN"
+    },
+    {
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/5DheiEg0IKr4iadlv0hn7F"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205550,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7x508VL7l1oKprXAlyKCr4"
     },
     {
       "album": {
@@ -840,6 +1002,42 @@
     },
     {
       "album": {
+        "name": "Cygnus A",
+        "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "How We Do It",
+      "url": "https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB"
+    },
+    {
+      "album": {
+        "name": "I ADORE U",
+        "url": "https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK"
+      },
+      "artists": [
+        {
+          "name": "Hank Lotion",
+          "url": "https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 242646,
+      "name": "I ADORE U",
+      "url": "https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Live Forever (Taladego Tropical Mix)",
         "url": "https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K"
       },
@@ -859,6 +1057,60 @@
       "duration_ms": 243646,
       "name": "I Don't Wanna Live Forever - Taladego Tropical Mix",
       "url": "https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD"
+    },
+    {
+      "album": {
+        "name": "I've Got The Feeling",
+        "url": "https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1"
+      },
+      "artists": [
+        {
+          "name": "Cymbal Dealers",
+          "url": "https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151512,
+      "name": "I've Got The Feeling",
+      "url": "https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC"
+    },
+    {
+      "album": {
+        "name": "in deep",
+        "url": "https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih"
+      },
+      "artists": [
+        {
+          "name": "genelion",
+          "url": "https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157431,
+      "name": "in deep",
+      "url": "https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX"
+    },
+    {
+      "album": {
+        "name": "Kayser",
+        "url": "https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2"
+      },
+      "artists": [
+        {
+          "name": "Milous",
+          "url": "https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171578,
+      "name": "Kayser",
+      "url": "https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu"
     },
     {
       "album": {
@@ -898,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Lemuria",
+        "url": "https://open.spotify.com/album/5fXjUp8yxkCVN8BR4Z86t0"
+      },
+      "artists": [
+        {
+          "name": "Sylvani",
+          "url": "https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169352,
+      "name": "Lemuria",
+      "url": "https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f"
       },
@@ -909,7 +1179,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 156694,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu"
@@ -1042,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Cygnus A",
+        "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298237,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB"
+    },
+    {
+      "album": {
         "name": "Need You To Know",
         "url": "https://open.spotify.com/album/6AS8QmcXQmMEnNWvF0xpQu"
       },
@@ -1053,7 +1341,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 157000,
       "name": "Need You To Know",
       "url": "https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y"
@@ -1071,7 +1359,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 257216,
       "name": "Neon Nights",
       "url": "https://open.spotify.com/track/599yBUnBYNhb1t656mqKUY"
@@ -1168,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Original Love",
+        "url": "https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb"
+      },
+      "artists": [
+        {
+          "name": "Flughof",
+          "url": "https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182792,
+      "name": "Original Love",
+      "url": "https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB"
+    },
+    {
+      "album": {
         "name": "outbreak",
         "url": "https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI"
       },
@@ -1233,7 +1539,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 139714,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG"
@@ -1359,7 +1665,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175000,
       "name": "Rich In Mind",
       "url": "https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR"
@@ -1582,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Storm Trap",
+        "url": "https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232582,
+      "name": "Storm Trap",
+      "url": "https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE"
+    },
+    {
+      "album": {
         "name": "Sun Time",
         "url": "https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad"
       },
@@ -1719,10 +2043,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 132008,
       "name": "Time to Rest",
       "url": "https://open.spotify.com/track/2HfslpAapuq8I148nED63h"
+    },
+    {
+      "album": {
+        "name": "To Hold You",
+        "url": "https://open.spotify.com/album/3W0WdtAqSsYcj5QnDvqEHn"
+      },
+      "artists": [
+        {
+          "name": "Sundancer Marquis",
+          "url": "https://open.spotify.com/artist/6O3Pus00j8dR7bOWKUF02i"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 220295,
+      "name": "To Hold You",
+      "url": "https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb"
     },
     {
       "album": {
@@ -1791,7 +2133,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 215847,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1e0Q9veokrlQKVTiKv3jLx"
@@ -1827,7 +2169,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 158772,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l"
@@ -1845,7 +2187,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 242750,
       "name": "White Dust",
       "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
@@ -1867,6 +2209,24 @@
       "duration_ms": 166779,
       "name": "With My Whole Heart",
       "url": "https://open.spotify.com/track/7AzIVU7uB6ZU7uPoFJFKPu"
+    },
+    {
+      "album": {
+        "name": "Fragmented Memories / Woodpecker (Call Me)",
+        "url": "https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 304412,
+      "name": "Woodpecker (Call Me)",
+      "url": "https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5"
     },
     {
       "album": {

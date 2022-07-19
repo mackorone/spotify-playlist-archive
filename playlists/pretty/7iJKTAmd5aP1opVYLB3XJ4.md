@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7iJKTAmd5aP1opVYLB3XJ4.md) - [plain]
 
 > Push play on a slowly building mix of indie folk faves as you roll out of bed and get your coffee on...
 
-[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

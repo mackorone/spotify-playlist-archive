@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-15",
       "duration_ms": 321619,
       "name": "Calculadora",
       "url": "https://open.spotify.com/track/2P4onY7I6vpae0hw15SkAe"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 241000,
       "name": "Chico Vacil\u00f3n",
       "url": "https://open.spotify.com/track/5BnE4xVwJatqVg8XFRavlV"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 622520,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "40 Artistas Y Sus Super Exitos",
+        "url": "https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281840,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy"
+    },
+    {
+      "album": {
         "name": "Amor y Sentimiento",
         "url": "https://open.spotify.com/album/3kQG5qmAlyznGH8yt3nSJJ"
       },
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-15",
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-07",
       "duration_ms": 333560,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/23Vb5teQKNSNvPgUjLtI8j"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": "2022-07-15",
       "duration_ms": 286120,
       "name": "Las Calaveras",
       "url": "https://open.spotify.com/track/7K8fx6p94CnofgKLVqifJC"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 326936,
       "name": "Mascaras",
       "url": "https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 368400,
       "name": "No Qued\u00f3 Ni el Gato",
       "url": "https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 290413,
       "name": "Que Alguien Me Diga",
       "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"

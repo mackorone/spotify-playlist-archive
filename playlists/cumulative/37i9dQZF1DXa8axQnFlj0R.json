@@ -174,6 +174,42 @@
     },
     {
       "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345746,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0Em2XljAKp5THmpNvS83cp"
+    },
+    {
+      "album": {
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 192893,
+      "name": "Both All The Time",
+      "url": "https://open.spotify.com/track/1NhwcAlWb4lY68d2bHBdGx"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz"
       },
@@ -239,7 +275,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 240224,
       "name": "Cassette Beat",
       "url": "https://open.spotify.com/track/7j2SWDroCSG18H46NWvpW4"
@@ -387,7 +423,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
@@ -589,7 +625,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-11",
       "duration_ms": 289074,
       "name": "Follaton Wood",
       "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
@@ -835,7 +871,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "I'm Ready to Move On / Wild Heart Reprise",
       "url": "https://open.spotify.com/track/1PpztPgGhKciEqfjjvL4Ld"
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 188573,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
@@ -1467,7 +1503,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 87272,
       "name": "Same Way",
       "url": "https://open.spotify.com/track/6RgLvP8QbbgX81koDnNAcI"
@@ -1561,10 +1597,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/7fXyuQqEBwpKtCa8PomO7B"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
     },
     {
       "album": {
@@ -1691,7 +1745,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-19",
       "duration_ms": 251493,
       "name": "The Wolves & The Ravens",
       "url": "https://open.spotify.com/track/3ZkdpIHWiUTI830a7RpcFU"
@@ -1875,7 +1929,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
@@ -1893,7 +1947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/19cLwp9WS5E4CTYxcM7Wi1"
@@ -1983,7 +2037,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 257426,
       "name": "White Blood",
       "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
@@ -2016,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "Made of Stone",
+        "url": "https://open.spotify.com/album/6CnA0WkHIEKZJwX7wjaDgX"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 220026,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0121cQrltj3XwySaYpNxfD"
+    },
+    {
+      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
       },
@@ -2031,7 +2103,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"

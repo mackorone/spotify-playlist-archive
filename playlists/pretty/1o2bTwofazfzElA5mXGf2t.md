@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

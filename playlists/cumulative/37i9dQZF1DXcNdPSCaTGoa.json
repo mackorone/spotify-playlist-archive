@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 262320,
       "name": "Accuse",
       "url": "https://open.spotify.com/track/7mt1pC7uZq63Unv0adIZKB"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 308852,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6X6ONFdHcN7spDGroDwxMU"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2019-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": "2022-05-12",
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-16",
       "duration_ms": 267168,
       "name": "Asimbonanga (Mandela)",
       "url": "https://open.spotify.com/track/3PK6nJvcddecPj2ESgMJAe"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-14",
       "duration_ms": 362946,
       "name": "Blues for a Hip King",
       "url": "https://open.spotify.com/track/6JvT7KcHNeGIzGQUUAdUkA"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 160880,
       "name": "Born in a Taxi",
       "url": "https://open.spotify.com/track/3fJ75JKYcfOerkRGj29Plh"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-19",
       "duration_ms": 332586,
       "name": "Bula Boot",
       "url": "https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 294200,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm"
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "When I Died I Was Elvis",
+        "url": "https://open.spotify.com/album/3MqwjdwlsclTa2wUkIDcl7"
+      },
+      "artists": [
+        {
+          "name": "Sugardrive",
+          "url": "https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n"
+        }
+      ],
+      "date_added": "2019-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 285733,
+      "name": "Disco Lazarus",
+      "url": "https://open.spotify.com/track/3CpXI9W6KA27ro2ghzGJlC"
+    },
+    {
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
@@ -367,7 +385,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 311880,
       "name": "Doo Be Doo",
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 334280,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/0UmUpMqXmtvRGehh7vFlDV"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 320613,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 245533,
       "name": "Got To Give",
       "url": "https://open.spotify.com/track/0ozQjjJUqeqIEx1m55N2Gk"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2019-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-07-14",
       "duration_ms": 228413,
       "name": "Homeless (with Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 359461,
       "name": "Hossanna",
       "url": "https://open.spotify.com/track/2a1jKvDS7F0TRhgVjUYhXJ"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 319573,
       "name": "Jabba (feat. Nkanyiso)",
       "url": "https://open.spotify.com/track/5eFwMqX8eZo3ND8O2JmxqN"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 327160,
       "name": "Lady Soul",
       "url": "https://open.spotify.com/track/0Ds7vBTOrAXCXado1TFIVH"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 269720,
       "name": "Magesh",
       "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 275000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 320266,
       "name": "Manyonyoba",
       "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 290799,
       "name": "Matofotofo",
       "url": "https://open.spotify.com/track/1mJzCGXZm1kRtzWY5VxovQ"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 370906,
       "name": "Mbuso's Revenge",
       "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 271186,
       "name": "Ngud' (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 285933,
       "name": "Nkalakatha",
       "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2019-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 283826,
       "name": "Nomvula (After the Rain)",
       "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-16",
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/0hlIkI7YTpYJFMAGZKKbFW"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 267640,
       "name": "Pluto (Remember You) - Radio Edit",
       "url": "https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 251920,
       "name": "Pot Belly",
       "url": "https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 339133,
       "name": "Roba Letheka",
       "url": "https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 230280,
       "name": "Shake",
       "url": "https://open.spotify.com/track/4Ele0fEVYUwoRGConI8oT6"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2019-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 315813,
       "name": "Sibongile",
       "url": "https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q"
@@ -1404,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "Cape Of Good Dope",
+        "url": "https://open.spotify.com/album/3cFgEXZtZb2dXQU0vtG7AL"
+      },
+      "artists": [
+        {
+          "name": "Godessa",
+          "url": "https://open.spotify.com/artist/44U7CX6sEeWA1YkVsUfAqz"
+        }
+      ],
+      "date_added": "2019-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 193959,
+      "name": "Social Ills",
+      "url": "https://open.spotify.com/track/7m2wTfNDeE1fvZIVuEtvco"
+    },
+    {
+      "album": {
         "name": "Never ever ever ever",
         "url": "https://open.spotify.com/album/4BNqUvWF2qPG3eC8oYqm6y"
       },
@@ -1415,7 +1451,7 @@
       ],
       "date_added": "2019-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 231706,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/4os1fxyaKBOWDQ2SeooYos"
@@ -1433,7 +1469,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-27",
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 291560,
       "name": "The Bushman",
       "url": "https://open.spotify.com/track/1VHXWDDkc2VOo8Iocjxg5i"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 295653,
       "name": "The Clap Song",
       "url": "https://open.spotify.com/track/5bTe7ZfSFPcgXQvBH117ay"
@@ -1545,7 +1581,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 279266,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/0stWzuy6xRNVuz5qF3x4ZZ"
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 246293,
       "name": "Thula Mama",
       "url": "https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM"
@@ -1617,7 +1653,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 275360,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl"
@@ -1653,7 +1689,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 261800,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx"
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "Waar Was Jy (Radio Mix)",
       "url": "https://open.spotify.com/track/5XcPtJcbB0jguZOYltyDrW"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 248120,
       "name": "We On Fire (feat. Bongz)",
       "url": "https://open.spotify.com/track/2Dg4UhPcefNru2ZL1L37gQ"
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 292226,
       "name": "Weeping",
       "url": "https://open.spotify.com/track/0gDYE1XVoRj4GXa1ab1VjI"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
@@ -1823,7 +1859,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-07-07",
       "duration_ms": 229746,
       "name": "World in Union",
       "url": "https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a"
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 451466,
       "name": "Y U 4 Me",
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 325133,
       "name": "Yehlisan'umoya Ma Africa",
       "url": "https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp"
@@ -1907,7 +1943,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 407973,
       "name": "Zabalaza",
       "url": "https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs"

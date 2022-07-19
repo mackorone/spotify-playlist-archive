@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 163853,
       "name": "A Vibe (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188935,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/28XBIzpPzfgXwrno4B8U1f"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 251204,
       "name": "Kingston Be Wise",
       "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
@@ -543,6 +543,32 @@
       "duration_ms": 216240,
       "name": "Love I",
       "url": "https://open.spotify.com/track/4Hrw5VbQ9xDPdHdLCqBsSA"
+    },
+    {
+      "album": {
+        "name": "Love Me Easy",
+        "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
+      },
+      "artists": [
+        {
+          "name": "ANORA",
+          "url": "https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170016,
+      "name": "Love Me Easy",
+      "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
     },
     {
       "album": {
@@ -862,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Ups And Downs (Chronixx Presents: Soul Circle Music)",
+        "url": "https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ups And Downs (Chronixx Presents: Soul Circle Music)",
+      "url": "https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9"
+    },
+    {
+      "album": {
         "name": "Warm & Easy",
         "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
       },
@@ -877,6 +925,28 @@
       "duration_ms": 295333,
       "name": "Warm & Easy",
       "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
+    },
+    {
+      "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256446,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "album": {

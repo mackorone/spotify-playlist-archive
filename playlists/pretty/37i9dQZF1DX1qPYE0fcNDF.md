@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,227 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,676 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 27 | [Ballin' On Xmas](https://open.spotify.com/track/4fr1ceHZvZl2kY1GYm6GlJ) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do) | 3:35 |
 | 28 | [All I Want for Christmas \(feat\. Kodak Black\)](https://open.spotify.com/track/5YIrN8eiSm9X7uodyoCmCp) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [All I Want for Christmas \(feat\. Kodak Black\)](https://open.spotify.com/album/4r0lhaqoy76x01TKtYoDoy) | 3:54 |
 | 29 | [I Am the Grinch \(feat\. Fletcher Jones\)](https://open.spotify.com/track/5TVQdlY5H99BSAciKixBSt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Fletcher Jones](https://open.spotify.com/artist/1p0uWG26qtUg2nNxIIk10x) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 2:37 |
-| 30 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi The Prynce](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
+| 30 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
 | 31 | [A Christmas Fucking Miracle](https://open.spotify.com/track/54DmhgFHvYxqBEnOwklDml) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels](https://open.spotify.com/album/7BUlAwJBzKyllRuDTKV8Ae) | 4:21 |
 | 32 | [Intro](https://open.spotify.com/track/19yDsmC7MexMWIRjXlsuF4) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Tribute To Bad Santa Starring Mike Epps](https://open.spotify.com/album/4fitTiYqga0BtCinAsfmtf) | 3:13 |
 | 33 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |

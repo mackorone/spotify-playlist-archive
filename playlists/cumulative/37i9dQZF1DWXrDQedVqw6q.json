@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 122658,
       "name": "Arpegio D",
       "url": "https://open.spotify.com/track/7lnZVBzBlyMdkkpfz4P1L8"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 211162,
       "name": "Cosmonova",
       "url": "https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId"
@@ -473,6 +473,24 @@
       "duration_ms": 150929,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs"
+    },
+    {
+      "album": {
+        "name": "Centripetal",
+        "url": "https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Cathedral",
+          "url": "https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130356,
+      "name": "Decades",
+      "url": "https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc"
     },
     {
       "album": {
@@ -1754,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y"
+      },
+      "artists": [
+        {
+          "name": "Wandercole",
+          "url": "https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Somewhere In Between",
+      "url": "https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq"
+    },
+    {
+      "album": {
         "name": "Song for Marianne",
         "url": "https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc"
       },
@@ -1880,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/7elTnjhpbDAbtO2LYKdd1f"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3LVfGCqen57RXIKj8Baen5"
+    },
+    {
+      "album": {
         "name": "Summer Memories",
         "url": "https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi"
       },
@@ -1949,6 +2003,32 @@
       "duration_ms": 154421,
       "name": "Sweet Gesture",
       "url": "https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ"
+    },
+    {
+      "album": {
+        "name": "Take 5 - Solips (Klaus Sahm Rework)",
+        "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
+      },
+      "artists": [
+        {
+          "name": "Kevin Imbrechts",
+          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
+        },
+        {
+          "name": "Klaus Sahm",
+          "url": "https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK"
+        },
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Take 5 - Solips - Klaus Sahm Rework",
+      "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
     },
     {
       "album": {
@@ -2381,7 +2461,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"

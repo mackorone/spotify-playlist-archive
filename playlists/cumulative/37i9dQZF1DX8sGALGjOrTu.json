@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-02",
       "duration_ms": 260959,
       "name": "Andria",
       "url": "https://open.spotify.com/track/42QlbO4IkGD6OSp6OXjFwN"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 216026,
       "name": "Anthem of Our Dying Day",
       "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-06",
       "duration_ms": 300640,
       "name": "Apathy Is a Cold Body",
       "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 303093,
       "name": "Ape Dos Mil",
       "url": "https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": "2022-07-16",
       "duration_ms": 224800,
       "name": "Are We Really Happy With Who We Are Right Now?",
       "url": "https://open.spotify.com/track/4ZaXOnp1ysZGYWTEj2dN9q"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 358813,
       "name": "Blindfolds Aside",
       "url": "https://open.spotify.com/track/1DFkUwdatSC8hISBU0X1yV"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-06-23",
       "duration_ms": 255013,
       "name": "Blue Morning",
       "url": "https://open.spotify.com/track/4z634rucYDdBD59wmgnCde"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 233000,
       "name": "Capricorn (A Brand New Name)",
       "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-12",
       "duration_ms": 244786,
       "name": "Darling",
       "url": "https://open.spotify.com/track/2fXuYAddVIgpUZ7JHMFjXb"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Daylight Slaving",
       "url": "https://open.spotify.com/track/2D2c0EGEs36su8hfpCbFJH"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 287866,
       "name": "Devil In Jersey City",
       "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 220786,
       "name": "Die Romantic",
       "url": "https://open.spotify.com/track/3t9OWuyMpQclTWD6ABjqXj"
@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6wXAqWSjKlf2NTWUhu6pdC"
+      },
+      "artists": [
+        {
+          "name": "Close to Home",
+          "url": "https://open.spotify.com/artist/1NgynHOx23zTkveKFZC7lu"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 214426,
+      "name": "Don't Waste Your Breath",
+      "url": "https://open.spotify.com/track/75mBsDQrHEQfuyK8ZUHr14"
+    },
+    {
+      "album": {
         "name": "Dream to Make Believe",
         "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-19",
       "duration_ms": 181293,
       "name": "Dream to Make Believe",
       "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-12",
       "duration_ms": 156706,
       "name": "Dressed For Friend Requests",
       "url": "https://open.spotify.com/track/3E52b2s2M0tOtBKkXsNFrq"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-11",
       "duration_ms": 283560,
       "name": "Drown the City",
       "url": "https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-06-21",
       "duration_ms": 149640,
       "name": "False Pretense",
       "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": "2022-07-03",
       "duration_ms": 213200,
       "name": "Ghostchant",
       "url": "https://open.spotify.com/track/3PyU9zQy9WtlX8jlxXCFLX"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-12",
       "duration_ms": 216133,
       "name": "Hand Of Blood",
       "url": "https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM"
@@ -937,10 +955,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": "2022-06-25",
       "duration_ms": 186453,
       "name": "I Set My Friends On Fire",
       "url": "https://open.spotify.com/track/2bYQFnF8X346Is0pTKsTTY"
+    },
+    {
+      "album": {
+        "name": "For All Of This",
+        "url": "https://open.spotify.com/album/6u5TTKJnmzV6SDJoh0bmP5"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 210053,
+      "name": "I Want To Hear You Sad",
+      "url": "https://open.spotify.com/track/6zRpoBAoqOUnkQvrDqSQ4K"
     },
     {
       "album": {
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-02",
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-05-31",
       "duration_ms": 255840,
       "name": "Knives and Pens",
       "url": "https://open.spotify.com/track/29Od8h2a4HZyD0PZ8SkBo6"
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 256600,
       "name": "Let Live",
       "url": "https://open.spotify.com/track/68mQv5RUC8yKiBQxlSl0I4"
@@ -1175,7 +1211,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 200680,
       "name": "Let The Evil Go East",
       "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 304613,
       "name": "Lip Gloss And Black",
       "url": "https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240186,
       "name": "Medicating",
       "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": "2022-07-17",
       "duration_ms": 164000,
       "name": "Nerdy",
       "url": "https://open.spotify.com/track/0bCt5NYTCWKIqtEP2ZcF60"
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-06-16",
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 265409,
       "name": "No Stars over Bethlehem",
       "url": "https://open.spotify.com/track/4Mqs6irS9aCNTjXznGfRbe"
@@ -1470,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Relationship of Command",
+        "url": "https://open.spotify.com/album/76huUQ38HYgrtEdgAitzk1"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 260293,
+      "name": "One Armed Scissor",
+      "url": "https://open.spotify.com/track/5Y4Eji1Q54kDkTx8X5cMGo"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/6wXAqWSjKlf2NTWUhu6pdC"
       },
@@ -1517,7 +1571,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 162920,
       "name": "Ravenous, Ravenous Rhinos",
       "url": "https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V"
@@ -1535,7 +1589,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-19",
       "duration_ms": 261106,
       "name": "Reach",
       "url": "https://open.spotify.com/track/3bQTjUBTX3TvkKLoVBlRra"
@@ -1611,6 +1665,24 @@
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/3PhrThKR4BSspkg7zCTECh"
+    },
+    {
+      "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
     },
     {
       "album": {
@@ -1697,7 +1769,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 565973,
       "name": "Short Stories With Tragic Endings",
       "url": "https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB"
@@ -1715,7 +1787,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 183440,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/1PG3cpjagOotciS60BCy0u"
@@ -1787,7 +1859,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": "2022-07-10",
       "duration_ms": 162266,
       "name": "Something That Produces Results",
       "url": "https://open.spotify.com/track/6bVYfzZxDrC4BSqVhYJFGt"
@@ -1805,7 +1877,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 222040,
       "name": "Standing on the Edge of Summer",
       "url": "https://open.spotify.com/track/5l2P0TBREso46wxFq4jQrI"
@@ -1895,7 +1967,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU"
@@ -1935,6 +2007,24 @@
       "duration_ms": 225040,
       "name": "The Bird and the Worm",
       "url": "https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ"
+    },
+    {
+      "album": {
+        "name": "Red Tree",
+        "url": "https://open.spotify.com/album/0XoHsdoupwoiTL0bTMvajH"
+      },
+      "artists": [
+        {
+          "name": "Moneen",
+          "url": "https://open.spotify.com/artist/4V5SMPpyCIxr6VpvJ5cWpp"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 350760,
+      "name": "The Day No One Needed to Know",
+      "url": "https://open.spotify.com/track/118Tjo6Lfp8Li2JfYuGAeV"
     },
     {
       "album": {
@@ -2093,10 +2183,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 237840,
       "name": "The Thespian",
       "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake!",
+        "url": "https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 203346,
+      "name": "The Turn",
+      "url": "https://open.spotify.com/track/0N0m7EwI9rM7fgAYGhWyez"
     },
     {
       "album": {
@@ -2165,7 +2273,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 266733,
       "name": "This War Is Ours (The Guillotine II)",
       "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
@@ -2219,7 +2327,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-12",
       "duration_ms": 200360,
       "name": "Two As One",
       "url": "https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK"
@@ -2331,7 +2439,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Waking the Demon",
       "url": "https://open.spotify.com/track/6RQtpVNDkfM91CpkCuRBzP"
@@ -2349,7 +2457,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 203706,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
@@ -2511,7 +2619,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "Young Cardinals",
       "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"

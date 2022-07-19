@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": "2022-07-19",
       "duration_ms": 303666,
       "name": "Rock 'N' Roll Singer",
       "url": "https://open.spotify.com/track/65Wa8Fu1ASV3B0dz2vwKNQ"
@@ -815,6 +815,24 @@
       "duration_ms": 352040,
       "name": "The Jack",
       "url": "https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-05",
+      "duration_ms": 212226,
+      "name": "Through The Mists Of Time",
+      "url": "https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E"
     },
     {
       "album": {

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Major RD",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: AKA AFK",
   "name": "Rima Avan\u00e7ada",
   "published_playlist_ids": [
     "1fuxTN1KVeY4FHPmGcQzOK"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "0800",
+        "url": "https://open.spotify.com/album/3VYwzW67GM00vR6z2vhNUf"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "0800",
+      "url": "https://open.spotify.com/track/14A0Tyim8iHhpnWesBnVST"
+    },
     {
       "album": {
         "name": "2 Tiro Pro Alto",
@@ -444,6 +466,62 @@
     },
     {
       "album": {
+        "name": "Carnadrill",
+        "url": "https://open.spotify.com/album/7m8NH7IW9rIvyrdbMqym7s"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita OQ",
+          "url": "https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115203,
+      "name": "Carnadrill",
+      "url": "https://open.spotify.com/track/6ZmYwR6Z4UajJ5LiPnN4n1"
+    },
+    {
+      "album": {
+        "name": "Caro",
+        "url": "https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3"
+      },
+      "artists": [
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3"
+    },
+    {
+      "album": {
         "name": "Chefin",
         "url": "https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt"
       },
@@ -503,7 +581,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 128244,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1gl6Ku9YhEzMh4GNI6fN7P"
@@ -607,10 +685,62 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 281142,
       "name": "Criminosa",
       "url": "https://open.spotify.com/track/3wWf58cpUW5hdDUbwmk3Av"
+    },
+    {
+      "album": {
+        "name": "De Malokero",
+        "url": "https://open.spotify.com/album/2zpScMOJFsujei8dwn9xFv"
+      },
+      "artists": [
+        {
+          "name": "Asfalto Rec",
+          "url": "https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154298,
+      "name": "De Malokero",
+      "url": "https://open.spotify.com/track/29lZhqlqBVh0iH9ZSgEVg9"
+    },
+    {
+      "album": {
+        "name": "Sonho de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6sLzdFiGngVsZQIEC4vvUM"
+      },
+      "artists": [
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 178956,
+      "name": "Dedo No Gatilho",
+      "url": "https://open.spotify.com/track/0njafdCdWWgPFzOjv2leO6"
     },
     {
       "album": {
@@ -662,7 +792,7 @@
     },
     {
       "album": {
-        "name": "Dia de Baile (feat. Kawe)",
+        "name": "Dia de Baile (feat. Mozart MZ, Junior Lord, Pel\u00e9 Milflows, Kawe & DoisP)",
         "url": "https://open.spotify.com/album/6EZrWTVj6STAQLLq5uvlWl"
       },
       "artists": [
@@ -671,15 +801,31 @@
           "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
         },
         {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
           "name": "Kawe",
           "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         }
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165966,
-      "name": "Dia de Baile (feat. Kawe)",
+      "name": "Dia de Baile (feat. Mozart MZ, Junior Lord, Pel\u00e9 Milflows, Kawe & DoisP)",
       "url": "https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb"
     },
     {
@@ -714,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Dois Gumes",
+        "url": "https://open.spotify.com/album/6VNvo85fJVH9uM2C1rBnfp"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178045,
+      "name": "Dois Gumes",
+      "url": "https://open.spotify.com/track/4sTvkSCc5tmVhECVOcM37h"
+    },
+    {
+      "album": {
         "name": "Driblando Igual Ronaldo",
         "url": "https://open.spotify.com/album/2GVpBPB1ffJkXFDbv9ZVa5"
       },
@@ -729,6 +893,54 @@
       "duration_ms": 164831,
       "name": "Driblando Igual Ronaldo",
       "url": "https://open.spotify.com/track/3LWmdN36GxjtnZJnwciU1c"
+    },
+    {
+      "album": {
+        "name": "Drill de Matuto",
+        "url": "https://open.spotify.com/album/0m2mTSU3s4LdwgPrLZvcNZ"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/2LIFq4uBUQgSJUqVgnIOpL"
+        },
+        {
+          "name": "Karma VLP",
+          "url": "https://open.spotify.com/artist/6tgRsgGyAXfEcsLA8t0Cn5"
+        },
+        {
+          "name": "ELBVLP",
+          "url": "https://open.spotify.com/artist/6IqZJDAt1SX6xdBh7heq9m"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194428,
+      "name": "Drill de Matuto",
+      "url": "https://open.spotify.com/track/2rntf7fpyjFwY0nbDyehkH"
+    },
+    {
+      "album": {
+        "name": "DUJEITO Q DA",
+        "url": "https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V"
+      },
+      "artists": [
+        {
+          "name": "Pete Mcee",
+          "url": "https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB"
+        },
+        {
+          "name": "Noshugah",
+          "url": "https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113813,
+      "name": "DUJEITO Q DA",
+      "url": "https://open.spotify.com/track/4OW2bMqaWGqH83ojBaHeYt"
     },
     {
       "album": {
@@ -987,7 +1199,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195520,
       "name": "Guerra Fria",
       "url": "https://open.spotify.com/track/1RnCESf8Q5VhetZiADD64W"
@@ -1097,6 +1309,10 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
       "date_added": "2022-04-29",
@@ -1105,6 +1321,36 @@
       "duration_ms": 156442,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/0E1k6FXAG48vHbwnwUjfA0"
+    },
+    {
+      "album": {
+        "name": "Mal\u00edcia (feat. Pedro Bala)",
+        "url": "https://open.spotify.com/album/092UegWYtlCCJjSCchCoPc"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "Raro",
+          "url": "https://open.spotify.com/artist/0iQldLKFnSKUMlUjeWQ8Wn"
+        },
+        {
+          "name": "Pedro Bala",
+          "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90075,
+      "name": "Mal\u00edcia (feat. Pedro Bala)",
+      "url": "https://open.spotify.com/track/19Ecxsvg2fTAaJnp05jz4n"
     },
     {
       "album": {
@@ -1229,10 +1475,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174084,
       "name": "Monstr\u00e3o",
       "url": "https://open.spotify.com/track/21aAGYAINWqlJo2YIXiXJH"
+    },
+    {
+      "album": {
+        "name": "Muito Querido",
+        "url": "https://open.spotify.com/album/2tnj2zG6VJGYtmCGP6sFN4"
+      },
+      "artists": [
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116806,
+      "name": "Muito Querido",
+      "url": "https://open.spotify.com/track/0qDA0XgVhM1fp14h5CpH0A"
     },
     {
       "album": {
@@ -1251,7 +1519,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 296142,
       "name": "Nig\u00e9ria 96",
       "url": "https://open.spotify.com/track/3TOx5yeLh79ivaeF8OtuIr"
@@ -1380,6 +1648,44 @@
     },
     {
       "album": {
+        "name": "Pra Baixo da Terra",
+        "url": "https://open.spotify.com/album/1Q7c618K5PX25WgMikn5oG"
+      },
+      "artists": [
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "Santorvi",
+          "url": "https://open.spotify.com/artist/4TpMk5ru2rOKeezPBKsu4w"
+        },
+        {
+          "name": "EZE ODT",
+          "url": "https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf"
+        },
+        {
+          "name": "JMONEY",
+          "url": "https://open.spotify.com/artist/3E3c0sPxAVTNrc104CicWC"
+        },
+        {
+          "name": "Pugli",
+          "url": "https://open.spotify.com/artist/2IXnOvK1O0L4PzfyYanJkM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157762,
+      "name": "Pra Baixo da Terra",
+      "url": "https://open.spotify.com/track/0P69PdIN7osL5ML2uWeQ2K"
+    },
+    {
+      "album": {
         "name": "Programado pra Morrer",
         "url": "https://open.spotify.com/album/05BrJ0ScVVXBp5cYEjelI2"
       },
@@ -1421,7 +1727,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 107204,
       "name": "Putaria 2000",
       "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
@@ -1604,6 +1910,32 @@
     },
     {
       "album": {
+        "name": "Rico no Rio",
+        "url": "https://open.spotify.com/album/7mXrQh7smoIFCbHfUMJGa0"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Dj DM",
+          "url": "https://open.spotify.com/artist/686Cz1vrD1XO5CPJC0ZiAt"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187366,
+      "name": "Rico no Rio",
+      "url": "https://open.spotify.com/track/6NXMEsY4Ivqm722zmI5kgG"
+    },
+    {
+      "album": {
         "name": "Ruas",
         "url": "https://open.spotify.com/album/1vcvP2HPCZY0xq0FuEzCEz"
       },
@@ -1767,7 +2099,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 189659,
       "name": "Tipo Mbapp\u00e9 2",
       "url": "https://open.spotify.com/track/02bH8CBSXzquAIGXLLDOdq"
@@ -1833,7 +2165,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 157751,
       "name": "TROPAH DAH VIRGULAH",
       "url": "https://open.spotify.com/track/3t5JnrbAH76ZEprKRHfUaR"
@@ -1859,7 +2191,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 151791,
       "name": "Tropic\u00e1lia Drill",
       "url": "https://open.spotify.com/track/0rqF9DKOVq7rVTdpMUHV5q"
@@ -1951,7 +2283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 118309,
       "name": "\u00danico Jeito",
       "url": "https://open.spotify.com/track/1JbupefYt00QB1QlPROn9R"

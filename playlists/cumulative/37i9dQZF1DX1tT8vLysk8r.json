@@ -201,7 +201,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209106,
-      "name": "Cinderella, Op.87: 50. Amoroso",
+      "name": "Cinderella, Op. 87: 50. Amoroso",
       "url": "https://open.spotify.com/track/5CxFCn0Mc8uQ7Raz5xdW3K"
     },
     {
@@ -440,32 +440,6 @@
     },
     {
       "album": {
-        "name": "Prokofiev: Peter and the Wolf - Saint-Sa\u00ebns: Carnival of the Animals",
-        "url": "https://open.spotify.com/album/3umfO7ZjcaL2JXWN6yXjD3"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Ondrej Lenard",
-          "url": "https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 47200,
-      "name": "Peter and the Wolf, Op. 67: Grandfather",
-      "url": "https://open.spotify.com/track/4YVoywi2kkTWsRT8wN6Tvy"
-    },
-    {
-      "album": {
         "name": "Prokofiev: Peter and the Wolf; Classical Symphony Op.25; March Op.99; Overture Op.34",
         "url": "https://open.spotify.com/album/2Z9WmnUhN1lmSbetmXVCYt"
       },
@@ -491,8 +465,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 85706,
-      "name": "Peter and the wolf, Op.67 - Narration in English, Text adapted by Sting: \u201cOn A Branch Of a Big Tree Sat A Little Bird, Peter\u2019s Friend\u201d Allegro",
+      "name": "Peter and the wolf, Op. 67 - Narration in English, Text adapted by Sting: \u201cOn A Branch Of a Big Tree Sat A Little Bird, Peter\u2019s Friend\u201d Allegro",
       "url": "https://open.spotify.com/track/17e1ieZ1lIoc3qFh0wcfyH"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Peter and the Wolf - Saint-Sa\u00ebns: Carnival of the Animals",
+        "url": "https://open.spotify.com/album/3umfO7ZjcaL2JXWN6yXjD3"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Ondrej Lenard",
+          "url": "https://open.spotify.com/artist/1V8rAXmdVnkT0417znOkAs"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47200,
+      "name": "Peter and the Wolf, Op. 67: Grandfather",
+      "url": "https://open.spotify.com/track/4YVoywi2kkTWsRT8wN6Tvy"
     },
     {
       "album": {
@@ -553,6 +553,36 @@
       "duration_ms": 543000,
       "name": "Piano Concerto No. 3 in C Major, Op. 26: II. Tema con variazioni",
       "url": "https://open.spotify.com/track/56HeCOEM7fqwjJZQINxiSs"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Concerto No. 3 in C Major, Op. 26: III. Allegro, ma non troppo (Live)",
+        "url": "https://open.spotify.com/album/3VCqesH6iMAHLLlkfeY3Yj"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Verbier Festival Orchestra",
+          "url": "https://open.spotify.com/artist/6ul6fyDbGi5NtAFJhScD6O"
+        },
+        {
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573480,
+      "name": "Piano Concerto No. 3 in C Major, Op. 26: III. Allegro, ma non troppo - Live",
+      "url": "https://open.spotify.com/track/1J3VAzwf2L4t8o9vfO3OPt"
     },
     {
       "album": {
@@ -833,7 +863,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144106,
-      "name": "Prokofiev: Piano Concerto No. 2 in G Minor, Op. 16: II. Scherzo (Vivace)",
+      "name": "Prokofiev: Piano Concerto No. 2 in G Minor, Op. 16: II. Scherzo. Vivace",
       "url": "https://open.spotify.com/track/5ClfV8lV4q44T6uhknu91D"
     },
     {
@@ -913,7 +943,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 154466,
       "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 1: The Fight",
       "url": "https://open.spotify.com/track/0ERKeNTkXbSGrxB0jGbJZ6"
@@ -998,7 +1028,7 @@
     },
     {
       "album": {
-        "name": "Prokofiev : Violin Concertos Nos 1 & 2 - Glazunov : Violin Concerto",
+        "name": "Prokofiev & Glazunov: Violin Concertos",
         "url": "https://open.spotify.com/album/3CbDUAJs8iehMLNKOKG4Vg"
       },
       "artists": [

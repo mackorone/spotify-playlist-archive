@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 199288,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 158062,
       "name": "Balabaa",
       "url": "https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 395363,
       "name": "Banana",
       "url": "https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 401600,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-13",
       "duration_ms": 232724,
       "name": "Biamaangui",
       "url": "https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 249933,
       "name": "Catalina La Coja",
       "url": "https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 299400,
       "name": "El Pato y la Gallina",
       "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-15",
       "duration_ms": 219173,
       "name": "En Mi Pais",
       "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 230870,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 154500,
       "name": "La Ametralladora",
       "url": "https://open.spotify.com/track/3Ol5CO3rrv4J1jOqODdUN6"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 192954,
       "name": "La Parranda (Sei Sei Bei)",
       "url": "https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 213178,
       "name": "Laluda Belly",
       "url": "https://open.spotify.com/track/2cqDTVnHeHN3DTIVdzwOex"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 338364,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 306573,
       "name": "Oye Este Canto",
       "url": "https://open.spotify.com/track/0jhgnwataSYhdxHF332pZH"
@@ -653,6 +653,24 @@
       "duration_ms": 240536,
       "name": "Pedazo De Mujer",
       "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+    },
+    {
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 308920,
+      "name": "Pobre Marinero",
+      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
     },
     {
       "album": {
@@ -737,7 +755,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 248826,
       "name": "Punta Raton - Remix",
       "url": "https://open.spotify.com/track/7oWeHjwwEdPyZZVSV6koR2"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 248894,
       "name": "Punta Raton - Remix",
       "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 342334,
       "name": "Puntas Criollas",
       "url": "https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 443520,
       "name": "Puntas Garifunas Criollas",
       "url": "https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 289724,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/53FCiG3Gvt6a3ZYExLeOtK"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 220380,
       "name": "Suenos",
       "url": "https://open.spotify.com/track/7C28Z8QbcrEmLRCg1sBW8f"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 302000,
       "name": "Swing Latino",
       "url": "https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 243539,
       "name": "Tik Tok Punta",
       "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 113475,
       "name": "Vamos Vamos Todos Con la Seleccion",
       "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"

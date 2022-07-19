@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Cantoras y compositoras de nuestra tierra. Foto: Flor Paz.",
+  "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
   "name": "Mujeres del Folklore",
   "published_playlist_ids": [
     "7nXcjXNUK7S3A7KHXp1lNb"
@@ -193,6 +193,14 @@
         {
           "name": "D\u00fao Bote",
           "url": "https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL"
+        },
+        {
+          "name": "Abel Tesoriere",
+          "url": "https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS"
+        },
+        {
+          "name": "Flor Bobadilla Oliva",
+          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
         }
       ],
       "date_added": "2022-01-14",
@@ -352,6 +360,42 @@
     },
     {
       "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
+    },
+    {
+      "album": {
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176758,
+      "name": "Diez Noches de Desvelo",
+      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
+    },
+    {
+      "album": {
         "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 3)",
         "url": "https://open.spotify.com/album/3jzgWB3dDYbzk5QED3TcGy"
       },
@@ -471,7 +515,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 140600,
       "name": "D\u00edas para Celebrar",
       "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
@@ -669,7 +713,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 155560,
       "name": "La Calle Soledad",
       "url": "https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q"
@@ -785,7 +829,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 235245,
       "name": "La Jardinera",
       "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
@@ -923,7 +967,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 135164,
       "name": "Lo Que Estalla",
       "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
@@ -941,7 +985,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 319139,
       "name": "Luna De Cabotaje",
       "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
@@ -1013,7 +1057,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 193451,
       "name": "Ojal\u00e1 te enamores",
       "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
@@ -1089,7 +1133,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 207231,
       "name": "Pecnectao",
       "url": "https://open.spotify.com/track/6u81JlGPvFBHm3TBClBXps"
@@ -1219,10 +1263,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 237831,
       "name": "Serenata para la Tierra de Uno",
       "url": "https://open.spotify.com/track/3SAz3P2BWThVMybST6mG1T"
+    },
+    {
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "album": {
@@ -1245,7 +1307,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 265614,
       "name": "Tarareando",
       "url": "https://open.spotify.com/track/5fLx7hgsaS7EVNywp5OX4v"
@@ -1503,7 +1565,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 261760,
       "name": "Zamba Enamorada (feat. Liliana Herrero)",
       "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"

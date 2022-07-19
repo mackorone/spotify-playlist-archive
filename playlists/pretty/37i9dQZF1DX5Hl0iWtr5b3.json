@@ -1,12 +1,12 @@
 {
   "description": "All your favorite tracks from Bridgerton.",
-  "num_followers": 709117,
+  "num_followers": 826774,
   "original_name": "Bridgerton: Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzc4MiwwMDAwMDAwMDJkYjM4NzNhYTcxZjY2NWNhYWQ3Y2ZhZDU3YjJiN2Uy",
+  "snapshot_id": "MTY1ODE5NDE1OSwwMDAwMDAwMDlkNGU1MTUwZWQ0NmQ0OWRhYjA2M2NmMjhhMjA5OWM5",
   "tracks": [
     {
       "added_at": "2022-03-25 07:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 233771,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -107,22 +123,6 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
-      },
-      "artists": [
-        {
-          "name": "Duomo",
-          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 167609,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -320,9 +320,37 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 99260,
-      "name": "The Real Work Begins - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6gfCyskGqMGvw4lei4cxhJ"
+      "duration_ms": 82002,
+      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/4ibFnVHag07dErldkPF7uh"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -336,9 +364,25 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 82002,
-      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/4ibFnVHag07dErldkPF7uh"
+      "duration_ms": 126960,
+      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/7rZ7vONq8cZDHGoTkvPJ04"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 99260,
+      "name": "The Real Work Begins - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6gfCyskGqMGvw4lei4cxhJ"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -391,8 +435,8 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
       },
       "artists": [
         {
@@ -400,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 126960,
-      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/7rZ7vONq8cZDHGoTkvPJ04"
+      "duration_ms": 187946,
+      "name": "We Could Form An Attachment",
+      "url": "https://open.spotify.com/track/7MEfoydIhCWOplxnKtWawa"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -464,6 +508,22 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
+      "duration_ms": 123376,
+      "name": "Newlyweds - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1Sloyd49goIP7tj7YJKVcu"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
       "duration_ms": 70187,
       "name": "They Are Betrothed - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/0icaL9UsTzoS2E7RNKN7N2"
@@ -499,66 +559,6 @@
       "duration_ms": 68167,
       "name": "To Wait - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/15oxTMhXIOtvjCxqdM8ehg"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 123376,
-      "name": "Newlyweds - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1Sloyd49goIP7tj7YJKVcu"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Bridgerton (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "We Could Form An Attachment",
-      "url": "https://open.spotify.com/track/7MEfoydIhCWOplxnKtWawa"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "Spring 1",
-      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
+        "name": "Mozart : Piano Works & Violin Sonatas",
+        "url": "https://open.spotify.com/album/7i2POY9vhMAm31cuCf49X1"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Hiro Kurosaki",
+          "url": "https://open.spotify.com/artist/3R64pTFa000X1uTEsJ5h0Q"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "Mozart: Violin Sonata in C Major, K. 296: III. Rondo. Allegro",
+      "url": "https://open.spotify.com/track/54UXI0Z5DDYcU0AiHTX7aD"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
         "name": "Bridgerton (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
       },
@@ -931,6 +951,26 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
         "name": "Bridgerton (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
       },
@@ -943,26 +983,6 @@
       "duration_ms": 147960,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/4FOK3JKtMHUlwzFhg8193o"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Mozart : Piano Works & Violin Sonatas",
-        "url": "https://open.spotify.com/album/7i2POY9vhMAm31cuCf49X1"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Hiro Kurosaki",
-          "url": "https://open.spotify.com/artist/3R64pTFa000X1uTEsJ5h0Q"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "Mozart: Violin Sonata in C Major, K. 296: III. Rondo. Allegro",
-      "url": "https://open.spotify.com/track/54UXI0Z5DDYcU0AiHTX7aD"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -987,26 +1007,6 @@
       "duration_ms": 225760,
       "name": "Jazz Suite No. 2: 6. Waltz II",
       "url": "https://open.spotify.com/track/3LOi1V051Obp9hHRgAC0JU"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 602746,
-      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
     },
     {
       "added_at": "2022-03-25 07:00:00",

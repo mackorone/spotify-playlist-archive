@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Aw Jeez",
+        "url": "https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "Aw Jeez",
+      "url": "https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv"
+    },
+    {
+      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/0lzI1rQiTkkWyse0qv4y7C"
       },
@@ -337,6 +355,28 @@
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3"
+    },
+    {
+      "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
     },
     {
       "album": {
@@ -622,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Heart Swell",
+        "url": "https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249548,
+      "name": "Heart Swell",
+      "url": "https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW"
+    },
+    {
+      "album": {
         "name": "Thomas Csorba",
         "url": "https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4"
       },
@@ -658,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
@@ -673,6 +749,24 @@
       "duration_ms": 210160,
       "name": "How Can You Sing",
       "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+    },
+    {
+      "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/20EzOEcvFcUi5xvGerRRbE"
     },
     {
       "album": {
@@ -972,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Little Reminders",
+        "url": "https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES"
+      },
+      "artists": [
+        {
+          "name": "Caleb Caudle",
+          "url": "https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220807,
+      "name": "Little Reminders",
+      "url": "https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ"
+    },
+    {
+      "album": {
         "name": "Love and Chains",
         "url": "https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT"
       },
@@ -1095,7 +1207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 192262,
       "name": "Neglect",
       "url": "https://open.spotify.com/track/17RE55cpX3f07WUuIuwXWH"

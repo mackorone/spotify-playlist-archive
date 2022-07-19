@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Any Other Guy",
+        "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258053,
+      "name": "Any Other Guy",
+      "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
+    },
+    {
+      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 238666,
       "name": "Boots on a Dance Floor",
       "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
@@ -1422,6 +1440,24 @@
     },
     {
       "album": {
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
+    },
+    {
+      "album": {
         "name": "Lovin' Where It's Goin'",
         "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 180217,
       "name": "One Beer At A Time",
       "url": "https://open.spotify.com/track/2sBOJkcGGxIvn16doGl02J"
@@ -1757,7 +1793,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 237422,
       "name": "Pocket Full of Kisses",
       "url": "https://open.spotify.com/track/0kYxQScxyryMlmIMqhWu9I"
@@ -1883,7 +1919,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 277640,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49"
@@ -2164,6 +2200,24 @@
     },
     {
       "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
+    {
+      "album": {
         "name": "This Damn Song",
         "url": "https://open.spotify.com/album/4JY2a7gOpCU22IcfSRyGhm"
       },
@@ -2255,6 +2309,24 @@
       "duration_ms": 187633,
       "name": "Unrung",
       "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
+    },
+    {
+      "album": {
+        "name": "From The Album 'Unwanted Man'",
+        "url": "https://open.spotify.com/album/6BoLrl0d4vtJ06y7oRuUFp"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "Unwanted Man",
+      "url": "https://open.spotify.com/track/6vvg8BQtLpvcmFq3X6wWwU"
     },
     {
       "album": {

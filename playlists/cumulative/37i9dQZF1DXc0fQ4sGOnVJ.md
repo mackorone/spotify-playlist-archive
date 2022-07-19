@@ -2,9 +2,9 @@
 
 ### [Field Party](https://open.spotify.com/playlist/37i9dQZF1DXc0fQ4sGOnVJ)
 
-> Country rap songs, made to be cranked up\. Cover: Colt Ford
+> Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-88 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+92 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Fire’t Up](https://open.spotify.com/track/5KZhXRh1uDFJLHwz7La3j0) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire't Up](https://open.spotify.com/album/1QVacxKplSJNOvoLTeYDZJ) | 2:56 | 2021-05-21 |  |
 | [Get Her Done \(feat\. Bottleneck\)](https://open.spotify.com/track/1bePzEP477kCICdIjzxHZ6) | [Danny Duke](https://open.spotify.com/artist/2CUDp2LDXSmGOC8JIfj2h3), [Bottleneck](https://open.spotify.com/artist/3bDyA9fZI4l6M7ho44Y4MN) | [Mud Bait & Tailgates](https://open.spotify.com/album/3lHtXuN1ezwEAw5Qkci1zW) | 3:08 | 2021-05-21 |  |
 | [Goin’ Back Down \(feat\. Colt Ford\)](https://open.spotify.com/track/6gshpXdlUNPFQyWsgLXxsh) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin’ Back Down \(feat\. Colt Ford\)](https://open.spotify.com/album/2DU1qEriARcHSfk7SKwFn4) | 3:45 | 2021-05-21 |  |
+| [Good Friends](https://open.spotify.com/track/12HvBvQI60HRKnsAEABRId) | [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Haywire](https://open.spotify.com/album/18jrZYZL0jeARmFJgt0yZX) | 3:36 | 2022-06-24 |  |
 | [Good Vibes Only](https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ) | 2:37 | 2021-08-20 |  |
 | [Hillbilly Shake \- Shake\-A\-Leg Remix](https://open.spotify.com/track/2fSxsqpLU6RqjK8BeRd3do) | [Ac Thomas](https://open.spotify.com/artist/6oItULQHSBtnLr2RbIRgdB), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Chance](https://open.spotify.com/artist/0R4PWrJAthc0hnURUkh97x), [Shake\-A\-Leg](https://open.spotify.com/artist/4ByTGHMoMaH7HMPUiekhsd) | [Hillbilly Shake \(Shake\-A\-Leg Remix\)](https://open.spotify.com/album/11cmgFtSZmSQxghTC7LZDp) | 3:23 | 2021-08-13 | 2022-02-05 |
 | [Honky Tonkin'](https://open.spotify.com/track/27SlfCkQ5pxaGz7XnomXuM) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Honky Tonkin'](https://open.spotify.com/album/3hBSgothWjIatYA6E9JZvf) | 3:44 | 2021-06-25 |  |
@@ -78,6 +79,7 @@
 | [Slow Ride](https://open.spotify.com/track/6OEX8FPaHyUyftZJWsve3Y) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:54 | 2021-05-21 |  |
 | [Slow Rollin'](https://open.spotify.com/track/4b38at0k1ZK4FKFCBO1Ipv) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Slow Rollin'](https://open.spotify.com/album/71zEWQj1W82ChuYVgnyqYE) | 2:44 | 2021-05-21 |  |
 | [Small Town](https://open.spotify.com/track/0ZvKNZwQrri0K9RwUWvO79) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [The Classics](https://open.spotify.com/album/0kdkEFsTqxmrcU2RspxbPM) | 4:04 | 2021-09-10 |  |
+| [Son Of The Dirty South](https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Son Of The Dirty South](https://open.spotify.com/album/4GLrwjbdcgzlW3MGWJFarS) | 2:59 | 2022-06-24 |  |
 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 | 2021-10-08 |  |
 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 | 2021-05-21 |  |
 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 |  |
@@ -95,6 +97,8 @@
 | [We All Country \(feat\. Colt Ford, Sarah Ross & Charlie Farley\)](https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Calicountry](https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv) | 4:22 | 2021-05-21 |  |
 | [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 | 2021-10-08 |  |
 | [White Trash](https://open.spotify.com/track/3RmKYjsOGP80pentPT6BVR) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/7Cd2yocZtRnukhgMnfEbvn) | 2:47 | 2021-05-21 |  |
+| [Who I Am](https://open.spotify.com/track/4rO6myJAeyQIb1laSwfyOq) | [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Who I Am](https://open.spotify.com/album/0rjjFia9xRgY9tr6d5kRBn) | 3:54 | 2022-06-24 | 2022-07-02 |
 | [Willie Nelson](https://open.spotify.com/track/3LLYOFp0hDXvyc3RX0wvgc) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Rock](https://open.spotify.com/album/124DUhKDSECFhsfBfO0cGG) | 3:49 | 2021-05-21 |  |
+| [Yee Yee Like Me \- Remix](https://open.spotify.com/track/1ejQFgJS3UYIzhsZ6KFl1Q) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Yee Yee Like Me \(Remix\)](https://open.spotify.com/album/0ZApEtDz71WVNJY3NU6821) | 6:34 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

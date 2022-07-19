@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 26 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 26 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 9 | [Paper Boat \- Instrumental](https://open.spotify.com/track/5DG8aEmZHVDOnI2D6VsuT5) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:44 |
 | 10 | [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 1:25 |
 | 11 | [Trollmors vaggsång](https://open.spotify.com/track/0HnzYVsrjA2RRHERHIAyvR) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 2:05 |
-| 12 | [Hush Little Baby](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 2:10 |
+| 12 | [](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 0:00 |
 | 13 | [C.R.E.A.M.](https://open.spotify.com/track/5ya6T5IWJLxl616Bf7DSaO) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Wu\-Tang Clan](https://open.spotify.com/album/7daFeFeJyRZP6NiEXWMsI8) | 2:37 |
 | 14 | [When You're Alone](https://open.spotify.com/track/6wumwltdJFMgSivEJ34W2I) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Hook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SNJN8cmx15IVdSa5jJCVR) | 3:13 |
 | 15 | [Olélé moliba makasi](https://open.spotify.com/track/0GOVrPqk9SXO1ap6LDH9q2) | [Jean\-Marie Bolangassa](https://open.spotify.com/artist/5EYMCZHZySno9oBjAYcHYz) | [Comptines pour chanter l'Afrique](https://open.spotify.com/album/4Y5OKDlEAT0B9h6JywQix2) | 2:12 |

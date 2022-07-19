@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-68 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+74 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dragon's Tail \- Instrumental](https://open.spotify.com/track/7xOdjT5HRqckEXhjWGAOcP) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail \(Instrumental\)](https://open.spotify.com/album/2JppXP0sF33yMsYcYObwX1) | 4:53 | 2021-08-06 |  |
 | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/track/6Kcmvtym0taGPHlciFxgKa) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/album/5LIkApuwAK9pMeWcOH2s9G) | 3:56 | 2021-05-04 |  |
 | [Abbot Kinney](https://open.spotify.com/track/39bETklNLbxywBZOTFTkYj) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Abbot Kinney](https://open.spotify.com/album/44FKxAgwdWEYEshZ4sAMKx) | 3:13 | 2021-05-04 |  |
+| [Action Boyz](https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo) | [Guardian Spirits of the Quantum Multiverse](https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5) | 3:08 | 2022-06-10 |  |
 | [Alchemy](https://open.spotify.com/track/3WfjYZbJiVpdjPdeduMLFX) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine](https://open.spotify.com/album/5Xxlrt2y3fLjmZM3gutv0E) | 5:06 | 2021-05-04 |  |
 | [Android](https://open.spotify.com/track/1Fu3mNtJYa8wroSw6AsuCd) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Dark Matter](https://open.spotify.com/album/7iSbgvQqfpMRA83dc8nUTl) | 5:47 | 2021-05-04 |  |
 | [Antisocialmedia](https://open.spotify.com/track/0fDrAO5XentyidBRliT6o4) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:48 | 2021-05-04 |  |
@@ -24,6 +25,7 @@
 | [Dark Matter](https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Modern Primitive](https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU) | 3:53 | 2021-05-04 |  |
 | [Dawn](https://open.spotify.com/track/6EYv1dAeBn93vg8djCiSrN) | [Joe Basilio](https://open.spotify.com/artist/7cgk7HhXl6qYMnVBCLqagN) | [Excelsis](https://open.spotify.com/album/1GGypapOEB2efPiNWKncKs) | 4:26 | 2021-05-04 |  |
 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 | 2021-05-04 |  |
+| [Earthguest](https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x) | [Steroid Puppets](https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Earthguest](https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR) | 8:59 | 2022-05-20 |  |
 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 | 2021-05-04 |  |
 | [Erzuín](https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [¿Dónde está el Jazz?](https://open.spotify.com/album/4Ekvaovlvw6lzwsStKibfr) | 6:46 | 2022-04-01 |  |
 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 | 2021-05-04 |  |
@@ -34,6 +36,7 @@
 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 | 2021-05-04 |  |
 | [Funk Force Five](https://open.spotify.com/track/4717gUSZNJkUiClBF0HS6z) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 3:09 | 2021-05-04 |  |
 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 | 2021-05-04 |  |
+| [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/track/1lb7wWArg9Gq1HyzM85P2F) | [Abreu Project](https://open.spotify.com/artist/1gW0iddMEyFpMTgQ526AcT) | [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/album/4YsjpaftzW2UGnBNkaMmWF) | 4:17 | 2022-07-01 |  |
 | [Groovin'](https://open.spotify.com/track/33GBgBRjxFyrAsnLIPySol) | [Johnny Hiland](https://open.spotify.com/artist/16sDnRxivwZln0QWa7LNjm) | [Loud and Proud](https://open.spotify.com/album/3jgR2VmuMnmYKlJQISKtqm) | 5:28 | 2021-05-04 |  |
 | [Guitar Sbrego](https://open.spotify.com/track/1U40tfjSlm0DkfLre7cZUy) | [Daniele Gottardo](https://open.spotify.com/artist/1gGKmdgj9oSMW5P18gtLWR) | [Frenzy of Ecstasy](https://open.spotify.com/album/2xe1fsuFOyPfGfWHEoCbAG) | 4:19 | 2021-05-04 |  |
 | [Hammerhead](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Emotion & Commotion](https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53) | 4:15 | 2021-05-04 |  |
@@ -46,6 +49,7 @@
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-05-04 |  |
 | [Massive](https://open.spotify.com/track/0WtuYPDKBMnvwumPKWkorN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:54 | 2021-05-04 |  |
 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 | 2021-05-04 |  |
+| [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 | 2022-07-01 |  |
 | [My House Is Green](https://open.spotify.com/track/4bSi283Toy50x9UzZYEaz1) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44) | [The Best Of](https://open.spotify.com/album/2nxCuE6pLMbVShn4OZwCoD) | 4:02 | 2021-05-04 |  |
 | [nero](https://open.spotify.com/track/5T5RWyueGVOFIGnIRn81z4) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR) | 6:37 | 2021-05-04 |  |
 | [New Life](https://open.spotify.com/track/5LjXhZiJQC4cVjoMK1hV4T) | [Fabrizio Leo](https://open.spotify.com/artist/2Y65wPQtQsQnsIvsaV0cmr) | [Coming Home](https://open.spotify.com/album/5H9k65V3wheS2odmJ78YdJ) | 3:47 | 2021-05-04 |  |
@@ -53,6 +57,7 @@
 | [Poison Touch](https://open.spotify.com/track/1msAnMnGAYebDKoNZfGmNd) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Remarkably Human](https://open.spotify.com/album/2ump5mO74i3wV9wPbk7HcF) | 4:24 | 2021-05-04 |  |
 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 | 2021-05-04 |  |
 | [Primary Location](https://open.spotify.com/track/4vDvf90QYWjK4dhYCaMdZY) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [People Mover](https://open.spotify.com/album/6xmjUFsLhGrgFjZZA9gDRR) | 6:56 | 2021-05-04 |  |
+| [Pull The Trigger](https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr) | [Sergey Sershen](https://open.spotify.com/artist/6Bt2KElruZAuMZpdPZlh9W) | [Pull The Trigger](https://open.spotify.com/album/11EUokR6Jx7XQAZc9Mo7Pg) | 3:08 | 2022-05-13 |  |
 | [Reflective](https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs) | 3:45 | 2021-05-04 |  |
 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 | 2022-03-18 |  |
 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 | 2021-05-04 |  |
@@ -74,6 +79,7 @@
 | [Up \- Radio Edit](https://open.spotify.com/track/6TEtobdqqkehkhoNEGhimR) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Charlton Singleton](https://open.spotify.com/artist/7cBiq0AlHgBwnSLlkDoh3E) | [Up \(Radio Edit\)](https://open.spotify.com/album/56qJA6rZbqRzqY2D9VSjA5) | 3:56 | 2021-10-29 | 2022-01-05 |
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |
 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 | 2021-06-11 |  |
+| [What Really Matters](https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC) | [Loida Liuzzi](https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U) | [The Journey](https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb) | 4:22 | 2022-05-27 |  |
 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 | 2021-05-04 |  |
 

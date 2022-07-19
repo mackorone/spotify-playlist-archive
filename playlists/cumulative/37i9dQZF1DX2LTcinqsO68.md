@@ -2,7 +2,7 @@
 
 ### [Old School Metal](https://open.spotify.com/playlist/37i9dQZF1DX2LTcinqsO68)
 
-> Like the old school sound of metal? Then you'll love this playlist!
+> Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
 125 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
 

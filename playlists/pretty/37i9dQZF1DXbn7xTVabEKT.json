@@ -1,12 +1,12 @@
 {
   "description": "Your favorite arias, performed by legendary opera divas.",
-  "num_followers": 39103,
+  "num_followers": 42942,
   "original_name": "Opera Divas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTAwMjMwOSwwMDAwMDAwMzAwMDAwMTdkOWMyNjgzYjkwMDAwMDE3NjUxYTE0MTNh",
+  "snapshot_id": "MTY1NjY3MTUyOCwwMDAwMDAwNDAwMDAwMTgxYjk1MTY2MGEwMDAwMDE3NjUxYTE0MTNh",
   "tracks": [
     {
       "added_at": "2020-12-11 11:56:45",
@@ -127,198 +127,6 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Puccini: Tosca",
-        "url": "https://open.spotify.com/album/2oEn5IklXZ1V64HTAW2XBF"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Leontyne Price",
-          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
-        },
-        {
-          "name": "Giuseppe Taddei",
-          "url": "https://open.spotify.com/artist/1sWPJ06Ed62WqGtrPUY4fa"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
-      "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "The Best Of Elina Garanca",
-        "url": "https://open.spotify.com/album/6QtrmPQbhdGijL8maH23Ac"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
-        },
-        {
-          "name": "Elina Garanca",
-          "url": "https://open.spotify.com/artist/74qCFeNvjcO4R0cRXik17C"
-        },
-        {
-          "name": "SWR Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
-        },
-        {
-          "name": "Marco Armiliato",
-          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
-        }
-      ],
-      "duration_ms": 302186,
-      "name": "Lakm\u00e9 / Act 1: \"D\u00f4me \u00e9pais\" - Live",
-      "url": "https://open.spotify.com/track/3uSyAT77m1gzVhMTbTqcqk"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Mozart Heroines",
-        "url": "https://open.spotify.com/album/2IbEg1opRdbeNN7pq1KGIB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Natalie Dessay",
-          "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Louis Langr\u00e9e",
-          "url": "https://open.spotify.com/artist/7e2ILiOIViOE4UwWsomh8d"
-        }
-      ],
-      "duration_ms": 381506,
-      "name": "Mozart: Zaide, K. 344/336b, Act 1 Scene 3: No. 3, Arie, \"Ruhe sanft, mein holdes Leben\" (Zaide)",
-      "url": "https://open.spotify.com/track/3w14gk0C0Vn5elVzbDjrMI"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Baroque Duet",
-        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Kathleen Battle",
-          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
-        },
-        {
-          "name": "John Nelson",
-          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
-        },
-        {
-          "name": "Orchestra of St. Luke's",
-          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
-      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
-          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
-      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Bizet : Carmen",
-        "url": "https://open.spotify.com/album/78ogxnOLeRebXlY7HV1dRc"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Michel Plasson",
-          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
-        },
-        {
-          "name": "Wolff",
-          "url": "https://open.spotify.com/artist/6QU20RnCPYe0CFYutfeq6D"
-        },
-        {
-          "name": "Orchestre National Du Capitole De Toulouse",
-          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari\u00e8res/Jeunes gens/Dragons)",
-      "url": "https://open.spotify.com/track/4Dao462IWwRykAA9UsNT9O"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
         "name": "Ren\u00e9e Fleming - Handel Arias",
         "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
       },
@@ -347,8 +155,36 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Mozart: Le Nozze di Figaro (Complete Mozart Edition)",
-        "url": "https://open.spotify.com/album/1sap4qZDxscXXTWYRVogmW"
+        "name": "Dvor\u00e1k: Rusalka",
+        "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Czech Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 385440,
+      "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
+      "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Mozart: Le Nozze di Figaro",
+        "url": "https://open.spotify.com/album/5SNTSThGzDGsWqU1wV4C1d"
       },
       "artists": [
         {
@@ -356,21 +192,81 @@
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+          "name": "Frederica von Stade",
+          "url": "https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k"
         },
         {
-          "name": "BBC Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
         },
         {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Le nozze di Figaro, K.492 / Act 2: \"Porgi amor\"",
-      "url": "https://open.spotify.com/track/5QGhn5Z7RRsMKx6hPFOSUO"
+      "duration_ms": 233400,
+      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\"",
+      "url": "https://open.spotify.com/track/1gJUnlMq7e2cc39lGUfnPB"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Leontyne Price - Prima Donna Vol. 4: Great Soprano Arias from Mozart to Menotti",
+        "url": "https://open.spotify.com/album/3GxcD96CF8zoOhhegrlUU0"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Nello Santi",
+          "url": "https://open.spotify.com/artist/3oqxBzBkG6Q2xFAAM1c9pl"
+        }
+      ],
+      "duration_ms": 368733,
+      "name": "Act I: Gl\u00fcck, das mir verblieb (Marietta's Lied)",
+      "url": "https://open.spotify.com/track/6GFiSW2OllzAVnCSaWPJhk"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "101 Mozart",
+        "url": "https://open.spotify.com/album/521Io1iL1asDyuKIS8vq1u"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cristina Deutekom",
+          "url": "https://open.spotify.com/artist/3pPmntFuOiNf2Rpp35KqxP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/0iAOwp40agX3UuVjYjiBm2"
     },
     {
       "added_at": "2020-12-11 11:56:45",
@@ -463,6 +359,406 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
+        "name": "Montserrat Caball\u00e9 - French Opera Arias",
+        "url": "https://open.spotify.com/album/0wMuaeXzEUUnDUJe9cvAKs"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Reynald Giovaninetti",
+          "url": "https://open.spotify.com/artist/424wS8pC5a73duAdcRzM78"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Rom\u00e9o et Juliette / Act 1: \"Ah, je veux vivre\"",
+      "url": "https://open.spotify.com/track/3vrSUksg7VasQgp7cYUxpR"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Mozart Heroines",
+        "url": "https://open.spotify.com/album/2IbEg1opRdbeNN7pq1KGIB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Natalie Dessay",
+          "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Louis Langr\u00e9e",
+          "url": "https://open.spotify.com/artist/7e2ILiOIViOE4UwWsomh8d"
+        }
+      ],
+      "duration_ms": 381506,
+      "name": "Mozart: Zaide, K. 344/336b, Act 1 Scene 3: No. 3, Arie, \"Ruhe sanft, mein holdes Leben\" (Zaide)",
+      "url": "https://open.spotify.com/track/3w14gk0C0Vn5elVzbDjrMI"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Mozart: Le Nozze di Figaro (Complete Mozart Edition)",
+        "url": "https://open.spotify.com/album/1sap4qZDxscXXTWYRVogmW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Le nozze di Figaro, K.492 / Act 2: \"Porgi amor\"",
+      "url": "https://open.spotify.com/track/5QGhn5Z7RRsMKx6hPFOSUO"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Ren\u00e9e Fleming - The Beautiful Voice",
+        "url": "https://open.spotify.com/album/1iRgkTYJhIBNoXe2j9XOek"
+      },
+      "artists": [
+        {
+          "name": "Friedrich von Flotow",
+          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Martha / Act 2: Last Rose of Summer",
+      "url": "https://open.spotify.com/track/1WJLS6QFqosNjYcgjwCU27"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Leontyne Price - Prima Donna Vol. 5: Great Soprano Arias from Handel to Britten",
+        "url": "https://open.spotify.com/album/2qROTWt6R0J48XDHymRUQo"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Henry Lewis",
+          "url": "https://open.spotify.com/artist/30jajRhHMqSWi3BWgtSttr"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "Semele, Act II: \"Where'er You Walk\"",
+      "url": "https://open.spotify.com/track/7L3Nr36g3XzFQYASRs1E3L"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Eileen Farrell: Verdi Arias",
+        "url": "https://open.spotify.com/album/48RaEt3vUOKBoXeIm7Pu1j"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Eileen Farrell",
+          "url": "https://open.spotify.com/artist/2hm0Aj6jK7ZlOPd26VKAOb"
+        },
+        {
+          "name": "Max Rudolf",
+          "url": "https://open.spotify.com/artist/7bVJ6Yev7yDKSceh9KNUja"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "duration_ms": 287546,
+      "name": "La forza del destino, Act IV: \"Pace, pace, mio Dio!\"",
+      "url": "https://open.spotify.com/track/0xwNJxGe5lCUklorkhkV69"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Offenbach: Les Contes d'Hoffmann",
+        "url": "https://open.spotify.com/album/7Kp2mDL9QCEGE5Sf8Tqbfj"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "Choeurs Rene Duclos",
+          "url": "https://open.spotify.com/artist/0iwjANAnsGz9IwE2UXLCFs"
+        },
+        {
+          "name": "Walter Ruhlmann",
+          "url": "https://open.spotify.com/artist/0xbV0ZoTTiXysPG13gVMcL"
+        },
+        {
+          "name": "Andr\u00e9 Cluytens",
+          "url": "https://open.spotify.com/artist/2qGkessPTMJjSEYtxJ11KC"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Offenbach: Les contes d'Hoffmann, Act 3: Entr'acte - \"Belle nuite, \u00f4 nuit d'amour\" (Une voix, Giulietta, Chorus)",
+      "url": "https://open.spotify.com/track/3zcnxEjJEDUeQS97PmnKd5"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Verismo",
+        "url": "https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Manon Lescaut / Act II: \"In quelle trine morbide\"",
+      "url": "https://open.spotify.com/track/3nbcin8kl89hboxQBKaLR0"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
+        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        }
+      ],
+      "duration_ms": 334480,
+      "name": "Addio del passato - Violetta",
+      "url": "https://open.spotify.com/track/05AEogBNCZykkSdKjFHu0P"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Great Operatic Arias (Sung in English), Vol. 17 - Christine Brewer",
+        "url": "https://open.spotify.com/album/5YGIOtzaTbgrmidM9yeIly"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Christine Brewer",
+          "url": "https://open.spotify.com/artist/2JBU8gccWLZRrAHgDU3nja"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        }
+      ],
+      "duration_ms": 802000,
+      "name": "Ah, perfido!, Op. 65",
+      "url": "https://open.spotify.com/track/2ytQqOBWsDgYqfvF4Xp8Iw"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Angela Gheorghiu: The Essential Collection",
+        "url": "https://open.spotify.com/album/1gnZrcj64QAXTkaz95qDkN"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Catalani",
+          "url": "https://open.spotify.com/artist/2pJPaYySRIl7SVCgkT2weI"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "La Wally / Act 1: \"Ebben? Ne andr\u00f2 lontana\"",
+      "url": "https://open.spotify.com/track/5Gjs266kK1CyCvPJVDveDs"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "The Best Of Elina Garanca",
+        "url": "https://open.spotify.com/album/6QtrmPQbhdGijL8maH23Ac"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Elina Garanca",
+          "url": "https://open.spotify.com/artist/74qCFeNvjcO4R0cRXik17C"
+        },
+        {
+          "name": "SWR Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "duration_ms": 302186,
+      "name": "Lakm\u00e9 / Act 1: \"D\u00f4me \u00e9pais\" - Live",
+      "url": "https://open.spotify.com/track/3uSyAT77m1gzVhMTbTqcqk"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Bizet : Carmen",
+        "url": "https://open.spotify.com/album/78ogxnOLeRebXlY7HV1dRc"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        },
+        {
+          "name": "Wolff",
+          "url": "https://open.spotify.com/artist/6QU20RnCPYe0CFYutfeq6D"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari\u00e8res/Jeunes gens/Dragons)",
+      "url": "https://open.spotify.com/track/4Dao462IWwRykAA9UsNT9O"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Baroque Duet",
+        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "John Nelson",
+          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
+        },
+        {
+          "name": "Orchestra of St. Luke's",
+          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
+      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
         "name": "Puccini: La Boh\u00e8me",
         "url": "https://open.spotify.com/album/0DdPI0pzTRV6uT4ty2JBpF"
       },
@@ -519,214 +815,6 @@
       "duration_ms": 321506,
       "name": "La boh\u00e8me, SC 67 / Act 2: \"Quando m'en vo'\" (Musetta's Waltz)",
       "url": "https://open.spotify.com/track/50rLDfcJA7ngUFhfRGhau8"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Dvor\u00e1k: Rusalka",
-        "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Czech Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 385440,
-      "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
-      "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Mozart: Le Nozze di Figaro",
-        "url": "https://open.spotify.com/album/5SNTSThGzDGsWqU1wV4C1d"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Frederica von Stade",
-          "url": "https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k"
-        },
-        {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
-        },
-        {
-          "name": "Lucia Popp",
-          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\"",
-      "url": "https://open.spotify.com/track/1gJUnlMq7e2cc39lGUfnPB"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "101 Mozart",
-        "url": "https://open.spotify.com/album/521Io1iL1asDyuKIS8vq1u"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Cristina Deutekom",
-          "url": "https://open.spotify.com/artist/3pPmntFuOiNf2Rpp35KqxP"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
-      "url": "https://open.spotify.com/track/0iAOwp40agX3UuVjYjiBm2"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Leoncavallo: Pagliacci",
-        "url": "https://open.spotify.com/album/5btOhOSp8wd1mNrcU4gzwA"
-      },
-      "artists": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
-        },
-        {
-          "name": "Mirella Freni",
-          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Giuseppe Patan\u00e8",
-          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Pagliacci / Act 1: \"Qual fiamma aveva nel guardo!\"",
-      "url": "https://open.spotify.com/track/00dvGFBsEowNQWSsACiqut"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Purcell: Dido & Aeneas",
-        "url": "https://open.spotify.com/album/0qoRz7WoN63imSw1xk1BNA"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Catherine Bott",
-          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Christopher Hogwood",
-          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Dido and Aeneas / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
-      "url": "https://open.spotify.com/track/6qeXMMv1oyTyVGzDilOYNu"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Montserrat Caball\u00e9 - French Opera Arias",
-        "url": "https://open.spotify.com/album/0wMuaeXzEUUnDUJe9cvAKs"
-      },
-      "artists": [
-        {
-          "name": "Charles Gounod",
-          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
-        },
-        {
-          "name": "Montserrat Caball\u00e9",
-          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
-        },
-        {
-          "name": "New Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
-        },
-        {
-          "name": "Reynald Giovaninetti",
-          "url": "https://open.spotify.com/artist/424wS8pC5a73duAdcRzM78"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Rom\u00e9o et Juliette / Act 1: \"Ah, je veux vivre\"",
-      "url": "https://open.spotify.com/track/3vrSUksg7VasQgp7cYUxpR"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2YdHwds4adS7v7QUPOVbI8"
-      },
-      "artists": [
-        {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
-        },
-        {
-          "name": "Diana Damrau",
-          "url": "https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE"
-        },
-        {
-          "name": "David Charles Abell",
-          "url": "https://open.spotify.com/artist/0mjGt6S5abhcUYx586Q9HP"
-        },
-        {
-          "name": "Karl Huffier",
-          "url": "https://open.spotify.com/artist/2QdDwnVYWwm7gTcQyZkED4"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Strauss, Johann II: Die Fledermaus, Act 2: \"Mein Herr Marquis\" (Adele)",
-      "url": "https://open.spotify.com/track/0bUF3AgC8LLnlESArDEqSJ"
     },
     {
       "added_at": "2020-12-11 11:56:45",
@@ -795,30 +883,6 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Leontyne Price - Prima Donna Vol. 5: Great Soprano Arias from Handel to Britten",
-        "url": "https://open.spotify.com/album/2qROTWt6R0J48XDHymRUQo"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Leontyne Price",
-          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
-        },
-        {
-          "name": "Henry Lewis",
-          "url": "https://open.spotify.com/artist/30jajRhHMqSWi3BWgtSttr"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "Semele, Act II: \"Where'er You Walk\"",
-      "url": "https://open.spotify.com/track/7L3Nr36g3XzFQYASRs1E3L"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
@@ -851,118 +915,6 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Eileen Farrell: Verdi Arias",
-        "url": "https://open.spotify.com/album/48RaEt3vUOKBoXeIm7Pu1j"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Eileen Farrell",
-          "url": "https://open.spotify.com/artist/2hm0Aj6jK7ZlOPd26VKAOb"
-        },
-        {
-          "name": "Max Rudolf",
-          "url": "https://open.spotify.com/artist/7bVJ6Yev7yDKSceh9KNUja"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        }
-      ],
-      "duration_ms": 287546,
-      "name": "La forza del destino, Act IV: \"Pace, pace, mio Dio!\"",
-      "url": "https://open.spotify.com/track/0xwNJxGe5lCUklorkhkV69"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Offenbach: Les Contes d'Hoffmann",
-        "url": "https://open.spotify.com/album/7Kp2mDL9QCEGE5Sf8Tqbfj"
-      },
-      "artists": [
-        {
-          "name": "Jacques Offenbach",
-          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
-        },
-        {
-          "name": "Elisabeth Schwarzkopf",
-          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
-        },
-        {
-          "name": "Andr\u00e9 Cluytens",
-          "url": "https://open.spotify.com/artist/2qGkessPTMJjSEYtxJ11KC"
-        },
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Les Contes d'Hoffmann (2003 - Remaster), Act III: Entr'acte (Orchestra)...Belle nuite, \u00f4 nuit d'amour : Barcarolle (Une voix/Giulietta/Chorus)",
-      "url": "https://open.spotify.com/track/3zcnxEjJEDUeQS97PmnKd5"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Verismo",
-        "url": "https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Manon Lescaut / Act II: \"In quelle trine morbide\"",
-      "url": "https://open.spotify.com/track/3nbcin8kl89hboxQBKaLR0"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Great Operatic Arias (Sung in English), Vol. 17 - Christine Brewer",
-        "url": "https://open.spotify.com/album/5YGIOtzaTbgrmidM9yeIly"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Christine Brewer",
-          "url": "https://open.spotify.com/artist/2JBU8gccWLZRrAHgDU3nja"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "David Parry",
-          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
-        }
-      ],
-      "duration_ms": 802000,
-      "name": "Ah, perfido!, Op. 65",
-      "url": "https://open.spotify.com/track/2ytQqOBWsDgYqfvF4Xp8Iw"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
         "name": "Bellini: Norma",
         "url": "https://open.spotify.com/album/0gEOmSeTO7qjfQ9yzDARLW"
       },
@@ -991,6 +943,34 @@
       "duration_ms": 313826,
       "name": "Norma / Act 2: Mira, o Norma",
       "url": "https://open.spotify.com/track/6bZ7SdiZmIC9RXdp77iaz1"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Purcell: Dido & Aeneas",
+        "url": "https://open.spotify.com/album/0qoRz7WoN63imSw1xk1BNA"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Dido and Aeneas / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
+      "url": "https://open.spotify.com/track/6qeXMMv1oyTyVGzDilOYNu"
     },
     {
       "added_at": "2020-12-11 11:56:45",
@@ -1103,26 +1083,6 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
-        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
-        }
-      ],
-      "duration_ms": 334480,
-      "name": "Addio del passato - Violetta",
-      "url": "https://open.spotify.com/track/05AEogBNCZykkSdKjFHu0P"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
         "name": "Wagner: Tristan und Isolde",
         "url": "https://open.spotify.com/album/0q781kMYrvKGeeCHRXrHcI"
       },
@@ -1211,60 +1171,68 @@
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Leontyne Price - Prima Donna Vol. 4: Great Soprano Arias from Mozart to Menotti",
-        "url": "https://open.spotify.com/album/3GxcD96CF8zoOhhegrlUU0"
+        "name": "Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/5btOhOSp8wd1mNrcU4gzwA"
       },
       "artists": [
         {
-          "name": "Erich Wolfgang Korngold",
-          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Pagliacci / Act 1: \"Qual fiamma aveva nel guardo!\"",
+      "url": "https://open.spotify.com/track/00dvGFBsEowNQWSsACiqut"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/2oEn5IklXZ1V64HTAW2XBF"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
           "name": "Leontyne Price",
           "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
         },
         {
-          "name": "Nello Santi",
-          "url": "https://open.spotify.com/artist/3oqxBzBkG6Q2xFAAM1c9pl"
+          "name": "Giuseppe Taddei",
+          "url": "https://open.spotify.com/artist/1sWPJ06Ed62WqGtrPUY4fa"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
         }
       ],
-      "duration_ms": 368733,
-      "name": "Act I: Gl\u00fcck, das mir verblieb (Marietta's Lied)",
-      "url": "https://open.spotify.com/track/6GFiSW2OllzAVnCSaWPJhk"
+      "duration_ms": 285733,
+      "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
+      "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
     },
     {
       "added_at": "2020-12-11 11:56:45",
       "album": {
-        "name": "Angela Gheorghiu: The Essential Collection",
-        "url": "https://open.spotify.com/album/1gnZrcj64QAXTkaz95qDkN"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Catalani",
-          "url": "https://open.spotify.com/artist/2pJPaYySRIl7SVCgkT2weI"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Orchestra del Teatro Regio di Torino",
-          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
-        },
-        {
-          "name": "John Mauceri",
-          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "La Wally / Act 1: \"Ebben? Ne andr\u00f2 lontana\"",
-      "url": "https://open.spotify.com/track/5Gjs266kK1CyCvPJVDveDs"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
-        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
       },
       "artists": [
         {
@@ -1272,41 +1240,29 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Sempre libera - Violetta",
-      "url": "https://open.spotify.com/track/73F6pnKDIVis0DHm69Osjn"
-    },
-    {
-      "added_at": "2020-12-11 11:56:45",
-      "album": {
-        "name": "Ren\u00e9e Fleming - The Beautiful Voice",
-        "url": "https://open.spotify.com/album/1iRgkTYJhIBNoXe2j9XOek"
-      },
-      "artists": [
-        {
-          "name": "Friedrich von Flotow",
-          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Jeffrey Tate",
-          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Martha / Act 2: Last Rose of Summer",
-      "url": "https://open.spotify.com/track/1WJLS6QFqosNjYcgjwCU27"
+      "duration_ms": 175506,
+      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
+      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
     },
     {
       "added_at": "2020-12-11 11:56:45",
@@ -1335,6 +1291,38 @@
       "duration_ms": 149866,
       "name": "Vivaldi: Orlando Furioso RV 728 - Adapted By Andrea Marcon / Act 2: Ah fuggi rapido",
       "url": "https://open.spotify.com/track/72Uzn6J1hVRUqdqCWXzrVR"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2YdHwds4adS7v7QUPOVbI8"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Diana Damrau",
+          "url": "https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE"
+        },
+        {
+          "name": "David Charles Abell",
+          "url": "https://open.spotify.com/artist/0mjGt6S5abhcUYx586Q9HP"
+        },
+        {
+          "name": "Karl Huffier",
+          "url": "https://open.spotify.com/artist/2QdDwnVYWwm7gTcQyZkED4"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Strauss, Johann II: Die Fledermaus, Act 2: \"Mein Herr Marquis\" (Adele)",
+      "url": "https://open.spotify.com/track/0bUF3AgC8LLnlESArDEqSJ"
     },
     {
       "added_at": "2020-12-11 11:56:45",
@@ -1447,6 +1435,26 @@
       "duration_ms": 334720,
       "name": "The Indian Queen, Z. 630 - Ed A. Pinnock, M. Laurie / Act 4: They Tell Us That Your Mighty Powers",
       "url": "https://open.spotify.com/track/1mh3cVKik8Siu7sTZLsNJb"
+    },
+    {
+      "added_at": "2020-12-11 11:56:45",
+      "album": {
+        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
+        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Sempre libera - Violetta",
+      "url": "https://open.spotify.com/track/73F6pnKDIVis0DHm69Osjn"
     },
     {
       "added_at": "2020-12-11 11:56:45",

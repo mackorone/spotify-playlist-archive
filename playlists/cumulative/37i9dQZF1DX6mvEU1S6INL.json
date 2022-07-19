@@ -311,7 +311,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 252906,
       "name": "Cocoa Hooves",
       "url": "https://open.spotify.com/track/4tGQUAnrOXuM3epCM8OBYC"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 299386,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/1sfdLryuujVNx5v3SqDIh8"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 280653,
       "name": "Emmylou",
       "url": "https://open.spotify.com/track/0uKyC5TIiwfeh0evennKOO"
@@ -751,6 +751,24 @@
       "duration_ms": 162446,
       "name": "friends*",
       "url": "https://open.spotify.com/track/7qixLBcpO7N3JoHTuQBj6d"
+    },
+    {
+      "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
     },
     {
       "album": {
@@ -1096,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "If You Ever Leave, I'm Coming with You",
+        "url": "https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF"
+    },
+    {
+      "album": {
         "name": "Indigo Puff",
         "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
@@ -1114,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "album": {
         "name": "It's Too Much",
         "url": "https://open.spotify.com/album/4oYSt8W2tS3wacfrgPzHom"
       },
@@ -1125,7 +1179,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 236560,
       "name": "It's Too Much",
       "url": "https://open.spotify.com/track/27xAj9PZbv3PUNXVnELgXm"
@@ -1233,7 +1287,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 239653,
       "name": "Let Me In - From The Fault in Our Stars Soundtrack",
       "url": "https://open.spotify.com/track/0eRPQfyQcuNczYh7l08bKd"
@@ -2270,6 +2324,24 @@
     },
     {
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239212,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
+    },
+    {
+      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -2433,6 +2505,24 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/4eTVpfb9fISH1FV4APpX2T"
+    },
+    {
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "You Get Me So High",
+      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
       "album": {

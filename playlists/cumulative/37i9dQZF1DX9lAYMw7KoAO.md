@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-75 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+76 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Made Whole](https://open.spotify.com/track/0Nr91BKQvJE4usT6fKWY5t) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Made Whole](https://open.spotify.com/album/33GubIN9pcunkmkg2A1j6U) | 4:19 | 2020-01-31 |  |
 | [Make a Way \- Live](https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD) | 4:38 | 2019-11-06 |  |
 | [Messiah](https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn](https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe) | 4:06 | 2018-10-01 |  |
-| [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 | 2018-10-01 |  |
+| [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 | 2018-10-01 |  |
 | [Mimo \(feat\. Sola Allyson\)](https://open.spotify.com/track/5aLpw7VX35DeXZID3Drv4B) | [Fountain Of Praise](https://open.spotify.com/artist/4Xy5Yn2jebbHnzG4OhkRjr) | [Refresh](https://open.spotify.com/album/0YUeVP08TIvAJr72DLfue8) | 18:22 | 2018-10-01 | 2022-04-15 |
 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2018-10-01 |  |
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2018-10-01 |  |
@@ -59,7 +59,8 @@
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 |  |
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
 | [Safety](https://open.spotify.com/track/1cuv2HnzLqREWgu6KhXI8Q) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sarah Nathalié](https://open.spotify.com/artist/6oPvIaLoZ8pgWDwb9RXReI) | [Safety](https://open.spotify.com/album/2WvtehaIYsdeiBF1X9zYde) | 3:17 | 2021-11-26 |  |
-| [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-05-15 |  |
+| [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-05-15 | 2022-05-13 |
+| [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-05-12 |  |
 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2020-07-03 |  |
 | [Suddenly](https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:51 | 2021-09-10 | 2022-03-18 |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-02-03 |  |

@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 178271,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
+    },
+    {
+      "album": {
         "name": "Burn the House Down",
         "url": "https://open.spotify.com/album/55D73a4LAjBWHG35LTG5rg"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 212373,
       "name": "Burn the House Down",
       "url": "https://open.spotify.com/track/2HaYSyjZmqhFVviYOakAth"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-05-07",
       "duration_ms": 243173,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 197928,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 195389,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/6tNQw4RAj7oYogHXVzKJg8"
@@ -968,6 +986,24 @@
     },
     {
       "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu"
       },
@@ -986,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/0CJ1sH1T6SsJS6tFEr3M3Z"
       },
@@ -1001,6 +1055,24 @@
       "duration_ms": 172100,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/1bFjZtKMLAd63AILwrGl5l"
+    },
+    {
+      "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190288,
+      "name": "Good Day for a Good Day",
+      "url": "https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN"
     },
     {
       "album": {
@@ -1033,7 +1105,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 219560,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6Mj7VQqAgDttaxt63bQj4F"
@@ -1181,7 +1253,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-06",
       "duration_ms": 199411,
       "name": "hurt myself",
       "url": "https://open.spotify.com/track/4Pxi7M3fCCBDG0EfC17eHw"
@@ -1239,7 +1311,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-06-15",
       "duration_ms": 174692,
       "name": "ignorance is bliss",
       "url": "https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B"
@@ -1279,6 +1351,24 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Johnson Song",
+      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
     },
     {
       "album": {
@@ -1401,7 +1491,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 238973,
       "name": "Little Secrets",
       "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
@@ -1570,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "Farm to Table",
+        "url": "https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Mulholland Dr.",
+      "url": "https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf"
+    },
+    {
+      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD"
       },
@@ -1653,7 +1761,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 225400,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/12Em8Gzpi3B1n5I8YNLLUD"
@@ -1936,6 +2044,42 @@
     },
     {
       "album": {
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00"
+    },
+    {
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "album": {
         "name": "Jamesy Boy & The Screw Loose Zoo",
         "url": "https://open.spotify.com/album/4ma22fqmqoyBRooyUNbNds"
       },
@@ -2041,7 +2185,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 218763,
       "name": "Sober Up",
       "url": "https://open.spotify.com/track/2QCndYqRherBtKjBpyySC6"
@@ -2077,7 +2221,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 243333,
       "name": "Someday - Remastered",
       "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
@@ -2131,7 +2275,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-05-10",
       "duration_ms": 254800,
       "name": "Stone Love",
       "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
@@ -2171,6 +2315,24 @@
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
+    },
+    {
+      "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "album": {
@@ -2229,6 +2391,24 @@
       "duration_ms": 211040,
       "name": "Sunshine Time",
       "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136940,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
     },
     {
       "album": {
@@ -2319,7 +2499,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-10",
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
@@ -2355,7 +2535,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-06-16",
       "duration_ms": 191584,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR"
@@ -2489,6 +2669,24 @@
       "duration_ms": 157084,
       "name": "Too Late (with Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/1jaJ8LsR1pOC5s8Xb86xgm"
     },
     {
       "album": {
@@ -2663,7 +2861,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-26",
       "duration_ms": 191400,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/6jrMVRReY24qzCfe1BRrww"
@@ -2699,7 +2897,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 198320,
       "name": "Wicked Heart",
       "url": "https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK"

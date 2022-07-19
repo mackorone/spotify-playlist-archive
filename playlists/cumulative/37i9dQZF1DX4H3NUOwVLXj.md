@@ -4,7 +4,7 @@
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/2T8me0cRpLc4lIStz2qLuB)
+54 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/2T8me0cRpLc4lIStz2qLuB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2018-01-19 |  |
 | [Drinking Again](https://open.spotify.com/track/3vyKQ9OCX48TtW41Thoqlx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 3:10 | 2018-01-19 |  |
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [It Might As Well Be Swing](https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH) | 2:29 | 2018-01-19 |  |
+| [Goodbye \(She Quietly Says\) \- 2022 Mix](https://open.spotify.com/track/2RZDNXFAMWrbdS62KTAggO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Goodbye \(She Quietly Says\) / Watertown \[2022 Mix\]](https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1) | 3:12 | 2022-05-13 |  |
 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 | 2021-11-30 |  |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/7bzfyzaZjqai1wTEJsxTOF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/6bLuwLvr2FVGzqZZvi8CEN) | 3:14 | 2018-01-19 |  |
 | [I've Got The World On A String \- Remastered 2000](https://open.spotify.com/track/24C5ft0x93vqND1buSn8ZL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Classic Sinatra \- His Great Performances 1953\-1960](https://open.spotify.com/album/4VEpFmuBpIMHBtynE2wcVl) | 2:10 | 2018-01-19 |  |
@@ -54,6 +55,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 | 2021-03-29 |  |
 | [Theme From New York, New York](https://open.spotify.com/track/2uXn30sSSGCcCRvyuf5F3E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/7gChBuHze71yZc6aOTXQpV) | 3:26 | 2018-01-19 |  |
 | [Three Coins In The Fountain](https://open.spotify.com/track/5rg9sDw8EIKyy9fZOqdgx1) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/1BA6ebXEZ79g2TQ1o6dklD) | 3:45 | 2018-01-19 |  |
+| [Watertown \- 2022 Mix](https://open.spotify.com/track/0k4yvoJxWxJzQe6JpJZ07l) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Goodbye \(She Quietly Says\) / Watertown \[2022 Mix\]](https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1) | 3:36 | 2022-05-13 |  |
 | [When You're Smiling \(The Whole World Smiles With You\) \- 1998 Digital Remaster](https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:00 | 2018-01-19 |  |
 | [Why Try To Change Me Now? \- Remastered](https://open.spotify.com/track/4FylEaO7ZcbRNLhRairniu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [No One Cares \(Remastered\)](https://open.spotify.com/album/1nnCD4VLdJ4n6lnOOUNUMc) | 3:41 | 2018-01-19 |  |
 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 | 2018-01-19 |  |

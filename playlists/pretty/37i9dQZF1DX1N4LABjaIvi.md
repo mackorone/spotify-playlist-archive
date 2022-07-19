@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,718 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,706 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 16 | [Seré](https://open.spotify.com/track/1qzRDavvgtZctsRhrbUP9Y) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S) | 4:09 |
 | 17 | [Y Asi, Asi](https://open.spotify.com/track/4kqqEXOV0hS1CYLq3Cyf5b) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos \(Vol\. 2\)](https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG) | 3:39 |
 | 18 | [Soy un Inconsciente](https://open.spotify.com/track/5SC08laUPtj9p2UoaPe9ye) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2KzYCpdLQDhmUAd5DCYsCy) | 3:01 |
-| 19 | [Me Enamore De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
+| 19 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
 | 20 | [Desde Que Tu Te Has Ido](https://open.spotify.com/track/27ODN9ulbrFYkq7DGGoexE) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos \(Vol\. 2\)](https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG) | 3:23 |
 | 21 | [La Distancia](https://open.spotify.com/track/27xbGQzu8iVHJQNEHGdB0I) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Soy Tuyo](https://open.spotify.com/album/3UtLNjFC9CjMScE66QH4C6) | 3:24 |
 | 22 | [Es Mi Culpa](https://open.spotify.com/track/1GTPOqKjHVcnOto4JwGTtF) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La Vida Al Viento](https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC) | 3:48 |

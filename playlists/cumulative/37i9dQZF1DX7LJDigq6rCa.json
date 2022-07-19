@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5AsILdoHhA7WdqUtPDtnoX"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/54MQc7UtIAogdoU5h0KNOP"
+    },
+    {
+      "album": {
         "name": "Thinking About Thursdays",
         "url": "https://open.spotify.com/album/3AWATaNWvlDlTOmlemNQDw"
       },
@@ -1305,24 +1323,6 @@
       "duration_ms": 210838,
       "name": "To the Moon and Beyond",
       "url": "https://open.spotify.com/track/5gMH4PYb2PxQdnQFegkdkg"
-    },
-    {
-      "album": {
-        "name": "Twinkling Star",
-        "url": "https://open.spotify.com/album/5AsILdoHhA7WdqUtPDtnoX"
-      },
-      "artists": [
-        {
-          "name": "Clark Ingram",
-          "url": "https://open.spotify.com/artist/7KRZnmd0jO9gxrxNxJYK8X"
-        }
-      ],
-      "date_added": "2019-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170784,
-      "name": "Twinkling Star",
-      "url": "https://open.spotify.com/track/54MQc7UtIAogdoU5h0KNOP"
     },
     {
       "album": {

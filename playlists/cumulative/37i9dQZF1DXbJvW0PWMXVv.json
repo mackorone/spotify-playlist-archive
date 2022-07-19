@@ -766,28 +766,6 @@
     },
     {
       "album": {
-        "name": "A Festa da Turma do Menino Sol, Vol. 1 (Remix)",
-        "url": "https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K"
-      },
-      "artists": [
-        {
-          "name": "Turma do Menino Sol",
-          "url": "https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129259,
-      "name": "Na\u0303o Paro de Danc\u0327ar - Remix",
-      "url": "https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg"
-    },
-    {
-      "album": {
         "name": "The Kids Are Coming",
         "url": "https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j"
       },
@@ -803,6 +781,32 @@
       "duration_ms": 200742,
       "name": "Never Seen The Rain",
       "url": "https://open.spotify.com/track/0JQ5MbyriK6ruD3t6RZ7ix"
+    },
+    {
+      "album": {
+        "name": "A Festa da Turma do Menino Sol, Vol. 1 (Remix)",
+        "url": "https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K"
+      },
+      "artists": [
+        {
+          "name": "Turma do Menino Sol",
+          "url": "https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "L2",
+          "url": "https://open.spotify.com/artist/2pHxUjbrROg5plhHwgExrK"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129259,
+      "name": "N\u00e3o Paro de Dan\u00e7ar - Remix",
+      "url": "https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg"
     },
     {
       "album": {
@@ -958,7 +962,7 @@
       "artists": [
         {
           "name": "Os Leleks",
-          "url": "https://open.spotify.com/artist/2sAN2eRWFHrtt24Zd2gQYq"
+          "url": "https://open.spotify.com/artist/48QyoqQgVaSaNJKn6J8Ltb"
         }
       ],
       "date_added": "2020-06-24",

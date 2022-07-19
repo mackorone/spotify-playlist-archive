@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-80 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
+81 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Gimme Some More](https://open.spotify.com/track/1NXyoATCYylbjSDFe8FHbJ) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Food For Thought](https://open.spotify.com/album/7MujsVJBUL1A1zieezqofq) | 3:07 | 2020-05-08 |  |
 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 | 2020-05-08 |  |
 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 | 2020-05-08 |  |
+| [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2022-05-22 |  |
 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 | 2020-09-12 |  |
 | [Holy Ghost](https://open.spotify.com/track/3dgMPpTQJ9Y91TkB072ZN3) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Greatest Hits](https://open.spotify.com/album/7vBTwTT9MZ2JLzY4yahWDS) | 8:12 | 2020-04-15 |  |
 | [Hyperbolicsyllablecsesquedalymistic \- Album \- Remaster](https://open.spotify.com/track/4aiJAJ7afdCErvrhJcw3lc) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Hot Buttered Soul \(Deluxe Remaster\)](https://open.spotify.com/album/4dpbUEDibbnNL7QrDQoooU) | 9:34 | 2020-04-15 |  |
@@ -55,7 +56,7 @@
 | [Mothership Connection \(Star Child\)](https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 6:13 | 2020-05-08 |  |
 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 | 2020-05-08 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2020-07-29 |  |
-| [One Nation Under a Groove \- Album Version \- 2015 Remaster](https://open.spotify.com/track/06Y1ZlTO8tO0vVrN4rSfNc) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [One Nation Under a Groove \- Remastered Edition](https://open.spotify.com/album/1ymHE8ItOGthDlfQmqVKEQ) | 7:29 | 2020-05-08 |  |
+| [One Nation Under a Groove \- Album Version \- 2015 Remaster](https://open.spotify.com/track/06Y1ZlTO8tO0vVrN4rSfNc) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [One Nation Under a Groove \- 2015 Remastered Edition](https://open.spotify.com/album/1ymHE8ItOGthDlfQmqVKEQ) | 7:29 | 2020-05-08 |  |
 | [Oops Up Side Your Head \- 12" Single Version](https://open.spotify.com/track/76jBriPAnOJzGBsrcZ0ihl) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:39 | 2020-05-08 |  |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 | 2020-05-08 |  |
 | [Pass The Peas](https://open.spotify.com/track/7CjV22bm1Vx0guKm2HV3OD) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu) | 3:12 | 2020-05-08 |  |
@@ -85,7 +86,7 @@
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2020-05-08 |  |
 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 | 2020-05-08 |  |
 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 | 2020-05-08 |  |
-| [Wicky Wacky](https://open.spotify.com/track/2Kn8AqRPoAGiI4sDo2HwDb) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Keep On Steppin'](https://open.spotify.com/album/7HDGZiJkvRzQmKnti36O5R) | 3:18 | 2020-05-08 |  |
+| [Wicky Wacky](https://open.spotify.com/track/2Kn8AqRPoAGiI4sDo2HwDb) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Keep On Steppin'](https://open.spotify.com/album/7HDGZiJkvRzQmKnti36O5R) | 3:18 | 2020-05-08 | 2022-05-23 |
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2020-05-08 |  |
 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 | 2020-04-15 |  |
 

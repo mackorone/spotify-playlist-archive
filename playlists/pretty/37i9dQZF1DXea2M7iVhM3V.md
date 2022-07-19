@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 
 > Kill it today with this awesome Hip Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

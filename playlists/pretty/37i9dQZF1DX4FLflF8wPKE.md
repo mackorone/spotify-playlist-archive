@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,162 likes - 68 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,473 likes - 68 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 8 | [Filma Solo](https://open.spotify.com/track/4SsDrt7HV1ECcJ2A7EHfLL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd) | 3:15 |
 | 9 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 10 | [Notturno for Strings and Harp](https://open.spotify.com/track/7nGA1sRfLDWXYb3VPstnZf) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM), [Jane Berthe](https://open.spotify.com/artist/54IIxBw0yvR4zHHxE8GG5d) | [Schoenberg: Notturno for Strings and Harp](https://open.spotify.com/album/4rCx7dnAgXhes9ckGrMXA4) | 3:12 |
-| 11 | [Après un rêve, Op.7, No.1 \(Arr\. Cello & Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 |
+| 11 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 |
 | 12 | [Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 |
 | 13 | [Henry V: Henry V: Touch her soft lips and part](https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [This is the Day: Music on Royal Occasions](https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y) | 1:33 |
 | 14 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 |

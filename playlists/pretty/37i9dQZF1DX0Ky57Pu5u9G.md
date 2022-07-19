@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Listen to all of the music from the Sing movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,115 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,385 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

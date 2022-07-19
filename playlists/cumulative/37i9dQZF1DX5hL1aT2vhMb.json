@@ -582,7 +582,7 @@
     },
     {
       "album": {
-        "name": "Kaija Saariaho: L'Amour de loin",
+        "name": "Saariaho: L'Amour de loin",
         "url": "https://open.spotify.com/album/0U87oFi5yMbht78x78l5BE"
       },
       "artists": [
@@ -591,19 +591,19 @@
           "url": "https://open.spotify.com/artist/35ooFrlJDRGXeuI2fL70d3"
         },
         {
-          "name": "Deutsches Symphonie-Orchester Berlin",
-          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
-        },
-        {
           "name": "Kent Nagano",
           "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
         }
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 341346,
-      "name": "L'Amour de loin: Premier acte (Travers\u00e9e)",
+      "name": "L'Amour de loin, Premier acte: Travers\u00e9e",
       "url": "https://open.spotify.com/track/6qYCeiqAVBnHTba6V7bjMU"
     },
     {
@@ -1221,6 +1221,32 @@
       "duration_ms": 566573,
       "name": "Symphony No. 3 in G Minor, Op. 36: II. Adagio cantabile",
       "url": "https://open.spotify.com/track/4caRxA3WAlAgD9Y2kqsRc5"
+    },
+    {
+      "album": {
+        "name": "Emilie Mayer: Symphonies Nos. 6 & 3",
+        "url": "https://open.spotify.com/album/4aafrVnSjSZZwh8Efmw2B6"
+      },
+      "artists": [
+        {
+          "name": "Emilie Mayer",
+          "url": "https://open.spotify.com/artist/4zkusum5eZdIObW4RHOkIh"
+        },
+        {
+          "name": "Philharmonisches Orchester Bremerhaven",
+          "url": "https://open.spotify.com/artist/5u08wVG2M2CiOn5XaMihZ4"
+        },
+        {
+          "name": "Marc Niemann",
+          "url": "https://open.spotify.com/artist/5AeeHjsoomHicj1ImSDFUZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 864413,
+      "name": "Symphony No. 6 in E Major: I. Adagio - Allegro con spirito",
+      "url": "https://open.spotify.com/track/5PNE2h3eBgjdNA97JreMeM"
     },
     {
       "album": {

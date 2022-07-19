@@ -1,0 +1,39 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain](/playlists/plain/37i9dQZF1DX3XFWzluBEOt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3XFWzluBEOt)
+
+### [Soda Stereo: Bajo esta piel](https://open.spotify.com/playlist/37i9dQZF1DX3XFWzluBEOt)
+
+> En el corazón de los fanáticos, canciones que navegaron bajo la superficie.
+
+[Spotify](https://open.spotify.com/user/spotify) - 3,064 likes - 27 songs - 1 hr 58 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Mi Novia Tiene Bíceps \- Remasterizado 2007](https://open.spotify.com/track/7kRhtWodPO1Oi0UVuj7Dob) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 |
+| 2 | [Ni Un Segundo \- Remasterizado 2007](https://open.spotify.com/track/5uwyngLJd6sTOYRic4tH8x) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:27 |
+| 3 | [Nuestra Fe \- Remasterizado 2007](https://open.spotify.com/track/6c8DcjaMvJJFxygPtJdp51) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:36 |
+| 4 | [Afrodisíacos \- Remasterizado 2007](https://open.spotify.com/track/11DDUdeL5QwBXVqeyb1fOa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 4:23 |
+| 5 | [Ecos \- Remasterizado 2007](https://open.spotify.com/track/1Dti4H4XC1IetaCDpI8MU0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 4:57 |
+| 6 | [Si No Fuera Por..\. \- Remasterizado 2007](https://open.spotify.com/track/5fu5vl7owT5ny0ry2Bema2) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:27 |
+| 7 | [Sin Sobresaltos \- Remasterizado 2007](https://open.spotify.com/track/5IZdOXe9NrUJWjwSJo5Akw) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:22 |
+| 8 | [Día Común\- Doble Vida \- Remasterizado 2007](https://open.spotify.com/track/5l94juvdzuSf1TduncAyHJ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:39 |
+| 9 | [Languis \- Remasterizado 2007](https://open.spotify.com/track/18D08bgPEem469x1bjxIXM) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:54 |
+| 10 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 |
+| 11 | [Mundo De Quimeras \- Remasterizado 2007](https://open.spotify.com/track/3JCz3RYG6psLPHrW5ZF1wg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Languis \(Remastered\)](https://open.spotify.com/album/0m1Jpz8kxFIewCTy2NdkVt) | 6:41 |
+| 12 | [1990 \(Mil Nueve Noventa\) \- Remasterizado 2007](https://open.spotify.com/track/5U3z76HVF4JZ5cc7Xaem5v) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:38 |
+| 13 | [No Necesito Verte \(Para Saberlo\) \- Remasterizado 2007](https://open.spotify.com/track/3xIGjSRcYGMNUuaawoAwKB) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Rex Mix \(Remastered\)](https://open.spotify.com/album/1OPsfxGYBniKd1qWi05f2K) | 6:14 |
+| 14 | [Ameba \- Remasterizado 2007](https://open.spotify.com/track/1ErS8Tahdp0bOUH7SBM4jo) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 4:16 |
+| 15 | [Texturas \- Remasterizado 2007](https://open.spotify.com/track/3ZOEoS6TEyA4cKhtMMNxC0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 4:43 |
+| 16 | [El Cuerpo Del Delito \- Remasterizado 2007](https://open.spotify.com/track/56IhGBCFIRw9reDg2NTZSz) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:46 |
+| 17 | [Moirè \- Remasterizado 2007](https://open.spotify.com/track/0DrAH8PKnAIbFqAfnMlpzG) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:02 |
+| 18 | [El Tiempo Es Dinero \- Remasterizado 2007](https://open.spotify.com/track/001YQlnDSduXd5LgBd66gT) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:57 |
+| 19 | [Efecto Doppler \- Remasterizado 2007](https://open.spotify.com/track/78fEwrT5UGW1CZfFnEqmUk) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 5:02 |
+| 20 | [X Playo \- Remasterizado 2007](https://open.spotify.com/track/743BAjD2J8pskuff8fP3Vx) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:07 |
+| 21 | [El Ritmo De Tus Ojos \- Remasterizado 2007](https://open.spotify.com/track/15W8Q7ZA88u4eQf5JMDaj7) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:57 |
+| 22 | [Observándonos \(Satélites\) \- Remasterizado 2007](https://open.spotify.com/track/2M1EWNXyKRnWHuoU2hk7Rq) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:06 |
+| 23 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 |
+| 24 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
+| 25 | [Superstar](https://open.spotify.com/track/6PudNM0mVIi3ipGCSUW8gu) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:08 |
+| 26 | [Coral](https://open.spotify.com/track/13fEiuZo5A4aiPNRds3OpM) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 3:42 |
+| 27 | [Languis \(Nueva Versión 1989\) \- Remasterizado 2007](https://open.spotify.com/track/1S8ifDYCyMDq7khb4b98MO) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Languis \(Remastered\)](https://open.spotify.com/album/0m1Jpz8kxFIewCTy2NdkVt) | 5:43 |
+
+Snapshot ID: `MTU4MjgwODcxMCwwMDAwMDAwMjAwMDAwMTcwODZjMDNlMWYwMDAwMDE3MDgyMjdmYzE4`

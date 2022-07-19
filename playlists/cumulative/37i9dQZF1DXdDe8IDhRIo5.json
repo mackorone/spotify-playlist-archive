@@ -26,6 +26,46 @@
     },
     {
       "album": {
+        "name": "A Fadin' Blue",
+        "url": "https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        },
+        {
+          "name": "The Rosenberg Trio",
+          "url": "https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189065,
+      "name": "A Fadin' Blue",
+      "url": "https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER"
+    },
+    {
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126329,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR"
+    },
+    {
+      "album": {
         "name": "Bekledim de gelmedin",
         "url": "https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An"
       },
@@ -99,6 +139,28 @@
       "duration_ms": 152146,
       "name": "Billet Doux",
       "url": "https://open.spotify.com/track/2Zhwy8tAmEsCezzeRS2kpG"
+    },
+    {
+      "album": {
+        "name": "Miri Chterna",
+        "url": "https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        },
+        {
+          "name": "C\u00e9sar Poirier",
+          "url": "https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Billet doux",
+      "url": "https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO"
     },
     {
       "album": {
@@ -236,6 +298,24 @@
     },
     {
       "album": {
+        "name": "Coucou",
+        "url": "https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
+    },
+    {
+      "album": {
         "name": "Django's Tiger",
         "url": "https://open.spotify.com/album/5XGhKJPYf1xr5x0p8IqV1U"
       },
@@ -335,6 +415,24 @@
       "duration_ms": 258880,
       "name": "For Brassens",
       "url": "https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM"
+    },
+    {
+      "album": {
+        "name": "For Holzmanno",
+        "url": "https://open.spotify.com/album/1YmXRKycHrJWdUrqEO2D4Q"
+      },
+      "artists": [
+        {
+          "name": "Wawau Adler",
+          "url": "https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "For Holzmanno",
+      "url": "https://open.spotify.com/track/3OsK1omdtWIlFoPFqvPwCQ"
     },
     {
       "album": {
@@ -574,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Joseph Joseph",
+        "url": "https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonious Wail",
+          "url": "https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233751,
+      "name": "Joseph Joseph",
+      "url": "https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W"
+    },
+    {
+      "album": {
         "name": "Rocky Gresset",
         "url": "https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc"
       },
@@ -749,6 +865,36 @@
       "duration_ms": 311853,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh"
+    },
+    {
+      "album": {
+        "name": "Manh\u00e3 De Carnaval",
+        "url": "https://open.spotify.com/album/1jUp60E71hj9TfKDzmA9ZA"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/6QM1knKdwTPjiqOR9TfwnQ"
     },
     {
       "album": {
@@ -943,6 +1089,24 @@
       "duration_ms": 203826,
       "name": "Noto Swing",
       "url": "https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK"
+    },
+    {
+      "album": {
+        "name": "Nymph\u00e9as",
+        "url": "https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE"
+      },
+      "artists": [
+        {
+          "name": "Duane Andrews",
+          "url": "https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271236,
+      "name": "Nymph\u00e9as",
+      "url": "https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr"
     },
     {
       "album": {

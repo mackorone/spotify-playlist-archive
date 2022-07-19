@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Groovy jazz fusion. Cover: Jamiroquai",
+  "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
   "name": "Acid Jazz",
   "published_playlist_ids": [
     "0s2Ueduw9O11cFJZqPQWID"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": "2022-06-26",
       "duration_ms": 220440,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/6K4BRFskK2SjF7kqltI54H"
@@ -165,10 +165,32 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-27",
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
+      "album": {
+        "name": "Beatmaker",
+        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        },
+        {
+          "name": "Emma Noble",
+          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177842,
+      "name": "Beatmaker",
+      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
     },
     {
       "album": {
@@ -219,7 +241,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 260973,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
@@ -285,7 +307,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 279360,
       "name": "Cantaloop (Flip Fantasia)",
       "url": "https://open.spotify.com/track/06DSI8L6IT8SizCw3JLckz"
@@ -321,7 +343,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": "2022-06-10",
       "duration_ms": 494960,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
@@ -395,6 +417,28 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/55mgFgnWo4vJJc6pydpB1A"
+      },
+      "artists": [
+        {
+          "name": "Nikitch",
+          "url": "https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv"
+        },
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430785,
+      "name": "Coffee Kingdom",
+      "url": "https://open.spotify.com/track/4iGTyu7gIuqcs278VEZdPo"
     },
     {
       "album": {
@@ -492,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+    },
+    {
+      "album": {
         "name": "Stratosphere Breakdown",
         "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
       },
@@ -516,7 +578,7 @@
       "artists": [
         {
           "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/4nJ3J7RwgYmMARNAVrFb06"
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
         }
       ],
       "date_added": "2021-12-12",
@@ -677,7 +739,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-06-09",
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
@@ -793,6 +855,28 @@
       "duration_ms": 313720,
       "name": "Hargrove",
       "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "album": {
+        "name": "Holy Sun",
+        "url": "https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 263576,
+      "name": "Holy Sun",
+      "url": "https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW"
     },
     {
       "album": {
@@ -935,7 +1019,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-06-12",
       "duration_ms": 234386,
       "name": "I'm the One",
       "url": "https://open.spotify.com/track/6oocpvgIKotKZiqYVk1pxV"
@@ -957,6 +1041,28 @@
       "duration_ms": 202106,
       "name": "It Ain't Hard to Tell",
       "url": "https://open.spotify.com/track/0ySCYRXVugL9xDBecGc0jr"
+    },
+    {
+      "album": {
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
+      },
+      "artists": [
+        {
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
     },
     {
       "album": {
@@ -1175,7 +1281,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
@@ -1349,7 +1455,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-13",
       "duration_ms": 218133,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/560efWyxFfBuWgNwGb6gye"
@@ -1475,7 +1581,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
@@ -1511,7 +1617,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-12",
       "duration_ms": 355533,
       "name": "Prince Of Peace",
       "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
@@ -1537,7 +1643,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
@@ -1671,7 +1777,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": "2022-07-16",
       "duration_ms": 286066,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/45XYBNZyQtcdWOEsSqGn6a"
@@ -1831,7 +1937,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 242600,
       "name": "The Light",
       "url": "https://open.spotify.com/track/2XQYIIJb628ORXhv5kPdyG"
@@ -2033,7 +2139,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 238893,
       "name": "Verses from the Abstract",
       "url": "https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA"
@@ -2051,7 +2157,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 227840,
       "name": "Virtual Insanity",
       "url": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn"
@@ -2087,7 +2193,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 219600,
       "name": "Wash Your Face In My Sink",
       "url": "https://open.spotify.com/track/0NCAwYvqsYWxceXS12Gjbk"
@@ -2159,7 +2265,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-16",
       "duration_ms": 272800,
       "name": "Web of Deception",
       "url": "https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY"

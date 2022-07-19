@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "album": {
         "name": "The Best Of The Emotions: Best Of My Love",
         "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
       },
@@ -241,7 +259,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 375400,
-      "name": "He's the Greatest Dancer",
+      "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl"
     },
     {
@@ -459,6 +477,24 @@
       "duration_ms": 267226,
       "name": "Jump (For My Love)",
       "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
       "album": {
@@ -797,8 +833,8 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 483441,
+      "date_removed": "2022-06-01",
+      "duration_ms": 354268,
       "name": "Think It Over",
       "url": "https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I"
     },
@@ -815,7 +851,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 202266,
       "name": "Victim Of Love - Remastered",
       "url": "https://open.spotify.com/track/151LVGGcVL0RZJPBh1SIxn"

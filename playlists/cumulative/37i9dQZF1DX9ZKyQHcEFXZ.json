@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Nitti Gritti",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 170509,
+      "name": "200 Mph",
+      "url": "https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg"
+    },
+    {
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -289,7 +315,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-19",
       "duration_ms": 247880,
       "name": "Calor",
       "url": "https://open.spotify.com/track/2I5t51Owfi75ax50m6koNT"
@@ -565,7 +591,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 163573,
       "name": "El Tibur\u00f3n",
       "url": "https://open.spotify.com/track/4H0vsbZL1DlKDKLrHHNaqb"
@@ -611,7 +637,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 325692,
       "name": "Eleg\u00ed (feat. Farruko, Anuel AA, Sech, D\u00edmelo Flow & Justin Quiles) - Remix",
       "url": "https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit"
@@ -654,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Music From The Motion Picture \"Feel The Noise\"",
+        "url": "https://open.spotify.com/album/7BTv6hHajV2TqACQNHcNUj"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 195400,
+      "name": "Eso Ehh..!!!",
+      "url": "https://open.spotify.com/track/6XlYf0ZKsbYby9VDQoiStc"
+    },
+    {
+      "album": {
         "name": "The Best Of Hector El Father",
         "url": "https://open.spotify.com/album/5VMXif6AXwyrkcDAMd2BN5"
       },
@@ -665,7 +709,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 209026,
       "name": "Esta Noche De Travesura",
       "url": "https://open.spotify.com/track/5YsF9N9Gv7DswM0KPk4iby"
@@ -767,7 +811,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
@@ -821,7 +865,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
@@ -983,7 +1027,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 194733,
       "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
       "url": "https://open.spotify.com/track/2r7g6pdJiKexCTd1zar2H6"
@@ -1023,7 +1067,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 255173,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/5ot5K8NQtr8fCmhCxh7gmm"
@@ -1131,7 +1175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
@@ -1284,7 +1328,7 @@
         },
         {
           "name": "Jabba",
-          "url": "https://open.spotify.com/artist/6nT2wocvke8QUtHz8fCQCG"
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
         }
       ],
       "date_added": "2021-12-09",
@@ -1311,7 +1355,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 243013,
       "name": "Mujeres In The Club",
       "url": "https://open.spotify.com/track/0N3pBL7paIxuOsyFVf6kyk"
@@ -1445,7 +1489,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 212733,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
@@ -1947,7 +1991,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Rompe - Remix",
       "url": "https://open.spotify.com/track/0O5HIFPenTeh8oj1xRI5Hx"
@@ -2001,7 +2045,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 376026,
       "name": "Royal Rumble (Se Van)",
       "url": "https://open.spotify.com/track/0UAGQMu69SmPBLSVNVK2D0"
@@ -2297,7 +2341,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 218106,
       "name": "Tu Quieres Duro",
       "url": "https://open.spotify.com/track/5QpUAyROQsLtNLPY5TJcFv"
@@ -2337,7 +2381,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 207480,
       "name": "Vamos Pa' la Calle",
       "url": "https://open.spotify.com/track/23mxI8WrJJx5SF1M5HirFX"
@@ -2381,7 +2425,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-12",
       "duration_ms": 249600,
       "name": "YO LE LLEGO",
       "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"

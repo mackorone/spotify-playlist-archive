@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3TymQFosH9UgfP5jV5mPEe.md) - [plain]
 
 > Smooth soulful tracks to ease your troubled mind...
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 21 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 21 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

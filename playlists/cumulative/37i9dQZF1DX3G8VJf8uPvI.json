@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 288213,
       "name": "Black Bart",
       "url": "https://open.spotify.com/track/2jsLezAzl2v7TnrfYzghI5"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 155720,
       "name": "Blasteroid",
       "url": "https://open.spotify.com/track/1jJ2pE8M6yLac4VzyEMKaZ"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 237128,
       "name": "Blood Plague",
       "url": "https://open.spotify.com/track/31YoNg0KcXAxXI528frzy8"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 178480,
       "name": "Break Shit",
       "url": "https://open.spotify.com/track/5w6uFqMAiCD1Ez531W9hMQ"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 364959,
       "name": "Calm The Fire",
       "url": "https://open.spotify.com/track/52rThmRcia8i9kWasOiWiZ"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 230280,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/3YLEdHIzFFeijuZoRidbJl"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 440173,
       "name": "Dear Father",
       "url": "https://open.spotify.com/track/3zjDIbQ3lLWXekq1PBVYM9"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "The Hydra's Tailor",
+        "url": "https://open.spotify.com/album/3wjUG8GBP3z9uAoZ8syjJ4"
+      },
+      "artists": [
+        {
+          "name": "Deadly Circus Fire",
+          "url": "https://open.spotify.com/artist/4IROpspOAvIZu2if8IS5z5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 229880,
+      "name": "Devil's Opera",
+      "url": "https://open.spotify.com/track/4Dqxz6HKs4tXRE1voRdfKd"
+    },
+    {
+      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 389597,
       "name": "Dream No More",
       "url": "https://open.spotify.com/track/1dzmb0UZZatm5VCD8fI8UF"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-29",
       "duration_ms": 203933,
       "name": "Feast Your Eyes",
       "url": "https://open.spotify.com/track/3qwRA8Q3e77HVNnBqMoRko"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 228853,
       "name": "Finite",
       "url": "https://open.spotify.com/track/6TWDSWEcRSnk31uOrW78PP"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 215099,
       "name": "Fire Storm Hotel",
       "url": "https://open.spotify.com/track/1G2RgfdIIAeyyRjUO5maoA"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-13",
       "duration_ms": 204253,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/550F6HvOEh526ntB8IdNKA"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 221826,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/24T4UOnMdWu1x2RgySPBrS"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 355080,
       "name": "Have a Blast",
       "url": "https://open.spotify.com/track/6ChrdtKcAFOtbTRDoRPtwK"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 249960,
       "name": "Hel",
       "url": "https://open.spotify.com/track/2a3ZCoexhie7dxcdNZnArv"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 240760,
       "name": "Helvetios",
       "url": "https://open.spotify.com/track/2ONx4h2enieY9QyG2I2J1S"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 300358,
       "name": "Illuminoid Dream Sequence",
       "url": "https://open.spotify.com/track/1fkQAeBYPKlTxDaUP4xV9X"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 234866,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3RU3ptFhXXTBZveJYC8Ecb"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 260028,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/5mcXjs0BTknEOT2A5OGzsZ"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 306826,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/59s5LvLmDIxYJa4j4Stuvo"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 334653,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/3zJO3y2rH8oZma5yYbLRoC"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 183933,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/3hoImMP49O21VbiDaZaTkJ"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 265102,
       "name": "Mire",
       "url": "https://open.spotify.com/track/1cPJZSnwIfDlNah8cW6PUo"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Nothing Left To Say",
       "url": "https://open.spotify.com/track/7G47PV1SRDZa4EY2mzf9un"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 356306,
       "name": "Planets",
       "url": "https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 307894,
       "name": "Room 24",
       "url": "https://open.spotify.com/track/0B3ALwX9rlqegfSLoFnx4E"
@@ -3505,7 +3523,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 252537,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/05GmCXL5kfsrPZnRSh40IU"
@@ -3685,7 +3703,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 207586,
       "name": "Slaves to Substance",
       "url": "https://open.spotify.com/track/28oBCzgCSXpT1h7os9uBX5"
@@ -3829,7 +3847,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-11",
       "duration_ms": 224226,
       "name": "Stand Defiant",
       "url": "https://open.spotify.com/track/6jojG2tSfBO7Ms4VhAxZ3F"
@@ -4009,7 +4027,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 397655,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/4l2vvgosC9Fjd7S6Ofwl3B"
@@ -4135,7 +4153,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 210333,
       "name": "The New Awakening",
       "url": "https://open.spotify.com/track/75ekIYzgzJNza1BX2xDUGI"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 248322,
       "name": "The Void",
       "url": "https://open.spotify.com/track/6zCi9GMZnV1mjezkVLHRnB"
@@ -4243,7 +4261,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-14",
       "duration_ms": 288186,
       "name": "The Waiting One",
       "url": "https://open.spotify.com/track/4hfVIGsNiEskkK77AfC2lG"
@@ -4279,7 +4297,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 187012,
       "name": "Thirty Three",
       "url": "https://open.spotify.com/track/0qOUuIgtAPgh5bE7Mf5upL"
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 219573,
       "name": "Tracing Back Roots",
       "url": "https://open.spotify.com/track/1ygic9dqLlC25Dir5f6TDy"
@@ -4441,7 +4459,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 210960,
       "name": "True",
       "url": "https://open.spotify.com/track/1YnpLhUsvqQ8lDZTg30m4s"
@@ -4675,7 +4693,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 278788,
       "name": "Volatile",
       "url": "https://open.spotify.com/track/6y6ht2b9DLT5Ih6oF2hzOX"
@@ -4790,6 +4808,24 @@
     },
     {
       "album": {
+        "name": "The Hydra's Tailor",
+        "url": "https://open.spotify.com/album/3wjUG8GBP3z9uAoZ8syjJ4"
+      },
+      "artists": [
+        {
+          "name": "Deadly Circus Fire",
+          "url": "https://open.spotify.com/artist/4IROpspOAvIZu2if8IS5z5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404853,
+      "name": "Where It Lies",
+      "url": "https://open.spotify.com/track/2omkbMYebAvhY2dRAxeiFF"
+    },
+    {
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/4HPjQ1ZIgPYcIgTGJx9n3d"
       },
@@ -4819,7 +4855,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 290415,
       "name": "White Light",
       "url": "https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE"
@@ -4873,7 +4909,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 182316,
       "name": "You",
       "url": "https://open.spotify.com/track/2ocsBG8GVjITjFCbgZeqXW"

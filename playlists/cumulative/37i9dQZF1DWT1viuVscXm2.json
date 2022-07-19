@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A bailar con la mejor cumbia sudamericana. Foto: Los Palmeras & Neo Pistea.",
+  "description": "A bailar con la mejor cumbia sudamericana. Foto: Rafaga.",
   "name": "Esto es Cumbia",
   "published_playlist_ids": [
     "2BOWiJCT4dyOyema50dxx0"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Dios Le Pido / Hielo y Fuego (En Vivo)",
+        "url": "https://open.spotify.com/album/0x4xEO6qKrZ1Cy7byzFaot"
+      },
+      "artists": [
+        {
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
+        },
+        {
+          "name": "Karavana Quartetera",
+          "url": "https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 221491,
+      "name": "A Dios Le P\u00ecdo / Hielo y Fuego - En Vivo",
+      "url": "https://open.spotify.com/track/2RpU62wIMTwZKNc5PboVI9"
+    },
     {
       "album": {
         "name": "La Reina",
@@ -77,7 +99,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 234134,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/2UQRIy37YblE8WzcdLTWhZ"
@@ -171,7 +193,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 155155,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/6myCH3KW7agYRLmqgekFJd"
@@ -374,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "album": {
         "name": "Letras al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs"
       },
@@ -396,6 +436,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo le Gusta",
+        "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190138,
+      "name": "C\u00f3mo le Gusta",
+      "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Olvidarte",
         "url": "https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G"
       },
@@ -415,7 +473,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 171188,
       "name": "C\u00f3mo Olvidarte",
       "url": "https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO"
@@ -589,7 +647,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 174143,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/23Kku3qq2hoS385N6QKRss"
@@ -1006,6 +1064,28 @@
     },
     {
       "album": {
+        "name": "La Barca (feat. Kapanga)",
+        "url": "https://open.spotify.com/album/3Ee97SV2mpFqD0RJgLYUZK"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        },
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177435,
+      "name": "La Barca (feat. Kapanga)",
+      "url": "https://open.spotify.com/track/5sXwOkjF8KDJLSJU2SbPf9"
+    },
+    {
+      "album": {
         "name": "Renovado",
         "url": "https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36"
       },
@@ -1093,7 +1173,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 189106,
       "name": "La Pollera Amarilla",
       "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
@@ -1163,6 +1243,24 @@
       "duration_ms": 228125,
       "name": "Lagrimas de Amor",
       "url": "https://open.spotify.com/track/6E2LReyKXcrLp1TUBGv4ss"
+    },
+    {
+      "album": {
+        "name": "Las Solteras",
+        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 200286,
+      "name": "Las Solteras",
+      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
     },
     {
       "album": {
@@ -1323,7 +1421,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 211168,
       "name": "Me Muero de Amor",
       "url": "https://open.spotify.com/track/2xehAYLTwH1nQYNfamKkMf"
@@ -1389,6 +1487,24 @@
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/2hsuC2WkNh4VsjwwskpGYd"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216988,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/2JXaOJZnumm7QnN8Oub2K8"
     },
     {
       "album": {
@@ -1644,6 +1760,32 @@
     },
     {
       "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/5L31DZVxy3JHpFalfYXKDp"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/4EDCymZo79P1adudaFnOmj"
+    },
+    {
+      "album": {
         "name": "Pensando Record\u00e9",
         "url": "https://open.spotify.com/album/6itNbVzsvRFmhgvl2Q4Ldi"
       },
@@ -1718,6 +1860,24 @@
     },
     {
       "album": {
+        "name": "Por Si Un D\u00eda Vuelves",
+        "url": "https://open.spotify.com/album/3I4Gw0LjdYKEVne7lF2FZr"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 162222,
+      "name": "Por Si Un D\u00eda Vuelves",
+      "url": "https://open.spotify.com/track/1Kse9DjegXSKMVYpXFMBhg"
+    },
+    {
+      "album": {
         "name": "Que Nadie Sepa Mi Sufrir",
         "url": "https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY"
       },
@@ -1737,6 +1897,24 @@
       "duration_ms": 255960,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/2SQTteM7L4POuyKcMHpsoG"
+    },
+    {
+      "album": {
+        "name": "Rompiendo el Silencio",
+        "url": "https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176509,
+      "name": "Quieres Ser Mi Amante",
+      "url": "https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl"
     },
     {
       "album": {
@@ -1987,7 +2165,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 203276,
       "name": "Te Arrepentir\u00e1s (feat. Karina & La Joaqui)",
       "url": "https://open.spotify.com/track/5fPwHCqTQMOZmu25WrfRFD"
@@ -2117,7 +2295,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 168751,
       "name": "Turreto",
       "url": "https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE"
@@ -2157,6 +2335,28 @@
       "duration_ms": 240853,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+    },
+    {
+      "album": {
+        "name": "Una Mujer Como T\u00fa",
+        "url": "https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224512,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA"
     },
     {
       "album": {
@@ -2291,6 +2491,28 @@
       "duration_ms": 224655,
       "name": "Ya Re Fue",
       "url": "https://open.spotify.com/track/1XbWDGxWXD69Lsi9R5tq6Q"
+    },
+    {
+      "album": {
+        "name": "Yo Soy As\u00ed",
+        "url": "https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Gast\u00f3n Angrisani",
+          "url": "https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm"
     },
     {
       "album": {

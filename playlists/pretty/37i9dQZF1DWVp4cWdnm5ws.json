@@ -1,13 +1,45 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 53918,
+  "num_followers": 55239,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2NzQ0NiwwMDAwMDAwMDE2NDlhZjRjMzgwOTYzNzkzMjYzNjI2NjFjZmQxMGVi",
+  "snapshot_id": "MTY1ODE5MzMzOSwwMDAwMDAwMGQ1ZTI0YWM2ZTVlOTI3ZTBjOGUwOGFkY2JiZjdiNDk1",
   "tracks": [
+    {
+      "added_at": "2022-07-15 09:00:00",
+      "album": {
+        "name": "Tumitigil Ang Mundo",
+        "url": "https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "duration_ms": 247670,
+      "name": "Tumitigil Ang Mundo",
+      "url": "https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Lagi",
+        "url": "https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 256410,
+      "name": "Lagi",
+      "url": "https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8"
+    },
     {
       "added_at": "2022-04-28 16:00:00",
       "album": {

@@ -161,19 +161,19 @@
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209400,
-      "name": "Best Part (feat. Daniel Caesar)",
+      "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
     },
     {
@@ -819,7 +819,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231933,
-      "name": "Luka - Live",
+      "name": "Luka",
       "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
     },
     {

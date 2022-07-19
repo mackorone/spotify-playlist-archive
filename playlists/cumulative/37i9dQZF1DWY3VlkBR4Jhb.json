@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 796320,
       "name": "Arpeggione Sonata in A Minor, D. 821, \"Arpeggione\": I. Allegro moderato",
       "url": "https://open.spotify.com/track/3cZo0kMDKVpybhAkJVU57p"
@@ -1144,7 +1144,7 @@
     },
     {
       "album": {
-        "name": "Schubert: Quintet and Lieder",
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
         "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
       "artists": [
@@ -1155,6 +1155,10 @@
         {
           "name": "Quatuor \u00c9b\u00e8ne",
           "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         }
       ],
       "date_added": "2021-10-22",
@@ -1218,6 +1222,28 @@
     },
     {
       "album": {
+        "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, 'Kupelwieser Walzer'",
+        "url": "https://open.spotify.com/album/2YO6S0ZS95UpPqZcTqn0yi"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, \"Kupelwieser Walzer\"",
+      "url": "https://open.spotify.com/track/2XVPMHh86z4M8ghTw5xvxn"
+    },
+    {
+      "album": {
         "name": "Schubert: Lieder",
         "url": "https://open.spotify.com/album/4NM5hsDkH3KqdpzMG90hwE"
       },
@@ -1267,6 +1293,32 @@
       "duration_ms": 254560,
       "name": "Schwanengesang, D. 957: IV. St\u00e4ndchen",
       "url": "https://open.spotify.com/track/2egYFLjRGuzt8lYM1Yznz2"
+    },
+    {
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/6RrUd0w7ocinVqBtrflUBO"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Doris Orsan",
+          "url": "https://open.spotify.com/artist/3l0rekohxHXIySzcHeyHDS"
+        },
+        {
+          "name": "Johannes Tonio Kreusch",
+          "url": "https://open.spotify.com/artist/6blLk2AlQMfZqZPQTd0dQs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640400,
+      "name": "Sonata Arpeggione in A Minor, D. 821 (Arr. for Violin and Guitar by Johannes Tonio Kreusch):: I. Allegro Moderato",
+      "url": "https://open.spotify.com/track/2lO99iwS0Gg1HJIzfb7pnz"
     },
     {
       "album": {
@@ -1541,6 +1593,32 @@
       "duration_ms": 816333,
       "name": "Symphony No. 9 in C Major, D. 944 \"Great\": II. Andante con moto",
       "url": "https://open.spotify.com/track/4HLN0plDb30UwLJSHgxJQQ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphonies Nos. 8 \"Unfinished\" & 9 \"The Great\"",
+        "url": "https://open.spotify.com/album/7HYWPIMMrG70Ub1AQ2iorC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 910491,
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/5T6Y0sFRBDF2LxfGGo90Zc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Babas\u00f3nicos",
+  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: El Cuarteto de Nos",
   "name": "Nuevo Rock Latino",
   "published_playlist_ids": [
     "0l9Wh8w43fBjYdr4AnAill"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 227346,
       "name": "1,2,3,4 - Los Cogelones Remix",
       "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 94921,
       "name": "Amor Es Dinero / Remo Erdosain",
       "url": "https://open.spotify.com/track/7pExh21ZPAIiH5mPn3sjYB"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 228300,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/0oTcViTLu2nPJvrlspoem5"
@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Maldito Show",
+        "url": "https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247617,
+      "name": "Maldito Show",
+      "url": "https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR"
+    },
+    {
+      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg"
       },
@@ -1107,6 +1125,42 @@
       "duration_ms": 303326,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj"
+    },
+    {
+      "album": {
+        "name": "Matizando",
+        "url": "https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214069,
+      "name": "Matizando",
+      "url": "https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO"
+    },
+    {
+      "album": {
+        "name": "Me Dijiste Tu Nombre",
+        "url": "https://open.spotify.com/album/4WUxXkSkjKAViAxa4aS1a9"
+      },
+      "artists": [
+        {
+          "name": "Las Sombras",
+          "url": "https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Me Dijiste Tu Nombre",
+      "url": "https://open.spotify.com/track/6V2WUdjJeJ6rBEFLLKy3Mc"
     },
     {
       "album": {
@@ -1498,6 +1552,28 @@
     },
     {
       "album": {
+        "name": "El primero de los cobardes",
+        "url": "https://open.spotify.com/album/2QzcNogfRCuTRAPejrEPhO"
+      },
+      "artists": [
+        {
+          "name": "Diego Pez & los Pernoctantes",
+          "url": "https://open.spotify.com/artist/1UVUdDwXsDQe8TtUqJnlLm"
+        },
+        {
+          "name": "Ernesto Tab\u00e1rez",
+          "url": "https://open.spotify.com/artist/2sSK0x3cGIogax2VPqE5Gt"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156345,
+      "name": "Plaza de oriente",
+      "url": "https://open.spotify.com/track/4mEhwiGVVcvBEoz3OS6pFj"
+    },
+    {
+      "album": {
         "name": "Pop para el Fin del Mundo",
         "url": "https://open.spotify.com/album/64XG3pFyj5Z6YLjHsGriYI"
       },
@@ -1697,7 +1773,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 108000,
       "name": "Soy Basura",
       "url": "https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD"
@@ -1751,7 +1827,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 233885,
       "name": "S\u00f3lo Eres T\u00fa",
       "url": "https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z"
@@ -1773,7 +1849,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 123825,
       "name": "Tantas veces me he jugado el coraz\u00f3n que lo he perdido (feat. Loquillo)",
       "url": "https://open.spotify.com/track/3b1BWWQf6DK7gFnMJk8AL8"
@@ -1893,6 +1969,32 @@
       "duration_ms": 227376,
       "name": "Todos los Vientos",
       "url": "https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG"
+    },
+    {
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/0TukmDirFYnYRN5OehV4CO"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237035,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8"
     },
     {
       "album": {
@@ -2031,6 +2133,24 @@
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+    },
+    {
+      "album": {
+        "name": "Viaje de Transformaci\u00f3n",
+        "url": "https://open.spotify.com/album/7cFb6mKSwuJgTRHvgBdi9f"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303571,
+      "name": "Viaje de Transformaci\u00f3n",
+      "url": "https://open.spotify.com/track/7djYOIhFHb53qGaYo3zHhS"
     },
     {
       "album": {

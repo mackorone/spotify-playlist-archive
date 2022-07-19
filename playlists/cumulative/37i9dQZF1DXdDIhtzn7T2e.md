@@ -4,16 +4,18 @@
 
 > Let these country tunes light up your day
 
-64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+67 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Friend With Weed](https://open.spotify.com/track/6NaIoL9AXmj7Lirhaxyplw) | [Kyle Daniel](https://open.spotify.com/artist/1sMZfMdtizSlYjtZgQFXaz) | [A Friend With Weed](https://open.spotify.com/album/4eJ8jfDaJqkc1RHpiSKWq1) | 2:58 | 2021-04-20 |  |
 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 | 2021-04-20 |  |
 | [All Time High](https://open.spotify.com/track/3TEbThqomZVo8Fpe5TiWfW) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:52 | 2021-04-20 |  |
+| [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 |  |
 | [Boys From Oklahoma](https://open.spotify.com/track/3R2TX8QbAKYE6ldlrnirrY) | [Boys From Oklahoma](https://open.spotify.com/artist/71l8QhJo5TLQzFbGJursbf) | [Outlaw Trails](https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP) | 5:01 | 2021-04-20 |  |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2021-04-20 |  |
 | [Don't Bogart Me \(aka Don't Bogart That Joint\)](https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS) | [The Fraternity Of Man](https://open.spotify.com/artist/1e3oBLWpiu34xzdzOIdNzS) | [Easy Rider \(Music From The Soundtrack\)](https://open.spotify.com/album/53Eub84MQoBDpOV1KVNQaf) | 3:06 | 2021-04-20 |  |
+| [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 | 2022-07-08 |  |
 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 | 2021-04-20 |  |
 | [Easy on the Trigger](https://open.spotify.com/track/1MG6WgoUuXCaPIWMqOQqn6) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Easy on the Trigger](https://open.spotify.com/album/3ZyvR4UtdxgvNx9gllISB9) | 2:33 | 2021-11-26 |  |
 | [Electric Bill](https://open.spotify.com/track/61euBDYvR2Pp9pjggyeLTc) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Dark & Dirty Mile](https://open.spotify.com/album/21iBaD9BflnoP75s2bP0MO) | 3:15 | 2021-04-20 |  |
@@ -53,6 +55,7 @@
 | [Stop Drop and Roll One](https://open.spotify.com/track/2Je5HiZUABcRsPV6DQwhph) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:02 | 2021-04-20 |  |
 | [Sun Daze](https://open.spotify.com/track/0El2Zyt68nYySFDG87hZgM) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:04 | 2021-04-20 |  |
 | [That's Alright With Me](https://open.spotify.com/track/1CWNDz7nWdroQZjji9GmAE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Wild Ones \(Deluxe\)](https://open.spotify.com/album/3rvfQP9TlSJGjFMkhNEDtY) | 3:36 | 2021-04-20 |  |
+| [The Cannabis Cowboy](https://open.spotify.com/track/1mJyMvJoHJGiNs7NCxpd7l) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [The Cannabis Cowboy](https://open.spotify.com/album/550hySPdjcyx1HSsdIrI4F) | 3:39 | 2022-05-20 |  |
 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 | 2021-11-26 |  |
 | [Them Stems](https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 | 2021-04-20 |  |
 | [They Call Me Cadillac](https://open.spotify.com/track/7FtLb4VBIBVDslXESrCOQP) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [They Call Me Cadillac](https://open.spotify.com/album/6j9RPVwV4Ca1mmq6FtSBKw) | 2:59 | 2021-04-20 |  |

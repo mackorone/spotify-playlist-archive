@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 
 > Psych yourself up for whatever you've got going...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 182 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,421 likes - 182 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 | 133 | [Psycho](https://open.spotify.com/track/3WLfwlGFy5f2A4O1daqeq8) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Psycho](https://open.spotify.com/album/5PjJxigUDDDrBhGO2FZ5sV) | 5:16 |
 | 134 | [Hallelujah](https://open.spotify.com/track/4YgHATLbR0upDqxTKIvvvc) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Hallelujah](https://open.spotify.com/album/0qsSKV2zfYH1YXcVRIzjxg) | 3:00 |
 | 135 | [Something's Gotta Give](https://open.spotify.com/track/6OPoF9qiuV2dNfJ44w3X4M) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/6SdmyV1DoEIWU6HDal5BgY) | 3:09 |
-| 136 | [Barbarian](https://open.spotify.com/track/0UKtjwfiB5qYwajsdIC68H) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Barbarian](https://open.spotify.com/album/5ZMuCXxXI5yMFGQfodMXE0) | 3:32 |
+| 136 | [Barbarian](https://open.spotify.com/track/0UKtjwfiB5qYwajsdIC68H) | [The Darkness](https://open.spotify.com/artist/5X78xXiy29ftPxtVqWP0Gj) | [Barbarian](https://open.spotify.com/album/5ZMuCXxXI5yMFGQfodMXE0) | 3:32 |
 | 137 | [Hate To Say I Told You So](https://open.spotify.com/track/5MjxA0iKBexRxwVfDDrdnt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Your New Favourite Band](https://open.spotify.com/album/6dO1bXWSqKofUUsgygq0bb) | 3:19 |
 | 138 | [The Rockafeller Skank](https://open.spotify.com/track/2aN2OrAWq6IW0TDmN28Mgj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Skint On TV](https://open.spotify.com/album/5VqGUv5nGmFcxVMEsojbTm) | 6:53 |
 | 139 | [Sick for Me \(feat\. Bear Hands\)](https://open.spotify.com/track/7jVFODQGxTvxMoVXL1I9NK) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Bear Hands](https://open.spotify.com/artist/3ViZST9PgFoieuOHY2GZMp) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 3:39 |

@@ -1,44 +1,28 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 32374,
+  "num_followers": 33917,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzg3MSwwMDAwMDAwMDNlZTBmN2ZlMDlhOTZlYzhhNmRkOTFmNzFmODhiMzcz",
+  "snapshot_id": "MTY1ODE5NDM2NSwwMDAwMDAwMGI2ODM5ZmNlZWI0OWEzYTgxMGMzYTY4YzBjNDczMjI0",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Mardi Gras Blues",
-        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
       },
       "artists": [
         {
-          "name": "Roy Montrell",
-          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 147053,
-      "name": "(Every Time I Hear) That Mellow Saxophone",
-      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+      "duration_ms": 179626,
+      "name": "Shake, Rattle and Roll",
+      "url": "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -59,18 +43,34 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Wake Up And Live!",
+        "url": "https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 139466,
+      "name": "450 Pound Woman",
+      "url": "https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Ain't Nobody Here but Us Chickens",
+      "url": "https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -91,24 +91,24 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "The Swallows",
-          "url": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 156653,
-      "name": "It Ain't The Meat, It's The Motion",
-      "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Information Blues",
-        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
+        "name": "Roy Milton And His Solid Senders",
+        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
       },
       "artists": [
         {
@@ -116,57 +116,9 @@
           "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
         }
       ],
-      "duration_ms": 164706,
+      "duration_ms": 163840,
       "name": "Big Fat Mama",
-      "url": "https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Dootone Rock 'n' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh"
-      },
-      "artists": [
-        {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
-        }
-      ],
-      "duration_ms": 136226,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Swingsation: Lionel Hampton",
-        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
-      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N"
+      "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -180,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 145443,
-      "name": "Lovin' Machine",
-      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -207,150 +159,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+        "name": "Jimmy Liggins And His Drops Of Joy",
+        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+          "name": "Jimmy Liggins and His Drops Of Joy",
+          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
         }
       ],
-      "duration_ms": 179626,
-      "name": "Shake, Rattle and Roll",
-      "url": "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The EP Collection... Plus",
-        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Blues Ballads",
-        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
-      },
-      "artists": [
-        {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
-        },
-        {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Going Back To New Orleans",
-      "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jack, You're Dead: The Essential Blue Archive",
-        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Ain't Nobody Here but Us Chickens",
-      "url": "https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Complete Imperial Recordings: 1950-1954",
-        "url": "https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a"
+      "duration_ms": 156733,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -371,234 +191,34 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Dootone Rock 'n' Rhythm & Blues",
+        "url": "https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Wild Wild Young Men",
-      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+      "duration_ms": 136226,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B"
     },
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Summer Blues Essentials",
-        "url": "https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Skeet's California Sunshine",
-      "url": "https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
-      },
-      "artists": [
-        {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
-        },
-        {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
-        }
-      ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Cadillac Songs",
-        "url": "https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Liggins",
-          "url": "https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
-        }
-      ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
-      },
-      "artists": [
-        {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Wake Up And Live!",
-        "url": "https://open.spotify.com/album/3g1sF0zm03qghoAmMlGcpt"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "450 Pound Woman",
-      "url": "https://open.spotify.com/track/66v57SIfLYJYGYu2WkWiSJ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Real R'n'B and Soul (Lost and Found 2)",
-        "url": "https://open.spotify.com/album/6bThGExgy1Y415PO9esT13"
-      },
-      "artists": [
-        {
-          "name": "Big T. Tyler",
-          "url": "https://open.spotify.com/artist/47DP9iiYF1bvMDIGFiV3tc"
-        }
-      ],
-      "duration_ms": 119949,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
-      },
-      "artists": [
-        {
-          "name": "The Treniers",
-          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Say Hey (The Willie Mays Song)",
-      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
+      "duration_ms": 324453,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -623,18 +243,166 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Boogie Woogie! Legends Of Jump Blues",
-        "url": "https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ"
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
       },
       "artists": [
         {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 150800,
-      "name": "Oh Babe!",
-      "url": "https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0"
+      "duration_ms": 145443,
+      "name": "Lovin' Machine",
+      "url": "https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Going Back To New Orleans",
+      "url": "https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection... Plus",
+        "url": "https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX"
+      },
+      "artists": [
+        {
+          "name": "The Swallows",
+          "url": "https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "It Ain't The Meat, It's The Motion",
+      "url": "https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Wild Wild Young Men",
+      "url": "https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
+      },
+      "artists": [
+        {
+          "name": "The Treniers",
+          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Say Hey (The Willie Mays Song)",
+      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Real R'n'B and Soul (Lost and Found 2)",
+        "url": "https://open.spotify.com/album/6bThGExgy1Y415PO9esT13"
+      },
+      "artists": [
+        {
+          "name": "Big T. Tyler",
+          "url": "https://open.spotify.com/artist/47DP9iiYF1bvMDIGFiV3tc"
+        }
+      ],
+      "duration_ms": 119949,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -655,6 +423,154 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+      },
+      "artists": [
+        {
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Mardi Gras Blues",
+        "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
+      },
+      "artists": [
+        {
+          "name": "Roy Montrell",
+          "url": "https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "(Every Time I Hear) That Mellow Saxophone",
+      "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Swingsation: Lionel Hampton",
+        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
+      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Summer Blues Essentials",
+        "url": "https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U"
+      },
+      "artists": [
+        {
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Skeet's California Sunshine",
+      "url": "https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Great R&B Instrumentals",
         "url": "https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL"
       },
@@ -671,18 +587,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+        "name": "The Complete Imperial Recordings: 1950-1954",
+        "url": "https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2"
       },
       "artists": [
         {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -699,22 +615,6 @@
       "duration_ms": 119720,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -751,6 +651,106 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+        }
+      ],
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Boogie Woogie! Legends Of Jump Blues",
+        "url": "https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 150800,
+      "name": "Oh Babe!",
+      "url": "https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "28 Big Ones",
         "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
       },
@@ -767,34 +767,34 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
+        "name": "Cadillac Songs",
+        "url": "https://open.spotify.com/album/7kOOaH8l9HT6009jqUEDms"
       },
       "artists": [
         {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
+          "name": "Jimmy Liggins",
+          "url": "https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF"
         }
       ],
-      "duration_ms": 156733,
+      "duration_ms": 157666,
       "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
+      "url": "https://open.spotify.com/track/6eYWirDI4Dxrl8wOzz1b4P"
     },
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Roy Milton And His Solid Senders",
-        "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
+        "name": "Risque Blues - My Ding-A-Ling",
+        "url": "https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d"
       },
       "artists": [
         {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Big Fat Mama",
-      "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
+      "duration_ms": 148466,
+      "name": "Butcher Pete (Part 1)",
+      "url": "https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu"
     }
   ],
   "unique_name": "Jump Blues",

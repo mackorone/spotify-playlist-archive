@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois en 2021: les choix de notre \u00e9quipe \u00e9ditoriale.\u00a0Photo: Lost",
-  "num_followers": 1305,
+  "num_followers": 1810,
   "original_name": "Le meilleur du rap qu\u00e9b\u00e9cois 2021 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5MzIzMywwMDAwMDAwNTAwMDAwMTdkOTVhNjI1OTcwMDAwMDE3ZDVlMWU0YzM1",
+  "snapshot_id": "MTY1MjQxNDc1MywwMDAwMDAwNjAwMDAwMTgwYmI5ODJhNDQwMDAwMDE3ZDVlMWU0YzM1",
   "tracks": [
     {
       "added_at": "2021-12-07 16:07:13",
@@ -55,6 +55,30 @@
       "duration_ms": 219946,
       "name": "Les apparences",
       "url": "https://open.spotify.com/track/5AgzQ7UOy6Hp7CccataLlw"
+    },
+    {
+      "added_at": "2021-12-07 16:07:13",
+      "album": {
+        "name": "Les trois \u00e9toiles",
+        "url": "https://open.spotify.com/album/1nGLg9pTyHuSAm5j4fGiF6"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Yung Duce",
+          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
+        }
+      ],
+      "duration_ms": 229441,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2ptGO7wZZEewt7G3AA9QuN"
     },
     {
       "added_at": "2021-12-07 16:07:13",
@@ -187,30 +211,6 @@
       "duration_ms": 228750,
       "name": "Contr\u00f4l\u00e9 par les m\u00e9dias",
       "url": "https://open.spotify.com/track/57xb3fwKUjmvmvzmGbiXW4"
-    },
-    {
-      "added_at": "2021-12-07 16:07:13",
-      "album": {
-        "name": "Les trois \u00e9toiles",
-        "url": "https://open.spotify.com/album/1nGLg9pTyHuSAm5j4fGiF6"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        },
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        },
-        {
-          "name": "Yung Duce",
-          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
-        }
-      ],
-      "duration_ms": 229441,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2ptGO7wZZEewt7G3AA9QuN"
     },
     {
       "added_at": "2021-12-07 16:07:13",

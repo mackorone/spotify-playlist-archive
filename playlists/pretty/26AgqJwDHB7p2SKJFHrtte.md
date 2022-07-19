@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/26AgqJwDHB7p2SKJFHrtte.md) - [plain]
 
 > ..\. and don't take yourself too seriously.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 27 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 27 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

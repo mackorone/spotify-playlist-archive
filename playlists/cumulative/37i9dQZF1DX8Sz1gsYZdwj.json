@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD"
+    },
+    {
+      "album": {
         "name": "My First Lullaby Album",
         "url": "https://open.spotify.com/album/7jWwkxxBUKtWGVv7xKnHhz"
       },
@@ -195,24 +213,6 @@
       "duration_ms": 293826,
       "name": "As Ballad",
       "url": "https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5"
-    },
-    {
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB"
-      },
-      "artists": [
-        {
-          "name": "Otto Wahl",
-          "url": "https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF"
-        }
-      ],
-      "date_added": "2021-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180773,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD"
     },
     {
       "album": {
@@ -543,6 +543,24 @@
       "duration_ms": 206749,
       "name": "Impromptu, No. 1",
       "url": "https://open.spotify.com/track/0n64jayPuTWrRP8EewJ6bJ"
+    },
+    {
+      "album": {
+        "name": "Sonic Apothecary",
+        "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
+      },
+      "artists": [
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
     },
     {
       "album": {
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 181546,
       "name": "Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",
       "url": "https://open.spotify.com/track/41g83Usxjh9TRoxNGGqTTU"

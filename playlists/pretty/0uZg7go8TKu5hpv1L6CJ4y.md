@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0uZg7go8TKu5hpv1L6CJ4y.md) - [plain]
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/track/0zPtG7pgl3IQAuM9628TgK) | [Leo Arnaud](https://open.spotify.com/artist/4rLxLJBKOB4CCTURxvyfwc), [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/album/69b19w8Oqk7o5ToKbllfrD) | 0:47 |
 | 2 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |
 | 3 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
-| 4 | [Safe and Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:12 |
+| 4 | [Safe And Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:13 |
 | 5 | [I Gotta Feeling](https://open.spotify.com/track/1u0aIMrEBvFkRtgcg264gW) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning & The Best Of The E.N.D\. \(International Mega\-Deluxe Version\)](https://open.spotify.com/album/5GJayigLJNxEvuDoCq0wVz) | 4:49 |
 | 6 | [Higher Love \- Single Version](https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:12 |
 | 7 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |

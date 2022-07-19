@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,337 likes - 62 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,984 likes - 62 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

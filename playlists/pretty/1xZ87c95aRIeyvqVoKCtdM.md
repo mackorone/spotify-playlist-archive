@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar, Sugar](https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Sugar, Sugar](https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC) | 2:49 |
-| 2 | [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical Hair](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 |
+| 2 | [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical "Hair"](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 |
 | 3 | [I Can't Get Next To You \- Single Version/Mono](https://open.spotify.com/track/5cS39Jh4zJeTTqwjtAcLfc) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Definitive Collection](https://open.spotify.com/album/5Tyak5Sjr8gxSDOE2ZDGQx) | 2:51 |
 | 4 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 5 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | 26 | [Spinning Wheel \- Single Version](https://open.spotify.com/track/170KEX2yqDDY8THliU4wff) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [The Best Of Blood, Sweat & Tears: What Goes Up!](https://open.spotify.com/album/6HmDkPqZSAFbJpIQNyXVli) | 4:06 |
 | 27 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |
 | 28 | [Hurt So Bad](https://open.spotify.com/track/04CMjrGSRLCkPeAA4aiMsK) | [The Lettermen](https://open.spotify.com/artist/3lzlUccNrekC1oFPCjNIOX) | [Capitol Collectors Series](https://open.spotify.com/album/60BxKKLrJ8lIcg4AKsIIzQ) | 2:19 |
-| 29 | [Green River](https://open.spotify.com/track/0mRLlcbMVGMjT5Pca8uMzl) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Chronicle: 20 Greatest Hits](https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV) | 2:33 |
+| 29 | [Green River \- Remastered 1985](https://open.spotify.com/track/0mRLlcbMVGMjT5Pca8uMzl) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Chronicle: 20 Greatest Hits](https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV) | 2:33 |
 | 30 | [My Cherie Amour](https://open.spotify.com/track/15ADOnvtKAnD5bgeUc7uE4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/21s1USjtAKu8YcswA64iQX) | 2:52 |
 | 31 | [Easy To Be Hard](https://open.spotify.com/track/2XZEAYYRMBvkY7c2Z8YGox) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [The Best Of 3 Dog Night](https://open.spotify.com/album/0hQ9bcocveWRrJ0Z2TbEa7) | 3:10 |
 | 32 | [Baby It's You](https://open.spotify.com/track/6DBdd6oYkrNFXAuZwXXBQo) | [Smith](https://open.spotify.com/artist/3rTApaPj4lsscY0OoDPnkP) | [Quentin Tarantino's Death Proof \(Standard Version\)](https://open.spotify.com/album/792e32l3F2OKtZdu8OSYzn) | 3:21 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | 38 | [Wedding Bell Blues \- Laura Nyro Cover](https://open.spotify.com/track/0bzNvVatHKKtAudmRvar8J) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 2:44 |
 | 39 | [Little Woman](https://open.spotify.com/track/1F2LTc315hFDs6GYnl9KFH) | [Bobby Sherman](https://open.spotify.com/artist/5Rsz3E1aovbqsmLQOxgK2y) | [The Wonderful World of the 70's: 100 Hit Songs](https://open.spotify.com/album/5pVffpSDVlqPRADnKRmSRE) | 2:25 |
 | 40 | [Love Can Make You Happy](https://open.spotify.com/track/5RlTopKNMnGMgFrvREcKgL) | [Mercy](https://open.spotify.com/artist/4958loju8eTBhBFO32oWQ6) | [Love Can Make You Happy](https://open.spotify.com/album/4g2SB9KDxWcVTWkRQqPmbu) | 3:28 |
-| 41 | [Good Morning Starshine \- Re\-Recording](https://open.spotify.com/track/2uPjNcKB9VIlWAOd26OQLH) | [Oliver](https://open.spotify.com/artist/3InmcxeVqp927p7YwKYEP9) | [The Sunshine Collection](https://open.spotify.com/album/0zhhkrvqmuHlScxUuUANth) | 3:38 |
+| 41 | [Good Morning Starshine \- Re\-Recording](https://open.spotify.com/track/2uPjNcKB9VIlWAOd26OQLH) | [Oliver](https://open.spotify.com/artist/3kn0edxse3lzsrrtrNTtyU) | [The Sunshine Collection](https://open.spotify.com/album/0zhhkrvqmuHlScxUuUANth) | 3:38 |
 | 42 | [These Eyes](https://open.spotify.com/track/3eNSdI9oriVPpuqkpO4h31) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The Best Of The Guess Who](https://open.spotify.com/album/5TZEAFmzvF0PU0ubgWzLI4) | 3:45 |
 | 43 | [You've Made Me So Very Happy](https://open.spotify.com/track/1VL7DLieQaRCjAEj0Kdzju) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Blood, Sweat & Tears](https://open.spotify.com/album/4mGSw7RUWGE7IGawdFGcjA) | 4:15 |
 | 44 | [Put A Little Love In Your Heart](https://open.spotify.com/track/1fQn0TtyvkS6PjdVOitG4p) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [The Very Best Of Jackie DeShannon](https://open.spotify.com/album/7kxfDfYncthSbWnXZ6NKFD) | 2:36 |

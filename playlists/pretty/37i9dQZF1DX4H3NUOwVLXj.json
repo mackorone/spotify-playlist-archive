@@ -1,12 +1,12 @@
 {
   "description": "Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.",
-  "num_followers": 995345,
+  "num_followers": 1013916,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ1NjQyNCwwMDAwMDAzOTAwMDAwMTdmY2ZhOGRjNGQwMDAwMDE2ZDE1MjdjYmE2",
+  "snapshot_id": "MTY1NTgyNDEyMywwMDAwMDAzYjAwMDAwMTgxODZjZjA3MDQwMDAwMDE2ZDE1MjdjYmE2",
   "tracks": [
     {
       "added_at": "2018-01-19 12:22:56",
@@ -27,6 +27,22 @@
       "duration_ms": 149640,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+    },
+    {
+      "added_at": "2018-01-19 12:22:56",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/7JzUaMFasZyjbnLobEHhb7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/1krJjodZxgpjs6luOlB9uO"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -83,22 +99,6 @@
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/7JzUaMFasZyjbnLobEHhb7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/1krJjodZxgpjs6luOlB9uO"
-    },
-    {
-      "added_at": "2018-01-19 12:22:56",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -143,6 +143,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2022-05-13 15:36:25",
+      "album": {
+        "name": "Goodbye (She Quietly Says) / Watertown [2022 Mix]",
+        "url": "https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Goodbye (She Quietly Says) - 2022 Mix",
+      "url": "https://open.spotify.com/track/2RZDNXFAMWrbdS62KTAggO"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -747,6 +763,22 @@
       "duration_ms": 206173,
       "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
       "url": "https://open.spotify.com/track/0pp87GAn8qE3eUfm7cdCRf"
+    },
+    {
+      "added_at": "2022-05-13 15:36:25",
+      "album": {
+        "name": "Goodbye (She Quietly Says) / Watertown [2022 Mix]",
+        "url": "https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Watertown - 2022 Mix",
+      "url": "https://open.spotify.com/track/0k4yvoJxWxJzQe6JpJZ07l"
     },
     {
       "added_at": "2018-01-19 12:22:56",

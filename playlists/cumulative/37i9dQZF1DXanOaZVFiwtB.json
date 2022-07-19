@@ -8,7 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "\u5ddd\u672c\u771f\u7434",
+        "name": "Makoto Kawamoto",
         "url": "https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip"
       },
       "artists": [
@@ -823,6 +823,24 @@
       "duration_ms": 258000,
       "name": "\u865a\u7a7a\u306e\u8ff7\u5bae",
       "url": "https://open.spotify.com/track/7w7BTGHrb0TOJDJtkBS3SL"
+    },
+    {
+      "album": {
+        "name": "\u8b0e",
+        "url": "https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u677e\u672a\u6b69",
+          "url": "https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275905,
+      "name": "\u8b0e",
+      "url": "https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k"
     },
     {
       "album": {

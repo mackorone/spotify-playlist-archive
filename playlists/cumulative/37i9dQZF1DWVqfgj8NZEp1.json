@@ -144,6 +144,28 @@
     },
     {
       "album": {
+        "name": "A Warm Hand",
+        "url": "https://open.spotify.com/album/5eDxoL7fRuACnX4gDF3I99"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        },
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273783,
+      "name": "A Warm Hand",
+      "url": "https://open.spotify.com/track/0kPGtWb0Bs0j3DW49kWbKh"
+    },
+    {
+      "album": {
         "name": "Absyrations",
         "url": "https://open.spotify.com/album/3v8U8oQdykY1kVF9IBg5nF"
       },
@@ -239,7 +261,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 232046,
       "name": "Almas vaggvisa",
       "url": "https://open.spotify.com/track/1AYtj1r4CcTiU6qMcmy0Hz"
@@ -561,7 +583,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 314573,
       "name": "Canci\u00f3n Y Danza VI",
       "url": "https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG"
@@ -863,7 +885,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 477173,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9"
@@ -965,6 +987,28 @@
       "duration_ms": 427431,
       "name": "Ev'rytime We Say Goodbye",
       "url": "https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih"
+    },
+    {
+      "album": {
+        "name": "The Artist",
+        "url": "https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363240,
+      "name": "Fabienne",
+      "url": "https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC"
     },
     {
       "album": {
@@ -1259,7 +1303,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 342373,
       "name": "Goodbye Pork Pie Hat",
       "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
@@ -1277,7 +1321,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-08",
       "duration_ms": 255106,
       "name": "Gramercy Sunset",
       "url": "https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt"
@@ -1477,7 +1521,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 428973,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7"
@@ -1597,7 +1641,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 66761,
       "name": "I'm a Fool to Want You",
       "url": "https://open.spotify.com/track/70S7sASwrZH3Fass66MKqJ"
@@ -2142,6 +2186,36 @@
     },
     {
       "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        },
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+        },
+        {
+          "name": "Kristian Leth",
+          "url": "https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372015,
+      "name": "My Reverie",
+      "url": "https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe"
+    },
+    {
+      "album": {
         "name": "Boss Tenor",
         "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
       },
@@ -2360,6 +2434,36 @@
     },
     {
       "album": {
+        "name": "Other Jewels",
+        "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347377,
+      "name": "Other Jewels",
+      "url": "https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6"
+    },
+    {
+      "album": {
         "name": "Inspirations & Dedications",
         "url": "https://open.spotify.com/album/29cOIY18Ltp3gisRUmNqh8"
       },
@@ -2437,7 +2541,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 588760,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/5FXIXX9FniNJfHd9DJrOop"
@@ -2703,6 +2807,24 @@
       "duration_ms": 340506,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2"
+    },
+    {
+      "album": {
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 432226,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
     },
     {
       "album": {
@@ -3111,7 +3233,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 341666,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/3wPZVnOScmpbn6JkWJxi3S"
@@ -3331,7 +3453,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 434866,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1"
@@ -3403,7 +3525,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 672520,
       "name": "Together",
       "url": "https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5"
@@ -3657,7 +3779,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 502619,
       "name": "When You Are Near",
       "url": "https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0"

@@ -1,13 +1,85 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 255874,
+  "num_followers": 258105,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAzMzAwMDAwMTgwNzM3YjkzMWEwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAzOTAwMDAwMTgxYjdlYzM3NjcwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1iAs2iKTFAL98vSxew3LrT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren Trio",
+          "url": "https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie"
+        }
+      ],
+      "duration_ms": 126329,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "A Fadin' Blue",
+        "url": "https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        },
+        {
+          "name": "The Rosenberg Trio",
+          "url": "https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu"
+        }
+      ],
+      "duration_ms": 189065,
+      "name": "A Fadin' Blue",
+      "url": "https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Miri Chterna",
+        "url": "https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        },
+        {
+          "name": "C\u00e9sar Poirier",
+          "url": "https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "Billet doux",
+      "url": "https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Joseph Joseph",
+        "url": "https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonious Wail",
+          "url": "https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "Joseph Joseph",
+      "url": "https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -45,6 +117,22 @@
       "url": "https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Nymph\u00e9as",
+        "url": "https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE"
+      },
+      "artists": [
+        {
+          "name": "Duane Andrews",
+          "url": "https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR"
+        }
+      ],
+      "duration_ms": 271236,
+      "name": "Nymph\u00e9as",
+      "url": "https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr"
+    },
+    {
       "added_at": "2021-05-25 23:58:49",
       "album": {
         "name": "Swing de Paris - Vol. 2",
@@ -63,6 +151,38 @@
       "duration_ms": 247693,
       "name": "Belleville",
       "url": "https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "For Holzmanno",
+        "url": "https://open.spotify.com/album/1YmXRKycHrJWdUrqEO2D4Q"
+      },
+      "artists": [
+        {
+          "name": "Wawau Adler",
+          "url": "https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "For Holzmanno",
+      "url": "https://open.spotify.com/track/3OsK1omdtWIlFoPFqvPwCQ"
+    },
+    {
+      "added_at": "2022-05-27 04:02:00",
+      "album": {
+        "name": "Coucou",
+        "url": "https://open.spotify.com/album/5ZPSCr10M050pYwZM2lDyn"
+      },
+      "artists": [
+        {
+          "name": "Tchavolo Schmitt",
+          "url": "https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
     },
     {
       "added_at": "2021-02-04 20:47:19",
@@ -343,6 +463,34 @@
       "duration_ms": 145586,
       "name": "Some Of These Days",
       "url": "https://open.spotify.com/track/4KPCtQYl2eAaZu8pTA6Mds"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Manh\u00e3 De Carnaval",
+        "url": "https://open.spotify.com/album/1jUp60E71hj9TfKDzmA9ZA"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "R\u00e9mi Oswald",
+          "url": "https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v"
+        },
+        {
+          "name": "\u00c9douard Pennes",
+          "url": "https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2"
+        },
+        {
+          "name": "French Connection",
+          "url": "https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/6QM1knKdwTPjiqOR9TfwnQ"
     },
     {
       "added_at": "2021-02-04 20:47:19",

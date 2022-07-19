@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWISLnAIWyCZ.md) - [plain]
 
 > 60 best recorded and engineered classical recordings to <a href="spotify:user:spotify:playlist:37i9dQZF1DWZtZ8vUCzche">test your headphones</a> or speakers with\.  Enjoy your best seat in legendary concert halls and recording studios around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,062 likes - 60 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,352 likes - 60 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

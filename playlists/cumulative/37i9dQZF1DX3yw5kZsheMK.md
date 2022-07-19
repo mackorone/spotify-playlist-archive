@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-81 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
+82 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/1CVYEU7K2k9rK1YsRxpkvZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [If There Is A Song](https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:43 | 2022-03-11 |  |
 | [If You Can't Sleep](https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX) | 2:48 | 2022-03-11 |  |
 | [It's a New Day](https://open.spotify.com/track/21AldKHuzpB5CNOLNPcrZt) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:13 | 2022-03-11 |  |
+| [It's Time to Go to Sleep](https://open.spotify.com/track/1ss4tJzutCvbAOJOtl8Hwd) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [It's Time to Go to Sleep](https://open.spotify.com/album/32PC9aY7h3YQVdPagTiyVL) | 3:35 | 2022-05-25 |  |
 | [It's You I Like](https://open.spotify.com/track/6ajyjxQLGHg37GEmMDgzNo) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 1:46 | 2022-03-11 |  |
 | [just be](https://open.spotify.com/track/0fsPJ6XJ34XJzzMwaz3xTy) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 1:13 | 2022-03-11 |  |
 | [Just for You](https://open.spotify.com/track/56tfCkVs0KJgF7qmGoc2oL) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Night Night!](https://open.spotify.com/album/3lXJ5A9A9UO6YOFSNGypoc) | 2:25 | 2022-03-11 |  |

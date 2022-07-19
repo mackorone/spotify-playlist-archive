@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 
 > Songs with some serious violin and cello action.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

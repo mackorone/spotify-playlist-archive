@@ -37,10 +37,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
+    },
+    {
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 243560,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-07",
       "duration_ms": 220786,
       "name": "Don't Turn Me Away",
       "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-26",
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
@@ -458,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "album": {
         "name": "JT",
         "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
       },
@@ -469,7 +505,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-11",
       "duration_ms": 185533,
       "name": "Honey Don't Leave L.A.",
       "url": "https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA"
@@ -505,7 +541,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "How Can This Be Love",
       "url": "https://open.spotify.com/track/0I2h9T7HeYjP9yALFN8dJt"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-07",
       "duration_ms": 227000,
       "name": "I'm a Camera",
       "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 204666,
       "name": "If I Saw You Again",
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-20",
       "duration_ms": 198240,
       "name": "Key Largo",
       "url": "https://open.spotify.com/track/4G14XbZpRGNcMTpxwRHrB2"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202600,
       "name": "Let Out",
       "url": "https://open.spotify.com/track/3q4aF4bp248tWr7lAyoFHe"
@@ -811,10 +847,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 224677,
       "name": "Melanie",
       "url": "https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE"
+    },
+    {
+      "album": {
+        "name": "Moonlight Feels Right",
+        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
+      },
+      "artists": [
+        {
+          "name": "Starbuck",
+          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221066,
+      "name": "Moonlight Feels Right",
+      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
     },
     {
       "album": {
@@ -829,7 +883,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "Moonlighting",
       "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
@@ -923,7 +977,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-16",
       "duration_ms": 221133,
       "name": "On the Beach",
       "url": "https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk"
@@ -941,7 +995,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
@@ -1265,7 +1319,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 220853,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ"
@@ -1283,7 +1337,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 285906,
       "name": "The Lady Wants to Know",
       "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
@@ -1319,7 +1373,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 261200,
       "name": "The Sailor's Song",
       "url": "https://open.spotify.com/track/0N4DPoheO9PBfubvvsckvt"
@@ -1470,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Best of Bish",
+        "url": "https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 215247,
+      "name": "Unfaithfully Yours (One Love)",
+      "url": "https://open.spotify.com/track/2JexeEgAiwFICCoy9Ysn9r"
+    },
+    {
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -1503,7 +1575,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 172240,
       "name": "We'll Never Have to Say Goodbye Again - Single Version",
       "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
@@ -1629,7 +1701,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-08",
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"

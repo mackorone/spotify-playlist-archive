@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,148 likes - 53 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,352 likes - 53 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

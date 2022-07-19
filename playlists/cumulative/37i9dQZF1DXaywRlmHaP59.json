@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Do3f Nazar",
+        "url": "https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP"
+      },
+      "artists": [
+        {
+          "name": "Melhem Zein",
+          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168392,
+      "name": "Do3f Nazar",
+      "url": "https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku"
+    },
+    {
+      "album": {
         "name": "El Bint El Awiye",
         "url": "https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF"
       },
@@ -937,24 +955,6 @@
       "duration_ms": 233522,
       "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E"
-    },
-    {
-      "album": {
-        "name": "\u0636\u0639\u0641 \u0646\u0638\u0631",
-        "url": "https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP"
-      },
-      "artists": [
-        {
-          "name": "Melhem Zein",
-          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
-        }
-      ],
-      "date_added": "2021-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168392,
-      "name": "\u0636\u0639\u0641 \u0646\u0638\u0631",
-      "url": "https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaywRlmHaP59"

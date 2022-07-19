@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-33 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/4aF3Dus1xj6jb6dCaHPiDb)
+34 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/4aF3Dus1xj6jb6dCaHPiDb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Protocolo](https://open.spotify.com/track/1IJcROM3wuO4phCdjlEl5t) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Banzai FC](https://open.spotify.com/artist/2pFNA3xuGmAP6XODWDrxzs) | [Protocolo](https://open.spotify.com/album/4DEjk8Hu1JxL7o8Y17vHJR) | 4:14 | 2022-01-05 |  |
 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 | 2022-01-05 |  |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-01-05 |  |
+| [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-06-16 |  |
 | [Sangría \- con WOS](https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 2:34 | 2022-01-05 |  |
 | [TERRAZA](https://open.spotify.com/track/4Yx9jw2hqVk00uwLRBXKxc) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TERRAZA](https://open.spotify.com/album/0q1g3Xvfg0qLLNzRNxKLL6) | 3:54 | 2022-01-05 |  |
 

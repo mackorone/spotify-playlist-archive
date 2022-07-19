@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5s99CZPCFK4.md) - [plain]
 
 > Claim your space this Pride in Manchester\. Cover: Heather Baron\-Gracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,688 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

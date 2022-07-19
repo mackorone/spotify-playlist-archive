@@ -26,7 +26,7 @@
     },
     {
       "album": {
-        "name": "Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 14)",
+        "name": "Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 8)",
         "url": "https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ"
       },
       "artists": [
@@ -594,6 +594,24 @@
     },
     {
       "album": {
+        "name": "Message in a Hammer",
+        "url": "https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216637,
+      "name": "Message in a Hammer",
+      "url": "https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y"
+    },
+    {
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/061q5E43gIp25oJxVxvAav"
       },
@@ -681,7 +699,7 @@
       ],
       "date_added": "2019-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 355250,
       "name": "Petit Sekou",
       "url": "https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ"

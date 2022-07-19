@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 | 46 | [Bellas Finals: Price Tag/Don’t You \(Forget About Me\)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around](https://open.spotify.com/track/5DnDWdt25emVC9CLUi3Iku) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 3:37 |
 | 47 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 48 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
-| 49 | [Safe and Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:12 |
+| 49 | [Safe And Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:13 |
 | 50 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 51 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 52 | [Wherever You Will Go](https://open.spotify.com/track/2mI7XadiW2VoC3ptipPeo7) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Love Actually Soundtrack](https://open.spotify.com/album/19RPbTaPIFbnAgjsjrmd6L) | 3:27 |

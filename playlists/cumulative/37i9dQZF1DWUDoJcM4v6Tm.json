@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Revel in some key gems and explore the sprawling musical landscape.",
+  "description": "Explore a sprawling musical landscape.",
   "name": "The Wilds",
   "published_playlist_ids": [
     "6QNiRt36HWf1xbyQQcxk10"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
@@ -1905,6 +1905,24 @@
       "duration_ms": 194176,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi"
+    },
+    {
+      "album": {
+        "name": "Stargazer",
+        "url": "https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl"
+      },
+      "artists": [
+        {
+          "name": "Robin Bacior",
+          "url": "https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225377,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry"
     },
     {
       "album": {

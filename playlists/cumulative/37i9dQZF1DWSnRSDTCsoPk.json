@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 203148,
       "name": "10 Out of 10",
       "url": "https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-17",
       "duration_ms": 233893,
       "name": "Back",
       "url": "https://open.spotify.com/track/0uAsZrUZNHLg0JrnrSWuej"
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-08",
       "duration_ms": 216244,
       "name": "Bad",
       "url": "https://open.spotify.com/track/2N8gVC6b45879mbNo9IMZr"
+    },
+    {
+      "album": {
+        "name": "Beast Is The B2ST",
+        "url": "https://open.spotify.com/album/3Bcq6nkfF1qUlHTFK9v3Je"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 193120,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/7gavFJaP2PmDAOhO5VXjHS"
     },
     {
       "album": {
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-18",
       "duration_ms": 198243,
       "name": "bang",
       "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-12",
       "duration_ms": 217746,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6CDtmm9IbYYKnWWRgUmVRo"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": "2022-06-11",
       "duration_ms": 197468,
       "name": "Beautiful Target",
       "url": "https://open.spotify.com/track/6sECoPPkNmP6RIzYXEhvxA"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-10",
       "duration_ms": 201111,
       "name": "Black Suit",
       "url": "https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-05-14",
       "duration_ms": 219225,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/5FwK2EZJUy6uHEzENJtHQ5"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 163508,
       "name": "Bomb Bomb",
       "url": "https://open.spotify.com/track/2U6RSyXFnDVNYoD9iUgi09"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 187506,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": "2022-07-15",
       "duration_ms": 198243,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 183413,
       "name": "FUN!",
       "url": "https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-06-17",
       "duration_ms": 304706,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/0jzNkPeK3W1g7G1MoqIfeZ"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-03",
       "duration_ms": 179053,
       "name": "HER",
       "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-05-23",
       "duration_ms": 231951,
       "name": "HERO",
       "url": "https://open.spotify.com/track/6gorwqDJ7bsdCHcVs5uS9u"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-13",
       "duration_ms": 208730,
       "name": "I Am The Best",
       "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 271333,
       "name": "I Got A Boy",
       "url": "https://open.spotify.com/track/1w3NKvQH0sizDnL2G0keq4"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 168653,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 233986,
       "name": "LUCIFER",
       "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": "2022-06-26",
       "duration_ms": 192440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-16",
       "duration_ms": 235434,
       "name": "Mr.Mr.",
       "url": "https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 194407,
       "name": "Never Ever",
       "url": "https://open.spotify.com/track/4tzkSoh450XnimhNWVmBhg"
@@ -2333,6 +2351,24 @@
       "duration_ms": 195836,
       "name": "NUNU NANA",
       "url": "https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1"
+    },
+    {
+      "album": {
+        "name": "Let's Fly",
+        "url": "https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 213213,
+      "name": "O.K",
+      "url": "https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd"
     },
     {
       "album": {
@@ -2651,7 +2687,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-14",
       "duration_ms": 207243,
       "name": "SAVAGE",
       "url": "https://open.spotify.com/track/1ORdoHKOgLdfQM6oNaYAUZ"
@@ -2759,7 +2795,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-06-06",
       "duration_ms": 225594,
       "name": "Shock",
       "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
@@ -2813,7 +2849,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 181328,
       "name": "So Hot",
       "url": "https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD"
@@ -3027,7 +3063,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 220346,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
@@ -3387,7 +3423,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-05",
       "duration_ms": 208523,
       "name": "Y",
       "url": "https://open.spotify.com/track/3xVGwwax3gAPAkJewnB2eZ"
@@ -3554,6 +3590,24 @@
     },
     {
       "album": {
+        "name": "U-Kiss Only One Album",
+        "url": "https://open.spotify.com/album/7lsKoouqNG0L1VUWEeoGVY"
+      },
+      "artists": [
+        {
+          "name": "U-KISS",
+          "url": "https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-17",
+      "duration_ms": 196022,
+      "name": "\ube59\uae00\ube59\uae00",
+      "url": "https://open.spotify.com/track/3OYenS9QMGVQJWv9lc0eCj"
+    },
+    {
+      "album": {
         "name": "\uc218\ub9ac\uc218\ub9ac Spellbound - The 7th Album Repackage",
         "url": "https://open.spotify.com/album/2vYBL8e2ils5F0pTLumTjV"
       },
@@ -3619,7 +3673,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-15",
       "duration_ms": 207133,
       "name": "\uc6b4\uba85 The Chance of Love",
       "url": "https://open.spotify.com/track/3XzxHvEomjJIKZcZqYfFut"

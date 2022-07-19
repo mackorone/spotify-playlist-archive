@@ -1,0 +1,58 @@
+pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain](/playlists/plain/79vrB5Ei5Gk7BctdZesJJA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/79vrB5Ei5Gk7BctdZesJJA)
+
+### [Roadrunner Records: Slaylist](https://open.spotify.com/playlist/79vrB5Ei5Gk7BctdZesJJA)
+
+> 
+
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,222 likes - 46 songs - 3 hr 5 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
+| 2 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
+| 3 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 |
+| 4 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 |
+| 5 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 |
+| 6 | [Truck Songs](https://open.spotify.com/track/44jxWjjs75MIzZJFVDdGrO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Truck Songs](https://open.spotify.com/album/4P65HHtKkH46q5YuYWq9ck) | 4:00 |
+| 7 | [The Phalanx](https://open.spotify.com/track/6aXZwKM6C2aNVZiMpf0AMh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Phalanx](https://open.spotify.com/album/3AYR093HV8sXPrCjWHKzrf) | 7:15 |
+| 8 | [Heroin](https://open.spotify.com/track/7MaP6xY4sG6aOTImzoQW1f) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Strength](https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA) | 3:41 |
+| 9 | [Big Bite](https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Big Bite](https://open.spotify.com/album/0TCf57rej2wShcUzX91XOK) | 2:21 |
+| 10 | [Apology](https://open.spotify.com/track/0X27iVkN6LkAqpX0J6zqoh) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [pantychrist](https://open.spotify.com/album/0Gji77UOi0Y8AD2x4aeCbi) | 2:39 |
+| 11 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
+| 12 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 |
+| 13 | [In The Court Of The Dragon](https://open.spotify.com/track/40iyvp3T5mgHhTRefrTVFR) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 5:09 |
+| 14 | [Timebomb](https://open.spotify.com/track/3Mol9yc6kEdpu8lKEvsune) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Timebomb](https://open.spotify.com/album/0QaS7rHAPOIE3P0zaB99Xu) | 3:46 |
+| 15 | [Downtown](https://open.spotify.com/track/7nZtasMoMDj5jOmLaG0GjJ) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Downtown](https://open.spotify.com/album/7FMazZdrzvNM2NsKSqi6Lg) | 3:14 |
+| 16 | [Midnight](https://open.spotify.com/track/63VSTHGYmrg7QSExdSRxKI) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [American Noir](https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg) | 3:39 |
+| 17 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
+| 18 | [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 |
+| 19 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
+| 20 | [When Will Gods Work Be Done](https://open.spotify.com/track/4pHqgv6TAoIdjJY49JLaIa) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [No Children Laughing Now](https://open.spotify.com/album/3LoGoQI6yZEXGrJ8styDvZ) | 4:06 |
+| 21 | [Love Is The Greatest](https://open.spotify.com/track/70KGBOSIqfvrLwAagwXMEa) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Bigger House](https://open.spotify.com/album/3M53cSxzAfidJd8SkA1tf5) | 3:23 |
+| 22 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 |
+| 23 | [Skeletons](https://open.spotify.com/track/0Kxo5gRKRJTsZdoBZW2a5L) | [Heartist](https://open.spotify.com/artist/3ewd1UqC9cTejovPED15BS) | [Feeding Fiction](https://open.spotify.com/album/35UcF0fsrd9r3EJElSMG7Q) | 3:33 |
+| 24 | [Turn Off The Guitar](https://open.spotify.com/track/5GyD1xmgMg02yLift5Z1BA) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 3:09 |
+| 25 | [down in a hole \(live\)](https://open.spotify.com/track/7s9GlBRfncOqT8hIe8iepG) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Under the Skin](https://open.spotify.com/album/3NJLWqAZbcrasaV3aQFQlH) | 5:28 |
+| 26 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 |
+| 27 | [We Will Rock You \(feat\. Maria Brink, Lzzy Hale and Taylor Momsen\)](https://open.spotify.com/track/3ltS4rlFrCYkdQqGzVjXBi) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [Taylor Momsen](https://open.spotify.com/artist/31Wr64NZlSHgS0Gz6yoCr5) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 3:05 |
+| 28 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 |
+| 29 | [Devil on My Shoulder](https://open.spotify.com/track/0qWizYBHEHpanTbr95NDq0) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/3E86heHd3LiI6h4tSN608g) | 3:49 |
+| 30 | [Black Cloud](https://open.spotify.com/track/1WOpN2e3zJgAHIGsJczKVr) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Misery](https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m) | 3:47 |
+| 31 | [The Dark Sentencer](https://open.spotify.com/track/0mP3O68nZjScrbgiD9UilH) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 7:44 |
+| 32 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
+| 33 | [Pierced from Within](https://open.spotify.com/track/6Z2McHf57ikVCiAkWvicg1) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Pierced From Within](https://open.spotify.com/album/3DkYd4sSQypuGcrsw2sU5K) | 4:25 |
+| 34 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
+| 35 | [WDYT](https://open.spotify.com/track/3Ka3b6jgY9XH6SrcUzOCjn) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [WDYT](https://open.spotify.com/album/56YLXWml8fCbCG65Za9VOC) | 3:40 |
+| 36 | [Clenched Fist](https://open.spotify.com/track/5PwU47IWk07Ft9Pjn2Sfuy) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:58 |
+| 37 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
+| 38 | [Alpha & Omega](https://open.spotify.com/track/1U34Xs9Wf0sHbEpvMGzwBv) | [King 810](https://open.spotify.com/artist/4LBpvfFaQzQKJU1GUVPniC) | [La Petite Mort or a Conversation with God](https://open.spotify.com/album/0qK7yDmK5eACwy7RuwhGo2) | 3:38 |
+| 39 | [Operation Ground and Pound](https://open.spotify.com/track/63qPlpT3S35NXJtiLTxkxY) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Inhuman Rampage \(Special Edition\)](https://open.spotify.com/album/28YBgZU6HDhnkf6ZZXbY3y) | 7:44 |
+| 40 | [The Dagger](https://open.spotify.com/track/06RQguo4vybrXooUewSSuA) | [Roadrunner United](https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy) | [The All Star Sessions](https://open.spotify.com/album/3w3HyqvtsWnnYwvl0xsvv1) | 5:32 |
+| 41 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 |
+| 42 | [Sailor's Prayer](https://open.spotify.com/track/5VA764n0ot5CmvaUHdJrJK) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [8:18](https://open.spotify.com/album/4LCYe1Ummf9H2qRRcsH9qj) | 3:52 |
+| 43 | [What Comes Around](https://open.spotify.com/track/2bJ1JLN0o30pEHnwdPdbd7) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [XXX: Three Decades Of Roadrunner Records](https://open.spotify.com/album/3C6jILLr5iuUUHUYPwBDCd) | 3:45 |
+| 44 | [Spring Fra Livet](https://open.spotify.com/track/7lzprKou9yZPeU3kgm3Y14) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Meir](https://open.spotify.com/album/5PAjZGAD8j0XZANLxJWulb) | 3:34 |
+| 45 | [Get Inside](https://open.spotify.com/track/2hX2v0U5lKSlxVxnesLEak) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 3:13 |
+| 46 | [Matando Gueros](https://open.spotify.com/track/5M5in7u53TvK4YbymDmkie) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [XXX: Three Decades Of Roadrunner Records](https://open.spotify.com/album/3C6jILLr5iuUUHUYPwBDCd) | 2:22 |
+
+Snapshot ID: `Mjk3MiwzNGY5N2Y0MzVlMTlkNDJmOGU2ZmExNWVlOGY1MzUxZWNiMzZlNDcx`

@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": "2022-07-08",
       "duration_ms": 275040,
       "name": "Angel",
       "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-14",
       "duration_ms": 231640,
       "name": "Cerca De Ti",
       "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 212893,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 277600,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/5a12LL01YPhltXHeuWjSnG"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 274466,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-15",
       "duration_ms": 272826,
       "name": "Llegar A Ti",
       "url": "https://open.spotify.com/track/6FuFhivTRqTtK5RYQavPTa"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "Media Naranja",
       "url": "https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 251440,
       "name": "No Llores Por Mi",
       "url": "https://open.spotify.com/track/4lXn55tuRpIkdKDGcvJdqs"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 210520,
       "name": "No Puedo Olvidarme Ti",
       "url": "https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 235733,
       "name": "Ojos As\u00ed",
       "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 205000,
       "name": "Te Ves Buena",
       "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 252733,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3vcFIbbrf2OzpJsjdtsEQs"
@@ -1428,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/1mK37XMpSukFqRvswNFtaH"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 210653,
+      "name": "Una Mujer Como Tu",
+      "url": "https://open.spotify.com/track/37HQ0NrnK8bVIEllfehf7n"
+    },
+    {
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Vida",
       "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
@@ -1479,7 +1501,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
@@ -1551,7 +1573,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 265680,
       "name": "Yo Nac\u00ed para Amarte",
       "url": "https://open.spotify.com/track/2RlH9138BxpQWfgbSDstAH"

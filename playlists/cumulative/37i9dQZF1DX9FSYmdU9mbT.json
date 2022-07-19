@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Elza Soares",
+  "description": "Os grandes artistas da MPB. Foto: Gilberto Gil",
   "name": "O Melhor da MPB",
   "published_playlist_ids": [
     "0KkIdIP6N50yyjIcbunsdH"
@@ -263,6 +263,24 @@
       "duration_ms": 144866,
       "name": "Back in Bahia - Ao Vivo",
       "url": "https://open.spotify.com/track/2RcUIu5JZIlCgWidugtvfV"
+    },
+    {
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "album": {
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 239877,
       "name": "Refavela",
       "url": "https://open.spotify.com/track/5LDlVW9r05U87BBgXKvoUW"

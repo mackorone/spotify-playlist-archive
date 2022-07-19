@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": "2022-05-29",
       "duration_ms": 121364,
       "name": "Bad Bitch Anthem",
       "url": "https://open.spotify.com/track/2iSSej4XF1TvnL957k86vP"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 205055,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/3twTx8aoeaKCoQ4dUHsLWl"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-12",
       "duration_ms": 279866,
       "name": "Barbie Dreams",
       "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 122064,
       "name": "Black Wall Street",
       "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-12",
       "duration_ms": 223962,
       "name": "Bodak Yellow",
       "url": "https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 156841,
       "name": "Bossa Nova (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/16P9KvAKrYDA7lH7jgquDd"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 136508,
       "name": "Bussin 2.0 (with Saweetie)",
       "url": "https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 176749,
       "name": "Captain Hook",
       "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 275946,
       "name": "Crush on You (feat. Lil' Cease) - Remix",
       "url": "https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 108068,
       "name": "Different - Freestyle",
       "url": "https://open.spotify.com/track/3VRlnEG1YXsuMCiaf1ybY0"
@@ -571,10 +571,28 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-06-01",
       "duration_ms": 174985,
       "name": "Don't Touch",
       "url": "https://open.spotify.com/track/08gwEJgv0JgsABWgskkxap"
+    },
+    {
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "album": {
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-20",
       "duration_ms": 219706,
       "name": "End Like That",
       "url": "https://open.spotify.com/track/7m60tOsgFlWoLTk1Y8zAHJ"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": "2022-05-12",
       "duration_ms": 205776,
       "name": "Facts (feat. Dreezy)",
       "url": "https://open.spotify.com/track/5KdJAI4aYsXPyLzprOtBc3"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 168093,
       "name": "FDH",
       "url": "https://open.spotify.com/track/7hRbS8uL6VXwTgSAg3BGSw"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 192960,
       "name": "He Be Like",
       "url": "https://open.spotify.com/track/1jdY3EkXOaCZQVZNohFodF"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 213311,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/22IWDKdWDgx2cAx5RuDgty"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": "2022-06-09",
       "duration_ms": 239971,
       "name": "Ka$H Only",
       "url": "https://open.spotify.com/track/1jdXOVFQIaUqvB2Ay7NLyu"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 133804,
       "name": "Like A Pro (feat. Juicy J)",
       "url": "https://open.spotify.com/track/6WYxEIpgD3dDWyxTFcPCXv"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 221853,
       "name": "LLC",
       "url": "https://open.spotify.com/track/3tCgn1QGWOZN5eE0XuVdrf"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": "2022-07-11",
       "duration_ms": 207430,
       "name": "My Way (Remix)",
       "url": "https://open.spotify.com/track/11YP90W36r34d2qrjAcPq4"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-02",
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": "2022-07-14",
       "duration_ms": 214583,
       "name": "Nunnadet Shit",
       "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": "2022-07-16",
       "duration_ms": 104064,
       "name": "Rap Freaks",
       "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-07",
       "duration_ms": 125675,
       "name": "Run Me My Money",
       "url": "https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 168175,
       "name": "Slim Waist",
       "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-08",
       "duration_ms": 116611,
       "name": "Stalli (Freestyle)",
       "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-27",
       "duration_ms": 112845,
       "name": "Straight To It",
       "url": "https://open.spotify.com/track/6r9zoV35UeEAh12sGS8gek"
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 175342,
       "name": "Tempo (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
@@ -1739,7 +1757,7 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
-          "name": "Yung Bleu",
+          "name": "BLEU",
           "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-07",
       "duration_ms": 121927,
       "name": "Wat U Need",
       "url": "https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-06-21",
       "duration_ms": 193574,
       "name": "Where Them $ @",
       "url": "https://open.spotify.com/track/6kp2h1BjSs6iKVgpzhwi8h"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-17",
       "duration_ms": 177467,
       "name": "Whole Lotta Liquor (feat. Future & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1EWa3LGA6yaC6Bq2iUA72a"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 170732,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1N3WA69hiGcEsO2ExABuqs"

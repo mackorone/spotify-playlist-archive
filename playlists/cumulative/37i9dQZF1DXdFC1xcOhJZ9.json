@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Second Light",
+        "url": "https://open.spotify.com/album/7JCidY6IL2ddmIKQaglXr2"
+      },
+      "artists": [
+        {
+          "name": "Dreadzone",
+          "url": "https://open.spotify.com/artist/2hrrhKOVsxoCIZb9H4ZBCZ"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442479,
+      "name": "Shining Path",
+      "url": "https://open.spotify.com/track/0SNeqvQXkfq4YNsbrCzYa7"
+    },
+    {
+      "album": {
         "name": "Are You Shpongled?",
         "url": "https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf"
       },

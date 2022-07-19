@@ -1,0 +1,34 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain](/playlists/plain/37i9dQZF1DWTA9xrja5XU1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTA9xrja5XU1)
+
+### [Slushii's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWTA9xrja5XU1)
+
+> <a href="spotify:artist:41rVuRHYAiH7ltBTHVR9We">Slushii</a> drops a colorful mix full of rumbling bass and head banging tunes.
+
+[Spotify](https://open.spotify.com/user/spotify) - 1,900 likes - 22 songs - 1 hr 0 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [E.R.U Emergency Broadcast \(Intro\) \- Mixed](https://open.spotify.com/track/0vmZyTqI5J3PLwyU5r7ys5) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [E.R.U Emergency Broadcast \(Intro\) \[Mixed\]](https://open.spotify.com/album/6PuN7QYrTOidlqolwMKjHv) | 0:50 |
+| 2 | [ICE \- Mixed](https://open.spotify.com/track/2jnHWiG4e1SMhvRUIkpAB3) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ICE \(Mixed\)](https://open.spotify.com/album/2J6Uvbe4WcQwAuWfqfnqMI) | 2:20 |
+| 3 | [Rumble \- Mixed](https://open.spotify.com/track/6ap9zLTT2jqcLbqrZZ20u8) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Rumble \(Mixed\)](https://open.spotify.com/album/1RNiVKtGHBQ2WjRINcHoU1) | 3:23 |
+| 4 | [Do That \- Mixed](https://open.spotify.com/track/4YBo1LUxdo3XLrtIxru4sh) | [Volt](https://open.spotify.com/artist/1egnc7bfuijfn2K4yGqOCC), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Do That \(Mixed\)](https://open.spotify.com/album/3jg8IFS92G7rk9qsp2Dbq3) | 2:09 |
+| 5 | [Invaders From Mars \- Mixed](https://open.spotify.com/track/7a0e9QLJe5UPBejgpBKMSA) | [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Invaders From Mars \(Mixed\)](https://open.spotify.com/album/3PhzFJV2WuLcPRi1sWR9xp) | 2:21 |
+| 6 | [Sleepless \- Mixed](https://open.spotify.com/track/4kdWGjrqKMwHMZRJs9doBZ) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Sleepless \(Mixed\)](https://open.spotify.com/album/3a5tOPhUAi16pGnALPlxcG) | 2:48 |
+| 7 | [Down With Your Love \- Mixed](https://open.spotify.com/track/0SuqkRzgOgSHg49h54dHSy) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Down With Your Love \(Mixed\)](https://open.spotify.com/album/2bPCEn1HZRIFiiMM11rMaT) | 4:11 |
+| 8 | [Get High \- Mixed](https://open.spotify.com/track/3HZlVrZ1FMZIsh9eDaQUh3) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Get High \(Mixed\)](https://open.spotify.com/album/254f9IKSO07r5kOHlL60Ph) | 3:50 |
+| 9 | [Valhalla \- Mixed](https://open.spotify.com/track/1xdG92vn1xsTlkokUrpG1L) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Valhalla \(Mixed\)](https://open.spotify.com/album/6KYAMSP7fXMJCh69USai85) | 1:58 |
+| 10 | [Skullcorn \- Mixed](https://open.spotify.com/track/4JXyI876cmaYZScd1hRFyy) | [LEGACY](https://open.spotify.com/artist/6PDOhuTlQgb9jWwkZ3YwM5), [Dropzone](https://open.spotify.com/artist/5OVzPiR1Oyl2n0U0F7tetU) | [Skullcorn \(Mixed\)](https://open.spotify.com/album/3vqilky7CZuPsP7Nwcknpw) | 3:25 |
+| 11 | [BRUH?! \- Mixed](https://open.spotify.com/track/4Sbs1l0XByp0yVaDdZzE3j) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [BRUH?! \(Mixed\)](https://open.spotify.com/album/5BhKZZ2BmVTO5RrBy0ijcz) | 3:30 |
+| 12 | [Awaken \- Mixed](https://open.spotify.com/track/6mEGcUD3ercW0U10hzqr7n) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken \(Mixed\)](https://open.spotify.com/album/1dMKx8hLTmiTEtQRKjskI5) | 4:13 |
+| 13 | [After Midnight \- Mixed](https://open.spotify.com/track/4QcoAJBs6e2nKTy2Z34Q2q) | [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [After Midnight \(Mixed\)](https://open.spotify.com/album/3oq4gvfAZjuN80t6aEyUp3) | 2:43 |
+| 14 | [Carousel \- Mixed](https://open.spotify.com/track/2Qp8B3LZCKxiBxqdspFOEz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Carousel \(Mixed\)](https://open.spotify.com/album/2ZYIOHu2GopJ8WIvvXKr8Q) | 2:27 |
+| 15 | [Stay \- Mixed](https://open.spotify.com/track/64OJZvkMDPlgoJPytHzI0C) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Stay \(Mixed\)](https://open.spotify.com/album/6FJK8YRwkgNN72OHDijWRG) | 2:33 |
+| 16 | [Secrets \- Mixed](https://open.spotify.com/track/19eNfQcmU4lJYDywwpw4DL) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Secrets \(Mixed\)](https://open.spotify.com/album/6nZxXtAqCwJsOJnaPcDmLs) | 2:00 |
+| 17 | [Turn It Up \- Mixed](https://open.spotify.com/track/1uBqhcGwaIXzU23ELmckrT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up \(Mixed\)](https://open.spotify.com/album/2FAGrIAFIyszdcme4nIKgg) | 1:51 |
+| 18 | [Wait For Me \- Mixed](https://open.spotify.com/track/3xD7xEqlznAYrWWfqSt4fx) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Wait For Me \(Mixed\)](https://open.spotify.com/album/6dOK4nHrcoxo7VisApG4wh) | 3:10 |
+| 19 | [Destroy Me \- Mixed](https://open.spotify.com/track/255kBLQo2g5rXiiEJdXJAO) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Destroy Me \(Mixed\)](https://open.spotify.com/album/2DyuQ0Fn1R2EXGMk31fm6Q) | 3:33 |
+| 20 | [ACID HAUS \- Mixed](https://open.spotify.com/track/5gWrUMsO67j2bmKl7o5Xu2) | [Trilla](https://open.spotify.com/artist/1lBPeEj4su1YhsDP07mglp), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ACID HAUS \(Mixed\)](https://open.spotify.com/album/36Ixi1YS1FKWdcGIF89otx) | 1:59 |
+| 21 | [All I Need \- Mixed](https://open.spotify.com/track/7unSiaNJeb0ERu9cMnqUGv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(Mixed\)](https://open.spotify.com/album/14ex7NWmYTZedA9VSEWi6c) | 2:38 |
+| 22 | [Sweet Illusion \- Mixed](https://open.spotify.com/track/2VHg152omQ65DyQigrxWwd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Sweet Illusion \(Mixed\)](https://open.spotify.com/album/09RC6h4C1PiMCA6WSJz55O) | 2:59 |
+
+Snapshot ID: `MTY1MjQ1MzYyNCwwMDAwMDAwNjAwMDAwMTgwYmRlOTRhOWIwMDAwMDE3ZmQxOTk5N2E3`

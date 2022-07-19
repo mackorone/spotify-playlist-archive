@@ -1,13 +1,29 @@
 {
   "description": "Pop, rock, funk, R&B, psychedelia\u2014the man from Minneapolis was a true original and earth-shattering performer. Hear <a href=\"spotify:artist:5a2EaR3hamoenG9rDuVn8j\">Prince Rogers Nelson</a>'s best right now.",
-  "num_followers": 730732,
+  "num_followers": 739439,
   "original_name": "This Is Prince",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODAwMzMzMiwwMDAwMDAzYjAwMDAwMTc4Yjg4MzhjMzEwMDAwMDE2ZDE1NDMxYTdi",
+  "snapshot_id": "MTY1NTYyNjU3NywwMDAwMDA0MzAwMDAwMTgxN2IwOGI0YTcwMDAwMDE2ZDE1NDMxYTdi",
   "tracks": [
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+    },
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Around the World in a Day",
-        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -71,102 +71,6 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280743,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "4Ever",
-        "url": "https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Little Red Corvette - Single Version",
-      "url": "https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Welcome 2 America",
-        "url": "https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 323813,
-      "name": "Welcome 2 America",
-      "url": "https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Anthology: 1995-2010",
-        "url": "https://open.spotify.com/album/0CEHFvHUQ0ZSv3mugziS76"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Black Sweat",
-      "url": "https://open.spotify.com/track/4uHWKxOguUCwu05P0cfveU"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -187,8 +91,8 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
       "artists": [
         {
@@ -196,15 +100,15 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Delirious",
-      "url": "https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj"
+      "duration_ms": 302760,
+      "name": "Sign 'O' the Times",
+      "url": "https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz"
     },
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
       "artists": [
         {
@@ -212,15 +116,15 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "The Hits / The B-Sides",
-        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A"
       },
       "artists": [
         {
@@ -228,9 +132,25 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 207426,
-      "name": "She's Always in My Hair",
-      "url": "https://open.spotify.com/track/5xcb3TD6lZ4X7RId59DNxo"
+      "duration_ms": 188613,
+      "name": "Little Red Corvette - Single Version",
+      "url": "https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -251,8 +171,8 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
       },
       "artists": [
         {
@@ -260,9 +180,205 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Sign 'O' the Times",
-      "url": "https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz"
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
+    },
+    {
+      "added_at": "2022-05-26 09:39:02",
+      "album": {
+        "name": "Musicology",
+        "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Musicology",
+      "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Erotic City",
+      "url": "https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Eric Leeds",
+          "url": "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Gett Off",
+      "url": "https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U"
+    },
+    {
+      "added_at": "2022-06-01 11:31:24",
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Welcome 2 America",
+        "url": "https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 323813,
+      "name": "Welcome 2 America",
+      "url": "https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 339933,
+      "name": "Alphabet St.",
+      "url": "https://open.spotify.com/track/25qIHdF9njPTW737AeEQPl"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 280743,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2"
+    },
+    {
+      "added_at": "2022-06-19 08:09:52",
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 326093,
+      "name": "Sexy M.F.",
+      "url": "https://open.spotify.com/track/4Syn1a4Irz0UbbR44s7CqB"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -279,22 +395,6 @@
       "duration_ms": 185173,
       "name": "Soft and Wet",
       "url": "https://open.spotify.com/track/6Q8s3YuAWkx0Qui0Jgkr5m"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 435333,
-      "name": "Controversy",
-      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -324,41 +424,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 235493,
-      "name": "Erotic City",
-      "url": "https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "The Hits / The B-Sides",
-        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
       "duration_ms": 240066,
       "name": "17 Days",
       "url": "https://open.spotify.com/track/7rwPVahewLXhDGKUjfbzU3"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Dirty Mind",
-        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Dirty Mind",
-      "url": "https://open.spotify.com/track/0xLusQmpL2MWGajcw0YyXQ"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -379,6 +447,22 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 285266,
+      "name": "Diamonds and Pearls",
+      "url": "https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv"
       },
@@ -391,6 +475,54 @@
       "duration_ms": 270200,
       "name": "So Blue",
       "url": "https://open.spotify.com/track/3NX3jLUU2sFQjvDRdoOvEN"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "U Got the Look",
+      "url": "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "She's Always in My Hair",
+      "url": "https://open.spotify.com/track/5xcb3TD6lZ4X7RId59DNxo"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Anthology: 1995-2010",
+        "url": "https://open.spotify.com/album/0CEHFvHUQ0ZSv3mugziS76"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Black Sweat",
+      "url": "https://open.spotify.com/track/4uHWKxOguUCwu05P0cfveU"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -411,8 +543,8 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
       },
       "artists": [
         {
@@ -420,9 +552,25 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 237626,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2"
+      "duration_ms": 191560,
+      "name": "Partyman",
+      "url": "https://open.spotify.com/track/1Wn5LO7y9CLW0lHf2hNt8k"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Dirty Mind",
+      "url": "https://open.spotify.com/track/0xLusQmpL2MWGajcw0YyXQ"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -439,22 +587,6 @@
       "duration_ms": 86600,
       "name": "Purple Rain - Piano & A Microphone 1983 Version",
       "url": "https://open.spotify.com/track/2RapublkNolV5Ewmr7XtUH"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "The Hits 1",
-        "url": "https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 339933,
-      "name": "Alphabet St.",
-      "url": "https://open.spotify.com/track/25qIHdF9njPTW737AeEQPl"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -511,38 +643,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "U Got the Look",
-      "url": "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Music from Graffiti Bridge",
-        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Thieves in the Temple",
-      "url": "https://open.spotify.com/track/403oiKw757eJnbDKPSjhHV"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
       },
@@ -559,8 +659,8 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Batman",
-        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
       },
       "artists": [
         {
@@ -568,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Partyman",
-      "url": "https://open.spotify.com/track/1Wn5LO7y9CLW0lHf2hNt8k"
+      "duration_ms": 200680,
+      "name": "Thieves in the Temple",
+      "url": "https://open.spotify.com/track/403oiKw757eJnbDKPSjhHV"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -607,26 +707,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        },
-        {
-          "name": "Eric Leeds",
-          "url": "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "Gett Off",
-      "url": "https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Sign \"O\" the Times",
         "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
@@ -655,6 +735,22 @@
       "duration_ms": 242813,
       "name": "Something in the Water (Does Not Compute)",
       "url": "https://open.spotify.com/track/2hABMU63xtaIYChN6eYlEb"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 329586,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -707,6 +803,22 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "The Ballad of Dorothy Parker",
+      "url": "https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -753,7 +865,7 @@
       "url": "https://open.spotify.com/track/1nXIZY6vOyQgXNtBnou1Ph"
     },
     {
-      "added_at": "2021-04-09 21:22:12",
+      "added_at": "2022-06-19 08:09:52",
       "album": {
         "name": "Sign \"O\" the Times",
         "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
@@ -764,41 +876,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 235453,
-      "name": "The Ballad of Dorothy Parker",
-      "url": "https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Mary Don't You Weep",
-        "url": "https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 282384,
-      "name": "Mary Don't You Weep - Piano & A Microphone 1983 Version",
-      "url": "https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 285266,
-      "name": "Diamonds and Pearls",
-      "url": "https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH"
+      "duration_ms": 389226,
+      "name": "I Could Never Take the Place of Your Man",
+      "url": "https://open.spotify.com/track/7Bsfh7tZyAf6L5iQti86Rq"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -815,6 +895,22 @@
       "duration_ms": 231893,
       "name": "Graffiti Bridge",
       "url": "https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Sometimes It Snows in April",
+      "url": "https://open.spotify.com/track/1Az0fhiWi0EVS4cZ3FF20X"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -881,10 +977,10 @@
       "url": "https://open.spotify.com/track/04MjaNej8XUHI8jbz2THez"
     },
     {
-      "added_at": "2021-04-09 21:22:12",
+      "added_at": "2022-06-19 08:16:17",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
       },
       "artists": [
         {
@@ -892,9 +988,41 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 329586,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs"
+      "duration_ms": 239600,
+      "name": "The Question of U",
+      "url": "https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Money Don't Matter 2 Night",
+      "url": "https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Take Me with U",
+      "url": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -943,38 +1071,6 @@
       "duration_ms": 225546,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/6Kbkge4WbvwWv1jVzSQsr8"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Take Me with U",
-      "url": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "The Hits / The B-Sides",
-        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 326093,
-      "name": "Sexy M.F.",
-      "url": "https://open.spotify.com/track/4Syn1a4Irz0UbbR44s7CqB"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1059,22 +1155,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Money Don't Matter 2 Night",
-      "url": "https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "[Love Symbol]",
         "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
       },
@@ -1087,22 +1167,6 @@
       "duration_ms": 237373,
       "name": "The Morning Papers",
       "url": "https://open.spotify.com/track/1Q52V3Lq3yxsYaeZrPdPJZ"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Sometimes It Snows in April",
-      "url": "https://open.spotify.com/track/1Az0fhiWi0EVS4cZ3FF20X"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1139,22 +1203,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "ART OFFICIAL AGE",
-        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 312229,
-      "name": "THIS COULD BE US",
-      "url": "https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Stare",
         "url": "https://open.spotify.com/album/2qzNTR3brGnweQTOidQiUZ"
       },
@@ -1167,6 +1215,22 @@
       "duration_ms": 223511,
       "name": "Stare",
       "url": "https://open.spotify.com/track/2eZJ9lrNeSqDt9iOgtft0M"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "ART OFFICIAL AGE",
+        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 312229,
+      "name": "THIS COULD BE US",
+      "url": "https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -1185,6 +1249,22 @@
       "url": "https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN"
     },
     {
+      "added_at": "2022-06-19 08:09:52",
+      "album": {
+        "name": "Lovesexy",
+        "url": "https://open.spotify.com/album/6asxKdvUleeZYNrjmK81nJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 239150,
+      "name": "When 2 R in Love",
+      "url": "https://open.spotify.com/track/14YFuTZYstAv3xHR9TGEKu"
+    },
+    {
       "added_at": "2021-04-09 21:22:12",
       "album": {
         "name": "Our Destiny / Roadhouse Garden",
@@ -1199,6 +1279,22 @@
       "duration_ms": 385409,
       "name": "Our Destiny / Roadhouse Garden",
       "url": "https://open.spotify.com/track/6qHqJaSMvKI1X01SoVduJA"
+    },
+    {
+      "added_at": "2022-05-26 09:39:02",
+      "album": {
+        "name": "Let's Go Crazy (Live In Syracuse, March 30, 1985 - 2022 Remaster)",
+        "url": "https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 350778,
+      "name": "Let's Go Crazy - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY"
     }
   ],
   "unique_name": "This Is Prince",

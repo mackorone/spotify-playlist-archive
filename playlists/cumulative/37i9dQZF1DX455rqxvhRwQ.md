@@ -4,7 +4,7 @@
 
 > Learn something new as Joe talks with academics, experts, and more.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/38xYMjEgsqvqysjAXw6X6P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

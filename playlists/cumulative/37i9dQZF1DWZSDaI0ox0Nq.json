@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "A Don Paez",
       "url": "https://open.spotify.com/track/3C77OfOATnTSlyCDy6KyiC"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 210896,
       "name": "Almagro 6 Am",
       "url": "https://open.spotify.com/track/5J7dmruJ0TkUACHo5u57Qh"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 275840,
       "name": "Amarras",
       "url": "https://open.spotify.com/track/76zasMxwk97QVdggJkJnaE"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 218848,
       "name": "Argent\u00edgena",
       "url": "https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 269760,
       "name": "Balada para el",
       "url": "https://open.spotify.com/track/03fOQBpMpTkb5L2KBMuKv1"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-19",
       "duration_ms": 176879,
       "name": "Baldosa floja",
       "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
@@ -196,6 +196,36 @@
     },
     {
       "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "Horacio Avilano",
+          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
+        },
+        {
+          "name": "Hern\u00e1n Fredes",
+          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
+        },
+        {
+          "name": "Hern\u00e1n Mastromarini",
+          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 210613,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "album": {
         "name": "Virginia Luque Interpreta a Disc\u00e9polo",
         "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
       },
@@ -207,7 +237,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 210373,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
@@ -229,7 +259,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202516,
       "name": "Canto de Amor",
       "url": "https://open.spotify.com/track/0kqiPmUKNjYmqy2MZjUU21"
@@ -251,7 +281,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 250133,
       "name": "Caser\u00f3n de Tejas",
       "url": "https://open.spotify.com/track/76iHnpsVxQwhKx9JYQ20Up"
@@ -269,7 +299,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-18",
       "duration_ms": 178386,
       "name": "Che bandoneon",
       "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
@@ -305,10 +335,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Maldito",
+        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204889,
+      "name": "Coraz\u00f3n Maldito",
+      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
     },
     {
       "album": {
@@ -421,10 +469,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "album": {
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "album": {
@@ -443,6 +509,28 @@
       "duration_ms": 248613,
       "name": "Garganta Con Arena",
       "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
+    },
+    {
+      "album": {
+        "name": "De Barro y Cielo",
+        "url": "https://open.spotify.com/album/5NXv9a0Y3eRkFbpiyPTQrQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Baz\u00e1n",
+          "url": "https://open.spotify.com/artist/2Wp5c6RzMcfX1LAzu8c1Y6"
+        },
+        {
+          "name": "Alejandro Aguilar",
+          "url": "https://open.spotify.com/artist/4rpWarcBvKroTbc81jgY7n"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170768,
+      "name": "Haedo Sur",
+      "url": "https://open.spotify.com/track/0ZUeTlKIQG0hiTSuaVtRCu"
     },
     {
       "album": {
@@ -487,7 +575,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 132540,
       "name": "India de Tango",
       "url": "https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9"
@@ -531,7 +619,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
@@ -589,7 +677,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
@@ -625,7 +713,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 193348,
       "name": "La Piel de la Ciudad",
       "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
@@ -679,7 +767,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 155293,
       "name": "Madrugada y Soledad",
       "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
@@ -697,7 +785,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
@@ -773,7 +861,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 236599,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
@@ -795,7 +883,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-15",
       "duration_ms": 223255,
       "name": "Mi Buenos Aires Querido",
       "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
@@ -963,7 +1051,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-06-28",
       "duration_ms": 225000,
       "name": "No Me Vendr\u00eda Mal",
       "url": "https://open.spotify.com/track/0vO08QikFN1wCOr9hvLp4L"
@@ -981,7 +1069,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
@@ -999,7 +1087,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
@@ -1133,7 +1221,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 171533,
       "name": "Quejas de Bandone\u00f3n",
       "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
@@ -1177,7 +1265,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Se Dice De Mi",
       "url": "https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H"
@@ -1253,7 +1341,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-08",
       "duration_ms": 159584,
       "name": "Sin P\u00e9talos",
       "url": "https://open.spotify.com/track/6h9GkF9LC4WYQVjpC29KXy"
@@ -1271,7 +1359,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 231373,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
@@ -1297,7 +1385,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 185693,
       "name": "Sue\u00f1o de Barrilete",
       "url": "https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP"
@@ -1315,7 +1403,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
@@ -1436,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Vida M\u00eda",
+        "url": "https://open.spotify.com/album/6Zt7hlarp5sKgg01d3taj8"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238477,
+      "name": "Vida Mia",
+      "url": "https://open.spotify.com/track/1P77zNEkaHp4h3onP8eeMY"
+    },
+    {
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -1469,7 +1575,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 246903,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0wxT5vg2gjfOkieOj53bym"

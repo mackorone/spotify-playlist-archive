@@ -1,13 +1,205 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 387148,
+  "num_followers": 389348,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA5MTAwMDAwMTgwNzM3YjkzMjkwMDAwMDE4MDUyMWJjM2Mw",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDA5ODAwMDAwMTgyMDAwNTNmMzEwMDAwMDE4MDUyMWJjM2Mw",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Scream!",
+        "url": "https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        }
+      ],
+      "duration_ms": 274764,
+      "name": "Scream!",
+      "url": "https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/490tEx7QX0OmH7vmZ6JZBk"
+      },
+      "artists": [
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "duration_ms": 144342,
+      "name": "Yes It Do",
+      "url": "https://open.spotify.com/track/3S2AYMJpZBYwFJkqIhwpnV"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Africvillean Funk",
+        "url": "https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN"
+      },
+      "artists": [
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        },
+        {
+          "name": "Trobiz",
+          "url": "https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Africvillean Funk",
+      "url": "https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bay B. MoMa",
+        "url": "https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        }
+      ],
+      "duration_ms": 242959,
+      "name": "Bay B. MoMa",
+      "url": "https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "B Side - Dr. Rubberfunk Mix",
+        "url": "https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Dr Rubberfunk",
+          "url": "https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "B Side - Dr. Rubberfunk Mix",
+      "url": "https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Gonna Get In My Way",
+        "url": "https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        },
+        {
+          "name": "Chad Pike",
+          "url": "https://open.spotify.com/artist/2jHsExomQEvt5bk6OQfJDL"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Gonna Get In My Way",
+      "url": "https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Phil Diamond",
+          "url": "https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Maybe Your Baby",
+        "url": "https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Realistic Orchestra",
+          "url": "https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Chris McGee",
+          "url": "https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n"
+        }
+      ],
+      "duration_ms": 327619,
+      "name": "Maybe Your Baby",
+      "url": "https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Cool (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp"
+      },
+      "artists": [
+        {
+          "name": "Verdine White",
+          "url": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
+        }
+      ],
+      "duration_ms": 174149,
+      "name": "Cool - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy"
+    },
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
@@ -23,6 +215,70 @@
       "duration_ms": 213000,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Melody Feels Right",
+        "url": "https://open.spotify.com/album/7eM7dX0GpqjHa1djdNRFzI"
+      },
+      "artists": [
+        {
+          "name": "Kc Roberts & the Live Revolution",
+          "url": "https://open.spotify.com/artist/1YZOBH70YX0MgjDSUQ1hTO"
+        }
+      ],
+      "duration_ms": 259538,
+      "name": "Melody Feels Right - Single Version",
+      "url": "https://open.spotify.com/track/1WNwV1V2lDYw5oEFjaQhNx"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Inked (Alhambra Studios Live Session)",
+        "url": "https://open.spotify.com/album/2UmqUzPgh3qm4BySf0XtpY"
+      },
+      "artists": [
+        {
+          "name": "Lehmanns Brothers",
+          "url": "https://open.spotify.com/artist/7tDwCOr0dfsh4SZN8yECHT"
+        }
+      ],
+      "duration_ms": 221248,
+      "name": "Inked - Alhambra Studios Live Session",
+      "url": "https://open.spotify.com/track/1ft2Fb7TaeVee9kobX0rHF"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Little Orphan Boy",
+        "url": "https://open.spotify.com/album/4yhhKYu4vNtJVWeh9dneMo"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        }
+      ],
+      "duration_ms": 205535,
+      "name": "Little Orphan Boy",
+      "url": "https://open.spotify.com/track/0gn6Qb2WC279QfiOIVZzhN"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -1375,22 +1631,6 @@
       "duration_ms": 351833,
       "name": "Perpetual Conduit of Positivity",
       "url": "https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "If You Want Me to Stay",
-        "url": "https://open.spotify.com/album/5MJBt7WjNr736b9RXsBZmv"
-      },
-      "artists": [
-        {
-          "name": "Trulio Disgracias",
-          "url": "https://open.spotify.com/artist/6UtfXZKeC8rNxOYeCtbWa8"
-        }
-      ],
-      "duration_ms": 321844,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/0IFQpkcrFHy8bJOlrjKDEZ"
     }
   ],
   "unique_name": "All Funked Up",

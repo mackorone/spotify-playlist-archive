@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 171360,
       "name": "Cruel Heart",
       "url": "https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW"
@@ -431,6 +431,28 @@
       "duration_ms": 207536,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC"
+    },
+    {
+      "album": {
+        "name": "Goodfoot",
+        "url": "https://open.spotify.com/album/7nl91fBQrjHp0Efg8KJ3pg"
+      },
+      "artists": [
+        {
+          "name": "The Analogues Sideshow",
+          "url": "https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO"
+        },
+        {
+          "name": "The Analogues",
+          "url": "https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Goodfoot",
+      "url": "https://open.spotify.com/track/1IIyu0Co26sd9VmDFi3Mt1"
     },
     {
       "album": {
@@ -1272,7 +1294,7 @@
     },
     {
       "album": {
-        "name": "Realize It All (Acoustic Version)",
+        "name": "Realize It All - Acoustic",
         "url": "https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP"
       },
       "artists": [
@@ -1283,10 +1305,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 216021,
+      "name": "Realize It All - Acoustic",
+      "url": "https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5"
+    },
+    {
+      "album": {
+        "name": "Realize It All (Acoustic)",
+        "url": "https://open.spotify.com/album/5olhftqamGHYnbVAQiWlOj"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216021,
-      "name": "Realize It All - Acoustic Version",
-      "url": "https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5"
+      "name": "Realize It All - Acoustic",
+      "url": "https://open.spotify.com/track/5taE8n05uD4WgK8WuXPWhX"
     },
     {
       "album": {
@@ -1849,7 +1889,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 229238,
       "name": "Wake Up This Day",
       "url": "https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe"
@@ -1907,6 +1947,24 @@
       "duration_ms": 232626,
       "name": "We Watched It All Come Down",
       "url": "https://open.spotify.com/track/0y9Pp4kymVGpIclcc1bKBC"
+    },
+    {
+      "album": {
+        "name": "When Times Get Rough",
+        "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136416,
+      "name": "When Times Get Rough",
+      "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
       "album": {

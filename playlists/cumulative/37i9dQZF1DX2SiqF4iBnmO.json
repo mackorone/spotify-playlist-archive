@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323333,
+      "name": "1000 Knives",
+      "url": "https://open.spotify.com/track/4FETdaQpwzKaq8W0QIl6jU"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/50NJ3kg2byqp460tCPpRF7"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Bailar Contigo En La Oscuridad",
       "url": "https://open.spotify.com/track/0mPvl85Cym8Fx1qn4eEQXi"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-06-24",
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 216973,
       "name": "Calle 808 Beats",
       "url": "https://open.spotify.com/track/07YxaT78mNe5hTcTjEDs09"
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 617160,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/7k60waMcIWW5pYOWHErO8j"
@@ -499,7 +517,7 @@
       },
       "artists": [
         {
-          "name": "LL Cool J",
+          "name": "LL COOL J",
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
@@ -509,6 +527,24 @@
       "duration_ms": 249266,
       "name": "Going Back To Cali",
       "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
+    },
+    {
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan"
     },
     {
       "album": {
@@ -669,7 +705,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-06-15",
       "duration_ms": 212586,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB"
@@ -687,7 +723,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 267400,
       "name": "Man On The Corner - Remaster 2007",
       "url": "https://open.spotify.com/track/2RT4AjOSaDNCApCaphsJRo"
@@ -777,7 +813,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 372924,
       "name": "Peace of Mind (Electrosoul)",
       "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
@@ -904,6 +940,28 @@
     },
     {
       "album": {
+        "name": "Sweet And Short",
+        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "DJ Sumbody",
+          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 303440,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
+    },
+    {
+      "album": {
         "name": "Rock the Box",
         "url": "https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem"
       },
@@ -973,7 +1031,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
@@ -991,7 +1049,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-14",
       "duration_ms": 415633,
       "name": "Sound Of Stereo - Original Mix",
       "url": "https://open.spotify.com/track/4ELquocA4R6CQNfMkCYCIZ"
@@ -1056,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 218293,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -1115,24 +1191,6 @@
       "duration_ms": 332974,
       "name": "You're So Fine",
       "url": "https://open.spotify.com/track/0bMUNiGLkPWO7miGgkOzNL"
-    },
-    {
-      "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "date_added": "2021-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 323333,
-      "name": "\u5343\u306e\u30ca\u30a4\u30d5",
-      "url": "https://open.spotify.com/track/4FETdaQpwzKaq8W0QIl6jU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2SiqF4iBnmO"

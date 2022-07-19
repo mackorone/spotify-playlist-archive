@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231526,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu"
+    },
+    {
+      "album": {
         "name": "How Far Will I Go",
         "url": "https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3"
       },
@@ -794,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Papa, Can You Hear Me?",
+        "url": "https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281053,
+      "name": "Papa, Can You Hear Me?",
+      "url": "https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b"
+    },
+    {
+      "album": {
         "name": "Rainbow (Instrumental)",
         "url": "https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB"
       },
@@ -1016,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "My Lullabies: Motown",
+        "url": "https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR"
+      },
+      "artists": [
+        {
+          "name": "Myleene Klass",
+          "url": "https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Three Times a Lady",
+      "url": "https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU"
       },
@@ -1107,6 +1161,24 @@
       "duration_ms": 204560,
       "name": "Wrecking Ball - Solo Piano Version",
       "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263863,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX21hEmly67Fg"

@@ -1,35 +1,35 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 16260,
+  "num_followers": 18914,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzk3MywwMDAwMDAwMGMyNGE2YTQ1NWM1MGJjOTE2YzA3MjY4NjNmZTUxYTI5",
+  "snapshot_id": "MTY1ODE5NDYwOCwwMDAwMDAwMDFjYzVkNzBmZmI5ODdiZDlhYjhjMjhlM2IwNTg2Mzc2",
   "tracks": [
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Unavailable",
-        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+        "name": "Can You Bounce? (Remix)",
+        "url": "https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1"
       },
       "artists": [
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         },
         {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+          "name": "DJ Blizz",
+          "url": "https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh"
         }
       ],
-      "duration_ms": 201459,
-      "name": "Unavailable",
-      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
+      "duration_ms": 126955,
+      "name": "Can You Bounce? - Remix",
+      "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "My Humps (JBroadway Remix)",
         "url": "https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw"
@@ -49,51 +49,435 @@
       "url": "https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Push It (UNIIQU3 Remix)",
+        "url": "https://open.spotify.com/album/5XjWZdnDZ3W52t1gGmNPlV"
+      },
+      "artists": [
+        {
+          "name": "XHOSA",
+          "url": "https://open.spotify.com/artist/5mmqZLCCtJTdVnqn8jnFii"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "Push It - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/072REW0b0PT7z1K7sKAE9I"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
+        "url": "https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw"
+      },
+      "artists": [
+        {
+          "name": "5Star",
+          "url": "https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 164828,
+      "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Cupid, Pt. 2",
+        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 102948,
+      "name": "Cupid, Pt. 2",
+      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Hit Dat Ass (JERSEY CLUB)",
+        "url": "https://open.spotify.com/album/2LcPtjiQxbFCW0bnJOxRjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Difficult",
+          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
+        },
+        {
+          "name": "A.B.E",
+          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
+        },
+        {
+          "name": "Dj Popbang",
+          "url": "https://open.spotify.com/artist/2BIIrGzP3w8YM9OhTmcgWy"
+        },
+        {
+          "name": "Slice ThaHitMaker",
+          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
+        }
+      ],
+      "duration_ms": 259715,
+      "name": "Hit Dat Ass (JERSEY CLUB)",
+      "url": "https://open.spotify.com/track/6sKRoplEWT13gRT0hayL7L"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Unavailable",
+        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Unavailable",
+      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "JIMMY CROOKS (Remix)",
+        "url": "https://open.spotify.com/album/2MA1NPxeBKMzkCxWYguYYT"
+      },
+      "artists": [
+        {
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+        }
+      ],
+      "duration_ms": 145711,
+      "name": "JIMMY CROOKS - Remix",
+      "url": "https://open.spotify.com/track/1Fyezl6Ep6Swory5K78NR3"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
+      },
+      "artists": [
+        {
+          "name": "KiaBHN",
+          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ BigO",
+          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
+        },
+        {
+          "name": "Vivid The Producer",
+          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
+        },
         {
           "name": "DJ Sliink",
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Shotta Spence",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
         }
       ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+      "duration_ms": 192949,
+      "name": "Jersey Anniversary",
+      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
-        "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
+        "name": "BULLET",
+        "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
       },
       "artists": [
         {
-          "name": "Mia Rodriguez",
-          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Swizzymack",
-          "url": "https://open.spotify.com/artist/5Ce5C9NmxQraJA8zgGWJtu"
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 148833,
-      "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
-      "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+      "duration_ms": 98409,
+      "name": "BULLET",
+      "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "XENOWRLD",
+        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        }
+      ],
+      "duration_ms": 118557,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Walk It",
+        "url": "https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL"
+      },
+      "artists": [
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Walk It",
+      "url": "https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
+      },
+      "artists": [
+        {
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+        }
+      ],
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Bounce Out",
+        "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "duration_ms": 154672,
+      "name": "Bounce Out",
+      "url": "https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Renaissance (Remixes)",
+        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 236411,
+      "name": "Body Pump - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Walkdown",
+        "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        },
+        {
+          "name": "Nook Lauren",
+          "url": "https://open.spotify.com/artist/69LrKFU90Iu9Q8yKb8YZ3Q"
+        }
+      ],
+      "duration_ms": 105900,
+      "name": "Walkdown",
+      "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Don't Say I Didn't Warn You (Jersey Club Remixes)",
+        "url": "https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Beautiful Lies (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 157390,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Dream (Jersey Club)",
+        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+      },
+      "artists": [
+        {
+          "name": "DJ T Marq",
+          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+        }
+      ],
+      "duration_ms": 123271,
+      "name": "Dream (Jersey Club)",
+      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Relax Your Mind",
+        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 109931,
+      "name": "Relax Your Mind",
+      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/1pH2ngtMry9rL8fXvvdlvI"
@@ -117,23 +501,27 @@
       "url": "https://open.spotify.com/track/1XH4xf7YuCDDCKvHRwGFR8"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Bounce Out",
-        "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
+        "name": "BaDinga (Reloaded)",
+        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
       "artists": [
         {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "TWRK",
+          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
         }
       ],
-      "duration_ms": 154672,
-      "name": "Bounce Out",
-      "url": "https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego"
+      "duration_ms": 168000,
+      "name": "BaDinga - Reloaded",
+      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Heartbroken Twenty Twenty",
         "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
@@ -153,435 +541,111 @@
       "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+        "name": "Get Jumped",
+        "url": "https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
-        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
         },
-        {
-          "name": "iMarkkeyz",
-          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
-        }
-      ],
-      "duration_ms": 177521,
-      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
-      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Tek 9 EP",
-        "url": "https://open.spotify.com/album/5dre3XqtodIt7WswuWsBQp"
-      },
-      "artists": [
-        {
-          "name": "Dj Tameil",
-          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
-        }
-      ],
-      "duration_ms": 205516,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/18iPE7nwxTINtjDu2YnL1r"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Bilg",
-        "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
-      },
-      "artists": [
-        {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        },
-        {
-          "name": "West End Tricks",
-          "url": "https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "Bilg",
-      "url": "https://open.spotify.com/track/0teV9KmskEvhm01O37HoUU"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Walkdown",
-        "url": "https://open.spotify.com/album/2ZOj3Ok0uGgTN1sbGYeJTe"
-      },
-      "artists": [
-        {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
-        },
-        {
-          "name": "Nook Lauren",
-          "url": "https://open.spotify.com/artist/69LrKFU90Iu9Q8yKb8YZ3Q"
-        }
-      ],
-      "duration_ms": 105900,
-      "name": "Walkdown",
-      "url": "https://open.spotify.com/track/0M9A9pur06soprR1p61B3x"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "BULLET",
-        "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
-      },
-      "artists": [
         {
           "name": "Bandmanrill",
           "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 98409,
-      "name": "BULLET",
-      "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
+      "duration_ms": 124848,
+      "name": "Get Jumped (with Bandmanrill)",
+      "url": "https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "I Need You, Pt. 2",
-        "url": "https://open.spotify.com/album/6zrBRU2V83i49vC0850xdT"
+        "name": "Desire (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY"
       },
       "artists": [
         {
-          "name": "Quilll",
-          "url": "https://open.spotify.com/artist/0ybxWFFP0ce6hKr8FODFk8"
-        }
-      ],
-      "duration_ms": 111857,
-      "name": "I Need You, Pt. 2",
-      "url": "https://open.spotify.com/track/2TII48JCtfW8JNfsVMP0yJ"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Honesty (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1jlifOkBFmYB1xQPjfddGR"
-      },
-      "artists": [
+          "name": "NXCRE",
+          "url": "https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw"
+        },
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
         },
         {
           "name": "JIDDY",
           "url": "https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA"
         }
       ],
-      "duration_ms": 130612,
-      "name": "Honesty - (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/3J0vtBWWTwKUzwgvQrR4yM"
+      "duration_ms": 139130,
+      "name": "Desire - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "So Far So Good (Deluxe)",
-        "url": "https://open.spotify.com/album/5QPYD8dztySGd1vOQiOoUS"
+        "name": "STAND BACK (RELOADED)",
+        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
       "artists": [
-        {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
-        },
-        {
-          "name": "Vianna",
-          "url": "https://open.spotify.com/artist/1BpHYjBTqv7eRxSnpV2D6S"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Crowd Pleaser",
-      "url": "https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Relax Your Mind",
-        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 109931,
-      "name": "Relax Your Mind",
-      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "The Last One",
-        "url": "https://open.spotify.com/album/2f4c6NPzKvnz2aY0DeRJaR"
-      },
-      "artists": [
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        },
-        {
-          "name": "Dinero",
-          "url": "https://open.spotify.com/artist/08qzaspDb3uZph7u5ZI35F"
-        },
-        {
-          "name": "ReekOnaBeat",
-          "url": "https://open.spotify.com/artist/2kzZeBkumPkgewG4FZfCN2"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "My Back 2020",
-      "url": "https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Give It 2 Em (Remix)",
-        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "DJ TBoogie",
-          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Give It 2 Em - Remix",
-      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Renaissance (Remixes)",
-        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
         {
           "name": "UNIIQU3",
           "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 236411,
-      "name": "Body Pump - UNIIQU3 Remix",
-      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
         },
         {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "King of BBM",
-        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
-      },
-      "artists": [
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+          "name": "93rd",
+          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
         },
         {
-          "name": "Adolf Joker",
-          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
+          "name": "Killa Kherk Cobain",
+          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
         }
       ],
-      "duration_ms": 151901,
-      "name": "Hands on Ya Hips",
-      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+      "duration_ms": 157714,
+      "name": "STAND BACK (RELOADED)",
+      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "New Jersey Club vol.2",
-        "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
-      },
-      "artists": [
-        {
-          "name": "ClubHeadSLiiM",
-          "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Like This - Original Mix",
-      "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Vibrate EP",
-        "url": "https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX"
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
       "artists": [
         {
           "name": "DJ Sliink",
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 128955,
-      "name": "Put Cha Back In It",
-      "url": "https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Love Song (Remixes)",
-        "url": "https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu"
-      },
-      "artists": [
-        {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
         },
         {
-          "name": "TrillzAL",
-          "url": "https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A"
+          "name": "Shotta Spence",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
         }
       ],
-      "duration_ms": 142528,
-      "name": "Love Song - TrillzAL Jersey Edit",
-      "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Vibe (If I Back It Up)",
-        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
+        "name": "POPULAR LONER",
+        "url": "https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
         }
       ],
-      "duration_ms": 83940,
-      "name": "Vibe (If I Back It Up)",
-      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
+      "duration_ms": 100858,
+      "name": "70s",
+      "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
-      },
-      "artists": [
-        {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
-        }
-      ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Jersey Vs The World",
-        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
-      },
-      "artists": [
-        {
-          "name": "YK ACE",
-          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
-        }
-      ],
-      "duration_ms": 170015,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Inexhaustible",
-        "url": "https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2"
-      },
-      "artists": [
-        {
-          "name": "davOmakesbeats",
-          "url": "https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj"
-        }
-      ],
-      "duration_ms": 216113,
-      "name": "deep insides",
-      "url": "https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Feed the Streets, Vol. 001",
-        "url": "https://open.spotify.com/album/7cs9XEI2pW3tEmj5ELwZf4"
-      },
-      "artists": [
-        {
-          "name": "DJ Difficult",
-          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
-        },
-        {
-          "name": "Trxll Trxzzy",
-          "url": "https://open.spotify.com/artist/6iFsJij5HuAfodDAb0NKjt"
-        }
-      ],
-      "duration_ms": 113760,
-      "name": "Pump It Up [Jersey Club]",
-      "url": "https://open.spotify.com/track/48aHpYVBmeIMxizdTAI7yD"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Pew Pew Pew",
         "url": "https://open.spotify.com/album/3XBGM2wCQib3krbeXQ2Onq"
@@ -601,47 +665,123 @@
       "url": "https://open.spotify.com/track/6iQrwRQYIUrA7gqXtOrRve"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Fast (Motion) [Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/26QXxyTXCOa67EorAPwDEH"
+        "name": "Press Play (Gamer Girl)",
+        "url": "https://open.spotify.com/album/2RUWNe8Myzs5j9DXdDZDsM"
       },
       "artists": [
         {
-          "name": "DJ Get Bizzy",
-          "url": "https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         }
       ],
-      "duration_ms": 99857,
-      "name": "Fast (Motion) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/1KoZiwfdNggROUfXCaf8Tz"
+      "duration_ms": 124444,
+      "name": "Press Play (Gamer Girl)",
+      "url": "https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Boo'd Up (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV"
+        "name": "When We Vibe (DeFalco Remix)",
+        "url": "https://open.spotify.com/album/3tHIvRqrICU2PBLQnaRIpB"
       },
       "artists": [
         {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+          "name": "Noa James",
+          "url": "https://open.spotify.com/artist/03lFyWOEdgNdHvpdxZbfC6"
         },
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "Eugene O'Neil",
+          "url": "https://open.spotify.com/artist/6KwtNpi7qRdWa0TR2S6HUW"
         }
       ],
-      "duration_ms": 144065,
-      "name": "Boo'd Up (Jersey Club)",
-      "url": "https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA"
+      "duration_ms": 148715,
+      "name": "When We Vibe - DeFalco Remix",
+      "url": "https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Sounds Of A Menace (Jersey Club)",
+        "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
+      },
+      "artists": [
+        {
+          "name": "Dj Darknite",
+          "url": "https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg"
+        },
+        {
+          "name": "Groove The Producer",
+          "url": "https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1"
+        },
+        {
+          "name": "Mattknight",
+          "url": "https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT"
+        }
+      ],
+      "duration_ms": 145293,
+      "name": "Back Stabbers Jersey Club Mix",
+      "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
+        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "iMarkkeyz",
+          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
+        }
+      ],
+      "duration_ms": 177521,
+      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
+      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj"
@@ -669,67 +809,7 @@
       "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Don't Say I Didn't Warn You (Jersey Club Remixes)",
-        "url": "https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        },
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Beautiful Lies (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Clout Chaser, Pt. 4",
-        "url": "https://open.spotify.com/album/75qoG0Zx9aF19ngja8Z1Dh"
-      },
-      "artists": [
-        {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        },
-        {
-          "name": "Flyy the Producer",
-          "url": "https://open.spotify.com/artist/1jCHbNhLn02pWxqNWsQFvw"
-        },
-        {
-          "name": "Pyt Ny",
-          "url": "https://open.spotify.com/artist/5jjGLA9R4YUmCVipl3Btj3"
-        }
-      ],
-      "duration_ms": 150022,
-      "name": "Clout Chaser, Pt. 4",
-      "url": "https://open.spotify.com/track/4GyVJP3XHOVb8CxXQKT8Um"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Tek 9 EP",
         "url": "https://open.spotify.com/album/5dre3XqtodIt7WswuWsBQp"
@@ -745,10 +825,66 @@
       "url": "https://open.spotify.com/track/0IKltPY3yqdkTmHmS1ER3a"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "My Back (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
+        "name": "Luhh Galore",
+        "url": "https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 88302,
+      "name": "Luhh Galore",
+      "url": "https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "King of BBM",
+        "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
+      },
+      "artists": [
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "Adolf Joker",
+          "url": "https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX"
+        }
+      ],
+      "duration_ms": 151901,
+      "name": "Hands on Ya Hips",
+      "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Got Back?",
+        "url": "https://open.spotify.com/album/2Z6haOfHog3DbrXuldYjWX"
+      },
+      "artists": [
+        {
+          "name": "Leemz",
+          "url": "https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN"
+        },
+        {
+          "name": "Yungphnx",
+          "url": "https://open.spotify.com/artist/2OAhLVbWM8ONC9JB4DMMIj"
+        }
+      ],
+      "duration_ms": 135758,
+      "name": "Got Back?",
+      "url": "https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Childs Play Bounce That (Jersey Club)",
+        "url": "https://open.spotify.com/album/683ZzVObUnZaOTzspVxWoF"
       },
       "artists": [
         {
@@ -760,32 +896,136 @@
           "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 127503,
-      "name": "My Back (Jersey Club)",
-      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
+      "duration_ms": 156840,
+      "name": "Childs Play Bounce That (Jersey Club)",
+      "url": "https://open.spotify.com/track/3JurQMM5CRgRKNMHAN4vRH"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "I Want You vs. Operator Remixes",
-        "url": "https://open.spotify.com/album/1yjzstFXwiy1XDvaYdvz5y"
+        "name": "Tek 9 EP",
+        "url": "https://open.spotify.com/album/5dre3XqtodIt7WswuWsBQp"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Dj Tameil",
+          "url": "https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1"
+        }
+      ],
+      "duration_ms": 205516,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/18iPE7nwxTINtjDu2YnL1r"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Missed Calls (DJ Jayhood Remix)",
+        "url": "https://open.spotify.com/album/6ehR6KR2PXFCcB6GYVAWPE"
+      },
+      "artists": [
+        {
+          "name": "Yaladysprospect",
+          "url": "https://open.spotify.com/artist/2cFhr1tmrOQwI9DKJpumqD"
         },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 123350,
+      "name": "Missed Calls - DJ Jayhood Remix",
+      "url": "https://open.spotify.com/track/7fCDEma2FIR7E1C313NYWi"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Jersey Vs The World",
+        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+      },
+      "artists": [
+        {
+          "name": "YK ACE",
+          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+        }
+      ],
+      "duration_ms": 170015,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "SLIME PROTOCOL",
+        "url": "https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb"
+      },
+      "artists": [
+        {
+          "name": "Koi the Alchemist",
+          "url": "https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A"
+        },
+        {
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
+        }
+      ],
+      "duration_ms": 149747,
+      "name": "SLIME PROTOCOL",
+      "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
+        "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Swizzymack",
+          "url": "https://open.spotify.com/artist/5Ce5C9NmxQraJA8zgGWJtu"
+        }
+      ],
+      "duration_ms": 148833,
+      "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
+      "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Give It 2 Em (Remix)",
+        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
+      },
+      "artists": [
         {
           "name": "DJ Sliink",
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "DJ TBoogie",
+          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
         }
       ],
-      "duration_ms": 179964,
-      "name": "I Want You - DJ Sliink Remix",
-      "url": "https://open.spotify.com/track/34i6YUs9Lh4pgj8IeMgcyI"
+      "duration_ms": 120333,
+      "name": "Give It 2 Em - Remix",
+      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Ryde Dat",
         "url": "https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV"
@@ -801,7 +1041,39 @@
       "url": "https://open.spotify.com/track/40NRmZ9L2ZMv33VOiHecTA"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4o79Ofism0WKksZ55QyEwp"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4yKQddXwEu8feEhYtV3mVP"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Jakked Up",
+        "url": "https://open.spotify.com/album/6WQ17Gtu4QpSQvgnp6PSnv"
+      },
+      "artists": [
+        {
+          "name": "Jakkz",
+          "url": "https://open.spotify.com/artist/6970dBjCH8MeminFC6L665"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Shortys Theme",
+      "url": "https://open.spotify.com/track/3HerlmmOF6KfUSKWYMQCnW"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Low Budget Bass Trash (W.A.S.H. Remix)",
         "url": "https://open.spotify.com/album/5vygzgKP1YZtBWdQpgzfGk"
@@ -821,43 +1093,7 @@
       "url": "https://open.spotify.com/track/30v9quHl4dLXfpv2Q8ERqO"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Holla At Me Like, Vol. 2",
-        "url": "https://open.spotify.com/album/0Wfl2JP1WIs2Bp0Rmc5ZsW"
-      },
-      "artists": [
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "Lila Simone",
-          "url": "https://open.spotify.com/artist/2pQyFVF2MBx5bb2MmWZSXv"
-        }
-      ],
-      "duration_ms": 163604,
-      "name": "Imma Bounce It",
-      "url": "https://open.spotify.com/track/2cKjkMNv4VRvL6kC77OTP7"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "She's From Jersey",
-      "url": "https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "SHAWTY",
         "url": "https://open.spotify.com/album/1dochdMLdJsihe9p3WCr3D"
@@ -881,7 +1117,7 @@
       "url": "https://open.spotify.com/track/41425sATIEwlRMiancX0MS"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
@@ -897,7 +1133,107 @@
       "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Vibe (If I Back It Up)",
+        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 83940,
+      "name": "Vibe (If I Back It Up)",
+      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Honesty (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1jlifOkBFmYB1xQPjfddGR"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "JIDDY",
+          "url": "https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Honesty - (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/3J0vtBWWTwKUzwgvQrR4yM"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Vibrate EP",
+        "url": "https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 128955,
+      "name": "Put Cha Back In It",
+      "url": "https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+        }
+      ],
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/6EaTdsV2gQWLd8KCa0xlf4"
+      },
+      "artists": [
+        {
+          "name": "Rome856",
+          "url": "https://open.spotify.com/artist/4bHzhAqq6fkVqZVcPWKjp1"
+        }
+      ],
+      "duration_ms": 121369,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/6p3eGwdNH7Psr1mBoHaZVE"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Pop It Like a Pro",
+        "url": "https://open.spotify.com/album/59grGDTRTbKXrIq9kAijdO"
+      },
+      "artists": [
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Pop It Like a Pro",
+      "url": "https://open.spotify.com/track/7cZftLl511eByHiuWeU1jP"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Watch Yo' Six",
         "url": "https://open.spotify.com/album/4dtnXEMcHroCgLvkpqq0OJ"
@@ -917,67 +1253,7 @@
       "url": "https://open.spotify.com/track/5COM7j9t519tyyrR5aCiyN"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Fantasy EP",
-        "url": "https://open.spotify.com/album/4yrWoe8oWj5PNcMbp4RvG3"
-      },
-      "artists": [
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        },
-        {
-          "name": "The Oshi",
-          "url": "https://open.spotify.com/artist/4ifX2RXGtZ6IRshwg02sZY"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "Fantasy (feat. The Oshi)",
-      "url": "https://open.spotify.com/track/3FjyHxyv4VQ37mdY21lOhx"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "XENOWRLD",
-        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
-      },
-      "artists": [
-        {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
-        }
-      ],
-      "duration_ms": 118557,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Deep Enough (Jayhood Remix)",
-        "url": "https://open.spotify.com/album/3tqKDGgIogChqsk2AzSf1C"
-      },
-      "artists": [
-        {
-          "name": "Sweet Mix Kids",
-          "url": "https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 156764,
-      "name": "Deep Enough - Jayhood Remix",
-      "url": "https://open.spotify.com/track/7w18hgPZPWP1u552DndXmq"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Magnetic (Remixes)",
         "url": "https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab"
@@ -997,7 +1273,43 @@
       "url": "https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Boo'd Up (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV"
+      },
+      "artists": [
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        },
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Boo'd Up (Jersey Club)",
+      "url": "https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "She's From Jersey",
+      "url": "https://open.spotify.com/track/57nbcWp3VhiQQBNcka0Eql"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Jersey Khan",
         "url": "https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu"
@@ -1013,79 +1325,179 @@
       "url": "https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Broke City (Deluxe)",
-        "url": "https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL"
+        "name": "Putcha Back Into It (Bend It Over)",
+        "url": "https://open.spotify.com/album/4r0iqiNICOrbNFLhUYg8eC"
       },
       "artists": [
         {
-          "name": "Nadus",
-          "url": "https://open.spotify.com/artist/59myknL407PNXcExTEeUpU"
+          "name": "DJ Difficult",
+          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
+        }
+      ],
+      "duration_ms": 111490,
+      "name": "Putcha Back Into It (Bend It Over)",
+      "url": "https://open.spotify.com/track/1vO1sMpkplct8j62cM1i86"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Fantasy EP",
+        "url": "https://open.spotify.com/album/4yrWoe8oWj5PNcMbp4RvG3"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
         },
+        {
+          "name": "The Oshi",
+          "url": "https://open.spotify.com/artist/4ifX2RXGtZ6IRshwg02sZY"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "Fantasy (feat. The Oshi)",
+      "url": "https://open.spotify.com/track/3FjyHxyv4VQ37mdY21lOhx"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
+      },
+      "artists": [
         {
           "name": "DJ Sliink",
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 264094,
-      "name": "Nxwxrk - Dj Sliink Remix",
-      "url": "https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
-      },
-      "artists": [
-        {
-          "name": "DJ Diamond Kuts",
-          "url": "https://open.spotify.com/artist/4jxohej6vGnWYJYA5CNXhV"
-        }
-      ],
-      "duration_ms": 91324,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Wave EP",
-        "url": "https://open.spotify.com/album/4D9VpYRfpxXh0z75e40u5p"
-      },
-      "artists": [
-        {
-          "name": "Stevie G",
-          "url": "https://open.spotify.com/artist/7lm0VQkkzjyr4n252pC2sS"
         },
         {
-          "name": "M.I.",
-          "url": "https://open.spotify.com/artist/4o4Mcf7yjmr5MkrLZlyvFy"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/0at8XjfeGHOWe3DzcOkz8N"
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Press Play (Gamer Girl)",
-        "url": "https://open.spotify.com/album/2RUWNe8Myzs5j9DXdDZDsM"
+        "name": "Ella Quiere Pichi (Remix)",
+        "url": "https://open.spotify.com/album/6jOs0HC6KpLmpWJttI8IuV"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "Red Death Grave",
+          "url": "https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w"
+        },
+        {
+          "name": "Xvideo Token",
+          "url": "https://open.spotify.com/artist/6AJ1tjDBletSq5NEFqZBHK"
+        },
+        {
+          "name": "Oxycxde",
+          "url": "https://open.spotify.com/artist/71hXeewDvaYVnmQU16zSXQ"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Press Play (Gamer Girl)",
-      "url": "https://open.spotify.com/track/2FOGZ8TbM6XSYSl9GV6x6o"
+      "duration_ms": 144003,
+      "name": "Ella Quiere Pichi - Remix",
+      "url": "https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Bilg",
+        "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        },
+        {
+          "name": "West End Tricks",
+          "url": "https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "Bilg",
+      "url": "https://open.spotify.com/track/0teV9KmskEvhm01O37HoUU"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Ride 4 U (Jersey Club)",
+        "url": "https://open.spotify.com/album/6hgEBh5Qtj6lxU07AjQtyt"
+      },
+      "artists": [
+        {
+          "name": "Rhythm HB",
+          "url": "https://open.spotify.com/artist/348CWIvit5QBEkQr1K5dZA"
+        },
+        {
+          "name": "Hyped-Up Reese",
+          "url": "https://open.spotify.com/artist/6dJJNLemkrn3vek2eDrATf"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Ride 4 U - Jersey Club",
+      "url": "https://open.spotify.com/track/5uEP8nRCg5ko57dY2x5HHg"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Love Song (Remixes)",
+        "url": "https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu"
+      },
+      "artists": [
+        {
+          "name": "IV JAY",
+          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
+        },
+        {
+          "name": "TrillzAL",
+          "url": "https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A"
+        }
+      ],
+      "duration_ms": 142528,
+      "name": "Love Song - TrillzAL Jersey Edit",
+      "url": "https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/63vwkqUuzrUyLjd4WaTuOA"
+      },
+      "artists": [
+        {
+          "name": "NTF 3",
+          "url": "https://open.spotify.com/artist/6E3xL8MOqdAAZlzX0KLyMK"
+        }
+      ],
+      "duration_ms": 75952,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3CfLQ2wMW8V31m4SpISHHs"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Posted In The Club",
+        "url": "https://open.spotify.com/album/2MjbX3plYR9ejCkqVHHoXn"
+      },
+      "artists": [
+        {
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/1KKz8zGGq9AmIQwzMT42BJ"
+        }
+      ],
+      "duration_ms": 112587,
+      "name": "Posted In The Club",
+      "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "ALL ON ME",
         "url": "https://open.spotify.com/album/6RbaC0idsKcHF9I28NKDUN"
@@ -1113,131 +1525,7 @@
       "url": "https://open.spotify.com/track/6O3ULRONtP6xLmhtOKnMCl"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/2O6hFD8p2jBrGY2DTN92iM"
-      },
-      "artists": [
-        {
-          "name": "Bakir Floyd",
-          "url": "https://open.spotify.com/artist/1BavGGdtGpEvPKKHZCVZk6"
-        },
-        {
-          "name": "DJ Doughboy",
-          "url": "https://open.spotify.com/artist/6XplAnmNQjkbQGiVLTAl8O"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "2 A.M.",
-      "url": "https://open.spotify.com/track/2ssMpyB6X2tkKXefA1eEGY"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "STAND BACK (RELOADED)",
-        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "93rd",
-          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
-        },
-        {
-          "name": "Killa Kherk Cobain",
-          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "STAND BACK (RELOADED)",
-      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Ayo Smallz",
-        "url": "https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        }
-      ],
-      "duration_ms": 85786,
-      "name": "Weak (Bend Over)",
-      "url": "https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/63vwkqUuzrUyLjd4WaTuOA"
-      },
-      "artists": [
-        {
-          "name": "NTF 3",
-          "url": "https://open.spotify.com/artist/6E3xL8MOqdAAZlzX0KLyMK"
-        }
-      ],
-      "duration_ms": 75952,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3CfLQ2wMW8V31m4SpISHHs"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Swamp Life Anthem (DJ Jayhood Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/73MVESpvv1oLqSateO2ysa"
-      },
-      "artists": [
-        {
-          "name": "SWAMPLIFETERRY",
-          "url": "https://open.spotify.com/artist/7vIPf48FaSPvxaYD4N1r4i"
-        },
-        {
-          "name": "337Mayhem",
-          "url": "https://open.spotify.com/artist/3OHH2dQjcWIdx65HgQvRJG"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 113228,
-      "name": "Swamp Life Anthem - DJ Jayhood Jersey Club Remix",
-      "url": "https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
@@ -1257,287 +1545,75 @@
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+        "name": "Inexhaustible",
+        "url": "https://open.spotify.com/album/3aZuwMShC72bYPlTiilDb2"
       },
       "artists": [
         {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+          "name": "davOmakesbeats",
+          "url": "https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+      "duration_ms": 216113,
+      "name": "deep insides",
+      "url": "https://open.spotify.com/track/5YI2HSjuA5zgwPSuZbDVkP"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/0jsnCwvdP8Y1odzjSwd8fL"
+        "name": "Fast (Motion) [Jersey Club Remix]",
+        "url": "https://open.spotify.com/album/26QXxyTXCOa67EorAPwDEH"
       },
       "artists": [
         {
-          "name": "Doublecchanel",
-          "url": "https://open.spotify.com/artist/0xkn5oAb8h9eCWtZYddN2r"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/7dkOCI9ZygjkpV3213Ydrf"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "5th Element Jersey Club Remixes",
-        "url": "https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ"
-      },
-      "artists": [
-        {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
+          "name": "DJ Get Bizzy",
+          "url": "https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh"
         },
         {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 121364,
-      "name": "For You - DJ Taj Jersey Mix",
-      "url": "https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp"
+      "duration_ms": 99857,
+      "name": "Fast (Motion) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/1KoZiwfdNggROUfXCaf8Tz"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Dream (Jersey Club)",
-        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx"
       },
       "artists": [
         {
-          "name": "DJ T Marq",
-          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+          "name": "BR33ZY",
+          "url": "https://open.spotify.com/artist/2UXvoavIi2SaWRY7A1vgcq"
         }
       ],
-      "duration_ms": 123271,
-      "name": "Dream (Jersey Club)",
-      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+      "duration_ms": 139026,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Money Mouth",
-        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 129348,
-      "name": "Money Mouth",
-      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/6EaTdsV2gQWLd8KCa0xlf4"
-      },
-      "artists": [
-        {
-          "name": "Rome856",
-          "url": "https://open.spotify.com/artist/4bHzhAqq6fkVqZVcPWKjp1"
-        }
-      ],
-      "duration_ms": 121369,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/6p3eGwdNH7Psr1mBoHaZVE"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "When We Get Home",
-        "url": "https://open.spotify.com/album/3caxs1G4p2kggKYYbg5RQf"
-      },
-      "artists": [
-        {
-          "name": "Mike Hardy",
-          "url": "https://open.spotify.com/artist/1RTH5BpQTgj2EUBgE357It"
-        },
-        {
-          "name": "West End Tricks",
-          "url": "https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "When We Get Home",
-      "url": "https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Childs Play Bounce That (Jersey Club)",
-        "url": "https://open.spotify.com/album/683ZzVObUnZaOTzspVxWoF"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 156840,
-      "name": "Childs Play Bounce That (Jersey Club)",
-      "url": "https://open.spotify.com/track/3JurQMM5CRgRKNMHAN4vRH"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Ass on a G String",
-        "url": "https://open.spotify.com/album/7zogegsJGbXFq9no2Z8HSX"
-      },
-      "artists": [
-        {
-          "name": "Stink Floyd",
-          "url": "https://open.spotify.com/artist/1H8sAleslwoOflEpakP621"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 184782,
-      "name": "Ass on a G String",
-      "url": "https://open.spotify.com/track/3VHC9wI06KF4lXw7qxht28"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Ride 4 U (Jersey Club)",
-        "url": "https://open.spotify.com/album/6hgEBh5Qtj6lxU07AjQtyt"
-      },
-      "artists": [
-        {
-          "name": "Rhythm HB",
-          "url": "https://open.spotify.com/artist/348CWIvit5QBEkQr1K5dZA"
-        },
-        {
-          "name": "Hyped-Up Reese",
-          "url": "https://open.spotify.com/artist/6dJJNLemkrn3vek2eDrATf"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Ride 4 U - Jersey Club",
-      "url": "https://open.spotify.com/track/5uEP8nRCg5ko57dY2x5HHg"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "In Lavonnah We Trust",
-        "url": "https://open.spotify.com/album/3VA3bcBKuI7Pnww08U4AP9"
-      },
-      "artists": [
-        {
-          "name": "Dj L-Banga",
-          "url": "https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK"
-        },
-        {
-          "name": "DopeGrlBaby",
-          "url": "https://open.spotify.com/artist/5v8wqAY6LGOMBeO9m62bqk"
-        }
-      ],
-      "duration_ms": 76697,
-      "name": "In Lavonnah We Trust",
-      "url": "https://open.spotify.com/track/0OU6IIg55B0t3GEl3eGWpN"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "nasty",
-        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 175505,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Problem (DJ Sliink Remix)",
-        "url": "https://open.spotify.com/album/6r0KZ3EQSjijQu8P0xiTc3"
-      },
-      "artists": [
-        {
-          "name": "Kriston",
-          "url": "https://open.spotify.com/artist/1SWBEezPuZlQREdoDaww9r"
-        },
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 165052,
-      "name": "Problem (DJ Sliink Remix)",
-      "url": "https://open.spotify.com/track/2CsxuGouCICQgKyPACByU9"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Da Fuq",
-        "url": "https://open.spotify.com/album/03UFUGMSMeqPcrgSXi9bme"
-      },
-      "artists": [
-        {
-          "name": "Manu Estrella",
-          "url": "https://open.spotify.com/artist/3JHYYyBzYjtPV3rIOzVKXb"
-        }
-      ],
-      "duration_ms": 142858,
-      "name": "Da Fuq",
-      "url": "https://open.spotify.com/track/0z5gsQSyA40rhq0EcoH35X"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "The Bounce - EP",
-        "url": "https://open.spotify.com/album/5AMKgEMFOXCmjSfQ0LNDq9"
-      },
-      "artists": [
-        {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
-        },
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        }
-      ],
-      "duration_ms": 109106,
-      "name": "African Rotation (feat. DJ Flex)",
-      "url": "https://open.spotify.com/track/0SRLXQnjE9LL4zmqwmRoxj"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Made U Juke",
         "url": "https://open.spotify.com/album/14CJU3MxfDIX4fTaQ9OVYE"
@@ -1557,66 +1633,30 @@
       "url": "https://open.spotify.com/track/3QSQCwfiYdb3aiEwpNqP9O"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0bkjle50P1ZvOu5AiCMU1G"
       },
       "artists": [
         {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Hatin' Ass Bitches Anthem",
-        "url": "https://open.spotify.com/album/7h1SQh0vkprBubYC0ODa94"
-      },
-      "artists": [
-        {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+          "name": "Niamoni",
+          "url": "https://open.spotify.com/artist/0SPTKSeUoN0qOJHlMH7xhd"
         },
         {
-          "name": "Pyt Ny",
-          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
-        },
-        {
-          "name": "Flyy TheProducer",
-          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+          "name": "Dj Fresh",
+          "url": "https://open.spotify.com/artist/7lmA780bzaejgdZSkWipgY"
         }
       ],
-      "duration_ms": 116610,
-      "name": "Hatin' Ass Bitches Anthem",
-      "url": "https://open.spotify.com/track/7wwzzrCmvvtewHzdngxxDE"
+      "duration_ms": 160031,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3iAGWI09BCggHdWYq3aNpW"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Luhh Galore",
-        "url": "https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        }
-      ],
-      "duration_ms": 88302,
-      "name": "Luhh Galore",
-      "url": "https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "BaDinga (Reloaded)",
-        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
+        "name": "Money Mouth",
+        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
       "artists": [
         {
@@ -1624,247 +1664,163 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "TWRK",
-          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 168000,
-      "name": "BaDinga - Reloaded",
-      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+      "duration_ms": 129348,
+      "name": "Money Mouth",
+      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Jakked Up",
-        "url": "https://open.spotify.com/album/6WQ17Gtu4QpSQvgnp6PSnv"
+        "name": "Holla At Me Like, Vol. 2",
+        "url": "https://open.spotify.com/album/0Wfl2JP1WIs2Bp0Rmc5ZsW"
       },
       "artists": [
         {
-          "name": "Jakkz",
-          "url": "https://open.spotify.com/artist/6970dBjCH8MeminFC6L665"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Shortys Theme",
-      "url": "https://open.spotify.com/track/3HerlmmOF6KfUSKWYMQCnW"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Ella Quiere Pichi (Remix)",
-        "url": "https://open.spotify.com/album/6jOs0HC6KpLmpWJttI8IuV"
-      },
-      "artists": [
-        {
-          "name": "Red Death Grave",
-          "url": "https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         },
         {
-          "name": "Xvideo Token",
-          "url": "https://open.spotify.com/artist/6AJ1tjDBletSq5NEFqZBHK"
-        },
-        {
-          "name": "Oxycxde",
-          "url": "https://open.spotify.com/artist/71hXeewDvaYVnmQU16zSXQ"
+          "name": "Lila Simone",
+          "url": "https://open.spotify.com/artist/2pQyFVF2MBx5bb2MmWZSXv"
         }
       ],
-      "duration_ms": 144003,
-      "name": "Ella Quiere Pichi - Remix",
-      "url": "https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9"
+      "duration_ms": 163604,
+      "name": "Imma Bounce It",
+      "url": "https://open.spotify.com/track/2cKjkMNv4VRvL6kC77OTP7"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Got Back?",
-        "url": "https://open.spotify.com/album/2Z6haOfHog3DbrXuldYjWX"
+        "name": "Let It Burn (Jersey Club)",
+        "url": "https://open.spotify.com/album/0PYccUeVOwyQ0bWdLHvHtR"
       },
       "artists": [
         {
-          "name": "Leemz",
-          "url": "https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN"
-        },
-        {
-          "name": "Yungphnx",
-          "url": "https://open.spotify.com/artist/2OAhLVbWM8ONC9JB4DMMIj"
-        }
-      ],
-      "duration_ms": 135758,
-      "name": "Got Back?",
-      "url": "https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Putcha Back Into It (Bend It Over)",
-        "url": "https://open.spotify.com/album/4r0iqiNICOrbNFLhUYg8eC"
-      },
-      "artists": [
-        {
-          "name": "DJ Difficult",
-          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
-        }
-      ],
-      "duration_ms": 111490,
-      "name": "Putcha Back Into It (Bend It Over)",
-      "url": "https://open.spotify.com/track/1vO1sMpkplct8j62cM1i86"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "We Are Young (Jersey Club)",
-        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "Quis Chandla",
+          "url": "https://open.spotify.com/artist/4pOaNtzVMWNYdoCqTw4n38"
         },
         {
           "name": "DJ Smallz 732",
           "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 109124,
-      "name": "We Are Young (Jersey Club)",
-      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+      "duration_ms": 113921,
+      "name": "Let It Burn (Jersey Club)",
+      "url": "https://open.spotify.com/track/5d4yr29onORjW3t8wQHXto"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "New Jersey Club EP",
-        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/2O6hFD8p2jBrGY2DTN92iM"
       },
       "artists": [
         {
-          "name": "DJ Tray",
-          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
-        }
-      ],
-      "duration_ms": 98208,
-      "name": "Nobody's Perfect - Original Mix",
-      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Slow Motion (VIP)",
-        "url": "https://open.spotify.com/album/6iUEy35Zaa2I2RkomahqSm"
-      },
-      "artists": [
+          "name": "Bakir Floyd",
+          "url": "https://open.spotify.com/artist/1BavGGdtGpEvPKKHZCVZk6"
+        },
         {
-          "name": "RYTM",
-          "url": "https://open.spotify.com/artist/5Cm0HBRXfacRYdrqog3rDx"
+          "name": "DJ Doughboy",
+          "url": "https://open.spotify.com/artist/6XplAnmNQjkbQGiVLTAl8O"
         }
       ],
-      "duration_ms": 132937,
-      "name": "Slow Motion (VIP)",
-      "url": "https://open.spotify.com/track/4gv8CrIsF5qBMstG7cFwhu"
+      "duration_ms": 175020,
+      "name": "2 A.M.",
+      "url": "https://open.spotify.com/track/2ssMpyB6X2tkKXefA1eEGY"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Glitchy Gal",
-        "url": "https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx"
-      },
-      "artists": [
-        {
-          "name": "Dj Super Will",
-          "url": "https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Glitchy Gal",
-      "url": "https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Reloaded",
-        "url": "https://open.spotify.com/album/1yfZgVp1uADXX59Q86RDVU"
-      },
-      "artists": [
-        {
-          "name": "Ziggy",
-          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
-        }
-      ],
-      "duration_ms": 102243,
-      "name": "Look Back at It (Club Mix)",
-      "url": "https://open.spotify.com/track/0viwsuWYy2OV7QFlbjm0iw"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Posted In The Club",
-        "url": "https://open.spotify.com/album/2MjbX3plYR9ejCkqVHHoXn"
-      },
-      "artists": [
-        {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/1KKz8zGGq9AmIQwzMT42BJ"
-        }
-      ],
-      "duration_ms": 112587,
-      "name": "Posted In The Club",
-      "url": "https://open.spotify.com/track/5UDTG9OGUBlUtUh0AEmFoQ"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Steal Her Man Challenge (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/2YIOI3YRAGG14yv9olh3UH"
+        "name": "Clout Chaser, Pt. 4",
+        "url": "https://open.spotify.com/album/75qoG0Zx9aF19ngja8Z1Dh"
       },
       "artists": [
         {
           "name": "Mvntana",
           "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        }
-      ],
-      "duration_ms": 104727,
-      "name": "Steal Her Man Challenge (Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/7kfh2iyJlRgONMJgyhZEPf"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+          "name": "Flyy the Producer",
+          "url": "https://open.spotify.com/artist/1jCHbNhLn02pWxqNWsQFvw"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/5jjGLA9R4YUmCVipl3Btj3"
         }
       ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+      "duration_ms": 150022,
+      "name": "Clout Chaser, Pt. 4",
+      "url": "https://open.spotify.com/track/4GyVJP3XHOVb8CxXQKT8Um"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/7upF3UTuPtrWKf3LU9Jn4t"
+        "name": "I Need You, Pt. 2",
+        "url": "https://open.spotify.com/album/6zrBRU2V83i49vC0850xdT"
       },
       "artists": [
         {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+          "name": "Quilll",
+          "url": "https://open.spotify.com/artist/0ybxWFFP0ce6hKr8FODFk8"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/7ki5Zd8IydTM7m4uUauLVp"
+      "duration_ms": 111857,
+      "name": "I Need You, Pt. 2",
+      "url": "https://open.spotify.com/track/2TII48JCtfW8JNfsVMP0yJ"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Team Lilman Anthem",
-        "url": "https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l"
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/2f4c6NPzKvnz2aY0DeRJaR"
+      },
+      "artists": [
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        },
+        {
+          "name": "Dinero",
+          "url": "https://open.spotify.com/artist/08qzaspDb3uZph7u5ZI35F"
+        },
+        {
+          "name": "ReekOnaBeat",
+          "url": "https://open.spotify.com/artist/2kzZeBkumPkgewG4FZfCN2"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "My Back 2020",
+      "url": "https://open.spotify.com/track/1CQNhW4EjAbKxCBDzrc9ru"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "nasty",
+        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 175505,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
       },
       "artists": [
         {
@@ -1872,32 +1828,52 @@
           "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
         }
       ],
-      "duration_ms": 178207,
-      "name": "Team Lilman Anthem",
-      "url": "https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW"
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Level Up (Jersey Club)",
-        "url": "https://open.spotify.com/album/3AuNlv0TPfqYDODedT1Atx"
+        "name": "In Lavonnah We Trust",
+        "url": "https://open.spotify.com/album/3VA3bcBKuI7Pnww08U4AP9"
       },
       "artists": [
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "Dj L-Banga",
+          "url": "https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK"
         },
         {
-          "name": "Dj K-Deucez",
-          "url": "https://open.spotify.com/artist/3TE5mTqmLBjN340lrmW2YF"
+          "name": "DopeGrlBaby",
+          "url": "https://open.spotify.com/artist/5v8wqAY6LGOMBeO9m62bqk"
         }
       ],
-      "duration_ms": 126380,
-      "name": "Level Up (Jersey Club)",
-      "url": "https://open.spotify.com/track/0nhlsJHrfmxMIWYKAeQYIk"
+      "duration_ms": 76697,
+      "name": "In Lavonnah We Trust",
+      "url": "https://open.spotify.com/track/0OU6IIg55B0t3GEl3eGWpN"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "POZZ",
+        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+      },
+      "artists": [
+        {
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+        },
+        {
+          "name": "COSMO ENVOIE DES TRACKS",
+          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "POZZ",
+      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "New Jersey Club vol.2",
         "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
@@ -1908,9 +1884,45 @@
           "url": "https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk"
         }
       ],
-      "duration_ms": 164000,
-      "name": "I'm A Feak - Original Mix",
-      "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
+      "duration_ms": 176000,
+      "name": "Like This - Original Mix",
+      "url": "https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
+      },
+      "artists": [
+        {
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
+        }
+      ],
+      "duration_ms": 131291,
+      "name": "Why You Think You're Fierce - Original Mix",
+      "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4Qfk2gtSfyPeVv2Lygz7Ee"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Teez",
+          "url": "https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5cNtRdWHiLwedKKo0xrebh"
     }
   ],
   "unique_name": "Jersey Club Heat",

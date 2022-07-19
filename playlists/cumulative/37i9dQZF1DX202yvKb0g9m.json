@@ -403,7 +403,7 @@
       },
       "artists": [
         {
-          "name": "Maurice Mc Gee",
+          "name": "Maurice McGee",
           "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
         }
       ],
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 178666,
       "name": "Land Of Confusion",
       "url": "https://open.spotify.com/track/45WAqLonACPBfTZd6ye5tn"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 262506,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 322933,
       "name": "Music and Lights",
       "url": "https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh"
@@ -911,6 +911,24 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 284000,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5"
     },
     {
       "album": {

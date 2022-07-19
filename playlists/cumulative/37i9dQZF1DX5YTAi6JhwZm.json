@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Happy and swinging jazz.",
+  "description": "Uplifting and happy jazz to get you in a good mood.",
   "name": "Happy Jazz!",
   "published_playlist_ids": [
     "4R45R96b2S3hona44q5p1v"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 338106,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/5riSr1LFW4Bv7JzMNwIc9C"
@@ -555,10 +555,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 273418,
       "name": "Hampus & Anna",
       "url": "https://open.spotify.com/track/42ZlXHwEqXy9ezOEkd3wOx"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/35CJDMD5vmhwT4ybPlGRHa"
+      },
+      "artists": [
+        {
+          "name": "Stav Goldberg",
+          "url": "https://open.spotify.com/artist/5CRwdWuGHFsgGncNfFU3X2"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332579,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/2MdVE0AkcaD126zpvs3JPv"
     },
     {
       "album": {
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 204875,
       "name": "It's an Upright Thing",
       "url": "https://open.spotify.com/track/4UQBp5wMIPImW0kt78ojSk"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 288880,
       "name": "Pour Qui Pourquoi",
       "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 459186,
       "name": "Relaxin' with Nick",
       "url": "https://open.spotify.com/track/72WMLhzElYiDPqCf3LbCCx"
@@ -1647,6 +1665,24 @@
       "duration_ms": 225145,
       "name": "Soon",
       "url": "https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk"
+    },
+    {
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 166589,
+      "name": "Soul Bossa Nova",
+      "url": "https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0"
     },
     {
       "album": {
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 850493,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/7mV4LigxLh80JjZlSxEd9M"

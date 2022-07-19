@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,634 likes - 50 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,436 likes - 50 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 36 | [Stardust](https://open.spotify.com/track/5X12jWBLxJCDS6KK8rkZte) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6dIeX6nxmkRB0LeV0UW1P9) | 10:41 |
 | 37 | [Take The Coltrane](https://open.spotify.com/track/3CmgNV2pHWCPzEeTr40hPH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg) | 4:42 |
 | 38 | [Crescent](https://open.spotify.com/track/2NPkViduOC3H0UV9OJeWph) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/0O6WxKmmQsjIrSkXh8qH0d) | 8:44 |
-| 39 | [Moment's Notice \- Remastered](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
+| 39 | [Moment's Notice \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 9:10 |
 | 40 | [Lush Life](https://open.spotify.com/track/7csduT9drHN3Qb7jsQhA3c) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/4zP1ZWEs1q8c0HBYO5uetC) | 13:57 |
 | 41 | [Alabama](https://open.spotify.com/track/0V7EuJ17Bf8zYpS2XRL6pE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/60Y9PfPjTMTX28drYS89Go) | 5:08 |
 | 42 | [Blue Train \- Remastered 2003](https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 10:44 |

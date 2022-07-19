@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-53 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+54 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Raxmus](https://open.spotify.com/track/7genqLMWdEZrpTMfNFuoTp) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 3:04 | 2021-11-12 |  |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-11-12 |  |
 | [School Of Fish](https://open.spotify.com/track/6vcGfhUigAp0sXzBUeLfNM) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3), [Mixmaster Morris](https://open.spotify.com/artist/4YuO08xFlO9FYWKC73zov9) | [Dreamfish](https://open.spotify.com/album/0YT22XVTkzZ61STHHpruVI) | 18:21 | 2021-11-12 |  |
+| [Shining Path](https://open.spotify.com/track/0SNeqvQXkfq4YNsbrCzYa7) | [Dreadzone](https://open.spotify.com/artist/2hrrhKOVsxoCIZb9H4ZBCZ) | [Second Light](https://open.spotify.com/album/7JCidY6IL2ddmIKQaglXr2) | 7:22 | 2022-05-19 |  |
 | [Shpongle Falls](https://open.spotify.com/track/33F3D9Al5ecWuEjztKcDGf) | [Shpongle](https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ) | [Are You Shpongled?](https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf) | 8:33 | 2021-11-12 |  |
 | [Snakedance](https://open.spotify.com/track/7yRZn8VlNReH0P04w1o0uv) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 8:35 | 2021-11-12 |  |
 | [Spectral](https://open.spotify.com/track/6p0N2HNDXZEcPHnliWTlvH) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 7:01 | 2021-11-12 |  |

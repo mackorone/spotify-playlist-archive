@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk\">Biff Stannard</a>, all in one playlist. <a href=\"spotify:genre:songwriters-page\">Discover more songwriters on Spotify</a>.",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk\">Biff Stannard</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Biff Stannard",
   "published_playlist_ids": [
     "1vO472V3XfC0C1yYfOuExo"
@@ -2399,6 +2399,32 @@
       "duration_ms": 212419,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/2cbm6J75mCLGczjTnPEyrB"
+    },
+    {
+      "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "World Watching (feat. Lil Tjay & Yung Bleu)",
+      "url": "https://open.spotify.com/track/6HDe7ITVyXYBZWJ2SaBU0x"
     },
     {
       "album": {

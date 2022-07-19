@@ -4,7 +4,7 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-53 songs - 2 hr 45 min - not published yet
+53 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/1wWzoqfCgituqvGu8AuaaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

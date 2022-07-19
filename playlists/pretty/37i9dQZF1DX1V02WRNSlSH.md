@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V02WRNSlSH.md) - [plain]
 
 > Country Music to tickle your funny bone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,085 likes - 77 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,070 likes - 77 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

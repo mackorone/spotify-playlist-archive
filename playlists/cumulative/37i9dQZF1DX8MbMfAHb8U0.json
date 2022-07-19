@@ -1904,6 +1904,24 @@
     },
     {
       "album": {
+        "name": "2000 Watts",
+        "url": "https://open.spotify.com/album/3iqLf7BrFWw215CTshTq1J"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/6IOQR0cX0I8TW3GemSy5bG"
+    },
+    {
+      "album": {
         "name": "Landing On a Hundred: B Sides and Remixes",
         "url": "https://open.spotify.com/album/2H4nWuCGz83gV3uE49x9dS"
       },

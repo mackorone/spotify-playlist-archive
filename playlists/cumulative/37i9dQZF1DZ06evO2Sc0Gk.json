@@ -27,10 +27,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175394,
+      "name": "Accra to Lagos",
+      "url": "https://open.spotify.com/track/0WvsGQtjaCJAS8P1EoqkQs"
     },
     {
       "album": {
@@ -45,7 +63,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 175394,
       "name": "Accra to Lagos",
       "url": "https://open.spotify.com/track/3awa4nM82t3LJePKfIxchz"
@@ -227,7 +245,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-05-12",
       "duration_ms": 248450,
       "name": "Bankulize",
       "url": "https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl"
@@ -275,10 +293,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
+    },
+    {
+      "album": {
+        "name": "Walshy Fire Presents: ABENG",
+        "url": "https://open.spotify.com/album/1AQVoSKakU0Yd3ujxdjkKT"
+      },
+      "artists": [
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 183299,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3KWr28Ybsc8fQR9lTwEbci"
     },
     {
       "album": {
@@ -312,6 +356,84 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 180555,
+      "name": "Chicken Curry",
+      "url": "https://open.spotify.com/track/0lAoKoYx3IlflMn8bo3ehR"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 180555,
+      "name": "Chicken Curry",
+      "url": "https://open.spotify.com/track/6s7mVENVsuHRSDgoA0q5qq"
+    },
+    {
+      "album": {
+        "name": "Come Online (feat. King Promise & Diquenza) [Remix]",
+        "url": "https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 156545,
+      "name": "Come Online (feat. King Promise & Diquenza) - Remix",
+      "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
+    },
+    {
+      "album": {
         "name": "Come Online (Remix)",
         "url": "https://open.spotify.com/album/1eotNZ9P5imMktTagjngfJ"
       },
@@ -339,7 +461,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-22",
       "duration_ms": 156545,
       "name": "Come Online - Remix",
       "url": "https://open.spotify.com/track/1XJkSLSrzIlwxSm3SYxYSb"
@@ -372,6 +494,32 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos To London",
         "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
       },
@@ -391,7 +539,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/6xe6BocwJcN1MIipYaHdkV"
@@ -561,7 +709,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-17",
       "duration_ms": 192000,
       "name": "Flex - Remix",
       "url": "https://open.spotify.com/track/2FZpTgE0ksf5lmxi4wx6Zf"
@@ -717,7 +865,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-06",
+      "date_removed": null,
       "duration_ms": 159230,
       "name": "I Wanna Run Away",
       "url": "https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs"
@@ -747,7 +895,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 193739,
       "name": "I Wanna Run Away (feat. Wafia) - Jonasu Remix",
       "url": "https://open.spotify.com/track/7KS5ya9DdhDYUSYeku98VC"
@@ -769,10 +917,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 215822,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/28sixsVzWagLkjuX7VeEx0"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Big Lean",
+          "url": "https://open.spotify.com/artist/3DF2S0BJ06q1FwvruHqF06"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215822,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/7LKNnb2aRFAK6WcvB0nCp7"
     },
     {
       "album": {
@@ -787,10 +957,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 168187,
       "name": "Keys to the City (Ogede)",
       "url": "https://open.spotify.com/track/0jUPkHqisoyy4yFzeo1Qho"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168187,
+      "name": "Keys to the City (Ogede)",
+      "url": "https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc"
     },
     {
       "album": {
@@ -827,7 +1015,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-06-03",
       "duration_ms": 144000,
       "name": "Kpalanga",
       "url": "https://open.spotify.com/track/6tIePLBQofcazi1Hhximzv"
@@ -845,10 +1033,46 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "album": {
@@ -919,7 +1143,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": "2022-06-17",
       "duration_ms": 200408,
       "name": "London Town",
       "url": "https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa"
@@ -945,7 +1169,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 214373,
       "name": "Love Struck (feat. Tiwa Savage & Mr Eazi)",
       "url": "https://open.spotify.com/track/6wO8AzCOhutr1QwfwFcmZb"
@@ -967,10 +1191,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 176766,
       "name": "Miss You Bad",
       "url": "https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "album": {
@@ -1086,6 +1332,28 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164001,
+      "name": "Open & Close",
+      "url": "https://open.spotify.com/track/69BDyJybd7jXW0Tvl5QHt6"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos To London",
         "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
       },
@@ -1101,10 +1369,36 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 164001,
       "name": "Open & Close",
       "url": "https://open.spotify.com/track/6NxwOC0X9R1Q8FnqvULkQQ"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/0PMhkoqlvlAkYalQxGJhSe"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/0gI4KIsL9cf0IQbMRDkByQ"
     },
     {
       "album": {
@@ -1153,7 +1447,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-05-11",
       "duration_ms": 190506,
       "name": "Party",
       "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
@@ -1201,10 +1495,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "Pilolo",
       "url": "https://open.spotify.com/track/4eQjrzsmjd9T8zmcK4Kmnv"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "album": {
@@ -1219,10 +1531,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 168159,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/3pbRmP0Hqit2A4FcnOGAiF"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "album": {
@@ -1241,7 +1575,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-05-11",
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/6XDOVfZEH8XPMpnX9dIqcT"
@@ -1322,6 +1656,28 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 151656,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0NrppiQcbgGrgobengy7e2"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos To London",
         "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
       },
@@ -1337,7 +1693,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 151656,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/38Rpan2UFcpt8ANdRbsysZ"
@@ -1406,6 +1762,28 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
@@ -1429,7 +1807,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
@@ -1485,7 +1863,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-05-28",
       "duration_ms": 179750,
       "name": "Tall Shade",
       "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
@@ -1547,7 +1925,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 150927,
       "name": "Thank You (Freestyle)",
       "url": "https://open.spotify.com/track/69UHM2u5TC00vjJKTLhk9M"
@@ -1665,7 +2043,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": "2022-07-14",
       "duration_ms": 200986,
       "name": "Whatever You Like (feat. Aida Lae)",
       "url": "https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd"

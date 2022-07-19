@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,394 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,389 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 | 20 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/3RkvscbM4aNbELiQf7PJwn) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Happy \(From "Despicable Me 2"\)](https://open.spotify.com/album/1tXHmyPSfn6gJHkAifLGDj) | 3:53 |
 | 21 | [Girlfriend](https://open.spotify.com/track/7ajoc4FfovSUmNzreq8S8x) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Girlfriend](https://open.spotify.com/album/1jwwRnvQrykmQwyPzfVZJt) | 2:50 |
 | 22 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
-| 23 | [Wicked Games](https://open.spotify.com/track/1yoO94wPL8khknS04ltxkn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games](https://open.spotify.com/album/2VFTNZsNxQxk4CjEWB4PuG) | 3:15 |
+| 23 | [Wicked Games \(feat\. Anna Naklab\)](https://open.spotify.com/track/1yoO94wPL8khknS04ltxkn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Wicked Games \(feat\. Anna Naklab\)](https://open.spotify.com/album/2VFTNZsNxQxk4CjEWB4PuG) | 3:15 |
 | 24 | [I'll Take Care Of U](https://open.spotify.com/track/1YrDXC5z5rbJnbzCQOjOgQ) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/3tjP8SLyGerhquO9eMOlWy) | 4:42 |
 | 25 | [Higher Love \- Single Version](https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:12 |
 | 26 | [Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio) | 5:06 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 | 53 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/4czNORk5MjW5WOn98bki32) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:18 |
 | 54 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 |
 | 55 | [Come Together](https://open.spotify.com/track/0WGji1pxqswFYpd9MAvZCf) | [The Beatles Tribute Project](https://open.spotify.com/artist/7EzNTMzMN70jRxBWbxeshd) | [The Beatles Tribute Project: Volume I](https://open.spotify.com/album/14z6Ed6BQpI7YO1c740OiV) | 4:09 |
-| 56 | [We Are Family](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
+| 56 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 57 | [Hey, Soul Sister](https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hey, Soul Sister](https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O) | 3:36 |
 | 58 | [You're My Best Friend \- 2011 Remaster](https://open.spotify.com/track/4fc22WG0e3Qoq6FxAALmYW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \(2011 Remaster\)](https://open.spotify.com/album/6VAFbY1kcBF748xSyyisxY) | 2:50 |
 | 59 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |

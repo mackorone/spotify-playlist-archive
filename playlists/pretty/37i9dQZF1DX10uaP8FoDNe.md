@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10uaP8FoDNe.md) - [plain]
 
 > Including genre\-defining classics \(Steve Reich, Philip Glass\), postminimalism \(Paul Dresher, Louis Andriessen\), holy minimalism \(Henryk Górecki, Arvo Pärt\) and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,423 likes - 51 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,277 likes - 51 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

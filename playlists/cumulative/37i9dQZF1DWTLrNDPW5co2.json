@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: India Jordan",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: I.JORDAN",
   "name": "Club Resistance",
   "published_playlist_ids": [
     "5vZl4HOsHwZbAbRX9ClTqT"
@@ -30,6 +30,42 @@
     },
     {
       "album": {
+        "name": "160 DOWN THE A406",
+        "url": "https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362845,
+      "name": "160 DOWN THE A406",
+      "url": "https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl"
+    },
+    {
+      "album": {
+        "name": "Always Been",
+        "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Always Been - Edit",
+      "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
+    },
+    {
+      "album": {
         "name": "Amber Rush",
         "url": "https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW"
       },
@@ -53,13 +89,13 @@
       },
       "artists": [
         {
-          "name": "India Jordan",
+          "name": "I. JORDAN",
           "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
         }
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -95,7 +131,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 127131,
       "name": "BDE - Shy POV",
       "url": "https://open.spotify.com/track/6HFXNM7rmAMuQYsUlrd3FF"
@@ -117,7 +153,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 232000,
       "name": "Between The Lines - The Blessed Madonna Remix / Edit",
       "url": "https://open.spotify.com/track/7FEIfd9agzVp7RMhNuLdHv"
@@ -139,7 +175,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 209550,
       "name": "Black",
       "url": "https://open.spotify.com/track/1MyTViq9p2q2OsOa5a7z70"
@@ -164,6 +200,28 @@
     },
     {
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/6ZyK0TDgMxRoBQ1jJwa4d6"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/7mK6uyVj6zhU4nPgY1VjN0"
+    },
+    {
+      "album": {
         "name": "Born Yesterday",
         "url": "https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi"
       },
@@ -179,7 +237,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 198529,
       "name": "Born Yesterday",
       "url": "https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6"
@@ -197,7 +255,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 184405,
       "name": "Brave",
       "url": "https://open.spotify.com/track/6pVWyzDnj5gazL2QpZN9Qv"
@@ -237,7 +295,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 372150,
       "name": "Chaos in the Distance",
       "url": "https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW"
@@ -280,6 +338,42 @@
     },
     {
       "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224874,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
+    },
+    {
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216179,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
+    },
+    {
+      "album": {
         "name": "Downtown (feat. Annette Bowen & Nikki-O)",
         "url": "https://open.spotify.com/album/4gxf9I5X6rUywK85hFwvrZ"
       },
@@ -299,10 +393,46 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235067,
       "name": "Downtown (feat. Annette Bowen & Nikki-O)",
       "url": "https://open.spotify.com/track/7JN4rYLphO4zyPP04Ibftj"
+    },
+    {
+      "album": {
+        "name": "DRaiN",
+        "url": "https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "DRaiN",
+      "url": "https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD"
+    },
+    {
+      "album": {
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/3XWCKVGT137CUdNDYm3waR"
     },
     {
       "album": {
@@ -317,7 +447,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 357471,
       "name": "Dubonica",
       "url": "https://open.spotify.com/track/7oBTCnTBTugFqjWPEWo8gI"
@@ -361,10 +491,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 247720,
       "name": "Exorcism of a Self-Help Book",
       "url": "https://open.spotify.com/track/3iHThekmT7blCYAjRT4zhQ"
+    },
+    {
+      "album": {
+        "name": "Express Yourself / Radiator",
+        "url": "https://open.spotify.com/album/56PFS6rrDqyg7c23TcZXsR"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/1eyLFH7hE2nekDclVJTUuE"
     },
     {
       "album": {
@@ -415,7 +563,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 263841,
       "name": "Forward Flamingo",
       "url": "https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN"
@@ -437,6 +585,24 @@
       "duration_ms": 295384,
       "name": "Girl U Could Be Down 4",
       "url": "https://open.spotify.com/track/2AqNfj3Y6t3mvdc6TSXaE2"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "album": {
@@ -516,6 +682,32 @@
     },
     {
       "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Kai-Isaiah Jamal",
+          "url": "https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326146,
+      "name": "Human Sound",
+      "url": "https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E"
+    },
+    {
+      "album": {
         "name": "Muvaland",
         "url": "https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14"
       },
@@ -539,6 +731,24 @@
       "duration_ms": 188220,
       "name": "ICU (feat. Nomi Ruiz)",
       "url": "https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT"
+    },
+    {
+      "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI"
+      },
+      "artists": [
+        {
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199356,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU"
     },
     {
       "album": {
@@ -669,10 +879,50 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 195235,
       "name": "Love Is a Punk",
       "url": "https://open.spotify.com/track/1732srdcOTzgjnmOZXHDbe"
+    },
+    {
+      "album": {
+        "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+        "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
+    },
+    {
+      "album": {
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "album": {
@@ -713,6 +963,24 @@
       "duration_ms": 398215,
       "name": "Marlene",
       "url": "https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5jkUwcsa1zE8AsAloYnfqA"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2un8Lsq9ngtBRa2HlGuPXE"
     },
     {
       "album": {
@@ -771,10 +1039,46 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 238198,
       "name": "My House (10 Years of Eats Everything Main Street Mix)",
       "url": "https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b"
+    },
+    {
+      "album": {
+        "name": "My Purple iPod Nano",
+        "url": "https://open.spotify.com/album/6ZtbaBOXFTZfUEJ13ajgZn"
+      },
+      "artists": [
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 412702,
+      "name": "My Purple iPod Nano",
+      "url": "https://open.spotify.com/track/18ux1xlbmVg2nlNA84NWu7"
+    },
+    {
+      "album": {
+        "name": "My Purple iPod Nano (2nd Gen)",
+        "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
+      },
+      "artists": [
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164661,
+      "name": "My Purple iPod Nano (2nd Gen)",
+      "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
     },
     {
       "album": {
@@ -797,6 +1101,24 @@
       "duration_ms": 201230,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq"
+    },
+    {
+      "album": {
+        "name": "Night Creature",
+        "url": "https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211853,
+      "name": "Night Creature",
+      "url": "https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12"
     },
     {
       "album": {
@@ -851,6 +1173,24 @@
       "duration_ms": 294210,
       "name": "Peanut Power",
       "url": "https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY"
+    },
+    {
+      "album": {
+        "name": "KICK ii",
+        "url": "https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH"
     },
     {
       "album": {
@@ -967,7 +1307,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 236164,
       "name": "Sage comme une image - Good as Gold",
       "url": "https://open.spotify.com/track/2RdqkCm1yEj0V3J7BEYSzT"
@@ -1003,10 +1343,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 259849,
       "name": "Sick Bitch",
       "url": "https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV"
+    },
+    {
+      "album": {
+        "name": "SLIME",
+        "url": "https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 159000,
+      "name": "SLIME",
+      "url": "https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD"
     },
     {
       "album": {
@@ -1061,7 +1419,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 207656,
       "name": "The Human Stone (feat. Angie Stone)",
       "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
@@ -1101,10 +1459,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237496,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom"
     },
     {
       "album": {
@@ -1185,7 +1561,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 299255,
       "name": "You Should Run",
       "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"

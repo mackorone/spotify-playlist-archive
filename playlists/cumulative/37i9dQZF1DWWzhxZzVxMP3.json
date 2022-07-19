@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 353756,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Chill in Saint Tropez",
+        "url": "https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Garota de Ipanema (The Girl From Ipanema)",
+      "url": "https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII"
+    },
+    {
+      "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 193660,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 231500,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 204373,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6XLzVUmjuhpYy9EAnC6KDN"
@@ -1114,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Goergeana Bonow",
+          "url": "https://open.spotify.com/artist/25VivtV8vqrjP0HoCXZGKr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201598,
+      "name": "Killing Me Softly (Bossa version)",
+      "url": "https://open.spotify.com/track/5TNHOFeNKPU1uwYlIetsjO"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly With His Song",
         "url": "https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM"
       },
@@ -1209,6 +1245,28 @@
       "duration_ms": 197853,
       "name": "Love Lies",
       "url": "https://open.spotify.com/track/1SSmVej43KwTllyM9FH3ax"
+    },
+    {
+      "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/7Jl45cmO0a0yzJJw62i3Ps"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/2F3Ta1V8cKZfLmu5vEF41b"
     },
     {
       "album": {
@@ -1360,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223889,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6bzKHErUwnKYXMooyayCEL"
       },
@@ -1425,7 +1505,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 213746,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB"
@@ -1461,7 +1541,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 266440,
       "name": "Shape Of You - Bossa Mix",
       "url": "https://open.spotify.com/track/4yo1BZtyOL5DeqRCtAhg38"
@@ -1638,6 +1718,24 @@
     },
     {
       "album": {
+        "name": "Stayin' Alive",
+        "url": "https://open.spotify.com/album/3plUh4cu5YpQJRHY61QHBN"
+      },
+      "artists": [
+        {
+          "name": "Margaux de Fouchier",
+          "url": "https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "Stayin\u2019 Alive",
+      "url": "https://open.spotify.com/track/5KgnB166PJ24Oypfe8petC"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Nova Cover Hits",
         "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
@@ -1675,6 +1773,28 @@
       "duration_ms": 156641,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/5RrY34g0sNf76ynA3SEarW"
+    },
+    {
+      "album": {
+        "name": "Sweet Child O' Mine",
+        "url": "https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204154,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy"
     },
     {
       "album": {
@@ -1786,6 +1906,46 @@
     },
     {
       "album": {
+        "name": "Vintage Caf\u00e9 - Lounge & Jazz Blends (Special Selection), Pt. 9",
+        "url": "https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ"
+      },
+      "artists": [
+        {
+          "name": "Scubba",
+          "url": "https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249692,
+      "name": "Viva La Vida - Bossa Version",
+      "url": "https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (Millenium Edition)",
+        "url": "https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Nova Cover Hits",
         "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
@@ -1819,6 +1979,28 @@
       "duration_ms": 203215,
       "name": "Weak",
       "url": "https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC"
+      },
+      "artists": [
+        {
+          "name": "Juis de Fora",
+          "url": "https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt"
+        },
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161514,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj"
     },
     {
       "album": {

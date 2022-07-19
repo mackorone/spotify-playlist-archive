@@ -288,7 +288,7 @@
     },
     {
       "album": {
-        "name": "Beethoven : Symphonies Nos 1 - 9",
+        "name": "Beethoven: Symphonies Nos. 1 - 9",
         "url": "https://open.spotify.com/album/1DgZ1qWpGuiNzd0a5ge7wn"
       },
       "artists": [
@@ -314,7 +314,7 @@
     },
     {
       "album": {
-        "name": "Beethoven: Symphonies 1-9",
+        "name": "Beethoven: Symphonies Nos. 1 - 9",
         "url": "https://open.spotify.com/album/0j0ZWrFGAFVAmngUuI00VQ"
       },
       "artists": [
@@ -340,7 +340,7 @@
     },
     {
       "album": {
-        "name": "Beethoven: Symphonies 1-9",
+        "name": "Beethoven: Symphonies Nos. 1 - 9",
         "url": "https://open.spotify.com/album/0j0ZWrFGAFVAmngUuI00VQ"
       },
       "artists": [
@@ -1346,6 +1346,36 @@
     },
     {
       "album": {
+        "name": "Romance in F Major, Op. 50",
+        "url": "https://open.spotify.com/album/7K8NC7FE0Jc225sdLR3NUd"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Charlie Siem",
+          "url": "https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Oleg Caetani",
+          "url": "https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "Romance in F Major, Op. 50",
+      "url": "https://open.spotify.com/track/5J6ciJRfuNau7VQtzzqBra"
+    },
+    {
+      "album": {
         "name": "Beethoven: Violin Concerto - Romances Nos. 1 & 2",
         "url": "https://open.spotify.com/album/64HiT8R0gtj19MAV4Vt3QZ"
       },
@@ -1369,7 +1399,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 590000,
       "name": "Romance No. 2 in F Major, Op. 50",
       "url": "https://open.spotify.com/track/6jfVHN169yG6sufCOmfsIE"
@@ -1738,6 +1768,28 @@
     },
     {
       "album": {
+        "name": "Nature & Life",
+        "url": "https://open.spotify.com/album/256dZn7vDsrXAFXgJeBYtP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maurizio Baglini",
+          "url": "https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "Symphony No. 6 in F Major, Op. 68 \"Pastoral\" (Transcr. Liszt for Piano, S. 464/6): IV. Gewitter. Sturm. Allegro",
+      "url": "https://open.spotify.com/track/1P4sxkTbgPZd4nTc59epkQ"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphonies Nos. 4 and 7",
         "url": "https://open.spotify.com/album/4UgyF4SKKjFE00egVxKnkb"
       },
@@ -1865,6 +1917,32 @@
       "duration_ms": 771320,
       "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 3. Adagio molto e cantabile",
       "url": "https://open.spotify.com/track/69nDKRbYZLGNEkPhImEVGB"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/0wRVXS1MuIYWZG308KMoqF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": IVa. Finale. Presto",
+      "url": "https://open.spotify.com/track/1bI07u4VsVOkZgqmdJFhm3"
     },
     {
       "album": {

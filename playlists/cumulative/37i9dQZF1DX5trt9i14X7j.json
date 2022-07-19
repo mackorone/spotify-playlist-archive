@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
@@ -37,7 +73,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 209500,
       "name": "1984",
       "url": "https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd"
@@ -196,21 +232,21 @@
     },
     {
       "album": {
-        "name": "Arctic Future",
-        "url": "https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP"
+        "name": "Var\u00f0a",
+        "url": "https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH"
       },
       "artists": [
         {
-          "name": "Mark Watson",
-          "url": "https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv"
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
         }
       ],
-      "date_added": "2021-12-08",
+      "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 202930,
-      "name": "Arctic Future",
-      "url": "https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8"
+      "duration_ms": 155733,
+      "name": "Atlav\u00edk",
+      "url": "https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh"
     },
     {
       "album": {
@@ -387,7 +423,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 362973,
       "name": "Conquistador I",
       "url": "https://open.spotify.com/track/1FxF09nqDzYgvsB5UcmTtY"
@@ -506,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Dreamscapes",
+      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
+    },
+    {
+      "album": {
         "name": "Small Craft On A Milk Sea",
         "url": "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
       },
@@ -529,6 +583,60 @@
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
+    },
+    {
+      "album": {
+        "name": "Ethereal Glow",
+        "url": "https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "Ethereal Glow",
+      "url": "https://open.spotify.com/track/381cpx26XrMnGOIn4faioN"
+    },
+    {
+      "album": {
+        "name": "Everlonging",
+        "url": "https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw"
+      },
+      "artists": [
+        {
+          "name": "Niveous",
+          "url": "https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Everlonging",
+      "url": "https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf"
+    },
+    {
+      "album": {
+        "name": "everpresent",
+        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "everpresent",
+      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
     },
     {
       "album": {
@@ -597,7 +705,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 257142,
       "name": "Flangosh",
       "url": "https://open.spotify.com/track/7p1jTvgw2DdXFn8J2xQN5F"
@@ -655,6 +763,46 @@
       "duration_ms": 416931,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
+    },
+    {
+      "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw"
+    },
+    {
+      "album": {
+        "name": "Further Than Far",
+        "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Further Than Far",
+      "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
     },
     {
       "album": {
@@ -727,6 +875,24 @@
       "duration_ms": 321000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU"
     },
     {
       "album": {
@@ -896,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo"
+      },
+      "artists": [
+        {
+          "name": "Cake House",
+          "url": "https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147307,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
+    },
+    {
+      "album": {
         "name": "Dosages",
         "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
       },
@@ -965,6 +1149,24 @@
       "duration_ms": 241114,
       "name": "Mauer Blues",
       "url": "https://open.spotify.com/track/1NqGRBFJXZKeQDlenJSMbs"
+    },
+    {
+      "album": {
+        "name": "Mil Sonidos",
+        "url": "https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe"
+      },
+      "artists": [
+        {
+          "name": "Reina del Mar",
+          "url": "https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mil Sonidos",
+      "url": "https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg"
     },
     {
       "album": {
@@ -1372,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Snowfields",
+        "url": "https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Snowfields",
+      "url": "https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs"
+    },
+    {
+      "album": {
         "name": "So We Won't Forget",
         "url": "https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa"
       },
@@ -1462,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Stillness Within",
+        "url": "https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd"
+      },
+      "artists": [
+        {
+          "name": "Roots and Recognition",
+          "url": "https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175782,
+      "name": "Stillness Within",
+      "url": "https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg"
+    },
+    {
+      "album": {
         "name": "Kermesse",
         "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
       },
@@ -1527,7 +1765,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 453400,
       "name": "Ten Days Of Blue",
       "url": "https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH"
@@ -1549,24 +1787,6 @@
       "duration_ms": 153600,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j"
-    },
-    {
-      "album": {
-        "name": "The World Is Turning",
-        "url": "https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j"
-      },
-      "artists": [
-        {
-          "name": "Kylian Rebour",
-          "url": "https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX"
-        }
-      ],
-      "date_added": "2021-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 118582,
-      "name": "The World is Turning",
-      "url": "https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3"
     },
     {
       "album": {
@@ -1643,6 +1863,24 @@
       "duration_ms": 190500,
       "name": "We Contain Multitudes - from home",
       "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
+    },
+    {
+      "album": {
+        "name": "Winter Sun",
+        "url": "https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi"
+      },
+      "artists": [
+        {
+          "name": "Sun Of They",
+          "url": "https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j"
     },
     {
       "album": {

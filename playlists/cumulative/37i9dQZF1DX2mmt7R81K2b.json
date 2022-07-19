@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where jazz meets classical, and classical meets jazz. Cover: Chick Corea",
+  "description": "Where jazz meets classical, and classical meets jazz. ",
   "name": "Jazz Meets Classical",
   "published_playlist_ids": [
     "4YuG6HthB2L9AI2fFZW3dd"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 226573,
       "name": "After Bach: Pastorale",
       "url": "https://open.spotify.com/track/5vCNv1uY5VXhKbXNHfCncf"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 475760,
       "name": "Air",
       "url": "https://open.spotify.com/track/1tnnm3DETXCM7ysjN81hed"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 178426,
       "name": "Air on a G String",
       "url": "https://open.spotify.com/track/7GABoAxY91pS4eqz9nRCEw"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 667733,
       "name": "Clair de Lune",
       "url": "https://open.spotify.com/track/273VxALm722DRN4PNujOF8"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 980506,
       "name": "Concierto de Aranjuez: Adagio",
       "url": "https://open.spotify.com/track/5snEgy8RMnkJZqfwqD6svi"
@@ -368,10 +368,6 @@
         "url": "https://open.spotify.com/album/4F2ApYDxzFRvN4XN2NNAYX"
       },
       "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
         {
           "name": "Eugen Cicero",
           "url": "https://open.spotify.com/artist/4EhSymJa7VCq6Wm1lZ8OVi"
@@ -459,7 +455,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 313840,
       "name": "Gnossienne #1 F minor",
       "url": "https://open.spotify.com/track/3hn1emRxa75rwoL5pVHJDv"
@@ -503,7 +499,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 87253,
       "name": "Goldberg Improvisation III",
       "url": "https://open.spotify.com/track/5HfoAH0vfjKt8neoi2w1I5"
@@ -675,7 +671,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 437880,
       "name": "Mozart / Jazz Symphony in G Minor, First Movement, Allegro molto",
       "url": "https://open.spotify.com/track/1hYLj6JNbs8RAwNNy3x3HG"
@@ -693,7 +689,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 258066,
       "name": "Mozart: Piano Sonata in F, KV332 (2nd Part - Adagio) - Live in Clearwater / 2018",
       "url": "https://open.spotify.com/track/5rCs2GkWdaGytddAxoEUNm"
@@ -753,8 +749,8 @@
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Harmonie Ensemble/New York",
@@ -769,7 +765,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186440,
-      "name": "Nutcracker Suite: Nutcracker Suite: Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
+      "name": "Nutcracker Suite (Arr. Ellington & Strayhorn): Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"
     },
     {
@@ -789,6 +785,32 @@
       "duration_ms": 237000,
       "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (On a G String)",
       "url": "https://open.spotify.com/track/4FsUPnXoCN6VSgkU6wXAwz"
+    },
+    {
+      "album": {
+        "name": "Parker: Ornithology (Arr. for Recorder and Ensemble)",
+        "url": "https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Lucie Horsch",
+          "url": "https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn"
+        },
+        {
+          "name": "Fuse",
+          "url": "https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Ornithology (Arr. for Recorder and Ensemble)",
+      "url": "https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF"
     },
     {
       "album": {
@@ -888,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Kronos Quartet: Music Of Bill Evans",
+        "url": "https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF"
+      },
+      "artists": [
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431866,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO"
+    },
+    {
+      "album": {
         "name": "Swinging Suites",
         "url": "https://open.spotify.com/album/7tCNBCYSxnp4PaIaMsUmh7"
       },
@@ -899,7 +939,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 151625,
       "name": "Peer Gynt Suites Nos. 1 & 2 : In the Hall of the Mountain King",
       "url": "https://open.spotify.com/track/0PCFkOmhv7UdcLReoMG05m"
@@ -929,7 +969,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 520189,
       "name": "Piano Concerto No. 2 (feat. Jeff Tain Watts, Silvano Monasterios & Chris Smith)",
       "url": "https://open.spotify.com/track/1304Brw70MJMGq2l5UZmqv"
@@ -947,7 +987,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 195400,
       "name": "Precious Joy",
       "url": "https://open.spotify.com/track/77XEV3Bvbm8Jur93KPvObi"
@@ -1001,7 +1041,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 265253,
       "name": "Promenade - From Pictures at an Exhibition",
       "url": "https://open.spotify.com/track/60HkEkHI6bwzp987FPilxP"
@@ -1049,7 +1089,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 354333,
       "name": "Purcell / Arr. Pluhar: Oedipus, Z. 583: No. 2, Song. \"Music for a While\"",
       "url": "https://open.spotify.com/track/2UK3kMSQc8fMTCjEykifQ7"
@@ -1109,17 +1149,13 @@
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
           "name": "Eugen Cicero",
           "url": "https://open.spotify.com/artist/4EhSymJa7VCq6Wm1lZ8OVi"
         }
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 339453,
       "name": "Solfeggio in C Minor",
       "url": "https://open.spotify.com/track/1i8Q6oG6v5ogyHnmITPM9D"
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 606180,
       "name": "The Bach Suite: Allegro - Live",
       "url": "https://open.spotify.com/track/5ldYARwUUKPaiLLPSGK6cD"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 479613,
       "name": "Valse Triste",
       "url": "https://open.spotify.com/track/2dqiYQ0iva5sGg13VVcvsx"

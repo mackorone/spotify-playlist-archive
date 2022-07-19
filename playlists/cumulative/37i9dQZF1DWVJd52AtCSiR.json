@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 194573,
       "name": "A Beautiful Spring Day",
       "url": "https://open.spotify.com/track/2xPdhy86Ehk35ZQ9ttUC8H"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 313920,
       "name": "A Bug's Life Suite",
       "url": "https://open.spotify.com/track/020fkOdcrpPe7do3KbXHVB"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 258946,
       "name": "A Real Gourmet Kitchen",
       "url": "https://open.spotify.com/track/6hl3QoeDknHZ1mg5s3Aw2V"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 128430,
       "name": "Aladdin's Second Wish",
       "url": "https://open.spotify.com/track/4MzHU4LNdG2dmfNo5gytip"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 63760,
       "name": "Boo's Tired",
       "url": "https://open.spotify.com/track/51T3xqyo06pNvrXPx1WeY8"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 347386,
       "name": "Coco - D\u00eda de los Muertos Suite",
       "url": "https://open.spotify.com/track/3BY6XoTTapX2tV9qQCCsFW"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 163546,
       "name": "Elsa and Anna - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/4Zd8HBzObBZWgmvJg7gCAF"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 257044,
       "name": "Fairy Tale/Going Home",
       "url": "https://open.spotify.com/track/6EisZy9HeWEkhteJiegVPX"
@@ -605,10 +605,28 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 257266,
       "name": "Fate And Destiny",
       "url": "https://open.spotify.com/track/28ZWbsG75mfJyW1XGlAanb"
+    },
+    {
+      "album": {
+        "name": "Feed the Birds (From \"Mary Poppins\")",
+        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261308,
+      "name": "Feed the Birds - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
     },
     {
       "album": {
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 57506,
       "name": "Field Trip",
       "url": "https://open.spotify.com/track/4GjD1FcG5UkQUuHE4pI1Fa"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 162240,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0mJWI8txYL48XCY9TXvdRa"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 101093,
       "name": "Haiku",
       "url": "https://open.spotify.com/track/4MNNWIiG4XCQkMm30JhNsb"
@@ -865,9 +883,9 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 279866,
-      "name": "I'm Lost - From \"Lilo & Stitch\"/Score",
+      "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4NxkKbiXAUa7e3CFGohZqh"
     },
     {
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 140413,
       "name": "Kingdom Dance - From \"Tangled\"/Score",
       "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 84173,
       "name": "Life's Incredible Again",
       "url": "https://open.spotify.com/track/270S3DKYFMNksPsfLeTEAv"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 120266,
       "name": "McQueen and Sally",
       "url": "https://open.spotify.com/track/0NBqxJf4RuAdZjpu1Hy9m9"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 92306,
       "name": "Merida's Home",
       "url": "https://open.spotify.com/track/2VIpf7gCcthRSeaVcALBx2"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 228093,
       "name": "One Family",
       "url": "https://open.spotify.com/track/3HGA8mdmacm3tW6qgyCE26"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 185560,
       "name": "Overture",
       "url": "https://open.spotify.com/track/1IvMhKEYofTzkDHXaOan1B"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 129066,
       "name": "Ratatouille Main Theme",
       "url": "https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 189866,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3BUT32qmBXmlqp3EJkgRfp"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 92896,
       "name": "Return to the Village",
       "url": "https://open.spotify.com/track/7lYhgpUEksi2j9iLWlCQQ0"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 755066,
       "name": "Rhapsody In Blue",
       "url": "https://open.spotify.com/track/1s1RlSnTe70UVao58Nx7SN"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 448666,
       "name": "Suite from Zootopia",
       "url": "https://open.spotify.com/track/1ljmDqxdiIl9Vhghp21DWs"
@@ -1397,10 +1415,46 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 113680,
       "name": "The Archery Affair",
       "url": "https://open.spotify.com/track/7qHs4ZARJCiRZmGqWEmv0t"
+    },
+    {
+      "album": {
+        "name": "The Bare Necessities (From \"The Jungle Book\")",
+        "url": "https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P"
+    },
+    {
+      "album": {
+        "name": "The Bare Necessities (From \"The Jungle Book\")",
+        "url": "https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb"
     },
     {
       "album": {
@@ -1415,7 +1469,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 221693,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/3nJU5HZFOShBsFjCGx9wKT"
@@ -1491,7 +1545,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 297680,
       "name": "The Cave of Wonders",
       "url": "https://open.spotify.com/track/67HFPFaGfph10SMGWrVJ3X"
@@ -1509,7 +1563,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 110293,
       "name": "The Cleaner",
       "url": "https://open.spotify.com/track/1fcYjTqB3hpvz0ZMdsrA4V"
@@ -1563,7 +1617,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 212133,
       "name": "The Glory Days",
       "url": "https://open.spotify.com/track/6rKdAnYByv3RwdSeuHJ3Cl"
@@ -1581,7 +1635,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 160186,
       "name": "The Scare Floor",
       "url": "https://open.spotify.com/track/6miK1DMb1WONHzH1jh5PLk"
@@ -1603,7 +1657,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 577440,
       "name": "The Sorcerer's Apprentice",
       "url": "https://open.spotify.com/track/2OHnoGjn6X6kDwzO7Rw0Y9"
@@ -1643,7 +1697,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 175533,
       "name": "This Land",
       "url": "https://open.spotify.com/track/7BjvaB3uKVoGTo7DX1RGkZ"
@@ -1767,7 +1821,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 119986,
       "name": "Wall-E",
       "url": "https://open.spotify.com/track/0j5oKPEkEmUx1vGHj3uOcv"
@@ -1785,7 +1839,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 198666,
       "name": "What's All The Hurry / A Perfect Situation / Stir Things Up",
       "url": "https://open.spotify.com/track/1uSnRnSYxUsvj04GD2ZdRS"
@@ -1807,7 +1861,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181626,
       "name": "When She Loved Me - From \"Toy Story 2\"",
       "url": "https://open.spotify.com/track/6Rz0Ht00jj8yjUeP0ney4I"
@@ -1829,7 +1883,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 240866,
       "name": "When You Wish Upon A Star - From \"Pinocchio\"",
       "url": "https://open.spotify.com/track/6dGmcGtoUrFlwDJzKcr6wo"
@@ -1865,9 +1919,9 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 234266,
-      "name": "You Can Never Belong - From \"Lilo & Stitch\"/Score",
+      "name": "You Can Never Belong",
       "url": "https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7"
     }
   ],

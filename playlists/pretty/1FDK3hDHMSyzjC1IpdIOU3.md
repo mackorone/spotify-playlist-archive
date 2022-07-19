@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 505 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 | 16 | [How Do U Want It](https://open.spotify.com/track/1ZB2zIoc8AjSuyqKRcJgbO) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:47 |
 | 17 | [It's All Coming Back to Me Now](https://open.spotify.com/track/62WlC9unRXGdRIULjishS0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 7:36 |
 | 18 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
-| 19 | [Hey Lover](https://open.spotify.com/track/5X48562lzIHeCKKLLSIGMm) | [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:44 |
-| 20 | [Loungin \(Who Do Ya Luv\)](https://open.spotify.com/track/0fKolf0hpjCwjTSLszadI8) | [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 3:46 |
+| 19 | [Hey Lover](https://open.spotify.com/track/5X48562lzIHeCKKLLSIGMm) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:44 |
+| 20 | [Loungin \(Who Do Ya Luv\)](https://open.spotify.com/track/0fKolf0hpjCwjTSLszadI8) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 3:46 |
 | 21 | [Insensitive](https://open.spotify.com/track/2OqkSQe1kA8oRgEbw064dS) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Insensitive](https://open.spotify.com/album/1tX9qb2q2xuNAgHd3BAx9A) | 4:17 |
 | 22 | [Be My Lover](https://open.spotify.com/track/4FAZHM9RjpuLumivjw99xO) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Frank Farian \- The Hit Man](https://open.spotify.com/album/6M5eqNISf3irfHuWTuo0pI) | 3:59 |
 | 23 | [Name](https://open.spotify.com/track/1G8jae4jD8mwkXdodqHsBM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [A Boy Named Goo](https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ) | 4:30 |

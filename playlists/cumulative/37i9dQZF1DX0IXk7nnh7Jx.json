@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/6U9KXC0ziE2wqjZVxZvBNr"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 224388,
       "name": "Are You There, Do You Care",
       "url": "https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 271906,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 264038,
       "name": "Bound",
       "url": "https://open.spotify.com/track/0rvhiH38OoFU2tHbImKjnz"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-23",
       "duration_ms": 183640,
       "name": "Captive",
       "url": "https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz"
@@ -321,13 +321,13 @@
       },
       "artists": [
         {
-          "name": "Lovkn",
+          "name": "LOVKN",
           "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 200674,
       "name": "Crane Lake",
       "url": "https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25"
@@ -382,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Deconstruction",
+        "url": "https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 267337,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ"
       },
@@ -393,7 +411,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-19",
       "duration_ms": 229800,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-14",
       "duration_ms": 179747,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2TlXByjar2RtNj3ao3lR4b"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 199000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM"
@@ -465,7 +483,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 239333,
       "name": "Far Kingdom (reimagined)",
       "url": "https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 312789,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 197462,
       "name": "Found",
       "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 284120,
       "name": "Garment",
       "url": "https://open.spotify.com/track/7dVzebREEslE4UTztbvosL"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 266169,
       "name": "Held by Your Love",
       "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 244270,
       "name": "Hiding Lord",
       "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 250409,
       "name": "I Am One",
       "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-07-07",
       "duration_ms": 229257,
       "name": "I Don\u2019t Know",
       "url": "https://open.spotify.com/track/3tKhWuILxx3tWTNMkZ3GuF"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 211426,
       "name": "I Want To Know",
       "url": "https://open.spotify.com/track/0FRQsErh58lld5YhZ9vcvA"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 293106,
       "name": "In the Valley",
       "url": "https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 204202,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 239720,
       "name": "Know Your Heart",
       "url": "https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 311530,
       "name": "Lead Me (Among the Ruins)",
       "url": "https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-07",
       "duration_ms": 243268,
       "name": "Lion's Den",
       "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 261736,
       "name": "Never Grow Tired",
       "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": "2022-06-13",
       "duration_ms": 289122,
       "name": "Oh, the Deep",
       "url": "https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 266762,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 287751,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-18",
       "duration_ms": 307240,
       "name": "Revenant",
       "url": "https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": "2022-06-29",
       "duration_ms": 228000,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/0TSXwxAZe2RaP1jMebwKPQ"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 261191,
       "name": "Salome & Saint Procula",
       "url": "https://open.spotify.com/track/2zmLBzrcJt2es39J8n98SE"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-06-24",
       "duration_ms": 232506,
       "name": "Take All of Me",
       "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 181840,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 281270,
       "name": "We Sing Hallelujah",
       "url": "https://open.spotify.com/track/022DnzvMN4AP1hIHQodnXB"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 246000,
       "name": "Weathered Palms",
       "url": "https://open.spotify.com/track/6PgHfXKx82Wy7619EIDey0"
@@ -1563,13 +1581,13 @@
       },
       "artists": [
         {
-          "name": "Lovkn",
+          "name": "LOVKN",
           "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 186857,
       "name": "What Living's All About",
       "url": "https://open.spotify.com/track/6kyXGiAum5xXiezOPBn23M"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 206546,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 311186,
       "name": "World Keeps Spinning",
       "url": "https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 217675,
       "name": "Worth It All",
       "url": "https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"

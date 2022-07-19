@@ -4,7 +4,7 @@
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-25 songs - 1 hr 24 min - not published yet
+25 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/657RzdsW1QREO5aROv3wZw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

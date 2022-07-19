@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 
 > Metal tracks all the way from the birth of Metal to today\. Cover: Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,546 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,021 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 | 56 | [Bodies](https://open.spotify.com/track/3xktQXIr1OD3ENc19viwDP) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/4WUZJZ6kam5iHdfhQIVuAr) | 3:21 |
 | 57 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 58 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 |
-| 59 | [Hunting High And Low](https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite](https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF) | 4:08 |
+| 59 | [Hunting High and Low](https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite](https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF) | 4:08 |
 | 60 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 |
 | 61 | [We Drink Your Blood](https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 3:42 |
 | 62 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jCqmsDQR1i.md) - [plain]
 | 99 | [Immortal Rites](https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Altars of Madness](https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0) | 4:03 |
 | 100 | [Black Metal](https://open.spotify.com/track/118y6uwQUrxrhKnVJEAmNC) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/3USUYWiLEX5HLXF9VXo1MY) | 3:41 |
 
-Snapshot ID: `MTY1MDA0NjA4OCwwMDAwMDAxOTAwMDAwMTgwMmU2OTM0ZDIwMDAwMDE4MDJlNWYwNmEz`
+Snapshot ID: `MTY1Nzc0MDQ2NSwwMDAwMDAxYjAwMDAwMTgxZjkwODE0ODgwMDAwMDE4MDJlNWYwNmEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,463 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

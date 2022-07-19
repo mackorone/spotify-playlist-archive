@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 234440,
       "name": "Any Dream Will Do",
       "url": "https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE"
@@ -255,10 +255,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 245466,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5BG2gxrtwu1OSgXIhm5XEk"
+    },
+    {
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog"
     },
     {
       "album": {
@@ -273,7 +291,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 213016,
       "name": "Can't Take My Eyes Off Of You - Original Radio Edit",
       "url": "https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-05-15",
       "duration_ms": 260773,
       "name": "Could It Be I'm Falling in Love - 7\" Version",
       "url": "https://open.spotify.com/track/6diwBLVL5iXxonbt2INBmS"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-02",
       "duration_ms": 292400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
@@ -619,7 +637,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 256666,
       "name": "Feels Like I'm in Love",
       "url": "https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 319733,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3l0La6OOdycSjsDQ1uVJUb"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-14",
       "duration_ms": 333506,
       "name": "Get Outta My Dreams, Get into My Car",
       "url": "https://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 245773,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4cUSgvW6wlxqzzxE3P4voV"
@@ -1085,6 +1103,24 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "album": {
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-06",
       "duration_ms": 320040,
       "name": "Jump to the Beat",
       "url": "https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r"
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-18",
       "duration_ms": 208840,
       "name": "Lambada - Original Radio Edit",
       "url": "https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr"
@@ -1405,7 +1441,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-06-01",
       "duration_ms": 262440,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
       "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-19",
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
@@ -1441,7 +1477,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Live Is Life",
       "url": "https://open.spotify.com/track/6HtmSWRyxQKY4EgXPZMYfm"
@@ -1495,7 +1531,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 253413,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-18",
       "duration_ms": 184093,
       "name": "Oh l'amour",
       "url": "https://open.spotify.com/track/2RsIjB4ZFnxnUCfnDD1NuW"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Respectable",
       "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 236440,
       "name": "Rhythm Is Gonna Get You",
       "url": "https://open.spotify.com/track/69U1Mlh2xMxx3SGOL1mSXQ"
@@ -1823,7 +1859,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
@@ -1925,7 +1961,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 357146,
       "name": "Sisters Are Doin' It for Themselves - Remastered Version",
       "url": "https://open.spotify.com/track/6pPCOXIQeNMr1oCWJTomSf"
@@ -1943,7 +1979,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 213066,
       "name": "Start Me Up - 2009 Re-Mastered Digital Version",
       "url": "https://open.spotify.com/track/6ml6iL8HUdQKgtMaehAZc8"
@@ -2015,7 +2051,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-06",
       "duration_ms": 230026,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
@@ -2141,7 +2177,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-06-18",
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 192666,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "The Motown Song (with The Temptations) - 2008 Remaster",
       "url": "https://open.spotify.com/track/2GZ0dVvRcmtojWuPgBfKIl"
@@ -2375,7 +2411,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 298120,
       "name": "The Way You Make Me Feel - 2012 Remaster",
       "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 256826,
       "name": "Typical Male",
       "url": "https://open.spotify.com/track/2fjJt3OQ8MPaZ3LMzAWiTA"
@@ -2573,7 +2609,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 204560,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6"
@@ -2699,7 +2735,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-06-13",
       "duration_ms": 158466,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/5kU0M9DZyGy1DaedeAyefi"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": "2022-07-13",
       "duration_ms": 334600,
       "name": "You're My Heart, You're My Soul",
       "url": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz"
@@ -2951,7 +2987,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 236200,
       "name": "Young Guns (Go for It!)",
       "url": "https://open.spotify.com/track/3PS1Q0c2VNKQMIiUusjlFf"

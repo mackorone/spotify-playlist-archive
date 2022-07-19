@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "In the Eyes of a Child",
+        "url": "https://open.spotify.com/album/7tBSzCp4dIFyCA51NE4sr7"
+      },
+      "artists": [
+        {
+          "name": "Mark Vincent",
+          "url": "https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252321,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6o9bPZq7uryo2bgq1lJaDm"
+    },
+    {
+      "album": {
         "name": "Believe (Deluxe)",
         "url": "https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr"
       },
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 215434,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/6U43jM0olCZ8tvbRbClWwR"
@@ -517,6 +535,28 @@
       "duration_ms": 193493,
       "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
       "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "One Look (feat. Leona Lewis)",
+      "url": "https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW"
     },
     {
       "album": {
@@ -757,6 +797,24 @@
       "duration_ms": 243186,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI"
+    },
+    {
+      "album": {
+        "name": "Songbird (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "Songbird - Orchestral Version",
+      "url": "https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO"
     },
     {
       "album": {

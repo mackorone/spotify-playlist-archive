@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: <a href=\"spotify:artist:4LX0KCPnH7gvxEbVXqXmAE\">Molly Tuttle</a>",
+  "description": "Fresh takes on that high lonesome sound. Cover: Mama's Broke",
   "name": "Indie Bluegrass",
   "published_playlist_ids": [
     "5sbNmRNN30b3StzmqtFwhp"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 264586,
       "name": "A Faded Star",
       "url": "https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod"
@@ -41,6 +41,24 @@
       "duration_ms": 193760,
       "name": "A Ghost Whispers",
       "url": "https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ"
+    },
+    {
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "album": {
@@ -95,7 +113,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 328026,
       "name": "All For the Song",
       "url": "https://open.spotify.com/track/2u7z8YKuEj4WzVGnooSKKs"
@@ -313,6 +331,24 @@
       "duration_ms": 168866,
       "name": "Bobcat On the Banjo",
       "url": "https://open.spotify.com/track/1tuJyZqZy0P34uPcwVFoo7"
+    },
+    {
+      "album": {
+        "name": "The Wheres and the Whatnots",
+        "url": "https://open.spotify.com/album/3ehFtxicfQfb1k5YVaJOoX"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Reed",
+          "url": "https://open.spotify.com/artist/3vYzsWVBNoIKJZuM1F4VLz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220117,
+      "name": "Brighter Side",
+      "url": "https://open.spotify.com/track/1DhfVYEH0hco7SKMVPYe7X"
     },
     {
       "album": {
@@ -598,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201292,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg"
       },
@@ -688,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Eva Kelley",
+        "url": "https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV"
+      },
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281725,
+      "name": "Eva Kelley",
+      "url": "https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE"
+    },
+    {
+      "album": {
         "name": "Ionia",
         "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
       },
@@ -764,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Just Memories",
+        "url": "https://open.spotify.com/album/39sFZfld2W398U2FJc5yPE"
+      },
+      "artists": [
+        {
+          "name": "Luisa Marion",
+          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Fishin'",
+      "url": "https://open.spotify.com/track/57R26ENxtPjmBH5qhVuWaX"
+    },
+    {
+      "album": {
         "name": "Folk Bloodbath",
         "url": "https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc"
       },
@@ -782,6 +872,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "album": {
         "name": "From The Dust",
         "url": "https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE"
       },
@@ -797,6 +909,24 @@
       "duration_ms": 188460,
       "name": "From The Dust",
       "url": "https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8"
+    },
+    {
+      "album": {
+        "name": "Going West",
+        "url": "https://open.spotify.com/album/65UYeqA3nLbTopSj14Udzj"
+      },
+      "artists": [
+        {
+          "name": "Michelle Rivers",
+          "url": "https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182352,
+      "name": "Going West",
+      "url": "https://open.spotify.com/track/6D03AaCUjfhpaxrxf7AoGR"
     },
     {
       "album": {
@@ -869,6 +999,42 @@
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
+    },
+    {
+      "album": {
+        "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
+      },
+      "artists": [
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
+    },
+    {
+      "album": {
+        "name": "Hey Magnolia",
+        "url": "https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164667,
+      "name": "Hey Magnolia",
+      "url": "https://open.spotify.com/track/3JyOC3UOO8lTzbADm8UNyQ"
     },
     {
       "album": {
@@ -1016,6 +1182,42 @@
     },
     {
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e"
+      },
+      "artists": [
+        {
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225504,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
+    },
+    {
+      "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll"
+      },
+      "artists": [
+        {
+          "name": "The Slocan Ramblers",
+          "url": "https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247689,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs"
+    },
+    {
+      "album": {
         "name": "I'll Be Lost",
         "url": "https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy"
       },
@@ -1049,6 +1251,24 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "album": {
+        "name": "If You See Me Riding By",
+        "url": "https://open.spotify.com/album/420pq9fEOP3PEMQ01No5p3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "If You See Me Riding By",
+      "url": "https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW"
     },
     {
       "album": {
@@ -1197,6 +1417,60 @@
       "duration_ms": 252234,
       "name": "Lemons and Tangerines - Live Session, Paso Robles, CA, 2021",
       "url": "https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk"
+    },
+    {
+      "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2Wj72J5gYHOtf2QhNDoP5T"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/0qhSnJz1pLxidDVxFHH9XD"
+    },
+    {
+      "album": {
+        "name": "Shaken By A Low Sound (Deluxe)",
+        "url": "https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152383,
+      "name": "Little Sadie",
+      "url": "https://open.spotify.com/track/5oZVRtVqTDawr47jOda6AH"
+    },
+    {
+      "album": {
+        "name": "Little Satchel",
+        "url": "https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197755,
+      "name": "Little Satchel",
+      "url": "https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN"
     },
     {
       "album": {
@@ -1370,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "New Earth",
+        "url": "https://open.spotify.com/album/08zLOiclaS8FkhuqXQrhMb"
+      },
+      "artists": [
+        {
+          "name": "Bark Point.",
+          "url": "https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "New Earth",
+      "url": "https://open.spotify.com/track/1y8ZkHUqgPkgSFDGM55siL"
+    },
+    {
+      "album": {
         "name": "Haste Make / Hard Hearted Stranger",
         "url": "https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV"
       },
@@ -1475,6 +1767,24 @@
       "duration_ms": 184360,
       "name": "Old Waterford Town",
       "url": "https://open.spotify.com/track/3Haa4El1l2XlEcPHGIvvbw"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/38XOGO7MIS2fGI5gaIFo9J"
+      },
+      "artists": [
+        {
+          "name": "Rev Ezra",
+          "url": "https://open.spotify.com/artist/3kxPC4Jstp20P1xWvdMoVB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233694,
+      "name": "Older I Get",
+      "url": "https://open.spotify.com/track/62ANe37lI1mrX1SH5OzCui"
     },
     {
       "album": {
@@ -1615,7 +1925,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197013,
       "name": "Real World",
       "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
@@ -1677,6 +1987,46 @@
       "duration_ms": 180546,
       "name": "Scrape Me Off the Ceiling",
       "url": "https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI"
+    },
+    {
+      "album": {
+        "name": "Shallows",
+        "url": "https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199365,
+      "name": "Shallows - Single Version",
+      "url": "https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN"
+    },
+    {
+      "album": {
+        "name": "Shenandoah",
+        "url": "https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+        },
+        {
+          "name": "Michael Starkey",
+          "url": "https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236386,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
     },
     {
       "album": {
@@ -1774,6 +2124,28 @@
     },
     {
       "album": {
+        "name": "Steampipe Coffee",
+        "url": "https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7"
+      },
+      "artists": [
+        {
+          "name": "Circus No. 9",
+          "url": "https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu"
+        },
+        {
+          "name": "Jeff Sipe",
+          "url": "https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289588,
+      "name": "Steampipe Coffee",
+      "url": "https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T"
+    },
+    {
+      "album": {
         "name": "Strange Fascination",
         "url": "https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ"
       },
@@ -1789,7 +2161,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 258930,
       "name": "Strange Fascination",
       "url": "https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7"
@@ -2013,7 +2385,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 228226,
       "name": "The Lonesome Season",
       "url": "https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI"
@@ -2071,6 +2443,24 @@
       "duration_ms": 258453,
       "name": "The Tide",
       "url": "https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp"
     },
     {
       "album": {
@@ -2406,6 +2796,24 @@
     },
     {
       "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/4BfATC0CJMywroF4caIdiA"
+      },
+      "artists": [
+        {
+          "name": "Useful Jenkins",
+          "url": "https://open.spotify.com/artist/6uspASPue822fmki6Wr8ZD"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211640,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/0n5Fuy0G10GmUiCD83hIMw"
+    },
+    {
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/1ce4TJnN4Hn9km24yisiep"
       },
@@ -2471,7 +2879,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 222850,
       "name": "You Never Told Me I Was Pretty",
       "url": "https://open.spotify.com/track/60L5IGUFyaYbq5trTeXris"

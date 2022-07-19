@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Back to Sinharaja",
+        "url": "https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq"
+      },
+      "artists": [
+        {
+          "name": "LiKKma",
+          "url": "https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Back to Sinharaja",
+      "url": "https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB"
+    },
+    {
+      "album": {
         "name": "Instrumental India",
         "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 491520,
       "name": "Bageshri",
       "url": "https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb"
@@ -296,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Common Pierrot Paths",
+        "url": "https://open.spotify.com/album/0WfnQuBv1xEqxvshcaaPe9"
+      },
+      "artists": [
+        {
+          "name": "Ranjan E",
+          "url": "https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "Common Pierrot Paths",
+      "url": "https://open.spotify.com/track/3Xm4iHDqUc7NS4PNNLxxP1"
+    },
+    {
+      "album": {
         "name": "Bansuri - The Bamboo Flute of India",
         "url": "https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI"
       },
@@ -426,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Dost",
+        "url": "https://open.spotify.com/album/02czJKLz9Ksy9cgH32BlbR"
+      },
+      "artists": [
+        {
+          "name": "Navin Chopade",
+          "url": "https://open.spotify.com/artist/1GSnvlnX8iWLIgRnEmPE3y"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291699,
+      "name": "Dost",
+      "url": "https://open.spotify.com/track/4rBV5pcd8Lt29HwWIhfVDD"
+    },
+    {
+      "album": {
         "name": "Viceroy's House (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1BqDnHcyvW4wRpskiyYs3q"
       },
@@ -524,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Amarujala",
+        "url": "https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Lata",
+          "url": "https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "Haathee",
+      "url": "https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp"
+    },
+    {
+      "album": {
         "name": "In The Lounge",
         "url": "https://open.spotify.com/album/0s3INweVmhtbCmBzDcK3Qg"
       },
@@ -596,6 +668,42 @@
     },
     {
       "album": {
+        "name": "Inhale Exhale",
+        "url": "https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU"
+      },
+      "artists": [
+        {
+          "name": "Narmada Shore",
+          "url": "https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212793,
+      "name": "Indigo Sky",
+      "url": "https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE"
+    },
+    {
+      "album": {
+        "name": "phir milenge",
+        "url": "https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL"
+      },
+      "artists": [
+        {
+          "name": "Dhani Bhagat",
+          "url": "https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "indriya",
+      "url": "https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu"
+    },
+    {
+      "album": {
         "name": "Sleeping Traveller",
         "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
       },
@@ -611,6 +719,24 @@
       "duration_ms": 240000,
       "name": "Insitarament",
       "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
+    },
+    {
+      "album": {
+        "name": "Jal",
+        "url": "https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283519,
+      "name": "Jal",
+      "url": "https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z"
     },
     {
       "album": {
@@ -745,6 +871,24 @@
       "duration_ms": 463000,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o"
+    },
+    {
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY"
+      },
+      "artists": [
+        {
+          "name": "Pawan Krishna",
+          "url": "https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197024,
+      "name": "Matunga Road",
+      "url": "https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0"
     },
     {
       "album": {
@@ -1018,6 +1162,44 @@
     },
     {
       "album": {
+        "name": "Remembrance Soundscapes",
+        "url": "https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2"
+      },
+      "artists": [
+        {
+          "name": "For the Good of All",
+          "url": "https://open.spotify.com/artist/0wYjAAeaDXrNnxy3qs0xQj"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+        },
+        {
+          "name": "Aubrey Marcus",
+          "url": "https://open.spotify.com/artist/2G6geUYzXyqHJpAZ7nVFYX"
+        },
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        },
+        {
+          "name": "Liquid Bloom",
+          "url": "https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS"
+        },
+        {
+          "name": "Eric Zang",
+          "url": "https://open.spotify.com/artist/0bqNGlh4NGgVj8NHjP10Jm"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352462,
+      "name": "Puja - Soundscape Mix",
+      "url": "https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg"
       },
@@ -1162,6 +1344,42 @@
     },
     {
       "album": {
+        "name": "Peace From Within",
+        "url": "https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz"
+      },
+      "artists": [
+        {
+          "name": "Pawan Krishna",
+          "url": "https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Road to Pune",
+      "url": "https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV"
+    },
+    {
+      "album": {
+        "name": "Taaja Shaanti",
+        "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kusari",
+          "url": "https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Sachetan",
+      "url": "https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL"
+    },
+    {
+      "album": {
         "name": "Sahaj Atma",
         "url": "https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB"
       },
@@ -1213,6 +1431,42 @@
       "duration_ms": 202666,
       "name": "Sapphire Dreams",
       "url": "https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC"
+    },
+    {
+      "album": {
+        "name": "Shaant Garmee",
+        "url": "https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf"
+      },
+      "artists": [
+        {
+          "name": "Kanti Kata",
+          "url": "https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227421,
+      "name": "Shaantipoorn Sardee",
+      "url": "https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs"
+    },
+    {
+      "album": {
+        "name": "Aatma Momabattee",
+        "url": "https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps"
+      },
+      "artists": [
+        {
+          "name": "Chand Adwani",
+          "url": "https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234004,
+      "name": "Sharad Rtu Hiran",
+      "url": "https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq"
     },
     {
       "album": {
@@ -1303,6 +1557,24 @@
       "duration_ms": 266666,
       "name": "Sun Riser",
       "url": "https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ"
+    },
+    {
+      "album": {
+        "name": "Taaja Shaanti",
+        "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kusari",
+          "url": "https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262061,
+      "name": "Taaja Shaanti",
+      "url": "https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO"
     },
     {
       "album": {
@@ -1487,6 +1759,24 @@
       "duration_ms": 329897,
       "name": "the start",
       "url": "https://open.spotify.com/track/5f4MmyB0T4AMvBpn1R6aDZ"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Bansuri",
+        "url": "https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY"
+      },
+      "artists": [
+        {
+          "name": "Golgon Kami",
+          "url": "https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "The Sweetest Bansuri",
+      "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
     },
     {
       "album": {

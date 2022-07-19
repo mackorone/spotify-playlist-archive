@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CrSNP0mzoZ.md) - [plain]
 
 > Sir George Martins most essential work, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,692 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,743 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

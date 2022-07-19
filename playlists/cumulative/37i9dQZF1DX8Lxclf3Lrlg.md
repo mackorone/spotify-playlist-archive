@@ -55,7 +55,7 @@
 | [Wavvy](https://open.spotify.com/track/5tWnHQUtI6nZ6E89netz5I) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Cosmic Angel: The Illuminati Prince/ss](https://open.spotify.com/album/5A6a9n47ilqyrFccDAwEVH) | 3:55 | 2021-05-31 |  |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-05-31 |  |
 | [WTP](https://open.spotify.com/track/3RykIiejIO6BEhxSSrXRhH) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2021-05-31 |  |
-| [Wut](https://open.spotify.com/track/1LZcxhK4BQsFR3kT8hnWmN) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/3PbX3SwyXvr3f1htBBcmP0) | 2:47 | 2021-05-31 |  |
-| [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 | 2021-05-31 |  |
+| [Wut](https://open.spotify.com/track/1LZcxhK4BQsFR3kT8hnWmN) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/3PbX3SwyXvr3f1htBBcmP0) | 2:47 | 2021-05-31 |  |
+| [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 | 2021-05-31 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

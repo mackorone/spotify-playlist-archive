@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RPDzQ25TM3.md) - [plain]
 
 > Make like it's 2009 \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,788 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,605 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

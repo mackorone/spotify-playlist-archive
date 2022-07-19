@@ -109,7 +109,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 140620,
       "name": "Barbra Streisand - UK Radio Edit",
       "url": "https://open.spotify.com/track/0pJ58HJso6HgcOEFx8YdX4"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-15",
       "duration_ms": 210360,
       "name": "Black & Gold - Radio Edit",
       "url": "https://open.spotify.com/track/4pkZNPC6yeMnQABwkTmsR6"
@@ -207,6 +207,24 @@
       "duration_ms": 238933,
       "name": "Brimful of Asha - Norman Cook Remix",
       "url": "https://open.spotify.com/track/5BegkNkGXa6TUobnxy5LFL"
+    },
+    {
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "album": {
@@ -257,7 +275,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/6wAV49hRfOiCTHztORMy8Y"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 207293,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 233280,
       "name": "Hey There Delilah - Bonus Track",
       "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 155337,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02"
@@ -499,6 +517,24 @@
       "duration_ms": 228226,
       "name": "JCB",
       "url": "https://open.spotify.com/track/6CWCgRZ0Hxa2dnrCCvq5bA"
+    },
+    {
+      "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7"
     },
     {
       "album": {
@@ -567,7 +603,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
@@ -585,7 +621,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 251466,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/1qCFAg2xNJWZF0D5JpDkRu"
@@ -646,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Ladyhawke (Deluxe Version)",
+        "url": "https://open.spotify.com/album/791BSYeYMTAXw5rrk96Fx8"
+      },
+      "artists": [
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 255666,
+      "name": "My Delirium",
+      "url": "https://open.spotify.com/track/7wvkpxqOl9qlCAtdMkG323"
+    },
+    {
+      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -675,7 +729,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
@@ -693,7 +747,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 118733,
       "name": "Rubber Lover",
       "url": "https://open.spotify.com/track/1HdOoQhmG4iQ9KTNMAF99O"
@@ -711,7 +765,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
@@ -729,10 +783,28 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
+    },
+    {
+      "album": {
+        "name": "Pure 90s",
+        "url": "https://open.spotify.com/album/4w7CaDEcxpIpD6GHM4RBSO"
+      },
+      "artists": [
+        {
+          "name": "Babylon Zoo",
+          "url": "https://open.spotify.com/artist/3k7uMwc8FLJmH8RHMh2HF8"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 242493,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/2Elq6GxVh8v9QFCF3ca2Xc"
     },
     {
       "album": {
@@ -787,7 +859,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-13",
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
@@ -997,7 +1069,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 130478,
       "name": "We No Speak Americano",
       "url": "https://open.spotify.com/track/3zIZJyBwLTmQMCYUbbaNS3"
@@ -1073,7 +1145,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": "2022-07-18",
       "duration_ms": 218960,
       "name": "Would I Lie To You? - Edit",
       "url": "https://open.spotify.com/track/136GkI97Kq94KUiBywEfK0"

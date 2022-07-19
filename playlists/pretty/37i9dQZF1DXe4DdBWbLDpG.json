@@ -1,127 +1,159 @@
 {
-  "description": "Revive las mejores batallas, y descubre m\u00fasica original de los participantes. Foto: Aczino",
-  "num_followers": 35688,
+  "description": "Yoiker y las mejores batallas. Descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
+  "num_followers": 39780,
   "original_name": "Red Bull Batalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2ODA4MywwMDAwMDAwMDUxZjI1NGNkZDQ5YmIxMTQyMDZmNDliODZmODNmMWQ0",
+  "snapshot_id": "MTY1ODE5NDg3MSwwMDAwMDAwMDQzMzgxNTU3MTBhZTAyN2NkNmM1NmM3ZjliMDYyZmEz",
   "tracks": [
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "El G.O.A.T.",
-        "url": "https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC"
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
       },
       "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        },
+        {
+          "name": "Skiper Rmz",
+          "url": "https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M"
+        }
+      ],
+      "duration_ms": 722729,
+      "name": "Yoiker vs. Skiper Rmz - Final - Live",
+      "url": "https://open.spotify.com/track/1GU2xEFJVgiqGFRX80QRys"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Garza",
+          "url": "https://open.spotify.com/artist/6Z3eEpwkMqyj9XOEbFJcQd"
+        },
+        {
+          "name": "Damian",
+          "url": "https://open.spotify.com/artist/1wzeXyDvunE8y34UNgmww2"
+        }
+      ],
+      "duration_ms": 359621,
+      "name": "Garza vs. Damian - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/26HA19RoyUmXGjFeRvOlNQ"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Skiper Rmz",
+          "url": "https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M"
+        },
+        {
+          "name": "Damian",
+          "url": "https://open.spotify.com/artist/1wzeXyDvunE8y34UNgmww2"
+        }
+      ],
+      "duration_ms": 783513,
+      "name": "Skiper Rmz vs. Damian - Semifinal - Live",
+      "url": "https://open.spotify.com/track/2aslnxvS7dYjFRGBAZDt8p"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Garza",
+          "url": "https://open.spotify.com/artist/6Z3eEpwkMqyj9XOEbFJcQd"
+        },
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "duration_ms": 369368,
+      "name": "Garza vs. Yoiker - Semifinal - Live",
+      "url": "https://open.spotify.com/track/2ufg1tLbMXX6ldTmU2fX4U"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "M.F.Q.N. (M\u00e1s Fuerte Que Nunca)",
+        "url": "https://open.spotify.com/album/0B9Z5aFmeOy0O7LZv7EDZ7"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        },
         {
           "name": "Aczino",
           "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         }
       ],
-      "duration_ms": 255306,
-      "name": "El G.O.A.T.",
-      "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
+      "duration_ms": 220609,
+      "name": "M.F.Q.N. (M\u00e1s Fuerte Que Nunca)",
+      "url": "https://open.spotify.com/track/69T1FbNvdxgRtOTSitz8bI"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+        "name": "Final Internacional Chile 2021 (Live)",
+        "url": "https://open.spotify.com/album/3NmAyuYF79QgXh12qo1ZfD"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 176394,
-      "name": "MEL\u00d3N VINO",
-      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Belleza Cruda",
-        "url": "https://open.spotify.com/album/2ik53ZB26SANLXbGedDDJG"
-      },
-      "artists": [
-        {
-          "name": "Del Verbo",
-          "url": "https://open.spotify.com/artist/0tYDu2JUaadA5Kd7vKKxyx"
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Linkone",
-          "url": "https://open.spotify.com/artist/2fvcuFR6aM3OzzlG0L0W3S"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         },
         {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/1uKvSH8kdbx4wMS5Gpc6j9"
-        }
-      ],
-      "duration_ms": 256241,
-      "name": "La Demostraci\u00f3n",
-      "url": "https://open.spotify.com/track/2iZK5Y2XrRpk0Cm6Ear7K5"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Busqueda de paz",
-        "url": "https://open.spotify.com/album/4ADOYfhHMwEhA6aawoDazN"
-      },
-      "artists": [
-        {
-          "name": "Alien Boyz",
-          "url": "https://open.spotify.com/artist/63uKmSPcX2MqAutuEU7cAh"
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
         },
         {
-          "name": "Teorema",
-          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
         }
       ],
-      "duration_ms": 131776,
-      "name": "Busqueda de paz",
-      "url": "https://open.spotify.com/track/1NEQaApwZnn11OVgHLuzhY"
+      "duration_ms": 327746,
+      "name": "Aczino vs Skone - Final - Live",
+      "url": "https://open.spotify.com/track/0lXSKnXAHolaQh6MyOa0Cr"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Mente",
-        "url": "https://open.spotify.com/album/0uZmwG2uLYnH8XEzdEibFd"
-      },
-      "artists": [
-        {
-          "name": "Lapzo",
-          "url": "https://open.spotify.com/artist/18j4oe1CkcrIb4nTWyM8rm"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "Mente",
-      "url": "https://open.spotify.com/track/3B6yPsUkgynCiG61Lznj6V"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Audio Directo (Live Sessions)",
-        "url": "https://open.spotify.com/album/7k00fK1OTjOmfMaS6OpoSZ"
-      },
-      "artists": [
-        {
-          "name": "Audio Directo",
-          "url": "https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH"
-        },
-        {
-          "name": "Valles-T",
-          "url": "https://open.spotify.com/artist/6sSeWO4TJkBglFLETOL5wL"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "Freestyle #1 - Live Sessions",
-      "url": "https://open.spotify.com/track/41PZvMxeljlNVWf55Q9F7w"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/4FhwE2ew9hsPjRTBMbnYx0"
@@ -141,7 +173,315 @@
       "url": "https://open.spotify.com/track/1DckcUSLpCfYsD1htu4JnF"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Argentina 2018 (Live)",
+        "url": "https://open.spotify.com/album/0E7Pb7puYdH4HvyqV40eAs"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+        },
+        {
+          "name": "DJ Sonicko",
+          "url": "https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH"
+        },
+        {
+          "name": "AlcaZone",
+          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
+        }
+      ],
+      "duration_ms": 734730,
+      "name": "Aczino vs. Wos - Final - Live",
+      "url": "https://open.spotify.com/track/402dOzbrzjYP0Qi70yKVBl"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/3bhiqmgbTGlTL2EZ6nW1xJ"
+      },
+      "artists": [
+        {
+          "name": "Bnet",
+          "url": "https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/3va2EuqjoaSst3zCjxrlk0"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Skiper Rmz",
+          "url": "https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M"
+        },
+        {
+          "name": "Soto",
+          "url": "https://open.spotify.com/artist/5VKPtG8QYnikf5LEnxthVF"
+        }
+      ],
+      "duration_ms": 339621,
+      "name": "Skiper Rmz vs. Soto - Cuartos - Live",
+      "url": "https://open.spotify.com/track/57tulHLilx2EHNOtKDovO7"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+        "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 177326,
+      "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
+      "url": "https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Chile 2021 (Live)",
+        "url": "https://open.spotify.com/album/3NmAyuYF79QgXh12qo1ZfD"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        },
+        {
+          "name": "Gazir",
+          "url": "https://open.spotify.com/artist/7fX5oHeHreCZsxiHpQ3xiw"
+        },
+        {
+          "name": "AlcaZone",
+          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        }
+      ],
+      "duration_ms": 335753,
+      "name": "Rapder vs Gazir - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/4DdJSGbmoWKwK7eOt2FWMt"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Posdata",
+        "url": "https://open.spotify.com/album/3yGEa6FTD70beP7mGvci6Q"
+      },
+      "artists": [
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Catarsis",
+      "url": "https://open.spotify.com/track/07uJAl2ebqeVBI9pdIzZc1"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 237658,
+      "name": "TIERRA ZANTA",
+      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/7l4p2mFxH7RmSNWz60MxGL"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "duration_ms": 177644,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/5mNAbD0VHs35L0Z6xo9t5X"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional M\u00e9xico 2022",
+        "url": "https://open.spotify.com/album/68u2XHKykFkHUr3ZgODvpE"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Nota Roja",
+          "url": "https://open.spotify.com/artist/49JZOGdVPC9QRIXq9Vl7s0"
+        },
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "duration_ms": 340024,
+      "name": "Nota Roja vs. Yoiker - Cuartos - Live",
+      "url": "https://open.spotify.com/track/0ml0KXTRj8bGOn1VVsG18q"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "La Capital Del Pecado",
+        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Zirck Saucedo",
+          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "La Capital Del Pecado",
+      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Rep\u00fablica Dominicana 2020 (Live)",
+        "url": "https://open.spotify.com/album/6y2LKBtboGfd0CBOlO1SiW"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
+        },
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        },
+        {
+          "name": "DJ Sonicko",
+          "url": "https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH"
+        }
+      ],
+      "duration_ms": 695031,
+      "name": "Final (Skone vs. Rapder) - Live",
+      "url": "https://open.spotify.com/track/2GzIawoFs0vbFMjRgjJwAo"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 158123,
+      "name": "CONVOY JARANA",
+      "url": "https://open.spotify.com/track/1ZDx9Z5BI8fJHBP6buqR6I"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Espa\u00f1a 2019 (Live)",
+        "url": "https://open.spotify.com/album/3dwzgxA2q3FLAHw4CMLoSc"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Bnet",
+          "url": "https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        },
+        {
+          "name": "AlcaZone",
+          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
+        },
+        {
+          "name": "Gradozero",
+          "url": "https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr"
+        }
+      ],
+      "duration_ms": 823220,
+      "name": "Bnet vs Valles T - Final - Live",
+      "url": "https://open.spotify.com/track/7otvgZ1nuUM8A0mN9pAbJY"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Licantrop\u00eda",
         "url": "https://open.spotify.com/album/2gB4IgCBulmiXCoywn0aUz"
@@ -157,123 +497,159 @@
       "url": "https://open.spotify.com/track/10rDSQODRPXrTSrje8IRGS"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Inspiraci\u00f3n Divina",
-        "url": "https://open.spotify.com/album/2FYtiDH5OiJYzSLS7yZJlW"
+        "name": "Final Nacional Cuba 2019 (Live)",
+        "url": "https://open.spotify.com/album/6hnoyo8pMWG9s5nhwJmdvU"
       },
       "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "C\u00b4MON!",
+          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
+        },
+        {
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        },
+        {
+          "name": "DRC",
+          "url": "https://open.spotify.com/artist/6h9SvQXHtLuLOFrysDoeXx"
+        },
+        {
+          "name": "Tito MC",
+          "url": "https://open.spotify.com/artist/0JIEKsI7hOIgv1GY9XNXKq"
+        }
+      ],
+      "duration_ms": 949930,
+      "name": "Drc vs Tito MC - Final - Live",
+      "url": "https://open.spotify.com/track/5NZamzfAcjxAoyefWlnQVL"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Audio Directo (Live Sessions)",
+        "url": "https://open.spotify.com/album/7k00fK1OTjOmfMaS6OpoSZ"
+      },
+      "artists": [
+        {
+          "name": "Audio Directo",
+          "url": "https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH"
+        },
+        {
+          "name": "Valles-T",
+          "url": "https://open.spotify.com/artist/6sSeWO4TJkBglFLETOL5wL"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Freestyle #1 - Live Sessions",
+      "url": "https://open.spotify.com/track/41PZvMxeljlNVWf55Q9F7w"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/1RRze9S31rloIr0Ub921ZD"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "Alfredozki",
+          "url": "https://open.spotify.com/artist/7BDxgpGwFHvNeLdCmDWLEt"
+        },
+        {
+          "name": "Gazir",
+          "url": "https://open.spotify.com/artist/7fX5oHeHreCZsxiHpQ3xiw"
+        },
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/3vswrmjjgDPM5CXlwU89mK"
+        },
+        {
+          "name": "\u00c9xodo Lirical",
+          "url": "https://open.spotify.com/artist/1SfmHVJ7WtWZBRxHDCyzgn"
+        },
+        {
+          "name": "Pocho",
+          "url": "https://open.spotify.com/artist/2DIF37vK7hhj9aZ6CvRmzK"
+        },
+        {
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
+        },
+        {
+          "name": "Klan",
+          "url": "https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o"
+        },
+        {
+          "name": "Hammer",
+          "url": "https://open.spotify.com/artist/4UuXC7H9OQwO2Ob1NVOgrz"
+        },
+        {
+          "name": "Jair Wong",
+          "url": "https://open.spotify.com/artist/26tgcywKlNASbsHYp9b2aW"
+        },
+        {
+          "name": "Reverse",
+          "url": "https://open.spotify.com/artist/1Fk1rEfkbpN2wnSSmTFS1P"
+        },
         {
           "name": "Aczino",
           "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 209662,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6fmQBGZxPXxUkrlJqaLGpq"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 196745,
-      "name": "CANGURO",
-      "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Soneto Espiritual",
-        "url": "https://open.spotify.com/album/2Lp0NQcC5quBeFJdQG1R3A"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pain",
-          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
-        }
-      ],
-      "duration_ms": 128833,
-      "name": "Soneto Espiritual",
-      "url": "https://open.spotify.com/track/62jl9adNqQXRvQHu36YHcW"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Rey Sin Corona",
-        "url": "https://open.spotify.com/album/1CFvspcVw08w2wxd8fZQS4"
-      },
-      "artists": [
-        {
-          "name": "Blon",
-          "url": "https://open.spotify.com/artist/6e3ekvKJm2Hs02OozwNQLp"
         },
         {
-          "name": "Ale Berraquero",
-          "url": "https://open.spotify.com/artist/7gZriTuCiarOvenQ5Uelzt"
+          "name": "Basek",
+          "url": "https://open.spotify.com/artist/6MOyW5A4U8MlcX87Mssnhm"
+        },
+        {
+          "name": "Rc TFK",
+          "url": "https://open.spotify.com/artist/2VnFl0fH0DZ9YZDGfgnn6o"
+        },
+        {
+          "name": "Skiper Rmz",
+          "url": "https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M"
         }
       ],
-      "duration_ms": 201892,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/2Znon6oXWlOPBQaGzg5tkV"
+      "duration_ms": 398919,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/3JuHOnWZn2Y5s6dbSMHgpD"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Bioluminiscencia",
-        "url": "https://open.spotify.com/album/3jw8WWo39iUGpNfJnbwUy6"
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1g5RXYlbwCkXwmDU1V5bdL"
       },
       "artists": [
         {
-          "name": "Arkano",
-          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
         }
       ],
-      "duration_ms": 180348,
-      "name": "Ni\u00f1o Mimado",
-      "url": "https://open.spotify.com/track/3bEY4qdwQrD28O0zp0QSSv"
+      "duration_ms": 213995,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/0GiuHn75gtjq2UEhcUWtBp"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/5GMYZC3QpD9gR9AQ3zh4XX"
-      },
-      "artists": [
-        {
-          "name": "Zasko Master",
-          "url": "https://open.spotify.com/artist/216aT7YZwPgqOmkxOSEAgD"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Ella Me Dice Que la Quiera",
-      "url": "https://open.spotify.com/track/5gR7QFN11QYDuLjKyaNMBi"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Dtoke",
-        "url": "https://open.spotify.com/album/6A0oy2AoJcu5yDkRX4b27q"
-      },
-      "artists": [
-        {
-          "name": "Dtoke",
-          "url": "https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun"
-        }
-      ],
-      "duration_ms": 125915,
-      "name": "Mi Verdad",
-      "url": "https://open.spotify.com/track/6Tk9H1jRcCAsvtXwTSK1Lf"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/7p9nUMQTfN0KHeHKwxgr1W"
@@ -289,47 +665,7 @@
       "url": "https://open.spotify.com/track/2nkX1DwCZIJT4SPjIBdAvx"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "The Big Fish",
-        "url": "https://open.spotify.com/album/2kekDrMW7ilxPsPW9x6pWI"
-      },
-      "artists": [
-        {
-          "name": "Skone",
-          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
-        }
-      ],
-      "duration_ms": 243069,
-      "name": "18",
-      "url": "https://open.spotify.com/track/1grvXuY7iRIyJLUrnHohgX"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Intifada III",
-        "url": "https://open.spotify.com/album/2X8SYyn45w2WhZGGyuvnx4"
-      },
-      "artists": [
-        {
-          "name": "Intifada",
-          "url": "https://open.spotify.com/artist/3aeySIqcGYc5apmbItHKvD"
-        },
-        {
-          "name": "Luis D\u00edaz",
-          "url": "https://open.spotify.com/artist/6Lp13HWGjmaUEU5p2FnFkx"
-        },
-        {
-          "name": "Yallzee",
-          "url": "https://open.spotify.com/artist/1h66ZNFaeB6AMhA5VVe5fl"
-        }
-      ],
-      "duration_ms": 371373,
-      "name": "Yo Creo",
-      "url": "https://open.spotify.com/track/1IAK7jcUp10F2NvTwi5Pf4"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Inspiraci\u00f3n Divina",
         "url": "https://open.spotify.com/album/2FYtiDH5OiJYzSLS7yZJlW"
@@ -340,104 +676,104 @@
           "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         }
       ],
-      "duration_ms": 275454,
-      "name": "Bienvenido a Mi Barrio",
-      "url": "https://open.spotify.com/track/2SKhCSomYlGk8RxTTzS2GU"
+      "duration_ms": 209662,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6fmQBGZxPXxUkrlJqaLGpq"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "De Esquina a Esquina",
-        "url": "https://open.spotify.com/album/0NW7Kfidit1uYLviHrG1JT"
+        "name": "Britney",
+        "url": "https://open.spotify.com/album/2TUoXnQM0wjFd2n5iiH7Az"
+      },
+      "artists": [
+        {
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Britney",
+      "url": "https://open.spotify.com/track/76WyecSw0SBIqv03EOMSqj"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Perenne",
+        "url": "https://open.spotify.com/album/3qjg1FpcJITc33HXdh7Rcu"
+      },
+      "artists": [
+        {
+          "name": "Lancer Lirical",
+          "url": "https://open.spotify.com/artist/0Sq7xXe2dPIIyRva4efEgm"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Peros",
+      "url": "https://open.spotify.com/track/7phBhs5M9A6HT8eQ9kuJAk"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3ZlJKKnJkB0RlQFqYvRgUn"
       },
       "artists": [
         {
           "name": "Arkano",
           "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "duration_ms": 233936,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/7F2ojMfQ2b8StYoWBZSs0q"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Mexico 2017 (Live)",
+        "url": "https://open.spotify.com/album/2e26E0pWIJviNedgqw4MzJ"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
           "name": "Aczino",
           "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         },
         {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 647898,
+      "name": "Wos VS. Aczino - Final (Live)",
+      "url": "https://open.spotify.com/track/2jOMV8s95OwdmgCQM9mYci"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Dtoke",
+        "url": "https://open.spotify.com/album/6A0oy2AoJcu5yDkRX4b27q"
+      },
+      "artists": [
+        {
           "name": "Dtoke",
-          "url": "https://open.spotify.com/artist/3sIyjBqd6HZc7eHSdj8f2Y"
-        },
-        {
-          "name": "Imigrante",
-          "url": "https://open.spotify.com/artist/6GqUgQ39VqdXQ0E5mxO9DH"
-        },
-        {
-          "name": "JOTA",
-          "url": "https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG"
-        },
-        {
-          "name": "Mr. Junior",
-          "url": "https://open.spotify.com/artist/7Bt7rEaJkQZOftICWmMiJs"
-        },
-        {
-          "name": "Penzattore",
-          "url": "https://open.spotify.com/artist/329TIfzdYpA9sZYr6i79ys"
-        },
-        {
-          "name": "Tom Crowley",
-          "url": "https://open.spotify.com/artist/3J3XgSPY1cDPl35nGL6FHC"
-        },
-        {
-          "name": "Cenzi",
-          "url": "https://open.spotify.com/artist/3rPusZ92yurdHSkcWafe4r"
+          "url": "https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun"
         }
       ],
-      "duration_ms": 424750,
-      "name": "De Esquina A Esquina",
-      "url": "https://open.spotify.com/track/6wtq4Sdlkkz9AMsi1WFTzF"
+      "duration_ms": 125915,
+      "name": "Mi Verdad",
+      "url": "https://open.spotify.com/track/6Tk9H1jRcCAsvtXwTSK1Lf"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "aRVieS",
-        "url": "https://open.spotify.com/album/5NRTipziyYMR5AZMqQhiv3"
-      },
-      "artists": [
-        {
-          "name": "RVS",
-          "url": "https://open.spotify.com/artist/6ZAaL51t20ryEyzYYwb3OM"
-        },
-        {
-          "name": "Jay Kendall",
-          "url": "https://open.spotify.com/artist/6k8ok40gQMh2WvIjbFgix1"
-        },
-        {
-          "name": "Cehzar",
-          "url": "https://open.spotify.com/artist/2VcROjgvAPmuYEICxUCC50"
-        },
-        {
-          "name": "Snk",
-          "url": "https://open.spotify.com/artist/2rtJjA8INHQwuEsTkFltuE"
-        }
-      ],
-      "duration_ms": 237453,
-      "name": "Dime La Verdad",
-      "url": "https://open.spotify.com/track/5Vt9ZODPI2UUdcy2fhHu7k"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Boca del Lobo",
-        "url": "https://open.spotify.com/album/0WhZWleZMdn5fXAnxOxUGV"
-      },
-      "artists": [
-        {
-          "name": "BTA",
-          "url": "https://open.spotify.com/artist/0jPynMZFsKdmn0JsRcCxP0"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Boca del Lobo",
-      "url": "https://open.spotify.com/track/3JqjiqBZtLxsqmofCyYzzF"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Curso B\u00e1sico de Poes\u00eda",
         "url": "https://open.spotify.com/album/2iTYFejcetRy2wj4BA6ccp"
@@ -461,175 +797,7 @@
       "url": "https://open.spotify.com/track/0cAJMbqcT7PZZ2FtlRZD0D"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Rima y No Llores",
-        "url": "https://open.spotify.com/album/6XSbjvn3Elyo1Eg7LXsuZA"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Arkano",
-          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
-        },
-        {
-          "name": "Choque",
-          "url": "https://open.spotify.com/artist/7tXdrADcGlnM23M7BaWSlO"
-        },
-        {
-          "name": "Chuty",
-          "url": "https://open.spotify.com/artist/1r5zlDA52ACalXlJsHY3cU"
-        },
-        {
-          "name": "El Tanke",
-          "url": "https://open.spotify.com/artist/0av9xaFGQENRVpvateSgJP"
-        },
-        {
-          "name": "elevn",
-          "url": "https://open.spotify.com/artist/4txJGe6fS7RGAhxfD9FoSS"
-        },
-        {
-          "name": "G",
-          "url": "https://open.spotify.com/artist/0OYohtB0VFlGjctRMS2KOS"
-        },
-        {
-          "name": "Gaviria",
-          "url": "https://open.spotify.com/artist/3YpPW0iEvxRLsrJ9ZMCtxx"
-        },
-        {
-          "name": "Jony Beltran",
-          "url": "https://open.spotify.com/artist/5GUZzbltjoDTr9MBzodnCB"
-        },
-        {
-          "name": "Jota MC",
-          "url": "https://open.spotify.com/artist/3Lj6XS0XK8SLJOr8QeA7Q6"
-        },
-        {
-          "name": "Melvin la Cura",
-          "url": "https://open.spotify.com/artist/1vYEPaWyCeb6EsdBTWFn98"
-        },
-        {
-          "name": "Pepegrillo",
-          "url": "https://open.spotify.com/artist/2vvidpXBHTFXOkVdvQWUDK"
-        },
-        {
-          "name": "Redenci\u00f3n",
-          "url": "https://open.spotify.com/artist/1dfWxNls7Eb7rXl5gkaTAA"
-        },
-        {
-          "name": "Skone",
-          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Yenky One",
-          "url": "https://open.spotify.com/artist/1SH70LT5yzTqPrROmPFvYJ"
-        },
-        {
-          "name": "Cenzi",
-          "url": "https://open.spotify.com/artist/3rPusZ92yurdHSkcWafe4r"
-        }
-      ],
-      "duration_ms": 638526,
-      "name": "Rima Y No Llores",
-      "url": "https://open.spotify.com/track/4QfyRuZnEXHBmfvEdCdgYR"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Fresko",
-        "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Fresko",
-      "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Ghostwriter",
-        "url": "https://open.spotify.com/album/3PY7X6PCfoZemzsnlvxU1I"
-      },
-      "artists": [
-        {
-          "name": "Noult",
-          "url": "https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Ghostwriter",
-      "url": "https://open.spotify.com/track/0G8oTd28EThUZKhXA0v1BR"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Bendito (feat. Lit Killah & Papatinho)",
-        "url": "https://open.spotify.com/album/6hCgufIEKuVXxOGr9SG48t"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "Bendito (feat. Lit Killah & Papatinho)",
-      "url": "https://open.spotify.com/track/0sb3TfCEIZ0mE7BYTlghEe"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Alborotar el Lenguaje",
-        "url": "https://open.spotify.com/album/1i4FsNgNLLX47sMnukwuSx"
-      },
-      "artists": [
-        {
-          "name": "Parley",
-          "url": "https://open.spotify.com/artist/4nTxpLjUSmtJgZ1lq0abCn"
-        },
-        {
-          "name": "Dip Silence",
-          "url": "https://open.spotify.com/artist/4SwRUSzNSBwFFPteC586Lk"
-        },
-        {
-          "name": "Jokker Liricis",
-          "url": "https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA"
-        }
-      ],
-      "duration_ms": 132033,
-      "name": "Alborotar el Lenguaje",
-      "url": "https://open.spotify.com/track/3DP0rk8ud10QDErvcfGJJN"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Maestros de Ceremonia",
         "url": "https://open.spotify.com/album/2jCsdX9n1J5ql6URI9sJ0S"
@@ -717,111 +885,175 @@
       "url": "https://open.spotify.com/track/0TGSDIK66MfSVyfajv81nZ"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Abran Paso",
-        "url": "https://open.spotify.com/album/1CBm1lhvhXH1on2djh9ZHu"
+        "name": "Soneto Espiritual",
+        "url": "https://open.spotify.com/album/2Lp0NQcC5quBeFJdQG1R3A"
       },
       "artists": [
         {
-          "name": "Invert",
-          "url": "https://open.spotify.com/artist/5Ybbt6iZw0TGWhwM13qB4T"
+          "name": "Sweet Pain",
+          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
+        }
+      ],
+      "duration_ms": 128833,
+      "name": "Soneto Espiritual",
+      "url": "https://open.spotify.com/track/62jl9adNqQXRvQHu36YHcW"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional Colombia 2019 (Live)",
+        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Mbaka",
-          "url": "https://open.spotify.com/artist/4pGp41lvcj9yUGStOprVTv"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Sacadme Esas Guitarras",
-      "url": "https://open.spotify.com/track/3xToT4IysFxeB93cbBZY1i"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Sin\u00f3nimo",
-        "url": "https://open.spotify.com/album/0CW2HjPurqSJZTh4Jdfgh7"
-      },
-      "artists": [
-        {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
-        }
-      ],
-      "duration_ms": 273113,
-      "name": "Haz de luz",
-      "url": "https://open.spotify.com/track/0xVOXUryXFWedCo4i8xe0P"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Percepci\u00f3n",
-        "url": "https://open.spotify.com/album/2lcNo36sVz8eu43LUaf39s"
-      },
-      "artists": [
-        {
-          "name": "Errec\u00e9",
-          "url": "https://open.spotify.com/artist/6r9NSzeM8ApEgH2C6aqHW9"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Desde El Minuto Cero",
-      "url": "https://open.spotify.com/track/0hBzaJn8xW1AcOSPM09g0Y"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Old Custom",
-        "url": "https://open.spotify.com/album/2b3Ksd7KlZ3y1OtSEAX9Zx"
-      },
-      "artists": [
-        {
-          "name": "Elm Beats",
-          "url": "https://open.spotify.com/artist/7brhh1t9PeV6zLQQQsaibj"
+          "name": "Big Killa",
+          "url": "https://open.spotify.com/artist/7D4JO1Da4qQLesq1iEaEID"
         },
         {
-          "name": "Artesano",
-          "url": "https://open.spotify.com/artist/74kDIwInoOBAZ7jKtTVFRC"
+          "name": "Carpediem",
+          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
+        },
+        {
+          "name": "C\u00b4MON!",
+          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+        },
+        {
+          "name": "Dr. Neo Cortex",
+          "url": "https://open.spotify.com/artist/5VwVvNKhvBYez1PuBbOti7"
         }
       ],
-      "duration_ms": 176819,
-      "name": "Old Custom",
-      "url": "https://open.spotify.com/track/2VESXwMfSPjBrjLcQZT5sx"
+      "duration_ms": 812501,
+      "name": "Big Killa Vs Carpediem - Final (Live)",
+      "url": "https://open.spotify.com/track/7pzrOwbpzwNJ1uwj9hJ97K"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/77a2KtQyiXxF8qP0OJIa2e"
+        "name": "The Big Fish",
+        "url": "https://open.spotify.com/album/2kekDrMW7ilxPsPW9x6pWI"
       },
       "artists": [
         {
-          "name": "Sub",
-          "url": "https://open.spotify.com/artist/0J1AbzNzCjcNrGW7KUABe1"
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/5t6fzQXlslQizCg4v9tkd9"
+      "duration_ms": 243069,
+      "name": "18",
+      "url": "https://open.spotify.com/track/1grvXuY7iRIyJLUrnHohgX"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "L\u00edmites",
-        "url": "https://open.spotify.com/album/02nfFHwUBID47MQ1kb0s3r"
+        "name": "CREDO",
+        "url": "https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD"
       },
       "artists": [
         {
-          "name": "Hander",
-          "url": "https://open.spotify.com/artist/6lkT8tBdi22pfOCNaFcSM7"
+          "name": "Bnet",
+          "url": "https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p"
+        },
+        {
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
         }
       ],
-      "duration_ms": 121338,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/0ZSoTV1DMB4uHLOxEvd9Ie"
+      "duration_ms": 118000,
+      "name": "CREDO",
+      "url": "https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Bioluminiscencia",
+        "url": "https://open.spotify.com/album/3jw8WWo39iUGpNfJnbwUy6"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "duration_ms": 180348,
+      "name": "Ni\u00f1o Mimado",
+      "url": "https://open.spotify.com/track/3bEY4qdwQrD28O0zp0QSSv"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "De Esquina a Esquina",
+        "url": "https://open.spotify.com/album/0NW7Kfidit1uYLviHrG1JT"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Dtoke",
+          "url": "https://open.spotify.com/artist/3sIyjBqd6HZc7eHSdj8f2Y"
+        },
+        {
+          "name": "Imigrante",
+          "url": "https://open.spotify.com/artist/6GqUgQ39VqdXQ0E5mxO9DH"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG"
+        },
+        {
+          "name": "Mr. Junior",
+          "url": "https://open.spotify.com/artist/7Bt7rEaJkQZOftICWmMiJs"
+        },
+        {
+          "name": "Penzattore",
+          "url": "https://open.spotify.com/artist/329TIfzdYpA9sZYr6i79ys"
+        },
+        {
+          "name": "Tom Crowley",
+          "url": "https://open.spotify.com/artist/3J3XgSPY1cDPl35nGL6FHC"
+        },
+        {
+          "name": "Cenzi",
+          "url": "https://open.spotify.com/artist/3rPusZ92yurdHSkcWafe4r"
+        }
+      ],
+      "duration_ms": 424750,
+      "name": "De Esquina A Esquina",
+      "url": "https://open.spotify.com/track/6wtq4Sdlkkz9AMsi1WFTzF"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/01rC0j0q5Gn4SL5JVwYTLf"
+      },
+      "artists": [
+        {
+          "name": "Dtoke",
+          "url": "https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun"
+        }
+      ],
+      "duration_ms": 300959,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7fWwFc8bMQmvycXngTy69W"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Ya Ganamos",
         "url": "https://open.spotify.com/album/3YBko7PNbX12DcPNbF58ef"
@@ -909,151 +1141,143 @@
       "url": "https://open.spotify.com/track/23Xke9pqoQRDgWRU5GD1sg"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7ifdi6VLROvvQp5PLN87pJ"
+        "name": "Rey Sin Corona",
+        "url": "https://open.spotify.com/album/1CFvspcVw08w2wxd8fZQS4"
       },
       "artists": [
         {
-          "name": "aiSHO",
-          "url": "https://open.spotify.com/artist/2vDJuQu4zg55P1XdbSl0cb"
+          "name": "Blon",
+          "url": "https://open.spotify.com/artist/6e3ekvKJm2Hs02OozwNQLp"
         },
         {
-          "name": "Noult",
-          "url": "https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K"
+          "name": "Ale Berraquero",
+          "url": "https://open.spotify.com/artist/7gZriTuCiarOvenQ5Uelzt"
         }
       ],
-      "duration_ms": 194952,
-      "name": "Edici\u00f3n Limitada",
-      "url": "https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13"
+      "duration_ms": 201892,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/2Znon6oXWlOPBQaGzg5tkV"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/7oQDlFVZE7PXIziWA6jCQK"
+        "name": "Final Nacional M\u00e9xico 2019 (Live)",
+        "url": "https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B"
       },
       "artists": [
         {
-          "name": "Acertijo",
-          "url": "https://open.spotify.com/artist/6Lnmmye26uMGvwq0c4zqkz"
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Owner El Due\u00f1o",
-          "url": "https://open.spotify.com/artist/4iNbhcY6wURzqu48tSCo3B"
+          "name": "Jack Adrenalina",
+          "url": "https://open.spotify.com/artist/2UfgTAkzBVMbVUNmzuy0zS"
+        },
+        {
+          "name": "MC Betho",
+          "url": "https://open.spotify.com/artist/2rYKjFmlOtceirzxiYBt3u"
+        },
+        {
+          "name": "DJ Sonicko",
+          "url": "https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH"
+        },
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/4M23QiEDOGUlUgxHYM8ODS"
+      "duration_ms": 312622,
+      "name": "Jack Adrenalina vs Mc Betho - Cuartos de Final",
+      "url": "https://open.spotify.com/track/25QqfufCwX21FIxNonxwW1"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Otro Intento M\u00e1s",
-        "url": "https://open.spotify.com/album/0OEojMGaIwaXxZydGSXoep"
+        "name": "Percepci\u00f3n",
+        "url": "https://open.spotify.com/album/2lcNo36sVz8eu43LUaf39s"
       },
       "artists": [
         {
-          "name": "Arkano",
-          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+          "name": "Errec\u00e9",
+          "url": "https://open.spotify.com/artist/6r9NSzeM8ApEgH2C6aqHW9"
         }
       ],
-      "duration_ms": 190440,
-      "name": "Otro Intento M\u00e1s",
-      "url": "https://open.spotify.com/track/56K06SR4qLBtFWMuz4A45v"
+      "duration_ms": 200000,
+      "name": "Desde El Minuto Cero",
+      "url": "https://open.spotify.com/track/0hBzaJn8xW1AcOSPM09g0Y"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Noches de Insomnio",
-        "url": "https://open.spotify.com/album/7I8AMuSBDnvei9M2qRkkdJ"
+        "name": "L\u00edmites",
+        "url": "https://open.spotify.com/album/02nfFHwUBID47MQ1kb0s3r"
       },
       "artists": [
         {
-          "name": "Invert",
-          "url": "https://open.spotify.com/artist/5Ybbt6iZw0TGWhwM13qB4T"
+          "name": "Hander",
+          "url": "https://open.spotify.com/artist/6lkT8tBdi22pfOCNaFcSM7"
         }
       ],
-      "duration_ms": 155380,
-      "name": "Abraza Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0RaX02e0DW6akaeG88KT9K"
+      "duration_ms": 121338,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/0ZSoTV1DMB4uHLOxEvd9Ie"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Bateria Baja",
-        "url": "https://open.spotify.com/album/770LkNDCdGvaDsEJlFxcoB"
+        "name": "El G.O.A.T.",
+        "url": "https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC"
       },
       "artists": [
         {
-          "name": "Cehzar",
-          "url": "https://open.spotify.com/artist/2VcROjgvAPmuYEICxUCC50"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         }
       ],
-      "duration_ms": 213603,
-      "name": "Otro Mes",
-      "url": "https://open.spotify.com/track/2jlRkCcZCXeHJBOjo1WwOj"
+      "duration_ms": 255306,
+      "name": "El G.O.A.T.",
+      "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "R.A.P.",
-        "url": "https://open.spotify.com/album/0bpsigdGjChHUj3z1p09h4"
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
       "artists": [
         {
-          "name": "Frescolate",
-          "url": "https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/2jFXKAH9A9H8lVnJkkLxXl"
-        },
-        {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Por Voluntad del Rap",
-      "url": "https://open.spotify.com/track/1yjhlFLnKilB3ckQhEOMvr"
+      "duration_ms": 176394,
+      "name": "MEL\u00d3N VINO",
+      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Internacional Supremacia MC",
-        "url": "https://open.spotify.com/album/7aa217zJGkhq33fbR3FYvL"
+        "name": "Busqueda de paz",
+        "url": "https://open.spotify.com/album/4ADOYfhHMwEhA6aawoDazN"
       },
       "artists": [
         {
-          "name": "Choque",
-          "url": "https://open.spotify.com/artist/7tXdrADcGlnM23M7BaWSlO"
+          "name": "Alien Boyz",
+          "url": "https://open.spotify.com/artist/63uKmSPcX2MqAutuEU7cAh"
         },
         {
-          "name": "JOTA",
-          "url": "https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG"
-        },
-        {
-          "name": "Raper Rsd",
-          "url": "https://open.spotify.com/artist/6I9AlBKoVQfHJDoZW9UL39"
-        },
-        {
-          "name": "Ritmodelia",
-          "url": "https://open.spotify.com/artist/34OygCxs40zbxzRzQe1paC"
-        },
-        {
-          "name": "Rodo",
-          "url": "https://open.spotify.com/artist/0ZuMjwfOimTpDSsI6Feahz"
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Prueba de Fuego VI (Choque & Jota vs Ritmodelia & Raper Rsd) [En Vivo]",
-      "url": "https://open.spotify.com/track/7qCTBMM8g0b7v39XwboEtM"
+      "duration_ms": 131776,
+      "name": "Busqueda de paz",
+      "url": "https://open.spotify.com/track/1NEQaApwZnn11OVgHLuzhY"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Final Nacional Chile 2019 (Live)",
         "url": "https://open.spotify.com/album/3Bjs5JWjp267LlVJrqYIfp"
@@ -1068,100 +1292,40 @@
           "url": "https://open.spotify.com/artist/4Ce62mhhQBmqJ5XkJ57zPf"
         },
         {
-          "name": "Jokker Liricis",
-          "url": "https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA"
+          "name": "Racso",
+          "url": "https://open.spotify.com/artist/7J8YSG9YtfvqxAfKx1ofD0"
         },
         {
-          "name": "AlcaZone",
-          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
         },
         {
-          "name": "Baghira",
-          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+          "name": "DJ Stuart",
+          "url": "https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE"
         }
       ],
-      "duration_ms": 877794,
-      "name": "Teorema vs Jokker Liricis - Final",
-      "url": "https://open.spotify.com/track/74rqEOzjm73r0BmqaFxfC1"
+      "duration_ms": 366103,
+      "name": "Teorema vs Racso - Cuartos de Final",
+      "url": "https://open.spotify.com/track/5ni06Bjc1jssEnaIuxMEHp"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Tarde (y mal) [feat. Both Face]",
-        "url": "https://open.spotify.com/album/7eds1pDiMr41xzJQyyLDfL"
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/77a2KtQyiXxF8qP0OJIa2e"
       },
       "artists": [
         {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
-        },
-        {
-          "name": "Both Face",
-          "url": "https://open.spotify.com/artist/5it5SAkZlRhRvT1IBUFKAL"
+          "name": "Sub",
+          "url": "https://open.spotify.com/artist/0J1AbzNzCjcNrGW7KUABe1"
         }
       ],
-      "duration_ms": 228571,
-      "name": "Tarde (y mal) [feat. Both Face]",
-      "url": "https://open.spotify.com/track/6G751OhOUnoRjTB5yEEWh6"
+      "duration_ms": 194400,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/5t6fzQXlslQizCg4v9tkd9"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Dtoke",
-        "url": "https://open.spotify.com/album/6A0oy2AoJcu5yDkRX4b27q"
-      },
-      "artists": [
-        {
-          "name": "Dtoke",
-          "url": "https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun"
-        }
-      ],
-      "duration_ms": 120533,
-      "name": "Si Llamo Me Llega",
-      "url": "https://open.spotify.com/track/00XE6JltoLp3A6EkEtjxAR"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Kodigoz",
-        "url": "https://open.spotify.com/album/6oNig5OYkpd3fqMkqI4lIH"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Rodamiento",
-          "url": "https://open.spotify.com/artist/5PC16HcxELTM0E50b6S1Q6"
-        },
-        {
-          "name": "Adesong",
-          "url": "https://open.spotify.com/artist/1XfmlQYSVwKJgA767z2JQM"
-        }
-      ],
-      "duration_ms": 262028,
-      "name": "Kodigoz",
-      "url": "https://open.spotify.com/track/5Z3LrPp6Wv2IgZmKeu72Xr"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/2q8zLm3lzBVtyolUGKqb4v"
-      },
-      "artists": [
-        {
-          "name": "SNK",
-          "url": "https://open.spotify.com/artist/1x8o02cxA7MsLmDlC14YUj"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/4j5Psn4FYJevZDCnnWWNw1"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Final Nacional Espa\u00f1a 2019 (Live)",
         "url": "https://open.spotify.com/album/1RT3aVjQKgcf5qSevhIRwF"
@@ -1201,82 +1365,42 @@
       "url": "https://open.spotify.com/track/5ramSMdBetc7awJsr0ucfy"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Perenne",
-        "url": "https://open.spotify.com/album/3qjg1FpcJITc33HXdh7Rcu"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/2q8zLm3lzBVtyolUGKqb4v"
       },
       "artists": [
         {
-          "name": "Lancer Lirical",
-          "url": "https://open.spotify.com/artist/0Sq7xXe2dPIIyRva4efEgm"
+          "name": "SNK",
+          "url": "https://open.spotify.com/artist/1x8o02cxA7MsLmDlC14YUj"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Peros",
-      "url": "https://open.spotify.com/track/7phBhs5M9A6HT8eQ9kuJAk"
+      "duration_ms": 169000,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/4j5Psn4FYJevZDCnnWWNw1"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Dobro",
-        "url": "https://open.spotify.com/album/0qGKzucjVuvNXBBRWCPNW3"
+        "name": "Sin\u00f3nimo",
+        "url": "https://open.spotify.com/album/0CW2HjPurqSJZTh4Jdfgh7"
       },
       "artists": [
         {
-          "name": "FelipeFB",
-          "url": "https://open.spotify.com/artist/7HEQJva6saaVS6yYqww75y"
-        },
-        {
-          "name": "RBN",
-          "url": "https://open.spotify.com/artist/4Oz8LVjcei7KYVMD52nKFj"
-        },
-        {
-          "name": "Allan Alves",
-          "url": "https://open.spotify.com/artist/07m0ODHzkzcrBVKHidklK3"
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
         }
       ],
-      "duration_ms": 118403,
-      "name": "Dobro",
-      "url": "https://open.spotify.com/track/7i6RViYy83qgrQZyHZWtMF"
+      "duration_ms": 273113,
+      "name": "Haz de luz",
+      "url": "https://open.spotify.com/track/0xVOXUryXFWedCo4i8xe0P"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Calu",
-        "url": "https://open.spotify.com/album/6Rd8CKbaAtSg7Ugml1RroP"
-      },
-      "artists": [
-        {
-          "name": "Frescolate",
-          "url": "https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Calu",
-      "url": "https://open.spotify.com/track/3XlDMNUhYZwP31sgde6WpS"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Ya No les Creo",
-        "url": "https://open.spotify.com/album/1XzVpPupTt9gSBlp9vHMtp"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/4fTvbZBIfIc3aAKbZhm5ce"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Ya No les Creo",
-      "url": "https://open.spotify.com/track/0TQHnzL0oLlcX3m2RLLw9m"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Final Nacional M\u00e9xico 2019 (Live)",
-        "url": "https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B"
+        "name": "Final Nacional Colombia 2019 (Live)",
+        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
       },
       "artists": [
         {
@@ -1284,31 +1408,227 @@
           "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Jack Adrenalina",
-          "url": "https://open.spotify.com/artist/2UfgTAkzBVMbVUNmzuy0zS"
+          "name": "Carpediem",
+          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
         },
         {
-          "name": "MC Betho",
-          "url": "https://open.spotify.com/artist/2rYKjFmlOtceirzxiYBt3u"
+          "name": "Marithea",
+          "url": "https://open.spotify.com/artist/6PBR80ggM9ni3eCS7HeZ5m"
         },
         {
-          "name": "DJ Sonicko",
-          "url": "https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH"
+          "name": "Hueco Prods",
+          "url": "https://open.spotify.com/artist/2EXyFi044jp9OSnIceS0cV"
+        },
+        {
+          "name": "Gradozero",
+          "url": "https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr"
+        }
+      ],
+      "duration_ms": 390947,
+      "name": "Carpediem Vs Marithea - Semifinal (Live)",
+      "url": "https://open.spotify.com/track/3wW9vIXU0akWog4i5PqUnZ"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Alborotar el Lenguaje",
+        "url": "https://open.spotify.com/album/1i4FsNgNLLX47sMnukwuSx"
+      },
+      "artists": [
+        {
+          "name": "Parley",
+          "url": "https://open.spotify.com/artist/4nTxpLjUSmtJgZ1lq0abCn"
+        },
+        {
+          "name": "Dip Silence",
+          "url": "https://open.spotify.com/artist/4SwRUSzNSBwFFPteC586Lk"
+        },
+        {
+          "name": "Jokker Liricis",
+          "url": "https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA"
+        }
+      ],
+      "duration_ms": 132033,
+      "name": "Alborotar el Lenguaje",
+      "url": "https://open.spotify.com/track/3DP0rk8ud10QDErvcfGJJN"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional Colombia 2019 (Live)",
+        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/44qxuOJP1S6A2c1wvOBXik"
+        },
+        {
+          "name": "Tuni",
+          "url": "https://open.spotify.com/artist/5XrxnJ9OkViRtVl4mPq47C"
+        },
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        },
+        {
+          "name": "Hueco Prods",
+          "url": "https://open.spotify.com/artist/2EXyFi044jp9OSnIceS0cV"
+        }
+      ],
+      "duration_ms": 594992,
+      "name": "Husky Vs Tuni - Cuartos de Final (Live)",
+      "url": "https://open.spotify.com/track/2VyRo7RZS8VXzkO8JS6n9I"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/5GMYZC3QpD9gR9AQ3zh4XX"
+      },
+      "artists": [
+        {
+          "name": "Zasko Master",
+          "url": "https://open.spotify.com/artist/216aT7YZwPgqOmkxOSEAgD"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Ella Me Dice Que la Quiera",
+      "url": "https://open.spotify.com/track/5gR7QFN11QYDuLjKyaNMBi"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Boca del Lobo",
+        "url": "https://open.spotify.com/album/0WhZWleZMdn5fXAnxOxUGV"
+      },
+      "artists": [
+        {
+          "name": "BTA",
+          "url": "https://open.spotify.com/artist/0jPynMZFsKdmn0JsRcCxP0"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Boca del Lobo",
+      "url": "https://open.spotify.com/track/3JqjiqBZtLxsqmofCyYzzF"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional Rep\u00fablica Dominicana 2019 (Live)",
+        "url": "https://open.spotify.com/album/3z0a5jGWai20HQwdk2Fv72"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Raper Rsd",
+          "url": "https://open.spotify.com/artist/6I9AlBKoVQfHJDoZW9UL39"
+        },
+        {
+          "name": "Mc Jeral",
+          "url": "https://open.spotify.com/artist/79OQ747odDlkmInYhRyhAI"
         },
         {
           "name": "MYKKA",
           "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
         }
       ],
-      "duration_ms": 312622,
-      "name": "Jack Adrenalina vs Mc Betho - Cuartos de Final",
-      "url": "https://open.spotify.com/track/25QqfufCwX21FIxNonxwW1"
+      "duration_ms": 132515,
+      "name": "Raper RSD vs MC Jeral - 3er y 4to Puesto",
+      "url": "https://open.spotify.com/track/4XLXpgsrvPeOtXYYCsOqAE"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Espa\u00f1a 2019 (Live)",
-        "url": "https://open.spotify.com/album/1RT3aVjQKgcf5qSevhIRwF"
+        "name": "Inspiraci\u00f3n Divina",
+        "url": "https://open.spotify.com/album/2FYtiDH5OiJYzSLS7yZJlW"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 275454,
+      "name": "Bienvenido a Mi Barrio",
+      "url": "https://open.spotify.com/track/2SKhCSomYlGk8RxTTzS2GU"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Kodigoz",
+        "url": "https://open.spotify.com/album/6oNig5OYkpd3fqMkqI4lIH"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Rodamiento",
+          "url": "https://open.spotify.com/artist/5PC16HcxELTM0E50b6S1Q6"
+        },
+        {
+          "name": "Adesong",
+          "url": "https://open.spotify.com/artist/1XfmlQYSVwKJgA767z2JQM"
+        }
+      ],
+      "duration_ms": 262028,
+      "name": "Kodigoz",
+      "url": "https://open.spotify.com/track/5Z3LrPp6Wv2IgZmKeu72Xr"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/7oQDlFVZE7PXIziWA6jCQK"
+      },
+      "artists": [
+        {
+          "name": "Acertijo",
+          "url": "https://open.spotify.com/artist/6Lnmmye26uMGvwq0c4zqkz"
+        },
+        {
+          "name": "Owner El Due\u00f1o",
+          "url": "https://open.spotify.com/artist/4iNbhcY6wURzqu48tSCo3B"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/4M23QiEDOGUlUgxHYM8ODS"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Tarde (y mal) [feat. Both Face]",
+        "url": "https://open.spotify.com/album/7eds1pDiMr41xzJQyyLDfL"
+      },
+      "artists": [
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        },
+        {
+          "name": "Both Face",
+          "url": "https://open.spotify.com/artist/5it5SAkZlRhRvT1IBUFKAL"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Tarde (y mal) [feat. Both Face]",
+      "url": "https://open.spotify.com/track/6G751OhOUnoRjTB5yEEWh6"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Nacional Chile 2019 (Live)",
+        "url": "https://open.spotify.com/album/3Bjs5JWjp267LlVJrqYIfp"
       },
       "artists": [
         {
@@ -1316,28 +1636,160 @@
           "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Zasko Master",
-          "url": "https://open.spotify.com/artist/216aT7YZwPgqOmkxOSEAgD"
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/4Ce62mhhQBmqJ5XkJ57zPf"
         },
         {
-          "name": "Sweet Pain",
-          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
+          "name": "Jokker Liricis",
+          "url": "https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA"
         },
         {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+          "name": "AlcaZone",
+          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
         },
         {
-          "name": "C\u00b4MON!",
-          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
         }
       ],
-      "duration_ms": 558728,
-      "name": "Zasko Master vs Sweet Pain - Final",
-      "url": "https://open.spotify.com/track/6B3iYeVSZqZxD1uWQRLoMP"
+      "duration_ms": 877794,
+      "name": "Teorema vs Jokker Liricis - Final",
+      "url": "https://open.spotify.com/track/74rqEOzjm73r0BmqaFxfC1"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Rima y No Llores",
+        "url": "https://open.spotify.com/album/6XSbjvn3Elyo1Eg7LXsuZA"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        },
+        {
+          "name": "Choque",
+          "url": "https://open.spotify.com/artist/7tXdrADcGlnM23M7BaWSlO"
+        },
+        {
+          "name": "Chuty",
+          "url": "https://open.spotify.com/artist/1r5zlDA52ACalXlJsHY3cU"
+        },
+        {
+          "name": "El Tanke",
+          "url": "https://open.spotify.com/artist/0av9xaFGQENRVpvateSgJP"
+        },
+        {
+          "name": "elevn",
+          "url": "https://open.spotify.com/artist/4txJGe6fS7RGAhxfD9FoSS"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/0OYohtB0VFlGjctRMS2KOS"
+        },
+        {
+          "name": "Gaviria",
+          "url": "https://open.spotify.com/artist/3YpPW0iEvxRLsrJ9ZMCtxx"
+        },
+        {
+          "name": "Jony Beltran",
+          "url": "https://open.spotify.com/artist/5GUZzbltjoDTr9MBzodnCB"
+        },
+        {
+          "name": "Jota MC",
+          "url": "https://open.spotify.com/artist/3Lj6XS0XK8SLJOr8QeA7Q6"
+        },
+        {
+          "name": "Melvin la Cura",
+          "url": "https://open.spotify.com/artist/1vYEPaWyCeb6EsdBTWFn98"
+        },
+        {
+          "name": "Pepegrillo",
+          "url": "https://open.spotify.com/artist/2vvidpXBHTFXOkVdvQWUDK"
+        },
+        {
+          "name": "Redenci\u00f3n",
+          "url": "https://open.spotify.com/artist/1dfWxNls7Eb7rXl5gkaTAA"
+        },
+        {
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Yenky One",
+          "url": "https://open.spotify.com/artist/1SH70LT5yzTqPrROmPFvYJ"
+        },
+        {
+          "name": "Cenzi",
+          "url": "https://open.spotify.com/artist/3rPusZ92yurdHSkcWafe4r"
+        }
+      ],
+      "duration_ms": 638526,
+      "name": "Rima Y No Llores",
+      "url": "https://open.spotify.com/track/4QfyRuZnEXHBmfvEdCdgYR"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Old Custom",
+        "url": "https://open.spotify.com/album/2b3Ksd7KlZ3y1OtSEAX9Zx"
+      },
+      "artists": [
+        {
+          "name": "Elm Beats",
+          "url": "https://open.spotify.com/artist/7brhh1t9PeV6zLQQQsaibj"
+        },
+        {
+          "name": "Artesano",
+          "url": "https://open.spotify.com/artist/74kDIwInoOBAZ7jKtTVFRC"
+        }
+      ],
+      "duration_ms": 176819,
+      "name": "Old Custom",
+      "url": "https://open.spotify.com/track/2VESXwMfSPjBrjLcQZT5sx"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Final Internacional Supremacia MC",
+        "url": "https://open.spotify.com/album/7aa217zJGkhq33fbR3FYvL"
+      },
+      "artists": [
+        {
+          "name": "Choque",
+          "url": "https://open.spotify.com/artist/7tXdrADcGlnM23M7BaWSlO"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG"
+        },
+        {
+          "name": "Raper Rsd",
+          "url": "https://open.spotify.com/artist/6I9AlBKoVQfHJDoZW9UL39"
+        },
+        {
+          "name": "Ritmodelia",
+          "url": "https://open.spotify.com/artist/34OygCxs40zbxzRzQe1paC"
+        },
+        {
+          "name": "Rodo",
+          "url": "https://open.spotify.com/artist/0ZuMjwfOimTpDSsI6Feahz"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Prueba de Fuego VI (Choque & Jota vs Ritmodelia & Raper Rsd) [En Vivo]",
+      "url": "https://open.spotify.com/track/7qCTBMM8g0b7v39XwboEtM"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
       "album": {
         "name": "Final Nacional M\u00e9xico 2019 (Live)",
         "url": "https://open.spotify.com/album/45vZBF94IhsgEY53RwlW4B"
@@ -1373,38 +1825,30 @@
       "url": "https://open.spotify.com/track/4KR9Gycu1bftlJkL2rUY69"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Rep\u00fablica Dominicana 2019 (Live)",
-        "url": "https://open.spotify.com/album/3z0a5jGWai20HQwdk2Fv72"
+        "name": "Pero Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1iqVykI5syjP5bxQbCI0ir"
       },
       "artists": [
         {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+          "name": "Skone",
+          "url": "https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco"
         },
         {
-          "name": "Raper Rsd",
-          "url": "https://open.spotify.com/artist/6I9AlBKoVQfHJDoZW9UL39"
-        },
-        {
-          "name": "Mc Jeral",
-          "url": "https://open.spotify.com/artist/79OQ747odDlkmInYhRyhAI"
-        },
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+          "name": "Hazhe",
+          "url": "https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk"
         }
       ],
-      "duration_ms": 132515,
-      "name": "Raper RSD vs MC Jeral - 3er y 4to Puesto",
-      "url": "https://open.spotify.com/track/4XLXpgsrvPeOtXYYCsOqAE"
+      "duration_ms": 199051,
+      "name": "Pero Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0j32EsfL1TQ04ssfnnhMuI"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Colombia 2019 (Live)",
-        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
+        "name": "Final Nacional Espa\u00f1a 2019 (Live)",
+        "url": "https://open.spotify.com/album/1RT3aVjQKgcf5qSevhIRwF"
       },
       "artists": [
         {
@@ -1412,237 +1856,141 @@
           "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
         },
         {
-          "name": "Husky",
-          "url": "https://open.spotify.com/artist/44qxuOJP1S6A2c1wvOBXik"
+          "name": "Zasko Master",
+          "url": "https://open.spotify.com/artist/216aT7YZwPgqOmkxOSEAgD"
         },
         {
-          "name": "Tuni",
-          "url": "https://open.spotify.com/artist/5XrxnJ9OkViRtVl4mPq47C"
+          "name": "Sweet Pain",
+          "url": "https://open.spotify.com/artist/2SRib7O0tWuMCXEMYmCRHc"
         },
         {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+          "name": "Nerso & Verse",
+          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
         },
         {
-          "name": "Hueco Prods",
-          "url": "https://open.spotify.com/artist/2EXyFi044jp9OSnIceS0cV"
+          "name": "C\u00b4MON!",
+          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
         }
       ],
-      "duration_ms": 594992,
-      "name": "Husky Vs Tuni - Cuartos de Final (Live)",
-      "url": "https://open.spotify.com/track/2VyRo7RZS8VXzkO8JS6n9I"
+      "duration_ms": 558728,
+      "name": "Zasko Master vs Sweet Pain - Final",
+      "url": "https://open.spotify.com/track/6B3iYeVSZqZxD1uWQRLoMP"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Colombia 2019 (Live)",
-        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
+        "name": "Bateria Baja",
+        "url": "https://open.spotify.com/album/770LkNDCdGvaDsEJlFxcoB"
       },
       "artists": [
-        {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
-        },
-        {
-          "name": "Carpediem",
-          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
-        },
-        {
-          "name": "Marithea",
-          "url": "https://open.spotify.com/artist/6PBR80ggM9ni3eCS7HeZ5m"
-        },
-        {
-          "name": "Hueco Prods",
-          "url": "https://open.spotify.com/artist/2EXyFi044jp9OSnIceS0cV"
-        },
-        {
-          "name": "Gradozero",
-          "url": "https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr"
-        }
-      ],
-      "duration_ms": 390947,
-      "name": "Carpediem Vs Marithea - Semifinal (Live)",
-      "url": "https://open.spotify.com/track/3wW9vIXU0akWog4i5PqUnZ"
-    },
-    {
-      "added_at": "2022-04-11 16:33:08",
-      "album": {
-        "name": "Final Nacional Costa Rica 2019 (Live)",
-        "url": "https://open.spotify.com/album/5NA92zUDM3Piy87b9AtGs9"
-      },
-      "artists": [
-        {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
-        },
-        {
-          "name": "SNK",
-          "url": "https://open.spotify.com/artist/1x8o02cxA7MsLmDlC14YUj"
-        },
         {
           "name": "Cehzar",
           "url": "https://open.spotify.com/artist/2VcROjgvAPmuYEICxUCC50"
-        },
-        {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
-        },
-        {
-          "name": "AlcaZone",
-          "url": "https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW"
         }
       ],
-      "duration_ms": 545753,
-      "name": "SNK vs Cehzar - Final",
-      "url": "https://open.spotify.com/track/0Cy2g9T6pXiN8IOWLkYFXX"
+      "duration_ms": 213603,
+      "name": "Otro Mes",
+      "url": "https://open.spotify.com/track/2jlRkCcZCXeHJBOjo1WwOj"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Chile 2019 (Live)",
-        "url": "https://open.spotify.com/album/3Bjs5JWjp267LlVJrqYIfp"
+        "name": "Ghostwriter",
+        "url": "https://open.spotify.com/album/3PY7X6PCfoZemzsnlvxU1I"
       },
       "artists": [
         {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
-        },
-        {
-          "name": "Teorema",
-          "url": "https://open.spotify.com/artist/4Ce62mhhQBmqJ5XkJ57zPf"
-        },
-        {
-          "name": "Racso",
-          "url": "https://open.spotify.com/artist/7J8YSG9YtfvqxAfKx1ofD0"
-        },
-        {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
-        },
-        {
-          "name": "DJ Stuart",
-          "url": "https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE"
+          "name": "Noult",
+          "url": "https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K"
         }
       ],
-      "duration_ms": 366103,
-      "name": "Teorema vs Racso - Cuartos de Final",
-      "url": "https://open.spotify.com/track/5ni06Bjc1jssEnaIuxMEHp"
+      "duration_ms": 184500,
+      "name": "Ghostwriter",
+      "url": "https://open.spotify.com/track/0G8oTd28EThUZKhXA0v1BR"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Colombia 2019 (Live)",
-        "url": "https://open.spotify.com/album/2es6AAx5NZAswIIg1WHT6T"
+        "name": "Noches de Insomnio",
+        "url": "https://open.spotify.com/album/7I8AMuSBDnvei9M2qRkkdJ"
       },
       "artists": [
         {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
-        },
-        {
-          "name": "Big Killa",
-          "url": "https://open.spotify.com/artist/7D4JO1Da4qQLesq1iEaEID"
-        },
-        {
-          "name": "Carpediem",
-          "url": "https://open.spotify.com/artist/3vMZv0xDuOlwWRBrHaKpwP"
-        },
-        {
-          "name": "C\u00b4MON!",
-          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
-        },
-        {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
-        },
-        {
-          "name": "Dr. Neo Cortex",
-          "url": "https://open.spotify.com/artist/5VwVvNKhvBYez1PuBbOti7"
+          "name": "Invert",
+          "url": "https://open.spotify.com/artist/5Ybbt6iZw0TGWhwM13qB4T"
         }
       ],
-      "duration_ms": 812501,
-      "name": "Big Killa Vs Carpediem - Final (Live)",
-      "url": "https://open.spotify.com/track/7pzrOwbpzwNJ1uwj9hJ97K"
+      "duration_ms": 155380,
+      "name": "Abraza Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0RaX02e0DW6akaeG88KT9K"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Cuba 2019 (Live)",
-        "url": "https://open.spotify.com/album/01Dr0uHdeGNKcaw3HCI7ra"
+        "name": "R.A.P.",
+        "url": "https://open.spotify.com/album/0bpsigdGjChHUj3z1p09h4"
       },
       "artists": [
         {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+          "name": "Frescolate",
+          "url": "https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg"
         },
         {
-          "name": "Drc",
-          "url": "https://open.spotify.com/artist/294kyCSV7pIN81fSvhK53h"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/2jFXKAH9A9H8lVnJkkLxXl"
         },
         {
-          "name": "Tito MC",
-          "url": "https://open.spotify.com/artist/0JIEKsI7hOIgv1GY9XNXKq"
-        },
-        {
-          "name": "C\u00b4MON!",
-          "url": "https://open.spotify.com/artist/08Px96DtBfbeotfiZXY9WW"
-        },
-        {
-          "name": "Baghira",
-          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
-        },
-        {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
         }
       ],
-      "duration_ms": 949930,
-      "name": "DRC vs Tito MC - Final",
-      "url": "https://open.spotify.com/track/73Duye1kCQ4jwmF860nPCF"
+      "duration_ms": 223733,
+      "name": "Por Voluntad del Rap",
+      "url": "https://open.spotify.com/track/1yjhlFLnKilB3ckQhEOMvr"
     },
     {
-      "added_at": "2022-04-11 16:33:08",
+      "added_at": "2022-07-08 22:40:20",
       "album": {
-        "name": "Final Nacional Rep\u00fablica Dominicana 2019 (Live)",
-        "url": "https://open.spotify.com/album/3z0a5jGWai20HQwdk2Fv72"
+        "name": "Bendito (feat. Lit Killah & Papatinho)",
+        "url": "https://open.spotify.com/album/6hCgufIEKuVXxOGr9SG48t"
       },
       "artists": [
         {
-          "name": "Red Bull Batalla",
-          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
         },
         {
-          "name": "Kdt Rsd",
-          "url": "https://open.spotify.com/artist/6HGDrStYDkamTvqiEpiV7j"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "Shield Master",
-          "url": "https://open.spotify.com/artist/6XiJt97Qst3SZzsbLh7mAx"
-        },
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        },
-        {
-          "name": "Nerso & Verse",
-          "url": "https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm"
-        },
-        {
-          "name": "Gradozero",
-          "url": "https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr"
-        },
-        {
-          "name": "Danny Brasco",
-          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
-        },
-        {
-          "name": "Baghira",
-          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 1474222,
-      "name": "KDT RSD vs Shield Master - Final",
-      "url": "https://open.spotify.com/track/50J2xvv4fyOj6WyvN4u94j"
+      "duration_ms": 140240,
+      "name": "Bendito (feat. Lit Killah & Papatinho)",
+      "url": "https://open.spotify.com/track/0sb3TfCEIZ0mE7BYTlghEe"
+    },
+    {
+      "added_at": "2022-07-08 22:40:20",
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7ifdi6VLROvvQp5PLN87pJ"
+      },
+      "artists": [
+        {
+          "name": "aiSHO",
+          "url": "https://open.spotify.com/artist/2vDJuQu4zg55P1XdbSl0cb"
+        },
+        {
+          "name": "Noult",
+          "url": "https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K"
+        }
+      ],
+      "duration_ms": 194952,
+      "name": "Edici\u00f3n Limitada",
+      "url": "https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13"
     }
   ],
   "unique_name": "Red Bull Batalla",

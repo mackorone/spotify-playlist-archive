@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-11",
       "duration_ms": 199360,
       "name": "2 + 2 = 5",
       "url": "https://open.spotify.com/track/6EIVp9Arb1aAkFgro6UTlt"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 237400,
       "name": "42",
       "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
@@ -77,6 +77,24 @@
       "duration_ms": 133333,
       "name": "A Picture Of Dorian Gray",
       "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
+    },
+    {
+      "album": {
+        "name": "The Essential Lynyrd Skynyrd",
+        "url": "https://open.spotify.com/album/4zQRIyATzfm8RQ8ZOI47la"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 262506,
+      "name": "All I Can Do Is Write About It",
+      "url": "https://open.spotify.com/track/2567RV7gyweQ2YOe93MZkG"
     },
     {
       "album": {
@@ -109,7 +127,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -145,10 +163,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-13",
       "duration_ms": 401101,
       "name": "Billy Liar - Live",
       "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
+    },
+    {
+      "album": {
+        "name": "The Essential Blue \u00d6yster Cult",
+        "url": "https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 389173,
+      "name": "Black Blade",
+      "url": "https://open.spotify.com/track/6z3Z0lMHUoyDxyY8UzvFta"
     },
     {
       "album": {
@@ -181,10 +217,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
+    },
+    {
+      "album": {
+        "name": "Solitude Standing Live 2012",
+        "url": "https://open.spotify.com/album/03JBDRjstk0Iil3GRqnSWI"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284008,
+      "name": "Calypso - Live",
+      "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
     },
     {
       "album": {
@@ -199,10 +253,46 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 283681,
       "name": "Dear Seamus Heaney",
       "url": "https://open.spotify.com/track/28qRYCVGXVsm5UfheQ2DRi"
+    },
+    {
+      "album": {
+        "name": "Innocence Is Kinky",
+        "url": "https://open.spotify.com/album/73qshwiwldg5avb8ox1BQT"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 215533,
+      "name": "Death Of The Author",
+      "url": "https://open.spotify.com/track/4mcDWFiTDWIPJmXytF38UQ"
+    },
+    {
+      "album": {
+        "name": "Four Thieves Gone - The Robbinsville Sessions",
+        "url": "https://open.spotify.com/album/1Mf5tvDUyNn1709ovebdBq"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 217106,
+      "name": "Denouncing November Blue (Uneasy Writer)",
+      "url": "https://open.spotify.com/track/2CF9CtzCB2mEALrVH9lgxV"
     },
     {
       "album": {
@@ -217,7 +307,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -235,7 +325,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 290760,
       "name": "Doublespeak",
       "url": "https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4"
@@ -325,7 +415,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -343,7 +433,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm"
@@ -368,6 +458,42 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/4Tp1Qe55NaNCWNyK0Crjy9"
+      },
+      "artists": [
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 320240,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/0as2FkOPwyZJnCqlDeUlmQ"
+    },
+    {
+      "album": {
+        "name": "Black and White",
+        "url": "https://open.spotify.com/album/5PfI1x0Rub41UUeLEksUCU"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 135533,
+      "name": "Hey! (Rise of the Robots)",
+      "url": "https://open.spotify.com/track/4ipaeAKjSDIajzALCDfo2h"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions - Curated by Jim Eno",
         "url": "https://open.spotify.com/album/42Fu7ZldhKPIis5xdHtbro"
       },
@@ -379,7 +505,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -415,7 +541,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 222773,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
@@ -451,10 +577,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 169293,
       "name": "Jocasta",
       "url": "https://open.spotify.com/track/5R3JnfxKQYSH4Njj9ZtXqq"
+    },
+    {
+      "album": {
+        "name": "Live at Carnegie Hall - November 3, 1962 (with Tommy Makem)",
+        "url": "https://open.spotify.com/album/7nmpysxD16x9i9jaIcU0uX"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        },
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 96506,
+      "name": "Lady Chatterley (with Tommy Makem) - Live at Carnegie Hall, New York, NY - November 1962",
+      "url": "https://open.spotify.com/track/6A18KBp0ve9SfbTmCHf5UD"
     },
     {
       "album": {
@@ -505,10 +653,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 174453,
       "name": "Love and Destroy - Live",
       "url": "https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3"
+    },
+    {
+      "album": {
+        "name": "Live At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/40bPx3n1uqxlPd2nB7lBuX"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 785160,
+      "name": "Man With The Movie Camera",
+      "url": "https://open.spotify.com/track/0nkPQmRvzYMrbjtB8mRlyR"
     },
     {
       "album": {
@@ -527,6 +693,24 @@
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
+    },
+    {
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 319293,
+      "name": "Mr. Writer",
+      "url": "https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E"
     },
     {
       "album": {
@@ -559,7 +743,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 130586,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/36IjkjX9jve0xUzzdI1Bvj"
@@ -631,7 +815,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
@@ -685,10 +869,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 208828,
       "name": "Paperback Writer - Live At Citi Field, NYC, 2009",
       "url": "https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R"
+    },
+    {
+      "album": {
+        "name": "Hail to the Thief (Collector's Edition)",
+        "url": "https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 238280,
+      "name": "Paperbag Writer",
+      "url": "https://open.spotify.com/track/0l8kx5UM3p8DxaEYZ2YzN9"
     },
     {
       "album": {
@@ -703,7 +905,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
@@ -721,7 +923,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
@@ -793,10 +995,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 240640,
       "name": "Rejoyce",
       "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
+    },
+    {
+      "album": {
+        "name": "The Essential Simon & Garfunkel",
+        "url": "https://open.spotify.com/album/12BwdaXk3rbOjTnIKxXa4G"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 176333,
+      "name": "Richard Cory",
+      "url": "https://open.spotify.com/track/66qwQ9eor5P2dUy7PwtvMh"
     },
     {
       "album": {
@@ -872,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
+        "url": "https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-09",
+      "duration_ms": 129306,
+      "name": "Shakespeare's Sister - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5kgSQEoPMwm5uTL2FEC6xe"
+    },
+    {
+      "album": {
         "name": "Opheliac - The Deluxe Edition",
         "url": "https://open.spotify.com/album/2xjmTbsluAW5Y2WHqVwgqA"
       },
@@ -883,7 +1121,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -923,6 +1161,24 @@
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
+    },
+    {
+      "album": {
+        "name": "Hawkwind Decades: 70s",
+        "url": "https://open.spotify.com/album/1IJrlywO0UsBfNBsrNTdzt"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 586613,
+      "name": "Steppenwolf",
+      "url": "https://open.spotify.com/track/1e4Jqv43rf9NsvrQffelbn"
     },
     {
       "album": {
@@ -1027,7 +1283,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 244312,
       "name": "The Joy of D.H. Lawrence",
       "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
@@ -1045,7 +1301,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "The Pearl",
       "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
@@ -1063,7 +1319,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 292933,
       "name": "The River",
       "url": "https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw"
@@ -1099,7 +1355,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
@@ -1117,7 +1373,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 181106,
       "name": "The Underwood Typewriter",
       "url": "https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk"
@@ -1135,7 +1391,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 251040,
       "name": "The Writer",
       "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
@@ -1189,7 +1445,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-19",
       "duration_ms": 64825,
       "name": "Type Endlessly",
       "url": "https://open.spotify.com/track/1YnkKuOyXYQYIRg2YRZRfZ"
@@ -1207,7 +1463,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
@@ -1247,7 +1503,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 214626,
       "name": "When I Write My Master's Thesis",
       "url": "https://open.spotify.com/track/0liT69dkJVAZxG3O2Lpkik"

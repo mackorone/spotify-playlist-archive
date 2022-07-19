@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 255700,
       "name": "A Thousand Things That Were You",
       "url": "https://open.spotify.com/track/7cRhOk7j7jxXZpsX0s3TA5"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 225801,
       "name": "Ain't That Somethin'",
       "url": "https://open.spotify.com/track/0UD3irWPjn3FrropsoPsW2"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 206613,
       "name": "Bad Feeling",
       "url": "https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 156786,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ITkbRFUUIg09wWxUGWxZ1"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 302703,
       "name": "I Can't Live Without You",
       "url": "https://open.spotify.com/track/03oKPuz3ykdddqan4z743d"
@@ -1088,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU"
+    },
+    {
+      "album": {
         "name": "Neon Noir",
         "url": "https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i"
       },
@@ -1320,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Other Times",
+        "url": "https://open.spotify.com/album/18YUMGdFg0I4Lqa491CI7C"
+      },
+      "artists": [
+        {
+          "name": "Palm Skin Productions",
+          "url": "https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217551,
+      "name": "Rock a Nore",
+      "url": "https://open.spotify.com/track/1ZjQEyOASgLvPNL7szbHzU"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr"
       },
@@ -1360,6 +1396,42 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306597,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
+    },
+    {
+      "album": {
+        "name": "ORCHIDEA",
+        "url": "https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Shaquille Sama",
+      "url": "https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo"
+    },
+    {
+      "album": {
         "name": "Side by Side",
         "url": "https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y"
       },
@@ -1389,7 +1461,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 343841,
       "name": "Silence is Golden",
       "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
@@ -1443,7 +1515,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 173854,
       "name": "Soul Food",
       "url": "https://open.spotify.com/track/445dqIqkN3pgi73mldzj4K"
@@ -1581,7 +1653,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 184907,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
@@ -1825,7 +1897,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 170865,
       "name": "Upside",
       "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
@@ -1851,6 +1923,28 @@
       "duration_ms": 196949,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/6L3Vs1lEEAPXRiIdJiGHIc"
+    },
+    {
+      "album": {
+        "name": "wandering (feat. george)",
+        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "wandering (feat. george)",
+      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
     },
     {
       "album": {
@@ -1959,7 +2053,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 247339,
       "name": "With You",
       "url": "https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ"
@@ -2035,6 +2129,42 @@
       "duration_ms": 206493,
       "name": "You",
       "url": "https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/7qBrrDS8inczS103oA3pln"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185716,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273138,
+      "name": "You\u2019ve Got A Hard Head",
+      "url": "https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79"

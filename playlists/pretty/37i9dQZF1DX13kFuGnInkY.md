@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of this year's winners & nominees!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,249 likes - 61 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,953 likes - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

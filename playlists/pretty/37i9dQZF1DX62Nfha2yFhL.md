@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,434 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,355 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 49 | [Charcoal Baby](https://open.spotify.com/track/4yOT0bYT83QZ0aXlJ3Tb2p) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Charcoal Baby](https://open.spotify.com/album/225NQB3CCjOwiEnDE2Y3Cd) | 4:02 |
 | 50 | [Carrot Juice](https://open.spotify.com/track/2cXlc9LWmg2N8t4KgVWZAl) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Carrot Juice](https://open.spotify.com/album/45qI6qObAt7ocSH0ancfEQ) | 4:49 |
 
-Snapshot ID: `MTY0NTIwMTEzMSwwMDAwMDA2ODAwMDAwMTdmMGRhMTA4MjYwMDAwMDE2ZDE1MzJiMDAy`
+Snapshot ID: `MTY1MTUwMDY0NiwwMDAwMDA2OTAwMDAwMTgwODUxYmZmNWEwMDAwMDE2ZDE1MzJiMDAy`

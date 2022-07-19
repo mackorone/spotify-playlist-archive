@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 244937,
       "name": "9-Feb-2022 \"All For E\"",
       "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2019-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 288280,
       "name": "Ab Ovo",
       "url": "https://open.spotify.com/track/1G0gPuaIFKB8Ua6mFUh2pu"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2019-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 102034,
       "name": "Alpine Sketch",
       "url": "https://open.spotify.com/track/6OaJWCAMKKZOP8Fu2TYQo6"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2019-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 207053,
       "name": "Anona",
       "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-25",
       "duration_ms": 108000,
       "name": "Balancing Act",
       "url": "https://open.spotify.com/track/2XVpEFN7kMUBhZ719QvM9A"
@@ -597,6 +597,24 @@
       "duration_ms": 153500,
       "name": "Beneath the Crystal Veil",
       "url": "https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA"
+    },
+    {
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     },
     {
       "album": {
@@ -759,7 +777,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 413740,
       "name": "Calm after the storm",
       "url": "https://open.spotify.com/track/1ypujsdkhMUsHjmwxuP0N0"
@@ -803,6 +821,24 @@
       "duration_ms": 406758,
       "name": "Circles",
       "url": "https://open.spotify.com/track/53vH1IBC1SNk7ulygskodN"
+    },
+    {
+      "album": {
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "album": {
@@ -1001,6 +1037,10 @@
         {
           "name": "R\u00eave",
           "url": "https://open.spotify.com/artist/6Nqa2SNcCu6Lg388buYePA"
+        },
+        {
+          "name": "R\u00eave R\u00eave",
+          "url": "https://open.spotify.com/artist/4mj4FIQfdx3fB2S5mIqJky"
         }
       ],
       "date_added": "2022-02-25",
@@ -1063,6 +1103,24 @@
       "duration_ms": 366253,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/0lO6cCyDqEuAitMxvKyeCq"
+    },
+    {
+      "album": {
+        "name": "Felt Improv No. 31",
+        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 144042,
+      "name": "Felt Improv No. 31",
+      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
     },
     {
       "album": {
@@ -1418,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+    },
+    {
+      "album": {
         "name": "Costero",
         "url": "https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1"
       },
@@ -1717,7 +1793,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 155685,
       "name": "Little While",
       "url": "https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh"
@@ -2079,7 +2155,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 173146,
       "name": "Nor\u00f0urlj\u00f3s",
       "url": "https://open.spotify.com/track/5aQHgv1SGzKgERWobUtV8c"
@@ -2165,7 +2241,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
@@ -2219,7 +2295,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
@@ -2331,6 +2407,24 @@
       "duration_ms": 210067,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/17wwTCZ6BAMA9z8SdaJnvQ"
+    },
+    {
+      "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "album": {
@@ -2522,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
+    },
+    {
+      "album": {
         "name": "Codex",
         "url": "https://open.spotify.com/album/6mhvHYyMRX7cEG8cIKCfaF"
       },
@@ -2541,6 +2653,24 @@
       "duration_ms": 220394,
       "name": "Riley: Keyboard Study 2 - Brubaker Version 3",
       "url": "https://open.spotify.com/track/6IA6qT22LlOMX4NjzVlNjZ"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1Ag5QnmplBpx8V093q26mf"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145232,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4BSQltQxjOw2v46BTc5tED"
     },
     {
       "album": {
@@ -2627,7 +2757,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 189946,
       "name": "six + six",
       "url": "https://open.spotify.com/track/42KSKpVfVbJFSP3GFbV4fH"
@@ -2681,7 +2811,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 251625,
       "name": "Soffia la notte",
       "url": "https://open.spotify.com/track/0jPNtLsmIRXnGayXcMH5l1"
@@ -2750,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "album": {
         "name": "Kate Moore: Dances And Canons",
         "url": "https://open.spotify.com/album/1gvWUgtDjlNVDnSNR3PrLg"
       },
@@ -2813,10 +2961,6 @@
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
           "name": "Hiroco.M",
           "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
         }
@@ -2841,7 +2985,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 273160,
       "name": "Strata",
       "url": "https://open.spotify.com/track/6cIiJmwWKCgfxo7qKLRbLd"
@@ -2938,6 +3082,24 @@
     },
     {
       "album": {
+        "name": "The First Birds",
+        "url": "https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES"
+      },
+      "artists": [
+        {
+          "name": "Bea Boethius",
+          "url": "https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136625,
+      "name": "The First Birds",
+      "url": "https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo"
+    },
+    {
+      "album": {
         "name": "Prehension",
         "url": "https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q"
       },
@@ -2982,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
+    },
+    {
+      "album": {
         "name": "The Mercy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT"
       },
@@ -3001,6 +3181,24 @@
       "duration_ms": 210360,
       "name": "The Radiant City",
       "url": "https://open.spotify.com/track/4ZI7KGfYT2SgENTj6BUSBL"
+    },
+    {
+      "album": {
+        "name": "The Scent Of New Days",
+        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142625,
+      "name": "The Scent Of New Days",
+      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
     },
     {
       "album": {
@@ -3113,7 +3311,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 191610,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P"
@@ -3156,6 +3354,24 @@
     },
     {
       "album": {
+        "name": "Tristes",
+        "url": "https://open.spotify.com/album/4vdP6Kso8xJEAhmoPwtu3N"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tristes",
+      "url": "https://open.spotify.com/track/1dfXJRmlzO392SXEaVfsNv"
+    },
+    {
+      "album": {
         "name": "Hertz",
         "url": "https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD"
       },
@@ -3167,7 +3383,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 191293,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D"
@@ -3189,6 +3405,24 @@
       "duration_ms": 278966,
       "name": "Two steps too often aside (Early Variation I)",
       "url": "https://open.spotify.com/track/4LXv2GmYlN18bmKf9w0hIf"
+    },
+    {
+      "album": {
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
     },
     {
       "album": {
@@ -3293,7 +3527,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv?si=ah1amS0nQ3iTfMhqoXh4Ow">Mbuzi Gang'</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-108 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+109 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 | 2021-11-17 |  |
 | [Get Low](https://open.spotify.com/track/6DwshFWH1WmFtY1Aitsl0f) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Get Low](https://open.spotify.com/album/7y9nqXauJ5Io1A09scMNUy) | 4:10 | 2021-10-22 |  |
 | [Glass](https://open.spotify.com/track/1EK7pTpVpnSmQldZrVltgV) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Glass](https://open.spotify.com/album/5xdFjEgRe1KuD4soqeQF4z) | 3:19 | 2021-10-22 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
 | [Going Home](https://open.spotify.com/track/1vlt1z8Ez6SueIfCE2pm9A) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 4:50 | 2021-10-22 |  |
 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 | 2021-10-22 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-22 |  |
@@ -55,7 +56,7 @@
 | [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 4:18 | 2021-10-22 |  |
 | [Horizon](https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Horizon](https://open.spotify.com/album/3wMaqh7xUYaBWsf4hLGbIC) | 4:09 | 2021-10-22 |  |
 | [Horizons](https://open.spotify.com/track/1V34QucIbEs3XUi7SolWQE) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Horizons](https://open.spotify.com/album/2uFwQ8yiZR0NsIvzmzWf8j) | 4:34 | 2021-10-22 |  |
-| [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2021-10-22 |  |
+| [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2021-10-22 | 2022-06-15 |
 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 | 2021-10-22 |  |
 | [I Wanted to Leave](https://open.spotify.com/track/2QLgg0DaXBIzKPV5ZzZPDI) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/0rJuGvvXX626hak1KwrEPZ) | 3:23 | 2021-11-17 |  |
 | [I Was Often](https://open.spotify.com/track/0iFSHxZ8kOFoRz02vYuZAt) | [Slow Dancer](https://open.spotify.com/artist/2qq8yiTh6GieJeWShMcihO) | [In A Mood](https://open.spotify.com/album/4yJtcNlwnfaUMQdIi46Dyg) | 2:38 | 2021-10-22 |  |
@@ -75,10 +76,10 @@
 | [M](https://open.spotify.com/track/3EUqb07m5rhle5bPMghDA5) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2Lgoj4yzpi5YchgiVuZTcH) | 2:46 | 2021-10-22 |  |
 | [Notion](https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion](https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg) | 5:41 | 2021-10-22 |  |
 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 | 2021-10-22 |  |
-| [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-10-22 |  |
+| [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-10-22 | 2022-06-15 |
 | [Pallid Eyes](https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:54 | 2021-10-22 |  |
 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 | 2021-10-22 |  |
-| [Plucky](https://open.spotify.com/track/3EJWBUjdvBYuXEaqOhIapA) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [Something More Holy EP](https://open.spotify.com/album/31M4xUpeSF5KYsPTJt1lfi) | 3:14 | 2021-10-22 |  |
+| [Plucky](https://open.spotify.com/track/3EJWBUjdvBYuXEaqOhIapA) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [Something More Holy EP](https://open.spotify.com/album/31M4xUpeSF5KYsPTJt1lfi) | 3:14 | 2021-10-22 | 2022-06-15 |
 | [Sapphire](https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/0IA5VCej9UIVUNtcCD0oH8) | 3:12 | 2021-10-22 |  |
 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 | 2021-10-22 |  |
 | [Seven Hours](https://open.spotify.com/track/6mmrnnwdZNLcl1k3er9mik) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Seven Hours](https://open.spotify.com/album/6M240fvGl9RkyTPKBu7aVt) | 3:41 | 2021-10-22 |  |
@@ -95,7 +96,7 @@
 | [Tairm](https://open.spotify.com/track/4czoofCcgJuI9bHgjIhPna) | [WHɎTE](https://open.spotify.com/artist/6wGrithJfN04WF1BWRQUvm) | [Tairm](https://open.spotify.com/album/7jMaGUjZ76YBSs3Yqxm4VD) | 5:10 | 2021-10-22 |  |
 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 | 2021-10-22 |  |
 | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2021-10-22 |  |
-| [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/album/2YvoUeZyhKk0fR4oYdh00c) | 3:27 | 2021-10-22 |  |
+| [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/album/2YvoUeZyhKk0fR4oYdh00c) | 3:27 | 2021-10-22 | 2022-06-15 |
 | [Tethered](https://open.spotify.com/track/4knHKWetkNFiYHbsGqHljq) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Vessels](https://open.spotify.com/album/4VrBpjOk4RZGtZd2LzJkns) | 3:26 | 2021-10-22 |  |
 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 | 2021-10-22 |  |
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-11-17 |  |

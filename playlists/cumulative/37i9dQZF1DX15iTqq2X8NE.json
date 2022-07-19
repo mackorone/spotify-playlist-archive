@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The sweet sounds of Sudan.",
+  "description": "A journey in the Sudanese sounds",
   "name": "Sudan Sounds",
   "published_playlist_ids": [
     "330x5xETTSDAN35Rsqqz7H"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 161863,
       "name": "3yan T3ban - Oddisee Remix",
       "url": "https://open.spotify.com/track/6FKIxWPsnQE88ebswxMt9I"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 489493,
       "name": "A'abir Sikkah",
       "url": "https://open.spotify.com/track/3Ofk3PAr8Zkp8Ut7YNc3Bq"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 274952,
       "name": "Agabony",
       "url": "https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 307500,
       "name": "Agricultural Revolution",
       "url": "https://open.spotify.com/track/5eoW1Ke2adtl6zuEc6hbjy"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 308280,
       "name": "Ahel Allel",
       "url": "https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 181224,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/3OYwEiG78BJ61FeQcrZyKA"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 543976,
       "name": "Al Sourah (The Photo)",
       "url": "https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-14",
       "duration_ms": 215551,
       "name": "Amnesia (with Ari Lennox & Kiddominant)",
       "url": "https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-04",
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 195039,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33"
@@ -295,10 +295,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 387902,
       "name": "Azara Alhai",
       "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
+    },
+    {
+      "album": {
+        "name": "Bako",
+        "url": "https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183807,
+      "name": "Bako",
+      "url": "https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f"
     },
     {
       "album": {
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 207278,
       "name": "Dead Body",
       "url": "https://open.spotify.com/track/3uoCwqVCa7AjnHZHHliRxp"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-29",
       "duration_ms": 311784,
       "name": "D\u00e9pays\u00e9",
       "url": "https://open.spotify.com/track/2DWLOoxLkGSYEyXfYxqW7U"
@@ -433,10 +451,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 220164,
       "name": "Ejaza",
       "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
+    },
+    {
+      "album": {
+        "name": "Fan3",
+        "url": "https://open.spotify.com/album/0RTNur3c132jazOHMua1wU"
+      },
+      "artists": [
+        {
+          "name": "Fodi",
+          "url": "https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139345,
+      "name": "Fan3",
+      "url": "https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx"
     },
     {
       "album": {
@@ -484,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "album": {
         "name": "Shammasi",
         "url": "https://open.spotify.com/album/55A8sF5KhTiQRI6NlpdXOk"
       },
@@ -499,7 +553,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 222002,
       "name": "Ghanja",
       "url": "https://open.spotify.com/track/0kpD3vlH13l7czqKVJT2ZU"
@@ -517,7 +571,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 144000,
       "name": "Grow Fast",
       "url": "https://open.spotify.com/track/3wYf4mh8p3U1XmBDxmy7vr"
@@ -535,7 +589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 198368,
       "name": "Habibi Taal",
       "url": "https://open.spotify.com/track/0Y0dnRnYmG8VhtWthghsXV"
@@ -571,7 +625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 273521,
       "name": "Ia Sudan Ma'alesh",
       "url": "https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0"
@@ -607,7 +661,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 213342,
       "name": "Jani",
       "url": "https://open.spotify.com/track/0gfLC4KZ7tLqGpYAlKcZ3N"
@@ -651,7 +705,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 256533,
       "name": "Labis Toubo",
       "url": "https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf"
@@ -687,7 +741,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-06-02",
       "duration_ms": 224000,
       "name": "Like Really",
       "url": "https://open.spotify.com/track/1rxbz8vhGvydIbOWkh60gw"
@@ -781,7 +835,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-13",
       "duration_ms": 242274,
       "name": "Mango",
       "url": "https://open.spotify.com/track/3KjHzQBWVP8ZoLvAunNBnF"
@@ -839,7 +893,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 198269,
       "name": "Mook II (Rerelease) [feat. Bas]",
       "url": "https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk"
@@ -875,10 +929,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 168500,
       "name": "mOth",
       "url": "https://open.spotify.com/track/3UV2laHcnxTSLMZiSXoDDX"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx"
+      },
+      "artists": [
+        {
+          "name": "AKA Keyz",
+          "url": "https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243357,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s"
     },
     {
       "album": {
@@ -919,7 +991,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 188210,
       "name": "Night Like This",
       "url": "https://open.spotify.com/track/4uNzJgLH0na20JsQvugjVB"
@@ -944,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "On Sight",
+        "url": "https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368"
+      },
+      "artists": [
+        {
+          "name": "Bbnbooda",
+          "url": "https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197273,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq"
+    },
+    {
+      "album": {
         "name": "Pablo",
         "url": "https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R"
       },
@@ -955,10 +1045,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 133381,
       "name": "Pablo",
       "url": "https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4"
+    },
+    {
+      "album": {
+        "name": "Picasso (Outro)",
+        "url": "https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240138,
+      "name": "Picasso (Outro)",
+      "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
     },
     {
       "album": {
@@ -973,7 +1081,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 142576,
       "name": "pretty kitten",
       "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
@@ -991,7 +1099,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 495442,
       "name": "Qamar Al Massa (Moon of the Night)",
       "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
@@ -1031,7 +1139,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 182493,
       "name": "Sabbinaha",
       "url": "https://open.spotify.com/track/6UGE712uTwR6rg7yB8vjph"
@@ -1057,7 +1165,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 202031,
       "name": "Salimmik",
       "url": "https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7"
@@ -1101,7 +1209,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-01",
       "duration_ms": 189072,
       "name": "Sam7a",
       "url": "https://open.spotify.com/track/5mcwBrNKtFF444czlqeIoh"
@@ -1185,7 +1293,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm"
@@ -1237,10 +1345,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 267090,
       "name": "Sudania",
       "url": "https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn"
+      },
+      "artists": [
+        {
+          "name": "Jindi",
+          "url": "https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178674,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA"
     },
     {
       "album": {
@@ -1277,7 +1403,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-04",
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"
@@ -1295,7 +1421,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 313220,
       "name": "Waraga",
       "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
@@ -1349,7 +1475,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-01",
       "duration_ms": 189000,
       "name": "Ya Sudan - Alive At Spacebomb Studios",
       "url": "https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE"
@@ -1371,10 +1497,54 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 218983,
       "name": "Zaman Maf",
       "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e",
+        "url": "https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182758,
+      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e",
+      "url": "https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0646\u0627\u0631 \u0648\u0644\u0639\u062a",
+        "url": "https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79944,
+      "name": "\u0627\u0644\u0646\u0627\u0631 \u0648\u0644\u0639\u062a",
+      "url": "https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px"
     },
     {
       "album": {
@@ -1396,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629",
+        "url": "https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92"
+      },
+      "artists": [
+        {
+          "name": "Omar Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        },
+        {
+          "name": "Khayyat",
+          "url": "https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164959,
+      "name": "\u0643\u0646\u0642 \u0627\u0644\u062d\u0644\u0628\u0629",
+      "url": "https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW"
+    },
+    {
+      "album": {
         "name": "\u0645\u0643\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE"
       },
@@ -1407,7 +1599,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 212468,
       "name": "\u0645\u0643\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0"

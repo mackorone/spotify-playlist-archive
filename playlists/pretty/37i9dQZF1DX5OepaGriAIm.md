@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,196 likes - 125 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,769 likes - 125 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 11 | [I Just Want To Sing](https://open.spotify.com/track/6UFlo3RmCOhIMXDQvpivFf) | [Dorothy Donegan](https://open.spotify.com/artist/6jqglFaeowpFgQ8W1gfOIC) | [The Many Faces Of Dorothy Donegan](https://open.spotify.com/album/2XdJCeSUmOJN6REoTElVFN) | 3:27 |
 | 12 | [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 |
 | 13 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/5ybWzNgRuOpY4vFoIGdsDk) | 4:41 |
-| 14 | ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 |
+| 14 | ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 |
 | 15 | [Willow Weep For Me](https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:30 |
 | 16 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 |
 | 17 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 32 | [You Don't Know What Love Is](https://open.spotify.com/track/1PsI3QZhAF2jfLChO6v1uK) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Blue Light 'Til Dawn](https://open.spotify.com/album/6YZALitmuH7HYCvfjzP6dX) | 6:05 |
 | 33 | [Violets For Your Furs \- 2007 \- Remaster](https://open.spotify.com/track/1hA2eoAt4Xteh8iEcFv90R) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T) | [100 Best Of Blue Note](https://open.spotify.com/album/0lcdc9pUe5p7FQZsOpE3gG) | 6:09 |
 | 34 | [Moody's Mood For Love / Teo Licks](https://open.spotify.com/track/1ZIEoOizVtEzIry8GW8ciV) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:28 |
-| 35 | [Theme for Ernie](https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Esben Laub von Lillienskjold](https://open.spotify.com/artist/0fpCFAK2evK05w1KhYV7fV), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU) | [Theme for Ernie](https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh) | 5:16 |
+| 35 | [Theme for Ernie](https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Espen Laub von Lillienskjold](https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU) | [Theme for Ernie](https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh) | 5:16 |
 | 36 | [I Try](https://open.spotify.com/track/0vYClPTcVCy3odjHpogsPC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try](https://open.spotify.com/album/12GHrKv1h0MU1f2JGVI36D) | 4:17 |
 | 37 | [Bella Ci Dormi](https://open.spotify.com/track/4PCvloqv0ebXW0BVOLkS7l) | [Elina Duni](https://open.spotify.com/artist/2uuSFOLMgwxUEuzMFCNehL), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r) | [Lost Ships](https://open.spotify.com/album/6g0LxTi0WdqCDfcte6TvJg) | 6:55 |
 | 38 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 |

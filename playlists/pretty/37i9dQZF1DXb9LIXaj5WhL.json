@@ -1,29 +1,13 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2220820,
+  "num_followers": 2235127,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzk4NywwMDAwMDAwMGY4MTY5NzM4ZjZlYTNmNThkYzRkZjE5YmQxNDc1N2Yz",
+  "snapshot_id": "MTY1ODE5NDY0MiwwMDAwMDAwMDhmOGUwOTBiMDYyNWIyZDA5NmRlMTQzMjg1MGI5NWE5",
   "tracks": [
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "You Were Meant For Me",
-      "url": "https://open.spotify.com/track/6kBU9uWqar0Fw2Ws0he11A"
-    },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
@@ -84,25 +68,9 @@
           "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
-      },
-      "artists": [
-        {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "Crash into Me",
-      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+      "duration_ms": 212066,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -123,18 +91,34 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3og7zxtvC4EmQiLrjg3Pf6"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
       "artists": [
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Who Will Save Your Soul",
-      "url": "https://open.spotify.com/track/2U40DawrPNZwD0lcqqx3bq"
+      "duration_ms": 316466,
+      "name": "Crash into Me",
+      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+      },
+      "artists": [
+        {
+          "name": "10,000 Maniacs",
+          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Because the Night - Live Unplugged",
+      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -171,8 +155,8 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY"
+        "name": "Jagged Little Pill",
+        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
       },
       "artists": [
         {
@@ -180,41 +164,57 @@
           "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 282416,
-      "name": "You Oughta Know",
-      "url": "https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8"
+      "duration_ms": 225933,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
       "artists": [
         {
-          "name": "10,000 Maniacs",
-          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 223373,
-      "name": "Because the Night - Live Unplugged",
-      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+      "duration_ms": 257480,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -235,34 +235,34 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+        "name": "Collective Soul",
+        "url": "https://open.spotify.com/album/30mXi1BVpzrlrncFYwWjWg"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+      "duration_ms": 255466,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/794pcMq18sBEsmwjRq0aOI"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -283,34 +283,34 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Jagged Little Pill",
-        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
+      "duration_ms": 254480,
+      "name": "You Were Meant For Me",
+      "url": "https://open.spotify.com/track/6kBU9uWqar0Fw2Ws0he11A"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Collective Soul",
-        "url": "https://open.spotify.com/album/30mXi1BVpzrlrncFYwWjWg"
+        "name": "Torn/Wishing I Was There",
+        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
       },
       "artists": [
         {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 255466,
-      "name": "The World I Know",
-      "url": "https://open.spotify.com/track/794pcMq18sBEsmwjRq0aOI"
+      "duration_ms": 186400,
+      "name": "Torn - Acoustic MTV Unplugged",
+      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -347,134 +347,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Torn/Wishing I Was There",
-        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Torn - Acoustic MTV Unplugged",
-      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Tails",
-        "url": "https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb & Nine Stories",
-          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "Three Marlenas",
-      "url": "https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "Head over Feet - Live / Unplugged",
-      "url": "https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Urban Hymns",
         "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
       },
@@ -487,38 +359,6 @@
       "duration_ms": 358426,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Ophelia",
-        "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Kind & Generous",
-      "url": "https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -539,6 +379,118 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "Three Marlenas",
+      "url": "https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "Head over Feet - Live / Unplugged",
+      "url": "https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Tails",
+        "url": "https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb & Nine Stories",
+          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -551,6 +503,102 @@
       "duration_ms": 253413,
       "name": "How's It Going to Be",
       "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Ophelia",
+        "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Kind & Generous",
+      "url": "https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness",
+        "url": "https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Best 1991 - 2004",
+        "url": "https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Kiss from a Rose - Acoustic",
+      "url": "https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -571,18 +619,162 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe"
+        "name": "[What's The Story] Morning Glory",
+        "url": "https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB"
       },
       "artists": [
         {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "A Few Small Repairs",
+        "url": "https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8"
+      },
+      "artists": [
+        {
+          "name": "Shawn Colvin",
+          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Sunny Came Home",
+      "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Zombie - Acoustic Version",
+      "url": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Greatest Hits - Postcards From East Oceanside",
+        "url": "https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj"
+      },
+      "artists": [
+        {
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        }
+      ],
+      "duration_ms": 318773,
+      "name": "I Don't Want to Wait",
+      "url": "https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -607,182 +799,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness",
-        "url": "https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Motorcycle Drive By",
-      "url": "https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Best 1991 - 2004",
-        "url": "https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 324066,
-      "name": "Kiss from a Rose - Acoustic",
-      "url": "https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Zombie - Acoustic Version",
-      "url": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "[What's The Story] Morning Glory",
-        "url": "https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "A Few Small Repairs",
-        "url": "https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8"
-      },
-      "artists": [
-        {
-          "name": "Shawn Colvin",
-          "url": "https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Sunny Came Home",
-      "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
       },
@@ -795,54 +811,6 @@
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/0zTd4xTpA9ytGuH3Gnfnn4"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 348560,
-      "name": "The Times They Are A-Changin' - Live at Sony Music Studios, New York, NY - November 1994",
-      "url": "https://open.spotify.com/track/32gGuJXlLJbKCk3MDfW53y"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Greatest Hits - Postcards From East Oceanside",
-        "url": "https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj"
-      },
-      "artists": [
-        {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
-        }
-      ],
-      "duration_ms": 318773,
-      "name": "I Don't Want to Wait",
-      "url": "https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -863,22 +831,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "A Tribute Album",
-        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -891,70 +843,6 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Adia",
-      "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "Foolish Games",
-      "url": "https://open.spotify.com/track/6Ee5Y6kCdlZfoFhyR8xPVt"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -975,50 +863,50 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE"
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1zX0Pv0l7GQUFlf0lNADqy"
+      "duration_ms": 340666,
+      "name": "Foolish Games",
+      "url": "https://open.spotify.com/track/6Ee5Y6kCdlZfoFhyR8xPVt"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Central Reservation",
-        "url": "https://open.spotify.com/album/6lijTrmA0yAucg4Axbj1up"
+        "name": "A Tribute Album",
+        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
       },
       "artists": [
         {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 325760,
-      "name": "Stolen Car",
-      "url": "https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG"
+      "duration_ms": 261120,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Greatest Hits - Postcards From East Oceanside",
-        "url": "https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj"
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
       },
       "artists": [
         {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Where Have All the Cowboys Gone ? - Remastered Version",
-      "url": "https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX"
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1032,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
+      "duration_ms": 244666,
+      "name": "Adia",
+      "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1055,56 +943,24 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/0zTd4xTpA9ytGuH3Gnfnn4"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+      "duration_ms": 348560,
+      "name": "The Times They Are A-Changin' - Live at Sony Music Studios, New York, NY - November 1994",
+      "url": "https://open.spotify.com/track/32gGuJXlLJbKCk3MDfW53y"
     },
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Sketches for My Sweetheart The Drunk",
-        "url": "https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 357626,
-      "name": "Satisfied Mind - Live at WFMU, East Orange, NJ - Oct 1992",
-      "url": "https://open.spotify.com/track/59J9tAbY39foKp478aUsWX"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "When Incubus Attacks, Vol. 1",
-        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Stellar - Acoustic",
-      "url": "https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/5cbLLHZkBzxsxLefNLLUfE"
       },
       "artists": [
         {
@@ -1112,25 +968,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 278880,
-      "name": "Last Day of Our Acquaintance",
-      "url": "https://open.spotify.com/track/1SQJoU0N3uVIcoJy9PjJFB"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1zX0Pv0l7GQUFlf0lNADqy"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1151,24 +991,8 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Not A Pretty Girl",
-        "url": "https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb"
-      },
-      "artists": [
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "32 Flavors",
-      "url": "https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Live At Sin-\u00e9 (Legacy Edition)",
-        "url": "https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc"
+        "name": "Sketches for My Sweetheart The Drunk",
+        "url": "https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL"
       },
       "artists": [
         {
@@ -1176,9 +1000,137 @@
           "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
         }
       ],
-      "duration_ms": 268493,
-      "name": "If You Knew - Live at Sin-\u00e9, New York, NY - July/August 1993",
-      "url": "https://open.spotify.com/track/1nd2JEHXbUuQFDiQzCBpsv"
+      "duration_ms": 357626,
+      "name": "Satisfied Mind - Live at WFMU, East Orange, NJ - Oct 1992",
+      "url": "https://open.spotify.com/track/59J9tAbY39foKp478aUsWX"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Central Reservation",
+        "url": "https://open.spotify.com/album/6lijTrmA0yAucg4Axbj1up"
+      },
+      "artists": [
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Stolen Car",
+      "url": "https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/3og7zxtvC4EmQiLrjg3Pf6"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Who Will Save Your Soul",
+      "url": "https://open.spotify.com/track/2U40DawrPNZwD0lcqqx3bq"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 282416,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 278880,
+      "name": "Last Day of Our Acquaintance",
+      "url": "https://open.spotify.com/track/1SQJoU0N3uVIcoJy9PjJFB"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Jar Of Flies",
+        "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Dilate",
+        "url": "https://open.spotify.com/album/4KE4xztIchTBItYOnCT3FU"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Untouchable Face",
+      "url": "https://open.spotify.com/track/2E8AVQcuYSlXm12g112Kef"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1199,18 +1151,66 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Ophelia",
-        "url": "https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz"
+        "name": "Greatest Hits - Postcards From East Oceanside",
+        "url": "https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj"
       },
       "artists": [
         {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
         }
       ],
-      "duration_ms": 310466,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1"
+      "duration_ms": 266320,
+      "name": "Where Have All the Cowboys Gone ? - Remastered Version",
+      "url": "https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Live At Sin-\u00e9 (Legacy Edition)",
+        "url": "https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 268493,
+      "name": "If You Knew - Live at Sin-\u00e9, New York, NY - July/August 1993",
+      "url": "https://open.spotify.com/track/1nd2JEHXbUuQFDiQzCBpsv"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Not A Pretty Girl",
+        "url": "https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "32 Flavors",
+      "url": "https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW"
     }
   ],
   "unique_name": "90s Acoustic",

@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": "2022-05-26",
       "duration_ms": 185293,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/2ULGq0SZXKJ0ZNnt2sKhaI"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-04",
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-07-14",
       "duration_ms": 225333,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-13",
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 231413,
       "name": "Everything's Magic",
       "url": "https://open.spotify.com/track/4eC8Cq2Q6zIelJgF4nC2DK"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 171533,
       "name": "First Date",
       "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-12",
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
@@ -823,7 +823,7 @@
       },
       "artists": [
         {
-          "name": "Joan Jett & The Blackhearts",
+          "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx"
+      },
+      "artists": [
+        {
+          "name": "Electric Six",
+          "url": "https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 258133,
+      "name": "I'm The Bomb",
+      "url": "https://open.spotify.com/track/0IEhPAlPDFRy7Wzpm7NOie"
+    },
+    {
+      "album": {
         "name": "Weezer (Green Album)",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": "2022-06-28",
       "duration_ms": 270887,
       "name": "Light My Love",
       "url": "https://open.spotify.com/track/4iya38ctQ1httyA6NOG9oW"
@@ -1193,6 +1211,24 @@
       "duration_ms": 321826,
       "name": "Love In An Elevator - Single Version",
       "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3CGO2pulw7WdeAI62QzA8G"
+      },
+      "artists": [
+        {
+          "name": "Pilot",
+          "url": "https://open.spotify.com/artist/6PwcexHTG0qJWQQwp05Bpm"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 186333,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0X3hugLvdxVmenwgCgKpCZ"
     },
     {
       "album": {
@@ -1405,7 +1441,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-05",
       "duration_ms": 180213,
       "name": "Pocket Full Of Gold",
       "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
@@ -1441,7 +1477,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 221173,
       "name": "Radiation Vibe",
       "url": "https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-12",
       "duration_ms": 208866,
       "name": "Rudie Can't Fail - Remastered",
       "url": "https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q"
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": "2022-06-09",
       "duration_ms": 283366,
       "name": "The Bliss",
       "url": "https://open.spotify.com/track/3jBxuyTAmkliaV09qYOwTo"
@@ -1963,7 +1999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": "2022-05-27",
       "duration_ms": 250093,
       "name": "The Man",
       "url": "https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk"
@@ -2042,6 +2078,24 @@
     },
     {
       "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 274281,
+      "name": "The Way You Used To Do",
+      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
+    },
+    {
+      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
       },
@@ -2071,7 +2125,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
@@ -2471,7 +2525,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": "2022-07-13",
       "duration_ms": 162586,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"

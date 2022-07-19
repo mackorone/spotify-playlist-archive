@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Best Of Cutting Crew",
+        "url": "https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 278626,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
+    },
+    {
+      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 280864,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/3XdKW1f4nItZqqXpQwEcaO"
@@ -160,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/1x6guHfwvOGsIQgRK5v5p1"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 292706,
+      "name": "Billie Jean - Single Version",
+      "url": "https://open.spotify.com/track/6aLWY1Lax3ASlHzNAl2xRZ"
+    },
+    {
+      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -171,7 +207,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -207,7 +243,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 212600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
@@ -225,7 +261,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-13",
       "duration_ms": 227946,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/5HIDIRwU38XVBozdoQwCml"
@@ -261,7 +297,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 215653,
       "name": "Celebration - Single Version",
       "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
@@ -315,7 +351,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Danger Zone",
       "url": "https://open.spotify.com/track/2CJtimCSGAn8x6RE3irZFV"
@@ -391,7 +427,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 244173,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/09rZ7xC4mioI3HQBpyxpi3"
@@ -445,7 +481,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 350866,
       "name": "Freeway Of Love",
       "url": "https://open.spotify.com/track/2PaPCYHvRvaPw87wScut40"
@@ -463,7 +499,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-05-28",
       "duration_ms": 248160,
       "name": "Funky Cold Medina",
       "url": "https://open.spotify.com/track/14l7Faa9bHmmQhM3O3LEVH"
@@ -535,7 +571,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 272626,
       "name": "Heart Of Glass - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/2fUGPx3pB9uMu5oow2Sr1C"
@@ -643,7 +679,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/7EX5tg9qYMoDZJeKCTMGBy"
@@ -697,10 +733,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 211840,
       "name": "I Want A New Drug",
       "url": "https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu"
+    },
+    {
+      "album": {
+        "name": "Can't Fight Fate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-02",
+      "duration_ms": 283040,
+      "name": "I'll Be Your Shelter",
+      "url": "https://open.spotify.com/track/4hbXvRJfgctBgz7PVBtWQu"
     },
     {
       "album": {
@@ -751,7 +805,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 229466,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
@@ -949,7 +1003,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-06-24",
       "duration_ms": 175760,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/1MTB6kf3yIYj5C4gL5ey2N"
@@ -967,7 +1021,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-05",
       "duration_ms": 274466,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6cH34Jb2W9s9w8ooRtZZPf"
@@ -985,7 +1039,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 216000,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
@@ -1010,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-21",
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "album": {
         "name": "Footloose (15th Anniversary Collectors' Edition)",
         "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
       },
@@ -1025,6 +1097,24 @@
       "duration_ms": 261893,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
+    },
+    {
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 191133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/22VWmcVQrYqHT4exHD6mMF"
     },
     {
       "album": {
@@ -1133,7 +1223,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 233440,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc"
@@ -1169,10 +1259,46 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-05-22",
       "duration_ms": 252333,
       "name": "Miss You Much",
       "url": "https://open.spotify.com/track/4r5VaK6H1bq0cTGPMTN97Z"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 243133,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
+    },
+    {
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-03",
+      "duration_ms": 231133,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/1AMZVcZvuPKqxm822W8PGV"
     },
     {
       "album": {
@@ -1191,7 +1317,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-09",
       "duration_ms": 230240,
       "name": "Opposites Attract - 7\" Edit",
       "url": "https://open.spotify.com/track/4mbyVgqUfyajwkXp4GnWFG"
@@ -1213,6 +1339,24 @@
       "duration_ms": 167960,
       "name": "Our Lips Are Sealed - Single Version",
       "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
+    },
+    {
+      "album": {
+        "name": "Hits Of The 80s",
+        "url": "https://open.spotify.com/album/0zPUfMqIUwToTHyUzK7GUx"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 263693,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/6mTl8R70ONl748Tmw4E8DM"
     },
     {
       "album": {
@@ -1263,7 +1407,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-11",
       "duration_ms": 236160,
       "name": "Relax - 7\" Mix",
       "url": "https://open.spotify.com/track/3MIVb9pn5cDSdK7yNDsMU1"
@@ -1281,7 +1425,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
@@ -1321,6 +1465,24 @@
       "duration_ms": 315160,
       "name": "Rio",
       "url": "https://open.spotify.com/track/76vH234EP9pw93y3K47sbu"
+    },
+    {
+      "album": {
+        "name": "Hits Of The 80s",
+        "url": "https://open.spotify.com/album/0zPUfMqIUwToTHyUzK7GUx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/3HLeCy4zQwm8DVQkjDUNs0"
     },
     {
       "album": {
@@ -1371,7 +1533,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Simply Irresistible",
       "url": "https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF"
@@ -1419,7 +1581,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 231173,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/4h3cnCK9KnbrTfhQoTkuEj"
@@ -1480,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354520,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
+    },
+    {
+      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -1513,6 +1693,24 @@
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "album": {
+        "name": "What I Like About You (And Other Romantic Hits)",
+        "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 234866,
+      "name": "Talking in Your Sleep",
+      "url": "https://open.spotify.com/track/08JKuFJCHJVw1SgHHjwsS9"
     },
     {
       "album": {
@@ -1671,7 +1869,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 211026,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/2vX5WL7s6UdeQyweZEx7PP"
@@ -1693,7 +1891,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
@@ -1783,7 +1981,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-14",
       "duration_ms": 299493,
       "name": "What Have You Done For Me Lately",
       "url": "https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0"
@@ -1837,7 +2035,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
@@ -1855,7 +2053,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 214573,
       "name": "White Wedding, Pt. 1 - Edit",
       "url": "https://open.spotify.com/track/5g5mL6j77KPniAoUUSEo7D"
@@ -1873,7 +2071,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
@@ -1891,7 +2089,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-18",
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/5VVwwfK6Cp9IydkhKfJUEq"
@@ -1931,6 +2129,24 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "album": {
+        "name": "Youthquake",
+        "url": "https://open.spotify.com/album/0HEKWtu7St3tKgZDKZsX90"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 196800,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/0BB9eUBBaaX6GALSYNcEp7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZY6U3N4Hq7n"

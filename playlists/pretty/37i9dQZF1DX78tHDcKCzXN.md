@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > NCTzens! Sticker is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,920 likes - 64 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,227 likes - 64 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

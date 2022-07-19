@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Travel through the evolution of the Renaissance sound with this collection of choral and instrumental classics.",
-  "name": "Essence of the Renaissance",
+  "description": "Relax to the sound of choral and instrumental classical music from the Renaissance era.",
+  "name": "Relaxing Renaissance",
   "published_playlist_ids": [
     "39g0MNn34FnvzkGxfEXy8E"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Worcester Ladymass",
+        "url": "https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Trio Medi\u00e6val",
+          "url": "https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "A Worcester Ladymass: O Maria virgo pia",
+      "url": "https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI"
+    },
     {
       "album": {
         "name": "Music from the Peterhouse Partbooks, Vol. 4",
@@ -53,10 +75,36 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 286480,
       "name": "Ave maris stella",
       "url": "https://open.spotify.com/track/74ZO67W83WAwvOopHFiQ7j"
+    },
+    {
+      "album": {
+        "name": "Choral Music - Palestrina, G. / Josquin Des Prez / Viadana, L. / Viadana, L. / Victoria, T. / Byrd, W. (Beyond Chant Mysteries of the Renaissance)",
+        "url": "https://open.spotify.com/album/3iN0L9TZEq3h6Jk24trWd2"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Voices of Ascension Chorus",
+          "url": "https://open.spotify.com/artist/4AjjMZxILxc83KJAEuwu9j"
+        },
+        {
+          "name": "Dennis Keene",
+          "url": "https://open.spotify.com/artist/16e7cTpnxHfo8KnwinUysN"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Ave verum corpus",
+      "url": "https://open.spotify.com/track/3qEdYPoeOb1hdAGk6H3tVR"
     },
     {
       "album": {
@@ -75,7 +123,7 @@
       ],
       "date_added": "2017-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 122613,
       "name": "Basciami mille volte a 5 voci",
       "url": "https://open.spotify.com/track/5oJJnduRb8r9aSltq0Pkpw"
@@ -101,7 +149,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 355533,
       "name": "Canzonette, Book 1: La fiera vista",
       "url": "https://open.spotify.com/track/6kf3YXPXGYZhtmQvudDupK"
@@ -134,6 +182,32 @@
     },
     {
       "album": {
+        "name": "Come Again, Sweet Love Doth Now Invite",
+        "url": "https://open.spotify.com/album/7eFanoWLIjHtPJ6VwgPJ32"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Taracea",
+          "url": "https://open.spotify.com/artist/73Y6L7FNuUKv9TB3nWt1w0"
+        },
+        {
+          "name": "David Mayoral",
+          "url": "https://open.spotify.com/artist/7MFGbCerKNeV79mwPju0eK"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Come Again, Sweet Love Doth Now Invite",
+      "url": "https://open.spotify.com/track/0O53MwxOS57Fa0Bz6UlPyg"
+    },
+    {
+      "album": {
         "name": "A Painted Tale",
         "url": "https://open.spotify.com/album/3wXILJqqIUoefvqFkJv795"
       },
@@ -157,7 +231,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 226697,
       "name": "Come, Heavy Sleep",
       "url": "https://open.spotify.com/track/4rujaSi1XEkweRXcDaD2Up"
@@ -179,10 +253,32 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 617466,
       "name": "De tous bien plein",
       "url": "https://open.spotify.com/track/7vcxjNhIQOXN88fDKMWJ8L"
+    },
+    {
+      "album": {
+        "name": "Utopia Triumphans: The Great Polyphony of the Renaissance",
+        "url": "https://open.spotify.com/album/2gZC3aH8SLRXnYsTpfjTUm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "Paul Van Nevel",
+          "url": "https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362000,
+      "name": "Deo gratias",
+      "url": "https://open.spotify.com/track/4UgNHC53diBeFlh8XEdbqh"
     },
     {
       "album": {
@@ -231,6 +327,32 @@
       "duration_ms": 128320,
       "name": "Eran ninfe e pastori",
       "url": "https://open.spotify.com/track/2bnMut60wd1FLcCgnAueWd"
+    },
+    {
+      "album": {
+        "name": "Terra Tremuit",
+        "url": "https://open.spotify.com/album/595yW89COgQLM94cAmcQ2Y"
+      },
+      "artists": [
+        {
+          "name": "Antoine Brumel",
+          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
+        },
+        {
+          "name": "Studio De Musique Ancienne De Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/3vhg0gyXArvYgyse9AQvHs"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/0nTIpHKhGTnIqzi24kN6oK"
+        }
+      ],
+      "date_added": "2016-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 348200,
+      "name": "Et ecce terrae motus: Kyrie (The Earthquake Mass)",
+      "url": "https://open.spotify.com/track/6ZLjh6Os8Wh0A5sRXnwPvz"
     },
     {
       "album": {
@@ -283,10 +405,36 @@
       ],
       "date_added": "2016-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 274973,
       "name": "Feria Quinta, Tenebrae Responsories for Maundy Thursday: II. Tristis est anima mea",
       "url": "https://open.spotify.com/track/6xYV87ttHYSMEPb0HdRMEo"
+    },
+    {
+      "album": {
+        "name": "Faire Is The Heaven - Music Of The English Church",
+        "url": "https://open.spotify.com/album/0BnSC2ltaMLu3h4GnDqguk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Tallis",
+          "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136560,
+      "name": "If ye love me",
+      "url": "https://open.spotify.com/track/2NjcAszEdomxtNhmVqb8tU"
     },
     {
       "album": {
@@ -339,7 +487,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 464893,
       "name": "In ecclesiis (a 14), C78",
       "url": "https://open.spotify.com/track/5mQGGCOgXCi3y9R2s2iEzm"
@@ -394,6 +542,32 @@
     },
     {
       "album": {
+        "name": "Renaissance Masterpieces",
+        "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490426,
+      "name": "Intemerata Dei mater",
+      "url": "https://open.spotify.com/track/13dTXGC6c4t9XPMaAzumtU"
+    },
+    {
+      "album": {
         "name": "Perfect Polyphony",
         "url": "https://open.spotify.com/album/39YAizVAXar1UTEeN3wWDO"
       },
@@ -413,7 +587,7 @@
       ],
       "date_added": "2017-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 281753,
       "name": "Isaac: Optime Pastor - 1. Optime Divino",
       "url": "https://open.spotify.com/track/1j2QOpcB8lPvOcO4EoazRn"
@@ -446,7 +620,7 @@
     },
     {
       "album": {
-        "name": "Les Cris de Paris - Chansons de Janequin & Sermisy",
+        "name": "Les Cris de Paris: Chansons de Janequin & Sermisy",
         "url": "https://open.spotify.com/album/10qOzBr6lF3I8zdBWXWope"
       },
       "artists": [
@@ -455,20 +629,46 @@
           "url": "https://open.spotify.com/artist/6vbTY3InIJuW8ItpRNnfje"
         },
         {
-          "name": "Dominique Visse",
-          "url": "https://open.spotify.com/artist/0DLxgGEXi05HKnCZaQin61"
-        },
-        {
           "name": "Ensemble Cl\u00e9ment Janequin",
           "url": "https://open.spotify.com/artist/3nnwiLcxKNA53Gs8GvPxv6"
+        },
+        {
+          "name": "Dominique Visse",
+          "url": "https://open.spotify.com/artist/0DLxgGEXi05HKnCZaQin61"
         }
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 110560,
       "name": "L'amour, la mort et la vie",
       "url": "https://open.spotify.com/track/4Ofof3lmdAGled3WZSyPCg"
+    },
+    {
+      "album": {
+        "name": "Theatre Of Early Music: Love Bade Me Welcome - Songs and Poetry From the Renaissance",
+        "url": "https://open.spotify.com/album/4uEtJuhfmSgbKkmDGA4Ri5"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Elizabeth Kenny",
+          "url": "https://open.spotify.com/artist/23wxscxc5ZMWXyOf0xpSw6"
+        },
+        {
+          "name": "Theatre of Early Music",
+          "url": "https://open.spotify.com/artist/6DygtRG7ud7yoUK2vvQq7m"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315573,
+      "name": "Lachrimae",
+      "url": "https://open.spotify.com/track/6mv4u62JIW4kihhyPj0l06"
     },
     {
       "album": {
@@ -543,10 +743,36 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 193733,
       "name": "Lament and Elegy: Death Hath Deprived Me",
       "url": "https://open.spotify.com/track/74cEm0SlFdi53SJuT3WOjv"
+    },
+    {
+      "album": {
+        "name": "Victoria \u2013 Splendor of the Renaissance",
+        "url": "https://open.spotify.com/album/15BZRm6yPpsyf19mvYNuSw"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "Ensemble Plus Ultra",
+          "url": "https://open.spotify.com/artist/0Eif0BvJSaktdSIM4pbbz3"
+        },
+        {
+          "name": "Michael Noone",
+          "url": "https://open.spotify.com/artist/22ZDYpcTdwy6W7ieShj5bN"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385146,
+      "name": "Liturgia de Pascua en el Madrid de los Austrias / Ad Vesperas: Himnus: Ad caenam Agni providi [Ad Vesperas]",
+      "url": "https://open.spotify.com/track/0OvNQt4kuO1ub1cGEOmiAi"
     },
     {
       "album": {
@@ -565,7 +791,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 332826,
       "name": "Ma maistresse",
       "url": "https://open.spotify.com/track/5PjIPYLd3Rw0WFhUF5VDSh"
@@ -591,7 +817,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 138066,
       "name": "Madrigals, Book 1 (Il primo libro di madrigali): Deh, or foss'io col vago della luna",
       "url": "https://open.spotify.com/track/70klAeiBjlOkxppeFHEQU5"
@@ -613,7 +839,7 @@
       ],
       "date_added": "2017-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 707773,
       "name": "Magnificat primi toni",
       "url": "https://open.spotify.com/track/0xVGP0zZTLuumso7Pr4eT2"
@@ -646,6 +872,28 @@
     },
     {
       "album": {
+        "name": "Solitude: Mendelssohn, Weinberg & Shostakovich",
+        "url": "https://open.spotify.com/album/5Pi96wh8L3A7pPsRMaPlmz"
+      },
+      "artists": [
+        {
+          "name": "Josquin des Prez",
+          "url": "https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8"
+        },
+        {
+          "name": "Dudok Quartet Amsterdam",
+          "url": "https://open.spotify.com/artist/6sGdrWlGgH5RrH8pdAnidt"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116303,
+      "name": "Mille regretz",
+      "url": "https://open.spotify.com/track/3KrV1ahb2QSvS15rDNFA17"
+    },
+    {
+      "album": {
         "name": "Allegri Miserere",
         "url": "https://open.spotify.com/album/3fvFlaBBbAFO0QCrSTbfaU"
       },
@@ -661,7 +909,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 719133,
       "name": "Miserere",
       "url": "https://open.spotify.com/track/2ED1VZ53iRImo252U2PEsu"
@@ -687,36 +935,10 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 612000,
       "name": "Miserere mei, Deus",
       "url": "https://open.spotify.com/track/7xD3YUxCq1yV6K1EXXml8t"
-    },
-    {
-      "album": {
-        "name": "Terra Tremuit",
-        "url": "https://open.spotify.com/album/595yW89COgQLM94cAmcQ2Y"
-      },
-      "artists": [
-        {
-          "name": "Antoine Brumel",
-          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
-        },
-        {
-          "name": "Studio De Musique Ancienne De Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/3vhg0gyXArvYgyse9AQvHs"
-        },
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/0nTIpHKhGTnIqzi24kN6oK"
-        }
-      ],
-      "date_added": "2016-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 348200,
-      "name": "Missa Et ecce terrae motus (The Earthquake Mass): Kyrie",
-      "url": "https://open.spotify.com/track/6ZLjh6Os8Wh0A5sRXnwPvz"
     },
     {
       "album": {
@@ -739,7 +961,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 346960,
       "name": "Missa Gloria tibi Trinitas: Sanctus",
       "url": "https://open.spotify.com/track/4MyTf0w4RBGPhmyU63IGs5"
@@ -851,7 +1073,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 190000,
       "name": "Missa super mon coeur se recomande: Sanctus",
       "url": "https://open.spotify.com/track/2ZTGRomc9sDGUIw2zSF9vn"
@@ -903,7 +1125,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 335400,
       "name": "Moro, lasso, al mio duolo",
       "url": "https://open.spotify.com/track/1obsUrLzPohrHDb4Bn6R1U"
@@ -925,10 +1147,36 @@
       ],
       "date_added": "2016-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 400666,
       "name": "My Ladye Nevels Grownde",
       "url": "https://open.spotify.com/track/36eMn3vLqdgkM9oLm3h1xP"
+    },
+    {
+      "album": {
+        "name": "Renaissance Masterpieces",
+        "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
+      },
+      "artists": [
+        {
+          "name": "Josquin des Prez",
+          "url": "https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8"
+        },
+        {
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414066,
+      "name": "Nunc dimittis",
+      "url": "https://open.spotify.com/track/1T1KQvUWFXUUUrbwW06Rpy"
     },
     {
       "album": {
@@ -951,10 +1199,88 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 272480,
       "name": "Nympes de bois",
       "url": "https://open.spotify.com/track/2kGOubohRO3D4PTxynJFoI"
+    },
+    {
+      "album": {
+        "name": "Palestrina",
+        "url": "https://open.spotify.com/album/1c70yzdOtmUlEna6jp9kwf"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Sistine Chapel Choir",
+          "url": "https://open.spotify.com/artist/44mVUbyXXXCjiOpbleXk1F"
+        },
+        {
+          "name": "Massimo Palombella",
+          "url": "https://open.spotify.com/artist/5HCYO2b77nY538cmZ4tYLl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96693,
+      "name": "O Bone Iesu",
+      "url": "https://open.spotify.com/track/27HoHsQWBg6lxnlFip2fwi"
+    },
+    {
+      "album": {
+        "name": "Secret History",
+        "url": "https://open.spotify.com/album/67A1EpEe40lALbw9M7LIOU"
+      },
+      "artists": [
+        {
+          "name": "Josquin des Prez",
+          "url": "https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8"
+        },
+        {
+          "name": "Ariel Abramovich",
+          "url": "https://open.spotify.com/artist/77W9LQq9mcPEkZVPTzY7e6"
+        },
+        {
+          "name": "Lee Santana",
+          "url": "https://open.spotify.com/artist/61QbO9V1phMYrxDEviA7Gn"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341746,
+      "name": "Obsecro Te",
+      "url": "https://open.spotify.com/track/4Ty3xe0DxUYIq1vTog3sJr"
+    },
+    {
+      "album": {
+        "name": "Ockeghem : Requiem, Missa \"Mi-Mi\", Missa Prolationum",
+        "url": "https://open.spotify.com/album/7e6VZeeGFOe74KT78DAM85"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337080,
+      "name": "Ockeghem: Missa pro Defunctis: I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/4oGx9In9x67C8cFvL96WO6"
     },
     {
       "album": {
@@ -1021,7 +1347,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 986000,
       "name": "Psalmi Davidis poenitentiales: Psalmus Primus Poenitentialis \"Domine, ne in furore tuo arguas me\"",
       "url": "https://open.spotify.com/track/5HQ0i5sWzTfpRcJ5jHIDOJ"
@@ -1077,10 +1403,36 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 183600,
       "name": "Requiem: Agnus Dei",
       "url": "https://open.spotify.com/track/5qkjCLTQqvZhiiaj7S68Ht"
+    },
+    {
+      "album": {
+        "name": "Ockeghem: Requiem / Missa Prolationum",
+        "url": "https://open.spotify.com/album/5NWHSSarpJNIQResWG7FMn"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ockeghem",
+          "url": "https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO"
+        },
+        {
+          "name": "Musica Ficta",
+          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
+        },
+        {
+          "name": "Bo Holten",
+          "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Requiem: Kyrie",
+      "url": "https://open.spotify.com/track/0ccnwSwBtYMgiszKl9GaIT"
     },
     {
       "album": {
@@ -1155,7 +1507,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 152680,
       "name": "Song of Songs: No. 16 Surge, amica mea, speciosa mea",
       "url": "https://open.spotify.com/track/6taQyTJtq3TW6HTcYPidG0"
@@ -1185,6 +1537,54 @@
       "duration_ms": 179613,
       "name": "Suite No. 1 in C Major: II. Spagnoletta",
       "url": "https://open.spotify.com/track/54zeWeNKZHaNYKY2lHY1gY"
+    },
+    {
+      "album": {
+        "name": "Gesualdo: Responsoria 1611",
+        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        },
+        {
+          "name": "Collegium Vocale Gent",
+          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274978,
+      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
+      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
+    },
+    {
+      "album": {
+        "name": "Hume: Poeticall Musicke",
+        "url": "https://open.spotify.com/album/1X1HfR9db93Nr2gOBAX2Hn"
+      },
+      "artists": [
+        {
+          "name": "Tobias Hume",
+          "url": "https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe"
+        },
+        {
+          "name": "Jordi Savall",
+          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "The King of Denmarks Delight",
+      "url": "https://open.spotify.com/track/2PosJTq6obVASb20uOSmgC"
     },
     {
       "album": {
@@ -1229,7 +1629,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 236400,
       "name": "Toccata primi toni, SwWV 286",
       "url": "https://open.spotify.com/track/2rH6diTXm9krYqShQ4XfUV"
@@ -1279,7 +1679,7 @@
       ],
       "date_added": "2016-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 366533,
       "name": "Un pellegrin uccel",
       "url": "https://open.spotify.com/track/24AfAK9A9l2Sycx8uMODIP"

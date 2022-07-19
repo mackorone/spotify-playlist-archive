@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import asyncio
 import copy
 import datetime
 from unittest import IsolatedAsyncioTestCase
 from unittest.mock import AsyncMock, Mock, call, patch
+
+import aiohttp
 
 from alias import Alias
 from plants.unittest_utils import UnittestUtils
@@ -38,30 +41,34 @@ class MockSession(AsyncMock):
 
 
 class SpotifyTestCase(IsolatedAsyncioTestCase):
-    def _patch(
-        self,
-        target: str,
-        new_callable=None,  # pyre-fixme[2]
-        return_value=None,  # pyre-fixme[2]
-    ) -> Mock:
-        patcher = patch(target, new_callable=new_callable, return_value=return_value)
-        mock_object = patcher.start()
-        self.addCleanup(patcher.stop)
-        return mock_object
-
     async def asyncSetUp(self) -> None:
         self.mock_session = await MockSession.create()
-        self.mock_get_session = self._patch(
+        self.mock_get_session = UnittestUtils.patch(
+            self,
             "spotify.Spotify._get_session",
-            return_value=self.mock_session,
+            # new_callable returns the replacement for get_session
+            new_callable=lambda: Mock(return_value=self.mock_session),
         )
-        self.mock_sleep = self._patch(
+        self.mock_sleep = UnittestUtils.patch(
+            self,
             "spotify.Spotify._sleep",
             new_callable=AsyncMock,
         )
 
 
 class TestGetWithRetry(SpotifyTestCase):
+    # Patch the logger to suppress log spew
+    @patch("spotify.logger")
+    async def test_exception(self, mock_logger: Mock) -> None:
+        for type_ in [
+            aiohttp.client_exceptions.ClientOSError,
+            asyncio.exceptions.TimeoutError,
+        ]:
+            self.mock_session.get.side_effect = type_
+            spotify = Spotify("token")
+            with self.assertRaises(RetryBudgetExceededError):
+                await spotify.get_playlist(PlaylistID("abc123"), alias=None)
+
     # Patch the logger to suppress log spew
     @patch("spotify.logger")
     async def test_invalid_response(self, mock_logger: Mock) -> None:
@@ -322,6 +329,7 @@ class TestGetCategoryPlaylistIDs(SpotifyTestCase):
 
 class TestGetPlaylist(SpotifyTestCase):
     @patch("spotify.Spotify._get_tracks", new_callable=AsyncMock)
+    # pyre-fixme[30]
     async def test_invalid_data(self, mock_get_tracks: Mock) -> None:
         mock_get_tracks.return_value = []
         valid_data = {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Jason Benoit",
+  "description": "A free space for Indigenous creators in Canada. Currently curated by Boslen",
   "name": "Indigenous",
   "published_playlist_ids": [
     "3SSsubeAfIHbsO9Jxcto5j"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233076,
       "name": "A Lot About A Little",
       "url": "https://open.spotify.com/track/2ZzSjyVPiCk7II9D37qnuW"
@@ -45,6 +45,24 @@
       "duration_ms": 228560,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3nJJPUgVPvyuhjT6z2jUAZ"
+    },
+    {
+      "album": {
+        "name": "All Sides Of Me",
+        "url": "https://open.spotify.com/album/2eDXbTksonB5wh3B6kaFg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Rheaume",
+          "url": "https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 192040,
+      "name": "All Sides Of Me",
+      "url": "https://open.spotify.com/track/4lLnTq7R5u4EAvze5TsN4e"
     },
     {
       "album": {
@@ -84,6 +102,136 @@
     },
     {
       "album": {
+        "name": "Puamuna",
+        "url": "https://open.spotify.com/album/3gEGWP7BwI5seQ9o2auz8n"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 204640,
+      "name": "Apu Peikussian",
+      "url": "https://open.spotify.com/track/7sJAGuzZB5uFiatKPJDXzF"
+    },
+    {
+      "album": {
+        "name": "ataataga",
+        "url": "https://open.spotify.com/album/2waHPkgaJ2R2ID8scH4FUP"
+      },
+      "artists": [
+        {
+          "name": "Riit",
+          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 91000,
+      "name": "ataataga - Acoustic",
+      "url": "https://open.spotify.com/track/3mlOA4couGn2K1XqBQsYMr"
+    },
+    {
+      "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 307426,
+      "name": "Be Set Free",
+      "url": "https://open.spotify.com/track/5NHF3ad1JVbBiCQ0Vx9Ulf"
+    },
+    {
+      "album": {
+        "name": "Nation II Nation",
+        "url": "https://open.spotify.com/album/5SKS3EwP2Ifv8ypqUrWB3h"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263160,
+      "name": "Bread & Cheese",
+      "url": "https://open.spotify.com/track/6DsP6w8eeyl1Hhef6NBVwC"
+    },
+    {
+      "album": {
+        "name": "Earthly Days",
+        "url": "https://open.spotify.com/album/3seHadQSoZjf9MCDuoEAqM"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 249933,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/2YaYyhjRvRznLiL6hM75sD"
+    },
+    {
+      "album": {
+        "name": "Up Where We Belong",
+        "url": "https://open.spotify.com/album/7ts6JwFvY42ebwwm0i8HYB"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 312066,
+      "name": "Bury My Heart At Wounded Knee",
+      "url": "https://open.spotify.com/track/7HGnI563sFPZjUf54OiLU0"
+    },
+    {
+      "album": {
+        "name": "I Am Summer",
+        "url": "https://open.spotify.com/album/3DHihsnA9M39TNYmjKc7b7"
+      },
+      "artists": [
+        {
+          "name": "NIYA",
+          "url": "https://open.spotify.com/artist/0pSABcT7D2HKC9oRXZvZH8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 248526,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/6fBIhDeP2UQx2r0MdxdHFF"
+    },
+    {
+      "album": {
         "name": "Child Of The Government",
         "url": "https://open.spotify.com/album/2EIjsnDvxtc14X9FPDEx89"
       },
@@ -95,10 +243,50 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 221392,
       "name": "Child Of The Government",
       "url": "https://open.spotify.com/track/64CgHKu5BPzju2hO2ECiZL"
+    },
+    {
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253752,
+      "name": "Creator Made an Animal",
+      "url": "https://open.spotify.com/track/0ky2juni62dPFJb6hkmDGR"
     },
     {
       "album": {
@@ -113,7 +301,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": "2022-06-04",
       "duration_ms": 172135,
       "name": "Dancing with Sue",
       "url": "https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw"
@@ -149,7 +337,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 227334,
       "name": "Devil in a Bottle",
       "url": "https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY"
@@ -167,10 +355,62 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 229410,
       "name": "Devil Water",
       "url": "https://open.spotify.com/track/6N7wYL0QnkF4LtWRJsdBeR"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/3iH13shf5uvbDtZ9Is3PKL"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        },
+        {
+          "name": "David R. Maracle",
+          "url": "https://open.spotify.com/artist/0PRSELwINaU945xsPKJ6mt"
+        },
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 224813,
+      "name": "Diamond Sun (feat. Susan Aglukark, David R. Maracle)",
+      "url": "https://open.spotify.com/track/0F62O1t49w5mSyXabSXoqF"
+    },
+    {
+      "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     },
     {
       "album": {
@@ -185,10 +425,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 242016,
       "name": "Estuary",
       "url": "https://open.spotify.com/track/0mZSiluhn7DHxP1FijMUyQ"
+    },
+    {
+      "album": {
+        "name": "Burn Me Down",
+        "url": "https://open.spotify.com/album/16Ic2gzlDMPhBZXSCX0AxF"
+      },
+      "artists": [
+        {
+          "name": "Inez Jasper",
+          "url": "https://open.spotify.com/artist/5PJWx3TLnKtKqldIHu2wsr"
+        },
+        {
+          "name": "Fawn Wood",
+          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214632,
+      "name": "Fallen Soldier (feat. Fawn Wood)",
+      "url": "https://open.spotify.com/track/7dMhQQM8waDYuMWcjWzi0B"
     },
     {
       "album": {
@@ -207,6 +469,24 @@
       "duration_ms": 204764,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/4BQAqvQxyR5Pzw0U8IALRp"
+    },
+    {
+      "album": {
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115473,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/5wTMS2FiYvostGLFg1LzeZ"
     },
     {
       "album": {
@@ -239,10 +519,64 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180323,
       "name": "Fly in My Whiskey",
       "url": "https://open.spotify.com/track/6hupIsruxJbRJWHQ7NbY26"
+    },
+    {
+      "album": {
+        "name": "Sedna",
+        "url": "https://open.spotify.com/album/4TnpF14Fst1uuRPzHk5He8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Fraser",
+          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 214800,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/58ZWU74QImi8PdrvCGenqe"
+    },
+    {
+      "album": {
+        "name": "Sedna",
+        "url": "https://open.spotify.com/album/4TnpF14Fst1uuRPzHk5He8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Fraser",
+          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Forgive Yourself",
+      "url": "https://open.spotify.com/track/4Ek4211HeSJkdjzdDOSFx6"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2I6GTF6eseBJpbqev7tMLL"
+      },
+      "artists": [
+        {
+          "name": "Dakota Bear",
+          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7h31AvBw5GmK1igxZCCYHN"
     },
     {
       "album": {
@@ -261,10 +595,46 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 153707,
       "name": "Front Lines",
       "url": "https://open.spotify.com/track/3O0E9xto0BczECN85ha6AB"
+    },
+    {
+      "album": {
+        "name": "Returning Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2"
+      },
+      "artists": [
+        {
+          "name": "Melody McKiver",
+          "url": "https://open.spotify.com/artist/2gjAAOSvTNAJMZ04trV0SA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 84100,
+      "name": "Getting To The Bottom Of Why",
+      "url": "https://open.spotify.com/track/36NXgHFGhffyHr45o5SGeS"
+    },
+    {
+      "album": {
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166238,
+      "name": "GONE",
+      "url": "https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8"
     },
     {
       "album": {
@@ -279,10 +649,46 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204124,
       "name": "Gone Long Gone",
       "url": "https://open.spotify.com/track/4GUajvtgltALao5ZxiX6fL"
+    },
+    {
+      "album": {
+        "name": "Reliever",
+        "url": "https://open.spotify.com/album/6sesQu02oxMGUbhYViaVTN"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 239186,
+      "name": "Great Wide Open",
+      "url": "https://open.spotify.com/track/5J0eLrpfSlbZcEOG99qnD3"
+    },
+    {
+      "album": {
+        "name": "Heart of the People",
+        "url": "https://open.spotify.com/album/2XtigHY7mljmjRSpGUgcew"
+      },
+      "artists": [
+        {
+          "name": "Leela Gilday",
+          "url": "https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 293426,
+      "name": "Heart of the People",
+      "url": "https://open.spotify.com/track/7AUnMhRUEabLvFiOt8xTfz"
     },
     {
       "album": {
@@ -304,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Howling (Remastered 2021)",
+        "url": "https://open.spotify.com/album/5IKaWC5rUxHcWYkiy3zemy"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 240208,
+      "name": "Howling - Remastered 2021",
+      "url": "https://open.spotify.com/track/2DkJdzOINO079Pvxwse7p0"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/3xHVMfJDW526MFVGWayJlz"
       },
@@ -315,10 +739,50 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 271006,
       "name": "Human",
       "url": "https://open.spotify.com/track/0DWT4gkxb4aJZ9ikOGevxg"
+    },
+    {
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Shanks Sioux",
+          "url": "https://open.spotify.com/artist/6STPU4rdo1rk3vnK1pmaRV"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216142,
+      "name": "I Can't Remember My Name",
+      "url": "https://open.spotify.com/track/72pho9GVyZCElxgMFYhN2n"
+    },
+    {
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/7ezGCgHVC7lKr0XmJkJ0QZ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Parkin",
+          "url": "https://open.spotify.com/artist/5m4xrkVmJeWV97JpTXkra8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 285137,
+      "name": "I Feel Quiet",
+      "url": "https://open.spotify.com/track/0VEbDaYoro8BgfoSzwYeBp"
     },
     {
       "album": {
@@ -333,7 +797,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 217506,
       "name": "I Got My Music",
       "url": "https://open.spotify.com/track/0lkwSNhkQAOZo3uTFuxPJW"
@@ -355,6 +819,24 @@
       "duration_ms": 212647,
       "name": "If It Makes You Feel Better",
       "url": "https://open.spotify.com/track/5lIgDjGxuSVrNh7RmpAwKo"
+    },
+    {
+      "album": {
+        "name": "If It's Not Forever",
+        "url": "https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 192447,
+      "name": "If It's Not Forever",
+      "url": "https://open.spotify.com/track/4pt4Fgp6d2otLNlct3egLP"
     },
     {
       "album": {
@@ -387,10 +869,152 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 175973,
       "name": "Indian Moon",
       "url": "https://open.spotify.com/track/3D70CWH5aMeIsfIazEif46"
+    },
+    {
+      "album": {
+        "name": "Cris Derksen: Orchestral Powwow",
+        "url": "https://open.spotify.com/album/1p4jzGhZk7BF9660debWXC"
+      },
+      "artists": [
+        {
+          "name": "Cris Derksen",
+          "url": "https://open.spotify.com/artist/7ix7Gz79EddnFl6LJSDuhc"
+        },
+        {
+          "name": "Chippewa Travellers",
+          "url": "https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 169560,
+      "name": "Intertribal Happy Feet (feat. Chippewa Travellers)",
+      "url": "https://open.spotify.com/track/5Olal9ynuV7rYJIry9M1bh"
+    },
+    {
+      "album": {
+        "name": "It\u2019s OK",
+        "url": "https://open.spotify.com/album/7sSmYrOQg4qWa7YLox0mLh"
+      },
+      "artists": [
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141363,
+      "name": "It\u2019s OK",
+      "url": "https://open.spotify.com/track/4W1KwDbKmpyssINjfl8uDy"
+    },
+    {
+      "album": {
+        "name": "Lead Me",
+        "url": "https://open.spotify.com/album/3y7UxTcD5XTrVxZDVs7bW4"
+      },
+      "artists": [
+        {
+          "name": "Jayli Wolf",
+          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138543,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/72uGh0Kew94ALlcrO0OmhV"
+    },
+    {
+      "album": {
+        "name": "Let Me Out Of Here",
+        "url": "https://open.spotify.com/album/4KbwXSeaFOhSNRXfOIourm"
+      },
+      "artists": [
+        {
+          "name": "Sierra Noble",
+          "url": "https://open.spotify.com/artist/7DFVjetQUZxFLNukE3F4Rt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 250436,
+      "name": "Let Me Out Of Here",
+      "url": "https://open.spotify.com/track/30lwZ8NjLCqgMPudV1UuBR"
+    },
+    {
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293439,
+      "name": "Lost Tribe",
+      "url": "https://open.spotify.com/track/6ExFzpHmcznOjC4JpjkbZK"
+    },
+    {
+      "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/6DCtTHrowhDjpEwC0HgZuI"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314754,
+      "name": "MEAN BOY",
+      "url": "https://open.spotify.com/track/4qYjy3A5Jk7YIcWTHWYPeC"
+    },
+    {
+      "album": {
+        "name": "Men in Black",
+        "url": "https://open.spotify.com/album/0Ha2g0Heis3ycec7KnHQpW"
+      },
+      "artists": [
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127422,
+      "name": "Men in Black",
+      "url": "https://open.spotify.com/track/7gVbn6CXC3lEvkUy27jsDV"
     },
     {
       "album": {
@@ -405,10 +1029,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 231360,
       "name": "Messenger",
       "url": "https://open.spotify.com/track/6JOYyS95P8oVdN1ggQ9VRY"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1HrsfTuUaOorhzbnzws8PE"
+      },
+      "artists": [
+        {
+          "name": "Tara Williamson",
+          "url": "https://open.spotify.com/artist/6IqYQfkG3QN6ccetMA5Y3l"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 117233,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/0R7GBxCjrQiKdrrRSDPFCn"
     },
     {
       "album": {
@@ -423,7 +1065,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 186300,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2"
@@ -441,7 +1083,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 129873,
       "name": "Nipuwoltin",
       "url": "https://open.spotify.com/track/6A4Gcb1sc1r2FTgnOljhUF"
@@ -466,6 +1108,50 @@
     },
     {
       "album": {
+        "name": "My Beautiful Home",
+        "url": "https://open.spotify.com/album/30GeFNV4NrzQcv4j7cDcHE"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Reichardt",
+          "url": "https://open.spotify.com/artist/1Cp6vGlrWhJpSygqKvg4D9"
+        },
+        {
+          "name": "Deantha Edmunds",
+          "url": "https://open.spotify.com/artist/6bMwsfzqTf4Fs8IzlVUfHr"
+        },
+        {
+          "name": "Tom Gordon",
+          "url": "https://open.spotify.com/artist/5YILjkdDZjTAcyVir2b7oI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 100180,
+      "name": "Nutar\u00e2suk",
+      "url": "https://open.spotify.com/track/2UC60EhosBPaCH9FQ3WPGG"
+    },
+    {
+      "album": {
+        "name": "White Sahara",
+        "url": "https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 257933,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg"
+    },
+    {
+      "album": {
         "name": "The Next Chapter",
         "url": "https://open.spotify.com/album/5IKhrRE1vYLEMBaKzCKIxt"
       },
@@ -477,10 +1163,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 99671,
       "name": "On Down The Road",
       "url": "https://open.spotify.com/track/2QOcEOw3ZHirscb3Fc2AVv"
+    },
+    {
+      "album": {
+        "name": "Returning Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2"
+      },
+      "artists": [
+        {
+          "name": "Melody McKiver",
+          "url": "https://open.spotify.com/artist/2gjAAOSvTNAJMZ04trV0SA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 112535,
+      "name": "Orange Shirt Day",
+      "url": "https://open.spotify.com/track/0oLulZFCfVH30uCMYYPeMI"
     },
     {
       "album": {
@@ -495,10 +1199,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 220253,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/7nIamiKMwjk1l7TI0Dknrz"
+    },
+    {
+      "album": {
+        "name": "Ovddos / Hivumuuniq",
+        "url": "https://open.spotify.com/album/50DJKSIqzKNboMcZGn2VgW"
+      },
+      "artists": [
+        {
+          "name": "Piqsiq",
+          "url": "https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ"
+        },
+        {
+          "name": "VILD\u00c1",
+          "url": "https://open.spotify.com/artist/3FkyNYboYYRkV46XyDWZER"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 225078,
+      "name": "Ovddos / Hivumuuniq",
+      "url": "https://open.spotify.com/track/19gcf7E6b7rVAHz2TK9Q7f"
     },
     {
       "album": {
@@ -520,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/06bmdZDfjxENvEm3jwKEx8"
+      },
+      "artists": [
+        {
+          "name": "Twin Flames",
+          "url": "https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 262057,
+      "name": "Pisuppunga",
+      "url": "https://open.spotify.com/track/3dqCUHgq465dGWnTJNtLmE"
+    },
+    {
+      "album": {
         "name": "Politician Man",
         "url": "https://open.spotify.com/album/2WBypGBYFI1QcU0kLxe3lo"
       },
@@ -538,6 +1282,206 @@
     },
     {
       "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/00h2WuukFo2WClZ03ddFCU"
+      },
+      "artists": [
+        {
+          "name": "Sierra Noble",
+          "url": "https://open.spotify.com/artist/7DFVjetQUZxFLNukE3F4Rt"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 180493,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/7dMKK863N83phe5gD0NFHs"
+    },
+    {
+      "album": {
+        "name": "ataataga",
+        "url": "https://open.spotify.com/album/2waHPkgaJ2R2ID8scH4FUP"
+      },
+      "artists": [
+        {
+          "name": "Riit",
+          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259426,
+      "name": "qaumajuapik",
+      "url": "https://open.spotify.com/track/4K1MenTdQNBGyiApSjGUZ6"
+    },
+    {
+      "album": {
+        "name": "If It Comes Down To It",
+        "url": "https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 158810,
+      "name": "Quantum Physics",
+      "url": "https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588"
+    },
+    {
+      "album": {
+        "name": "We Are the Halluci Nation",
+        "url": "https://open.spotify.com/album/3OAY7PznrdfSH4kZ3tuER7"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Narcy",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209981,
+      "name": "R.E.D.",
+      "url": "https://open.spotify.com/track/4YAFMFA6RM8ogvngap1b05"
+    },
+    {
+      "album": {
+        "name": "Animism",
+        "url": "https://open.spotify.com/album/2MiUUnuUmi24pJKJ1xjeHz"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 245920,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/16waXuIEBacectbFc0enwv"
+    },
+    {
+      "album": {
+        "name": "Know Your Medicine",
+        "url": "https://open.spotify.com/album/2jtW5d8ZaDKPAkAO2i8jo3"
+      },
+      "artists": [
+        {
+          "name": "Liv Wade",
+          "url": "https://open.spotify.com/artist/2iyIOFXuTFP9ljwL7f79b1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 180560,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/6SOqwB4vwvWL0gvV4MZbfF"
+    },
+    {
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/62j3tPxGblK4dJX5QVggmZ"
+    },
+    {
+      "album": {
+        "name": "In The Falling Dark",
+        "url": "https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 256706,
+      "name": "Red Brother Red Sister",
+      "url": "https://open.spotify.com/track/0kyK2LNhahUA5wGj2muvci"
+    },
+    {
+      "album": {
+        "name": "Thunderbird",
+        "url": "https://open.spotify.com/album/404e7x6YmiTvr8fWZCLbII"
+      },
+      "artists": [
+        {
+          "name": "Leonard Sumner",
+          "url": "https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 196582,
+      "name": "Retrospect",
+      "url": "https://open.spotify.com/track/19K5cnXjr5TGGC9gO1zVp6"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0fuBc9pHKdFTrFeWy806K3"
+      },
+      "artists": [
+        {
+          "name": "Anklegod",
+          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
+        },
+        {
+          "name": "SHARUK",
+          "url": "https://open.spotify.com/artist/2j6ddAkqinKKhL1JJkdQFx"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/52YtcwNEZelM0P22wmllWa"
+    },
+    {
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/753DV9snkzm0Qb08WJYJpT"
       },
@@ -549,7 +1493,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 199596,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1rClDAbfD9Cfiz1AkWwnNn"
@@ -567,10 +1511,158 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 231179,
       "name": "Right Way Back",
       "url": "https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS"
+    },
+    {
+      "album": {
+        "name": "Home To Abbey",
+        "url": "https://open.spotify.com/album/1StEwXiykksn7WFwuYr17o"
+      },
+      "artists": [
+        {
+          "name": "Jason Burnstick",
+          "url": "https://open.spotify.com/artist/4wCpyEMn0K36o6djtq48uW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 262218,
+      "name": "Roads We Choose",
+      "url": "https://open.spotify.com/track/1M7v7NCHhaO1QB2qTQMSym"
+    },
+    {
+      "album": {
+        "name": "Wolastoqiyik Lintuwakonawa",
+        "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 212143,
+      "name": "Sakomawit",
+      "url": "https://open.spotify.com/track/1f3HgAuHPyGx1ZwL9RTRAZ"
+    },
+    {
+      "album": {
+        "name": "The Average Savage",
+        "url": "https://open.spotify.com/album/1Zm19YQhpbR0Rk5KUmXdfl"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Savages (feat. Drezus)",
+      "url": "https://open.spotify.com/track/2v5nzcrK0AVYKLEzs7pz9j"
+    },
+    {
+      "album": {
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242854,
+      "name": "SCARS",
+      "url": "https://open.spotify.com/track/6t0El464LFbuloirqq6C2V"
+    },
+    {
+      "album": {
+        "name": "Setbacks",
+        "url": "https://open.spotify.com/album/3NGvP7CdGu9fwsNwK06OQr"
+      },
+      "artists": [
+        {
+          "name": "Dakota Bear",
+          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Setbacks",
+      "url": "https://open.spotify.com/track/1FNG3ZcoDzs0Al9CyFl4fQ"
+    },
+    {
+      "album": {
+        "name": "Robbie Robertson",
+        "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 287573,
+      "name": "Showdown At Big Sky",
+      "url": "https://open.spotify.com/track/024l9PlvWWPaCTfRO6LZ88"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Shingoose (poetry by Duke Redbird)",
+          "url": "https://open.spotify.com/artist/5SwHpggYsgq4y1uTbJB6v8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 243600,
+      "name": "Silver River",
+      "url": "https://open.spotify.com/track/5UgIkoTkAn46AhDblRc5eZ"
+    },
+    {
+      "album": {
+        "name": "If It's Not Forever",
+        "url": "https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 270233,
+      "name": "Since I Met You",
+      "url": "https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq"
     },
     {
       "album": {
@@ -585,10 +1677,118 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 137573,
       "name": "Siwash Rock",
       "url": "https://open.spotify.com/track/52ifCChX6KmZi6AvtjKK19"
+    },
+    {
+      "album": {
+        "name": "SKODEN",
+        "url": "https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i"
+      },
+      "artists": [
+        {
+          "name": "Digging Roots",
+          "url": "https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 213826,
+      "name": "SKODEN",
+      "url": "https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "David Campbell",
+          "url": "https://open.spotify.com/artist/0EBAUupKBr30ZI8udhYJmC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 186226,
+      "name": "Sky-Man and the Moon",
+      "url": "https://open.spotify.com/track/5CFdof1LvkAtwFyCa3VP9F"
+    },
+    {
+      "album": {
+        "name": "Snakehold",
+        "url": "https://open.spotify.com/album/3sDHr2DOEbSTgj3M0YBWpg"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 206400,
+      "name": "Snakehold",
+      "url": "https://open.spotify.com/track/2PxJHemFq1WTh2W8rGgkF2"
+    },
+    {
+      "album": {
+        "name": "Snowblind",
+        "url": "https://open.spotify.com/album/3EX2pi3FS9thuxBfv9s6C3"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 230693,
+      "name": "Snowblind",
+      "url": "https://open.spotify.com/track/4F6C1k9TfEEzCo86m4K1Bu"
+    },
+    {
+      "album": {
+        "name": "Jade Turner",
+        "url": "https://open.spotify.com/album/4pxOilsNIlOGg99cGfbf3l"
+      },
+      "artists": [
+        {
+          "name": "Jade Turner",
+          "url": "https://open.spotify.com/artist/2IcuWwM2AJpbLrycJUuELT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 210239,
+      "name": "Somehow Someone",
+      "url": "https://open.spotify.com/track/7l4NlQe5vfpwhuVMJNSjwN"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Willie Dunn",
+          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 225773,
+      "name": "Son of the Sun",
+      "url": "https://open.spotify.com/track/75LgtWQRfVIkpECqakZ6ra"
     },
     {
       "album": {
@@ -621,10 +1821,46 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 185687,
       "name": "Starwalker",
       "url": "https://open.spotify.com/track/2wd7cm8Xb2ll1uTQfTs6cU"
+    },
+    {
+      "album": {
+        "name": "If It's Not Forever",
+        "url": "https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 173943,
+      "name": "Stop A Heart",
+      "url": "https://open.spotify.com/track/027LAbNqQZWC23TRHxNCNy"
+    },
+    {
+      "album": {
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/77ADKuH17Eb2A9RCplvbs0"
+      },
+      "artists": [
+        {
+          "name": "Eagle & Hawk",
+          "url": "https://open.spotify.com/artist/12VF84gHslJXx9e3HX0N6Z"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 260626,
+      "name": "Sundancer",
+      "url": "https://open.spotify.com/track/1BJ53kYfiHt7Sz1ekL6wGm"
     },
     {
       "album": {
@@ -657,7 +1893,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 316120,
       "name": "Sweet Summer Rain",
       "url": "https://open.spotify.com/track/0exvlmgsMnI4MZZ0yI4fBH"
@@ -675,10 +1911,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 236693,
       "name": "Swell (My Brother)",
       "url": "https://open.spotify.com/track/4Dht9fJEqWb4FTKcGxt8me"
+    },
+    {
+      "album": {
+        "name": "Talkin' Bout You",
+        "url": "https://open.spotify.com/album/0kH2SZfntNNlaqY1nw9HYN"
+      },
+      "artists": [
+        {
+          "name": "Brenton David",
+          "url": "https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 206488,
+      "name": "Talkin' Bout You",
+      "url": "https://open.spotify.com/track/1SkYtx3a4geu76QeBlr1aQ"
     },
     {
       "album": {
@@ -747,7 +2001,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233559,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/5bD15PuYRfznglHHcxDJk3"
@@ -765,7 +2019,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 393330,
       "name": "The Mi'kmaq Honour Song",
       "url": "https://open.spotify.com/track/29fyAPnj38vR2BPwTdj2zg"
@@ -783,10 +2037,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": "2022-07-06",
       "duration_ms": 239693,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/11AyynOmB7yiXr84DzEsxj"
+    },
+    {
+      "album": {
+        "name": "The Stars",
+        "url": "https://open.spotify.com/album/4epWYRlR44K2iEMLtysfCB"
+      },
+      "artists": [
+        {
+          "name": "iskw\u0113",
+          "url": "https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 240465,
+      "name": "The Unforgotten (Stars Mix)",
+      "url": "https://open.spotify.com/track/29pAue8sJJxLN6ehZziCOT"
     },
     {
       "album": {
@@ -826,6 +2098,24 @@
     },
     {
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/337ZoinH7XFzrksMVYAK3z"
+      },
+      "artists": [
+        {
+          "name": "Anklegod",
+          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163019,
+      "name": "Think I Need Some Syrup",
+      "url": "https://open.spotify.com/track/1UKhcMusoi9Xxn9liepsE6"
+    },
+    {
+      "album": {
         "name": "Down-Home",
         "url": "https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh"
       },
@@ -855,10 +2145,100 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 140000,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv"
+    },
+    {
+      "album": {
+        "name": "Come Back Through",
+        "url": "https://open.spotify.com/album/4wi7mHjnb1Pf4JwaUpqt9D"
+      },
+      "artists": [
+        {
+          "name": "Richard Inman",
+          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 200893,
+      "name": "Waiting on the River",
+      "url": "https://open.spotify.com/track/2yC5zUYKmBNckZVqziWsrA"
+    },
+    {
+      "album": {
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 211493,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/6c3jqOXSkyWI2W4UFrMPqx"
+    },
+    {
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/240EnJaBvTLPCwCX7ux247"
+      },
+      "artists": [
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183615,
+      "name": "Warpath",
+      "url": "https://open.spotify.com/track/744B0eGBmmfnleCJ7nmKnT"
+    },
+    {
+      "album": {
+        "name": "HGS",
+        "url": "https://open.spotify.com/album/0UVPpmcYtxVLHVZhDlEDjw"
+      },
+      "artists": [
+        {
+          "name": "Savage Family",
+          "url": "https://open.spotify.com/artist/4uTFYxlrNuY53KmCRtYD3R"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291892,
+      "name": "Way Of The Drum",
+      "url": "https://open.spotify.com/track/6sS3DO0uqkjJfLRfczrofe"
+    },
+    {
+      "album": {
+        "name": "When the Smoke Clears",
+        "url": "https://open.spotify.com/album/5xGWDO5DeQdCiTKKOo08N8"
+      },
+      "artists": [
+        {
+          "name": "Andrina Turenne",
+          "url": "https://open.spotify.com/artist/432ebpgngn6uT9eHVOUHQv"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 213893,
+      "name": "When the Smoke Clears",
+      "url": "https://open.spotify.com/track/17D8lsAphSGap4aXz4b8SR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYrH4yMJbkL8"

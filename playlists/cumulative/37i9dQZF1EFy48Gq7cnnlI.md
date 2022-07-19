@@ -2,7 +2,7 @@
 
 ### [Written By Alex Hope](https://open.spotify.com/playlist/37i9dQZF1EFy48Gq7cnnlI)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 88 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/56E8uR9CIIVPU86UKCeckZ)
 

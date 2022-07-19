@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5WUFWhGRVpi4ED9QpK2hOF.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 347 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/5WUFWhGRVpi4ED9QpK2hOF.md) - [plain]
 | 18 | [Half\-Breed](https://open.spotify.com/track/5aiFbDyQ8neq7iubd7CFf1) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Essential Collection: Cher](https://open.spotify.com/album/5aYDAZyVkZGoUudJSGBcyZ) | 2:45 |
 | 19 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/1Wjf1DUearGU14h4Ij0NLv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Discover Isley Brothers](https://open.spotify.com/album/2MxOs4Dso9mrWG1bPz19my) | 5:35 |
 | 20 | [Pillow Talk](https://open.spotify.com/track/2BEeIp5vfO4rR2Qs5vkTLL) | [Sylvia](https://open.spotify.com/artist/3doP2QWtByNGoRwupOcaMi) | [Pillow Talk: The Sensuous Sounds Of Sylvia](https://open.spotify.com/album/6mpnbSuIX7ghO1pypJJqnn) | 4:25 |
-| 21 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Remastered / Bonus Track\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 |
+| 21 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Expanded Edition / Remastered 2002\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 |
 | 22 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 23 | [Wildflower](https://open.spotify.com/track/1z0etghLnvdBptJMlzvbFA) | [Skylark](https://open.spotify.com/artist/3j9kYXgECWgIelCSWRVulK) | [Lost Hits Of The 70's \(All Original Artists & Versions\)](https://open.spotify.com/album/3AcwJqNT1LgZdTttHkoaZ0) | 4:10 |
 | 24 | [Superstition \- Single Version](https://open.spotify.com/track/1AAZOa85URJa2BHs4VBRGF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/21s1USjtAKu8YcswA64iQX) | 4:05 |

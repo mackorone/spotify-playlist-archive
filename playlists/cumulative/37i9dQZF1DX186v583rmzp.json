@@ -115,7 +115,7 @@
       },
       "artists": [
         {
-          "name": "LL Cool J",
+          "name": "LL COOL J",
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 265560,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/525yPO8r5J6kLostDxm3XK"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 288560,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-05-04",
       "duration_ms": 311480,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 206933,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/5KA6S4auXremQLoBIsKprz"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-17",
       "duration_ms": 217506,
       "name": "Brooklyn Zoo",
       "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": "2022-06-22",
       "duration_ms": 309773,
       "name": "Can I Get A...",
       "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": "2022-05-17",
       "duration_ms": 273453,
       "name": "Crooklyn - Crooklyn/Soundtrack Version",
       "url": "https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF"
@@ -619,10 +619,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 275640,
       "name": "Crush on You",
       "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
+    },
+    {
+      "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/5ltdcgEflWut0osW0ZzLhM"
     },
     {
       "album": {
@@ -637,7 +659,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
@@ -655,7 +677,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": "2022-05-29",
       "duration_ms": 206493,
       "name": "Definition",
       "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
@@ -691,7 +713,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
@@ -709,7 +731,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": "2022-05-27",
       "duration_ms": 336293,
       "name": "Drop",
       "url": "https://open.spotify.com/track/3JRpLfo1JmUL2LLeTWksN3"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 243266,
       "name": "DWYCK",
       "url": "https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe"
@@ -789,7 +811,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 339826,
       "name": "Fakin Jax",
       "url": "https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV"
@@ -901,7 +923,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 242976,
       "name": "Formation",
       "url": "https://open.spotify.com/track/5esKOdkdkkD51sT7S9YiOY"
@@ -919,7 +941,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 292186,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-06",
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
@@ -1061,7 +1083,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 264760,
       "name": "Gotta Get Mine",
       "url": "https://open.spotify.com/track/5oqSr3rehtGgZyDh0LCSA7"
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-03",
       "duration_ms": 274093,
       "name": "Hell on Earth (Front Lines)",
       "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
@@ -1195,7 +1217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-11",
       "duration_ms": 239933,
       "name": "How High - Remix",
       "url": "https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 290906,
       "name": "If Your Girl Only Knew (feat Timbaland and Missy Elliott)",
       "url": "https://open.spotify.com/track/0tDeSKBOBsKHFurhXURSXp"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": "2022-07-18",
       "duration_ms": 261293,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 275090,
       "name": "Live at the Barbeque - 2017 Remastered Version",
       "url": "https://open.spotify.com/track/4PvcavllGpo6lB8VkIgXIZ"
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": "2022-06-07",
       "duration_ms": 333906,
       "name": "Lost Ones",
       "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
@@ -1777,7 +1799,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-19",
       "duration_ms": 254253,
       "name": "Money Ain't a Thang (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-05",
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
@@ -1875,7 +1897,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-06-21",
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
@@ -1951,10 +1973,36 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": "2022-06-20",
       "duration_ms": 271066,
       "name": "O.P.P",
       "url": "https://open.spotify.com/track/3voxsfqnGr9V74jkkzPhXC"
+    },
+    {
+      "album": {
+        "name": "Endangered Species",
+        "url": "https://open.spotify.com/album/4Dj07YyIWIvo3dUYinvqvR"
+      },
+      "artists": [
+        {
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Cuban Link",
+          "url": "https://open.spotify.com/artist/1ZAujONMGo6GGiHxDQCGeA"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 168773,
+      "name": "Off the Books (feat. Big Pun & Cuban Link)",
+      "url": "https://open.spotify.com/track/5qqBsCBwzv0g0xb1kB1TGJ"
     },
     {
       "album": {
@@ -2073,7 +2121,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
@@ -2091,7 +2139,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-02",
       "duration_ms": 265493,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/6nwAubYnLGl7F7cDuOoVLp"
@@ -2203,7 +2251,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 250133,
       "name": "Scenario - LP Mix",
       "url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP"
@@ -2268,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/4q8xMEhezZWAqvoESNbGSf"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 173266,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/7F9FgsJXWvFENrhLYtYymg"
+    },
+    {
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -2323,7 +2389,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": "2022-06-08",
       "duration_ms": 253413,
       "name": "Straighten It Out",
       "url": "https://open.spotify.com/track/4dI2tnLrhe8u4jWjoLC5NK"
@@ -2555,10 +2621,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": "2022-07-04",
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "album": {
+        "name": "Something From Nothing: The Art of Rap",
+        "url": "https://open.spotify.com/album/2HJClOfhggFQYWDIeBQenb"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 190440,
+      "name": "Vivrant Thing - Club Mix",
+      "url": "https://open.spotify.com/track/4YCBBxP0AeWPpEwidahrha"
     },
     {
       "album": {
@@ -2573,7 +2657,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": "2022-05-24",
       "duration_ms": 251242,
       "name": "We Run Things (It's Like Dat)",
       "url": "https://open.spotify.com/track/22GbJVEc04zY06E5g8K5Qz"
@@ -2609,7 +2693,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-05-07",
       "duration_ms": 308906,
       "name": "What U See Is What U Get",
       "url": "https://open.spotify.com/track/4ezafcOuI5em8LoE2xxnpv"
@@ -2631,7 +2715,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-18",
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
@@ -2667,7 +2751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-11",
       "duration_ms": 239413,
       "name": "Whirlwind Thru Cities",
       "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
@@ -2703,7 +2787,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-12",
       "duration_ms": 270066,
       "name": "Who Got Da Props",
       "url": "https://open.spotify.com/track/6Xio661Y2iL7SDKFFOG9cv"
@@ -2775,7 +2859,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 233199,
       "name": "Wreckonize - Remix Vocal",
       "url": "https://open.spotify.com/track/22Yq5tkMN8JE7h1Bq3pWHS"
@@ -2847,7 +2931,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": "2022-07-19",
       "duration_ms": 273573,
       "name": "You Never Knew",
       "url": "https://open.spotify.com/track/3Dh10QBwBWVQAMJNNhLRq4"

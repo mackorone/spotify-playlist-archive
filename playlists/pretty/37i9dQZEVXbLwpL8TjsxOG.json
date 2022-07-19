@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 99647,
+  "num_followers": 101957,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA0NjI5OTYyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzExNDcwMjMyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "Dear My Friend,",
         "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+        "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "\u93e1\u4e2d\u93e1",
         "url": "https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V"
@@ -41,7 +57,39 @@
       "url": "https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 185032,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/3JKrNHh8gVviwWycHE9DDm"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 226663,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/1UJYWfzyPjRwmlCawgJroV"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "Master Class",
         "url": "https://open.spotify.com/album/03psvIea883UU385SIAccE"
@@ -57,151 +105,7 @@
       "url": "https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 258924,
-      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u5c0f\u5fc3\u5730\u6ed1",
-        "url": "https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 239340,
-      "name": "\u5c0f\u5fc3\u5730\u6ed1",
-      "url": "https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Innerspace",
-        "url": "https://open.spotify.com/album/2XLO3r4aoXtdTa6nGpR9uL"
-      },
-      "artists": [
-        {
-          "name": "Mirror",
-          "url": "https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Innerspace",
-      "url": "https://open.spotify.com/track/1TC1xwWe4QVFlx6cPGWOaH"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u53cd\u5c0d\u7121\u6548",
-        "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 228819,
-      "name": "\u53cd\u5c0d\u7121\u6548",
-      "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u96e2\u5225\u7684\u898f\u77e9",
-        "url": "https://open.spotify.com/album/4zmlpzipP0VIn0YQyfUknJ"
-      },
-      "artists": [
-        {
-          "name": "Jer \u67f3\u61c9\u5ef7",
-          "url": "https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY"
-        }
-      ],
-      "duration_ms": 282182,
-      "name": "\u96e2\u5225\u7684\u898f\u77e9",
-      "url": "https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Megahit",
-        "url": "https://open.spotify.com/album/3vwAviwOj5HoFL7WKlOH61"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 204994,
-      "name": "Megahit",
-      "url": "https://open.spotify.com/track/33bb4ipPqbeTdZLOAix27Z"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
-        "url": "https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii"
-      },
-      "artists": [
-        {
-          "name": "Terence Lam",
-          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
-      "url": "https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "Mr. Stranger",
         "url": "https://open.spotify.com/album/0Uq2MMZXlZFzSZytUMBLPn"
@@ -217,9 +121,261 @@
       "url": "https://open.spotify.com/track/4pnqbvjkdoIKUzmfr1bUho"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u6642\u5019\u4e0d\u65e9",
+        "name": "Megahit",
+        "url": "https://open.spotify.com/album/3vwAviwOj5HoFL7WKlOH61"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 204994,
+      "name": "Megahit",
+      "url": "https://open.spotify.com/track/33bb4ipPqbeTdZLOAix27Z"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 258924,
+      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 244046,
+      "name": "Greatest Works of Art",
+      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Still Wandering",
+      "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "OFF/ON",
+        "url": "https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "duration_ms": 208419,
+      "name": "OFF/ON",
+      "url": "https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Caution Wet Floor",
+        "url": "https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 239340,
+      "name": "Caution Wet Floor",
+      "url": "https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u81ea\u6bc0\u7684\u7a0b\u5e8f",
+        "url": "https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7"
+      },
+      "artists": [
+        {
+          "name": "Jer \u67f3\u61c9\u5ef7",
+          "url": "https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY"
+        }
+      ],
+      "duration_ms": 238972,
+      "name": "\u81ea\u6bc0\u7684\u7a0b\u5e8f",
+      "url": "https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u98c4\u6d41\u6559\u5ba4",
+        "url": "https://open.spotify.com/album/7lMwgXZvrG5rhwHTA4tlbJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Ku",
+          "url": "https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ"
+        },
+        {
+          "name": "Edan \u5442\u7235\u5b89",
+          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "\u98c4\u6d41\u6559\u5ba4",
+      "url": "https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Got U",
+        "url": "https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 172419,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
+        "url": "https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 229887,
+      "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
+      "url": "https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u8cfd\u52d2\u65af\u7684\u611b",
+        "url": "https://open.spotify.com/album/5XwD4GmcpKNosw2lXoHes9"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "duration_ms": 249343,
+      "name": "\u8cfd\u52d2\u65af\u7684\u611b",
+      "url": "https://open.spotify.com/track/7wDHnKKyw7GSw9ihEHTXm3"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Overruled",
+        "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 228819,
+      "name": "Overruled",
+      "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Song For The Absentees",
+        "url": "https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "duration_ms": 237985,
+      "name": "Song For The Absentees",
+      "url": "https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "About Time",
         "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
       },
       "artists": [
@@ -229,79 +385,143 @@
         }
       ],
       "duration_ms": 220938,
-      "name": "\u6642\u5019\u4e0d\u65e9",
+      "name": "About Time",
       "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "Never-never Land",
-        "url": "https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4"
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
       "artists": [
         {
-          "name": "COLLAR",
-          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 212182,
-      "name": "Never-never Land",
-      "url": "https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F"
+      "duration_ms": 257105,
+      "name": "Cold Hearted",
+      "url": "https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "I Know (feat. AGA)",
-        "url": "https://open.spotify.com/album/1LaIUEunRC8X3f5dxnHDtm"
+        "name": "\u9be8\u843d",
+        "url": "https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC"
       },
       "artists": [
         {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 242646,
+      "name": "\u9be8\u843d",
+      "url": "https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "The Brightest Darkness",
+        "url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "\u4fcf\u90ce\u541b",
+      "url": "https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
+        "url": "https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "\u67d0\u7a2e\u8001\u670b\u53cb",
+      "url": "https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         },
         {
-          "name": "AGA",
-          "url": "https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q"
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
         }
       ],
-      "duration_ms": 219462,
-      "name": "I Know (feat. AGA)",
-      "url": "https://open.spotify.com/track/35bTq9CeIvJQTKrPuSoDv8"
+      "duration_ms": 220693,
+      "name": "Won't Cry",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/1yC451iXNkoxQrPoOHrC9h"
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
       },
       "artists": [
         {
-          "name": "Edan \u5442\u7235\u5b89",
-          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 202241,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/1r0AJpxFzqFvptMlsHu3Bp"
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "\u4e00\u8868\u4eba\u624d",
         "url": "https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs"
@@ -321,23 +541,39 @@
       "url": "https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
-        "url": "https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2"
+        "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
+        "url": "https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
         }
       ],
-      "duration_ms": 198526,
-      "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
-      "url": "https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy"
+      "duration_ms": 208636,
+      "name": "\u590f\u4e4b\u98a8\u7269\u8a69",
+      "url": "https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Red Scarf (\"Till We Meet Again\" Movie Theme Song)",
+        "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Red Scarf - \"Till We Meet Again\" Movie Theme Song",
+      "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
         "url": "https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9"
@@ -353,7 +589,39 @@
       "url": "https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 234177,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "\u5b64\u7368\u75c5",
+        "url": "https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "\u5b64\u7368\u75c5",
+      "url": "https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -373,25 +641,41 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "i don't smoke & i don't drink",
-        "url": "https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4"
+        "name": "to be honest",
+        "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
       },
       "artists": [
         {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 170951,
-      "name": "i don't smoke & i don't drink",
-      "url": "https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1"
+      "duration_ms": 199547,
+      "name": "hyperromantic",
+      "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u4eba\u985e\u4e16",
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-07-18 14:37:12",
+      "album": {
+        "name": "Anthropocene",
         "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
       },
       "artists": [
@@ -401,59 +685,43 @@
         }
       ],
       "duration_ms": 244735,
-      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+      "name": "For those who stay, For those who had left",
       "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "SEVEN",
-        "url": "https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o"
+        "name": "\u96e2\u5225\u7684\u898f\u77e9",
+        "url": "https://open.spotify.com/album/4zmlpzipP0VIn0YQyfUknJ"
       },
       "artists": [
         {
-          "name": "Terence Lam",
-          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+          "name": "Jer \u67f3\u61c9\u5ef7",
+          "url": "https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY"
         }
       ],
-      "duration_ms": 226646,
-      "name": "\u5728\u7a7a\u4e2d\u7684\u9019\u4e00\u79d2",
-      "url": "https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM"
+      "duration_ms": 282182,
+      "name": "\u96e2\u5225\u7684\u898f\u77e9",
+      "url": "https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "The Brightest Darkness",
-        "url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8"
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
       "artists": [
         {
-          "name": "Hins Cheung",
-          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 280822,
-      "name": "\u4fcf\u90ce\u541b",
-      "url": "https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol"
+      "duration_ms": 234226,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u9be8\u843d",
-        "url": "https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 242646,
-      "name": "\u9be8\u843d",
-      "url": "https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
         "name": "\u5c0f\u8ae7\u661f",
         "url": "https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj"
@@ -469,360 +737,100 @@
       "url": "https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "E\u5148\u751f \u9023\u74b0\u4e0d\u5e78\u4e8b\u4ef6",
-        "url": "https://open.spotify.com/album/3BigkQlwdh92lAgiPtd1Ko"
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
       "artists": [
         {
-          "name": "Edan \u5442\u7235\u5b89",
-          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 268536,
-      "name": "E\u5148\u751f \u9023\u74b0\u4e0d\u5e78\u4e8b\u4ef6",
-      "url": "https://open.spotify.com/track/06sDxr7MbbwFyTP1f6rvvl"
+      "duration_ms": 257838,
+      "name": "You Are The Firework I Missed",
+      "url": "https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u5831\u5fa9\u5f0f\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/0eCNcbQPLF8HNXE2iOsOR1"
+        "name": "\u6a39\u6728\u771f\u7f8e",
+        "url": "https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU"
       },
       "artists": [
         {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
         }
       ],
-      "duration_ms": 204772,
-      "name": "\u5831\u5fa9\u5f0f\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/6N47H7GFm8SBwdJMkS9sqj"
+      "duration_ms": 246840,
+      "name": "\u6a39\u6728\u771f\u7f8e",
+      "url": "https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u53ca\u6642\u884c\u6a02",
-        "url": "https://open.spotify.com/album/01rSZF79mCVntQ445seVtF"
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
       },
       "artists": [
         {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
         }
       ],
-      "duration_ms": 234177,
-      "name": "\u53ca\u6642\u884c\u6a02",
-      "url": "https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa"
+      "duration_ms": 253994,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u5922\u60f3\u6210\u771f2022 (feat. \u8b5a\u4ed4\u5973\u8072\u5408\u5531\u5718)",
-        "url": "https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ"
+        "name": "Greatest Works of Art",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
       "artists": [
         {
-          "name": "MC $oho & KidNey",
-          "url": "https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 227953,
-      "name": "\u5922\u60f3\u6210\u771f2022 (feat. \u8b5a\u4ed4\u5973\u8072\u5408\u5531\u5718)",
-      "url": "https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa"
+      "duration_ms": 186813,
+      "name": "Pink Ocean",
+      "url": "https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ"
     },
     {
-      "added_at": "2022-04-30 10:32:42",
+      "added_at": "2022-07-18 14:37:12",
       "album": {
-        "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
-        "url": "https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH"
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 229887,
-      "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
-      "url": "https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u5b64\u7368\u75c5",
-        "url": "https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "\u5b64\u7368\u75c5",
-      "url": "https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "My Apple Pie",
-        "url": "https://open.spotify.com/album/4f8WL1EVr2lsjmlNb1H6GB"
-      },
-      "artists": [
-        {
-          "name": "Edan \u5442\u7235\u5b89",
-          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
-        }
-      ],
-      "duration_ms": 207456,
-      "name": "My Apple Pie",
-      "url": "https://open.spotify.com/track/4N3vPjL04eJNzUdGfT4Dfz"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u611b\u60c5\u503c\u65e5\u751f",
-        "url": "https://open.spotify.com/album/2OQ6GqUTwZSrwSlYEvPHoE"
-      },
-      "artists": [
-        {
-          "name": "Error",
-          "url": "https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ"
-        }
-      ],
-      "duration_ms": 240884,
-      "name": "\u611b\u60c5\u503c\u65e5\u751f",
-      "url": "https://open.spotify.com/track/0ZXAnDoI4IDVab7Tg760Uh"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
-        "url": "https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT"
-      },
-      "artists": [
-        {
-          "name": "Dear Jane",
-          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
-      "url": "https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Long D",
-        "url": "https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr"
-      },
-      "artists": [
-        {
-          "name": "Jace Chan",
-          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Long D",
-      "url": "https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "\u534a",
-        "url": "https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Lee \u674e\u99ff\u5091",
-          "url": "https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF"
-        }
-      ],
-      "duration_ms": 243634,
-      "name": "\u534a",
-      "url": "https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "DWBF",
-        "url": "https://open.spotify.com/album/2lWxtIbcRBLyKRm27Wa0b6"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "DWBF",
-      "url": "https://open.spotify.com/track/3Cdpq0qhrgiwPRkR720FZf"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "MM7",
-        "url": "https://open.spotify.com/album/2BFswwZQrotFdPT0Rf3cwk"
-      },
-      "artists": [
-        {
-          "name": "Jer \u67f3\u61c9\u5ef7",
-          "url": "https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "MM7",
-      "url": "https://open.spotify.com/track/71zkB0xQxcF1Uq8F1ZoCqC"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-04-30 10:32:42",
-      "album": {
-        "name": "THE BOOK",
-        "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 258838,
-      "name": "\u591c\u306b\u99c6\u3051\u308b",
-      "url": "https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB"
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

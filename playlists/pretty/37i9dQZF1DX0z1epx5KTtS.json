@@ -1,15 +1,47 @@
 {
-  "description": "African dance party music from Paris to Abidjan.",
-  "num_followers": 45585,
-  "original_name": "Coupe Decale",
+  "description": "African dance party music from Paris to Abidjan. Photo : Bello Falcao",
+  "num_followers": 50666,
+  "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU3ODQwMCwwMDAwMDAyNDAwMDAwMTgwNGUyM2EzZWMwMDAwMDE3MGFmMzllM2Ex",
+  "snapshot_id": "MTY1NzgzNjAwMCwwMDAwMDAzMDAwMDAwMTgxZmViOWQzYmYwMDAwMDE4MWZjMjJlYTkx",
   "tracks": [
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Dibango Dibanga",
+        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
+      },
+      "artists": [
+        {
+          "name": "Bello Falcao",
+          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
+        }
+      ],
+      "duration_ms": 180321,
+      "name": "Dibango Dibanga",
+      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "C'est dos\u00e9",
+        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "C'est dos\u00e9",
+      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Godo Godo",
         "url": "https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV"
@@ -45,23 +77,63 @@
       "url": "https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
-        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
+        "name": "Quand J'aurai l'argent (Plenty Money) [feat. Innoss'B]",
+        "url": "https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua"
       },
       "artists": [
         {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+          "name": "Ko-C",
+          "url": "https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
         }
       ],
-      "duration_ms": 150453,
-      "name": "Dosabado",
-      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
+      "duration_ms": 201685,
+      "name": "Quand J'aurai l'argent (Plenty Money) (feat. Innoss'B)",
+      "url": "https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "L'oracle",
+        "url": "https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc"
+      },
+      "artists": [
+        {
+          "name": "Mix Premier",
+          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
+        }
+      ],
+      "duration_ms": 227803,
+      "name": "L'oracle",
+      "url": "https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Tia Lokolo",
+        "url": "https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        },
+        {
+          "name": "Extra Musica Nouvel Horizon",
+          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
+        }
+      ],
+      "duration_ms": 252489,
+      "name": "Tia Lokolo",
+      "url": "https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Gb\u00eass\u00ea",
         "url": "https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee"
@@ -77,7 +149,27 @@
       "url": "https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Cabri Mort (Remix)",
+        "url": "https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "duration_ms": 179389,
+      "name": "Cabri Mort - Remix",
+      "url": "https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Cocktail",
         "url": "https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN"
@@ -97,23 +189,71 @@
       "url": "https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Zendaka",
-        "url": "https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP"
+        "name": "Donnez nous un peu",
+        "url": "https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu"
       },
       "artists": [
         {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
         }
       ],
-      "duration_ms": 183669,
-      "name": "Zendaka",
-      "url": "https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM"
+      "duration_ms": 231111,
+      "name": "Donnez nous un peu",
+      "url": "https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
+        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "Dosabado",
+      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "On a pris balle",
+        "url": "https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 227294,
+      "name": "On a pris balle",
+      "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "LA VOIX AUTORIS\u00c9E",
+        "url": "https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "LA VOIX AUTORIS\u00c9E",
+      "url": "https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Le go\u00fbt de",
         "url": "https://open.spotify.com/album/5kr2CVexmWa7A4ygOsDFxD"
@@ -129,23 +269,79 @@
       "url": "https://open.spotify.com/track/3wCuWuUMQXkoDDaFBEQJns"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Abidjan puissance",
-        "url": "https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj"
+        "name": "\u00c9chauffement (Remix)",
+        "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
       },
       "artists": [
         {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Abidjan puissance",
-      "url": "https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E"
+      "duration_ms": 128615,
+      "name": "\u00c9chauffement - Remix",
+      "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "D\u00e9bordement",
+        "url": "https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        },
+        {
+          "name": "Shaggy Sharoof",
+          "url": "https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "D\u00e9bordement",
+      "url": "https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Allumez la lumi\u00e8re",
+        "url": "https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui"
+      },
+      "artists": [
+        {
+          "name": "Ks Bloom",
+          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Enfant de Dieu",
+      "url": "https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Kong",
+        "url": "https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6"
+      },
+      "artists": [
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Le nyama",
         "url": "https://open.spotify.com/album/2BAoP5i5aAg4qJAGOjH9ij"
@@ -161,7 +357,27 @@
       "url": "https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Fan ou Amoureux",
+        "url": "https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy"
+      },
+      "artists": [
+        {
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        },
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 235471,
+      "name": "Fan ou Amoureux",
+      "url": "https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Touche ici",
         "url": "https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y"
@@ -177,7 +393,43 @@
       "url": "https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Watterman",
+        "url": "https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        },
+        {
+          "name": "David Eto'o",
+          "url": "https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Watterman",
+      "url": "https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Le carburant",
+        "url": "https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r"
+      },
+      "artists": [
+        {
+          "name": "Prince Kiala",
+          "url": "https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy"
+        }
+      ],
+      "duration_ms": 273736,
+      "name": "Le carburant",
+      "url": "https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Descend un peu",
         "url": "https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU"
@@ -197,42 +449,42 @@
       "url": "https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Donnez nous un peu",
-        "url": "https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu"
+        "name": "La col\u00e8re du lion",
+        "url": "https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p"
       },
       "artists": [
         {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+          "name": "Ariel Sheney",
+          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Donnez nous un peu",
-      "url": "https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj"
+      "duration_ms": 421013,
+      "name": "La col\u00e8re du lion",
+      "url": "https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Allumez la lumi\u00e8re",
-        "url": "https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui"
+        "name": "Detounounan",
+        "url": "https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf"
       },
       "artists": [
         {
-          "name": "Ks Bloom",
-          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
         }
       ],
-      "duration_ms": 203357,
-      "name": "Enfant de Dieu",
-      "url": "https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY"
+      "duration_ms": 249022,
+      "name": "Detounounan",
+      "url": "https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "LA VOIX AUTORIS\u00c9E",
-        "url": "https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T"
+        "name": "Abidjan puissance",
+        "url": "https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj"
       },
       "artists": [
         {
@@ -240,76 +492,116 @@
           "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
         }
       ],
-      "duration_ms": 261971,
-      "name": "LA VOIX AUTORIS\u00c9E",
-      "url": "https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT"
+      "duration_ms": 264000,
+      "name": "Abidjan puissance",
+      "url": "https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Kong",
-        "url": "https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6"
+        "name": "Zendaka",
+        "url": "https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP"
       },
       "artists": [
         {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
         }
       ],
-      "duration_ms": 188444,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp"
+      "duration_ms": 183669,
+      "name": "Zendaka",
+      "url": "https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "MEME",
-        "url": "https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9"
+        "name": "Tu peux lover",
+        "url": "https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz"
       },
       "artists": [
         {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+          "name": "Dj Mulukuku",
+          "url": "https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn"
         }
       ],
-      "duration_ms": 200426,
-      "name": "MEME",
-      "url": "https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC"
+      "duration_ms": 212555,
+      "name": "Tu peux lover",
+      "url": "https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Bina Ngo",
-        "url": "https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5"
+        "name": "Si tu veux partir",
+        "url": "https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS"
       },
       "artists": [
         {
-          "name": "Mwinda Mannekin",
-          "url": "https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l"
+          "name": "Yilim",
+          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Bina Ngo",
-      "url": "https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s"
+      "duration_ms": 224000,
+      "name": "Si tu veux partir",
+      "url": "https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Donne-lui l'argent",
-        "url": "https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi"
+        "name": "Tala N'dile",
+        "url": "https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW"
       },
       "artists": [
+        {
+          "name": "Ariel Sheney",
+          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
+        },
+        {
+          "name": "Dj Arafat",
+          "url": "https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT"
+        }
+      ],
+      "duration_ms": 234010,
+      "name": "Tala N'dile",
+      "url": "https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Kulumba",
+        "url": "https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s"
+      },
+      "artists": [
+        {
+          "name": "Robinio Mundibu",
+          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Kulumba",
+      "url": "https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Ouvrez",
+        "url": "https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9"
+      },
+      "artists": [
+        {
+          "name": "Landry Blessing",
+          "url": "https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU"
+        },
         {
           "name": "Dj L\u00e9o le kdo du ciel",
           "url": "https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh"
         }
       ],
-      "duration_ms": 181301,
-      "name": "Donne-lui l'argent",
-      "url": "https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr"
+      "duration_ms": 201734,
+      "name": "Ouvrez",
+      "url": "https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Bo\u00eete automatique",
         "url": "https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue"
@@ -333,271 +625,43 @@
       "url": "https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Dis merci \u00e0 Dieu",
-        "url": "https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj"
+        "name": "12 Raisons",
+        "url": "https://open.spotify.com/album/50VVd86np0xlYcTpibU37n"
       },
       "artists": [
         {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        },
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+          "name": "TNT Family",
+          "url": "https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Dis merci \u00e0 Dieu",
-      "url": "https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3"
+      "duration_ms": 183120,
+      "name": "Mapouka",
+      "url": "https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Tala N'dile",
-        "url": "https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW"
+        "name": "Mami Wata",
+        "url": "https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6"
       },
       "artists": [
         {
-          "name": "Ariel Sheney",
-          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
-        },
-        {
-          "name": "Dj Arafat",
-          "url": "https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT"
-        }
-      ],
-      "duration_ms": 234010,
-      "name": "Tala N'dile",
-      "url": "https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Oko Lelela Nani",
-        "url": "https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz"
-      },
-      "artists": [
-        {
-          "name": "Samarino",
-          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
+          "name": "Tenor",
+          "url": "https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778"
         },
         {
           "name": "Innoss'B",
           "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
         }
       ],
-      "duration_ms": 221283,
-      "name": "Oko Lelela Nani",
-      "url": "https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk"
+      "duration_ms": 172893,
+      "name": "Mami Wata",
+      "url": "https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Fan ou Amoureux",
-        "url": "https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy"
-      },
-      "artists": [
-        {
-          "name": "Suspect95",
-          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
-        },
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 235471,
-      "name": "Fan ou Amoureux",
-      "url": "https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Caprices de Grossesse",
-        "url": "https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG"
-      },
-      "artists": [
-        {
-          "name": "Rocky Gold",
-          "url": "https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Caprices de Grossesse",
-      "url": "https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Bl\u00f4 bl\u00f4",
-        "url": "https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t"
-      },
-      "artists": [
-        {
-          "name": "Bebi Philip",
-          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Bl\u00f4 bl\u00f4",
-      "url": "https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "La col\u00e8re du lion",
-        "url": "https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p"
-      },
-      "artists": [
-        {
-          "name": "Ariel Sheney",
-          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
-        }
-      ],
-      "duration_ms": 421013,
-      "name": "La col\u00e8re du lion",
-      "url": "https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Super Fan",
-        "url": "https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 232820,
-      "name": "Super Fan",
-      "url": "https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Cal\u00e9\u00e7on",
-        "url": "https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In"
-      },
-      "artists": [
-        {
-          "name": "Ko-C",
-          "url": "https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy"
-        },
-        {
-          "name": "Coco Argent\u00e9e",
-          "url": "https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cal\u00e9\u00e7on",
-      "url": "https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Cocktail",
-        "url": "https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 218286,
-      "name": "Rebelotte",
-      "url": "https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Le carburant",
-        "url": "https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r"
-      },
-      "artists": [
-        {
-          "name": "Prince Kiala",
-          "url": "https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy"
-        }
-      ],
-      "duration_ms": 273736,
-      "name": "Le carburant",
-      "url": "https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Enfants pr\u00e9f\u00e9r\u00e9s",
-        "url": "https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu"
-      },
-      "artists": [
-        {
-          "name": "Force One",
-          "url": "https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS"
-        },
-        {
-          "name": "Elow'n",
-          "url": "https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Enfants pr\u00e9f\u00e9r\u00e9s",
-      "url": "https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "MOTIVATION",
-        "url": "https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "MOTIVATION",
-      "url": "https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Detounounan",
-        "url": "https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf"
-      },
-      "artists": [
-        {
-          "name": "Debordo Leekunfa",
-          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "Detounounan",
-      "url": "https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Kulumba",
-        "url": "https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s"
-      },
-      "artists": [
-        {
-          "name": "Robinio Mundibu",
-          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "Kulumba",
-      "url": "https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
         "name": "Supporteurs Maso",
         "url": "https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k"
@@ -617,102 +681,42 @@
       "url": "https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "La v\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC"
+        "name": "Chambre Noire",
+        "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
       },
       "artists": [
         {
-          "name": "2Boyz",
-          "url": "https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos"
-        },
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+          "name": "Samarino",
+          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
         }
       ],
-      "duration_ms": 213006,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT"
+      "duration_ms": 221202,
+      "name": "Delta force",
+      "url": "https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q"
     },
     {
-      "added_at": "2022-04-21 22:00:00",
+      "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Je n'ai rien fait",
-        "url": "https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl"
+        "name": "\u00c9l\u00e9phant d'or",
+        "url": "https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1"
       },
       "artists": [
         {
-          "name": "Happy",
-          "url": "https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe"
+          "name": "Fababy",
+          "url": "https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx"
         },
         {
-          "name": "Mani Bella",
-          "url": "https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS"
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
         }
       ],
-      "duration_ms": 264777,
-      "name": "Je n'ai rien fait",
-      "url": "https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "C'Gater",
-        "url": "https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6"
-      },
-      "artists": [
-        {
-          "name": "DJ LEWIS",
-          "url": "https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb"
-        }
-      ],
-      "duration_ms": 227944,
-      "name": "C'Gater",
-      "url": "https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Dadado",
-        "url": "https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9b\u00e9 Baya",
-          "url": "https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod"
-        },
-        {
-          "name": "Fishkiller",
-          "url": "https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Dadado",
-      "url": "https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ"
-    },
-    {
-      "added_at": "2022-04-21 22:00:00",
-      "album": {
-        "name": "Godomou\u00e9",
-        "url": "https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y"
-      },
-      "artists": [
-        {
-          "name": "JN LE BOSS",
-          "url": "https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs"
-        },
-        {
-          "name": "Yanik Jones",
-          "url": "https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Godomou\u00e9",
-      "url": "https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h"
+      "duration_ms": 164365,
+      "name": "Elephant d'or",
+      "url": "https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN"
     }
   ],
-  "unique_name": "Coupe Decale",
+  "unique_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS"
 }

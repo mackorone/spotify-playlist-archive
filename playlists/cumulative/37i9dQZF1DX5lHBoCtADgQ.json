@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Akhiyan",
+        "url": "https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC"
+      },
+      "artists": [
+        {
+          "name": "Khanvict",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Akhiyan",
+      "url": "https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu"
+    },
+    {
+      "album": {
         "name": "Nightingale of Punjab: Surinder Kaur",
         "url": "https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw"
       },
@@ -487,6 +505,24 @@
     {
       "album": {
         "name": "Jutti Kasuri",
+        "url": "https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd"
+      },
+      "artists": [
+        {
+          "name": "Navneet Kaur",
+          "url": "https://open.spotify.com/artist/5gumadhR2oUOnFkZsiV5W9"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Jutti Kasuri",
+      "url": "https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG"
+    },
+    {
+      "album": {
+        "name": "Jutti Kasuri",
         "url": "https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD"
       },
       "artists": [
@@ -559,6 +595,24 @@
       "duration_ms": 175386,
       "name": "Kala Shah Kala - Original",
       "url": "https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO"
+    },
+    {
+      "album": {
+        "name": "Kale Rang Da Paranda",
+        "url": "https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142642,
+      "name": "Kale Rang Da Paranda",
+      "url": "https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r"
     },
     {
       "album": {
@@ -881,6 +935,28 @@
       "duration_ms": 275368,
       "name": "Tere Jeya Hor Disda",
       "url": "https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj"
+    },
+    {
+      "album": {
+        "name": "Wanga Satrangiyan",
+        "url": "https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI"
+      },
+      "artists": [
+        {
+          "name": "Harbhajan Mann",
+          "url": "https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf"
+        },
+        {
+          "name": "Mannat Noor",
+          "url": "https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Wanga Satrangiyan",
+      "url": "https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5lHBoCtADgQ"

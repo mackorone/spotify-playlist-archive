@@ -1,13 +1,85 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 92293,
+  "num_followers": 95404,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDUyMCwwMDAwMDAyNjAwMDAwMTgwMDc1NjA3MTUwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAyZDAwMDAwMTgxYjdlYzM4OGMwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Guardian Spirits of the Quantum Multiverse",
+        "url": "https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        },
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Action Boyz",
+      "url": "https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Earthguest",
+        "url": "https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR"
+      },
+      "artists": [
+        {
+          "name": "Steroid Puppets",
+          "url": "https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko"
+        },
+        {
+          "name": "Marty Friedman",
+          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+        }
+      ],
+      "duration_ms": 539053,
+      "name": "Earthguest",
+      "url": "https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Midnight Sunset",
+        "url": "https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Varini",
+          "url": "https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz"
+        }
+      ],
+      "duration_ms": 213021,
+      "name": "Midnight Sunset",
+      "url": "https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Pull The Trigger",
+        "url": "https://open.spotify.com/album/11EUokR6Jx7XQAZc9Mo7Pg"
+      },
+      "artists": [
+        {
+          "name": "Sergey Sershen",
+          "url": "https://open.spotify.com/artist/6Bt2KElruZAuMZpdPZlh9W"
+        }
+      ],
+      "duration_ms": 188224,
+      "name": "Pull The Trigger",
+      "url": "https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr"
+    },
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {
@@ -25,6 +97,22 @@
       "url": "https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe"
     },
     {
+      "added_at": "2022-05-27 04:02:00",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb"
+      },
+      "artists": [
+        {
+          "name": "Loida Liuzzi",
+          "url": "https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "What Really Matters",
+      "url": "https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "\u00bfD\u00f3nde est\u00e1 el Jazz?",
@@ -39,6 +127,22 @@
       "duration_ms": 406733,
       "name": "Erzu\u00edn",
       "url": "https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Gravity Man Stage (From \"Mega Man 5)",
+        "url": "https://open.spotify.com/album/4YsjpaftzW2UGnBNkaMmWF"
+      },
+      "artists": [
+        {
+          "name": "Abreu Project",
+          "url": "https://open.spotify.com/artist/1gW0iddMEyFpMTgQ526AcT"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Gravity Man Stage (From \"Mega Man 5)",
+      "url": "https://open.spotify.com/track/1lb7wWArg9Gq1HyzM85P2F"
     },
     {
       "added_at": "2022-04-08 04:02:00",

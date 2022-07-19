@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,640 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,403 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 |
-| 2 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 |
+| 2 | [](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 0:00 |
 | 3 | [Salt hill pt.1](https://open.spotify.com/track/27XkBk6X6o5MSST31awiNA) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/1QvatR5Ff7CDkeyQAgHrwW) | 2:40 |
 | 4 | [Porch Sitting Song](https://open.spotify.com/track/0AWl5zGTaiwcnF0MDOuhOP) | [Solander](https://open.spotify.com/artist/123zs4FVoUcDFM90b4Lxmr) | [Passing Mt\. Satu](https://open.spotify.com/album/0aBwa91hIt6JVPoUqKWaeC) | 2:11 |
-| 5 | [The Girl Plays](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [To Jan](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 3:08 |
+| 5 | [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 |
 | 6 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 7 | [Pianoflikkan](https://open.spotify.com/track/0Ke1joPdykB1v1cRA23eW5) | [Nutid](https://open.spotify.com/artist/1KTiZJD9cYb1DjPLI7Vkji) | [Nutid](https://open.spotify.com/album/0Ci4Q0YiqZCQN1W1H525Vo) | 4:07 |
 | 8 | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g) | 6:56 |
-| 9 | [Waves From a Distance](https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T) | [Martin Skoog](https://open.spotify.com/artist/3yLhat6RGpb8cdE1NLSFrw) | [Waves From a Distance](https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo) | 2:40 |
+| 9 | [](https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo) | 0:00 |
 | 10 | [Flight From The City](https://open.spotify.com/track/5lm4e1vu0J9J4IO55pbfMD) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Orphée](https://open.spotify.com/album/22ohGwoKrvCaZYMmgTGfvR) | 6:31 |
 | 11 | [Ouvertyr 1](https://open.spotify.com/track/6GofKiirAD5kNm9oVeuW8B) | [Mattias Bärjed](https://open.spotify.com/artist/2wmNSrvTLK8giMLw3cUyQN) | [Upp till kamp!](https://open.spotify.com/album/1gvoR0ncyGReRqSAtTEb0D) | 2:37 |
-| 12 | [Despair](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Despair](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 3:14 |
+| 12 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 |
 | 13 | [Iles de la Madeleine](https://open.spotify.com/track/4OVao4I5uLTPeA8j0nYgZo) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Iles de la Madeleine](https://open.spotify.com/album/1kGrNlN1e38Hy6dZEYnAu3) | 2:17 |
 | 14 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 |
 | 15 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 |
 | 16 | [Lilla Kulturbidragsvalsen](https://open.spotify.com/track/53T2w0Gg3Q02rYyHh07m0A) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Mindset](https://open.spotify.com/album/5N4VblrjQ3ANxWJciDL9bv) | 3:27 |
 | 17 | [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 |
-| 18 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 |
+| 18 | [](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 0:00 |
 | 19 | [Vissel](https://open.spotify.com/track/5EdblWf0gHqPPVhjQSLyLT) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/2CVcNGpC318XQN2OreeugJ) | 3:44 |
 | 20 | [Dance Of The Diaper Fairy](https://open.spotify.com/track/3OtMD4JRXo3XjLQDkH61BR) | [Per Störby Jutbring](https://open.spotify.com/artist/5HKQ1eZfmajJNGC12Nj7xB) | [F!](https://open.spotify.com/album/16XLBiTCmMxMzoJn9zFEMW) | 5:05 |
 | 21 | [Intro](https://open.spotify.com/track/2tJ5nxeNIFTNGSqyFvG8Ov) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 2:20 |

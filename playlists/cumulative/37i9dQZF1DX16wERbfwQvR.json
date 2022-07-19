@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Father of the symphony and string quartet, and teacher to both <a href=\"spotify:user:spotify:playlist:1tNvLjwgTtsZH8RlbK6Yib\">Mozart</a> and <a href=\"spotify:user:spotify:playlist:4NPecrxm0zdPCIIzVTHUd9\">Beethoven</a>. This is Haydn.",
+  "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
   "name": "This Is Haydn",
   "published_playlist_ids": [
     "4o6YvR8pyggN9QqkAYzWZO"
@@ -394,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Haydn: Fantasia in C Major, Hob. XVII: 4",
+        "url": "https://open.spotify.com/album/2M4g5w8VVOoVxMrOxfpNXS"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jean-Efflam Bavouzet",
+          "url": "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358933,
+      "name": "Fantasia in C Major, Hob. XVII: 4",
+      "url": "https://open.spotify.com/track/0FACbh0YPxCDWwSGxDydRu"
+    },
+    {
+      "album": {
         "name": "Haydn: Piano Sonatas Nos. 17, 19 and 28 / Arietta Con 12 Variazioni",
         "url": "https://open.spotify.com/album/730rsYNsd5Ok5iJtj478Bc"
       },
@@ -409,7 +431,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 361866,
       "name": "Fantasia in C Major, Hob. XVII:4: Fantasia in C Major (Capriccio), Hob.XVII:4",
       "url": "https://open.spotify.com/track/0QxUouNig8aqWxcgXOrkUJ"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 502000,
       "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": I. Adagio - Allegro",
       "url": "https://open.spotify.com/track/6lvWr4Ji1wXWPUTKO3c5rD"
@@ -1774,7 +1796,7 @@
     },
     {
       "album": {
-        "name": "Haydn: The Seven Last Words of Christ, Hob.XX:2 (Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze, Hob.XX:2)",
+        "name": "Haydn: Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze (The Seven Last Words of Christ on the Cross)",
         "url": "https://open.spotify.com/album/7fcEmjjIqDpDdBhlvMFEWW"
       },
       "artists": [
@@ -1791,8 +1813,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 501533,
-      "name": "The Seven Last Words of Christ, Hob.XX:2: The Seven Last Words of Christ, Hob.XX:2: Sonata II. F\u00fcrwahr, ich sag' es dir. Grave e cantabile",
+      "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
       "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
+    },
+    {
+      "album": {
+        "name": "Haydn: Complete Piano Trios, Vol. 1 - Fischer: one bar wonder",
+        "url": "https://open.spotify.com/album/4lA4fApKQ011SDnbe6RaGi"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Trio Gaspard",
+          "url": "https://open.spotify.com/artist/0uq8O8713svA6zUJC982Vs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): II. Adagio",
+      "url": "https://open.spotify.com/track/5E1yYKKZIyVlsVpxyUH6EC"
     },
     {
       "album": {

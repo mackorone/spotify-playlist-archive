@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Indian women, at full volume. Cover: Akasa ",
+  "description": "Listen to Indian women, at full volume. Cover: Raashi Sood & Raja Kumari.",
   "name": "EQUAL India",
   "published_playlist_ids": [
     "3rqRWyNJwvt55VCcOLZ5lE"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 295489,
       "name": "Ab Na Jaunga",
       "url": "https://open.spotify.com/track/65mdUx7JkoFHPdfJGJbR2i"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 207073,
       "name": "Bol Kaffara Kya Hoga - Dj Chetas",
       "url": "https://open.spotify.com/track/7r7PJJSvVPCAQK4h0vc7xT"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 219686,
       "name": "Doobey (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
@@ -651,6 +651,24 @@
       "duration_ms": 183528,
       "name": "Dooriyan",
       "url": "https://open.spotify.com/track/0MkiFdqyxCy38AVfk9f8N5"
+    },
+    {
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/34PiZyEGOyoXAe0HE1N2al"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7MOXP0ZdRqWUTYz44BpsHY"
     },
     {
       "album": {
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 179032,
       "name": "Gehraiyaan Title Track (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/3vBojOn8Nz8gMQmIBeN00M"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 218478,
       "name": "Kabhii Tumhhe - Female Version",
       "url": "https://open.spotify.com/track/330joCgJHJGHFLOgJCvNEM"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 207428,
       "name": "Main Sherni (From Sherni)",
       "url": "https://open.spotify.com/track/63dwHBbNAbxQX5wm3bSo8V"
@@ -1477,10 +1495,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 225956,
       "name": "Marjaawaan",
       "url": "https://open.spotify.com/track/2uBlWwG0P6cUOUBiZhPmBM"
+    },
+    {
+      "album": {
+        "name": "KGF Chapter 2",
+        "url": "https://open.spotify.com/album/2NgI9PKY8KxRp5az0NxlQU"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Mehabooba",
+      "url": "https://open.spotify.com/track/3P3mOcFeu7OYcsZEZSUiLl"
     },
     {
       "album": {
@@ -1543,7 +1579,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 193355,
       "name": "Mere Sohneya",
       "url": "https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj"
@@ -1569,6 +1605,28 @@
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
+    },
+    {
+      "album": {
+        "name": "Mitra Re (From \"Runway 34\")",
+        "url": "https://open.spotify.com/album/5EHxqOSbp0XjSQDq8MfRXH"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221936,
+      "name": "Mitra Re - From \"Runway 34\"",
+      "url": "https://open.spotify.com/track/4SmMVj2SnYXPA2M9LhtCnO"
     },
     {
       "album": {
@@ -1657,7 +1715,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 162105,
       "name": "NAARI",
       "url": "https://open.spotify.com/track/17ZybFq8o25YYB3Vawxbpy"
@@ -1705,7 +1763,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 293594,
       "name": "Narazgi",
       "url": "https://open.spotify.com/track/2cQWIUStEam8XUu3qZlNye"
@@ -1757,7 +1815,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 191089,
       "name": "O Saki Saki",
       "url": "https://open.spotify.com/track/1K8zYNuDywMknSJuNGoWy0"
@@ -1797,6 +1855,28 @@
       "duration_ms": 187837,
       "name": "Oot Patangi",
       "url": "https://open.spotify.com/track/3MFeWkN6J07QTwwIHWTBYC"
+    },
+    {
+      "album": {
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM"
+      },
+      "artists": [
+        {
+          "name": "Raashi Sood",
+          "url": "https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN"
     },
     {
       "album": {
@@ -2135,7 +2215,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 160980,
       "name": "Saadi Yaad",
       "url": "https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt"
@@ -2337,6 +2417,24 @@
       "duration_ms": 247048,
       "name": "Tenu Lehenga (From \"Satyameva Jayate 2\")",
       "url": "https://open.spotify.com/track/2FlkFn2YRzTQ13Fu2tfHb0"
+    },
+    {
+      "album": {
+        "name": "Tere Piche Piche",
+        "url": "https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172758,
+      "name": "Tere Piche Piche",
+      "url": "https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv"
     },
     {
       "album": {

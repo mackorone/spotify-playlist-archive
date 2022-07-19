@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Lagi",
+        "url": "https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256410,
+      "name": "Lagi",
+      "url": "https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8"
+    },
+    {
+      "album": {
         "name": "Ligaya",
         "url": "https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH"
       },
@@ -1321,6 +1339,24 @@
       "duration_ms": 312966,
       "name": "To Pick a Lock",
       "url": "https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8"
+    },
+    {
+      "album": {
+        "name": "Tumitigil Ang Mundo",
+        "url": "https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247670,
+      "name": "Tumitigil Ang Mundo",
+      "url": "https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk"
     },
     {
       "album": {

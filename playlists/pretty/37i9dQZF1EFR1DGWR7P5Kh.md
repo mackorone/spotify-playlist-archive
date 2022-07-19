@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 ### [Written By Kaydence ](https://open.spotify.com/playlist/37i9dQZF1EFR1DGWR7P5Kh)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6U4NLpJSiOtRzGLs9R3IZQ">Kaydence </a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6U4NLpJSiOtRzGLs9R3IZQ">Kaydence </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 698 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 14 | [Lucid Dreams](https://open.spotify.com/track/3TxvjfiCEb27MXPXGAW8JZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:41 |
 | 15 | [To The People I Hurt](https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Midwest Kids Can Make It Big](https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X) | 3:23 |
 | 16 | [My Way \(feat\. Common, Lloyd & Kendrick Lamar\)](https://open.spotify.com/track/1MiOERiZEithQZt3SviVPl) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Quality Street Music](https://open.spotify.com/album/7dRun7qvnfPxrC41bgI0WH) | 3:38 |
-| 17 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 |
-| 18 | [Morning mood](https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:58 |
+| 17 | [Morning mood](https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:58 |
+| 18 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 |
 | 19 | [Beautiful](https://open.spotify.com/track/3SylZsUCrHAlag6Q4BmYD7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 4:10 |
 | 20 | [Lonely](https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Lonely](https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE) | 2:38 |
 | 21 | [All My Life \- Pt\. 1](https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 29 | [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 |
 | 30 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `Mjc1MjIyMzEsMDAwMDAwMDAyNGE2M2Y4NGJjOGVhZWViMTA2ZDNhNmMwNjI3NmE2YQ==`
+Snapshot ID: `Mjc2MzY1NDksMDAwMDAwMDAzZGQzZTNjOTFhMjgxODRkYzNmYzhhYmU3NmFiZWYxNg==`

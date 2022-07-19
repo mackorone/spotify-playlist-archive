@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-01",
   "description": "Classici Ya Habibi! This is why Tata always says, \"fish ba'ed ayam zamaan.\"",
   "name": "Arabic Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3fuIq8WUILdNuM1mhTgx6c"
+  ],
   "tracks": [
     {
       "album": {
@@ -492,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Abd El Halim Hafez",
+        "url": "https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh"
+      },
+      "artists": [
+        {
+          "name": "Abdel Halim Hafez",
+          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420872,
+      "name": "Khosara",
+      "url": "https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w"
+    },
+    {
+      "album": {
         "name": "Fairuz - Modern Favorites",
         "url": "https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO"
       },
@@ -611,7 +631,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 389080,
       "name": "Rah Holmak Ya Teir",
       "url": "https://open.spotify.com/track/3GMKUo0YBF4rFWrMaQ7rHd"

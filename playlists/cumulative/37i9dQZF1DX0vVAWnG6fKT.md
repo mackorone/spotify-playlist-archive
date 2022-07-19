@@ -2,9 +2,9 @@
 
 ### [40s Country](https://open.spotify.com/playlist/37i9dQZF1DX0vVAWnG6fKT)
 
-> Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Maybelle Carter, Gene Autry, Merle Travis
+> Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-70 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6ngukquRtVxTVqJcxVPRbM)
+72 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6ngukquRtVxTVqJcxVPRbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 | 2021-05-07 |  |
 | [Cherokee Maiden](https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:53 | 2021-05-07 |  |
 | [Cold, Cold Heart \- Single Version](https://open.spotify.com/track/2ony3EiDrCcaeqciqJ5TmI) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2](https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh) | 2:43 | 2021-05-07 |  |
-| [Columbus Stockade Blues](https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Nobody's Darlin' but Mine](https://open.spotify.com/album/7B2laG1q8xu5H0V6whC3nb) | 2:45 | 2021-05-07 |  |
+| [Columbus Stockade Blues](https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Nobody's Darlin' but Mine](https://open.spotify.com/album/7B2laG1q8xu5H0V6whC3nb) | 2:45 | 2021-05-07 | 2022-07-19 |
 | [Cool Water](https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:09 | 2021-05-07 |  |
 | [Cotton Eyed Joe \- Single Version](https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Columbia Historic Edition](https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL) | 2:37 | 2021-05-07 |  |
 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 | 2021-05-07 |  |
@@ -55,6 +55,7 @@
 | [Room Full of Roses](https://open.spotify.com/track/2cBvzEpULwlad4RaXbcIiw) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Late Great \- 14 Greatest Hits](https://open.spotify.com/album/3ADMy0SgWASJ7tRcWimwl1) | 2:33 | 2021-05-07 |  |
 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 | 2021-05-07 |  |
 | [Sixteen Tons](https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:57 | 2021-05-07 |  |
+| [Slippin' Around](https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [The Complete Capitol Hits Of Margaret Whiting](https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm) | 2:11 | 2022-06-08 |  |
 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 | 2021-05-07 |  |
 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/7nskxCYXAwoKiJkZzUMcJo) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke! Smoke! Smoke!](https://open.spotify.com/album/2MOnT0IZ4U7FoDCGdK1WVs) | 2:43 | 2021-05-07 |  |
 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 | 2021-05-07 |  |
@@ -75,8 +76,9 @@
 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 | 2021-05-07 |  |
 | [Walking The Floor Over You \- 1941 Edit](https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective, Vol\. 1](https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd) | 2:39 | 2021-05-07 |  |
 | [Wildwood Flower](https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:15 | 2021-05-07 |  |
-| [Wine, Women and Song](https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best of Al Dexter](https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3) | 2:49 | 2021-05-07 |  |
+| [Wine, Women and Song](https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Pistol Packin' Mama \- The Best of Al Dexter](https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3) | 2:49 | 2021-05-07 | 2022-07-19 |
 | [Worried Mind](https://open.spotify.com/track/3RmaBKQtO5QVPsPUVDwv3P) | [Roy Acuff & His Smoky Mountain Boys](https://open.spotify.com/artist/6bagacZmgSfuW3vShtm0Js) | [The Collection '36\-'59](https://open.spotify.com/album/1jqG8AduwUDm6uwTHqrE3v) | 2:51 | 2021-05-07 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/3BRPsh9GaOw5MaZvy5k8bQ) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Top 100 Classics \- The Very Best of Jimmie Davis](https://open.spotify.com/album/3L0A6w2snQVbNPsbKMh5u4) | 2:48 | 2021-05-07 |  |
+| [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 | 2022-06-08 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

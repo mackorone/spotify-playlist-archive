@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6EE3Q2XDesdujjVrMyzlAy"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/230wJHD5YU7cSDWjyWWcoD"
+    },
+    {
+      "album": {
         "name": "(Everything I Do) I Do It For You",
         "url": "https://open.spotify.com/album/5oq7oMjjqjsOHXu8Je83x8"
       },
@@ -44,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A-Hunting We Will Go",
+        "url": "https://open.spotify.com/album/3F79BhgZBdN6WfmQM1W820"
+      },
+      "artists": [
+        {
+          "name": "David Finnegan",
+          "url": "https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109974,
+      "name": "1, 2, 3, 4, 5, Once I Caught a Fish Alive",
+      "url": "https://open.spotify.com/track/304VnBrjePUFAF6oerMU2w"
+    },
+    {
+      "album": {
         "name": "A Bedtime Smile",
         "url": "https://open.spotify.com/album/7jArIkZyJHSZqzN0nvt4Di"
       },
@@ -77,6 +113,24 @@
       "duration_ms": 78750,
       "name": "A Bit Of Shut-Eye",
       "url": "https://open.spotify.com/track/6VAt5S6KuCduO0u2dCFTgZ"
+    },
+    {
+      "album": {
+        "name": "ABC Song",
+        "url": "https://open.spotify.com/album/4JYjvfOexuAP8S5pejJ4eL"
+      },
+      "artists": [
+        {
+          "name": "Casey Holmes",
+          "url": "https://open.spotify.com/artist/4o8mpGNWBNcFHJMCACYXET"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75729,
+      "name": "A Dream Is A Wish Your Heart Makes",
+      "url": "https://open.spotify.com/track/6wskSlae2891UsOTIjgeLs"
     },
     {
       "album": {
@@ -127,7 +181,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 201904,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/26NXCzb29HkIBQ0JVdTpkH"
@@ -224,6 +278,24 @@
     },
     {
       "album": {
+        "name": "A-Hunting We Will Go",
+        "url": "https://open.spotify.com/album/3F79BhgZBdN6WfmQM1W820"
+      },
+      "artists": [
+        {
+          "name": "David Finnegan",
+          "url": "https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105680,
+      "name": "A-Hunting We Will Go",
+      "url": "https://open.spotify.com/track/3hLc4ab4KT4m4gvattLKBL"
+    },
+    {
+      "album": {
         "name": "ABC Lullaby",
         "url": "https://open.spotify.com/album/5Ml3nqKjHCZRzxGBT8B6R8"
       },
@@ -239,6 +311,24 @@
       "duration_ms": 68347,
       "name": "ABC Lullaby",
       "url": "https://open.spotify.com/track/1CMkyoCGz83jr1GO3jgWmE"
+    },
+    {
+      "album": {
+        "name": "ABC Song",
+        "url": "https://open.spotify.com/album/4JYjvfOexuAP8S5pejJ4eL"
+      },
+      "artists": [
+        {
+          "name": "Casey Holmes",
+          "url": "https://open.spotify.com/artist/4o8mpGNWBNcFHJMCACYXET"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88701,
+      "name": "ABC Song",
+      "url": "https://open.spotify.com/track/1GF9KuIcTxlN255MKH7laK"
     },
     {
       "album": {
@@ -415,10 +505,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 131755,
       "name": "Arrorro Mi Ni\u00f1o",
       "url": "https://open.spotify.com/track/5sNUfy6uHSd8VApNQIEDja"
+    },
+    {
+      "album": {
+        "name": "As Sweet As Your Smile",
+        "url": "https://open.spotify.com/album/3RGK9b3lVJKKvvfFtPSmtw"
+      },
+      "artists": [
+        {
+          "name": "Tianna Dorsey",
+          "url": "https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88041,
+      "name": "As Sweet As Your Smile",
+      "url": "https://open.spotify.com/track/4fcnqtnRSfV2YkYrEHHNbV"
     },
     {
       "album": {
@@ -512,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Camptown Races",
+        "url": "https://open.spotify.com/album/1fC2JLhUcyVOWSJrexxD8L"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Saylor",
+          "url": "https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97247,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/0P9Rp4qsr2jsgHjMTp8x3m"
+    },
+    {
+      "album": {
         "name": "A Bedtime Smile",
         "url": "https://open.spotify.com/album/7jArIkZyJHSZqzN0nvt4Di"
       },
@@ -541,7 +667,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 143000,
       "name": "Bartram's Garden",
       "url": "https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3"
@@ -563,24 +689,6 @@
       "duration_ms": 88000,
       "name": "Bathtub Bubbles",
       "url": "https://open.spotify.com/track/1S6J09BrtlBvNrVrsCcetX"
-    },
-    {
-      "album": {
-        "name": "Becoming Aware",
-        "url": "https://open.spotify.com/album/6EE3Q2XDesdujjVrMyzlAy"
-      },
-      "artists": [
-        {
-          "name": "Ari Naman",
-          "url": "https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch"
-        }
-      ],
-      "date_added": "2022-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 96833,
-      "name": "Becoming Aware",
-      "url": "https://open.spotify.com/track/230wJHD5YU7cSDWjyWWcoD"
     },
     {
       "album": {
@@ -779,6 +887,24 @@
       "duration_ms": 82702,
       "name": "Bill the Fox",
       "url": "https://open.spotify.com/track/7h78CM43KEjbHXU8uHXCjP"
+    },
+    {
+      "album": {
+        "name": "Are You Sleeping?",
+        "url": "https://open.spotify.com/album/4ZEclSmnKvxIzMBxEepeCt"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107753,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/5if4GDGhivH8IDwVR1OJ2A"
     },
     {
       "album": {
@@ -1211,6 +1337,24 @@
       "duration_ms": 108674,
       "name": "Cutie Pie",
       "url": "https://open.spotify.com/track/50E2d2pu7NIDIKOiYV6dIE"
+    },
+    {
+      "album": {
+        "name": "C\u00e1ntame para dormir",
+        "url": "https://open.spotify.com/album/0m46aqOEdO2FqdzC2DfDHF"
+      },
+      "artists": [
+        {
+          "name": "Nan\u00e1 Ochoa",
+          "url": "https://open.spotify.com/artist/42JZDHOnPgiWq1W1dDSCC1"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124374,
+      "name": "C\u00e1ntame para dormir",
+      "url": "https://open.spotify.com/track/1LLlGjXhZmkstNletWMMai"
     },
     {
       "album": {
@@ -1729,7 +1873,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 116972,
       "name": "Esta ni\u00f1a linda (This Beautiful Girl)",
       "url": "https://open.spotify.com/track/0ur36CooD9fPUTsHrsx1xI"
@@ -2456,6 +2600,24 @@
     },
     {
       "album": {
+        "name": "All the Pretty Little Horses",
+        "url": "https://open.spotify.com/album/0NcfeypM03bruqV4o5ENYb"
+      },
+      "artists": [
+        {
+          "name": "Holly Holiday",
+          "url": "https://open.spotify.com/artist/7zuuBpzz0Y0GmcgCGP4UJe"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96269,
+      "name": "He's Got The Whole World In His Hands",
+      "url": "https://open.spotify.com/track/1yORtm7rFuXQwQEA8kFIxr"
+    },
+    {
+      "album": {
         "name": "Head Shoulders Knees And Toes",
         "url": "https://open.spotify.com/album/0tghhD3fSxuZwtplbZoMKg"
       },
@@ -2467,10 +2629,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-09",
       "duration_ms": 111130,
       "name": "Head Shoulders Knees And Toes",
       "url": "https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3"
+    },
+    {
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/0KPYZtsNHup7cSxDfbgnAG"
+      },
+      "artists": [
+        {
+          "name": "Little Sugar Piano",
+          "url": "https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111042,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/3Oj7B6ZCSa5TMu7tvXS0En"
     },
     {
       "album": {
@@ -2489,6 +2669,24 @@
       "duration_ms": 91000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai"
+    },
+    {
+      "album": {
+        "name": "Humpty Dumpty",
+        "url": "https://open.spotify.com/album/2ZyOawyfUZIh4CLud2qcnx"
+      },
+      "artists": [
+        {
+          "name": "Grant Littleton",
+          "url": "https://open.spotify.com/artist/3E3lYC2lzd6qqvKet09ZkA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101176,
+      "name": "Hey Diddle Diddle",
+      "url": "https://open.spotify.com/track/60SZfskdGikre1zIj1Gv0v"
     },
     {
       "album": {
@@ -2546,6 +2744,24 @@
     },
     {
       "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/0KPYZtsNHup7cSxDfbgnAG"
+      },
+      "artists": [
+        {
+          "name": "Little Sugar Piano",
+          "url": "https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172689,
+      "name": "Home On The Range",
+      "url": "https://open.spotify.com/track/3tWEhxmRQ0fs4fxCfNqP3n"
+    },
+    {
+      "album": {
         "name": "How Big I Can Be",
         "url": "https://open.spotify.com/album/0wvBnlYgEEiMuiwlGmUlJA"
       },
@@ -2579,6 +2795,24 @@
       "duration_ms": 125500,
       "name": "How Lucky I Am",
       "url": "https://open.spotify.com/track/40FNjB66GuQn0X9amaFg3c"
+    },
+    {
+      "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/46effNjzUb6VxwqnP16qHY"
+      },
+      "artists": [
+        {
+          "name": "Tom Tilly",
+          "url": "https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154141,
+      "name": "How Much Is That Doggie In the Window",
+      "url": "https://open.spotify.com/track/38kmnBV7MrayOE59u6wozY"
     },
     {
       "album": {
@@ -2726,6 +2960,42 @@
     },
     {
       "album": {
+        "name": "London Bridge Is Falling Down",
+        "url": "https://open.spotify.com/album/3Oh0JwjTmPw6bCKPi1jRoM"
+      },
+      "artists": [
+        {
+          "name": "Piers Lancaster",
+          "url": "https://open.spotify.com/artist/5JTYz3CN60YGOCeXTEgTyY"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107435,
+      "name": "I'm A Little Teapot",
+      "url": "https://open.spotify.com/track/06RzCGm2cRB45iAa23ib7L"
+    },
+    {
+      "album": {
+        "name": "It's A Small World",
+        "url": "https://open.spotify.com/album/1vAScbdQXRQhlFC3CkuEAa"
+      },
+      "artists": [
+        {
+          "name": "Tom Tilly",
+          "url": "https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114845,
+      "name": "I've Been Working on the Railroad",
+      "url": "https://open.spotify.com/track/6wlpTaF5bRxakJUJTLDpVa"
+    },
+    {
+      "album": {
         "name": "Ich Liebe Dich So, Wie Du Bist",
         "url": "https://open.spotify.com/album/4mplyEdIBo02nODsgxcXiJ"
       },
@@ -2813,6 +3083,24 @@
       "duration_ms": 95750,
       "name": "If I Were a Dog",
       "url": "https://open.spotify.com/track/3bWsLKRPFXwbfQmRnDqF4g"
+    },
+    {
+      "album": {
+        "name": "Little Bo Peep",
+        "url": "https://open.spotify.com/album/0qDcaFEYGe4WzuA789eLEp"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128457,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/7LqCdOqBD8gCwtrsGZ5mUa"
     },
     {
       "album": {
@@ -3338,6 +3626,24 @@
     },
     {
       "album": {
+        "name": "Little Pumpkin",
+        "url": "https://open.spotify.com/album/3ajzh5uRcgyStZwfsQHtwI"
+      },
+      "artists": [
+        {
+          "name": "Rio Harris",
+          "url": "https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95855,
+      "name": "Little Pumpkin",
+      "url": "https://open.spotify.com/track/3iGlQlJgDCtFmRjkJXlQ3L"
+    },
+    {
+      "album": {
         "name": "Little Sweetheart",
         "url": "https://open.spotify.com/album/3nCtIf8Zrvt9BwdHrUAKA8"
       },
@@ -3446,6 +3752,24 @@
     },
     {
       "album": {
+        "name": "Lull You To Sleep",
+        "url": "https://open.spotify.com/album/3TcJqZarOKALApOK41NR7A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/6OE5cqMEpVemAzsvpPKJuV"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133624,
+      "name": "Lull You To Sleep",
+      "url": "https://open.spotify.com/track/3bwCTXHTSji3bvxsVDbvDB"
+    },
+    {
+      "album": {
         "name": "Lullaby in D",
         "url": "https://open.spotify.com/album/3EIrMcEqj6wLdAz16W64s5"
       },
@@ -3479,6 +3803,24 @@
       "duration_ms": 89000,
       "name": "Lullaby Love",
       "url": "https://open.spotify.com/track/3RcDTeLsEuqAzhv5lntOWy"
+    },
+    {
+      "album": {
+        "name": "Majas Visa",
+        "url": "https://open.spotify.com/album/1ZWJw1dwF8uCyCP2pvtogb"
+      },
+      "artists": [
+        {
+          "name": "Nova Gr\u00f6ndahl",
+          "url": "https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101896,
+      "name": "Majas Visa",
+      "url": "https://open.spotify.com/track/3eDlssNK4eJwXpgsG1HSZZ"
     },
     {
       "album": {
@@ -3691,7 +4033,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 99967,
       "name": "Moonchild",
       "url": "https://open.spotify.com/track/5qDQXVallv4MJCdQoq1Yfh"
@@ -3745,7 +4087,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 97250,
       "name": "Mo\u0301j Anio\u0142",
       "url": "https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl"
@@ -4177,7 +4519,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 166000,
       "name": "O Mio Bambino Caro",
       "url": "https://open.spotify.com/track/50SWjq7hM9mHBI1sw3Ffzm"
@@ -4199,6 +4541,24 @@
       "duration_ms": 113874,
       "name": "Ocean Lullaby",
       "url": "https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU"
+    },
+    {
+      "album": {
+        "name": "Oh Dear! What Can the Matter Be?",
+        "url": "https://open.spotify.com/album/0peN7BB75NgNr1AOZP2Gmj"
+      },
+      "artists": [
+        {
+          "name": "Rita James",
+          "url": "https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108372,
+      "name": "Oh Dear! What Can the Matter Be?",
+      "url": "https://open.spotify.com/track/3Ozjemz1YafnKgcjE0WWLL"
     },
     {
       "album": {
@@ -5009,6 +5369,24 @@
       "duration_ms": 105500,
       "name": "Sleepyness",
       "url": "https://open.spotify.com/track/57ju3Dy5ra70fUQKYMJLEZ"
+    },
+    {
+      "album": {
+        "name": "Sleepyness",
+        "url": "https://open.spotify.com/album/0uqbHNasZC4ZnqwYnv6TJ4"
+      },
+      "artists": [
+        {
+          "name": "Stephani Scotty",
+          "url": "https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111765,
+      "name": "Sleepyness",
+      "url": "https://open.spotify.com/track/4AtkK1OH5jMYRYp09dPzEL"
     },
     {
       "album": {
@@ -6103,7 +6481,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 126298,
       "name": "Trollmors Vaggs\u00e5ng - Piano",
       "url": "https://open.spotify.com/track/77oAnJxULpRRHI3AoidibZ"
@@ -6665,6 +7043,24 @@
       "duration_ms": 83478,
       "name": "Your Dreams",
       "url": "https://open.spotify.com/track/4ofrtW6Nkb7qUxyhwp67kq"
+    },
+    {
+      "album": {
+        "name": "Your Time",
+        "url": "https://open.spotify.com/album/27w6TbNoHhZS0q2IjOvn5D"
+      },
+      "artists": [
+        {
+          "name": "Leonard Atwood",
+          "url": "https://open.spotify.com/artist/7E6yGmVegQV7LbtEPY6ozl"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110270,
+      "name": "Your Time",
+      "url": "https://open.spotify.com/track/2dzHjLvkrWQzG5XH6flD32"
     },
     {
       "album": {

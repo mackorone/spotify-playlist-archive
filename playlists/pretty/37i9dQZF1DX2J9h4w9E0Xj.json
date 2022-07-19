@@ -1,0 +1,826 @@
+{
+  "description": "The best new rock on the rise. Cover: The Linda Lindas",
+  "num_followers": 66087,
+  "original_name": "Rock Rising",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0ODE0MzQzMCwwMDAwMDAxNzAwMDAwMTdmYmQwMGYzY2MwMDAwMDE3ZmJjZjk4YmU3",
+  "tracks": [
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "-!-",
+        "url": "https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": ".intoodeep.",
+      "url": "https://open.spotify.com/track/5QhNhUBkNtz9f6NQLrv5A8"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 226492,
+      "name": "Heavy Heart - Edit",
+      "url": "https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "SENSITIVE",
+        "url": "https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 135583,
+      "name": "SENSITIVE",
+      "url": "https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/0GrNWYEjMvterOotBAbkNa"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 179852,
+      "name": "I Hope You're Happy",
+      "url": "https://open.spotify.com/track/0R8clsMFyCYRN7iYRKTiuE"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "F*CKBOI REJECTS",
+        "url": "https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 127339,
+      "name": "FUCKBOI REJECTS",
+      "url": "https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "PORN ACTING*",
+        "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 172346,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 159617,
+      "name": "debbie downer",
+      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "AFTER THERAPY (feat. Hot Mulligan)",
+        "url": "https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Extra Large Holiday Card",
+          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
+        }
+      ],
+      "duration_ms": 141352,
+      "name": "AFTER THERAPY (feat. Hot Mulligan)",
+      "url": "https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Mercy Stroke",
+        "url": "https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "duration_ms": 165374,
+      "name": "Mercy Stroke",
+      "url": "https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Destructible",
+        "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 171830,
+      "name": "Destructible",
+      "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "I Can't Drive",
+        "url": "https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 247913,
+      "name": "I Can't Drive",
+      "url": "https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4DGWHq0aKL2IgckAKvAEOk"
+      },
+      "artists": [
+        {
+          "name": "Daisy Brain",
+          "url": "https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1K2YHBBSOIGB7UCK2gLBbI"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Target Practice",
+        "url": "https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 150759,
+      "name": "Target Practice",
+      "url": "https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "FRENCH FRIES",
+        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
+      },
+      "artists": [
+        {
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+        }
+      ],
+      "duration_ms": 215636,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Lava Lamp Pisco",
+        "url": "https://open.spotify.com/album/2Bl7TOVcB1J05tcKqeL3oa"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/2SPQ2AjGncFJ9fEP0TOwn1"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "I.W.G.F.U.",
+        "url": "https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 216976,
+      "name": "I.W.G.F.U.",
+      "url": "https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1"
+      },
+      "artists": [
+        {
+          "name": "psykhi",
+          "url": "https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/3AY7vjgNINaKOGOF00Jwrr"
+      },
+      "artists": [
+        {
+          "name": "Day Aches",
+          "url": "https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H"
+        }
+      ],
+      "duration_ms": 180552,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/7x1RSzh3EmnIgJzqJCQtd3"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "TV or Not TV",
+        "url": "https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "TV or Not TV",
+      "url": "https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "The Therapy Sessions",
+        "url": "https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Therapy 2",
+      "url": "https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/36xB4ZInNxLmRULhGbb317"
+      },
+      "artists": [
+        {
+          "name": "Stare At The Sun",
+          "url": "https://open.spotify.com/artist/2rvPQSpwqCXNxixP6I6BYi"
+        }
+      ],
+      "duration_ms": 238171,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3dBLWlEBq620n79lxFqyQW"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Hearts & Minds",
+        "url": "https://open.spotify.com/album/7dAAkcOthaV2P5hgxvaGvJ"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Hearts & Minds",
+      "url": "https://open.spotify.com/track/41WEPTo5oPvOZGc1grXUQx"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+      },
+      "artists": [
+        {
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+        }
+      ],
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb"
+      },
+      "artists": [
+        {
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
+        }
+      ],
+      "duration_ms": 161714,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "LASSO",
+        "url": "https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "LASSO",
+      "url": "https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "How Does The Story Go?",
+        "url": "https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "How Does The Story Go?",
+      "url": "https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "A Human Reaction",
+        "url": "https://open.spotify.com/album/2xI2LTSOB837dPnPLwXcx4"
+      },
+      "artists": [
+        {
+          "name": "Lazy Queen",
+          "url": "https://open.spotify.com/artist/1U9zqBUEcScanms647YanK"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Bed/Head",
+      "url": "https://open.spotify.com/track/0AahdtLMToYeUa0acVBzvS"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "AHHHH!",
+        "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 144538,
+      "name": "AHHHH!",
+      "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Drive Me Home",
+        "url": "https://open.spotify.com/album/0EHwLpLAugSESONgAX8qAl"
+      },
+      "artists": [
+        {
+          "name": "Orchards",
+          "url": "https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ"
+        }
+      ],
+      "duration_ms": 198140,
+      "name": "Drive Me Home",
+      "url": "https://open.spotify.com/track/3AmBGjKYm9c2unI4HVKhEl"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "the last time i was scared was when you caught me trying to kill you",
+        "url": "https://open.spotify.com/album/2NcnVcvucXCSRBj1XCVsx7"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "duration_ms": 134566,
+      "name": "the last time i was scared was when you caught me trying to kill you",
+      "url": "https://open.spotify.com/track/5FpeWv5FyrZnX7C0Q6ypFl"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "I Just Want That Movie Ending",
+        "url": "https://open.spotify.com/album/4yEcxxvnZKMlST5JJoJEsk"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 270225,
+      "name": "I Just Want That Movie Ending",
+      "url": "https://open.spotify.com/track/32HKAe5mht25LC85aHdvUl"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p"
+      },
+      "artists": [
+        {
+          "name": "Daisy Brain",
+          "url": "https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Charlie's Car",
+        "url": "https://open.spotify.com/album/5nAsDKZKbbrxbeYjqmQgtR"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "Charlie's Car",
+      "url": "https://open.spotify.com/track/0QIwCmAjPIClfPdvHIYeBI"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "added_at": "2022-03-24 17:37:10",
+      "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ"
+      },
+      "artists": [
+        {
+          "name": "The Clockworks",
+          "url": "https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz"
+        }
+      ],
+      "duration_ms": 156854,
+      "name": "Endgame",
+      "url": "https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti"
+    }
+  ],
+  "unique_name": "Rock Rising",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2J9h4w9E0Xj"
+}

@@ -129,19 +129,19 @@
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209400,
-      "name": "Best Part (feat. Daniel Caesar)",
+      "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
     },
     {
@@ -626,6 +626,42 @@
     },
     {
       "album": {
+        "name": "Remembering: Vol. 1",
+        "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226244,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/25D6zIyudIsXSlDMy84d2Z"
+    },
+    {
+      "album": {
+        "name": "Remembering: Vol. 1",
+        "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230978,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/03lF1XDc2Zkv4cXxobsiYP"
+    },
+    {
+      "album": {
         "name": "Hymns for Her",
         "url": "https://open.spotify.com/album/4qVzelNhCSGVGBTARNAG1c"
       },
@@ -995,6 +1031,24 @@
       "duration_ms": 230132,
       "name": "My Love Will Follow You",
       "url": "https://open.spotify.com/track/6qwfJDqZAnJCIcevQLRnuC"
+    },
+    {
+      "album": {
+        "name": "Remembering: Vol. 1",
+        "url": "https://open.spotify.com/album/3MSRh23tgOr8F5DwQV3E6e"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181294,
+      "name": "Nothing Fancy",
+      "url": "https://open.spotify.com/track/4sBgzYKDbtWww4v3pRn1FI"
     },
     {
       "album": {

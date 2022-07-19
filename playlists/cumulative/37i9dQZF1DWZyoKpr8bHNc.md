@@ -4,7 +4,7 @@
 
 > Classici Ya Habibi! This is why Tata always says, "fish ba'ed ayam zamaan."
 
-50 songs - 10 hr 21 min - not published yet
+51 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/3fuIq8WUILdNuM1mhTgx6c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,13 +35,14 @@
 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 | 2020-10-13 |  |
 | [Helwi W Ya Niyalha](https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 3:43 | 2020-10-13 |  |
 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 | 2020-10-13 |  |
+| [Khosara](https://open.spotify.com/track/2sM3SQwxMsIkAtftW7Fl4w) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Abd El Halim Hafez](https://open.spotify.com/album/2wTqfVOxxvqZmLeIgT9cbh) | 7:00 | 2020-10-13 |  |
 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 | 2020-10-13 |  |
 | [La Mosh Ana Ely Abky](https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Agmal Oghneyat Mohamed Abd El Wahab](https://open.spotify.com/album/35GA4JraTNn23ovQjTWgcP) | 9:40 | 2020-10-13 |  |
 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 | 2020-10-13 |  |
 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 | 2020-10-13 |  |
 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 | 2020-10-13 |  |
 | [Ounadikom](https://open.spotify.com/track/5SkF2r40ozsKsA4Ahf0bJc) | [Ahmad Kaabour](https://open.spotify.com/artist/297v5fJss3Pj6tJafnw8yi) | [Ounadikom](https://open.spotify.com/album/7J30KDq7DX8jra38lPKNur) | 4:58 | 2020-10-13 |  |
-| [Rah Holmak Ya Teir](https://open.spotify.com/track/3GMKUo0YBF4rFWrMaQ7rHd) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Wadi El Safi, Vol\. 9](https://open.spotify.com/album/7MdroN5DBbFexfyS1EiJbL) | 6:29 | 2020-10-13 |  |
+| [Rah Holmak Ya Teir](https://open.spotify.com/track/3GMKUo0YBF4rFWrMaQ7rHd) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Wadi El Safi, Vol\. 9](https://open.spotify.com/album/7MdroN5DBbFexfyS1EiJbL) | 6:29 | 2020-10-13 | 2022-07-19 |
 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 | 2020-10-13 |  |
 | [Seret El Hob](https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 39:13 | 2020-10-13 |  |
 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 | 2020-10-13 |  |

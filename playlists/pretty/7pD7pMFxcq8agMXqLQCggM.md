@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7pD7pMFxcq8agMXqLQCggM.md) - [plain]
 
 > New takes on old sounds\. These tracks talk back to their roots in the folk, blues, soul, country, and Americana traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324 likes - 55 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 55 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

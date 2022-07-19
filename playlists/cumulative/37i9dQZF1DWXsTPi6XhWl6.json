@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Wake up with these indie classics",
+  "description": "Brighten your morning with these indie, folk and acoustic sounds.",
   "name": "Wide Awake",
   "published_playlist_ids": [
     "4QEboiTQ5FZpURd879PG5r"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 239733,
       "name": "1904",
       "url": "https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 322173,
       "name": "A Beginning Song",
       "url": "https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-06-15",
       "duration_ms": 267040,
       "name": "Can't You Tell",
       "url": "https://open.spotify.com/track/5nLHqWxOxxaDraUhmVqfSs"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-19",
       "duration_ms": 170866,
       "name": "Die Die Die",
       "url": "https://open.spotify.com/track/1FZKxt9SOFvxKbhjzlBONc"
@@ -189,6 +189,24 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 160410,
+      "name": "Easy Target",
+      "url": "https://open.spotify.com/track/2M1qfEXLOWn0nPJJ20iY5J"
     },
     {
       "album": {
@@ -250,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Five Year Plan",
+        "url": "https://open.spotify.com/album/2WjAuapN0BqnMPyUaKAkZ7"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        },
+        {
+          "name": "Sam Doores",
+          "url": "https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 213533,
+      "name": "Five Year Plan",
+      "url": "https://open.spotify.com/track/42mtQzrzAd3BZjIKzH2FXb"
+    },
+    {
+      "album": {
         "name": "Fool for Love",
         "url": "https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp"
       },
@@ -261,7 +301,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 274706,
       "name": "Fool for Love",
       "url": "https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7"
@@ -297,7 +337,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-07",
       "duration_ms": 189372,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/3NMEeXOpFQ9xuFl5FiNWd5"
@@ -340,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
+    },
+    {
+      "album": {
         "name": "Bhiman",
         "url": "https://open.spotify.com/album/6w7jdudQFBX1OD732FaD85"
       },
@@ -351,10 +409,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 412373,
       "name": "Guttersnipe",
       "url": "https://open.spotify.com/track/6GALUsGgE0iQH6pI3TwfTJ"
+    },
+    {
+      "album": {
+        "name": "Hey Julia",
+        "url": "https://open.spotify.com/album/161llzgJp98MoWom3IJOJp"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 119590,
+      "name": "Hey Julia",
+      "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
     },
     {
       "album": {
@@ -369,7 +445,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
@@ -423,7 +499,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
@@ -513,10 +589,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-06",
       "duration_ms": 201853,
       "name": "I Woke Up Today",
       "url": "https://open.spotify.com/track/4va645L73FmWWMpMGSHcyw"
+    },
+    {
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "I'm Writing a Novel",
+      "url": "https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC"
     },
     {
       "album": {
@@ -567,10 +661,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 223626,
+      "name": "Johnson Song",
+      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
     },
     {
       "album": {
@@ -585,7 +697,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "Just One of the Guys",
       "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
@@ -639,7 +751,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
@@ -657,7 +769,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 331800,
       "name": "Lost Coastlines",
       "url": "https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw"
@@ -747,7 +859,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 234240,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
@@ -765,10 +877,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 183532,
       "name": "Mr. Tillman",
       "url": "https://open.spotify.com/track/6ZcuwgTbYQ7xz5VN9tBhCw"
+    },
+    {
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303973,
+      "name": "My Sweet Midwest",
+      "url": "https://open.spotify.com/track/6KeqLfHNNG9V0Nk2KAbgy4"
     },
     {
       "album": {
@@ -819,10 +949,36 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 145960,
       "name": "Nothing from Nothing",
       "url": "https://open.spotify.com/track/2gdHmwbF3n5X905DBLOJxn"
+    },
+    {
+      "album": {
+        "name": "Nothing No. 1",
+        "url": "https://open.spotify.com/album/6srxOnrouewRU6qafieOTF"
+      },
+      "artists": [
+        {
+          "name": "Skyway Man",
+          "url": "https://open.spotify.com/artist/5QaXPOeFBhSwhLxrmU2ghj"
+        },
+        {
+          "name": "Andy Jenkins",
+          "url": "https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN"
+        },
+        {
+          "name": "Molly Sarl\u00e9",
+          "url": "https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 236186,
+      "name": "Nothing No. 1",
+      "url": "https://open.spotify.com/track/4l9VMZjlMEb6tmlAAPid8m"
     },
     {
       "album": {
@@ -855,7 +1011,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 186586,
       "name": "Our Hearts Are Wrong",
       "url": "https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps"
@@ -891,10 +1047,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/2hFkBGKPx001HO3CQuPG4e"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 187738,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/6BriGq45wGqLitzgM2nhXV"
     },
     {
       "album": {
@@ -927,7 +1101,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 196163,
       "name": "Rambling Man",
       "url": "https://open.spotify.com/track/2FTvxZEiOET0VP6FkVfvXt"
@@ -945,7 +1119,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/6c9t15M38cWxyt3uLnLfD8"
@@ -981,7 +1155,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": "2022-06-27",
       "duration_ms": 327760,
       "name": "Show Me Something Higher",
       "url": "https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB"
@@ -1021,7 +1195,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-06",
       "duration_ms": 370200,
       "name": "Song For Zula",
       "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
@@ -1046,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "Stronger Than That",
+      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+    },
+    {
+      "album": {
         "name": "I'll Be Your Girl",
         "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
       },
@@ -1057,10 +1249,36 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 208960,
       "name": "Sucker's Prayer",
       "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        },
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299719,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
     },
     {
       "album": {
@@ -1075,7 +1293,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": "2022-07-17",
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/2N2gukfZet8Oe4aYR5Apd6"
@@ -1129,7 +1347,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 187053,
       "name": "The General Specific",
       "url": "https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX"
@@ -1176,6 +1394,46 @@
     },
     {
       "album": {
+        "name": "Sing Into My Mouth",
+        "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212486,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
+    },
+    {
+      "album": {
+        "name": "Through The Echoes / Lose It",
+        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
+    },
+    {
+      "album": {
         "name": "The Black Dirt Sessions",
         "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
       },
@@ -1187,7 +1445,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
@@ -1205,7 +1463,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 570733,
       "name": "Wakin On A Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
@@ -1277,10 +1535,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-07",
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/6e7TwT8TUE3BHN7aokBKfq"
+    },
+    {
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     },
     {
       "album": {
@@ -1313,7 +1589,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-13",
       "duration_ms": 229760,
       "name": "Younger Years",
       "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"

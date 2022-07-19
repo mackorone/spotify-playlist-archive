@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,839 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,784 likes - 45 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deck the Halls \- Piano Version](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [Annie Leigh](https://open.spotify.com/artist/2jikpvyegE6SNWANdCrvPK) | [Grand Piano Christmas](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 1:22 |
+| 1 | [](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 0:00 |
 | 2 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 |
-| 3 | [Angels We Have Heard on High](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [Amelia van Hootens](https://open.spotify.com/artist/2dxYzyXrxRkUSwbG2ksVI1) | [Holiday Piano EP](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 2:18 |
+| 3 | [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 |
 | 4 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 |
 | 5 | [I'll Be Home For Christmas](https://open.spotify.com/track/5yP4hR7u50mtconpLCYNNe) | [Peter Blitz](https://open.spotify.com/artist/7xDyVoAplSi3NTi27ZSssX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFPYFs2QU4WBwHu7UHxcv) | 2:35 |
-| 6 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [Mila Crowell](https://open.spotify.com/artist/5abWpggjZABRz6VzlVjzyo) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 2:57 |
+| 6 | [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 |
 | 7 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1sq51KAUXYEgP4WzniBu2k) | [Canciones de cuna para bebés](https://open.spotify.com/artist/6Gfi15EDPykTGmyJwlZJyg), [Musica Para Dormir Bebes](https://open.spotify.com/artist/4ykkRDXhReJHr41RrruDKo), [MÚSICA PARA NIÑOS](https://open.spotify.com/artist/1RP6w1culo2vykXGaiYdrQ) | [Musica navideña para bebes: Canciones de cuna de navidad](https://open.spotify.com/album/6oN5vGmcFmFqbtM9FkGUzy) | 2:40 |
 | 8 | [Greensleaves](https://open.spotify.com/track/6UDKYg6iEDCM0JGshKbAi5) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Classical Baby Harp](https://open.spotify.com/album/0SoCLTx3BVF2CddiM8Hr2H) | 1:33 |
 | 9 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 28 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 |
 | 29 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 |
 | 30 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 |
-| 31 | [Christmas Time Is Here](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [Amy Soonyoung](https://open.spotify.com/artist/3PsjPJKC9SjOmEYcHRw5Rd) | [Christmas Time Is Here](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 2:51 |
-| 32 | [Holly Jolly Christmas](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [Leyton Lake](https://open.spotify.com/artist/6eq5DdF14hc1mW6b1zEtHQ) | [Holly Jolly Christmas](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 3:35 |
+| 31 | [](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 0:00 |
+| 32 | [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 |
 | 33 | [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 |
 | 34 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 | 35 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 |

@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/7x8me0TGnOwiYmi2fGVYHt"
+      },
+      "artists": [
+        {
+          "name": "Jenn Cleary",
+          "url": "https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173573,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/72PrEmH6YpeK00WcXAcNAW"
+    },
+    {
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },

@@ -1,0 +1,826 @@
+{
+  "description": "100% Pinoy hits from your favorite artists!",
+  "num_followers": 2225882,
+  "original_name": "OPM Favorites",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY1ODE5NDExNCwwMDAwMDAwMGI1N2I2MDRlMjJlYjk0YjM1MzgzODNiNDNiZmNkMjNi",
+  "tracks": [
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Ikaw Lang",
+        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Ikaw Lang",
+      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Materyal",
+        "url": "https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Nadarang",
+      "url": "https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "I Need You More Today",
+        "url": "https://open.spotify.com/album/4TyVEjoScAou6qVjhXyYfp"
+      },
+      "artists": [
+        {
+          "name": "Caleb Santos",
+          "url": "https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "I Need You More Today",
+      "url": "https://open.spotify.com/track/761frfZtZ8I2g70UsjFfBK"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 291357,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Twelve: Fifty One (International Version)",
+        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
+      },
+      "artists": [
+        {
+          "name": "krissy & ericka",
+          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "12:51",
+      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "AMAKABOGERA",
+        "url": "https://open.spotify.com/album/1Eh38bZzUklsa4jPf0vDex"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "AMAKABOGERA",
+      "url": "https://open.spotify.com/track/0s3blMulBSWhJoA6Cezb6Z"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Beyond Acoustic",
+        "url": "https://open.spotify.com/album/0tH9g6Q7va9BzCY2pAFygZ"
+      },
+      "artists": [
+        {
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Tell Me Where It Hurts",
+      "url": "https://open.spotify.com/track/6mdmVPI2uIR2B2kHRRI8nb"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
+      },
+      "artists": [
+        {
+          "name": "Angeline Quinto",
+          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Bawat Daan",
+        "url": "https://open.spotify.com/album/4acHD3ykZw3DYLcLW1Mqv3"
+      },
+      "artists": [
+        {
+          "name": "Ebe Dancel",
+          "url": "https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Bawat Daan",
+      "url": "https://open.spotify.com/track/0wUSZjJVblGKntOqBSWMdo"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/63qA4ydokzNOFpsaNlsYsC"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Liang",
+          "url": "https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Ngiti",
+      "url": "https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
+      },
+      "artists": [
+        {
+          "name": "Rivermaya",
+          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "214",
+      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Kung Wala Ka",
+        "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "It Might Be You (Theme from Everyday I Love You)",
+        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
+      },
+      "artists": [
+        {
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+        }
+      ],
+      "duration_ms": 252969,
+      "name": "It Might Be You - Theme from Everyday I Love You",
+      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "KLWKN",
+        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
+      },
+      "artists": [
+        {
+          "name": "Music Hero",
+          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
+        }
+      ],
+      "duration_ms": 256572,
+      "name": "KLWKN",
+      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Till My Heartaches End (From \"The Significant Other\")",
+        "url": "https://open.spotify.com/album/6Mt2ypZ8Q48fAdqiVkw1kH"
+      },
+      "artists": [
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "duration_ms": 256923,
+      "name": "Till My Heartaches End - From \"The Significant Other\"",
+      "url": "https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Christian Bautista",
+        "url": "https://open.spotify.com/album/0qEwvzXNVsPFK7eftFej7Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Bautista",
+          "url": "https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "The Way You Look at Me",
+      "url": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Kiss (Never Let Me Go)",
+        "url": "https://open.spotify.com/album/0tSrGWDVpvBzlD8OWSRmg6"
+      },
+      "artists": [
+        {
+          "name": "Thyro & Yumi",
+          "url": "https://open.spotify.com/artist/0001ZVMPt41Vwzt1zsmuzp"
+        }
+      ],
+      "duration_ms": 259714,
+      "name": "Kiss (Never Let Me Go)",
+      "url": "https://open.spotify.com/track/4r3wYgrJ3Q30ldSk05e6KP"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Nothing's Gonna Stop Us Now (Theme from Crazy Beautiful You) - Single",
+        "url": "https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Padilla",
+          "url": "https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW"
+        },
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Nothing's Gonna Stop Us Now (Theme from Crazy Beautiful You)",
+      "url": "https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Sa Ngalan Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 285138,
+      "name": "Sa Ngalan Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Maybe This Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/453Ok0696evJwrzN4DAa6c"
+      },
+      "artists": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        }
+      ],
+      "duration_ms": 255608,
+      "name": "Maybe This Time",
+      "url": "https://open.spotify.com/track/4wOISjicRMhm89CnvX7zuR"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Loving You Now",
+        "url": "https://open.spotify.com/album/3FAABisVP7phjYvjinEYhs"
+      },
+      "artists": [
+        {
+          "name": "Erik Santos",
+          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "I'll Never Go",
+      "url": "https://open.spotify.com/track/7cOn5x1L5pbM48Y1yVsYb4"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Same Ground",
+      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 277098,
+      "name": "Sana - Single Version",
+      "url": "https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/4xxRoePLdITFIhrzUhmOaQ"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/29xs643Q96uQLD8f7SxYYw"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "When I Met You",
+        "url": "https://open.spotify.com/album/4t3FtECyV1gClHmpBhXSfB"
+      },
+      "artists": [
+        {
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v"
+      },
+      "artists": [
+        {
+          "name": "Eraserheads",
+          "url": "https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp"
+        }
+      ],
+      "duration_ms": 450333,
+      "name": "Ang Huling El Bimbo",
+      "url": "https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Strike Whilst the Iron Is Hot",
+        "url": "https://open.spotify.com/album/0S0yaR1MiuHfyAZPAtChVc"
+      },
+      "artists": [
+        {
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Hanggang Kailan - Umuwi Ka Na Baby",
+      "url": "https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
+      },
+      "artists": [
+        {
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Huling Sayaw",
+      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Nobela",
+        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+      },
+      "artists": [
+        {
+          "name": "Join The Club",
+          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "Nobela",
+      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Ultraelectromagnetic Jam",
+        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        },
+        {
+          "name": "Kelly Badon",
+          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "With a Smile (feat. Kelly Badon)",
+      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Tulad Mo",
+        "url": "https://open.spotify.com/album/4Rl0tuXTg3rfQJyMf2Ufa1"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Tulad Mo",
+      "url": "https://open.spotify.com/track/1YDHJAVkG1Z6mnzu1Orpap"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Sid & Aya (Not A Love Story) [Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/7djBOaRI4ItJ9Q9j1haJ4n"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "duration_ms": 260599,
+      "name": "'Di Na Muli",
+      "url": "https://open.spotify.com/track/2PO6blDCnOFWxudKu0XnmV"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Capacities",
+        "url": "https://open.spotify.com/album/4SjshYHT8OeSHB6zun2Hxx"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        }
+      ],
+      "duration_ms": 222446,
+      "name": "Tadhana",
+      "url": "https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR"
+    }
+  ],
+  "unique_name": "OPM Favorites",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU"
+}

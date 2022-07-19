@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.",
+  "description": "Groove to music from your Netflix Kids favorites, such as The Sea Beast.",
   "name": "Netflix Kids Official Playlist",
   "published_playlist_ids": [
     "4OwNQpd4CKtVZ6h2qFxFa1"
@@ -35,8 +35,8 @@
           "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
         },
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+          "name": "Renee Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
         }
       ],
       "date_added": "2022-04-08",
@@ -175,6 +175,28 @@
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Nell Benjamin",
+          "url": "https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ"
+        },
+        {
+          "name": "Laurence O'Keefe",
+          "url": "https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97546,
+      "name": "Captain Crow - from \"The Sea Beast\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V"
     },
     {
       "album": {
@@ -883,10 +905,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 317976,
       "name": "Music, Music Everywhere!",
       "url": "https://open.spotify.com/track/0Iks9tSmrtVI8kOnMrfmve"
+    },
+    {
+      "album": {
+        "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+        "url": "https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ"
+      },
+      "artists": [
+        {
+          "name": "Kody Kavitha",
+          "url": "https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156506,
+      "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+      "url": "https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7"
     },
     {
       "album": {
@@ -1235,6 +1275,24 @@
       "duration_ms": 174493,
       "name": "The Power Is Ours",
       "url": "https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Mark Mancina",
+          "url": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 143760,
+      "name": "The Sea Beast",
+      "url": "https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t"
     },
     {
       "album": {

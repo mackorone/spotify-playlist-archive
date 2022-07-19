@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6zPl1mbTZSq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6zPl1mbTZSq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6zPl1mbTZSq)
 
-### [This Is Deftones](https://open.spotify.com/playlist/37i9dQZF1DX6zPl1mbTZSq)
+### [This Is Deftones \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX6zPl1mbTZSq)
 
 > The best of Deftones, all in one place.
 

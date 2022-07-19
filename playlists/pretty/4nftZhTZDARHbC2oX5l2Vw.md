@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 505 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 | 36 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/2wnqgQ1gEDeD9QW6i6EqLV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Rhino Hi\-Five: Paula Cole](https://open.spotify.com/album/7ac0j0ZtiRbUb3YWDGock8) | 4:26 |
 | 37 | [Sunny Came Home](https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [A Few Small Repairs](https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8) | 4:24 |
 | 38 | [It's Your Love](https://open.spotify.com/track/0C2Uaka1VGbfAiuiTXpplO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 3:46 |
-| 39 | [Ooh Aah \(Just A Little Bit\) \- Remastered](https://open.spotify.com/track/3WEdk4BoEaQCSpqEA3JKXM) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Amazing Beach Party \- Vol\. 1](https://open.spotify.com/album/21wdI31diHTOfUcl7xk5vn) | 3:31 |
+| 39 | [Ooh Aah \(Just A Little Bit\) \- Remastered](https://open.spotify.com/track/3WEdk4BoEaQCSpqEA3JKXM) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Amazing Beach Party, Vol\. 1](https://open.spotify.com/album/21wdI31diHTOfUcl7xk5vn) | 3:20 |
 | 40 | [Mouth](https://open.spotify.com/track/2uWBgF1sPF8dSiig3ksgXZ) | [Merril Bainbridge](https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0) | [Radio Waves of the '90s: Pop Hits](https://open.spotify.com/album/2na3fS7r06IGua9sGMpCun) | 3:24 |
 | 41 | [All Cried Out \(Re\-recorded / Remastered\)](https://open.spotify.com/track/3Hp3C1RbT32Wco0dFCpz5O) | [Allure](https://open.spotify.com/artist/1VPr8y4GGZJBtWyaoLdYUT) | [All Cried Out](https://open.spotify.com/album/7o1ubRwObxFUusSgvbo5Ff) | 4:48 |
 | 42 | [I'm Still In Love With You](https://open.spotify.com/track/46LEQkbfPT5x2ZanS3STg5) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Home Again](https://open.spotify.com/album/6fRUYwwUOmQbuwe9KujqQG) | 4:39 |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b"
+    },
+    {
+      "album": {
         "name": "A Faint Qualm for the Future",
         "url": "https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv"
       },
@@ -149,6 +167,24 @@
       "duration_ms": 250005,
       "name": "Amor - C.B. Rework",
       "url": "https://open.spotify.com/track/7bUwtVVvPPdlW6Cghagfhn"
+    },
+    {
+      "album": {
+        "name": "amour \u2013 piano",
+        "url": "https://open.spotify.com/album/4phqumUbfsuVx9ZWjne9TP"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305880,
+      "name": "amour \u2013 piano",
+      "url": "https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG"
     },
     {
       "album": {
@@ -536,24 +572,6 @@
     },
     {
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27"
-      },
-      "artists": [
-        {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
-        }
-      ],
-      "date_added": "2021-12-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194000,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b"
-    },
-    {
-      "album": {
         "name": "#001 Coordinate",
         "url": "https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ"
       },
@@ -912,6 +930,28 @@
     },
     {
       "album": {
+        "name": "I Just Love You (Reimagined for Piano)",
+        "url": "https://open.spotify.com/album/6rkLNRx9NTFbXdkFfpoko7"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315949,
+      "name": "I Just Love You (Reimagined for Piano)",
+      "url": "https://open.spotify.com/track/35sddvWKYpfdCnbQ3F7zi9"
+    },
+    {
+      "album": {
         "name": "Correlations (on 11 pianos) - I wanted you to know (on Yamaha Upright, 1981)",
         "url": "https://open.spotify.com/album/0X0pCoI82tq3qy446cmrXm"
       },
@@ -1025,6 +1065,24 @@
       "duration_ms": 218160,
       "name": "Last to Let Go - Daigo Hanada Rework",
       "url": "https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe"
+    },
+    {
+      "album": {
+        "name": "Laura (Piano Vision)",
+        "url": "https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT"
+      },
+      "artists": [
+        {
+          "name": "Stimming x Lambert",
+          "url": "https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111013,
+      "name": "Laura (Piano Vision)",
+      "url": "https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu"
     },
     {
       "album": {
@@ -2089,6 +2147,24 @@
       "duration_ms": 159000,
       "name": "Triptych 1 for Piano",
       "url": "https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl"
+    },
+    {
+      "album": {
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
     },
     {
       "album": {

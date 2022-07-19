@@ -4,10 +4,11 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-233 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+233 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 | 2021-03-12 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-03-12 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2021-03-12 |  |
 | [A Thousand Ways \(Acoustic\)](https://open.spotify.com/track/4laBgbIXVtNbYkRMByKtFn) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [A Thousand Ways \(Acoustic\)](https://open.spotify.com/album/0hqIWEMjY0nVwX3dpsM4u3) | 3:51 | 2021-03-12 |  |
@@ -208,7 +209,6 @@
 | [Thinking Of You \- Acoustic Version](https://open.spotify.com/track/6Xrw10Wcr1PmLXHvJkTxFO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking Of You](https://open.spotify.com/album/10yPrx37K92cz5vrWBR9gA) | 4:51 | 2021-03-12 |  |
 | [This Is What You Came For](https://open.spotify.com/track/7cCQufLFp5xl6wemDaX4sa) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/5E4mw9A80rMwcpyG24kSPk) | 3:24 | 2021-03-12 |  |
 | [This Love \- Acoustic](https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW) | 4:15 | 2021-03-12 |  |
-| [This Moment](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [This Moment](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 2:34 | 2021-03-12 |  |
 | [Thumbs \- Acoustic](https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Thumbs \(Acoustic\)](https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8) | 3:24 | 2021-03-12 |  |
 | [Together \- Acoustic Mix](https://open.spotify.com/track/24IqsPNvTSBZvDSTn17a1O) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Together \(Acoustic Pack\)](https://open.spotify.com/album/4aFk8IccHDPkHq52Dhyiim) | 3:57 | 2021-03-12 |  |
 | [Too Good \- Acoustic](https://open.spotify.com/track/03OnNoSXz2T93JKlE4JCh1) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [DEADTHEACOUSTIC](https://open.spotify.com/album/2bA9q1Cy1t8AHZDteuEij8) | 2:06 | 2021-03-12 |  |

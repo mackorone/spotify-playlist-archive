@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzI27ip7J0.md) - [plain]
 
 > Top of the top hits from Korean Pop Artists! Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,867 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,530 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

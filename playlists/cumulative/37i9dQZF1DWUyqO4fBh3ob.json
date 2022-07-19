@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 182230,
       "name": "Alshaela",
       "url": "https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 136842,
       "name": "El'nayzak",
       "url": "https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 212688,
       "name": "Hakyatik Tarab",
       "url": "https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 204878,
       "name": "Jouwana",
       "url": "https://open.spotify.com/track/57Z2cIxwm4ifUhcDxhA0Cv"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 237871,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t"
@@ -779,6 +779,24 @@
       "duration_ms": 192935,
       "name": "Sallemi",
       "url": "https://open.spotify.com/track/2I6PXRnHtL6G6YDOM4Ljfo"
+    },
+    {
+      "album": {
+        "name": "SAWWAN",
+        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "SAWWAN",
+      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
     },
     {
       "album": {
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 161718,
       "name": "You Make Me Laugh",
       "url": "https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew"

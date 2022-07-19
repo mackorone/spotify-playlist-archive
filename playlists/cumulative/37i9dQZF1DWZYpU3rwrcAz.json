@@ -223,12 +223,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 348333,
-      "name": "Chopin: 24 Preludes Op. 28: No. 15 in D-Flat Major, \"Raindrop\"",
+      "name": "Chopin: 24 Preludes, Op. 28: No. 15 in D-Flat Major \"Raindrop\"",
       "url": "https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx"
     },
     {
       "album": {
-        "name": "Chopin \"journal intime\"",
+        "name": "Chopin: Pi\u00e8ces pour piano",
         "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
       },
       "artists": [
@@ -272,7 +272,7 @@
     },
     {
       "album": {
-        "name": "Chopin \"journal intime\"",
+        "name": "Chopin: Pi\u00e8ces pour piano",
         "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
       },
       "artists": [
@@ -641,7 +641,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129813,
-      "name": "Mazurka No. 43 in G Minor, Op. 67, No. 2",
+      "name": "Mazurka No. 43 in G Minor, Op. 67 No. 2",
       "url": "https://open.spotify.com/track/2kdzG37VTbJRtCSfgqtrLB"
     },
     {
@@ -976,28 +976,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Int\u00e9grale des valses",
-        "url": "https://open.spotify.com/album/5COrc0P5XfGZrbHM2UH6Fy"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180546,
-      "name": "Valse No. 1 en La b\u00e9mol majeur, Op. 69",
-      "url": "https://open.spotify.com/track/2GsXE49M5f126iuAFurXcq"
-    },
-    {
-      "album": {
         "name": "Chopin: Waltzes, etc.",
         "url": "https://open.spotify.com/album/41S7roh2KH78FqcrAvlv2U"
       },
@@ -1017,6 +995,28 @@
       "duration_ms": 132666,
       "name": "Waltz No.19 in A minor, Op.posth.",
       "url": "https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI"
+    },
+    {
+      "album": {
+        "name": "Chopin: Int\u00e9grale des valses",
+        "url": "https://open.spotify.com/album/5COrc0P5XfGZrbHM2UH6Fy"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "Waltzes, Op. 69, B. 35: No. 1 in A-Flat Major, \"L'adieu\". Lento",
+      "url": "https://open.spotify.com/track/2GsXE49M5f126iuAFurXcq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZYpU3rwrcAz"

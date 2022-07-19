@@ -1,404 +1,472 @@
 {
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Jason Benoit",
-  "num_followers": 33181,
+  "description": "A free space for Indigenous creators in Canada. Currently curated by Boslen",
+  "num_followers": 34631,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2NzU1NCwwMDAwMDAwMDhkMGI5NGM0MWVlODc3MGY0NjQ4ODY2ZGZmNjBkZjJh",
+  "snapshot_id": "MTY1ODE5MzU5MywwMDAwMDAwMDI5OGIyNGVhNTRiYjdmYTllNGY1NWJmZWNlODgxNDQ0",
   "tracks": [
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Wolastoqiyik Lintuwakonawa",
-        "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
       },
       "artists": [
         {
-          "name": "Jeremy Dutcher",
-          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 129873,
-      "name": "Nipuwoltin",
-      "url": "https://open.spotify.com/track/6A4Gcb1sc1r2FTgnOljhUF"
+      "duration_ms": 166238,
+      "name": "GONE",
+      "url": "https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/4PTQWYSq2Qu61CJr1LAUF2"
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
       },
       "artists": [
         {
-          "name": "The Jerry Cans",
-          "url": "https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "Swell (My Brother)",
-      "url": "https://open.spotify.com/track/4Dht9fJEqWb4FTKcGxt8me"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "The Next Chapter",
-        "url": "https://open.spotify.com/album/5IKhrRE1vYLEMBaKzCKIxt"
-      },
-      "artists": [
-        {
-          "name": "Don Amero",
-          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
-        }
-      ],
-      "duration_ms": 99671,
-      "name": "On Down The Road",
-      "url": "https://open.spotify.com/track/2QOcEOw3ZHirscb3Fc2AVv"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
-      },
-      "artists": [
-        {
-          "name": "Gordon Dick",
-          "url": "https://open.spotify.com/artist/5TgnDLzzryrV5D3xiXgEFH"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Siwash Rock",
-      "url": "https://open.spotify.com/track/52ifCChX6KmZi6AvtjKK19"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "It's My Way",
-        "url": "https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Devil in a Bottle",
-        "url": "https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc"
-      },
-      "artists": [
-        {
-          "name": "Jason Benoit",
-          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
-        }
-      ],
-      "duration_ms": 227334,
-      "name": "Devil in a Bottle",
-      "url": "https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Down-Home",
-        "url": "https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 229410,
-      "name": "Devil Water",
-      "url": "https://open.spotify.com/track/6N7wYL0QnkF4LtWRJsdBeR"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Qama'si",
-        "url": "https://open.spotify.com/album/79P3tJ2AyGqDQCnyIXyT7s"
-      },
-      "artists": [
-        {
-          "name": "Eastern Owl",
-          "url": "https://open.spotify.com/artist/2wBTyXK47606CGh9Z4CAWK"
-        }
-      ],
-      "duration_ms": 233559,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/5bD15PuYRfznglHHcxDJk3"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Martin",
-          "url": "https://open.spotify.com/artist/19USU50LosOeX1eEJrcyC5"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "I Got My Music",
-      "url": "https://open.spotify.com/track/0lkwSNhkQAOZo3uTFuxPJW"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Medicine Songs",
-        "url": "https://open.spotify.com/album/5MtNWw5VzcKCnwjP0QeipE"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "Starwalker",
-      "url": "https://open.spotify.com/track/2wd7cm8Xb2ll1uTQfTs6cU"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Storms & Prayers",
-        "url": "https://open.spotify.com/album/15VnjksOnWjQ2jOI8fBu67"
-      },
-      "artists": [
-        {
-          "name": "Silver Wolf Band",
-          "url": "https://open.spotify.com/artist/4A8OuU3MiOK1mqQ2vEoM8N"
-        }
-      ],
-      "duration_ms": 242016,
-      "name": "Estuary",
-      "url": "https://open.spotify.com/track/0mZSiluhn7DHxP1FijMUyQ"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Context: Fearless Pt. I (Live Expanded)",
-        "url": "https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO"
-      },
-      "artists": [
-        {
-          "name": "Crown Lands",
-          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
-        }
-      ],
-      "duration_ms": 231179,
-      "name": "Right Way Back",
-      "url": "https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
-      },
-      "artists": [
-        {
-          "name": "Leland Bell",
-          "url": "https://open.spotify.com/artist/3BSX3zjlF5Ac0meaUO5Fvo"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Messenger",
-      "url": "https://open.spotify.com/track/6JOYyS95P8oVdN1ggQ9VRY"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "A Lot About A Little",
-        "url": "https://open.spotify.com/album/3vki6Q7nFB6jldMTdGi5zg"
-      },
-      "artists": [
-        {
-          "name": "Jason Benoit",
-          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
         },
         {
-          "name": "JDZL",
-          "url": "https://open.spotify.com/artist/6fb7ZYidj3Ps1dEdN9g1YG"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 233076,
-      "name": "A Lot About A Little",
-      "url": "https://open.spotify.com/track/2ZzSjyVPiCk7II9D37qnuW"
+      "duration_ms": 253752,
+      "name": "Creator Made an Animal",
+      "url": "https://open.spotify.com/track/0ky2juni62dPFJb6hkmDGR"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Righteous Empowered Daughter",
-        "url": "https://open.spotify.com/album/5a3MMPUeIzfRJSI4vTa5px"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2I6GTF6eseBJpbqev7tMLL"
       },
       "artists": [
         {
-          "name": "JB the First Lady",
-          "url": "https://open.spotify.com/artist/52iYAFIyDuVyz9JGoeBOzf"
+          "name": "Dakota Bear",
+          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7h31AvBw5GmK1igxZCCYHN"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Burn Me Down",
+        "url": "https://open.spotify.com/album/16Ic2gzlDMPhBZXSCX0AxF"
+      },
+      "artists": [
+        {
+          "name": "Inez Jasper",
+          "url": "https://open.spotify.com/artist/5PJWx3TLnKtKqldIHu2wsr"
         },
         {
-          "name": "Dioganhdih",
-          "url": "https://open.spotify.com/artist/6TP953nKCm9up5b1L44Cyf"
+          "name": "Fawn Wood",
+          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
         }
       ],
-      "duration_ms": 153707,
-      "name": "Front Lines",
-      "url": "https://open.spotify.com/track/3O0E9xto0BczECN85ha6AB"
+      "duration_ms": 214632,
+      "name": "Fallen Soldier (feat. Fawn Wood)",
+      "url": "https://open.spotify.com/track/7dMhQQM8waDYuMWcjWzi0B"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Nothing Is Meaningless",
-        "url": "https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW"
+        "name": "Lead Me",
+        "url": "https://open.spotify.com/album/3y7UxTcD5XTrVxZDVs7bW4"
       },
       "artists": [
         {
-          "name": "Don Amero",
-          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+          "name": "Jayli Wolf",
+          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
         }
       ],
-      "duration_ms": 186300,
-      "name": "My Poor Mama",
-      "url": "https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2"
+      "duration_ms": 138543,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/72uGh0Kew94ALlcrO0OmhV"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+        "name": "Men in Black",
+        "url": "https://open.spotify.com/album/0Ha2g0Heis3ycec7KnHQpW"
       },
       "artists": [
         {
-          "name": "\u00c9ric Landry",
-          "url": "https://open.spotify.com/artist/5JcrDVlDFIcpmPsEkfeJba"
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
         }
       ],
-      "duration_ms": 220253,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/7nIamiKMwjk1l7TI0Dknrz"
+      "duration_ms": 127422,
+      "name": "Men in Black",
+      "url": "https://open.spotify.com/track/7gVbn6CXC3lEvkUy27jsDV"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/3xHVMfJDW526MFVGWayJlz"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0fuBc9pHKdFTrFeWy806K3"
       },
       "artists": [
         {
-          "name": "Twin Flames",
-          "url": "https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi"
+          "name": "Anklegod",
+          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
+        },
+        {
+          "name": "SHARUK",
+          "url": "https://open.spotify.com/artist/2j6ddAkqinKKhL1JJkdQFx"
         }
       ],
-      "duration_ms": 271006,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/0DWT4gkxb4aJZ9ikOGevxg"
+      "duration_ms": 181894,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/52YtcwNEZelM0P22wmllWa"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Sweet Summer Rain",
-        "url": "https://open.spotify.com/album/11xUscBZsjBMFmqHHvxrFb"
+        "name": "It\u2019s OK",
+        "url": "https://open.spotify.com/album/7sSmYrOQg4qWa7YLox0mLh"
       },
       "artists": [
         {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
         }
       ],
-      "duration_ms": 316120,
-      "name": "Sweet Summer Rain",
-      "url": "https://open.spotify.com/track/0exvlmgsMnI4MZZ0yI4fBH"
+      "duration_ms": 141363,
+      "name": "It\u2019s OK",
+      "url": "https://open.spotify.com/track/4W1KwDbKmpyssINjfl8uDy"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/753DV9snkzm0Qb08WJYJpT"
+        "name": "ataataga",
+        "url": "https://open.spotify.com/album/2waHPkgaJ2R2ID8scH4FUP"
       },
       "artists": [
         {
-          "name": "Adrian Sutherland",
-          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
+          "name": "Riit",
+          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
         }
       ],
-      "duration_ms": 199596,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/1rClDAbfD9Cfiz1AkWwnNn"
+      "duration_ms": 259426,
+      "name": "qaumajuapik",
+      "url": "https://open.spotify.com/track/4K1MenTdQNBGyiApSjGUZ6"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Whenever I Sing",
-        "url": "https://open.spotify.com/album/5D1kMQxoUAYECHhQgQXTd5"
+        "name": "HGS",
+        "url": "https://open.spotify.com/album/0UVPpmcYtxVLHVZhDlEDjw"
       },
       "artists": [
         {
-          "name": "Lorna Lovell",
-          "url": "https://open.spotify.com/artist/7GOBaO9wC9pbn1uq3JKxLv"
+          "name": "Savage Family",
+          "url": "https://open.spotify.com/artist/4uTFYxlrNuY53KmCRtYD3R"
         }
       ],
-      "duration_ms": 180323,
-      "name": "Fly in My Whiskey",
-      "url": "https://open.spotify.com/track/6hupIsruxJbRJWHQ7NbY26"
+      "duration_ms": 291892,
+      "name": "Way Of The Drum",
+      "url": "https://open.spotify.com/track/6sS3DO0uqkjJfLRfczrofe"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Gone Long Gone",
-        "url": "https://open.spotify.com/album/3FWY5HnGBULy1gX7VWQikM"
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
       },
       "artists": [
         {
-          "name": "Jason Benoit",
-          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
         }
       ],
-      "duration_ms": 204124,
-      "name": "Gone Long Gone",
-      "url": "https://open.spotify.com/track/4GUajvtgltALao5ZxiX6fL"
+      "duration_ms": 199186,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/62j3tPxGblK4dJX5QVggmZ"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "Wa-Chic-Ka-Nocka",
-        "url": "https://open.spotify.com/album/0AUzYEioXx2yoYpNy6iymj"
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
       },
       "artists": [
         {
-          "name": "The Chieftones",
-          "url": "https://open.spotify.com/artist/4GJgL0UJeen6mSkKIvxQzg"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 175973,
-      "name": "Indian Moon",
-      "url": "https://open.spotify.com/track/3D70CWH5aMeIsfIazEif46"
+      "duration_ms": 242854,
+      "name": "SCARS",
+      "url": "https://open.spotify.com/track/6t0El464LFbuloirqq6C2V"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-07-05 19:38:49",
       "album": {
-        "name": "It Gives Us Life: Powwow",
-        "url": "https://open.spotify.com/album/76iIF6hsQzgXDv1F3UqphZ"
+        "name": "We Are the Halluci Nation",
+        "url": "https://open.spotify.com/album/3OAY7PznrdfSH4kZ3tuER7"
       },
       "artists": [
         {
-          "name": "Eastern Eagle",
-          "url": "https://open.spotify.com/artist/2OU3WYEu1l3s9T5llBmC22"
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Narcy",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
         }
       ],
-      "duration_ms": 393330,
-      "name": "The Mi'kmaq Honour Song",
-      "url": "https://open.spotify.com/track/29fyAPnj38vR2BPwTdj2zg"
+      "duration_ms": 209981,
+      "name": "R.E.D.",
+      "url": "https://open.spotify.com/track/4YAFMFA6RM8ogvngap1b05"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Nation II Nation",
+        "url": "https://open.spotify.com/album/5SKS3EwP2Ifv8ypqUrWB3h"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+        }
+      ],
+      "duration_ms": 263160,
+      "name": "Bread & Cheese",
+      "url": "https://open.spotify.com/track/6DsP6w8eeyl1Hhef6NBVwC"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Child Of The Government",
+        "url": "https://open.spotify.com/album/2EIjsnDvxtc14X9FPDEx89"
+      },
+      "artists": [
+        {
+          "name": "Jayli Wolf",
+          "url": "https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx"
+        }
+      ],
+      "duration_ms": 221392,
+      "name": "Child Of The Government",
+      "url": "https://open.spotify.com/track/64CgHKu5BPzju2hO2ECiZL"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Setbacks",
+        "url": "https://open.spotify.com/album/3NGvP7CdGu9fwsNwK06OQr"
+      },
+      "artists": [
+        {
+          "name": "Dakota Bear",
+          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Setbacks",
+      "url": "https://open.spotify.com/track/1FNG3ZcoDzs0Al9CyFl4fQ"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "duration_ms": 293439,
+      "name": "Lost Tribe",
+      "url": "https://open.spotify.com/track/6ExFzpHmcznOjC4JpjkbZK"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "GONZO",
+        "url": "https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 115473,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/5wTMS2FiYvostGLFg1LzeZ"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/6DCtTHrowhDjpEwC0HgZuI"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "duration_ms": 314754,
+      "name": "MEAN BOY",
+      "url": "https://open.spotify.com/track/4qYjy3A5Jk7YIcWTHWYPeC"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/337ZoinH7XFzrksMVYAK3z"
+      },
+      "artists": [
+        {
+          "name": "Anklegod",
+          "url": "https://open.spotify.com/artist/3zXUfokHv4a7P69YGq4C8I"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "Think I Need Some Syrup",
+      "url": "https://open.spotify.com/track/1UKhcMusoi9Xxn9liepsE6"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "TRAPLINE",
+        "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Shanks Sioux",
+          "url": "https://open.spotify.com/artist/6STPU4rdo1rk3vnK1pmaRV"
+        }
+      ],
+      "duration_ms": 216142,
+      "name": "I Can't Remember My Name",
+      "url": "https://open.spotify.com/track/72pho9GVyZCElxgMFYhN2n"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
+      },
+      "artists": [
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
+        }
+      ],
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/240EnJaBvTLPCwCX7ux247"
+      },
+      "artists": [
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "duration_ms": 183615,
+      "name": "Warpath",
+      "url": "https://open.spotify.com/track/744B0eGBmmfnleCJ7nmKnT"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "Sedna",
+        "url": "https://open.spotify.com/album/4TnpF14Fst1uuRPzHk5He8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Fraser",
+          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Forgive Yourself",
+      "url": "https://open.spotify.com/track/4Ek4211HeSJkdjzdDOSFx6"
+    },
+    {
+      "added_at": "2022-07-05 19:38:49",
+      "album": {
+        "name": "The Average Savage",
+        "url": "https://open.spotify.com/album/1Zm19YQhpbR0Rk5KUmXdfl"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Savages (feat. Drezus)",
+      "url": "https://open.spotify.com/track/2v5nzcrK0AVYKLEzs7pz9j"
     }
   ],
   "unique_name": "Indigenous",

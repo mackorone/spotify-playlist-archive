@@ -842,36 +842,6 @@
     },
     {
       "album": {
-        "name": "Offenbach: Les Contes d'Hoffmann",
-        "url": "https://open.spotify.com/album/7Kp2mDL9QCEGE5Sf8Tqbfj"
-      },
-      "artists": [
-        {
-          "name": "Jacques Offenbach",
-          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
-        },
-        {
-          "name": "Elisabeth Schwarzkopf",
-          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
-        },
-        {
-          "name": "Andr\u00e9 Cluytens",
-          "url": "https://open.spotify.com/artist/2qGkessPTMJjSEYtxJ11KC"
-        },
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        }
-      ],
-      "date_added": "2020-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228600,
-      "name": "Les Contes d'Hoffmann (2003 - Remaster), Act III: Entr'acte (Orchestra)...Belle nuite, \u00f4 nuit d'amour : Barcarolle (Une voix/Giulietta/Chorus)",
-      "url": "https://open.spotify.com/track/3zcnxEjJEDUeQS97PmnKd5"
-    },
-    {
-      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -1057,6 +1027,44 @@
       "duration_ms": 313826,
       "name": "Norma / Act 2: Mira, o Norma",
       "url": "https://open.spotify.com/track/6bZ7SdiZmIC9RXdp77iaz1"
+    },
+    {
+      "album": {
+        "name": "Offenbach: Les Contes d'Hoffmann",
+        "url": "https://open.spotify.com/album/7Kp2mDL9QCEGE5Sf8Tqbfj"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "Choeurs Rene Duclos",
+          "url": "https://open.spotify.com/artist/0iwjANAnsGz9IwE2UXLCFs"
+        },
+        {
+          "name": "Walter Ruhlmann",
+          "url": "https://open.spotify.com/artist/0xbV0ZoTTiXysPG13gVMcL"
+        },
+        {
+          "name": "Andr\u00e9 Cluytens",
+          "url": "https://open.spotify.com/artist/2qGkessPTMJjSEYtxJ11KC"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Offenbach: Les contes d'Hoffmann, Act 3: Entr'acte - \"Belle nuite, \u00f4 nuit d'amour\" (Une voix, Giulietta, Chorus)",
+      "url": "https://open.spotify.com/track/3zcnxEjJEDUeQS97PmnKd5"
     },
     {
       "album": {

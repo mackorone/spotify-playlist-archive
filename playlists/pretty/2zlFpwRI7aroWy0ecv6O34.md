@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zlFpwRI7aroWy0ecv6O34.md) - [plain]
 
 > Wind down for the evening with your special someone and this soothing selection of serenades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 181 songs - 15 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 181 songs - 15 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

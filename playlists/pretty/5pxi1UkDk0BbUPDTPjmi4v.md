@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pxi1UkDk0BbUPDTPjmi4v.md) - [plain]
 
 > Here's to cherishing lifelong friends, remembering the good times, and celebrating the end of an era!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 125 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

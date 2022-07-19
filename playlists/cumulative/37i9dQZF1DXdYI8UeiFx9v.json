@@ -1,11 +1,49 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Classical music for running.",
+  "description": "Orchestral, instrumental and piano tracks for running.",
   "name": "Classical Running",
   "published_playlist_ids": [
     "4LMksSdnchuMlgA2MwG4Fc"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Bach: The Cello Suites - Recomposed by Peter Gregson",
+        "url": "https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        },
+        {
+          "name": "Reinoud Ford",
+          "url": "https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO"
+        },
+        {
+          "name": "Tim Lowe",
+          "url": "https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB"
+        },
+        {
+          "name": "Ben Chappell",
+          "url": "https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F"
+        },
+        {
+          "name": "Katherine Jenkinson",
+          "url": "https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99610,
+      "name": "2.3 Courante",
+      "url": "https://open.spotify.com/track/6irRoPN60ApxUZDmYz2Tsw"
+    },
     {
       "album": {
         "name": "Bach: The Cello Suites - Recomposed by Peter Gregson",
@@ -57,10 +95,58 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 337466,
       "name": "A Little Chaos",
       "url": "https://open.spotify.com/track/0OKWHkdIAi2purVKdqaPC0"
+    },
+    {
+      "album": {
+        "name": "British Piano Concertos",
+        "url": "https://open.spotify.com/album/4UMvWmA5wZgamUeURcC4Tc"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Bush",
+          "url": "https://open.spotify.com/artist/3aqOURvAJc2jGZILrOkDth"
+        },
+        {
+          "name": "Simon Callaghan",
+          "url": "https://open.spotify.com/artist/0jwIYV2OWha4xgIWDlAfrZ"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Martyn Brabbins",
+          "url": "https://open.spotify.com/artist/0HVBIS5X7c4Pxa7KnabPMN"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127906,
+      "name": "A Little Concerto on Themes of Thomas Arne: IV. Vivace",
+      "url": "https://open.spotify.com/track/3nuHhkFOOg1EBvDPPvz9qo"
+    },
+    {
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "album": {
@@ -135,6 +221,24 @@
       "duration_ms": 93306,
       "name": "Bach, JS : Well-Tempered Clavier Book 1 : Prelude No.2 in C minor BWV847",
       "url": "https://open.spotify.com/track/12ICG4ARajR8WSmMeGENsM"
+    },
+    {
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127147,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh"
     },
     {
       "album": {
@@ -265,7 +369,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 251573,
       "name": "Dappled Light",
       "url": "https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F"
@@ -317,7 +421,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 271800,
       "name": "Electric Counterpoint: III. \u2014",
       "url": "https://open.spotify.com/track/335627fULp38v63GT09YZK"
@@ -335,7 +439,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 394506,
       "name": "Escape Artist",
       "url": "https://open.spotify.com/track/7sXYoFoFoJ28bnjsnoBfvY"
@@ -361,7 +465,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 315426,
       "name": "Experience",
       "url": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj"
@@ -395,6 +499,54 @@
       "duration_ms": 164973,
       "name": "GoldBergHain (Quodlibet on \"Kraut und R\u00fcben haben mich vertrieben\") for Violin & String Orchestra",
       "url": "https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3"
+    },
+    {
+      "album": {
+        "name": "Alexey Shor: Images from the Great Siege & Verdiana",
+        "url": "https://open.spotify.com/album/3XAjQDbRSt7mcK2To9Q9A0"
+      },
+      "artists": [
+        {
+          "name": "Alexey Shor",
+          "url": "https://open.spotify.com/artist/3yqmz1QsRK7MMQU42j04tK"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sergey Smbatyan",
+          "url": "https://open.spotify.com/artist/6wVDurOGNxJoAn3WKIrVMn"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101440,
+      "name": "Images from the Great Siege (Version for Orchestra): IV. Solitary Rider",
+      "url": "https://open.spotify.com/track/6VbQJA9xByzOUtQHiLk8sh"
+    },
+    {
+      "album": {
+        "name": "Clarice Assad, Brouwer & Others: Guitar Works",
+        "url": "https://open.spotify.com/album/0OVIsRE03uCwGhX8OAeBTy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Seixas",
+          "url": "https://open.spotify.com/artist/3i9RIUr7qj6PDPXxNNBduA"
+        },
+        {
+          "name": "Bokyung Byun",
+          "url": "https://open.spotify.com/artist/3r6CfsePnDlKhYCLGZZ7DK"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "Keyboard Sonata No. 24 in D Minor: II. Allegro (Arr. R. Oliveira for Guitar)",
+      "url": "https://open.spotify.com/track/758FSQedzMbJ4drFlv59ih"
     },
     {
       "album": {
@@ -473,7 +625,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 109906,
       "name": "Lieder ohne Worte, Op. 85: No. 6 Allegretto con moto (Arr. Ottensamer for Clarinet and Piano)",
       "url": "https://open.spotify.com/track/714QOKVfrzMddSTHCPbju6"
@@ -581,6 +733,24 @@
       "duration_ms": 338946,
       "name": "Oboe Concerto in C Major, K. 314: III. Rondo (Allegretto) - Cadenza: Randall Wolfgang",
       "url": "https://open.spotify.com/track/63kHt9dnIKiCobKqMsgahS"
+    },
+    {
+      "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "album": {
@@ -714,6 +884,32 @@
     },
     {
       "album": {
+        "name": "Brahms, J.: Serenades Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/43m1wRQHFOjG1l3xdCUXOk"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Capella Augustina",
+          "url": "https://open.spotify.com/artist/5Wuvg8q5Cn8KLs4pWBLfeN"
+        },
+        {
+          "name": "Andreas Spering",
+          "url": "https://open.spotify.com/artist/3yyzjrLN4Stml4aBmgnEBV"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "Serenade No. 2 in A Major, Op. 16: V. Rondo: Allegro",
+      "url": "https://open.spotify.com/track/3rMvl4bU4vEwzCmKBVQhlW"
+    },
+    {
+      "album": {
         "name": "The Essential Handel",
         "url": "https://open.spotify.com/album/1MwHHEnhgkb07HA5Av42m6"
       },
@@ -737,6 +933,24 @@
       "duration_ms": 191493,
       "name": "Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba",
       "url": "https://open.spotify.com/track/1bTXAKwE2Hztv13xTAhMQB"
+    },
+    {
+      "album": {
+        "name": "Solregn",
+        "url": "https://open.spotify.com/album/3jd2zTBl6CJLIX8YTn7xhv"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Solregn",
+      "url": "https://open.spotify.com/track/09kBa4sfszwK5MN1DWoOFw"
     },
     {
       "album": {
@@ -787,7 +1001,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151506,
-      "name": "Spring 1",
+      "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
@@ -881,6 +1095,32 @@
       "duration_ms": 247640,
       "name": "Symphony in G Major, Op. 11 No. 1: I. Allegro",
       "url": "https://open.spotify.com/track/6wV5Nhsr9Mihm5GLgCsLIV"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Ballet Suites (Transcriptions for Piano 4 Hands)",
+        "url": "https://open.spotify.com/album/1FpowTrXTDVyQDIKfdxPB0"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Aurora Duo",
+          "url": "https://open.spotify.com/artist/2LquNdlQ9UsnviI3SV9EGf"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239093,
+      "name": "The Sleeping Beauty Suite, Op. 66a (arr. S. Rachmaninov for piano 4 hands): V. Waltz",
+      "url": "https://open.spotify.com/track/5zXJ4fmLHwU6inB4hqGwIW"
     },
     {
       "album": {
@@ -1023,6 +1263,24 @@
       "duration_ms": 173426,
       "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
       "url": "https://open.spotify.com/track/2nnXe7n3Vivs7OfQKRsfWD"
+    },
+    {
+      "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159746,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos"
     },
     {
       "album": {

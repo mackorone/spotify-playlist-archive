@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "album": {
         "name": "Aibu",
         "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
       },
@@ -23,7 +41,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 137368,
       "name": "Aibu",
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
@@ -173,7 +191,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 192000,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 120000,
       "name": "Celowi",
       "url": "https://open.spotify.com/track/1hgH1t6ReIrorRFrD7eJ8P"
@@ -648,6 +666,28 @@
     },
     {
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231205,
+      "name": "Glory (feat. Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/0z8uQ7o34HDoRU02Cz26d1"
+    },
+    {
+      "album": {
         "name": "Good Friends",
         "url": "https://open.spotify.com/album/3hBry3ZRsfpL3v8eQ7KYPx"
       },
@@ -671,7 +711,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 225671,
       "name": "Good Friends",
       "url": "https://open.spotify.com/track/2VWHk5P5qr9Yk9u81FzgRY"
@@ -759,7 +799,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 206253,
       "name": "Hubris",
       "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
@@ -785,7 +825,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 172427,
       "name": "I Deny",
       "url": "https://open.spotify.com/track/5LzZyYLDCTcGKtoKpcKoXk"
@@ -913,7 +953,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 268212,
       "name": "Jike'lemaweni",
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
@@ -938,6 +978,24 @@
     },
     {
       "album": {
+        "name": "LITTLE & LEGENDARY",
+        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
+    },
+    {
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -957,6 +1015,24 @@
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "album": {
+        "name": "TBH (To Be Honest)",
+        "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182819,
+      "name": "Logba Logba",
+      "url": "https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN"
     },
     {
       "album": {
@@ -1033,6 +1109,24 @@
       "duration_ms": 160000,
       "name": "Make it right",
       "url": "https://open.spotify.com/track/3zZE20LzzHwQzY5KLx7qgf"
+    },
+    {
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "album": {
@@ -1139,6 +1233,28 @@
       "duration_ms": 176766,
       "name": "Miss You Bad",
       "url": "https://open.spotify.com/track/6R6rbN4WvMNnQwOCSdXSvT"
+    },
+    {
+      "album": {
+        "name": "Mjolo (feat. Zanda Zakuza)",
+        "url": "https://open.spotify.com/album/79Wiv0uEy74k08IaofFcsJ"
+      },
+      "artists": [
+        {
+          "name": "Roki",
+          "url": "https://open.spotify.com/artist/1jfWbG9JIlSJys68G8tLVE"
+        },
+        {
+          "name": "Zanda Zakuza",
+          "url": "https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194553,
+      "name": "Mjolo (feat. Zanda Zakuza)",
+      "url": "https://open.spotify.com/track/6abcUHJLRUgXmb44S8icTh"
     },
     {
       "album": {
@@ -1532,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e"
+    },
+    {
+      "album": {
         "name": "Sarama",
         "url": "https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc"
       },
@@ -1573,6 +1707,28 @@
       "duration_ms": 198333,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
+    },
+    {
+      "album": {
+        "name": "Silaha",
+        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "KASHA",
+          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260668,
+      "name": "Silaha",
+      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
     },
     {
       "album": {
@@ -1629,6 +1785,24 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
+    },
+    {
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "album": {
@@ -1826,6 +2000,28 @@
     },
     {
       "album": {
+        "name": "There She Go (Jack Sparrow) [feat. Mayorkun]",
+        "url": "https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 191532,
+      "name": "There She Go (Jack Sparrow) [feat. Mayorkun]",
+      "url": "https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr"
+    },
+    {
+      "album": {
         "name": "Tugela Fairy",
         "url": "https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk"
       },
@@ -1903,7 +2099,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 179411,
       "name": "Whine",
       "url": "https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL"
@@ -1987,7 +2183,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 218160,
       "name": "Your Dream",
       "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"

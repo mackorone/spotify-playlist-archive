@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,641 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,588 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 14 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 15 | [Olly Alexander from Years & Years on Coming Out](https://open.spotify.com/track/52IvQU087y8nKvluApHVkl) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Years & Years \- Spotify Pride](https://open.spotify.com/album/3IthvRoQiLefWpF76B1nmG) | 1:30 |
 | 16 | [Swim Good](https://open.spotify.com/track/3CgZCQyuyxHRMWB9BTwmni) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Swim Good](https://open.spotify.com/album/3TLaFWQDhV1g39Qwd5sPAm) | 4:17 |
-| 17 | [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 |
+| 17 | [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 |
 | 18 | [Mr Peterson](https://open.spotify.com/track/6dmE0bdzcvjR1QpWH0cbiO) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Learning](https://open.spotify.com/album/4NOTD2iPbp6ZNS5I5yqcHG) | 2:50 |
 | 19 | [Tilted](https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine And The Queens](https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG) | 3:53 |
 | 20 | [Transgender Dysphoria Blues](https://open.spotify.com/track/32NyqsVZCk19j39RqGACJI) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [Transgender Dysphoria Blues](https://open.spotify.com/album/4f5QFycCas16VVeNNXtJoH) | 3:16 |

@@ -340,6 +340,40 @@
     },
     {
       "album": {
+        "name": "Handel: Oboe Concertos",
+        "url": "https://open.spotify.com/album/6CyYye9AOrng3cvwIuLHfL"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Klaip\u0117da Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6CEg6ay5qn4WHoGPDgyk7w"
+        },
+        {
+          "name": "Andrius Puskunigis",
+          "url": "https://open.spotify.com/artist/50fAMhb98yIJeuM9x6D6tx"
+        },
+        {
+          "name": "Vincent Bernhardt",
+          "url": "https://open.spotify.com/artist/352uU24PUp3B7UXHe3Q4JU"
+        },
+        {
+          "name": "Mindaugas Ba\u010dkus",
+          "url": "https://open.spotify.com/artist/0oBFZAe6ZmzR1vNhI6wGho"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106133,
+      "name": "Concerto-Pasticcio in C Major: I. Largo",
+      "url": "https://open.spotify.com/track/0fTJ7spoLjRgriBgsftWR8"
+    },
+    {
+      "album": {
         "name": "Voice Of Hope",
         "url": "https://open.spotify.com/album/5LUv6oBlEG9UB7bxPS9HuE"
       },
@@ -569,7 +603,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147120,
-      "name": "Lo frate 'nnamorato: Sinfonia in D Major: II. Andante",
+      "name": "Lo frate 'nnamorato, Sinfonia in D Major: II. Andante",
       "url": "https://open.spotify.com/track/3KcwUloOtiJw20gG6Zo7Nt"
     },
     {
@@ -1135,7 +1169,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223772,
-      "name": "Water Music, Suite No. 2, HWV 349: Water Music, Suite No. 2, HWV 349: XII. [Alla Hornpipe]",
+      "name": "Water Music, Suite No. 2, HWV 349: No. 12, Alla Hornpipe",
       "url": "https://open.spotify.com/track/6x1xxlk6Dw1IdzvrzsL7B3"
     }
   ],

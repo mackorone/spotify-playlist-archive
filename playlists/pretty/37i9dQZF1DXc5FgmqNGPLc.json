@@ -1,13 +1,85 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2194,
+  "num_followers": 2814,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAxNTAwMDAwMTgwNzM3YjkzMWYwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDAxYTAwMDAwMTgxZGJmOGJiYjAwMDAwMDE3ZDlhNmU1YTBj",
   "tracks": [
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "What It Is (Live In Montreal - July 7, 1983)",
+        "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 405425,
+      "name": "What It Is - Live In Montreal - July 7, 1983",
+      "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Two Continents One Groove (Live)",
+        "url": "https://open.spotify.com/album/3eppyJqKLmkav7Pzhhp9qK"
+      },
+      "artists": [
+        {
+          "name": "T.S. Monk",
+          "url": "https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f"
+        }
+      ],
+      "duration_ms": 518093,
+      "name": "Sierre - Live",
+      "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "The Lost Album from Ronnie Scott\u2019s (Live)",
+        "url": "https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 455792,
+      "name": "Pops (AKA When the Saints Go Marching In) - Live",
+      "url": "https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Heart Song (Live)",
+        "url": "https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Lee",
+          "url": "https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        },
+        {
+          "name": "Linley Marthe",
+          "url": "https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo"
+        }
+      ],
+      "duration_ms": 429466,
+      "name": "Heart Song - Live",
+      "url": "https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -67,6 +139,22 @@
       "duration_ms": 355359,
       "name": "The Muse - Live in New York City, February 8, 1975",
       "url": "https://open.spotify.com/track/31qdHIkBXaXoCoWTUnDIYh"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Live at the Room at the Top",
+        "url": "https://open.spotify.com/album/6bjUgLGgIZKeCeWRogVFoM"
+      },
+      "artists": [
+        {
+          "name": "Pepper Adams",
+          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
+        }
+      ],
+      "duration_ms": 1151423,
+      "name": "Patrice - Live",
+      "url": "https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -199,6 +287,22 @@
       "duration_ms": 296415,
       "name": "Theme From M*A*S*H - Live",
       "url": "https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Seven Steps to Heaven (Live)",
+        "url": "https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i"
+      },
+      "artists": [
+        {
+          "name": "T.S. Monk",
+          "url": "https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Seven Steps to Heaven - Live",
+      "url": "https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -629,7 +733,7 @@
         }
       ],
       "duration_ms": 482661,
-      "name": "Invitation - Live",
+      "name": "Invitation (Live)",
       "url": "https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb"
     },
     {

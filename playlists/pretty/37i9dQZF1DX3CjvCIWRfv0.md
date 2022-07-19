@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,593 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,732 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 64 | [Flying Like an Eagle](https://open.spotify.com/track/6OAFG0apABNxxKqnLY6f3r) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Bouzouki Romance](https://open.spotify.com/album/08Fx0aUzgSgpBjMqU6xejf) | 3:04 |
 | 65 | [Vaporaki Tou Bournova](https://open.spotify.com/track/5rO6xnNsOqzSbJzi08OxaY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:34 |
 
-Snapshot ID: `MTY0OTc4Nzg2MCwwMDAwMDAxMDAwMDAwMTgwMWYwNGY1MGQwMDAwMDE3M2JlMGZhNmM2`
+Snapshot ID: `MTY1NzU2MzgyOCwwMDAwMDAxMTAwMDAwMTgxZWU4MGQyNDkwMDAwMDE3M2JlMGZhNmM2`

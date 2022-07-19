@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,237 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,953 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 2 | [Free My People](https://open.spotify.com/track/3nl8DKWk06tn3aC7McNxth) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/65VRkb7Fx6EYccDop2dT2z) | 4:52 |
 | 3 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
 | 4 | [Khala My Friend](https://open.spotify.com/track/17WvocrxbKL2t7HyoSpSCK) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:20 |
-| 5 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
-| 6 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 7 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 14\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 |
-| 8 | [Petit Sekou](https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 5:55 |
+| 5 | [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 |
+| 6 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
+| 7 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 8 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 |
 | 9 | [Afro Beat Blues \(Feat\. Ojah\)](https://open.spotify.com/track/4Ua2SU25r2XCnT8CpmYAyM) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Ojah](https://open.spotify.com/artist/4rdXJh5pnHQxhvmlCPJKwp) | [Presents the Chissa Years 1965\-1975](https://open.spotify.com/album/3kAccw0xfJEIayWAiyvKI4) | 6:47 |
 | 10 | [Tire Loma da Nigbehin](https://open.spotify.com/track/1106NpuH96tUmf53qlKsoA) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Tire Loma Da Nigbehin](https://open.spotify.com/album/1wmnnD0JYdybQhfmis8CxK) | 4:48 |
 | 11 | [Funky Lady](https://open.spotify.com/track/2NQF9buClFG8eImtyKajAI) | [Teddy Chisi](https://open.spotify.com/artist/50iEISE8vvc4JChPJhx72u) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 49 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 50 | [Toumast Tincha](https://open.spotify.com/track/0Etl0p4Z6doS0xFxqdhrOn) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/3mBVW4xMIksTDGtYbjrpee) | 4:20 |
 
-Snapshot ID: `MTY1MDYwODMyNywwMDAwMDAwYjAwMDAwMTgwNGZlYzRiNzgwMDAwMDE3MGM0YWI5ZGU1`
+Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwYzAwMDAwMTgwYmE4MDFlMzYwMDAwMDE3MGM0YWI5ZGU1`

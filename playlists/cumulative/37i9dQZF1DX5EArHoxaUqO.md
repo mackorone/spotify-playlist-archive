@@ -4,10 +4,11 @@
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-26 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
+26 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 0:00 | 2021-05-06 |  |
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-05-06 |  |
 | [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 1:25 | 2021-05-06 |  |
 | [C.R.E.A.M.](https://open.spotify.com/track/5ya6T5IWJLxl616Bf7DSaO) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Wu\-Tang Clan](https://open.spotify.com/album/7daFeFeJyRZP6NiEXWMsI8) | 2:37 | 2021-05-06 |  |
@@ -19,7 +20,6 @@
 | [Drops \- Instrumental](https://open.spotify.com/track/5vzZHEuFmRoJhCc5SBDRin) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:51 | 2021-05-06 |  |
 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/4XYtukhmv6PgESSHm3hS3K) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Rock 'N' Roll Legend: The Spaniels](https://open.spotify.com/album/00WsL2je7cpiwFjt44JxaP) | 2:40 | 2021-05-06 |  |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2021-05-06 |  |
-| [Hush Little Baby](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 2:10 | 2021-05-06 |  |
 | [Iconoteca](https://open.spotify.com/track/533MyzSJnuD7hQ3Rg6LtOu) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt) | 3:35 | 2021-05-06 |  |
 | [Méditation Des Enfants](https://open.spotify.com/track/3wRs0OVDfZU0Hs4Jw7A2xh) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:33 | 2021-05-06 |  |
 | [Olélé moliba makasi](https://open.spotify.com/track/0GOVrPqk9SXO1ap6LDH9q2) | [Jean\-Marie Bolangassa](https://open.spotify.com/artist/5EYMCZHZySno9oBjAYcHYz) | [Comptines pour chanter l'Afrique](https://open.spotify.com/album/4Y5OKDlEAT0B9h6JywQix2) | 2:12 | 2021-05-06 |  |

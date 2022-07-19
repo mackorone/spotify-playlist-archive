@@ -1,13 +1,61 @@
 {
-  "description": "Latin superstars like you've never heard before.  Cover: Nathy Peluso, Ambar Lucid & Carin Leon.",
-  "num_followers": 4677,
-  "original_name": "Spotify Singles: Latino",
+  "description": "Latin superstars like you've never heard before.  Cover: Gabriel Garz\u00f3n-Montano, Mon Laferte & Tokischa",
+  "num_followers": 4774,
+  "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTU1NjIwNCwwMDAwMDAxMTAwMDAwMTdmMjJjYjA1MDAwMDAwMDE3Yzc5YWQ1NzM2",
+  "snapshot_id": "MTY1NTkyMTA2MCwwMDAwMDAxMjAwMDAwMTgxOGM5NjJhNTAwMDAwMDE4MThjOTE1ZjBk",
   "tracks": [
+    {
+      "added_at": "2022-02-22 18:56:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
+    },
+    {
+      "added_at": "2022-06-22 18:04:20",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Oops (Oh My) - Spotify Singles",
+      "url": "https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv"
+    },
+    {
+      "added_at": "2022-02-22 18:56:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+    },
     {
       "added_at": "2022-02-22 18:56:44",
       "album": {
@@ -267,22 +315,6 @@
     {
       "added_at": "2022-02-22 18:56:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2022-02-22 18:56:44",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -307,22 +339,6 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
-    },
-    {
-      "added_at": "2022-02-22 18:56:44",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2022-02-22 18:56:44",
@@ -355,6 +371,22 @@
       "duration_ms": 203104,
       "name": "Earned It - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph"
+    },
+    {
+      "added_at": "2022-06-22 18:04:20",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "With A Smile - Spotify Singles",
+      "url": "https://open.spotify.com/track/7kCm9CC8VuJaaLy3OpD6fE"
     },
     {
       "added_at": "2022-02-22 18:56:44",
@@ -471,6 +503,22 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2022-06-22 18:04:20",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 216112,
+      "name": "La tua canzone - Recorded at Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
     },
     {
       "added_at": "2022-02-22 18:56:44",
@@ -797,6 +845,22 @@
       "url": "https://open.spotify.com/track/0BzncqR8TyG5Jzy7NNk9pm"
     },
     {
+      "added_at": "2022-06-22 18:04:20",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 223709,
+      "name": "Via - Recorded at Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/7I773v0HONs4p8V0CgWiY5"
+    },
+    {
       "added_at": "2022-02-22 18:56:44",
       "album": {
         "name": "Spotify Singles",
@@ -861,6 +925,6 @@
       "url": "https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK"
     }
   ],
-  "unique_name": "Spotify Singles: Latino",
+  "unique_name": "Spotify Singles: Latin",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB"
 }

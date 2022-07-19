@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Cha3ra Wendir Avc",
+        "url": "https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7"
+      },
+      "artists": [
+        {
+          "name": "Amine Matlo",
+          "url": "https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392521,
+      "name": "Cha3ra Wendir Avc",
+      "url": "https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L"
+    },
+    {
+      "album": {
         "name": "Chira brune",
         "url": "https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 242604,
       "name": "Corona",
       "url": "https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP"
@@ -707,6 +725,24 @@
       "duration_ms": 600177,
       "name": "Moul Karsan",
       "url": "https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d"
+    },
+    {
+      "album": {
+        "name": "MUSTAHIL",
+        "url": "https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF"
+      },
+      "artists": [
+        {
+          "name": "Douzi",
+          "url": "https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MUSTAHIL",
+      "url": "https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI"
     },
     {
       "album": {

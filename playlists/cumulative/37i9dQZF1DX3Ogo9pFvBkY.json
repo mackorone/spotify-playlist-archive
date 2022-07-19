@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "album": {
         "name": "A Mirror Appears",
         "url": "https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I"
       },
@@ -584,6 +602,24 @@
     },
     {
       "album": {
+        "name": "An Instant",
+        "url": "https://open.spotify.com/album/7qDfAr30rO5WSnzMe7EkEh"
+      },
+      "artists": [
+        {
+          "name": "Orieta Carvahal",
+          "url": "https://open.spotify.com/artist/71sP1BkkbvMv0IcFu706Dt"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "An Instant",
+      "url": "https://open.spotify.com/track/1V1lNO1kMb2QngcOHz5d3y"
+    },
+    {
+      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/7f69MPwVjlQCBj7Pv00Gu2"
       },
@@ -865,7 +901,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 187917,
       "name": "Astral Body",
       "url": "https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH"
@@ -937,7 +973,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 227668,
       "name": "Atmos Eleven",
       "url": "https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma"
@@ -1225,7 +1261,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 166487,
       "name": "Bathed in Her Light",
       "url": "https://open.spotify.com/track/6OvInFJHMMR0UoaEEDjZzA"
@@ -1394,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Beyond & Back",
+        "url": "https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F"
+      },
+      "artists": [
+        {
+          "name": "Carufo",
+          "url": "https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Beyond & Back",
+      "url": "https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx"
+    },
+    {
+      "album": {
         "name": "sleeping moons",
         "url": "https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf"
       },
@@ -1427,6 +1481,24 @@
       "duration_ms": 217625,
       "name": "Beyond Reach",
       "url": "https://open.spotify.com/track/1prR4s9mD1M0wkFf8w6OqM"
+    },
+    {
+      "album": {
+        "name": "Beyond The Moon",
+        "url": "https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta"
+      },
+      "artists": [
+        {
+          "name": "Tryggve Malmberg",
+          "url": "https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Beyond The Moon",
+      "url": "https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ"
     },
     {
       "album": {
@@ -2456,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "Crossover",
+        "url": "https://open.spotify.com/album/4o3GUDTM9OstkAetCHOq7u"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rembrandt",
+          "url": "https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212785,
+      "name": "Crossover",
+      "url": "https://open.spotify.com/track/08cjGj3SvKyG8JMo2Hnero"
+    },
+    {
+      "album": {
         "name": "Crystal Caves",
         "url": "https://open.spotify.com/album/4RdSFcmzaf3oktYdRiAIQO"
       },
@@ -2575,7 +2665,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 219090,
       "name": "Darashinai Beach",
       "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
@@ -3734,6 +3824,24 @@
     },
     {
       "album": {
+        "name": "Evening Unbroken",
+        "url": "https://open.spotify.com/album/1wuOepJj2f5iT4rxuGJY8J"
+      },
+      "artists": [
+        {
+          "name": "Jeff Birma",
+          "url": "https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Evening Unbroken",
+      "url": "https://open.spotify.com/track/7qZpqqLkUxYFimW4zb1sYM"
+    },
+    {
+      "album": {
         "name": "Ever Connecting Thoughts",
         "url": "https://open.spotify.com/album/6JnhFLK8LVjZAHUmRe3Wx3"
       },
@@ -3848,7 +3956,7 @@
       "artists": [
         {
           "name": "Lio",
-          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
+          "url": "https://open.spotify.com/artist/2YVhWRw16lJgf11kPLiXP4"
         }
       ],
       "date_added": "2020-10-08",
@@ -4195,7 +4303,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 197598,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH"
@@ -5121,6 +5229,24 @@
       "duration_ms": 195500,
       "name": "I Will Carry You",
       "url": "https://open.spotify.com/track/03atDG2j0uoUFIanUel5Ae"
+    },
+    {
+      "album": {
+        "name": "Peaceful Atmospheres for Sleep and Rest Vol 1",
+        "url": "https://open.spotify.com/album/7Gig1E35PHUzCtBrjJJ6xy"
+      },
+      "artists": [
+        {
+          "name": "Eleonor Bauer",
+          "url": "https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Illusionist",
+      "url": "https://open.spotify.com/track/6wnhGsrGb5UlbPLebsCb25"
     },
     {
       "album": {
@@ -6053,7 +6179,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 242528,
       "name": "London Berceuse",
       "url": "https://open.spotify.com/track/4TD21HmrfSXDEKnlxPBGXl"
@@ -6071,7 +6197,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 207000,
       "name": "Lonely Molecule",
       "url": "https://open.spotify.com/track/5pDZOftc3EvBBkJWfNXcNn"
@@ -7860,6 +7986,24 @@
     },
     {
       "album": {
+        "name": "Pompeiana",
+        "url": "https://open.spotify.com/album/69U97EpbUG2vn9pAn0IoGH"
+      },
+      "artists": [
+        {
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175772,
+      "name": "Pompeiana",
+      "url": "https://open.spotify.com/track/6aiNDJMuzHwomOHCjIxIgq"
+    },
+    {
+      "album": {
         "name": "Elba",
         "url": "https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp"
       },
@@ -7911,6 +8055,24 @@
       "duration_ms": 228461,
       "name": "Prarie Whisper",
       "url": "https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd"
+    },
+    {
+      "album": {
+        "name": "Profetia",
+        "url": "https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV"
+      },
+      "artists": [
+        {
+          "name": "Mellow Dreamer",
+          "url": "https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175166,
+      "name": "Profetia",
+      "url": "https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY"
     },
     {
       "album": {
@@ -9185,7 +9347,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 239000,
       "name": "Solitary minds",
       "url": "https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg"
@@ -9617,7 +9779,7 @@
       ],
       "date_added": "2020-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 107500,
       "name": "Stuor Muorkke",
       "url": "https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6"
@@ -10078,6 +10240,24 @@
     },
     {
       "album": {
+        "name": "The Day is Done",
+        "url": "https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U"
+      },
+      "artists": [
+        {
+          "name": "Ellia Dunn",
+          "url": "https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211387,
+      "name": "The Day is Done",
+      "url": "https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS"
       },
@@ -10402,6 +10582,24 @@
     },
     {
       "album": {
+        "name": "Tikslingas",
+        "url": "https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm"
+      },
+      "artists": [
+        {
+          "name": "Teo Walter",
+          "url": "https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Tikslingas",
+      "url": "https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ"
+    },
+    {
+      "album": {
         "name": "Till Imorgon",
         "url": "https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra"
       },
@@ -10417,6 +10615,24 @@
       "duration_ms": 222468,
       "name": "Till Imorgon",
       "url": "https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa"
+    },
+    {
+      "album": {
+        "name": "Light Within",
+        "url": "https://open.spotify.com/album/7xsZqYs6pb32haBcOBZuND"
+      },
+      "artists": [
+        {
+          "name": "Gates of Heaven",
+          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175582,
+      "name": "Time-lapse",
+      "url": "https://open.spotify.com/track/5ZaEcUZjrkYiHTyOUpDZow"
     },
     {
       "album": {
@@ -11249,6 +11465,24 @@
       "duration_ms": 240000,
       "name": "Water Colors",
       "url": "https://open.spotify.com/track/1HfTcqsHF0yqrzXX1O01Z2"
+    },
+    {
+      "album": {
+        "name": "Water Poem",
+        "url": "https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5"
+      },
+      "artists": [
+        {
+          "name": "Melissa Gio",
+          "url": "https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Water Poem",
+      "url": "https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,413 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,102 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 18 | [Mawtini](https://open.spotify.com/track/31mjcdNDbnLa91PiqI0tiq) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [To Beirut with Love](https://open.spotify.com/album/7g9ztH73f7JjYEMnDbiNMP) | 4:36 |
 | 19 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 |
 | 20 | [Hkayti](https://open.spotify.com/track/0s3DYIv29lpbYU3XspNF6y) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Hkayti](https://open.spotify.com/album/1bfeUPx2VgAupNyQGT2YGM) | 3:21 |
-| 21 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 |
+| 21 | [Do3f Nazar](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Do3f Nazar](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 |
 | 22 | [Helm Btada](https://open.spotify.com/track/0KAS9sc44tzZSlLvM3MizM) | [Ghada Shbeir](https://open.spotify.com/artist/15CpMdJps6zQElgzHLU2Mg) | [Helm Btada](https://open.spotify.com/album/5QMVekrK7qmzzhxyjfBBOC) | 4:45 |
 | 23 | [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 |
 | 24 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 |

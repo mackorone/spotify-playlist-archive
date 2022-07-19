@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 102334,
       "name": "A-Hunting We Will Go",
       "url": "https://open.spotify.com/track/2ikRuxPqTGdiYsxL1c6Lmp"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 125605,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0JTSi51ekyjFA32HI0QfQW"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 106092,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Cosy Bed",
+        "url": "https://open.spotify.com/album/4eFRT0qtybLANJ9DrjZo0U"
+      },
+      "artists": [
+        {
+          "name": "Lacy Neal",
+          "url": "https://open.spotify.com/artist/7vxqmPfX4BDp5aksxuwLUc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76216,
+      "name": "Cosy Bed",
+      "url": "https://open.spotify.com/track/4FP4wQ0hkp0XQVaNrkoTHQ"
+    },
+    {
+      "album": {
         "name": "Lullabies",
         "url": "https://open.spotify.com/album/5mLPIk1JXzdlssRFT4v2fr"
       },
@@ -685,10 +703,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 110401,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/0th6Pdu5j6f3STgZB1UuPT"
+    },
+    {
+      "album": {
+        "name": "Danny Boy",
+        "url": "https://open.spotify.com/album/6TzigcYDebVWFSmQIgPxlr"
+      },
+      "artists": [
+        {
+          "name": "Mia Zand",
+          "url": "https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100048,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/4A5uk71KVLvImQcMPkDLzz"
     },
     {
       "album": {
@@ -707,6 +743,42 @@
       "duration_ms": 65217,
       "name": "Dark night, Sleep tight",
       "url": "https://open.spotify.com/track/4AyuF903Evw8I9J3ZtiCng"
+    },
+    {
+      "album": {
+        "name": "Das Zahnputzlied",
+        "url": "https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv"
+      },
+      "artists": [
+        {
+          "name": "Frieda Ross",
+          "url": "https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Das Zahnputzlied",
+      "url": "https://open.spotify.com/track/4tJU7TE1Jwt7Nlil89lLUO"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep Lullaby",
+        "url": "https://open.spotify.com/album/1PjWDhPpPkli4PX0npleRO"
+      },
+      "artists": [
+        {
+          "name": "Reynard Clark",
+          "url": "https://open.spotify.com/artist/1jj1Bmkj4ib8Ev0TsDBnfJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67027,
+      "name": "Deep Sleep Lullaby",
+      "url": "https://open.spotify.com/track/4wqW83aTWcGH8JJyxxHPNy"
     },
     {
       "album": {
@@ -847,7 +919,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 142980,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/7A9ewjBMiEg2eXKHsojDa0"
@@ -1009,7 +1081,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 102874,
       "name": "Flying To Neverland",
       "url": "https://open.spotify.com/track/4ZDyIkGlce4qMbWFUcXa8a"
@@ -1243,10 +1315,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 137580,
       "name": "Hush My Little Angel",
       "url": "https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn"
+    },
+    {
+      "album": {
+        "name": "I Can't Help Falling In Love (Harp)",
+        "url": "https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w"
+      },
+      "artists": [
+        {
+          "name": "Chloe Hulme",
+          "url": "https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119269,
+      "name": "I Can't Help Falling In Love - Harp",
+      "url": "https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p"
     },
     {
       "album": {
@@ -1628,6 +1718,24 @@
     },
     {
       "album": {
+        "name": "My Brother Charlie",
+        "url": "https://open.spotify.com/album/4EYg235urjEzSmSCbypl2V"
+      },
+      "artists": [
+        {
+          "name": "Eliza Adam",
+          "url": "https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "My Brother Charlie",
+      "url": "https://open.spotify.com/track/6JuYU8DQl781m1J92vGVrC"
+    },
+    {
+      "album": {
         "name": "My button",
         "url": "https://open.spotify.com/album/5tqyY54twI0oraFX1SJzmI"
       },
@@ -1675,7 +1783,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 107212,
       "name": "My Sweet Sweet Angel",
       "url": "https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K"
@@ -1765,7 +1873,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 102000,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM"
@@ -1934,6 +2042,24 @@
     },
     {
       "album": {
+        "name": "Spring Melody",
+        "url": "https://open.spotify.com/album/72dWE0Bdn5MGIkFR7fL3V4"
+      },
+      "artists": [
+        {
+          "name": "Willoughby Bird",
+          "url": "https://open.spotify.com/artist/2SD5Hli44gBRnfLGp85hQF"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68108,
+      "name": "Spring Melody",
+      "url": "https://open.spotify.com/track/3X6o86NQAOT0iZF3IsecMj"
+    },
+    {
+      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/1GjMcPaQ2FT01HRAq32Je7"
       },
@@ -1949,6 +2075,24 @@
       "duration_ms": 84324,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ"
+    },
+    {
+      "album": {
+        "name": "Stars Are Falling",
+        "url": "https://open.spotify.com/album/6UkA9lFUPAzyEzrOpzPbpm"
+      },
+      "artists": [
+        {
+          "name": "Nash Hershey",
+          "url": "https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56801,
+      "name": "Stars Are Falling",
+      "url": "https://open.spotify.com/track/56ylWs9S44viM3Rs790MCv"
     },
     {
       "album": {
@@ -2003,6 +2147,24 @@
       "duration_ms": 95000,
       "name": "Su\u0308\u00dfe Tra\u0308ume",
       "url": "https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt"
+    },
+    {
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/2l4Ut4rKzqxqhQy3JEJ2QZ"
+      },
+      "artists": [
+        {
+          "name": "Oswin Alvey",
+          "url": "https://open.spotify.com/artist/619qDEWC7talyzV39o3j5p"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68648,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/7KfKKlOMT7DBC4gHlbTLek"
     },
     {
       "album": {
@@ -2096,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "The Wheels On The Bus (Harp)",
+        "url": "https://open.spotify.com/album/1GN1mQIjCLpFHQTMc6xoYd"
+      },
+      "artists": [
+        {
+          "name": "Mandy Emery",
+          "url": "https://open.spotify.com/artist/44sB3HOu7jhEOVDrzsFkv3"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100629,
+      "name": "The Wheels On The Bus - Harp",
+      "url": "https://open.spotify.com/track/4iNT49ernA78kHJzhJJdmY"
+    },
+    {
+      "album": {
         "name": "Beautiful Dreamer",
         "url": "https://open.spotify.com/album/32sv0cRYNSNAZATBtOtejF"
       },
@@ -2107,10 +2287,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 107526,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/2gNCbtTziyHdx9szW82JOc"
+    },
+    {
+      "album": {
+        "name": "Time To Nap",
+        "url": "https://open.spotify.com/album/0ShUq9Hv1ihHW5YnjyhAJv"
+      },
+      "artists": [
+        {
+          "name": "Ophelia Dawson",
+          "url": "https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Time To Nap",
+      "url": "https://open.spotify.com/track/7IrYHQD7d72xGSyCMt0VQ5"
     },
     {
       "album": {
@@ -2276,6 +2474,42 @@
     },
     {
       "album": {
+        "name": "Warm Enough For Ice Cream",
+        "url": "https://open.spotify.com/album/0zLjos5NiyKJtbv7YsqliA"
+      },
+      "artists": [
+        {
+          "name": "Callie Berger",
+          "url": "https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89500,
+      "name": "Warm Enough For Ice Cream",
+      "url": "https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF"
+    },
+    {
+      "album": {
+        "name": "Das Zahnputzlied",
+        "url": "https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv"
+      },
+      "artists": [
+        {
+          "name": "Frieda Ross",
+          "url": "https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Wenn Du Einschl\u00e4fst",
+      "url": "https://open.spotify.com/track/2EtEyjAlPvu6Dl8CvlwTkB"
+    },
+    {
+      "album": {
         "name": "My Best Friend Bob",
         "url": "https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q"
       },
@@ -2327,6 +2561,24 @@
       "duration_ms": 91304,
       "name": "White Pyjamas",
       "url": "https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh"
+    },
+    {
+      "album": {
+        "name": "With My Toes In The Lake",
+        "url": "https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf"
+      },
+      "artists": [
+        {
+          "name": "Dodie Little",
+          "url": "https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97406,
+      "name": "With My Toes In The Lake",
+      "url": "https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl"
     },
     {
       "album": {

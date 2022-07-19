@@ -1,13 +1,45 @@
 {
   "description": "Go-Go Music from the heart of Washington, DC. Cover, New Impressionz by Jay Kyri",
-  "num_followers": 932,
+  "num_followers": 1192,
   "original_name": "GO-GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMzc0NCwwMDAwMDAwZDAwMDAwMTgwNGZhNjVlYTAwMDAwMDE3ZWEzN2RmMjEz",
+  "snapshot_id": "MTY1NjY0NjIyOCwwMDAwMDAwZjAwMDAwMTgxYjdjZjU5MmMwMDAwMDE3ZWEzN2RmMjEz",
   "tracks": [
+    {
+      "added_at": "2022-07-01 03:30:28",
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "duration_ms": 46215,
+      "name": "Jersey Anniversary (Sample)",
+      "url": "https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV"
+    },
+    {
+      "added_at": "2022-05-20 07:47:32",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "duration_ms": 56059,
+      "name": "Found Myself a Clappa 2019 - Live",
+      "url": "https://open.spotify.com/track/6TaUGITKJOhZPA66GKVSuf"
+    },
     {
       "added_at": "2022-04-22 05:02:24",
       "album": {
@@ -25,24 +57,88 @@
       "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
     },
     {
-      "added_at": "2022-02-04 18:58:32",
+      "added_at": "2022-05-20 07:47:32",
       "album": {
-        "name": "Drop!",
-        "url": "https://open.spotify.com/album/7rBNst31JCowXnswrq6HIR"
+        "name": "The Lost Bounce Tapes Vol #1",
+        "url": "https://open.spotify.com/album/2RtDOZZBLKXMtnuiZeIs3K"
       },
       "artists": [
         {
-          "name": "Tone P",
-          "url": "https://open.spotify.com/artist/1OtOMQm0JZCYsv5TO5kgyh"
-        },
-        {
-          "name": "Tony Lewis Jr",
-          "url": "https://open.spotify.com/artist/7jma0qzl1PAmUi89FWFvri"
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
         }
       ],
-      "duration_ms": 50703,
-      "name": "District Commencement",
-      "url": "https://open.spotify.com/track/6T5oHp9GzaACnaQ964SxYj"
+      "duration_ms": 156421,
+      "name": "Lay Ya Head",
+      "url": "https://open.spotify.com/track/0kKEJGrSIPJggcV7ekdsYf"
+    },
+    {
+      "added_at": "2022-07-01 03:30:28",
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "TwinN'Em",
+      "url": "https://open.spotify.com/track/6C0Rpw1AvaVmADNCD1Zhww"
+    },
+    {
+      "added_at": "2022-07-01 03:30:28",
+      "album": {
+        "name": "THE RUNDOWN VOl.1",
+        "url": "https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN"
+      },
+      "artists": [
+        {
+          "name": "TOB",
+          "url": "https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk"
+        }
+      ],
+      "duration_ms": 289437,
+      "name": "Sittin at The Bar",
+      "url": "https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b"
+    },
+    {
+      "added_at": "2022-07-01 03:30:28",
+      "album": {
+        "name": "Live... from Rock n Roll Hotel - DC",
+        "url": "https://open.spotify.com/album/2MkOfsQNSTfKg01ZRnC7V7"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 506946,
+      "name": "Excuse Me While I Dance...",
+      "url": "https://open.spotify.com/track/32YlekcvtUel6567UswVfD"
+    },
+    {
+      "added_at": "2022-01-29 19:03:34",
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        },
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Classy",
+      "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
     },
     {
       "added_at": "2022-01-30 18:12:11",
@@ -207,6 +303,26 @@
       "duration_ms": 161136,
       "name": "Club Godzilla",
       "url": "https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg"
+    },
+    {
+      "added_at": "2022-05-20 07:47:32",
+      "album": {
+        "name": "Own It (GoGo Bounce)",
+        "url": "https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3"
+      },
+      "artists": [
+        {
+          "name": "Don Panama",
+          "url": "https://open.spotify.com/artist/5xhWTTy7Vi5FPDQaUYSIbp"
+        },
+        {
+          "name": "Drew Keys",
+          "url": "https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Own It (GoGo Bounce)",
+      "url": "https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu"
     },
     {
       "added_at": "2022-01-29 19:03:34",
@@ -719,26 +835,6 @@
     {
       "added_at": "2022-01-29 19:03:34",
       "album": {
-        "name": "Critical Condition",
-        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
-      },
-      "artists": [
-        {
-          "name": "CCB (Critical Condition Band)",
-          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
-        },
-        {
-          "name": "Backyard Band",
-          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Classy",
-      "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
-    },
-    {
-      "added_at": "2022-01-29 19:03:34",
-      "album": {
         "name": "Diversity!",
         "url": "https://open.spotify.com/album/4EjHp2MA2Os0SVpYcDXhei"
       },
@@ -1083,22 +1179,6 @@
     {
       "added_at": "2022-01-29 19:03:34",
       "album": {
-        "name": "The Lissen Reunion (Live from the Howard Theatre)",
-        "url": "https://open.spotify.com/album/4XfM5TuPEjnzBNFCw7IRvu"
-      },
-      "artists": [
-        {
-          "name": "Lissen",
-          "url": "https://open.spotify.com/artist/2pwNExfabUxSuq6oVFMGp6"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Drunk in Love (Live)",
-      "url": "https://open.spotify.com/track/0rpKrFeWyabzT4x58EC0uT"
-    },
-    {
-      "added_at": "2022-01-29 19:03:34",
-      "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
       },
@@ -1111,26 +1191,6 @@
       "duration_ms": 391078,
       "name": "96 Dope Jam",
       "url": "https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc"
-    },
-    {
-      "added_at": "2022-01-29 19:03:34",
-      "album": {
-        "name": "Hit the Floor",
-        "url": "https://open.spotify.com/album/0PeJ3LjVw8IilrIQYBzN9Q"
-      },
-      "artists": [
-        {
-          "name": "Rare Essence",
-          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 221607,
-      "name": "Hit the Floor",
-      "url": "https://open.spotify.com/track/1exaZpUIfmgdBstO3DhAY8"
     }
   ],
   "unique_name": "GO-GO",

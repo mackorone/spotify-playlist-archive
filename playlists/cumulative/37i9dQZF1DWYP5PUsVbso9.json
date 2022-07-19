@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided.",
+  "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
   "name": "70s Country",
   "published_playlist_ids": [
     "1KxHyfdL3wCGKY9oZxPyfF"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "I'm Just Me",
+        "url": "https://open.spotify.com/album/08t9IC4bH98d4uSihXa40x"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "I'd Rather Love You",
+      "url": "https://open.spotify.com/track/6Zo1yJyD4Fj3fgg2FHxfTw"
+    },
+    {
+      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -607,6 +625,24 @@
       "duration_ms": 196000,
       "name": "If We're Not Back In Love By Monday",
       "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
+    },
+    {
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "album": {

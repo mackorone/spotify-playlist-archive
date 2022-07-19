@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78UTV8Gw5bHpyWc65qR4Px.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/78UTV8Gw5bHpyWc65qR4Px.md) - [plain]
 | 3 | [Love's Theme](https://open.spotify.com/track/5FFaUuv02cSOcqtlzPnHee) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White](https://open.spotify.com/album/15uGHYJx0RwYK8FdZIiedj) | 4:06 |
 | 4 | [Come and Get Your Love \- Re\-Recorded](https://open.spotify.com/track/3qejiE0NLXcERPjNhkdxYX) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [The Warriors](https://open.spotify.com/album/2DWppjkkPt8wc5Gmhj6HJw) | 2:57 |
 | 5 | [Dancing Machine](https://open.spotify.com/track/0xqb2Euq1PAxKHBA36NUnx) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Dancing Machine](https://open.spotify.com/album/4oq9Qnp8xopMsypgLGbJ7G) | 2:41 |
-| 6 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Remastered 2002 / Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 |
+| 6 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 |
 | 7 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
 | 8 | [The Streak](https://open.spotify.com/track/0XN7qxKWMeLp04FQmBfF5G) | [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Greatest Hits \(50th Anniversary Collection\)](https://open.spotify.com/album/57UnjFV76MWknyCfFWCDmp) | 3:19 |
 | 9 | [Bennie And The Jets](https://open.spotify.com/track/3J9PGiX9DjHuNyQirnqUGw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John's Greatest Hits](https://open.spotify.com/album/6T9u7scKy8yDe6V1QmXpoJ) | 5:11 |

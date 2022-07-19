@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 214573,
       "name": "1,2,3 - Remix",
       "url": "https://open.spotify.com/track/1ovIbIRHnG8oi4aUnh2i5d"
@@ -121,33 +121,13 @@
       },
       "artists": [
         {
-          "name": "Jahloul Bouchikhi",
-          "url": "https://open.spotify.com/artist/7yLLhvAgtCLYy4jQjdvim8"
-        },
-        {
-          "name": "Nicolas Reyes",
-          "url": "https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT"
-        },
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        },
-        {
-          "name": "Sim\u00f3n D\u00edaz",
-          "url": "https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4"
-        },
-        {
-          "name": "Tonino Baliardo",
-          "url": "https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L"
-        },
-        {
           "name": "Gipsy Kings",
           "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
@@ -205,7 +185,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 410773,
       "name": "Can You Feel the Beat",
       "url": "https://open.spotify.com/track/5WwZeusFlxOKmTW25ImmgM"
@@ -533,7 +513,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 260440,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/3yxeZZnFJDmw72ID4whKXR"
@@ -825,6 +805,28 @@
       "duration_ms": 178866,
       "name": "Quincea\u00f1era",
       "url": "https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 235426,
+      "name": "Rhythm Is Gonna Get You",
+      "url": "https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk"
     },
     {
       "album": {

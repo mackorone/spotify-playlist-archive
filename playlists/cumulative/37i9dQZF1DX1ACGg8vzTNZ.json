@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-02-22",
-  "description": "Electronic, orchestral and ambient music to awaken your imagination. ",
+  "description": "Instrumental, ambient music to awaken your imagination. ",
   "name": "Creative Writing",
   "published_playlist_ids": [
     "2ZN8XpPOZQfCyasAye62LJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+    },
     {
       "album": {
         "name": "WE",
@@ -23,6 +41,24 @@
       "duration_ms": 228900,
       "name": "Atoms",
       "url": "https://open.spotify.com/track/0hkKRfW2uqXYjKVnKRj2Ci"
+    },
+    {
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
     },
     {
       "album": {
@@ -62,6 +98,28 @@
     },
     {
       "album": {
+        "name": "Big Wide World (Reimagined for Piano)",
+        "url": "https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293405,
+      "name": "Big Wide World (Reimagined for Piano)",
+      "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
+    },
+    {
+      "album": {
         "name": "Ciara",
         "url": "https://open.spotify.com/album/5yULnACBq3ExHSl3ppyFz6"
       },
@@ -81,6 +139,28 @@
       "duration_ms": 230000,
       "name": "Bristol",
       "url": "https://open.spotify.com/track/4qw82RcMFJYUS974Fy1fPY"
+    },
+    {
+      "album": {
+        "name": "Br\u00e5ddjup",
+        "url": "https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "Br\u00e5ddjup",
+      "url": "https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9"
     },
     {
       "album": {
@@ -149,7 +229,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 405714,
       "name": "Desire to Surrender - Original Mix",
       "url": "https://open.spotify.com/track/1iREBmDLkygqw9JX2GnSbS"
@@ -207,7 +287,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 296899,
       "name": "Dunkel",
       "url": "https://open.spotify.com/track/6tJAzmF4RtGKrnDmfsth1J"
@@ -229,6 +309,28 @@
       "duration_ms": 196523,
       "name": "Empty City",
       "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
+    },
+    {
+      "album": {
+        "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3"
+      },
+      "artists": [
+        {
+          "name": "Frances Shelley",
+          "url": "https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw"
     },
     {
       "album": {
@@ -283,7 +385,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 289809,
       "name": "Geaissvearra",
       "url": "https://open.spotify.com/track/1c7SfsVqWnlmKyURJgwcqH"
@@ -345,7 +447,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 295623,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0AOnNl1SVzTFWovqKJoSKk"
@@ -468,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E"
+      },
+      "artists": [
+        {
+          "name": "Michael Peter Olsen",
+          "url": "https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193267,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s"
+    },
+    {
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/2mNBRfA9Zdyq5hmBasAUNT"
       },
@@ -505,6 +625,24 @@
       "duration_ms": 213982,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/2ioJiNmf15qbpAtkhHOgDo"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW"
     },
     {
       "album": {
@@ -597,7 +735,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 279234,
       "name": "Over",
       "url": "https://open.spotify.com/track/7sZ1aPcMpDqVujjRa4AbW0"
@@ -681,7 +819,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 143893,
       "name": "Sai Ram",
       "url": "https://open.spotify.com/track/6bX09Cev5Zj1784eV787wy"
@@ -728,6 +866,28 @@
     },
     {
       "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/0brYnL9IbHnqPYOqEEkNrC"
+      },
+      "artists": [
+        {
+          "name": "Jim Wallis",
+          "url": "https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL"
+        },
+        {
+          "name": "Nick Goss",
+          "url": "https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402933,
+      "name": "Seventh Man",
+      "url": "https://open.spotify.com/track/66wsgXCHuYUJMVdh1t09jy"
+    },
+    {
+      "album": {
         "name": "Silent Fall",
         "url": "https://open.spotify.com/album/4vAs9fJE03B9U6Mx85Pfg3"
       },
@@ -743,10 +903,140 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 343315,
       "name": "Silent Fall",
       "url": "https://open.spotify.com/track/6KYDAUs79tYUEiofQm5jkj"
+    },
+    {
+      "album": {
+        "name": "Solitude I",
+        "url": "https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229877,
+      "name": "Solitude I",
+      "url": "https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU"
+    },
+    {
+      "album": {
+        "name": "Still Blue",
+        "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Enrico Belli",
+          "url": "https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374662,
+      "name": "Still Blue",
+      "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
+    },
+    {
+      "album": {
+        "name": "Suite in D IV (Dreamland)",
+        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloch",
+          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174107,
+      "name": "Suite in D IV (Dreamland)",
+      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
+    },
+    {
+      "album": {
+        "name": "S\u00f8ndermarken (Video Edit)",
+        "url": "https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250263,
+      "name": "S\u00f8ndermarken - Video Edit",
+      "url": "https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2"
+    },
+    {
+      "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
+    },
+    {
+      "album": {
+        "name": "To Ourselves",
+        "url": "https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA"
+      },
+      "artists": [
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268983,
+      "name": "To Ourselves",
+      "url": "https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8"
     },
     {
       "album": {
@@ -761,7 +1051,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 192000,
       "name": "Uma",
       "url": "https://open.spotify.com/track/2A2jMfCKlOMmchKuDgSJ2v"
@@ -783,6 +1073,24 @@
       "duration_ms": 303891,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5H2Mf22OhaswQNHZwb7q5h"
+    },
+    {
+      "album": {
+        "name": "Upstream Dream",
+        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256005,
+      "name": "Upstream Dream",
+      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ACGg8vzTNZ"

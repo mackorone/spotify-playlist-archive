@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,259 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,234 likes - 159 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

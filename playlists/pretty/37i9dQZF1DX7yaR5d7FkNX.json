@@ -1,61 +1,13 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 63876,
+  "num_followers": 73371,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkzODc1MSwwMDAwMDAyMjAwMDAwMTgwNjM5ZTI5NWIwMDAwMDE3NzRmNWNiNTEz",
+  "snapshot_id": "MTY1NjY4Njk3MCwwMDAwMDAyNTAwMDAwMTgxYmEzZDA2NDQwMDAwMDE3NzRmNWNiNTEz",
   "tracks": [
-    {
-      "added_at": "2022-01-28 15:52:04",
-      "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
-    },
-    {
-      "added_at": "2022-03-28 23:13:25",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
-    },
-    {
-      "added_at": "2022-01-28 15:52:04",
-      "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 277547,
-      "name": "Vicio",
-      "url": "https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI"
-    },
     {
       "added_at": "2022-01-28 15:52:04",
       "album": {
@@ -71,6 +23,38 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2022-07-01 02:34:42",
+      "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
+    },
+    {
+      "added_at": "2022-01-28 15:52:04",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
     },
     {
       "added_at": "2022-04-26 01:32:23",
@@ -249,6 +233,22 @@
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
     },
     {
+      "added_at": "2022-03-28 23:13:25",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Haw\u00e1i (Post-Punk)",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
     },
     {
+      "added_at": "2022-01-28 15:52:04",
+      "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 277547,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI"
+    },
+    {
       "added_at": "2022-04-26 02:05:51",
       "album": {
         "name": "Voluma",
@@ -437,9 +453,25 @@
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
     },
     {
+      "added_at": "2022-07-01 14:49:30",
+      "album": {
+        "name": "El Ruido",
+        "url": "https://open.spotify.com/album/0P4JYnPhEPPdSmFq1jxObl"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 177297,
+      "name": "El Ruido",
+      "url": "https://open.spotify.com/track/6YJLHnSvofGO8vvKC8Bps0"
+    },
+    {
       "added_at": "2022-03-18 04:19:03",
       "album": {
-        "name": "A\u00f1os Luz",
+        "name": "En A\u00f1os Luz",
         "url": "https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe"
       },
       "artists": [
@@ -449,7 +481,7 @@
         }
       ],
       "duration_ms": 225936,
-      "name": "A\u00f1os Luz",
+      "name": "En A\u00f1os Luz",
       "url": "https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2"
     },
     {
@@ -523,6 +555,26 @@
       "duration_ms": 192760,
       "name": "Eres para M\u00ed (with Anita Tijoux)",
       "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
+    },
+    {
+      "added_at": "2022-05-12 20:01:48",
+      "album": {
+        "name": "G\u00f3ndola",
+        "url": "https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        },
+        {
+          "name": "Ana Rizo",
+          "url": "https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz"
+        }
+      ],
+      "duration_ms": 340051,
+      "name": "G\u00f3ndola - Live Session",
+      "url": "https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V"
     },
     {
       "added_at": "2022-04-26 02:05:51",

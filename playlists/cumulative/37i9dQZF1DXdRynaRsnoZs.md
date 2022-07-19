@@ -4,19 +4,21 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-45 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+45 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 |  |
+| [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 |  |
-| [Angels We Have Heard on High](https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG) | [Amelia van Hootens](https://open.spotify.com/artist/2dxYzyXrxRkUSwbG2ksVI1) | [Holiday Piano EP](https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI) | 2:18 | 2021-12-22 |  |
 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 | 2021-12-22 |  |
 | [Away in a Manger](https://open.spotify.com/track/2UxcPu3rstLUhbaCT6skKN) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:16 | 2021-12-22 |  |
 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 | 2021-12-22 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 |  |
-| [Christmas Time Is Here](https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC) | [Amy Soonyoung](https://open.spotify.com/artist/3PsjPJKC9SjOmEYcHRw5Rd) | [Christmas Time Is Here](https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL) | 2:51 | 2021-12-22 |  |
-| [Deck the Halls \- Piano Version](https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0) | [Annie Leigh](https://open.spotify.com/artist/2jikpvyegE6SNWANdCrvPK) | [Grand Piano Christmas](https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx) | 1:22 | 2021-12-22 |  |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 2:03 | 2021-12-22 |  |
 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 | 2021-12-22 |  |
 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/1fbnn3frhDoCMsM0QEogJK) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Do You Want to Build a Snowman?](https://open.spotify.com/album/66qwp0fTQzjZGsx5zFSNeB) | 3:16 | 2021-12-22 |  |
@@ -27,9 +29,7 @@
 | [Greensleaves](https://open.spotify.com/track/6UDKYg6iEDCM0JGshKbAi5) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Classical Baby Harp](https://open.spotify.com/album/0SoCLTx3BVF2CddiM8Hr2H) | 1:33 | 2021-12-22 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1rRppTsaEXtYqqQ8ZtzgoM) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 4:55 | 2021-12-22 |  |
 | [Hark! The Herald Angels Sing \- Piano](https://open.spotify.com/track/6kE9hyVw6pX9BMuI6PHYfY) | [Anders Roy](https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0) | [Holiday Piano Classics](https://open.spotify.com/album/0ZRzneVliO3pRj1qTLOlo8) | 2:24 | 2021-12-22 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [Mila Crowell](https://open.spotify.com/artist/5abWpggjZABRz6VzlVjzyo) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 2:57 | 2021-12-22 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-22 |  |
-| [Holly Jolly Christmas](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [Leyton Lake](https://open.spotify.com/artist/6eq5DdF14hc1mW6b1zEtHQ) | [Holly Jolly Christmas](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 3:35 | 2021-12-22 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/7jB8pSChFzxNfGOIhHGNho) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/26xeKrPelJVKuspC13ySh9) | 3:27 | 2021-12-22 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5yP4hR7u50mtconpLCYNNe) | [Peter Blitz](https://open.spotify.com/artist/7xDyVoAplSi3NTi27ZSssX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFPYFs2QU4WBwHu7UHxcv) | 2:35 | 2021-12-22 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 |  |

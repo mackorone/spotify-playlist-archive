@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,098 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,525 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 17 | [Before You Get a Boyfriend.](https://open.spotify.com/track/4KVTbc2x0EahbAaLHv8TkH) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Before You Get a Boyfriend.](https://open.spotify.com/album/09vk699RVpDUZ0fPXbTfZS) | 4:13 |
 | 18 | [Hurting](https://open.spotify.com/track/56SHxd1fNd564p7kS6URmz) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Hurting](https://open.spotify.com/album/2GOATjSsnYmidOyRs0xHuZ) | 3:05 |
 | 19 | [Mona Lisa Bonet](https://open.spotify.com/track/2YzBdC2q79LqZ2w7YN5Yfj) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Mona Lisa Bonet](https://open.spotify.com/album/2MmwK5PGV6s1O1kjAz4CsG) | 2:05 |
-| 20 | [Dangerous](https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2) | 3:51 |
+| 20 | [Dangerous](https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [This Time](https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2) | 3:51 |
 | 21 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
 | 22 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 |
 | 23 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 |

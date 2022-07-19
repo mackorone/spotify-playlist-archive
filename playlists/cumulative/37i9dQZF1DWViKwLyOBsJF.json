@@ -8,6 +8,60 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y"
+    },
+    {
+      "album": {
         "name": "A Baby Changes Everything",
         "url": "https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV"
       },
@@ -311,24 +365,6 @@
       "duration_ms": 245266,
       "name": "Coventry Carol",
       "url": "https://open.spotify.com/track/6wjdQUvDqBtrHUoqeI9ehb"
-    },
-    {
-      "album": {
-        "name": "Christmas Memories",
-        "url": "https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa"
-      },
-      "artists": [
-        {
-          "name": "Christmas Piano Players",
-          "url": "https://open.spotify.com/artist/7wxo3zltsG1q2vHTcRVJ39"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 90461,
-      "name": "Ding Dong Merrily On High",
-      "url": "https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI"
     },
     {
       "album": {
@@ -727,42 +763,6 @@
       "duration_ms": 243746,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
-    },
-    {
-      "album": {
-        "name": "My Piano Christmas",
-        "url": "https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m"
-      },
-      "artists": [
-        {
-          "name": "Danny Silberman",
-          "url": "https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193285,
-      "name": "Mary's Boy Child",
-      "url": "https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX"
-    },
-    {
-      "album": {
-        "name": "Peaceful Christmas Piano",
-        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
-      },
-      "artists": [
-        {
-          "name": "Arthur Mass",
-          "url": "https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116863,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y"
     },
     {
       "album": {

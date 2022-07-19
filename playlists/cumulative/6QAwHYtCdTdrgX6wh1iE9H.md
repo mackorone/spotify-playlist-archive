@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6QAwHYtCdTdrgX6wh1iE9H.md) - cumulative - [plain](/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6QAwHYtCdTdrgX6wh1iE9H)
 
-### [Lazy Afternoon](https://open.spotify.com/playlist/6QAwHYtCdTdrgX6wh1iE9H)
+### [Lazy Afternoon \(2\)](https://open.spotify.com/playlist/6QAwHYtCdTdrgX6wh1iE9H)
 
 > Lounge around without a care in the world...
 

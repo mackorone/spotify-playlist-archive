@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain]
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 28 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 28 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain]
 | 13 | [Miss Movin' On](https://open.spotify.com/track/348qSa1KejmhpWgCpsfSxb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Better Together](https://open.spotify.com/album/4cGhyX6yki8lC1Me5cuYpm) | 3:14 |
 | 14 | [No Cure](https://open.spotify.com/track/3WYqgCHQk0UBnXiiNdZMDY) | [Megan Hilty](https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk) | [It Happens All the Time](https://open.spotify.com/album/21C0CA6MvQpdywhHqaePCZ) | 3:37 |
 | 15 | [Ain't No Chimneys In The Projects](https://open.spotify.com/track/4rypPlTSyEa6E7Z6kxeuMT) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul Time!](https://open.spotify.com/album/71wOCRaYty23tGKYCwCiSJ) | 2:21 |
-| 16 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & The Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
+| 16 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 | 17 | [Sesame Street Theme](https://open.spotify.com/track/72VtUtJJO4PkaGaXw5cBQn) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:05 |
 | 18 | [Best Days of Your Life](https://open.spotify.com/track/27BMLvWD1TYdosiReVgbAt) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Kellie Pickler](https://open.spotify.com/album/1PaWZcwVckRVsEGwhGxEEG) | 3:46 |
 | 19 | [The Seed \(2.0\)](https://open.spotify.com/track/1a6Jt6USVGKzbjYpcKMwPB) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/4rKiBz8pX9zmKuEk4NArfm) | 4:27 |

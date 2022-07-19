@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,003 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,490 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

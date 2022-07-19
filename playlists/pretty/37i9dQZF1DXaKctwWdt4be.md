@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKctwWdt4be.md) - [plain]
 
 > Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius! \(on mobile only\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,244 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,264 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKctwWdt4be.md) - [plain]
 | 49 | [BULLETPROOF \(feat\. Jay 305\)](https://open.spotify.com/track/1qUdAB72nSWPZwDqH9KMYD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV) | [STAY DANGEROUS](https://open.spotify.com/album/5IYvKd22yQkJRfoIStesbX) | 2:33 |
 | 50 | [10 Freaky Girls \(with 21 Savage\)](https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:28 |
 
-Snapshot ID: `MTU2NzY3NDQ4MiwwMDAwMDAxZDAwMDAwMTY4OWZjNjI5ZjQwMDAwMDE2ZDAwYWU0MGZj`
+Snapshot ID: `MTY1NTk5OTgwMiwwMDAwMDAxZTAwMDAwMTgxOTE0N2FkY2MwMDAwMDE2ZDAwYWU0MGZj`

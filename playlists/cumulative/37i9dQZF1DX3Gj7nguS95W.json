@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-05-06",
       "duration_ms": 284773,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/5mYtpXrZZ1bbGJYDGC8I0Y"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-15",
       "duration_ms": 577226,
       "name": "Bela Lugosi's Dead",
       "url": "https://open.spotify.com/track/1cPf2khrcp6iRfTGFisSoS"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-17",
       "duration_ms": 218933,
       "name": "Dear God - Remastered 2001",
       "url": "https://open.spotify.com/track/5WuRIlM4ACXHJwcjzlm9Gx"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-29",
       "duration_ms": 234332,
       "name": "Drive - 2017 Remaster",
       "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 354626,
       "name": "E=MC2",
       "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": "2022-06-18",
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 179613,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/1GIV1YzfuFzYAoUjwx3r7W"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 186213,
       "name": "Radio, Radio",
       "url": "https://open.spotify.com/track/4cZ7dGQZi9duyPn1SY2lgU"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 257133,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
@@ -865,10 +865,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 244320,
       "name": "Shot By Both Sides - Remastered",
       "url": "https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2"
+    },
+    {
+      "album": {
+        "name": "Love and Rockets",
+        "url": "https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-20",
+      "duration_ms": 257826,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
     },
     {
       "album": {
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 204560,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"

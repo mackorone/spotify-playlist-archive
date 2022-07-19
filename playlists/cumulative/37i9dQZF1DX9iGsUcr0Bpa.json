@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 288333,
       "name": "Afro Puffs",
       "url": "https://open.spotify.com/track/2sK1a4QxXQm6Jq8z2R1WgO"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 259466,
       "name": "B. K. Anthem",
       "url": "https://open.spotify.com/track/3liGFAshsmzJZW17h9Kebe"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": "2022-07-19",
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 238386,
       "name": "Ching Ching",
       "url": "https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 277466,
       "name": "Cold Rock a Party (feat. Missy Misdemeanor Elliott) - Bad Boy Remix",
       "url": "https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 250360,
       "name": "Extra, Extra!! - Radio Edit",
       "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "album": {
         "name": "Block Music",
         "url": "https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 204000,
       "name": "Ghetto Love (feat. T-Boz)",
       "url": "https://open.spotify.com/track/5iJkSPVhITJvlYW3U3BxtS"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 313666,
       "name": "Hater's Anthem",
       "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 238693,
       "name": "Ladies First",
       "url": "https://open.spotify.com/track/3MN82VctKXwosPol8bzyDM"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 260306,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 222333,
       "name": "My Neck, My Back",
       "url": "https://open.spotify.com/track/04NMCxLqlXuyONlkdH4rY2"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-11",
       "duration_ms": 314600,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/2ce2ift9TQGKmqB20F6od2"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-07-03",
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-19",
       "duration_ms": 309487,
       "name": "Roxanne's Revenge",
       "url": "https://open.spotify.com/track/2sftlrkrHgbmUa577QsOMm"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-18",
       "duration_ms": 237266,
       "name": "Ruffneck",
       "url": "https://open.spotify.com/track/5BC50dLe7dZKVc3gPvJRx9"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "Stand Up (Featuring Ghostface Killah) (feat. Ghostface Killah)",
       "url": "https://open.spotify.com/track/1OthLEsS1Qc4zwEjJ2E2Xx"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 233226,
       "name": "Take You Home (feat. Kelis)",
       "url": "https://open.spotify.com/track/76HwNiaQIPdiKkPr9rIblr"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 253106,
       "name": "The Party Don't Stop",
       "url": "https://open.spotify.com/track/1Ojr6XMYJnlkTYI1bVr5uG"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 194266,
       "name": "Tight",
       "url": "https://open.spotify.com/track/2c3JFVHCIcupZ6C9eBZJP0"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-07-18",
       "duration_ms": 281906,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"

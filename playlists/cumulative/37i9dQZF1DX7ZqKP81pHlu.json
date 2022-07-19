@@ -66,6 +66,50 @@
     },
     {
       "album": {
+        "name": "Achfa",
+        "url": "https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "Achfa",
+      "url": "https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT"
+    },
+    {
+      "album": {
+        "name": "Adieu c'est fini",
+        "url": "https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Sofiane DMC",
+          "url": "https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392333,
+      "name": "Adieu c'est fini",
+      "url": "https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU"
+    },
+    {
+      "album": {
         "name": "Amazone",
         "url": "https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28"
       },
@@ -99,7 +143,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 207975,
       "name": "Ana & Rasi",
       "url": "https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO"
@@ -218,6 +262,32 @@
     },
     {
       "album": {
+        "name": "Caravan To Baghdad",
+        "url": "https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "Amine tefaha",
+          "url": "https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L"
+        },
+        {
+          "name": "Arslane Bouras",
+          "url": "https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Caravan To Baghdad",
+      "url": "https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm"
+    },
+    {
+      "album": {
         "name": "Courage",
         "url": "https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV"
       },
@@ -251,7 +321,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 186000,
       "name": "Dawama",
       "url": "https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp"
@@ -298,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Disco Maghreb",
+        "url": "https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184799,
+      "name": "Disco Maghreb",
+      "url": "https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va"
+    },
+    {
+      "album": {
         "name": "Dounia",
         "url": "https://open.spotify.com/album/6wENSfn6GWCxj5gF8N4mFP"
       },
@@ -309,7 +397,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 189242,
       "name": "Dounia",
       "url": "https://open.spotify.com/track/0RuXUc6UeufJkqvk8LIrIx"
@@ -411,7 +499,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 215257,
       "name": "Fi Hwak",
       "url": "https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi"
@@ -503,7 +591,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 225551,
       "name": "Kelthoum",
       "url": "https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4"
@@ -547,7 +635,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 213750,
       "name": "Ktab Laghram",
       "url": "https://open.spotify.com/track/0DJbRxXvGgwHwQekxq8S1h"
@@ -772,6 +860,50 @@
     },
     {
       "album": {
+        "name": "Nar El Hob",
+        "url": "https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5"
+      },
+      "artists": [
+        {
+          "name": "Amine Babylone",
+          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206314,
+      "name": "Nar El Hob",
+      "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"
+    },
+    {
+      "album": {
+        "name": "Nawaya (feat. Didine Canon 16 & Ra\u00efna Ra\u00ef)",
+        "url": "https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Ra\u00efna Ra\u00ef",
+          "url": "https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194976,
+      "name": "Nawaya (feat. Didine Canon 16 & Ra\u00efna Ra\u00ef)",
+      "url": "https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u"
+    },
+    {
+      "album": {
         "name": "Nhassel fi Chkoune",
         "url": "https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz"
       },
@@ -783,7 +915,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 256000,
       "name": "Nhassel fi Chkoune",
       "url": "https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I"
@@ -856,6 +988,32 @@
     },
     {
       "album": {
+        "name": "Oran Marseille",
+        "url": "https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "Nadir Ben",
+          "url": "https://open.spotify.com/artist/1hWMrdBS24eKrWxyg85Zb2"
+        },
+        {
+          "name": "Lakero",
+          "url": "https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Oran Marseille",
+      "url": "https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW"
       },
@@ -896,6 +1054,28 @@
     },
     {
       "album": {
+        "name": "Roma (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv"
+      },
+      "artists": [
+        {
+          "name": "Chemsou Freeklane",
+          "url": "https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h"
+        },
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Roma - Radio Edit",
+      "url": "https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG"
+    },
+    {
+      "album": {
         "name": "Saint-Valentin",
         "url": "https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL"
       },
@@ -907,7 +1087,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 181812,
       "name": "Saint-Valentin",
       "url": "https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN"
@@ -1041,10 +1221,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 256757,
       "name": "Welili",
       "url": "https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf"
+    },
+    {
+      "album": {
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Ya lbahri",
+      "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
     },
     {
       "album": {
@@ -1175,7 +1373,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 235066,
       "name": "\u00c7a fait des ann\u00e9es",
       "url": "https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9"

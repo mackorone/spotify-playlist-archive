@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "In the Silence",
         "url": "https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 244664,
       "name": "Hours Are the New Days",
       "url": "https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 283518,
       "name": "pak it in",
       "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 194274,
       "name": "Plucky",
       "url": "https://open.spotify.com/track/3EJWBUjdvBYuXEaqOhIapA"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 207841,
       "name": "Tayrona (feat. Wilsen) [Henry Green Rework]",
       "url": "https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU"

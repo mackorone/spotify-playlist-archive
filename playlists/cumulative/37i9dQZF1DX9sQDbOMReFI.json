@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 288560,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": "2022-07-09",
       "duration_ms": 336293,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1OtuQOXXwUlVtANl1FeYZg"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 269733,
       "name": "Dusted 'N' Disgusted (feat. 2Pac, Mac Mall & Spice 1)",
       "url": "https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-16",
       "duration_ms": 219266,
       "name": "Hood Took Me Under",
       "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": "2022-07-19",
       "duration_ms": 217840,
       "name": "Hot Potato",
       "url": "https://open.spotify.com/track/2lHhAEAhCLCfigjpTvSBD1"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 269973,
       "name": "It's Funky Enough - Remastered Single",
       "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 177533,
       "name": "Jackin' For Beats",
       "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 294266,
       "name": "Late Night Hype",
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 261293,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 204440,
       "name": "Let's Play House",
       "url": "https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 290440,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/3ooAjhyOZ1xttGD0iq1GVO"
@@ -1488,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Labcabincalifornia",
+        "url": "https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 296266,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/1i7tKveM6Wo3dG31c5OwAL"
+    },
+    {
+      "album": {
         "name": "Hi-Five: Digital Underground",
         "url": "https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8"
       },
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": "2022-07-12",
       "duration_ms": 237533,
       "name": "Same Song - Edit Version",
       "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"

@@ -1,31 +1,447 @@
 {
   "description": "Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.",
-  "num_followers": 403711,
+  "num_followers": 415435,
   "original_name": "Las Vegas Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM2MzMzNywwMDAwMDAzYzAwMDAwMTgwMDViNzQwMjkwMDAwMDE3YWIwYjRiZjVh",
+  "snapshot_id": "MTY1NDI4Nzg0NSwwMDAwMDA0MzAwMDAwMTgxMmIzZDQ5ZWEwMDAwMDE3YWIwYjRiZjVh",
   "tracks": [
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+        "name": "Kong 2.0",
+        "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+      "duration_ms": 202003,
+      "name": "Kong 2.0",
+      "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Love Tonight (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Love Tonight - David Guetta Remix Edit",
+      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Mi Gente (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Mi Gente - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Five More Hours",
+        "url": "https://open.spotify.com/album/1j4y4oErsQ2dIiZXClg1Zc"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 211975,
+      "name": "Five More Hours",
+      "url": "https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Buchona Vibez",
+        "url": "https://open.spotify.com/album/0MUsHHel6y2il1aiIDb20v"
+      },
+      "artists": [
+        {
+          "name": "Jenny69",
+          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
+        },
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        }
+      ],
+      "duration_ms": 103125,
+      "name": "Buchona Vibez",
+      "url": "https://open.spotify.com/track/32cJddYAOxeVaYxtccjIgM"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Fresco En La Casa",
+        "url": "https://open.spotify.com/album/73gT0panzzjGJjpBeLRkfK"
+      },
+      "artists": [
+        {
+          "name": "Dj Fredy Fresco",
+          "url": "https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Zumbido",
+      "url": "https://open.spotify.com/track/7pn7x47Cj9NCQg9vZxBuGQ"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "I Feel Good (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/0bGTfamwl2XVCrXcWAhx6P"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Anthony Watts",
+          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
+        },
+        {
+          "name": "DJ White Shadow",
+          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3icVJPrcCCdb0bSafDCOe7"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 158549,
+      "name": "Summer In New York",
+      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Don't Start Now (Regard Remix)",
+        "url": "https://open.spotify.com/album/01LRpxANpA25puJjhn4yuv"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Don't Start Now - Regard Remix",
+      "url": "https://open.spotify.com/track/6WSkgEE44Z1OSnRBFiFNV2"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/0R4f3m05IHfoq3aPPCPuto"
+      },
+      "artists": [
+        {
+          "name": "DJ Fluke",
+          "url": "https://open.spotify.com/artist/6CnCjQXjKiV9Ro5GGA8ztB"
+        },
+        {
+          "name": "Jaki Nelson",
+          "url": "https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/4ntwMws17qmbQUI1NemGqd"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
       "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
@@ -45,99 +461,263 @@
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Si Es Trucho Es Trucho (Remix)",
-        "url": "https://open.spotify.com/album/3sBYTlu0yQW702nl3P4mPC"
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
       "artists": [
         {
-          "name": "Axel Rulay",
-          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 329881,
-      "name": "Si Es Trucho Es Trucho - Remix",
-      "url": "https://open.spotify.com/track/6lRPa0hVzHRR3txXnPbtK7"
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Dominicana (The Martinez Brothers + Florentino Remix)",
-        "url": "https://open.spotify.com/album/5zruzxbUxzzf2mjJpuUqAX"
+        "name": "My Love (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q"
       },
       "artists": [
         {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
         },
         {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Florentino",
-          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 245624,
-      "name": "Dominicana - The Martinez Brothers + Florentino Remix",
-      "url": "https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH"
+      "duration_ms": 259934,
+      "name": "My Love (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
       "artists": [
         {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 186805,
+      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
+      "url": "https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
       "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
@@ -165,214 +745,342 @@
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
+        "name": "Requinto",
+        "url": "https://open.spotify.com/album/4gHHFDzIWVzuKrpw1uEXD3"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Dj Drew",
+          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
         }
       ],
-      "duration_ms": 176867,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+      "duration_ms": 218839,
+      "name": "Requinto",
+      "url": "https://open.spotify.com/track/6LdiTcs37ol9wfleUsEh2b"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Mi Gente (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         },
         {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Mi Gente - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Ridin",
-        "url": "https://open.spotify.com/album/0hHLb17NBPkyvR9MlDgOei"
+        "name": "BED",
+        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
       "artists": [
         {
-          "name": "offrami",
-          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 142798,
-      "name": "Ridin",
-      "url": "https://open.spotify.com/track/2v7STN06CYz4hLNvPXelUX"
+      "duration_ms": 178087,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 255712,
-      "name": "Cosa Guapa",
-      "url": "https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu"
+      "duration_ms": 201816,
+      "name": "El Apag\u00f3n",
+      "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Pixelated",
-        "url": "https://open.spotify.com/album/1Epxkaz1o2TlqGy5znimFQ"
+        "name": "Una Vaina Loca (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
       },
       "artists": [
         {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         },
         {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 267824,
-      "name": "Pixelated",
-      "url": "https://open.spotify.com/track/4HtjxMA0CNjFuTBYyeuar6"
+      "duration_ms": 177391,
+      "name": "Una Vaina Loca (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Napoleona",
-        "url": "https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb"
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Discoteca (Deorro Remix)",
+        "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
+      },
+      "artists": [
         {
           "name": "IAmChino",
           "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Napoleona",
-      "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Don't Start Now (Regard Remix)",
-        "url": "https://open.spotify.com/album/01LRpxANpA25puJjhn4yuv"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Don't Start Now - Regard Remix",
-      "url": "https://open.spotify.com/track/6WSkgEE44Z1OSnRBFiFNV2"
+      "duration_ms": 190312,
+      "name": "Discoteca (Deorro Remix)",
+      "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "In Da Getto",
-        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+        "name": "El Incomprendido",
+        "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "El Incomprendido",
+      "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Real Love (Sak Noel, Salvi & Franklin Dam Remix)",
+        "url": "https://open.spotify.com/album/762BWVMk6By89MAXZNCM20"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "Salvi",
+          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+        },
+        {
+          "name": "Franklin Dam",
+          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Real Love - Sak Noel, Salvi & Franklin Dam Remix",
+      "url": "https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Mesera",
+        "url": "https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Mesera",
+      "url": "https://open.spotify.com/track/0DJCGoZodGjfEz5TUOJLKc"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Pepas (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Pepas - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
+        "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 213785,
+      "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
+      "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "En Mi Cuarto",
+        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         },
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 131065,
-      "name": "In Da Getto",
-      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
+      "duration_ms": 196586,
+      "name": "En Mi Cuarto",
+      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "T\u00f3xica",
-        "url": "https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "T\u00f3xica",
-      "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Split (Only U)",
-        "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
       "artists": [
         {
@@ -380,63 +1088,267 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Split (Only U)",
-      "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
+      "duration_ms": 167500,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Papi Chulo",
-        "url": "https://open.spotify.com/album/2i8RUL42wpI7hcMMnOUHhd"
+        "name": "Salio Pa Guarachar",
+        "url": "https://open.spotify.com/album/6dcaUkqrJyMIdrUitMygdx"
       },
       "artists": [
         {
-          "name": "Nickobella",
-          "url": "https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt"
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
         },
         {
-          "name": "BeatItPunk",
-          "url": "https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT"
+          "name": "Dj Zetian",
+          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+        },
+        {
+          "name": "MC Killer",
+          "url": "https://open.spotify.com/artist/6O5pykCTn1t2hp3fL6j1aE"
         }
       ],
-      "duration_ms": 190005,
-      "name": "Papi Chulo",
-      "url": "https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y"
+      "duration_ms": 255973,
+      "name": "Salio Pa Guarachar",
+      "url": "https://open.spotify.com/track/2t0ObwmBnS7UuefeVSC3IF"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "We'll Be Dancing Soon",
-        "url": "https://open.spotify.com/album/42ZPtK4bxFJR5gunmSVPMe"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0YxHSCJZ6C7AWznpuXH4wF"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
         },
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+          "name": "Steve Andreas",
+          "url": "https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6"
         },
         {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+          "name": "Felicia",
+          "url": "https://open.spotify.com/artist/2vn8ZAQQc9NvtQ5gxb77Hp"
         }
       ],
-      "duration_ms": 158312,
-      "name": "We'll Be Dancing Soon",
-      "url": "https://open.spotify.com/track/39CyGsoGoW4yayA731IP4s"
+      "duration_ms": 187500,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/2WHw2kiG0nhWXgTUqQjr4v"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Cornettazos (Vol.2)",
-        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Dancin (feat. Luvli) [Krono Remix]",
+        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Dancin (feat. Luvli) - Krono Remix",
+      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "One A Day",
+        "url": "https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "One A Day",
+      "url": "https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Treasure Bay",
+        "url": "https://open.spotify.com/album/2gLAVCPy8mai2eVVwa09J1"
+      },
+      "artists": [
+        {
+          "name": "Kevu",
+          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Treasure Bay",
+      "url": "https://open.spotify.com/track/6pAwFeJKrLPWKZZp2FEoDV"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/75SuSwl4W3d0T8HpUFeM4p"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 205778,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/3CEXfu2rSEzUSGB9zFUoZz"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/2793FZEEw2WVaYMoYzJXSG"
+      },
+      "artists": [
+        {
+          "name": "Dimelo Yssa",
+          "url": "https://open.spotify.com/artist/4Y8NDDstWnqZi2PrwB8dKR"
+        }
+      ],
+      "duration_ms": 230771,
+      "name": "Las Ni\u00f1as",
+      "url": "https://open.spotify.com/track/3FirQ6AZVX1lxd8S0VIyZ8"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Qu\u00e9 Chimba",
+        "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 169740,
+      "name": "Qu\u00e9 Chimba",
+      "url": "https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "A M\u00ed Me Encanta (Tequila)",
+        "url": "https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi"
       },
       "artists": [
         {
@@ -444,12 +1356,112 @@
           "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
         }
       ],
-      "duration_ms": 164640,
-      "name": "Mara Del Carmen",
-      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
+      "duration_ms": 156026,
+      "name": "A M\u00ed Me Encanta (Tequila)",
+      "url": "https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "La 69 (Perreo Remix)",
+        "url": "https://open.spotify.com/album/3tnvstkFXFOP72tIp2mIDK"
+      },
+      "artists": [
+        {
+          "name": "Jenny69",
+          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
+        },
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        },
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        }
+      ],
+      "duration_ms": 144086,
+      "name": "La 69 - Perreo Remix",
+      "url": "https://open.spotify.com/track/0XunI3sWC1OUliLnOAoDDc"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Todo De Ti (Summer Remix)",
+        "url": "https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 310409,
+      "name": "Todo De Ti - Summer Remix",
+      "url": "https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
+      "album": {
+        "name": "Cheke (The Remixes)",
+        "url": "https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "J Rythm",
+          "url": "https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "dEVOLVE",
+          "url": "https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d"
+        }
+      ],
+      "duration_ms": 169815,
+      "name": "Cheke (dEVOLVE Remix)",
+      "url": "https://open.spotify.com/track/4mbQeYuM51ZB3fvAJKH6Mq"
+    },
+    {
+      "added_at": "2022-06-03 20:24:05",
       "album": {
         "name": "Mimosas",
         "url": "https://open.spotify.com/album/7oed3eOpFvO9GEfbIdnepX"
@@ -477,764 +1489,80 @@
       "url": "https://open.spotify.com/track/4iUYVTGD3Qck4eDXrCtVNg"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Tabasco",
-        "url": "https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs"
+        "name": "Sorry For The Weight",
+        "url": "https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG"
       },
       "artists": [
         {
-          "name": "BASE",
-          "url": "https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf"
+          "name": "Lechero",
+          "url": "https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw"
+        },
+        {
+          "name": "desamor.",
+          "url": "https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW"
         }
       ],
-      "duration_ms": 129522,
-      "name": "Tabasco",
-      "url": "https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn"
+      "duration_ms": 240013,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/5cGMdUejaZJEiKeAVVAO3J"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "LeoRachi",
+          "url": "https://open.spotify.com/artist/2a6rrIHLnzYWkiPkEDxyp8"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 188571,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/76NnAWqSHapiaJmzBsHgIe"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "Music Is The Weapon (Remixes)",
-        "url": "https://open.spotify.com/album/1mKjtx0Gq8cY3FC8l66SrK"
+        "name": "Perdiendo El Control",
+        "url": "https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
         }
       ],
-      "duration_ms": 245252,
-      "name": "Que Calor (feat. J Balvin & El Alfa) - La Fuente Remix",
-      "url": "https://open.spotify.com/track/0UH6TZqvd3Kf1rRxo2IGny"
+      "duration_ms": 184685,
+      "name": "Perdiendo El Control",
+      "url": "https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX"
     },
     {
-      "added_at": "2022-04-07 20:28:57",
+      "added_at": "2022-06-03 20:24:05",
       "album": {
-        "name": "If I Lose Myself (Alesso vs OneRepublic)",
-        "url": "https://open.spotify.com/album/4fWOVzenXaEAEpEb8mMR2U"
+        "name": "Rockport Espacial 2",
+        "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
         }
       ],
-      "duration_ms": 214066,
-      "name": "If I Lose Myself - Alesso vs OneRepublic",
-      "url": "https://open.spotify.com/track/1YDJ2f1JuKzYWZpRYiBYHu"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Body On My Mind",
-        "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Body On My Mind",
-      "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Purisima (Marsal Ventura & Jbill Remix)",
-        "url": "https://open.spotify.com/album/3ZmM3WywY1Sy77o7eXAEPn"
-      },
-      "artists": [
-        {
-          "name": "Victor Magan",
-          "url": "https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Jheyzell",
-          "url": "https://open.spotify.com/artist/3AYrBKh3Dd2cY4bfSSJThC"
-        },
-        {
-          "name": "Marsal Ventura",
-          "url": "https://open.spotify.com/artist/3uGPais7i1uwcaa9xOjPjF"
-        },
-        {
-          "name": "Jbill",
-          "url": "https://open.spotify.com/artist/15uUKLG8HlKhdUEAsgdejF"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "Purisima - Marsal Ventura & Jbill Remix",
-      "url": "https://open.spotify.com/track/2hz28SuI4hFvHQ5E6xSXTt"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "El Que No Fuma",
-        "url": "https://open.spotify.com/album/7wtXns2Q2BZwrcRoCVYQhC"
-      },
-      "artists": [
-        {
-          "name": "Axel Rulay",
-          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
-        },
-        {
-          "name": "Berbo Flou",
-          "url": "https://open.spotify.com/artist/3jmMLHlN9YEPTvwWRRujTY"
-        }
-      ],
-      "duration_ms": 354456,
-      "name": "El Que No Fuma",
-      "url": "https://open.spotify.com/track/3VFkjadFbjkKZXfAkIjgQY"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Peace Is The Mission",
-        "url": "https://open.spotify.com/album/2MJamyp1d9MRa3xbtaxAGd"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 176561,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/5wldXGLEOoRXxMWJ8rIUWE"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Somos Nada",
-        "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Somos Nada",
-      "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "My Ways (Buscabulla Remix)",
-        "url": "https://open.spotify.com/album/2QNG3mT6uk0YN0Y5tVQkvc"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 190270,
-      "name": "My Ways - Buscabulla Remix",
-      "url": "https://open.spotify.com/track/1LGfit4SostXs6z4SO7Ois"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Collage EP",
-        "url": "https://open.spotify.com/album/22rp3PnM3q2mtTI0OGCzpq"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/0w75KG0DuLDi6tdHmEMovD"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Me Duele feat. Cumbiafrica",
-        "url": "https://open.spotify.com/album/1sF0v9alHId5dpT8dlmAmy"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Me Duele feat. Cumbiafrica",
-      "url": "https://open.spotify.com/track/1AtYsgojnqvyTic4muhNCM"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Gold Skies",
-        "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 294466,
-      "name": "Tremor - Sensation 2014 Anthem",
-      "url": "https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Pues (with Luis Fonsi & Sean Paul) [All That MTRS Remix]",
-        "url": "https://open.spotify.com/album/6jsOswuMyKXK88L770DPAI"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "All That MTRS",
-          "url": "https://open.spotify.com/artist/3WLgA2O4GUwSJu2QsXbnex"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pues (with Luis Fonsi & Sean Paul) - All That MTRS Remix",
-      "url": "https://open.spotify.com/track/3yKSEZVNq9Y6IO3QV4L3iw"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Tengo Ganas De Ti (feat. Jeferson Miranda)",
-        "url": "https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Sagrero",
-          "url": "https://open.spotify.com/artist/5DAKth4Evz4tQcA6Lc1sVv"
-        },
-        {
-          "name": "Abbsolut",
-          "url": "https://open.spotify.com/artist/6kb3XQy1RIqL58U53r46Bf"
-        },
-        {
-          "name": "Jose Blanco",
-          "url": "https://open.spotify.com/artist/7L7ur1XM3DRiorgEQGto9k"
-        },
-        {
-          "name": "Jeferson Miranda",
-          "url": "https://open.spotify.com/artist/4iwxOwHQxgKj6CdEMCz079"
-        }
-      ],
-      "duration_ms": 301894,
-      "name": "Tengo Ganas De Ti (feat. Jeferson Miranda)",
-      "url": "https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Be Right There",
-        "url": "https://open.spotify.com/album/6XKPE44gfP58IM9PD28YBB"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Sleepy Tom",
-          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
-        }
-      ],
-      "duration_ms": 237051,
-      "name": "Be Right There",
-      "url": "https://open.spotify.com/track/2egKQvoHiCJyHXn8lRlsrl"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Legoo",
-        "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Legoo",
-      "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Que Rica (Tocame)",
-        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Salvi",
-          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Que Rica (Tocame)",
-      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Beautiful Now",
-      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Tu Tambor (feat. Tot\u00f3 La Momposina) [Kryder Mix]",
-        "url": "https://open.spotify.com/album/6PoZfF9R0pgNHERPvB8P2M"
-      },
-      "artists": [
-        {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        },
-        {
-          "name": "RS|AM",
-          "url": "https://open.spotify.com/artist/7IhIXy6dqLPZsX5iXfkVUh"
-        },
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        },
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 176204,
-      "name": "Tu Tambor (feat. Tot\u00f3 La Momposina) - Kryder Mix",
-      "url": "https://open.spotify.com/track/4xg7KmW7WsUcGOvOvxZyWV"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Wild (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6ROmcFlXlAAZqInWfUIj3t"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Wild - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/0eHT54ehADNQkSypa0YGgp"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Selfish (Syn Cole Remix)",
-        "url": "https://open.spotify.com/album/7HttWKV0MlALRIMPmuhKt0"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Era Istrefi",
-          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
-        },
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Selfish - Syn Cole Remix",
-      "url": "https://open.spotify.com/track/3agCFxMhyXupdQOtu8Yb4N"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1LfYvibIWM1oqBIzO7XY3c"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Imanos",
-          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/1e8g8Zypak1hTK8l12olYd"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5sUvEV9R1oWfyHPmoD46tk"
-      },
-      "artists": [
-        {
-          "name": "Cytrax",
-          "url": "https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U"
-        }
-      ],
-      "duration_ms": 142380,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0CD7sSmDeu3TXHL3dDOv77"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Paradise - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Stop Drop",
-        "url": "https://open.spotify.com/album/0LJwceA0lLt26asDjvYUa5"
-      },
-      "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        }
-      ],
-      "duration_ms": 302362,
-      "name": "Stop Drop",
-      "url": "https://open.spotify.com/track/4hW2wf0DhhaLvefFrM5zTN"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Bassline",
-        "url": "https://open.spotify.com/album/3fGQlsogoFRlNFoVIoTEZo"
-      },
-      "artists": [
-        {
-          "name": "Corx",
-          "url": "https://open.spotify.com/artist/37mSGdmZgyoMLQ1NCHQcB6"
-        },
-        {
-          "name": "Sebastian Mateo",
-          "url": "https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/6gZSKwIUgdYaKwRX6MwpkX"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Knock Me Out",
-        "url": "https://open.spotify.com/album/1db7cTqZEOVXbJkySsNuzR"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        }
-      ],
-      "duration_ms": 149222,
-      "name": "Knock Me Out",
-      "url": "https://open.spotify.com/track/4Mm9eqhyHbKzh8pksjNWIh"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "WorldWide EP",
-        "url": "https://open.spotify.com/album/2VFNThMFp2hNtJuY3hbfHW"
-      },
-      "artists": [
-        {
-          "name": "ETC!ETC!",
-          "url": "https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt"
-        },
-        {
-          "name": "FIGHT CLVB",
-          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
-        }
-      ],
-      "duration_ms": 196953,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/3Dvik0LuFDkl7wtp5cJhwe"
-    },
-    {
-      "added_at": "2022-04-07 20:28:57",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+      "duration_ms": 170689,
+      "name": "Drifting & Burning",
+      "url": "https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH"
     }
   ],
   "unique_name": "Las Vegas Pool Party",

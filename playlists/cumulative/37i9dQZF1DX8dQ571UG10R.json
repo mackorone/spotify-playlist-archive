@@ -49,7 +49,7 @@
           "url": "https://open.spotify.com/artist/4Bh0y5G503CoxJazUbgKxY"
         },
         {
-          "name": "JAG",
+          "name": "Jag",
           "url": "https://open.spotify.com/artist/7I5OqFRkQwd3JJvUrCYK5k"
         },
         {
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 235485,
       "name": "Outro Planeta",
       "url": "https://open.spotify.com/track/4N6yQOXdqzkadCofN9z1GV"
@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Tipo Gotenks",
+        "url": "https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202628,
+      "name": "Tipo Gotenks",
+      "url": "https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8"
+    },
+    {
+      "album": {
         "name": "Tipo Hashirama",
         "url": "https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU"
       },
@@ -917,6 +935,24 @@
       "duration_ms": 160810,
       "name": "Tipo Tobirama",
       "url": "https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h"
+    },
+    {
+      "album": {
+        "name": "Tripula\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5czSNphndXvBgjXWz102vt"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149309,
+      "name": "Tripula\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2N9AvwuptNKvpF1BM5vl7E"
     },
     {
       "album": {

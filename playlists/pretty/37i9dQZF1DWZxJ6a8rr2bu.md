@@ -1,0 +1,52 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain](/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZxJ6a8rr2bu)
+
+### [Shatter the Glass](https://open.spotify.com/playlist/37i9dQZF1DWZxJ6a8rr2bu)
+
+> A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
+
+[Spotify](https://open.spotify.com/user/spotify) - 1,151 likes - 40 songs - 1 hr 58 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [In The Party](https://open.spotify.com/track/52BJrldggFQyTiW8XrILhO) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:17 |
+| 2 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
+| 3 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 |
+| 4 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
+| 5 | [Lady Jesus](https://open.spotify.com/track/4HkJ9MoO7sQHQ6hCxJN01w) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
+| 6 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
+| 7 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
+| 8 | [I'm The Shit](https://open.spotify.com/track/7xvH8b20hOofWwxVo1aOvG) | [Mari Taylor](https://open.spotify.com/artist/5wC3UaKzdIu72XMWQY2hbI) | [Taylor Made](https://open.spotify.com/album/28bebqd6h16USwC16XU8nV) | 2:23 |
+| 9 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
+| 10 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
+| 11 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 |
+| 12 | [Lady Deity](https://open.spotify.com/track/2qxk5IUkxWXPWX8qOJCgFE) | [SIESKI](https://open.spotify.com/artist/2gMTrqdCY8fLSyNrRNdZme) | [Lady Deity](https://open.spotify.com/album/2C852pAhGvYSYc5u7aIl3v) | 3:26 |
+| 13 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
+| 14 | [Queen Bee](https://open.spotify.com/track/0FsPv3k1PrnSbnvzpc0zN9) | [Plxnet 419](https://open.spotify.com/artist/1hYkWuhlkDrQEmnCZZKc9v) | [Queen Bee](https://open.spotify.com/album/2t3afI2nt4IMBygzdeRK3b) | 2:56 |
+| 15 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
+| 16 | [Dark Skinned](https://open.spotify.com/track/358NH6zt0bZCCqrL0bMQZ6) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Dark Skinned](https://open.spotify.com/album/1SR9fPVtVwQ37dryvXAowV) | 3:00 |
+| 17 | [Single & Happy \(feat\. Wale & Eric Bellinger\)](https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Single & Happy](https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF) | 3:10 |
+| 18 | [Self](https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 1:34 |
+| 19 | [Slowly](https://open.spotify.com/track/1TFciqEaPcxcYkXF7SdsZF) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [It's Different Now](https://open.spotify.com/album/1e41DPRgxbxSqFpPzAAtX3) | 4:12 |
+| 20 | [hoe \(feat\. Miguel\)](https://open.spotify.com/track/4v2AdwK5xJneq1RosH0JJS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:37 |
+| 21 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
+| 22 | [Outer Love](https://open.spotify.com/track/1wVMKkf2TbM7MtdnrlyB5k) | [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [March Nineteen](https://open.spotify.com/album/2YYu2I0cb2YfOUq4C65Q7F) | 3:12 |
+| 23 | [Soy Mala](https://open.spotify.com/track/0yoFawtiI0XMcdUhC7BAWY) | [Isairis](https://open.spotify.com/artist/6RAwiNV9YCQwgOAEEjzfkI) | [Mírame](https://open.spotify.com/album/1dUbDrjUhBElDHgqvIWr5P) | 3:38 |
+| 24 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
+| 25 | [Matriarch](https://open.spotify.com/track/72CGSnUNfCcFPIgyirk0Rk) | [Mary Jennings](https://open.spotify.com/artist/3tqIdxHWQOWswsNAYVCgBd) | [Matriarch](https://open.spotify.com/album/0mIUwyEk9N4eJhobUHf7NF) | 3:33 |
+| 26 | [Melon Cake](https://open.spotify.com/track/6YiFO4Z74jjyJXWfqLH0Gy) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:32 |
+| 27 | [Sunburn](https://open.spotify.com/track/39RCP2cPfoxs3dtFimFOJ8) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Sunburn](https://open.spotify.com/album/5niUo5Nqs3lVOilo85Fwa7) | 3:13 |
+| 28 | [Girlfriend](https://open.spotify.com/track/5hr55QtxToXumR95t6j8lh) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 2:50 |
+| 29 | [VRY BLK \(feat\. Noname\)](https://open.spotify.com/track/2EnEj7XoToBRxQ9PRaCEYp) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [HEAVN](https://open.spotify.com/album/669sonZhhw67k7o1GhlSCd) | 2:54 |
+| 30 | [Big Fish Theory](https://open.spotify.com/track/2ncMj2NVad6z51PD6xhp0M) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/0o1K4Ax8YryKGeNc48nrAG) | 2:35 |
+| 31 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 |
+| 32 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
+| 33 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
+| 34 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
+| 35 | [Solace](https://open.spotify.com/track/1Lqr5ceE4xCEPNeCBZsM4k) | [Bobbie](https://open.spotify.com/artist/18DSBebqUjUt7uGMv4bXH3) | [Solace](https://open.spotify.com/album/140rqbHfBtHsJ4Q2bF659x) | 5:25 |
+| 36 | [2021](https://open.spotify.com/track/5KTX2DzpMC3CaOPUUqcnZS) | [Tamara Kumbula](https://open.spotify.com/artist/0UX16aLcy0oMwn4Tnnydf0), [Kalcatraz](https://open.spotify.com/artist/0KOoXNEBWvDwqcyzn400aQ) | [2021](https://open.spotify.com/album/3d2KbmqejpYTVz5YhXyyPV) | 2:33 |
+| 37 | [Nappy](https://open.spotify.com/track/7ufmJswFQ2S9OzMVIz86df) | [Arewa](https://open.spotify.com/artist/5eNwMClFhgkfRy14EDIQNV) | [Nappy](https://open.spotify.com/album/7j5e6CAm468ruvzKJW3rOo) | 2:36 |
+| 38 | [In My Bag](https://open.spotify.com/track/5aKvdpWyjO14xB04CTEpEw) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 3:28 |
+| 39 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
+| 40 | [Someone Else](https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Someone Else](https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc) | 3:18 |
+
+Snapshot ID: `MTY0Njc1MzUzMCwwMDAwMDAwNzAwMDAwMTdmNmEyOGMxNDQwMDAwMDE3ZjZhMjgxMmJj`

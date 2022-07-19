@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
 
-107 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
+109 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 | 2020-10-14 |  |
 | [Great Speckled Bird](https://open.spotify.com/track/73GgHC9lkVsEyVW9gp1X0E) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The King of Country](https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH) | 2:40 | 2020-10-14 |  |
 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 | 2020-10-14 |  |
-| [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 | 2020-10-14 |  |
+| [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 | 2020-10-14 | 2022-05-07 |
+| [Harper Valley P.T.A.](https://open.spotify.com/track/6dKkejSuZPJcVQvQ26nott) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A.](https://open.spotify.com/album/6bG7IjqrUcg8S1QIAjxJs3) | 3:14 | 2022-05-06 |  |
 | [He Stopped Loving Her Today](https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Am What I Am \(Expanded Edition\)](https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF) | 3:15 | 2020-10-14 |  |
 | [Hello Walls](https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:26 | 2020-10-14 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 | 2020-10-14 |  |
@@ -57,7 +58,8 @@
 | [I Can't Stop Loving You](https://open.spotify.com/track/4xKmvpMTknbvMj1cE04Dtg) | [Johnny Rodriguez](https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:56 | 2020-10-14 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 | 2020-10-14 |  |
 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:51 | 2020-10-14 |  |
-| [I Walk the Line](https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:34 | 2020-10-14 |  |
+| [I Walk the Line](https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:34 | 2020-10-14 | 2022-05-07 |
+| [I Walk The Line \- Single Version](https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Get Rhythm / I Walk the Line](https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH) | 2:43 | 2022-05-06 |  |
 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/1RIQw2QuIglFKwBgzRidIe) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Patsy Montana \(Doxy Collection\)](https://open.spotify.com/album/6X7NzTn7L81LSlxSsHIGFD) | 3:10 | 2020-10-14 |  |
 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 | 2020-10-14 |  |
 | [I'll Fly Away](https://open.spotify.com/track/1AbAgU9d0zjmjjpBxlo0bN) | [James Carson](https://open.spotify.com/artist/4KlHTYtH6LJzjEm5mkLjRj), [Martha Carson](https://open.spotify.com/artist/1mv0j6pnqOnEc0HK6EWeeo) | [I'll Fly Away](https://open.spotify.com/album/4QpbC6Qv8WkdH6F8LFudPr) | 2:26 | 2020-10-14 |  |

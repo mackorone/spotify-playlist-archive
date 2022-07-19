@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 282866,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/4qz8PpznLcX5AtoUusIiAh"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-14",
       "duration_ms": 215200,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/3YryVYJcJ9gP8jfUkkbNvm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 222533,
       "name": "Ah! Leah!",
       "url": "https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
@@ -149,6 +149,24 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "album": {
+        "name": "Third Eye",
+        "url": "https://open.spotify.com/album/6ASYFb1w2jqiJtxeSwJG65"
+      },
+      "artists": [
+        {
+          "name": "Redd Kross",
+          "url": "https://open.spotify.com/artist/1USc9u5yL4tUaQKhGWNuvj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 216866,
+      "name": "Annie's Gone - Remastered Version",
+      "url": "https://open.spotify.com/track/0MAM2oW5WSw0bFXtpr7efI"
     },
     {
       "album": {
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": "2022-07-19",
       "duration_ms": 230720,
       "name": "Bittersweet - 2005 Remaster",
       "url": "https://open.spotify.com/track/7bpebmVx0rlF2Cp5G9wWrx"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
@@ -289,10 +307,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 450506,
       "name": "Champagne Supernova",
       "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "album": {
@@ -325,7 +361,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202506,
       "name": "Couldn't I Just Tell You",
       "url": "https://open.spotify.com/track/02jZSvPG0SNsBwj6g9yRCo"
@@ -361,10 +397,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 191053,
       "name": "Day After Day - Remastered 2010",
       "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
+    },
+    {
+      "album": {
+        "name": "Squeezing Out Sparks + Live Sparks",
+        "url": "https://open.spotify.com/album/4ZImzDF35hQWiN5FdAqQbN"
+      },
+      "artists": [
+        {
+          "name": "Graham Parker",
+          "url": "https://open.spotify.com/artist/6c8INA1EQQe9TkukfEdiCA"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 213000,
+      "name": "Discovering Japan - Digitally Remastered 1996",
+      "url": "https://open.spotify.com/track/5u4PfSB7eo3nIuOHOnPQ6f"
     },
     {
       "album": {
@@ -379,7 +433,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": "2022-07-15",
       "duration_ms": 233133,
       "name": "Dream Police",
       "url": "https://open.spotify.com/track/1YiAY1oCmkFjUabQL9gos4"
@@ -397,7 +451,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-02",
       "duration_ms": 184853,
       "name": "Ever Fallen In Love With Someone (You Shouldn't Have Fallen In Love With)",
       "url": "https://open.spotify.com/track/7IDkNUudFjemSrQKfYHVfQ"
@@ -415,7 +469,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 215266,
       "name": "Everyday Is Like Sunday - 2011 Remaster",
       "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
@@ -433,7 +487,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 220000,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd"
@@ -451,7 +505,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205346,
       "name": "Go All The Way",
       "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
@@ -469,10 +523,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+    },
+    {
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 189173,
+      "name": "Good Girls Don't",
+      "url": "https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C"
     },
     {
       "album": {
@@ -487,7 +559,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 167160,
       "name": "Hazy Shade of Winter",
       "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
@@ -523,7 +595,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 229423,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
@@ -541,7 +613,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": "2022-07-07",
       "duration_ms": 264093,
       "name": "Hello It's Me",
       "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
@@ -577,7 +649,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1mXXf7ztqQei9qUXliL19H"
@@ -595,7 +667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": "2022-07-15",
       "duration_ms": 290946,
       "name": "If You Tolerate This Your Children Will Be Next",
       "url": "https://open.spotify.com/track/2r7y4HANK7b9KVZfz0g4Uq"
@@ -631,7 +703,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 222173,
       "name": "It's Different For Girls",
       "url": "https://open.spotify.com/track/6RnhPvk4EBbOJVETOQtMA5"
@@ -667,7 +739,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 209026,
       "name": "Jet Fighter",
       "url": "https://open.spotify.com/track/5BYNfQiCKHEoGhVQKVF0Oa"
@@ -775,7 +847,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Look Sharp!",
       "url": "https://open.spotify.com/track/1PXshYSkA3gGYOrInU3lRE"
@@ -811,7 +883,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 223253,
       "name": "My Best Friend's Girl",
       "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv"
@@ -829,7 +901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 239106,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1de0oQBdeAmOVsvZlnyZqK"
@@ -865,7 +937,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": "2022-07-13",
       "duration_ms": 183053,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/0139jdnQYneN6R0LsbV1Dc"
@@ -901,7 +973,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 191933,
       "name": "Not If You Were The Last Junkie On Earth",
       "url": "https://open.spotify.com/track/3M7bAbqHp8mfI3DsYADdcS"
@@ -919,7 +991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 192173,
       "name": "Oblivious",
       "url": "https://open.spotify.com/track/1YOoJsPbK0oAmF2wnnkqx2"
@@ -937,7 +1009,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 180840,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
@@ -955,7 +1027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 208466,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
@@ -973,7 +1045,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
@@ -1045,10 +1117,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 188373,
       "name": "Rush - Single Version",
       "url": "https://open.spotify.com/track/4u8Rsnp8Pzvui3WaTWasyY"
+    },
+    {
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "album": {
@@ -1099,7 +1189,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 232333,
       "name": "She Bangs the Drums - Remastered",
       "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
@@ -1139,7 +1229,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 169533,
       "name": "Someday, Someway - Remastered",
       "url": "https://open.spotify.com/track/01wZPk1D0Ar9AnUtAY01yl"
@@ -1157,7 +1247,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-12",
       "duration_ms": 171573,
       "name": "Something So Strong",
       "url": "https://open.spotify.com/track/0eDwzWuy2gf1RJzqWl0dkF"
@@ -1175,7 +1265,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 253826,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4mS1Su5zf50QwNcjYjYzG6"
@@ -1193,7 +1283,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-18",
       "duration_ms": 154226,
       "name": "Teacher Teacher",
       "url": "https://open.spotify.com/track/4Vb8fzZfCOI351qz1g0ExT"
@@ -1211,7 +1301,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
@@ -1229,7 +1319,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 256839,
       "name": "That Is Why",
       "url": "https://open.spotify.com/track/7eilLreA3JyO5IkSEYQTBt"
@@ -1265,7 +1355,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": "2022-07-15",
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
@@ -1301,7 +1391,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 154480,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb"
@@ -1319,7 +1409,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": "2022-07-09",
       "duration_ms": 342626,
       "name": "This Beat Goes On - Original Radio Seque",
       "url": "https://open.spotify.com/track/4TFwMJ2j75bhZVzWzkrkrM"
@@ -1355,7 +1445,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-18",
       "duration_ms": 181706,
       "name": "Timeless Melody",
       "url": "https://open.spotify.com/track/2LD0laiqGwpsN822SodbZp"
@@ -1427,7 +1517,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-13",
       "duration_ms": 204333,
       "name": "Walls Come Tumbling Down",
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
@@ -1452,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 153133,
+      "name": "We Got The Beat",
+      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
+    },
+    {
+      "album": {
         "name": "What I Like About You (And Other Romantic Hits)",
         "url": "https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B"
       },
@@ -1463,7 +1571,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 175400,
       "name": "What I Like About You",
       "url": "https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6"
@@ -1499,7 +1607,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"

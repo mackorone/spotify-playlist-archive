@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 205346,
       "name": "African Bad Gyal (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 265280,
       "name": "All For Love (feat. Bucie)",
       "url": "https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr"
@@ -226,6 +226,28 @@
     },
     {
       "album": {
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "album": {
         "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
         "url": "https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv"
       },
@@ -261,16 +283,38 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Lax",
-          "url": "https://open.spotify.com/artist/4wF8zhjCwuSH0tsIkUVenr"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246832,
-      "name": "Caro (feat. Lax)",
-      "url": "https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd"
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
     },
     {
       "album": {
@@ -385,7 +429,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-10",
       "duration_ms": 181120,
       "name": "Dirty Wine (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV"
@@ -429,7 +473,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 279353,
       "name": "Don't Dull",
       "url": "https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd"
@@ -747,10 +791,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-16",
       "duration_ms": 246126,
-      "name": "Jaiye Jaiye (feat. Femi Kuti)",
+      "name": "Jaiye Jaiye",
       "url": "https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 246126,
+      "name": "Jaiye Jaiye",
+      "url": "https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK"
     },
     {
       "album": {
@@ -827,10 +893,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 246828,
       "name": "Love My Baby",
       "url": "https://open.spotify.com/track/4kmE1PtvaPTK00AKCpN19V"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246828,
+      "name": "Love My Baby",
+      "url": "https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3"
     },
     {
       "album": {
@@ -1011,6 +1095,24 @@
     {
       "album": {
         "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "album": {
+        "name": "Ayo",
         "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
       },
       "artists": [
@@ -1021,7 +1123,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
@@ -1099,10 +1201,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-19",
       "duration_ms": 227970,
       "name": "Opo (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
     },
     {
       "album": {
@@ -1117,7 +1237,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-20",
       "duration_ms": 212005,
       "name": "Pakurumo",
       "url": "https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ"
@@ -1135,7 +1255,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": "2022-05-24",
       "duration_ms": 191506,
       "name": "Show You the Money",
       "url": "https://open.spotify.com/track/1xSFHuA4aLD6NBRqvDwtce"
@@ -1260,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 188817,
+      "name": "Tease Me / Bad Guys",
+      "url": "https://open.spotify.com/track/6ST6x5sSLYArqrh30p3KBs"
+    },
+    {
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
       },
@@ -1297,7 +1435,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"

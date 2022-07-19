@@ -79,7 +79,10 @@ class FileUpdater:
 
         # Automatically register select playlists
         if auto_register and not only_fetch_these_playlists:
-            await cls._auto_register(spotify, file_manager)
+            try:
+                await cls._auto_register(spotify, file_manager)
+            except Exception:
+                logger.exception("Failed to auto-register playlists")
 
         file_manager.fixup_aliases()
         registered_playlists = file_manager.get_registered_playlists()

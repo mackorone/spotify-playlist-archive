@@ -4,7 +4,7 @@
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-74 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+81 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 | 2021-04-09 |  |
 | [How Come U Don't Call Me Anymore](https://open.spotify.com/track/7oZKxGPHuMVSVmFzuiKkWG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:53 | 2021-04-09 |  |
 | [I Could Never Take the Place of Your Man](https://open.spotify.com/track/5INCM5mKhPHFyGSxc37out) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 6:29 | 2021-04-09 |  |
+| [I Could Never Take the Place of Your Man](https://open.spotify.com/track/7Bsfh7tZyAf6L5iQti86Rq) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 6:29 | 2022-06-19 |  |
 | [I Feel for You](https://open.spotify.com/track/0bNPzbyaT9npwhIP8d2Rsi) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 3:25 | 2021-04-09 |  |
 | [I Wanna Be Your Lover](https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 5:47 | 2021-04-09 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 2:58 | 2021-04-09 |  |
@@ -46,10 +47,12 @@
 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2021-04-09 |  |
 | [Lady Cab Driver](https://open.spotify.com/track/3olcbtUJV3xdHIfFjy8owe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 8:19 | 2021-04-09 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2021-04-09 |  |
+| [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy \(Live In Syracuse, March 30, 1985 \- 2022 Remaster\)](https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep) | 5:50 | 2022-05-26 |  |
 | [Little Red Corvette \- Single Version](https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [4Ever](https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A) | 3:08 | 2021-04-09 |  |
-| [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Mary Don't You Weep](https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM) | 4:42 | 2021-04-09 |  |
+| [Mary Don't You Weep \- Piano & A Microphone 1983 Version](https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Mary Don't You Weep](https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM) | 4:42 | 2021-04-09 | 2022-06-20 |
 | [Money Don't Matter 2 Night](https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:46 | 2021-04-09 |  |
 | [Mountains](https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:57 | 2021-04-09 |  |
+| [Musicology](https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Musicology](https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK) | 4:24 | 2022-05-26 |  |
 | [My Name Is Prince](https://open.spotify.com/track/20qyckJrLZQGQmNb5OmpkJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 6:38 | 2021-04-09 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 | 2021-04-09 |  |
 | [Nothing Compares 2 U \(feat\. Rosie Gaines\) \- Live](https://open.spotify.com/track/3JtMU9MZMDOD7t019inKkK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Rosie Gaines](https://open.spotify.com/artist/0EcHeVcE0H9nFZnsHjlkIl) | [The Hits 1](https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui) | 5:04 | 2021-04-09 |  |
@@ -72,7 +75,10 @@
 | [Take Me with U](https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 3:54 | 2021-04-09 |  |
 | [The Ballad of Dorothy Parker](https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:55 | 2021-04-09 |  |
 | [The Beautiful Ones](https://open.spotify.com/track/1BNtFSws7fjbn9aVBPA79j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:13 | 2021-04-09 |  |
+| [The Future](https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 4:07 | 2022-06-19 |  |
 | [The Morning Papers](https://open.spotify.com/track/1Q52V3Lq3yxsYaeZrPdPJZ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 3:57 | 2021-04-09 |  |
+| [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 | 2022-06-01 |  |
+| [The Question of U](https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:59 | 2022-06-19 |  |
 | [Thieves in the Temple](https://open.spotify.com/track/403oiKw757eJnbDKPSjhHV) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:20 | 2021-04-09 |  |
 | [THIS COULD BE US](https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 5:12 | 2021-04-09 |  |
 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 | 2021-04-09 |  |
@@ -80,6 +86,7 @@
 | [Uptown](https://open.spotify.com/track/3IiS3fVdtsMPSHsWBgDcFn) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs) | 5:32 | 2021-04-09 |  |
 | [Venus De Milo](https://open.spotify.com/track/42wNLGw0VBuwniTFB5ljda) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 1:55 | 2021-04-09 |  |
 | [Welcome 2 America](https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF) | 5:23 | 2021-04-09 |  |
+| [When 2 R in Love](https://open.spotify.com/track/14YFuTZYstAv3xHR9TGEKu) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Lovesexy](https://open.spotify.com/album/6asxKdvUleeZYNrjmK81nJ) | 3:59 | 2022-06-19 |  |
 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 | 2021-04-09 |  |
 | [When You Were Mine](https://open.spotify.com/track/6Kbkge4WbvwWv1jVzSQsr8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs) | 3:45 | 2021-04-09 |  |
 

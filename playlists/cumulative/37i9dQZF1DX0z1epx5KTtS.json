@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan.",
-  "name": "Coupe Decale",
+  "description": "African dance party music from Paris to Abidjan. Photo : Bello Falcao",
+  "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "published_playlist_ids": [
     "05NUJhg2S8ET7TkDhLag5G"
   ],
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 179076,
       "name": "Bina Ngo",
       "url": "https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 210909,
       "name": "Bl\u00f4 bl\u00f4",
       "url": "https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "C'est dos\u00e9",
+        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "C'est dos\u00e9",
+      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "album": {
         "name": "C'Gater",
         "url": "https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6"
       },
@@ -95,10 +113,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 227944,
       "name": "C'Gater",
       "url": "https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe"
+    },
+    {
+      "album": {
+        "name": "Cabri Mort (Remix)",
+        "url": "https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179389,
+      "name": "Cabri Mort - Remix",
+      "url": "https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2"
     },
     {
       "album": {
@@ -117,7 +157,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 208615,
       "name": "Cal\u00e9\u00e7on",
       "url": "https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE"
@@ -135,7 +175,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 240000,
       "name": "Caprices de Grossesse",
       "url": "https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc"
@@ -157,10 +197,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 202000,
       "name": "Dadado",
       "url": "https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ"
+    },
+    {
+      "album": {
+        "name": "Chambre Noire",
+        "url": "https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv"
+      },
+      "artists": [
+        {
+          "name": "Samarino",
+          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221202,
+      "name": "Delta force",
+      "url": "https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q"
     },
     {
       "album": {
@@ -204,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Dibango Dibanga",
+        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
+      },
+      "artists": [
+        {
+          "name": "Bello Falcao",
+          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180321,
+      "name": "Dibango Dibanga",
+      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
+    },
+    {
+      "album": {
         "name": "Dis merci \u00e0 Dieu",
         "url": "https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj"
       },
@@ -219,7 +295,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 206222,
       "name": "Dis merci \u00e0 Dieu",
       "url": "https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3"
@@ -237,7 +313,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 181301,
       "name": "Donne-lui l'argent",
       "url": "https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr"
@@ -306,6 +382,50 @@
     },
     {
       "album": {
+        "name": "D\u00e9bordement",
+        "url": "https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        },
+        {
+          "name": "Shaggy Sharoof",
+          "url": "https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "D\u00e9bordement",
+      "url": "https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5"
+    },
+    {
+      "album": {
+        "name": "\u00c9l\u00e9phant d'or",
+        "url": "https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1"
+      },
+      "artists": [
+        {
+          "name": "Fababy",
+          "url": "https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx"
+        },
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164365,
+      "name": "Elephant d'or",
+      "url": "https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN"
+    },
+    {
+      "album": {
         "name": "Allumez la lumi\u00e8re",
         "url": "https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui"
       },
@@ -339,7 +459,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 205973,
       "name": "Enfants pr\u00e9f\u00e9r\u00e9s",
       "url": "https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ"
@@ -419,7 +539,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 168000,
       "name": "Godomou\u00e9",
       "url": "https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h"
@@ -441,7 +561,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 264777,
       "name": "Je n'ai rien fait",
       "url": "https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs"
@@ -517,6 +637,24 @@
       "duration_ms": 207874,
       "name": "Kulumba",
       "url": "https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH"
+    },
+    {
+      "album": {
+        "name": "L'oracle",
+        "url": "https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc"
+      },
+      "artists": [
+        {
+          "name": "Mix Premier",
+          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227803,
+      "name": "L'oracle",
+      "url": "https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN"
     },
     {
       "album": {
@@ -611,7 +749,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 213006,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT"
@@ -672,6 +810,46 @@
     },
     {
       "album": {
+        "name": "Mami Wata",
+        "url": "https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6"
+      },
+      "artists": [
+        {
+          "name": "Tenor",
+          "url": "https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Mami Wata",
+      "url": "https://open.spotify.com/track/07KaEXxno8BhXI6UKZcy1U"
+    },
+    {
+      "album": {
+        "name": "12 Raisons",
+        "url": "https://open.spotify.com/album/50VVd86np0xlYcTpibU37n"
+      },
+      "artists": [
+        {
+          "name": "TNT Family",
+          "url": "https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Mapouka",
+      "url": "https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO"
+    },
+    {
+      "album": {
         "name": "MEME",
         "url": "https://open.spotify.com/album/3F5WzTfqrtSpIDJNnvtzG9"
       },
@@ -683,7 +861,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 200426,
       "name": "MEME",
       "url": "https://open.spotify.com/track/6jq8XCdFOgVU1xb83EZ7NC"
@@ -755,7 +933,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 220235,
       "name": "MOTIVATION",
       "url": "https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz"
@@ -777,10 +955,72 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 221283,
       "name": "Oko Lelela Nani",
       "url": "https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk"
+    },
+    {
+      "album": {
+        "name": "On a pris balle",
+        "url": "https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227294,
+      "name": "On a pris balle",
+      "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"
+    },
+    {
+      "album": {
+        "name": "Ouvrez",
+        "url": "https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9"
+      },
+      "artists": [
+        {
+          "name": "Landry Blessing",
+          "url": "https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU"
+        },
+        {
+          "name": "Dj L\u00e9o le kdo du ciel",
+          "url": "https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201734,
+      "name": "Ouvrez",
+      "url": "https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm"
+    },
+    {
+      "album": {
+        "name": "Quand J'aurai l'argent (Plenty Money) [feat. Innoss'B]",
+        "url": "https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua"
+      },
+      "artists": [
+        {
+          "name": "Ko-C",
+          "url": "https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201685,
+      "name": "Quand J'aurai l'argent (Plenty Money) (feat. Innoss'B)",
+      "url": "https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz"
     },
     {
       "album": {
@@ -795,10 +1035,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 218286,
       "name": "Rebelotte",
       "url": "https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8"
+    },
+    {
+      "album": {
+        "name": "Si tu veux partir",
+        "url": "https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS"
+      },
+      "artists": [
+        {
+          "name": "Yilim",
+          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Si tu veux partir",
+      "url": "https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo"
     },
     {
       "album": {
@@ -813,7 +1071,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 232820,
       "name": "Super Fan",
       "url": "https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ"
@@ -864,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Tia Lokolo",
+        "url": "https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        },
+        {
+          "name": "Extra Musica Nouvel Horizon",
+          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252489,
+      "name": "Tia Lokolo",
+      "url": "https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK"
+    },
+    {
+      "album": {
         "name": "Touche ici",
         "url": "https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y"
       },
@@ -879,6 +1159,24 @@
       "duration_ms": 215294,
       "name": "Touche ici",
       "url": "https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU"
+    },
+    {
+      "album": {
+        "name": "Tu peux lover",
+        "url": "https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz"
+      },
+      "artists": [
+        {
+          "name": "Dj Mulukuku",
+          "url": "https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212555,
+      "name": "Tu peux lover",
+      "url": "https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6"
     },
     {
       "album": {
@@ -901,6 +1199,28 @@
       "duration_ms": 196208,
       "name": "Ventripotent",
       "url": "https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm"
+    },
+    {
+      "album": {
+        "name": "Watterman",
+        "url": "https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        },
+        {
+          "name": "David Eto'o",
+          "url": "https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219753,
+      "name": "Watterman",
+      "url": "https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM"
     },
     {
       "album": {
@@ -963,6 +1283,28 @@
       "duration_ms": 183669,
       "name": "Zendaka",
       "url": "https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM"
+    },
+    {
+      "album": {
+        "name": "\u00c9chauffement (Remix)",
+        "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
+      },
+      "artists": [
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128615,
+      "name": "\u00c9chauffement - Remix",
+      "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS"

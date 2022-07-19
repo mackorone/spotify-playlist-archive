@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  JAY-Z & Linkin Park",
-  "num_followers": 102729,
+  "num_followers": 122310,
   "original_name": "I Love Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzg4MiwwMDAwMDAwMGFiZDZjZTQ1YTMwMmQwZmI1NTQzN2JkMGRkN2E2NzVl",
+  "snapshot_id": "MTY1ODE5NDM5MywwMDAwMDAwMGVlYWEwNTc1ZTg3MTY2ODFjNWYxNmE0ZDFlM2U0MWQz",
   "tracks": [
     {
       "added_at": "2022-04-29 20:15:10",
@@ -163,6 +163,38 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "How I Could Just Kill a Man",
+      "url": "https://open.spotify.com/track/4K1DB7EedHPuVnhVrnvf2U"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Bleed the Sky",
+        "url": "https://open.spotify.com/album/2tqHTAC4qEbd20EDIrdule"
+      },
+      "artists": [
+        {
+          "name": "Reveille",
+          "url": "https://open.spotify.com/artist/3RbXuB6HeChRKwHDiY2PEC"
+        }
+      ],
+      "duration_ms": 146693,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/75qe37gZ8SfRg0N8fGbvrD"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
         "name": "General Admission (Deluxe)",
         "url": "https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk"
       },
@@ -179,42 +211,6 @@
       "duration_ms": 213960,
       "name": "Bad Mother F*cker",
       "url": "https://open.spotify.com/track/2kjPvFgVIGki2BRlOHvQQr"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Loud Rocks",
-        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -255,130 +251,38 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "How I Could Just Kill a Man",
-      "url": "https://open.spotify.com/track/4K1DB7EedHPuVnhVrnvf2U"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
-        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         },
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Bring Tha Noize",
-      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
+      "duration_ms": 160666,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/1tvpNnfRIRAqSCLhILp95P"
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/40JElRJqcgL4bEZGB8KSJ4"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "the ground below (feat. Royal Blood) [Royal Jewels Mix]",
-        "url": "https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX"
-      },
-      "artists": [
-        {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
-        },
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "the ground below (feat. Royal Blood) - Royal Jewels Mix",
-      "url": "https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Unsung: The Best Of Helmet 1991-1997",
-        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        },
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "Just Another Victim",
-      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Rock the Party (Off the Hook) - Off the Hook; 2006 Remaster",
-      "url": "https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc"
+      "duration_ms": 250586,
+      "name": "Wretches and Kings",
+      "url": "https://open.spotify.com/track/5U4RjLvUsjYaKu1dKWzSsP"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -399,48 +303,24 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "We Made It (feat. Linkin Park)",
-        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
+        "name": "(Hed)Pe",
+        "url": "https://open.spotify.com/album/0jQUQHInqZjP1F9ztBvUHv"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "(Hed) P.E.",
+          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
         }
       ],
-      "duration_ms": 238066,
-      "name": "We Made It (feat. Linkin Park)",
-      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
+      "duration_ms": 353533,
+      "name": "Serpent Boy",
+      "url": "https://open.spotify.com/track/7J6GvzDvpdML0bKOXtSx79"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Loud Rocks",
-        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        }
-      ],
-      "duration_ms": 252626,
-      "name": "Still Not a Player",
-      "url": "https://open.spotify.com/track/0kBLhmAX9lXwyPVglwLYaQ"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
       },
       "artists": [
         {
@@ -448,45 +328,89 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Rock the Party (Off the Hook) - Off the Hook; 2006 Remaster",
+      "url": "https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "the ground below (feat. Royal Blood) [Royal Jewels Mix]",
+        "url": "https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
         },
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 194826,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+      "duration_ms": 173132,
+      "name": "the ground below (feat. Royal Blood) - Royal Jewels Mix",
+      "url": "https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
+        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        },
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Bring Tha Noize",
+      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -523,110 +447,22 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 250586,
-      "name": "Wretches and Kings",
-      "url": "https://open.spotify.com/track/5U4RjLvUsjYaKu1dKWzSsP"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "In Search Of...",
-        "url": "https://open.spotify.com/album/3McMIW9iCiwEUWvEvn4cGU"
-      },
-      "artists": [
-        {
-          "name": "N.E.R.D",
-          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/4vMti0CWvOaI0illVdc862"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "It's All About the Benjamins",
-        "url": "https://open.spotify.com/album/45XXvL58wlLmDLn4SJMu9p"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         },
         {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "The LOX",
-          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 284266,
-      "name": "It's All About the Benjamins - Rock Remix I",
-      "url": "https://open.spotify.com/track/2Zdrl11mydNWLlOWaAgH1v"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "(Hed)Pe",
-        "url": "https://open.spotify.com/album/0jQUQHInqZjP1F9ztBvUHv"
-      },
-      "artists": [
-        {
-          "name": "(Hed) P.E.",
-          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
-        }
-      ],
-      "duration_ms": 353533,
-      "name": "Serpent Boy",
-      "url": "https://open.spotify.com/track/7J6GvzDvpdML0bKOXtSx79"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4U79aSChHDlJziRLlt8wyO"
-      },
-      "artists": [
-        {
-          "name": "Quarashi",
-          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Stick 'Em Up",
-      "url": "https://open.spotify.com/track/0eUW8ouQcn5FdwpomAxo6G"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "N 2 Gether Now",
-      "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
+      "duration_ms": 201666,
+      "name": "Play Me (feat. Nas)",
+      "url": "https://open.spotify.com/track/6ODYbfpkSM3AiZ0Fz4V5Ls"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -643,70 +479,6 @@
       "duration_ms": 172160,
       "name": "Down",
       "url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/6aK5j6uQmTduQkgtVQasMN"
-      },
-      "artists": [
-        {
-          "name": "Stuck Mojo",
-          "url": "https://open.spotify.com/artist/4Bqt1X3kNYGUWtbs0fCKTB"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/0dPW4wary96t6iIzwPoqjU"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Word Up! (The Remixes)",
-        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Word Up!",
-      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -743,6 +515,26 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
         "name": "Judgement Night: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh"
       },
@@ -759,6 +551,66 @@
       "duration_ms": 210200,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/28S7ljAJMJs3ZUfucDDEob"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/1tvpNnfRIRAqSCLhILp95P"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/40JElRJqcgL4bEZGB8KSJ4"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4U79aSChHDlJziRLlt8wyO"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Stick 'Em Up",
+      "url": "https://open.spotify.com/track/0eUW8ouQcn5FdwpomAxo6G"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "It's All About the Benjamins",
+        "url": "https://open.spotify.com/album/45XXvL58wlLmDLn4SJMu9p"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        }
+      ],
+      "duration_ms": 284266,
+      "name": "It's All About the Benjamins (feat. Lil' Kim & The Lox) - Rock Remix I",
+      "url": "https://open.spotify.com/track/2Zdrl11mydNWLlOWaAgH1v"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -787,58 +639,6 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
-      },
-      "artists": [
-        {
-          "name": "Kevin Rudolf",
-          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
-        "name": "Bleed the Sky",
-        "url": "https://open.spotify.com/album/2tqHTAC4qEbd20EDIrdule"
-      },
-      "artists": [
-        {
-          "name": "Reveille",
-          "url": "https://open.spotify.com/artist/3RbXuB6HeChRKwHDiY2PEC"
-        }
-      ],
-      "duration_ms": 146693,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/75qe37gZ8SfRg0N8fGbvrD"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -859,6 +659,26 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        },
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "Just Another Victim",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -875,18 +695,134 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Skull & Bones",
-        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
+        "name": "One Fierce Beer Coaster",
+        "url": "https://open.spotify.com/album/12Vg9jAQ2maGpRMY1Lqm9f"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Can't Get the Best of Me",
-      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
+      "duration_ms": 156240,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/6WReDSMvrpCkyB32Dt0hgl"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "What's My Age Again? / A Milli",
+        "url": "https://open.spotify.com/album/5eFIwiNkWNue8iiwfSMt8v"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "What's My Age Again? / A Milli",
+      "url": "https://open.spotify.com/track/29SvTTSIa1hdulOzztjBDw"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Word Up! (The Remixes)",
+        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "The Rising Tied (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IeQ4pMgtlYDNzB3SD5J54"
+      },
+      "artists": [
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Kenna",
+          "url": "https://open.spotify.com/artist/1bnOVGYMqR3dgSDU1ZUmnT"
+        },
+        {
+          "name": "Jonah Matranga",
+          "url": "https://open.spotify.com/artist/3Ztgr9y1L9ZfoIOEsCrZEb"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Red to Black (feat. Kenna, Jonah Matranga & Styles of Beyond)",
+      "url": "https://open.spotify.com/track/1u3h7Jm3MIbeSW45ek6Tzy"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -911,62 +847,150 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Run The Jewels 2",
-        "url": "https://open.spotify.com/album/4Loc7NtCAo9mypHO6kbviD"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
       },
       "artists": [
         {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+          "name": "Kevin Rudolf",
+          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
         },
         {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Close Your Eyes (And Count To Fuck)",
-      "url": "https://open.spotify.com/track/2Kn3xgaDCM4aHuHK7FApgC"
+      "duration_ms": 231173,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Play Me (feat. Nas)",
-      "url": "https://open.spotify.com/track/6ODYbfpkSM3AiZ0Fz4V5Ls"
+      "duration_ms": 252626,
+      "name": "Still Not a Player",
+      "url": "https://open.spotify.com/track/0kBLhmAX9lXwyPVglwLYaQ"
     },
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Amplified",
-        "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
+        "name": "Skull & Bones",
+        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
       },
       "artists": [
         {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 212840,
-      "name": "End Of Time (feat. Korn)",
-      "url": "https://open.spotify.com/track/4UGkrFpBhhJCmQm6d6QEfI"
+      "duration_ms": 254906,
+      "name": "Can't Get the Best of Me",
+      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "93PUNX",
+        "url": "https://open.spotify.com/album/13VX4SeBbXuZEihnA91GSo"
+      },
+      "artists": [
+        {
+          "name": "93PUNX",
+          "url": "https://open.spotify.com/artist/0qfeDvoajHGoVkmIW7fgra"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "it\u2019s a bad dream (Feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/4o2pCUcxHc8wabzbNi5naZ"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "We Made It (feat. Linkin Park)",
+        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "We Made It (feat. Linkin Park)",
+      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "We Care a Lot (Deluxe Band Edition Remastered)",
+        "url": "https://open.spotify.com/album/3udSCTdyARfZASR78cBMMN"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 249986,
+      "name": "We Care a Lot",
+      "url": "https://open.spotify.com/track/0LGLroYa8j2Y2gcYxCNuKz"
     }
   ],
   "unique_name": "I Love Rap 'n' Roll",

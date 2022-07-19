@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "\u00a1Celebrando con los 14 Ca\u00f1onazos! Foto: Los Corraleros de Majagual",
+  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: La Mambanegra\n",
   "name": "Rumba Colombiana",
   "published_playlist_ids": [
     "31e0N9ZhkPd7GKHDb9NQgd"
@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Ancestras",
+        "url": "https://open.spotify.com/album/1SvnKPYWcsKCgwckfOJqhK"
+      },
+      "artists": [
+        {
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236216,
+      "name": "Ay Mi Gallina (Afrobeat-Chalupa)",
+      "url": "https://open.spotify.com/track/5OaT8Yz1jyrlBnYww7kOrb"
+    },
+    {
+      "album": {
         "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU"
       },
@@ -241,7 +263,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 176612,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6KWA9NLJsgasu3dwXE9zDs"
@@ -353,7 +375,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -393,7 +415,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 259458,
       "name": "Ca\u00f1onazos / la Esquina del Movimiento (En Vivo)",
       "url": "https://open.spotify.com/track/0CDu9iGvvkGHhm4UISaJtH"
@@ -477,6 +499,24 @@
       "duration_ms": 277080,
       "name": "Cuando Lleguen los Millones",
       "url": "https://open.spotify.com/track/2HhA76gw56fjazNpE5zSTV"
+    },
+    {
+      "album": {
+        "name": "Cubeta",
+        "url": "https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il"
+      },
+      "artists": [
+        {
+          "name": "Mayte Montero",
+          "url": "https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220890,
+      "name": "Cubeta",
+      "url": "https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR"
     },
     {
       "album": {
@@ -622,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/7czjmqc9GFZnpJsgqaGm6K"
+      },
+      "artists": [
+        {
+          "name": "Donny Caballero",
+          "url": "https://open.spotify.com/artist/59KiJoJk4joMhDfJ037DDt"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7KsoGh3SoKaBYdPBzcoAYT"
+    },
+    {
+      "album": {
         "name": "14 Ca\u00f1onazos Bailables (Vol. 61)",
         "url": "https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi"
       },
@@ -633,7 +691,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 187947,
       "name": "Hasta Morir",
       "url": "https://open.spotify.com/track/7A27JkRytzdJdmlskVDwVz"
@@ -673,7 +731,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 229155,
       "name": "Hombre Pobre",
       "url": "https://open.spotify.com/track/3mVmKyluv1iK9TR5EzF8g4"
@@ -691,7 +749,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 245325,
       "name": "Joselito Cubano (Hu\u00e9rfano Soy / No, No, No, Que Va)",
       "url": "https://open.spotify.com/track/3sYHbO4Te5O7evOTkHwlPl"
@@ -713,7 +771,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 160224,
       "name": "Juan Mec\u00e1nico (Visi\u00f3n Dinamita)",
       "url": "https://open.spotify.com/track/1ubDGW9FhowKbpMpMvlXH6"
@@ -771,7 +829,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 200926,
       "name": "La Malgeniosa",
       "url": "https://open.spotify.com/track/6skbFFnqI3KhZuyVWqvV8F"
@@ -859,7 +917,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 243411,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/5gtATfNv0ZcjAcdhzOabpp"
@@ -942,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Late Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1lgOobRBdh1gqtRM68GMVL"
+      },
+      "artists": [
+        {
+          "name": "Moises Angulo",
+          "url": "https://open.spotify.com/artist/3QqflJAb7pWwGZcDULUGdJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "Late Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6pxmJVuPm6qiNE6BfGD2VU"
+    },
+    {
+      "album": {
         "name": "15 Exitos De- Oscar D Leon",
         "url": "https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i"
       },
@@ -975,7 +1051,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 199478,
       "name": "Lo Veo y No Lo Creo",
       "url": "https://open.spotify.com/track/5f6RxRulaBQGyZZ3daBlbS"
@@ -1015,7 +1091,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 198161,
       "name": "Mala",
       "url": "https://open.spotify.com/track/3Er6TBbH18r8V4b9eCj7Cm"
@@ -1073,7 +1149,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 236453,
       "name": "Me Resbala",
       "url": "https://open.spotify.com/track/6Jh2w04fCPnEfgsUkoR9x2"
@@ -1095,7 +1171,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 143132,
       "name": "Me Sabe a Mango",
       "url": "https://open.spotify.com/track/2aIv9bIeqnhssgxvKpnkNZ"
@@ -1200,6 +1276,28 @@
     },
     {
       "album": {
+        "name": "Pa' la Calle",
+        "url": "https://open.spotify.com/album/76Pyqr2IuLi0w45sBkdNgU"
+      },
+      "artists": [
+        {
+          "name": "La Mambanegra",
+          "url": "https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ"
+        },
+        {
+          "name": "Jacobo Velez",
+          "url": "https://open.spotify.com/artist/28uB7GB7QbKBPMCZqLPA5y"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210538,
+      "name": "Pa' la Calle",
+      "url": "https://open.spotify.com/track/0iZet9i0d0BTnnNF8g0bxY"
+    },
+    {
+      "album": {
         "name": "La Tierra del Olvido",
         "url": "https://open.spotify.com/album/4eULyeHcegYFenTA5T0P51"
       },
@@ -1229,7 +1327,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 201881,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/4541BVrhyo0yVDx5xy3BCc"
@@ -1287,6 +1385,24 @@
       "duration_ms": 283272,
       "name": "Persona Ideal",
       "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
+    },
+    {
+      "album": {
+        "name": "Rancho Aparte",
+        "url": "https://open.spotify.com/album/2QsEO6AUWwk0A5rmDSzv3V"
+      },
+      "artists": [
+        {
+          "name": "Rancho Aparte",
+          "url": "https://open.spotify.com/artist/2YQc5vx5VbiKcc3oudaHoW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258386,
+      "name": "Poni\u00e9ndote a Gozar",
+      "url": "https://open.spotify.com/track/4pHiVeIatSlwNiLHMtCIGT"
     },
     {
       "album": {
@@ -1385,7 +1501,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 262978,
       "name": "Santo Cach\u00f3n (Guaracha)",
       "url": "https://open.spotify.com/track/1gVLQOZ2CfZUnh6dmCp8Qb"
@@ -1475,7 +1591,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 192223,
       "name": "Tambi\u00e9n Se Enoja por Nada",
       "url": "https://open.spotify.com/track/4jY1IDAM1w1qT7ttd9fB0D"
@@ -1551,7 +1667,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 188860,
       "name": "Tu Propia Muerte",
       "url": "https://open.spotify.com/track/5Y3rLJPond4Mpls4sfYPWK"

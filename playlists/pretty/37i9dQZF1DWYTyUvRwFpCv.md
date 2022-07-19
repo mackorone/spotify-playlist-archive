@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTyUvRwFpCv.md) - [plain]
 
 > Los grandes éxitos de Selena y Jenni en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,590 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,940 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

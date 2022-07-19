@@ -697,7 +697,7 @@
       },
       "artists": [
         {
-          "name": "Baby VOX",
+          "name": "Baby V.O.X",
           "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
@@ -1025,7 +1025,7 @@
       },
       "artists": [
         {
-          "name": "Baby VOX",
+          "name": "Baby V.O.X",
           "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
@@ -2050,24 +2050,6 @@
     },
     {
       "album": {
-        "name": "Chapter 3",
-        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "date_added": "2021-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242333,
-      "name": "\u1100\u1165\u110c\u1175\u11ba\u1106\u1161\u11af Lie",
-      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
-    },
-    {
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA"
       },
@@ -2104,24 +2086,6 @@
     },
     {
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "date_added": "2021-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255840,
-      "name": "\u110b\u1165\u1106\u1165\u1102\u1175\u11b7\u1101\u1166 To Mother",
-      "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
-    },
-    {
-      "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
       },
@@ -2134,9 +2098,9 @@
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211253,
-      "name": "\u110e\u1169\u11ba\u1107\u116e\u11af\u1112\u1161\u1102\u1161 One Candle",
-      "url": "https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB"
+      "duration_ms": 242333,
+      "name": "\uac70\uc9d3\ub9d0 Lie",
+      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
     },
     {
       "album": {
@@ -2326,7 +2290,7 @@
       "artists": [
         {
           "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/79LgSr70Bcs8wAthXEQ7dp"
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
       "date_added": "2021-09-09",
@@ -2335,6 +2299,24 @@
       "duration_ms": 230821,
       "name": "\uc57c\uc57c\uc57c",
       "url": "https://open.spotify.com/track/3AQSMJvDOtMOWq1qDfnvCE"
+    },
+    {
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "\uc5b4\uba38\ub2d8\uaed8 To Mother",
+      "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
     },
     {
       "album": {
@@ -2425,6 +2407,24 @@
       "duration_ms": 249546,
       "name": "\uc9c0\uc6b4 \uc5bc\uad74 (Familiar Face)",
       "url": "https://open.spotify.com/track/59CYOWfGI9HEtxv4b4sTvx"
+    },
+    {
+      "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "\ucd1b\ubd88\ud558\ub098 One Candle",
+      "url": "https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB"
     },
     {
       "album": {

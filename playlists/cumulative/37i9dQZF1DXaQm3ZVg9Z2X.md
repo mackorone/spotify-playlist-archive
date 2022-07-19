@@ -4,7 +4,7 @@
 
 > This is Coldplay\. The essential tracks, all in one place.
 
-53 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1oCJ3Q02CA2EhAiPR90yH4)
+54 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1oCJ3Q02CA2EhAiPR90yH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always in My Head](https://open.spotify.com/track/0FMjqbY3aWo1QDbo3GwXib) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:36 | 2021-09-24 |  |
 | [Arabesque](https://open.spotify.com/track/0ZlVUhjO8c0bOx1D2Btznf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 5:40 | 2021-09-24 |  |
 | [Birds](https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 3:49 | 2021-09-24 |  |
+| [Biutyful](https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Biutyful](https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM) | 3:12 | 2022-07-08 |  |
 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 | 2021-09-24 |  |
 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 | 2021-09-24 |  |
 | [Christmas Lights \- Live from Spotify London](https://open.spotify.com/track/4QVdnpSO5JGMFOEl6ys4RQ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 4:28 | 2021-09-24 |  |

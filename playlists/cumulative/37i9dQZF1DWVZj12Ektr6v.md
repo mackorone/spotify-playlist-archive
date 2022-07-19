@@ -2,9 +2,9 @@
 
 ### [This Is NCT DREAM](https://open.spotify.com/playlist/37i9dQZF1DWVZj12Ektr6v)
 
-> To the world, this is NCT! This is NCT DREAM! 'Glitch Mode' is here!
+> To the world, this is NCT! This is NCT DREAM! The repackaged album, Beatbox is out!
 
-55 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
+59 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ANL](https://open.spotify.com/track/5W2Xm974d6afrssOV1FrtK) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:45 | 2022-03-28 |  |
 | [Arcade](https://open.spotify.com/track/4T9hw59r85ZkesNoYWQIJg) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-28 |  |
 | [Be There For You](https://open.spotify.com/track/1aViQtkIHMLX5nh8g6Tckh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:43 | 2022-03-28 |  |
+| [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 |  |
 | [Beautiful Time](https://open.spotify.com/track/12YCzgLIK66nMNz4IpPTuL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:27 | 2022-03-28 |  |
 | [Best Friend](https://open.spotify.com/track/6YMy6nuK53ZSKOLlt2ytiY) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:24 | 2022-03-28 |  |
 | [Better Than Gold](https://open.spotify.com/track/0tIkUSA5njpsBaTAx3z25z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:20 | 2022-03-28 |  |
@@ -46,6 +47,7 @@
 | [My Page](https://open.spotify.com/track/63oREMsb7uCqgVztE72Pyv) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:46 | 2022-03-28 |  |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2022-03-28 |  |
 | [Never Goodbye](https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:32 | 2022-03-28 |  |
+| [On the way](https://open.spotify.com/track/1iN31yt7y7vREKboJoPvvw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:29 | 2022-05-30 |  |
 | [Puzzle Piece](https://open.spotify.com/track/4hMYovC1APX8ojuANCoeuF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:47 | 2022-03-28 |  |
 | [Quiet Down](https://open.spotify.com/track/3l8JuoE2LHb7hiFo7lKrkh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:08 | 2022-03-28 |  |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2022-03-28 |  |
@@ -54,8 +56,10 @@
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2022-03-28 |  |
 | [Rocket](https://open.spotify.com/track/2hr3geQBSViX9Oi2OsnY3c) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 2:55 | 2022-03-28 |  |
 | [Saturday Drip](https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:00 | 2022-03-28 |  |
+| [Sorry, Heart](https://open.spotify.com/track/6GKShCAPVjtOWJTH5tcSoj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:33 | 2022-05-30 |  |
 | [STRONGER](https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:26 | 2022-03-28 |  |
 | [Teddy Bear](https://open.spotify.com/track/4j8hB6XdIYspmYbFsBk1DD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 4:02 | 2022-03-28 |  |
+| [To My First](https://open.spotify.com/track/7cjojsJwncbiCI0rqOOf9j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:03 | 2022-05-30 |  |
 | [Trigger the fever \(The Official Song of the FIFA U\-20 World Cup Korea Republic 2017\)](https://open.spotify.com/track/6YEzJ1abhCakyaTq826f1j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Trigger the fever \(The Official Song of the FIFA U\-20 World Cup Korea Republic 2017\)](https://open.spotify.com/album/29KXevMY8U3atSgi1qUH2f) | 3:26 | 2022-03-28 |  |
 | [Up to You \(feat\. NCT DREAM\)](https://open.spotify.com/track/58LUjGxK8NF8VD7KxRvONb) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Up to You \(feat\. NCT DREAM\)](https://open.spotify.com/album/6C3yf6dS7gjx9LEgMkfOka) | 2:40 | 2022-03-28 |  |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2022-03-28 |  |

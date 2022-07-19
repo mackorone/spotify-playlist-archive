@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AviTMPF0km.md) - [plain]
 
 > A collection of contemporary classical from Chinese and Chinese\-born composers and musicians, from Bright Sheng and Chen Yi to Qu Xiaosong and Zhu Jianer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,420 likes - 28 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 28 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

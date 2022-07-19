@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,101 likes - 54 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,146 likes - 54 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 17 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
 | 18 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
 | 19 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
-| 20 | [Raga Shyam Kalyan \- Raga Shyam Kalyan \- Tala Jhaaptaal](https://open.spotify.com/track/0AHfkyRpNaUIF5nY0lQbUb) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO), [Omkar Agnihotri](https://open.spotify.com/artist/18IQbHDruZ87K0qOEU9PvG) | [Mere Khayaal Se](https://open.spotify.com/album/03S1Ucw9MzdDiw31hH5PKb) | 12:50 |
+| 20 | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/album/6HkB8bvQTWnPLkKThPiP0e) | 17:28 |
 | 21 | [Raga Chayya Nat](https://open.spotify.com/track/5rmvcbSz9IbOfna1ryTVSQ) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 19:17 |
 | 22 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 |
 | 23 | [Raga khafi](https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:38 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 53 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
 | 54 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 |
 
-Snapshot ID: `MTY1MDg3OTQwMiwwMDAwMDAzMDAwMDAwMTgwNjAxNDkzYTMwMDAwMDE3MGFmMzZmZGI4`
+Snapshot ID: `MTY1NjkxMzMyOCwwMDAwMDAzNTAwMDAwMTgxYzdiYWY4MjMwMDAwMDE3MGFmMzZmZGI4`

@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-64 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
+65 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Brush Your Teeth](https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:12 | 2021-09-23 |  |
 | [Caillou Theme](https://open.spotify.com/track/3wEH6ICVXNmBARGVcUh6cJ) | [Caillou](https://open.spotify.com/artist/5UtrFOo0vH241oQGb28vKP) | [Summertime Jams](https://open.spotify.com/album/7aMzjz4XbFsDUmnhINcqpj) | 0:45 | 2021-09-23 |  |
 | [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 2:11 | 2021-09-23 |  |
+| [Cleaning So Clean](https://open.spotify.com/track/7AIAzWtSyzlCFImgYigdsr) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 3:04 | 2022-07-08 |  |
 | [Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!](https://open.spotify.com/track/2NbgM4HZP1DUvzKOVqkUZw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:11 | 2021-09-23 |  |
 | [Cover Your Mouth](https://open.spotify.com/track/7CbFr2nUvRO2P6D4A2rUrO) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Yo Gabba Gabba! Music Is Awesome: Vol\. 4](https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K) | 1:27 | 2021-09-23 |  |
 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 | 2021-09-23 |  |

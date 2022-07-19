@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 179497,
       "name": "Brains [HOME DEMO]",
       "url": "https://open.spotify.com/track/31SygSVth7nrtAeiMCETPH"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 250586,
       "name": "Crater on the Moon",
       "url": "https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg"
@@ -1294,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163209,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
+    },
+    {
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1403,6 +1421,24 @@
       "duration_ms": 252253,
       "name": "Wicked Game - Acoustic",
       "url": "https://open.spotify.com/track/3Gb3RPg5FT3cCn0q1oizZp"
+    },
+    {
+      "album": {
+        "name": "Small Town Rituals",
+        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr"
     },
     {
       "album": {

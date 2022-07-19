@@ -30,6 +30,64 @@
     },
     {
       "album": {
+        "name": "Face 2 Face - Remix",
+        "url": "https://open.spotify.com/album/24b98ZA7QXZ46a0CvZ1yCZ"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-16",
+      "duration_ms": 260986,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/7FkT43Ziw1twchabx7AfOJ"
+    },
+    {
+      "album": {
+        "name": "REWIND. SELECT. UPDATE",
+        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264360,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 262986,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
+    },
+    {
+      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -43,26 +101,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 260986,
-      "name": "African Queen",
+      "name": "African Queen - Remastered Version",
       "url": "https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf"
-    },
-    {
-      "album": {
-        "name": "Face 2 Face - Remix",
-        "url": "https://open.spotify.com/album/24b98ZA7QXZ46a0CvZ1yCZ"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "date_added": "2021-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 260986,
-      "name": "African Queen",
-      "url": "https://open.spotify.com/track/7FkT43Ziw1twchabx7AfOJ"
     },
     {
       "album": {
@@ -99,7 +139,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 254119,
       "name": "Appreciate It",
       "url": "https://open.spotify.com/track/2mOcoUaBhqKmnpBxTptCMl"
@@ -187,7 +227,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
@@ -267,10 +307,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": "2022-07-14",
       "duration_ms": 262844,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC"
+    },
+    {
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 250305,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6IBO1NCDDbL9SzQ9A1vFVQ"
     },
     {
       "album": {
@@ -293,6 +351,28 @@
       "duration_ms": 230191,
       "name": "Free",
       "url": "https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt"
+    },
+    {
+      "album": {
+        "name": "Frenemies",
+        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 241737,
+      "name": "Frenemies",
+      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
     },
     {
       "album": {
@@ -355,7 +435,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 205384,
       "name": "Ginger (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/7j9Hues1Hzg9LQ84Pmhyv8"
@@ -377,10 +457,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-06-09",
       "duration_ms": 213969,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V"
+    },
+    {
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3IbjUuSFsXLeBd6hz5ZJEY"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234527,
+      "name": "Hate What You Do To Me",
+      "url": "https://open.spotify.com/track/2Axz6XkiHiahq0xFA9rttd"
     },
     {
       "album": {
@@ -483,7 +581,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 261560,
       "name": "I Dey Feel Like",
       "url": "https://open.spotify.com/track/1sJ1sWNt98WLmGBZDwY884"
@@ -505,7 +603,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-03",
       "duration_ms": 183103,
       "name": "I Dey Hear Everything (feat. Olamide)",
       "url": "https://open.spotify.com/track/2E69eYTx63PA0iIx4akLbZ"
@@ -523,10 +621,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 234520,
       "name": "I Hate What You Do to Me",
       "url": "https://open.spotify.com/track/6k0qiK8ZWEHfaFnEVg0Hez"
+    },
+    {
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 340976,
+      "name": "I Sing",
+      "url": "https://open.spotify.com/track/2xDxCDyTAfiqo9nSCfgEh2"
     },
     {
       "album": {
@@ -606,32 +722,6 @@
     },
     {
       "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Natives",
-          "url": "https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF"
-        },
-        {
-          "name": "Lil Seal",
-          "url": "https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL"
-        }
-      ],
-      "date_added": "2022-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 343120,
-      "name": "Keep on Rocking",
-      "url": "https://open.spotify.com/track/6lbjsi4ZoerN7tJLot91VD"
-    },
-    {
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -658,6 +748,32 @@
     },
     {
       "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Natives",
+          "url": "https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF"
+        },
+        {
+          "name": "Lil Seal",
+          "url": "https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 343120,
+      "name": "Keep on Rocking - Remastered Version",
+      "url": "https://open.spotify.com/track/6lbjsi4ZoerN7tJLot91VD"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/3IbjUuSFsXLeBd6hz5ZJEY"
       },
@@ -669,10 +785,32 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": "2022-07-07",
       "duration_ms": 225071,
       "name": "Kiss Of Life",
       "url": "https://open.spotify.com/track/6QRS80Nx3hIIL1Tg5HsZDF"
+    },
+    {
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/1QLLC5ZGukhxLehg8dFE62"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-19",
+      "duration_ms": 307696,
+      "name": "Life Is Beautiful (feat. 2baba)",
+      "url": "https://open.spotify.com/track/5pAU0AC3qNiORdnXO2kDOg"
     },
     {
       "album": {
@@ -705,7 +843,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": "2022-05-23",
       "duration_ms": 196458,
       "name": "Love Me, Love Me",
       "url": "https://open.spotify.com/track/2Lf9sq98qQsJA0Z6JiICOO"
@@ -727,7 +865,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": "2022-06-20",
       "duration_ms": 333906,
       "name": "My Love",
       "url": "https://open.spotify.com/track/64VlTvAsakYvPBhaTAsN9V"
@@ -747,7 +885,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 265440,
-      "name": "Nfana Ibaga (No Problem)",
+      "name": "Nfana Ibaga (No Problem) - Remastered Version",
       "url": "https://open.spotify.com/track/7L3sQ9DSqZTmxkxZy7HMxe"
     },
     {
@@ -767,10 +905,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 271720,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
+    },
+    {
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 259173,
+      "name": "Ocho",
+      "url": "https://open.spotify.com/track/4SmPs1wEHUaxcM9M1qsNjI"
     },
     {
       "album": {
@@ -802,14 +962,14 @@
         },
         {
           "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
         }
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290240,
-      "name": "Ole",
+      "name": "Ole - Remastered Version",
       "url": "https://open.spotify.com/track/4pPTKgTFyjU4VVT8BCHThZ"
     },
     {
@@ -847,7 +1007,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": "2022-07-07",
       "duration_ms": 231000,
       "name": "One Love",
       "url": "https://open.spotify.com/track/7eOhAO9ic0PSj2FeNfG8W5"
@@ -869,6 +1029,28 @@
       "duration_ms": 229642,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/6EolsZ9HttNVTonF1bWxqa"
+    },
+    {
+      "album": {
+        "name": "Open My Way",
+        "url": "https://open.spotify.com/album/5PiIvOPKpG2mFKykk1rgRl"
+      },
+      "artists": [
+        {
+          "name": "Kelly Hansome",
+          "url": "https://open.spotify.com/artist/4dqnFiVNU2LiZj2S3KkKdW"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 233404,
+      "name": "Open My Way",
+      "url": "https://open.spotify.com/track/5bUa5idn7lGYFMad13Q4FO"
     },
     {
       "album": {
@@ -1040,24 +1222,6 @@
     },
     {
       "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "date_added": "2022-03-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286320,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo"
-    },
-    {
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -1077,6 +1241,24 @@
       "duration_ms": 288920,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Right Here - Remastered Version",
+      "url": "https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo"
     },
     {
       "album": {
@@ -1117,7 +1299,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 252865,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH"
@@ -1208,6 +1390,46 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199650,
+      "name": "Suffer Head",
+      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
+    },
+    {
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-21",
+      "duration_ms": 275670,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/2mCrH61xTN26dAoMe7XKId"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -1243,7 +1465,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 265240,
-      "name": "Thank U Lord",
+      "name": "Thank U Lord - Remastered Version",
       "url": "https://open.spotify.com/track/0I7wgobSTGY7VL07NZcU0R"
     },
     {
@@ -1325,7 +1547,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-12",
       "duration_ms": 267840,
       "name": "U No Holy Pass",
       "url": "https://open.spotify.com/track/3v0FEcW2YJaJlVU5k7zolI"

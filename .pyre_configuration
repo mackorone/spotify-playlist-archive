@@ -1,5 +1,5 @@
 {
+  "site_package_search_strategy": "pep561",
   "source_directories": ["src/"],
-  "strict": true,
-  "taint_models_path": "venv/lib"
+  "strict": true
 }

@@ -2,9 +2,9 @@
 
 ### [EDM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX14rZPczlTBh)
 
-> The perfect uptempo tracks for the function.
+> The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-66 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
+67 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/78b2rp1nXUaWMPRj1Tflck)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bulreddy \(From "Sita"\)](https://open.spotify.com/track/7My3AYHEIuZzF08WnFxHiL) | [Uma Neha](https://open.spotify.com/artist/2sRYoKkvb2apFZ58rb5717), [Teja](https://open.spotify.com/artist/3vJnbat2OmxIqKMwmsrllO), [Santosh.G](https://open.spotify.com/artist/3usjkHZ7nQFLoLQl0xGIrk), [Amito](https://open.spotify.com/artist/4DW8217i9ZFEaXDCMaBeWc), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Bulreddy \(From "Sita"\)](https://open.spotify.com/album/3JW4hoixkVxtq6rUYZB2qF) | 3:56 | 2021-06-24 |  |
 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil](https://open.spotify.com/artist/1qRMj0A3Z6fcxQMZVaXhp0), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 | 2021-06-24 |  |
 | [Cheppave Balamani](https://open.spotify.com/track/1grDh5NyDiKXEe6DRduzPR) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc) | [Chalo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tfpNTS0GMogs3TFf7KzVW) | 4:31 | 2021-06-24 |  |
+| [Chill Maaro Chill Maaro](https://open.spotify.com/track/7EFE9jUQ0uFTQ69xWQtixm) | [Mahathi Swara Sagar](https://open.spotify.com/artist/1XjPpEBw4dLao4gNgoKhmz), [Nakash Aziz, Sanjana Kalmanje](https://open.spotify.com/artist/64JpwKM7CYBMytPm50YpXB) | [Macherla Niyojakavargam](https://open.spotify.com/album/22mNmPQpxxjSbQCJqBe44q) | 3:32 | 2022-06-03 |  |
 | [Chitike \(From "Gang"\)](https://open.spotify.com/track/4cs8E7TQBRc6geyRjdsrfU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chitike \(From "Gang"\)](https://open.spotify.com/album/1rVAaLEYn3UyewBEILqvW9) | 4:00 | 2021-06-24 |  |
 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Sniggy](https://open.spotify.com/artist/0ioIcfFt7AbPVmSInTsWX6) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 | 2021-06-24 |  |
 | [Colorful Chilaka](https://open.spotify.com/track/6Tve6cDltGAxo5dqWxIF9y) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Express Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Bob85oKmvQevS83sAYHyf) | 3:48 | 2021-06-24 |  |
@@ -55,7 +56,7 @@
 | [Pedda Puli \(From "Chal Mohan Ranga"\)](https://open.spotify.com/track/78EsU5Njik3K2b1Os6zwLV) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Pedda Puli \(From "Chal Mohan Ranga"\)](https://open.spotify.com/album/1lQ8SxLbShtnOxSG4r7Myk) | 3:51 | 2021-06-24 |  |
 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 | 2021-06-24 |  |
 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 | 2021-06-24 |  |
-| [Pillaa Raa DJ Remix](https://open.spotify.com/track/1aQkquVqxeRJvPlBT8pkVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100](https://open.spotify.com/album/19OwKq3vosh2lBwG1so6c1) | 3:54 | 2021-06-24 |  |
+| [Pillaa Raa DJ Remix](https://open.spotify.com/track/1aQkquVqxeRJvPlBT8pkVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100](https://open.spotify.com/album/19OwKq3vosh2lBwG1so6c1) | 3:54 | 2021-06-24 | 2022-06-04 |
 | [Private Party](https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd) | [M.C\. Vickey](https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:23 | 2021-06-24 |  |
 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 | 2021-06-24 |  |
 | [Ra Ra \(Roar of the Revengers\)](https://open.spotify.com/track/3bXNfFKUI9p5WKjjOgMqzs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Bashermax](https://open.spotify.com/artist/11FBZoyhsRx6NeGzZA5DYb) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:10 | 2021-06-24 |  |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 217040,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 220826,
       "name": "All I Ever Think About",
       "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 338573,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f"
@@ -210,6 +210,42 @@
     },
     {
       "album": {
+        "name": "Bravebird",
+        "url": "https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw"
+      },
+      "artists": [
+        {
+          "name": "Amel Larrieux",
+          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O"
+    },
+    {
+      "album": {
+        "name": "Kenny Lattimore",
+        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
+    },
+    {
+      "album": {
         "name": "Outrun The Sky",
         "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
       },
@@ -243,7 +279,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 277297,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
@@ -261,7 +297,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 248320,
       "name": "Heaven On My Mind (Ballad)",
       "url": "https://open.spotify.com/track/14aeR4MPNqmI0gCrbJpscu"
@@ -319,7 +355,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 282053,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/4QSjp5nuuNAdlzUbVhICRM"
@@ -362,6 +398,28 @@
     },
     {
       "album": {
+        "name": "Instant Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323986,
+      "name": "If This World Were Mine (with Luther Vandross)",
+      "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
+    },
+    {
+      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -377,6 +435,24 @@
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
     },
     {
       "album": {
@@ -398,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "album": {
         "name": "True to Myself",
         "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
@@ -413,6 +507,42 @@
       "duration_ms": 286973,
       "name": "Let's Stay Together - Midnight Mix",
       "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
+    },
+    {
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
       "album": {
@@ -463,7 +593,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 299626,
       "name": "Love No Limit",
       "url": "https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z"
@@ -488,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 228386,
+      "name": "Lovin U",
+      "url": "https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b"
+    },
+    {
+      "album": {
         "name": "The Essential O'Jays",
         "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
@@ -506,6 +654,24 @@
     },
     {
       "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325960,
+      "name": "Make Me a Believer",
+      "url": "https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn"
+    },
+    {
+      "album": {
         "name": "Live Radio City Music Hall 2003",
         "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
       },
@@ -521,6 +687,58 @@
       "duration_ms": 769426,
       "name": "Medley",
       "url": "https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Moody",
+          "url": "https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M"
+        },
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        },
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        },
+        {
+          "name": "Rachelle Ferrell",
+          "url": "https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258306,
+      "name": "Moody's Mood For Love (I'm In The Mood For Love)",
+      "url": "https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03"
+    },
+    {
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335906,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S"
     },
     {
       "album": {
@@ -723,7 +941,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 275400,
       "name": "So In Love - feat. Anthony Hamilton",
       "url": "https://open.spotify.com/track/1HazDXnvOTubBFmZnabq7Q"
@@ -745,6 +963,60 @@
       "duration_ms": 261866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+    },
+    {
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+    },
+    {
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "album": {
+        "name": "Surrender to Love",
+        "url": "https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 309666,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE"
     },
     {
       "album": {
@@ -777,7 +1049,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 290600,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
@@ -813,7 +1085,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 195424,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/1oiD5zGVKxlMNCxSUXGL9g"
@@ -835,7 +1107,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 236240,
       "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
       "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
@@ -875,7 +1147,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/7dL8FCLzEaWC2A3qWQuz1q"
@@ -900,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225255,
+      "name": "Whenever Wherever Whatever - Remastered 2021",
+      "url": "https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp"
+    },
+    {
+      "album": {
         "name": "Why I Love You - Single",
         "url": "https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk"
       },
@@ -911,7 +1201,7 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 235907,
       "name": "Why I Love You",
       "url": "https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT"
@@ -929,10 +1219,32 @@
       ],
       "date_added": "2020-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-26",
       "duration_ms": 302186,
       "name": "You",
       "url": "https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373266,
+      "name": "You Put A Move On My Heart",
+      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
     },
     {
       "album": {

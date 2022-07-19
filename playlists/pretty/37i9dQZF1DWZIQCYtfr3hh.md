@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQCYtfr3hh.md) - [plain]
 
 > The best of the Bollywood diva\. Cover: Aishwarya Rai Bachchan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,733 likes - 29 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,712 likes - 29 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
   "description": "A swinging jazz soundtrack for your drive time.",
-  "name": "Jazz on the Road",
+  "name": "Jazz Commute",
   "published_playlist_ids": [
     "0C5uVtE1kP1r63LtVzXgsK"
   ],
@@ -98,6 +98,42 @@
     },
     {
       "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "album": {
+        "name": "Auditorium",
+        "url": "https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268626,
+      "name": "Auditorium",
+      "url": "https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs"
+    },
+    {
+      "album": {
         "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
       },
@@ -131,7 +167,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-19",
       "duration_ms": 491013,
       "name": "Ball Bearing - Remastered",
       "url": "https://open.spotify.com/track/5AC0W8ke0k69WTwPGS7VB9"
@@ -221,7 +257,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 619733,
       "name": "Blue Minor - Rudy Van Gelder Edition/1998 Remaster",
       "url": "https://open.spotify.com/track/4K2wcfSfyNYIJNhoCvVnbP"
@@ -259,7 +295,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 419600,
-      "name": "Blues For Brenda",
+      "name": "Blues For Brenda - 1997 Remastered",
       "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
@@ -293,7 +329,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-15",
       "duration_ms": 438640,
       "name": "Blues Function",
       "url": "https://open.spotify.com/track/55cpqzYGlvah8FSmlxroCQ"
@@ -423,10 +459,40 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 357866,
       "name": "Blues-Blues-Blues - Digital Remaster/2007",
       "url": "https://open.spotify.com/track/5ZdiptWvOuvw0W73ZuqGte"
+    },
+    {
+      "album": {
+        "name": "Third Set",
+        "url": "https://open.spotify.com/album/0Wv7KPJsuYJggFVul2CzNi"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        },
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/1kAv08slEx0DSJkSOrKlsY"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 759960,
+      "name": "Bolivia",
+      "url": "https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ"
     },
     {
       "album": {
@@ -477,7 +543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -661,7 +727,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 369386,
       "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
@@ -723,7 +789,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 405653,
       "name": "Doodlin' - Remastered",
       "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
@@ -741,7 +807,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 417693,
       "name": "Driftin' - Remastered",
       "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
@@ -811,7 +877,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216699,
       "name": "Fried Soul",
       "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
@@ -901,7 +967,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 379866,
       "name": "Hog Maw",
       "url": "https://open.spotify.com/track/01thTnhmHoaLk7AgQ7BO26"
@@ -1071,7 +1137,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 371706,
       "name": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/753tWMTGOJLzWAsFtwGZLN"
@@ -1133,7 +1199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 434624,
       "name": "Locomotion - Remastered",
       "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
@@ -1169,7 +1235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 391266,
       "name": "Main Spring - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
@@ -1223,7 +1289,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 482959,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/3rFzc8CLVDZ7OOtFa2jPYP"
@@ -1283,6 +1349,24 @@
       "duration_ms": 284373,
       "name": "Montono Blues",
       "url": "https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH"
+    },
+    {
+      "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417445,
+      "name": "Mr. P.C. - 2020 Remaster",
+      "url": "https://open.spotify.com/track/0DWU6lDxGXt555jdXRUPuz"
     },
     {
       "album": {
@@ -1357,6 +1441,24 @@
       "duration_ms": 305655,
       "name": "Night Drive with Ornette",
       "url": "https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ"
+    },
+    {
+      "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417720,
+      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
     },
     {
       "album": {
@@ -1491,7 +1593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 376066,
       "name": "Petty Larceny",
       "url": "https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV"
@@ -1531,6 +1633,28 @@
       "duration_ms": 236000,
       "name": "Poutin'",
       "url": "https://open.spotify.com/track/1du0DKiSdCsgTUimDsnKBZ"
+    },
+    {
+      "album": {
+        "name": "Heavy Sounds",
+        "url": "https://open.spotify.com/album/3nBv7F1rNLtVjVgueYXDqy"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Richard Davis",
+          "url": "https://open.spotify.com/artist/6Xktfsmu8Tlg3071prbJej"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692200,
+      "name": "Raunchy Rita",
+      "url": "https://open.spotify.com/track/2yDj19j294AsXOCYW5MGYz"
     },
     {
       "album": {
@@ -1635,7 +1759,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 182810,
       "name": "Road Song",
       "url": "https://open.spotify.com/track/1UBmy3q09pNWDwKMZOeYrL"
@@ -1707,7 +1831,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 421626,
       "name": "Senor Blues",
       "url": "https://open.spotify.com/track/1xobOM810o8ZwPrhYnN3OY"
@@ -1725,7 +1849,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 496047,
       "name": "Sippin' At Bells - Remastered",
       "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
@@ -1761,7 +1885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 493293,
       "name": "Sortie",
       "url": "https://open.spotify.com/track/1kryDv1GqAAWhILphihOmb"
@@ -1901,7 +2025,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
@@ -1937,7 +2061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 476226,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/3hOh8TYr0YIcu6eM6852yA"
@@ -1989,7 +2113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 300355,
       "name": "Thank You For Your Silence",
       "url": "https://open.spotify.com/track/6MUmTbP8IILmvg4b0rluPv"
@@ -2083,7 +2207,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 367266,
       "name": "The Outlaw - Remastered",
       "url": "https://open.spotify.com/track/0AVsLKbGvkZTN3728YE44l"
@@ -2101,7 +2225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
@@ -2141,6 +2265,24 @@
       "duration_ms": 495866,
       "name": "The Turnaround - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk"
+    },
+    {
+      "album": {
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379893,
+      "name": "The Way You Look Tonight - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/6js3N3Q5TEFIxhzSxgPt8K"
     },
     {
       "album": {
@@ -2264,6 +2406,32 @@
     },
     {
       "album": {
+        "name": "Hank Mobley With Donald Byrd And Lee Morgan",
+        "url": "https://open.spotify.com/album/5GWLy8xqPwGP3VPZFNqNuT"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558266,
+      "name": "Touch And Go",
+      "url": "https://open.spotify.com/track/6zjObbQR7s8ylMXtuBYNho"
+    },
+    {
+      "album": {
         "name": "Workout",
         "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
       },
@@ -2275,7 +2443,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 647946,
       "name": "Uh Huh - Remastered 2005",
       "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
@@ -2387,7 +2555,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/5Co3nToduGTXXF1ra9gXB3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bette Davis Eyes](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 |
+| 1 | [Bette Davis Eyes \- Re\-Recorded](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 |
 | 2 | [Endless Love](https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 4:25 |
 | 3 | [Lady](https://open.spotify.com/track/1K0D6h6dONn8PYlF1pphQy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Country Classics](https://open.spotify.com/album/1DZy6ZKfdYtrr7Al9eoo1R) | 3:55 |
 | 4 | [\(Just Like\) Starting Over](https://open.spotify.com/track/7tpAUXNjbxqyPhvT4MrQBB) | [The Sounds Of John Lennon](https://open.spotify.com/artist/0swB2gUS9LTTHoBpWpM1nT) | [A Salute To John Lennon](https://open.spotify.com/album/3aIyURakcr92SLKzMOYNSl) | 4:02 |

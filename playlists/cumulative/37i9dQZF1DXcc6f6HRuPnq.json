@@ -149,10 +149,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 247040,
       "name": "Beaumont Blues",
       "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+    },
+    {
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "album": {
@@ -171,6 +189,24 @@
       "duration_ms": 292040,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
+    },
+    {
+      "album": {
+        "name": "I Feel Like Steppin' Out",
+        "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Blue Because Of You",
+      "url": "https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb"
     },
     {
       "album": {
@@ -300,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 292520,
+      "name": "Empty Bed Blues - Mono",
+      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
+    },
+    {
+      "album": {
         "name": "Golden Selection (Remastered)",
         "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
@@ -311,7 +365,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 165026,
       "name": "Everytime I Get to Drinkin' - Remastered",
       "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
@@ -354,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
+    },
+    {
+      "album": {
         "name": "King Of The Blues",
         "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
@@ -379,18 +451,32 @@
         {
           "name": "Jose Ramirez",
           "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        },
-        {
-          "name": "Jimmy Johnson",
-          "url": "https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B"
         }
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 320000,
       "name": "Here in the Delta",
       "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
+    },
+    {
+      "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/1y27gJjOVIB19RrTBUw7Km"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 294595,
+      "name": "Hoodoo Man",
+      "url": "https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B"
     },
     {
       "album": {
@@ -592,6 +678,46 @@
     },
     {
       "album": {
+        "name": "Mama Roux",
+        "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
+      },
+      "artists": [
+        {
+          "name": "Matthis Pascaud",
+          "url": "https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 280400,
+      "name": "Mama Roux",
+      "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+    },
+    {
+      "album": {
         "name": "The Delta Meets Detroit: Aretha's Blues",
         "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
       },
@@ -740,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/4vgVcdlhX5r5jvNamnV5rX"
+      },
+      "artists": [
+        {
+          "name": "Pat Tierney",
+          "url": "https://open.spotify.com/artist/2wTN9hQfRJLQ8lllx6EphC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 292445,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX"
+    },
+    {
+      "album": {
         "name": "Big Fun",
         "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
       },
@@ -751,7 +895,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-09",
       "duration_ms": 214600,
       "name": "She Puts Me In The Mood",
       "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
@@ -769,7 +913,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 247269,
       "name": "Ships on the Ocean",
       "url": "https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr"
@@ -921,6 +1065,24 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
+    },
+    {
+      "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
     },
     {
       "album": {

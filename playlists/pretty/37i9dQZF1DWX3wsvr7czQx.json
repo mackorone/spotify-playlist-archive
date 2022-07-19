@@ -1,13 +1,101 @@
 {
   "description": "Icons only. Cover: Van Morrison",
-  "num_followers": 4367,
+  "num_followers": 5342,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAxNzAwMDAwMTgwNzM3YjkzMWYwMDAwMDE3ZmZlZTVjMTA2",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAxYjAwMDAwMTgyMDAwNTNmMjYwMDAwMDE3ZmZlZTVjMTA2",
   "tracks": [
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Same Heartbreak Different Day",
+        "url": "https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "Same Heartbreak Different Day",
+      "url": "https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "I'm In",
+        "url": "https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "I'm In",
+      "url": "https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Resurrection Of Rust",
+        "url": "https://open.spotify.com/album/4O3UZEJ5erCdxwq1UxYigP"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Rusty",
+          "url": "https://open.spotify.com/artist/66bIf61b6SKblDQ06KHrfA"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Surrender To The Rhythm",
+      "url": "https://open.spotify.com/track/1giGzzU08U4XCp5kRlJaev"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Firecracker",
+        "url": "https://open.spotify.com/album/3KETmuy3XHOCpqJSyBoYXD"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 230749,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "He Sang She Sang",
+        "url": "https://open.spotify.com/album/6apzcsmHj4RWqxWPycVsFr"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        },
+        {
+          "name": "Amy Sky",
+          "url": "https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Long Shot",
+      "url": "https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -635,22 +723,6 @@
     {
       "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "LIMITLESS",
-        "url": "https://open.spotify.com/album/1NXH0HmDo32FeptgAsKvjS"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1vSu9DJEAIoKK52gaJnA5G"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
         "name": "The Conversation",
         "url": "https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne"
       },
@@ -775,30 +847,6 @@
     {
       "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        },
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
         "name": "The Body Remembers",
         "url": "https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY"
       },
@@ -811,58 +859,6 @@
       "duration_ms": 267000,
       "name": "Me Not Loving You",
       "url": "https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "The Tipping Point",
-        "url": "https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "The Tipping Point",
-      "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Every One of Us",
-        "url": "https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        },
-        {
-          "name": "The Unsung Heroes",
-          "url": "https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Every One of Us",
-      "url": "https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 238361,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i"
     }
   ],
   "unique_name": "Classic Artists New Music",

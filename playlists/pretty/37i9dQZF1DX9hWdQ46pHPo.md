@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hWdQ46pHPo.md) - [plain]
 
 > Country Music Association award\-winning and nominated music from artists then, now, and forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,157 likes - 78 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 78 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

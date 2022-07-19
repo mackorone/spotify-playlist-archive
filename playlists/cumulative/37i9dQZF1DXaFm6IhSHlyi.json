@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR?si=N0egSx-tQT6tflfVl3Er1A\">Lana Lubany</a>",
+  "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
   "name": "Ballads International",
   "published_playlist_ids": [
     "1ZTU8Dt8vxdmkmh5cekOqK"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 229198,
       "name": "A Un Mil\u00edmetro De Ti",
       "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 276380,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/16BGhwv8wYXkv2mMJF7ryv"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-10",
       "duration_ms": 197600,
       "name": "Bhula Dunga",
       "url": "https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Church",
       "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 256325,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC"
@@ -707,6 +707,28 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "album": {
+        "name": "City Zoo",
+        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262597,
+      "name": "Don't Force It (feat. Eric Chou)",
+      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
     },
     {
       "album": {
@@ -757,7 +779,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
@@ -912,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "Gul",
         "url": "https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7"
       },
@@ -923,7 +963,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 217241,
       "name": "Gul",
       "url": "https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf"
@@ -1209,7 +1249,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-19",
       "duration_ms": 225453,
       "name": "In meiner Erinnerung",
       "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
@@ -1227,7 +1267,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
@@ -1353,10 +1393,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 234722,
       "name": "Kaise Hua",
       "url": "https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7"
+    },
+    {
+      "album": {
+        "name": "7 (Part 2)",
+        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
+      },
+      "artists": [
+        {
+          "name": "Artik & Asti",
+          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Kryl'ya",
+      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
     },
     {
       "album": {
@@ -1429,7 +1487,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 346400,
       "name": "Lily\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/2UM4ucGnzbD1bp0G67xkj7"
@@ -1523,7 +1581,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 307500,
       "name": "Lovely Sweet Heart \uc0ac\ub791\uc758 \uc778\uc0ac",
       "url": "https://open.spotify.com/track/2mblvMODL42tFw45VPIutj"
@@ -1755,7 +1813,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
@@ -1773,7 +1831,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 227807,
       "name": "Mishta'a",
       "url": "https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE"
@@ -1849,7 +1907,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 287500,
       "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
       "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
@@ -1889,7 +1947,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 192613,
       "name": "Ocean - Remix",
       "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
@@ -2009,7 +2067,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 265363,
       "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
       "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
@@ -2045,7 +2103,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
@@ -2178,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "Salyut, Vera",
+        "url": "https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx"
+      },
+      "artists": [
+        {
+          "name": "Mona Songz",
+          "url": "https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202755,
+      "name": "Salyut, Vera",
+      "url": "https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys"
+    },
+    {
+      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
       },
@@ -2247,7 +2323,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
@@ -2305,7 +2381,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
@@ -2327,6 +2403,24 @@
       "duration_ms": 261238,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
+    },
+    {
+      "album": {
+        "name": "stuck in the friendzone",
+        "url": "https://open.spotify.com/album/1c7TvxeGfHzoBlkQ3y5Fq3"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177993,
+      "name": "stuck in the friendzone",
+      "url": "https://open.spotify.com/track/1kaLHit6xNoaR1PkuKPfT1"
     },
     {
       "album": {
@@ -2395,7 +2489,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 230386,
       "name": "Te quiero - Versi\u00f3n 2019",
       "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
@@ -2471,7 +2565,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 178213,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
@@ -2507,7 +2601,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 177481,
       "name": "The Hunting Field",
       "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
@@ -2565,7 +2659,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 359290,
       "name": "Tilak",
       "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
@@ -2663,7 +2757,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
@@ -2681,7 +2775,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Tutto questo sei tu",
       "url": "https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d"
@@ -2739,7 +2833,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 209627,
       "name": "Vanha (feat. BEHM)",
       "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
@@ -2913,28 +3007,10 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 161142,
       "name": "\u041a\u043e\u043c\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1tjM9dP8GWkYl4orF7yLWD"
-    },
-    {
-      "album": {
-        "name": "7 (Part 2)",
-        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
-      },
-      "artists": [
-        {
-          "name": "Artik & Asti",
-          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210000,
-      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
-      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
     },
     {
       "album": {
@@ -2971,7 +3047,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 155294,
       "name": "\u041c\u043e\u044f \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ"
@@ -2993,24 +3069,6 @@
       "duration_ms": 190285,
       "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
-    },
-    {
-      "album": {
-        "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
-        "url": "https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx"
-      },
-      "artists": [
-        {
-          "name": "Mona Songz",
-          "url": "https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202755,
-      "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
-      "url": "https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys"
     },
     {
       "album": {
@@ -3043,7 +3101,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 237632,
       "name": "\u0421\u0442\u0438\u0445\u043d\u0435\u0442 \u043c\u043e\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/5Yq80azEjRwPaisXpwoFrk"
@@ -3061,7 +3119,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-17",
       "duration_ms": 234242,
       "name": "\u0632\u064a \u0632\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3"
@@ -3079,7 +3137,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 223410,
       "name": "\u304a\u3084\u3059\u307f\u3001\u304b\u307f\u3055\u307e",
       "url": "https://open.spotify.com/track/5GU75hIL1riqY1DtP9gf1Q"
@@ -3097,7 +3155,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-06-16",
       "duration_ms": 290773,
       "name": "\u3084\u3055\u3057\u3055\u3067\u6ea2\u308c\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/05OHGzibvNF0oPyQ2zbyYd"
@@ -3115,32 +3173,10 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-16",
       "duration_ms": 266333,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/2gzApyJhCWVdTRxL9HB1EO"
-    },
-    {
-      "album": {
-        "name": "\u6469\u5929\u52d5\u7269\u5712",
-        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
-      },
-      "artists": [
-        {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        },
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262597,
-      "name": "\u5225\u52c9\u5f37",
-      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
     },
     {
       "album": {
@@ -3173,7 +3209,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-17",
       "duration_ms": 328626,
       "name": "\u594f(\u304b\u306a\u3067)",
       "url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG"
@@ -3191,7 +3227,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 243399,
       "name": "\u671d\u304c\u6765\u308b\u307e\u3067 - Piano Session version",
       "url": "https://open.spotify.com/track/6MeIPONKEpEXJ2diJtYTOS"
@@ -3227,7 +3263,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 324626,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/73xYYths9kvmFvYsd9gC9Z"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > Congratulations to all of the CMA Awards nominees and winners!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,788 likes - 61 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,540 likes - 61 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

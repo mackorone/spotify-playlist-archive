@@ -2,9 +2,9 @@
 
 ### [New Age Classics](https://open.spotify.com/playlist/37i9dQZF1DWTWhA27mtRFK)
 
-> Open your mind to these classics from the golden era of New Age music.
+> Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-57 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
+58 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Eternally](https://open.spotify.com/track/65l7HLOExPxBtOI2gLOLU3) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Comfort Zone](https://open.spotify.com/album/5dmtYNXYgS2gIq7J0nN7R4) | 3:34 | 2021-08-20 |  |
 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 | 2021-08-20 |  |
 | [Fergana](https://open.spotify.com/track/3BqqN5jhO7H41ziAUGdIyr) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr) | [Samarkand](https://open.spotify.com/album/4uqo1AjPmDQFnhB4rNfvkd) | 5:16 | 2021-08-20 |  |
+| [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 | 2022-05-19 |  |
 | [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6x1khtu5MTHO4f98zA1AkX) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 2:51 | 2021-08-20 |  |
 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 | 2021-08-20 |  |
 | [Forest I](https://open.spotify.com/track/1OOWBKG1rigxUbM6HHso6G) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Forest/Mountain](https://open.spotify.com/album/01rVoq4sFduuosgPmo3uui) | 6:34 | 2021-08-20 |  |

@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-52 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6Y859xNo4TJoGUZatAOuWq)
+53 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/6Y859xNo4TJoGUZatAOuWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 | 2021-12-07 |  |
 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 | 2021-12-07 |  |
 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 | 2021-12-07 |  |
+| [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 | 2022-05-19 |  |
 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 | 2021-12-07 |  |
 | [Hem Bihag \- A Creation Of Acharya Allanddin Khan \- Alap & Jor](https://open.spotify.com/track/6PbwTf3bXyyQD53mlQGsQ3) | [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Pandit Indranil Bhattacharya](https://open.spotify.com/artist/49TezlyR1n2SMfvwa7riTd) | [Live at the Royal Festival Hall, London 1994](https://open.spotify.com/album/6pFcgD0tnbn1m2kfBpEvb3) | 43:52 | 2021-12-07 |  |
 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 | 2021-12-07 |  |

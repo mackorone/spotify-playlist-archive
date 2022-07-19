@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,337 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,648 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 23 | [Maui Medley PART I](https://open.spotify.com/track/5tjoUaI812GWY83W8XmlJ5) | [Jan Forsmark](https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ) | [Maui Medley PART I](https://open.spotify.com/album/2tsrQPJuJKJAE3BfZWkTsu) | 2:20 |
 | 24 | [Ke Kali Nei Au](https://open.spotify.com/track/0tBRc2STeBIcBpTsNgKoKX) | [Glenn Johnston](https://open.spotify.com/artist/5ziVZBrfaiY7QR9HTsDQZT) | [Ke Kali Nei Au](https://open.spotify.com/album/6JIMGGlCTdN4BhIDoMQnN6) | 2:51 |
 | 25 | [Sanoe](https://open.spotify.com/track/0nbv45EqHxvI6d56tfz28H) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 4:26 |
-| 26 | [Let's Dance](https://open.spotify.com/track/4Nt7v1lmheccBbsmASX3Jr) | [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY) | [Seven Short Films About \(Our\) Marriage \[Music from the Motion Picture\]](https://open.spotify.com/album/6h3I9kx1cY11QcpdkCdfEL) | 1:52 |
+| 26 | [Let's Dance](https://open.spotify.com/track/4Nt7v1lmheccBbsmASX3Jr) | [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY) | [Seven Short Films About \(Our\) Marriage \(Music from the Motion Picture\)](https://open.spotify.com/album/6h3I9kx1cY11QcpdkCdfEL) | 1:52 |
 | 27 | [What a Wonderful World](https://open.spotify.com/track/6x3vwHUuWWeV2BQPYO5zTU) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:15 |
 | 28 | [Pua Lililehua](https://open.spotify.com/track/0X1cfOCdBaRfpu2MI0ur0l) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy \- Ka Leo O Loko](https://open.spotify.com/album/5IvZf6jkaOeib9EvdyyJr8) | 2:53 |
 | 29 | [Granada](https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l) | [Harry Kalahiki](https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6) | [Mungo Plays Ukulele](https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr) | 3:03 |

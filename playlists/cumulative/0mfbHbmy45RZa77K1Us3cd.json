@@ -1,0 +1,433 @@
+{
+  "date_first_scraped": "2022-06-10",
+  "description": "Hit songs from the top 21 most streamed artists on the UnitedMasters platform in 2021.",
+  "name": "Top Streaming Artists of 2021",
+  "published_playlist_ids": [
+    "4eAUX1tchR5fKaViYSli0a"
+  ],
+  "tracks": [
+    {
+      "album": {
+        "name": "Wipe It Down",
+        "url": "https://open.spotify.com/album/5fYLGPKLw4Wlh14HEv8xqu"
+      },
+      "artists": [
+        {
+          "name": "BMW KENNY",
+          "url": "https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "#WIPEITDOWN",
+      "url": "https://open.spotify.com/track/2kefHjNepGePZG4WxH2Vh4"
+    },
+    {
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+    },
+    {
+      "album": {
+        "name": "AMERICAN WASTELAND",
+        "url": "https://open.spotify.com/album/21HZHrMjU4h3Du9cLTFpEp"
+      },
+      "artists": [
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90594,
+      "name": "AMERICAN WASTELAND",
+      "url": "https://open.spotify.com/track/5rI9MIK4ZpNA0ltqqdhIva"
+    },
+    {
+      "album": {
+        "name": "Dog Sht",
+        "url": "https://open.spotify.com/album/4r8ANsNE7EpeBE1bBqLQW7"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133700,
+      "name": "Dog Sht",
+      "url": "https://open.spotify.com/track/5PVriJXxWOSyrmNfS8pnSr"
+    },
+    {
+      "album": {
+        "name": "FYE FYE",
+        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "FYE FYE",
+      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
+    },
+    {
+      "album": {
+        "name": "Go Bestfriend",
+        "url": "https://open.spotify.com/album/71ZTWDRBKBQUjpaPRbLyMo"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126313,
+      "name": "Go Bestfriend",
+      "url": "https://open.spotify.com/track/4tRIEzC4fn3eyGkN4vs8uT"
+    },
+    {
+      "album": {
+        "name": "Glen Baby 3",
+        "url": "https://open.spotify.com/album/28AI2VrsKtZGzATsbErRLn"
+      },
+      "artists": [
+        {
+          "name": "SSG Splurge",
+          "url": "https://open.spotify.com/artist/5mU4H1cbfHpKYuyhNnA3PC"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132989,
+      "name": "Goop C",
+      "url": "https://open.spotify.com/track/7x6muaT8IxKGzXKw81CRCu"
+    },
+    {
+      "album": {
+        "name": "Hit The Scene",
+        "url": "https://open.spotify.com/album/6SOM2oYyIRjuxoUvQN10ii"
+      },
+      "artists": [
+        {
+          "name": "White $osa",
+          "url": "https://open.spotify.com/artist/1GYdtgkKzP62BRZsCvpkog"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179644,
+      "name": "Hit The Scene",
+      "url": "https://open.spotify.com/track/7n7x5KGKbUdPHRsO6M6mWY"
+    },
+    {
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/60D4MdGC0mm4MG1TVLiS32"
+      },
+      "artists": [
+        {
+          "name": "3xbravo",
+          "url": "https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153469,
+      "name": "I Luv Dat",
+      "url": "https://open.spotify.com/track/4pOHXEWncM34G4t57veFtl"
+    },
+    {
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
+    },
+    {
+      "album": {
+        "name": "DEMONS EVERYWHERE I GO",
+        "url": "https://open.spotify.com/album/5iQjd0s03AgWu58iLodLOz"
+      },
+      "artists": [
+        {
+          "name": "P Yungin",
+          "url": "https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185155,
+      "name": "IM ON",
+      "url": "https://open.spotify.com/track/1tuWs3bZ0NWwAwCaXwAibb"
+    },
+    {
+      "album": {
+        "name": "Made A Way",
+        "url": "https://open.spotify.com/album/5BrGs0T75b9JdxNCSfRZEt"
+      },
+      "artists": [
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/4tRfTVgpf1acjA27UWdcnD"
+    },
+    {
+      "album": {
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
+    },
+    {
+      "album": {
+        "name": "NO TRENDS",
+        "url": "https://open.spotify.com/album/5ESucdNFBDxfVPHprdjfA7"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx"
+    },
+    {
+      "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/2mKklgYnPY6d79RR4mvJrQ"
+      },
+      "artists": [
+        {
+          "name": "ill Nicky",
+          "url": "https://open.spotify.com/artist/6NVUzbf5gy1bg5A4diGkqm"
+        },
+        {
+          "name": "Jared Anthony",
+          "url": "https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI"
+        },
+        {
+          "name": "Cheeba Hawk",
+          "url": "https://open.spotify.com/artist/6iIPyGOPCXoVpAuaq2ktBs"
+        },
+        {
+          "name": "BangerOfTheDay",
+          "url": "https://open.spotify.com/artist/2eAs72bbxVWJpvHnwvDBJT"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6ut2gx43omNE2zchw86KSt"
+    },
+    {
+      "album": {
+        "name": "Prom Night",
+        "url": "https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145899,
+      "name": "Prom Night",
+      "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
+    },
+    {
+      "album": {
+        "name": "AIN'T 2 LONG",
+        "url": "https://open.spotify.com/album/39FbOWOugPPm2egUZpWQxW"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "Ryte Night",
+      "url": "https://open.spotify.com/track/1Bxi6xxp8EYejeOoQlOMO6"
+    },
+    {
+      "album": {
+        "name": "soon.",
+        "url": "https://open.spotify.com/album/5mjZOTY784uDQDFSXNNlTF"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247299,
+      "name": "Stay (feat. Gabzy)",
+      "url": "https://open.spotify.com/track/3lMM7eyZ5SeYK1SoZCnmA4"
+    },
+    {
+      "album": {
+        "name": "END OF THE EARTH",
+        "url": "https://open.spotify.com/album/1sFz8iZfEzeIhQpTwLoguz"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225354,
+      "name": "TIME TRAVEL",
+      "url": "https://open.spotify.com/track/57eTgaHOhQZ0lENstGb6XS"
+    },
+    {
+      "album": {
+        "name": "Walk Down Gang (Deluxe)",
+        "url": "https://open.spotify.com/album/4Z3avmHwIgA0n36UubQK8Y"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "U Sellin Dope (With Future)",
+      "url": "https://open.spotify.com/track/1kNTnXdJTxNwtcBas2Y4Hx"
+    },
+    {
+      "album": {
+        "name": "Young Kid",
+        "url": "https://open.spotify.com/album/0KCiBDv3FJ2HDEqddm8JK6"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209057,
+      "name": "Young Kid",
+      "url": "https://open.spotify.com/track/7kXNWZbHd8ojf6H08XMdtC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0mfbHbmy45RZa77K1Us3cd"
+}

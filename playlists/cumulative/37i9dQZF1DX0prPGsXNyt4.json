@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Africano",
+        "url": "https://open.spotify.com/album/6RC5MJSsr5mOoVQhY9QSzG"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        },
+        {
+          "name": "Halux",
+          "url": "https://open.spotify.com/artist/61A6b3vfliHlp0x7KGRmTM"
+        },
+        {
+          "name": "Milbeats",
+          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 238000,
+      "name": "Africano",
+      "url": "https://open.spotify.com/track/0dHQP3O4pdNa7oyE1yWsJl"
+    },
+    {
+      "album": {
         "name": "Amor de Fim de Noite",
         "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
       },
@@ -214,6 +244,28 @@
     },
     {
       "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
+    },
+    {
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -415,7 +467,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
@@ -475,6 +527,10 @@
         {
           "name": "MC Jo\u00e3ozinho VT",
           "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
         }
       ],
       "date_added": "2022-03-18",
@@ -483,6 +539,28 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "album": {
+        "name": "Jogo Sujo (ATO I)",
+        "url": "https://open.spotify.com/album/7vLQsKtEo0Wv6lfB3PjWJl"
+      },
+      "artists": [
+        {
+          "name": "Elli Gomes",
+          "url": "https://open.spotify.com/artist/0OFsWETMLou9cRVE45KRqD"
+        },
+        {
+          "name": "Mop",
+          "url": "https://open.spotify.com/artist/7bTwe8ZOLnUGdpX0d9JLzT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Jogo Sujo (ATO I)",
+      "url": "https://open.spotify.com/track/0d6T67z5wBofFyqmtFzNJg"
     },
     {
       "album": {
@@ -808,6 +886,28 @@
     },
     {
       "album": {
+        "name": "O Cria e a Trem Barbie",
+        "url": "https://open.spotify.com/album/1IMW7wN7Eon2Qcc9SivWoz"
+      },
+      "artists": [
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "O Cria e a Trem Barbie",
+      "url": "https://open.spotify.com/track/18J3esEjavdGInlCLqSYAI"
+    },
+    {
+      "album": {
         "name": "O Nosso Amor \u00c9 Droga",
         "url": "https://open.spotify.com/album/6iWXOaZJaRPeGQxVYZwjLE"
       },
@@ -853,7 +953,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/4LDBpSuwAw8jLP6s6GI45I"
@@ -1202,6 +1302,28 @@
     },
     {
       "album": {
+        "name": "Rajada",
+        "url": "https://open.spotify.com/album/1hYhz30BpzASisaodJ5jC1"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Luka G",
+          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
+      "duration_ms": 207600,
+      "name": "Rajada",
+      "url": "https://open.spotify.com/track/40yCum6xVvg2Xp3m9Q6mg4"
+    },
+    {
+      "album": {
         "name": "Respeitada",
         "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
       },
@@ -1525,7 +1647,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173714,
       "name": "Viciado 2.0",
       "url": "https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf"

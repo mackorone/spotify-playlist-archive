@@ -1,15 +1,15 @@
 {
   "description": "Your favorite pop songs, classically reimagined.",
-  "num_followers": 772932,
+  "num_followers": 794872,
   "original_name": "Pop Goes Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDQ2MCwwMDAwMDA4MDAwMDAwMTgwMDc1NTFjZWMwMDAwMDE3MGM0OTg2NmUz",
+  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDA4NTAwMDAwMTgxZGJmN2QxM2EwMDAwMDE3MGM0OTg2NmUz",
   "tracks": [
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ"
       },
       "artists": [
         {
-          "name": "Duomo",
-          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
         }
       ],
-      "duration_ms": 291213,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk"
+      "duration_ms": 289648,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "VSQ Performs the Hits of 2020",
         "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bridgerton (Covers from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
@@ -73,7 +77,23 @@
       "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3"
@@ -105,7 +125,23 @@
       "url": "https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "In2ition",
         "url": "https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "drivers license (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/5AjALe4ac200zNXQolG3uk"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Geek Wedding, Vol. 2: The Sequel",
         "url": "https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W"
@@ -169,7 +205,23 @@
       "url": "https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Bad Habits (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/2mV9Gs9S0tuXTSjD6bKsUO"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "Bad Habits (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4RkslWnwxbvU5wy00BNRsR"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
@@ -189,7 +241,7 @@
       "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
@@ -205,23 +257,7 @@
       "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
-        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
-      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Brooklyn Sessions II",
         "url": "https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe"
@@ -237,39 +273,27 @@
       "url": "https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+        "name": "Watermelon Sugar",
+        "url": "https://open.spotify.com/album/25ejJm7KpguIh1zBc3q7ev"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G"
-      },
-      "artists": [
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
         {
-          "name": "Simply Three",
-          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
         }
       ],
-      "duration_ms": 184144,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE"
+      "duration_ms": 175934,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/3vZ5bB1uAQQsG6N78BvaIJ"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc"
@@ -297,10 +321,10 @@
       "url": "https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
-        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
+        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
+        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
       },
       "artists": [
         {
@@ -308,12 +332,44 @@
           "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
-      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
+      "duration_ms": 222466,
+      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
+      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "duration_ms": 184144,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Wrecking ball (Solo Piano Version)",
         "url": "https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL"
@@ -329,23 +385,23 @@
       "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Piano Essentials. Vol. 11",
-        "url": "https://open.spotify.com/album/4Qq8fPqxJHITlUS9NRAmyy"
+        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
       },
       "artists": [
         {
-          "name": "Pianoholic",
-          "url": "https://open.spotify.com/artist/3vOJJbGGUOtC9csissiL0G"
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/0tKH2CJjEBh74qXBdh8Xvl"
+      "duration_ms": 185866,
+      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "abcdefu (arr. piano)",
         "url": "https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2"
@@ -361,23 +417,7 @@
       "url": "https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "positions - Bonus Track",
-      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf"
@@ -393,7 +433,23 @@
       "url": "https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "positions - Bonus Track",
+      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Good 4 U (arr. String Quartet)",
         "url": "https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6"
@@ -409,7 +465,7 @@
       "url": "https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
@@ -425,7 +481,7 @@
       "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "VSQ Performs the Hits of 2021, Vol. 1",
         "url": "https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr"
@@ -441,7 +497,7 @@
       "url": "https://open.spotify.com/track/535WnJgwiRvQ7uig5fbr7C"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bloodstream (Acoustic Version)",
         "url": "https://open.spotify.com/album/0a5HUKkzFXx0G1K4DOLKs5"
@@ -461,7 +517,7 @@
       "url": "https://open.spotify.com/track/6RvQoBITPQHjx7MKCG3ya3"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Epic",
         "url": "https://open.spotify.com/album/6MTmVRcfXZS1Ri4yQT9Gv9"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/3Lq1M8hjMMK5a2L0brZUsy"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k"
@@ -505,27 +561,7 @@
       "url": "https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Duo",
-          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
-        },
-        {
-          "name": "Dover Quartet",
-          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
-        }
-      ],
-      "duration_ms": 247155,
-      "name": "In the End",
-      "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Stay with Me (Piano Version)",
         "url": "https://open.spotify.com/album/2MnSnUp1uwPOJTarD1hZoW"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/2pR4qxDdRpHfQduAg1NDS1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "My Gift Is My Song",
         "url": "https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl"
@@ -577,23 +613,7 @@
       "url": "https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Wellerman (arr. piano)",
-        "url": "https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "duration_ms": 121775,
-      "name": "Wellerman (arr. piano)",
-      "url": "https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Total Eclipse of the Heart (feat. Simply Three)",
         "url": "https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Thinking Out Loud",
         "url": "https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Firework",
         "url": "https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG"
@@ -645,7 +665,43 @@
       "url": "https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Wellerman (arr. piano)",
+        "url": "https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 121775,
+      "name": "Wellerman (arr. piano)",
+      "url": "https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Dover Quartet",
+          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
+        }
+      ],
+      "duration_ms": 247155,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Nightcall (From \"Drive\")",
         "url": "https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz"
@@ -661,87 +717,7 @@
       "url": "https://open.spotify.com/track/3BCe21LqWVOWWDfHjuoeeR"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/627csj4wkox8X11EmpEhgG"
-      },
-      "artists": [
-        {
-          "name": "Brian Wilson",
-          "url": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "No Time to Die",
-        "url": "https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr"
-      },
-      "artists": [
-        {
-          "name": "Queenz of Piano",
-          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
-        }
-      ],
-      "duration_ms": 141970,
-      "name": "No Time to Die",
-      "url": "https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN"
-      },
-      "artists": [
-        {
-          "name": "Atlys",
-          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
-        }
-      ],
-      "duration_ms": 220274,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Break My Heart (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
-        "url": "https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "duration_ms": 215769,
-      "name": "Break My Heart (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
-      "url": "https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Take No Prisoners",
         "url": "https://open.spotify.com/album/1P5EHnwDFWD1dH1cl5JxI1"
@@ -757,7 +733,55 @@
       "url": "https://open.spotify.com/track/3IoqMnXkCRPWcEGr0C5S9e"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "duration_ms": 220274,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Break My Heart (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "duration_ms": 215769,
+      "name": "Break My Heart (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "90s Piano Covers",
         "url": "https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
@@ -793,7 +817,87 @@
       "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Shallow Day",
+        "url": "https://open.spotify.com/album/2vUmVYXtbMq8JaUEw4QR0Y"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "duration_ms": 258531,
+      "name": "Shallow Day",
+      "url": "https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Shivers (Piano Version)",
+        "url": "https://open.spotify.com/album/34ktTFpOFuZRQtfoW56aAj"
+      },
+      "artists": [
+        {
+          "name": "Flying Fingers",
+          "url": "https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab"
+        }
+      ],
+      "duration_ms": 195517,
+      "name": "Shivers - Piano Version",
+      "url": "https://open.spotify.com/track/3EfJK2rJtMjGZoIdBrFqh6"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "No Time to Die",
+        "url": "https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr"
+      },
+      "artists": [
+        {
+          "name": "Queenz of Piano",
+          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
+        }
+      ],
+      "duration_ms": 141970,
+      "name": "No Time to Die",
+      "url": "https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "TIME",
         "url": "https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA"
@@ -817,71 +921,7 @@
       "url": "https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Shallow Day",
-        "url": "https://open.spotify.com/album/2vUmVYXtbMq8JaUEw4QR0Y"
-      },
-      "artists": [
-        {
-          "name": "Dan Evmark",
-          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
-        }
-      ],
-      "duration_ms": 258531,
-      "name": "Shallow Day",
-      "url": "https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE"
-      },
-      "artists": [
-        {
-          "name": "Atlys",
-          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Shivers (Piano Version)",
-        "url": "https://open.spotify.com/album/34ktTFpOFuZRQtfoW56aAj"
-      },
-      "artists": [
-        {
-          "name": "Flying Fingers",
-          "url": "https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab"
-        }
-      ],
-      "duration_ms": 195517,
-      "name": "Shivers - Piano Version",
-      "url": "https://open.spotify.com/track/3EfJK2rJtMjGZoIdBrFqh6"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh"
-      },
-      "artists": [
-        {
-          "name": "2CELLOS",
-          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Electric Air",
         "url": "https://open.spotify.com/album/1NclbYhtOpfC89I4tGhme2"
@@ -897,7 +937,7 @@
       "url": "https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Higher Love (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk"
@@ -913,7 +953,7 @@
       "url": "https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Dreams (arr. piano)",
         "url": "https://open.spotify.com/album/4epwq0q9qT41lPguDbL2bE"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/7duITMDjpMAtEwjnMRyucT"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Basket Case",
         "url": "https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4"
@@ -945,7 +985,7 @@
       "url": "https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "The Strings 'n' Things Album",
         "url": "https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW"
@@ -965,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Yesterday Once More",
         "url": "https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n"
@@ -981,7 +1021,7 @@
       "url": "https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Un-break My Heart (arr. piano)",
         "url": "https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8"
@@ -997,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F"
@@ -1017,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Adore You (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq"
@@ -1033,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Across The Universe (Arr. Lawson)",
         "url": "https://open.spotify.com/album/7HXVpWl09KTOsLM39pW5o5"
@@ -1061,23 +1101,7 @@
       "url": "https://open.spotify.com/track/3tjcfuKQ71cu6fQTwzBNnv"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Space Oddity",
-        "url": "https://open.spotify.com/album/2hAI9RiMftw5OiaLNOdhhm"
-      },
-      "artists": [
-        {
-          "name": "Metropole Orkest Cellos",
-          "url": "https://open.spotify.com/artist/6wyZZfsz3SxmQZCFA7Tsh1"
-        }
-      ],
-      "duration_ms": 395721,
-      "name": "Space Oddity",
-      "url": "https://open.spotify.com/track/2BZkZHf4HRzWQtQQefZIRm"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 2",
         "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
@@ -1093,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5A51C7Ank2IRW0TmhYkeoK"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "when the party\u2019s over",
         "url": "https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T"
@@ -1113,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "What Just Happened?",
         "url": "https://open.spotify.com/album/0tc53fBUv9MTYjhqFOIeWH"
@@ -1129,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4RF3cNvUyTDYiuj1Xw4XWs"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Earned It (Solo Piano)",
         "url": "https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz"
@@ -1145,7 +1169,7 @@
       "url": "https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/5ekaL7idjwFklKpUPZqChX"
@@ -1161,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6fvqtnABaU0svCjVTg7oSk"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "everything i wanted (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw"
@@ -1177,7 +1201,7 @@
       "url": "https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Iris (arr. piano)",
         "url": "https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9"
@@ -1193,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Brooklyn Sessions 9",
         "url": "https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo"
@@ -1209,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bad Romance (Stripped Mix)",
         "url": "https://open.spotify.com/album/1oI5SHSH9NwRUjNubYNdp2"
@@ -1233,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7Ba0kauYzWtgc9WCO8hv2T"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/6ueqbqheTXOv1vkf0KUWZT"
@@ -1249,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0PiNYPMkmHxtDS0EZKK35X"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Waiting on the World to Change (Instrumental)",
         "url": "https://open.spotify.com/album/1qd3fl7QXEqFFA5FoMm7pk"
@@ -1269,23 +1293,7 @@
       "url": "https://open.spotify.com/track/4DOZYZ45UAwfx6CTuvIF2d"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Imagine What a Wonderful World",
-        "url": "https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC"
-      },
-      "artists": [
-        {
-          "name": "Christine Brown",
-          "url": "https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith"
-        }
-      ],
-      "duration_ms": 294100,
-      "name": "Imagine / What a Wonderful World",
-      "url": "https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Shape of My Heart",
         "url": "https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj"
@@ -1301,7 +1309,7 @@
       "url": "https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC"
@@ -1317,7 +1325,7 @@
       "url": "https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Shake It Off (Originally Performed by Taylor Swift)",
         "url": "https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2"
@@ -1333,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Simply The Best (arr. piano)",
         "url": "https://open.spotify.com/album/1xZviTqam23dfVpt6eccS4"
@@ -1349,27 +1357,7 @@
       "url": "https://open.spotify.com/track/5kYIZfn2qQbZHokroBDYxB"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Our Flashback Wedding",
-        "url": "https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        },
-        {
-          "name": "Simply Three",
-          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Never Gonna Give You Up (feat. Simply Three)",
-      "url": "https://open.spotify.com/track/4TijaNZQchZj9E86WK5jSH"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Rainbow (Instrumental)",
         "url": "https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB"
@@ -1389,7 +1377,7 @@
       "url": "https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "True Love Waits (Christopher O'Riley Plays Radiohead)",
         "url": "https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm"
@@ -1405,7 +1393,7 @@
       "url": "https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Something Just Like This / Hungarian Rhapsody",
         "url": "https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu"
@@ -1445,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7tPETW7bPcWw0IpTkeo150"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/48sxpy1XGBS2dVU8ebh9lY"
@@ -1461,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5Y2g2734P6TcuJJmDwz9QO"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bastille: The Piano Tribute Medley",
         "url": "https://open.spotify.com/album/3sCEvqtJngunwfa5yZHGhi"
@@ -1477,35 +1465,7 @@
       "url": "https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/074kRHbl52DdVYRBaC0CsL"
-      },
-      "artists": [
-        {
-          "name": "Benny G\u00f6ran Bror Andersson",
-          "url": "https://open.spotify.com/artist/7kJH3LO9yXGfm8pdkGufyc"
-        },
-        {
-          "name": "Bjoern Ulvaeus",
-          "url": "https://open.spotify.com/artist/3QRq0UZ09oqVXjHvcfXbeb"
-        },
-        {
-          "name": "Stig Erik Leopold Anderson",
-          "url": "https://open.spotify.com/artist/7FvbRhmQWfkj1gNsvXeruW"
-        },
-        {
-          "name": "Spark",
-          "url": "https://open.spotify.com/artist/3sIOuYma5E6SlVQeuDnEif"
-        }
-      ],
-      "duration_ms": 306571,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/1WhbXPpGtDdMlu9yPpA9fb"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "How Will I Know (arr. piano)",
         "url": "https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F"
@@ -1521,31 +1481,7 @@
       "url": "https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Better Together (Instrumental)",
-        "url": "https://open.spotify.com/album/4jW9gXgYVJnwp836OzWP5n"
-      },
-      "artists": [
-        {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
-        },
-        {
-          "name": "Lance Allen",
-          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
-        },
-        {
-          "name": "Avery Bright",
-          "url": "https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Better Together - Instrumental",
-      "url": "https://open.spotify.com/track/2f9V1rIwActY4UKBQuxHqq"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ"
@@ -1561,7 +1497,7 @@
       "url": "https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Dress Code",
         "url": "https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT"
@@ -1593,23 +1529,7 @@
       "url": "https://open.spotify.com/track/4RlXEaBtwr5yLWKoR5XbAF"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf"
-      },
-      "artists": [
-        {
-          "name": "Ben Laver",
-          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Brooklyn Sessions",
         "url": "https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv"
@@ -1625,7 +1545,7 @@
       "url": "https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Pop Goes Classical",
         "url": "https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo"
@@ -1641,7 +1561,7 @@
       "url": "https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Simply Three",
         "url": "https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq"
@@ -1657,7 +1577,7 @@
       "url": "https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Explosive (Deluxe)",
         "url": "https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU"
@@ -1681,23 +1601,7 @@
       "url": "https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Alone Together, Vol 6 (The Living Room Sessions)",
-        "url": "https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6"
-      },
-      "artists": [
-        {
-          "name": "Holly Bowling",
-          "url": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r"
-        }
-      ],
-      "duration_ms": 372746,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Uncharted",
         "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
@@ -1713,7 +1617,7 @@
       "url": "https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Bob Marley: No Woman, No Cry (Arr. Cello)",
         "url": "https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk"
@@ -1729,7 +1633,7 @@
       "url": "https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Boyd Meets Girl",
         "url": "https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk"
@@ -1749,59 +1653,7 @@
       "url": "https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Who Wants to Live Forever: Queen on a Steinway",
-        "url": "https://open.spotify.com/album/2VH1mSWHCYUqQMRsD3FazF"
-      },
-      "artists": [
-        {
-          "name": "Freddie Mercury",
-          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
-        },
-        {
-          "name": "Simon Mulligan",
-          "url": "https://open.spotify.com/artist/6HOM0TW25PhhjMXcif7xQw"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "We Are the Champions (Arr. S. Mulligan for Piano)",
-      "url": "https://open.spotify.com/track/3w2R0fwS0APnP1hKPNI2kB"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Sour Times",
-        "url": "https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef"
-      },
-      "artists": [
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Sour Times (arr. Metcalfe, Assad)",
-      "url": "https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Piano Portraits",
-        "url": "https://open.spotify.com/album/1Yo5LUdLUSn2fwNgYFEebf"
-      },
-      "artists": [
-        {
-          "name": "Rick Wakeman",
-          "url": "https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU"
@@ -1817,7 +1669,7 @@
       "url": "https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Inquisition Symphony",
         "url": "https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d"
@@ -1833,7 +1685,7 @@
       "url": "https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Don't Start Now (Piano Arrangement)",
         "url": "https://open.spotify.com/album/25cZqm0GvwFkEQq8CEgKPL"
@@ -1849,7 +1701,7 @@
       "url": "https://open.spotify.com/track/645iSJrCsQZMgLoMqdGkI0"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Fuzzbox",
         "url": "https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc"
@@ -1865,39 +1717,7 @@
       "url": "https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Nov\u00f6 Piano",
-        "url": "https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM"
-      },
-      "artists": [
-        {
-          "name": "Maxence Cyrin",
-          "url": "https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6fh2YS29IrmW1yCHMlTDTM"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0Zu8fh2i6Kl58mDPTgxeRn"
-      },
-      "artists": [
-        {
-          "name": "Lucky Chops",
-          "url": "https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4mfzUScqJrZuzL9EvP1jTE"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-08 04:01:00",
       "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17"
@@ -1911,54 +1731,6 @@
       "duration_ms": 225566,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "One Quiet Night",
-        "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Don't Wanna Know",
-        "url": "https://open.spotify.com/album/4vMI0fAQpkjuqSmB2fjn2E"
-      },
-      "artists": [
-        {
-          "name": "Costantino Carrara",
-          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Don't Wanna Know",
-      "url": "https://open.spotify.com/track/7ICe7aEcO7GaVGWwUc0edv"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Piano Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/2QvgQR5we5RgiEkFKpwfB1"
-      },
-      "artists": [
-        {
-          "name": "The Theorist",
-          "url": "https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u"
-        }
-      ],
-      "duration_ms": 250174,
-      "name": "Drop the Game (Piano Arrangement)",
-      "url": "https://open.spotify.com/track/74XiL7qOPpqY1jOItswAWr"
     }
   ],
   "unique_name": "Pop Goes Classical",

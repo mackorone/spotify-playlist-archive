@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,020 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,524 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fear](https://open.spotify.com/track/6BZ9Li2J6wJD5pDVv3K9PL) | [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 3:42 |
+| 1 | [Fear](https://open.spotify.com/track/6BZ9Li2J6wJD5pDVv3K9PL) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 3:42 |
 | 2 | [Beat You Up](https://open.spotify.com/track/2WNaD99Z0V1BKzRH0R0dKA) | [Big Little Lions](https://open.spotify.com/artist/1S25eHELHGJo2jLuayK0X3) | [Beat You Up](https://open.spotify.com/album/4mvyk4OwjZOsBQFjrKczKW) | 3:59 |
 | 3 | [The War](https://open.spotify.com/track/0qxP1gJeTrhBoLDPgsSozd) | [Colin Lillie](https://open.spotify.com/artist/5a1yu0NIiNh52zaCjD4rEb) | [The War](https://open.spotify.com/album/29A3VznAMna8S3osYduTrt) | 3:30 |
 | 4 | [Freedom](https://open.spotify.com/track/682nNxoJrKZkZFouW6dVyG) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 3:43 |

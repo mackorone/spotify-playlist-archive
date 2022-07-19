@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Calm and soothing strings for sleeping.",
+  "description": "Calm and soothing strings to help you get a good night's rest.",
   "name": "Strings for Sleeping",
   "published_playlist_ids": [
     "3Z0IuotzjWfeTQs2UgGRVV"
@@ -23,6 +23,24 @@
       "duration_ms": 155833,
       "name": "2nd Episode",
       "url": "https://open.spotify.com/track/0d9wno7o2lO3faALQlXDkm"
+    },
+    {
+      "album": {
+        "name": "A Drop in the Ocean",
+        "url": "https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "A Drop in the Ocean",
+      "url": "https://open.spotify.com/track/2T6vRytpOROVVawULkC0AC"
     },
     {
       "album": {
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 198030,
       "name": "Bibo No Aozora",
       "url": "https://open.spotify.com/track/2DPCymMTTu2SbGsPe7wPSU"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 103530,
       "name": "Capri Interlude - For Guitar and Strings",
       "url": "https://open.spotify.com/track/7DhVuh8jGsSGHoRP933ZkU"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 106500,
       "name": "Child's Play #1",
       "url": "https://open.spotify.com/track/65MGptLUTl2uEdmPfqRuHT"
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 209390,
       "name": "Close - Cello Version",
       "url": "https://open.spotify.com/track/4qcFXXBdFT93UDriO4IbZd"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 188409,
       "name": "Desert Parade",
       "url": "https://open.spotify.com/track/4xOHne4S1xas4MI5qPs69D"
@@ -438,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Elevated Pastures",
+        "url": "https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm"
+      },
+      "artists": [
+        {
+          "name": "Chinyami",
+          "url": "https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213712,
+      "name": "Elevated Pastures",
+      "url": "https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux"
+    },
+    {
+      "album": {
         "name": "Escapes Within",
         "url": "https://open.spotify.com/album/5l91X3BPZ0wRyibDPmYvgB"
       },
@@ -471,6 +507,42 @@
       "duration_ms": 154500,
       "name": "eventide",
       "url": "https://open.spotify.com/track/1fj2Rp3PtpNImOX38QTblL"
+    },
+    {
+      "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/0BeOxMxb7pVoCft166u53r"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142911,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/059EkGC2qj13VpNQrl4JQF"
+    },
+    {
+      "album": {
+        "name": "Fog",
+        "url": "https://open.spotify.com/album/6ADKbyqFEo2CJ0H61wL69d"
+      },
+      "artists": [
+        {
+          "name": "Clemens Bay Strings",
+          "url": "https://open.spotify.com/artist/53PGHnTlcI8IFNjXtTCGrt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/6XRae8jx3bssNxevSf6fM9"
     },
     {
       "album": {
@@ -600,6 +672,78 @@
     },
     {
       "album": {
+        "name": "Improvisation In B-Flat Minor",
+        "url": "https://open.spotify.com/album/3VeSmSzUHxutPzx4ibdyYo"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Montes",
+          "url": "https://open.spotify.com/artist/4GM5KhP1WJaeGIzPOxbd5j"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131967,
+      "name": "Improvisation In B-Flat Minor",
+      "url": "https://open.spotify.com/track/2D3Q2JAhSPZxfPksXeroW6"
+    },
+    {
+      "album": {
+        "name": "Inner Spaces",
+        "url": "https://open.spotify.com/album/1abEGwrMAIiGqEMOoTYoER"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Inner Spaces",
+      "url": "https://open.spotify.com/track/6tdACix3S8NrH0UbJKvs0O"
+    },
+    {
+      "album": {
+        "name": "Intention",
+        "url": "https://open.spotify.com/album/1zidUoEcpe5LH7CKpPCLyZ"
+      },
+      "artists": [
+        {
+          "name": "Elora Bonilla",
+          "url": "https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153158,
+      "name": "Intention",
+      "url": "https://open.spotify.com/track/5uD2QB0PXAdPAAIdy83IjA"
+    },
+    {
+      "album": {
+        "name": "Just Before Morning",
+        "url": "https://open.spotify.com/album/1MQ7w7BpVcXvKXby233Wd1"
+      },
+      "artists": [
+        {
+          "name": "JNUARY",
+          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Just Before Morning",
+      "url": "https://open.spotify.com/track/1GPB6ZrLXvrkJAAGIRifA8"
+    },
+    {
+      "album": {
         "name": "Kalapas",
         "url": "https://open.spotify.com/album/6p1IOmTKWUdeG5RRSFpVeJ"
       },
@@ -723,7 +867,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 126500,
       "name": "Lineage",
       "url": "https://open.spotify.com/track/1bzUzKsHpaE0AmY6ZqgqjI"
@@ -748,6 +892,42 @@
     },
     {
       "album": {
+        "name": "Love Lies Bleeding",
+        "url": "https://open.spotify.com/album/1hyOH3QLhykwuNnsw0z1NB"
+      },
+      "artists": [
+        {
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/5sQwJ3rAWhIe1B1kZiuG4X"
+    },
+    {
+      "album": {
+        "name": "Mind Tranquility",
+        "url": "https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Mind Tranquility",
+      "url": "https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1mhSxjyImpw5PzPS792uKs"
       },
@@ -759,10 +939,28 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 168000,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0gqVMTgk94SscygbYJjwtk"
+    },
+    {
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/3A941wcuJ8FK5siXpM8dh4"
+      },
+      "artists": [
+        {
+          "name": "Norma Prins",
+          "url": "https://open.spotify.com/artist/0yog2kmjIunKNTMSafM9Id"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/33dwPkbkbowOVYa8Wgb008"
     },
     {
       "album": {
@@ -838,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW"
+    },
+    {
+      "album": {
         "name": "Nocturne in Green",
         "url": "https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN"
       },
@@ -892,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Polaris",
+        "url": "https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru"
+      },
+      "artists": [
+        {
+          "name": "HILMA",
+          "url": "https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/3lMXwIrrQv8E1ZF9mcnV0l"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9lude",
         "url": "https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL"
       },
@@ -921,7 +1155,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 121251,
       "name": "Quartet For Now",
       "url": "https://open.spotify.com/track/7w6PueNYFcEQOp4Vfnmxg6"
@@ -1011,7 +1245,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 133521,
       "name": "Serenade For Strings",
       "url": "https://open.spotify.com/track/3nJuP6wP2C3KagblFUjsBS"
@@ -1033,6 +1267,24 @@
       "duration_ms": 138768,
       "name": "shimmer",
       "url": "https://open.spotify.com/track/5HEFeQwfpoXRQ6qWgCiBe7"
+    },
+    {
+      "album": {
+        "name": "Sentient",
+        "url": "https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3"
     },
     {
       "album": {
@@ -1069,6 +1321,24 @@
       "duration_ms": 153846,
       "name": "Smoothness",
       "url": "https://open.spotify.com/track/2Fn9MiptYoek7WhvXxoGdD"
+    },
+    {
+      "album": {
+        "name": "Somnium apogaeo",
+        "url": "https://open.spotify.com/album/5NEwcnTzQhe1LNRlJFT1YO"
+      },
+      "artists": [
+        {
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146391,
+      "name": "Somnium apogaeo",
+      "url": "https://open.spotify.com/track/5wbE7zqN05BZFjc1gM9Jwg"
     },
     {
       "album": {
@@ -1267,7 +1537,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 155514,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0Dz5F370dENsaTc8TL9fK2"
@@ -1285,7 +1555,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 167418,
       "name": "The Joys And Sorrows Of Life",
       "url": "https://open.spotify.com/track/35YpO013e4j2ysgIsBpf6N"
@@ -1307,6 +1577,28 @@
       "duration_ms": 209177,
       "name": "The Second Moon",
       "url": "https://open.spotify.com/track/4sX9jVZrUiYAJmzKsezBpu"
+    },
+    {
+      "album": {
+        "name": "The Waiting Room",
+        "url": "https://open.spotify.com/album/3nSD3Cuw5po5hz0hqPhBp1"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Daisuke Tanabe",
+          "url": "https://open.spotify.com/artist/2xQI5A9WmqrOPYdfl23MCM"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138546,
+      "name": "The Waiting Room",
+      "url": "https://open.spotify.com/track/4NlKazw9AJdSWSBOPIXWEk"
     },
     {
       "album": {
@@ -1379,6 +1671,24 @@
       "duration_ms": 185790,
       "name": "Valleys",
       "url": "https://open.spotify.com/track/5MSVACqJSKrICwAQQW91wb"
+    },
+    {
+      "album": {
+        "name": "Midnight Textures",
+        "url": "https://open.spotify.com/album/1ymgrXviamw7SrJlzXiAC2"
+      },
+      "artists": [
+        {
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212085,
+      "name": "Where You Come From",
+      "url": "https://open.spotify.com/track/3dw5tsMT1YnXBjUhH7im1w"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXIrropGBmnR"

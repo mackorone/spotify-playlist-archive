@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-136 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+139 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2022-02-17 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-02-17 |  |
 | [Astro](https://open.spotify.com/track/0VsvnEFxG5lZFFIeplTGy2) | [Jaller Beats](https://open.spotify.com/artist/5j2hqWZ2KnbaqKP3uRQwHH) | [Astro](https://open.spotify.com/album/1XUbFBBvHil1CD0PjGQU7I) | 2:13 | 2022-02-17 |  |
+| [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 | 2022-06-24 |  |
 | [Before We Met](https://open.spotify.com/track/1XmZlnlpZnsnNOZIVoVVry) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Before We Met](https://open.spotify.com/album/6bP6mC9lB42UR2SWc1DLLD) | 2:27 | 2022-02-17 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2022-02-17 |  |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2022-02-17 |  |
@@ -67,6 +68,7 @@
 | [Ipanema](https://open.spotify.com/track/35wMZtYtVpNS1sVATrU5H5) | [Elixrr River](https://open.spotify.com/artist/1PwXZbR5QgqYL93wbnBzah) | [Pad Guy](https://open.spotify.com/album/3Q3gMjDdZ9BpZhz05TqL1s) | 4:29 | 2022-02-17 |  |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-02-17 |  |
 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 | 2022-02-17 |  |
+| [Lately I Was Lost](https://open.spotify.com/track/0izoLPqzTzr09ProDMJsps) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:48 | 2022-06-10 |  |
 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2022-02-17 |  |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2022-02-17 |  |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2022-02-17 |  |
@@ -81,6 +83,7 @@
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2022-02-17 |  |
 | [New Shoes](https://open.spotify.com/track/5juHblWOCxsaAlOrOdaTRW) | [Holden](https://open.spotify.com/artist/4QzKwFmHaOYtYXs8oSPGkx) | [New Shoes](https://open.spotify.com/album/6WYHhMNiP9uosSqoM3EFgs) | 2:14 | 2022-02-17 |  |
+| [New Start](https://open.spotify.com/track/5t54ULTioRiGc5xuXv36bH) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [New Start](https://open.spotify.com/album/2bHbPzTTSlc6R1A1J1dj81) | 2:35 | 2022-06-10 |  |
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2022-02-17 |  |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2022-02-17 |  |
 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2022-02-17 |  |

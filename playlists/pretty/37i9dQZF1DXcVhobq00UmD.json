@@ -1,15 +1,163 @@
 {
   "description": "Welcome to the LOO\u03a0\u0394verse. Are you making an 'Orbit' around LOO\u03a0\u0394?",
-  "num_followers": 88842,
+  "num_followers": 94086,
   "original_name": "This Is LOONA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE0Nzk3MSwwMDAwMDAwYzAwMDAwMTgwNzAxNjliYjUwMDAwMDE3YTYwZGMwOWZh",
+  "snapshot_id": "MTY1NTk3MTE2NywwMDAwMDAwZDAwMDAwMTgxOGY5MmJiYzcwMDAwMDE4MThmOTI5M2Nm",
   "tracks": [
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 74600,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/4hy2mxKZbnlQgfQaxHJV21"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/4V7sAUqroJrjmfrbANLGra"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/65Q3dBSnGq6rRGh7szSWYm"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/6m81zUhuw7mVp37OummGgw"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "<Queendom2> Position Unit Battle Part.1-1",
+        "url": "https://open.spotify.com/album/3p44pRKo4AR0OCVWkbs4OB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        },
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Don`t Go - Queendom2 Version",
+      "url": "https://open.spotify.com/track/70HOn7S07x4fvvrt8lKRbT"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-2",
+        "url": "https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2PgfMrrprDO5kwwfpPzfvm"
+    },
+    {
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "<Queendom2> Part.2-1",
         "url": "https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0"
@@ -25,7 +173,7 @@
       "url": "https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "<Queendom2> Part.1-2",
         "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
@@ -41,7 +189,7 @@
       "url": "https://open.spotify.com/track/0MEJznR74sW0mnSnkbiQia"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Not Friends Special Edition",
         "url": "https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH"
@@ -57,7 +205,7 @@
       "url": "https://open.spotify.com/track/4JMSZR1HhsOyMm8JwXdYPX"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Not Friends Special Edition",
         "url": "https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH"
@@ -73,7 +221,7 @@
       "url": "https://open.spotify.com/track/2GH8QibZN3lChxaIYjPdSw"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Not Friends Special Edition",
         "url": "https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH"
@@ -89,7 +237,7 @@
       "url": "https://open.spotify.com/track/3nSd7w3aOfhAoGxVZuUY7X"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Not Friends Special Edition",
         "url": "https://open.spotify.com/album/6rbfeGy6rv8ZETAoVxQ1hH"
@@ -105,7 +253,7 @@
       "url": "https://open.spotify.com/track/0T6MBcbl5Y6stcLWorNQQ2"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "MAXIS BY RYAN JHUN PT. 2",
         "url": "https://open.spotify.com/album/6u9spPEgty1M6cagydhqKV"
@@ -121,7 +269,7 @@
       "url": "https://open.spotify.com/track/0kgNAZLjWVm7YSnrmoBLa3"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -137,7 +285,7 @@
       "url": "https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -153,7 +301,7 @@
       "url": "https://open.spotify.com/track/4eEI7fEoKgZyoUgq48tsjd"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -169,7 +317,7 @@
       "url": "https://open.spotify.com/track/4ZsSeCSgARNHlLa69ejGzz"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -185,7 +333,7 @@
       "url": "https://open.spotify.com/track/7733b9hgMqNkq4DBfU8cz6"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -201,7 +349,7 @@
       "url": "https://open.spotify.com/track/7jVQ1WS5RqUxRaKQVRaokc"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -217,7 +365,7 @@
       "url": "https://open.spotify.com/track/676qfSjSg2f0Qo98tl1CpR"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[&]",
         "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
@@ -233,7 +381,7 @@
       "url": "https://open.spotify.com/track/4iFf7g2UuvdzKjbPqUR5uI"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "PTT(Paint The Town) [Japanese Ver.]",
         "url": "https://open.spotify.com/album/4ReTWI7ppSySATvXgJ1AGI"
@@ -249,7 +397,7 @@
       "url": "https://open.spotify.com/track/2WAYPejv44bmgl7qQVPVW6"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -265,7 +413,7 @@
       "url": "https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
@@ -281,7 +429,7 @@
       "url": "https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -297,7 +445,7 @@
       "url": "https://open.spotify.com/track/5jhYykolbcG1T9wZSyvhp5"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[+ +]",
         "url": "https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC"
@@ -313,7 +461,7 @@
       "url": "https://open.spotify.com/track/0RqzUS7AkBhQDrBxcGFeDv"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Chuu",
         "url": "https://open.spotify.com/album/6YeZQkSgIVYCBefzTxwVdu"
@@ -329,7 +477,7 @@
       "url": "https://open.spotify.com/track/6SSC9KZQaxBdyipKRigrFC"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Kim Lip",
         "url": "https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34"
@@ -345,7 +493,7 @@
       "url": "https://open.spotify.com/track/26K21MUaPDTnzHqtiiffFv"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Olivia Hye",
         "url": "https://open.spotify.com/album/0l2Z13tBw1lq2IcnBpfJeC"
@@ -361,7 +509,7 @@
       "url": "https://open.spotify.com/track/5UUeEljsNQroCUNId8DIV6"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -377,7 +525,7 @@
       "url": "https://open.spotify.com/track/6tIKSYUpxyOOhE4OPDXjNi"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Choerry",
         "url": "https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh"
@@ -393,7 +541,7 @@
       "url": "https://open.spotify.com/track/1H3i6WXxrJB7LEoH5iStvb"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "JinSoul",
         "url": "https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi"
@@ -409,7 +557,7 @@
       "url": "https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
@@ -425,7 +573,7 @@
       "url": "https://open.spotify.com/track/0WdCXlXSSfpIldlzZ4BrHi"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "beauty&thebeat",
         "url": "https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1"
@@ -441,7 +589,7 @@
       "url": "https://open.spotify.com/track/4rKEmhNA19JezqVsSQS4yo"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HeeJin",
         "url": "https://open.spotify.com/album/4bAHdv04do1PfJcGIjD2cX"
@@ -457,7 +605,7 @@
       "url": "https://open.spotify.com/track/1P2oYaTIBRB4pYL28Ps5Mv"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HyunJin",
         "url": "https://open.spotify.com/album/6u4eaDNAoDT7hB2YVFpmvD"
@@ -473,7 +621,7 @@
       "url": "https://open.spotify.com/track/5ugtjxSBLylCYzfVcJTLMw"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "ViVi",
         "url": "https://open.spotify.com/album/3eg9jvcmafP60bG9YffJn8"
@@ -493,7 +641,7 @@
       "url": "https://open.spotify.com/track/5HGeTj4lVdLGed5c358q1f"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS"
@@ -509,7 +657,7 @@
       "url": "https://open.spotify.com/track/3DGKXLtVjawKFweymvHn84"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HaSeul",
         "url": "https://open.spotify.com/album/5i0Av4RNFxgWGbi6VpeQBP"
@@ -525,7 +673,7 @@
       "url": "https://open.spotify.com/track/0KsPxLQtEvfb04Sx1pmUsL"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -541,7 +689,7 @@
       "url": "https://open.spotify.com/track/5t6ffoqxXwydvNlYC3niot"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "JinSoul",
         "url": "https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi"
@@ -557,7 +705,7 @@
       "url": "https://open.spotify.com/track/3GAKRdjL6Snq9C7u5tMC01"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Kim Lip",
         "url": "https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34"
@@ -573,7 +721,7 @@
       "url": "https://open.spotify.com/track/1QzbeeShhAATdT87ssWtK4"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HyunJin",
         "url": "https://open.spotify.com/album/6u4eaDNAoDT7hB2YVFpmvD"
@@ -589,7 +737,7 @@
       "url": "https://open.spotify.com/track/1z1nsNEnhzTfH3CX7fcsaz"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "ViVi",
         "url": "https://open.spotify.com/album/3eg9jvcmafP60bG9YffJn8"
@@ -609,7 +757,7 @@
       "url": "https://open.spotify.com/track/089ima1riL9o88kUlCgFCp"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS"
@@ -625,7 +773,7 @@
       "url": "https://open.spotify.com/track/7vgLNwdUzUQelOr9aacuxA"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HaSeul",
         "url": "https://open.spotify.com/album/5i0Av4RNFxgWGbi6VpeQBP"
@@ -641,7 +789,7 @@
       "url": "https://open.spotify.com/track/2jvTBj2oSJi3fij1WH1AJR"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS"
@@ -657,7 +805,7 @@
       "url": "https://open.spotify.com/track/6f1PlxNaKfbbBosoRXmoAF"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HeeJin",
         "url": "https://open.spotify.com/album/2AHmT9guQLdXT35Zr3ePEO"
@@ -673,7 +821,7 @@
       "url": "https://open.spotify.com/track/5UcKA3kFDFze29N8qrV804"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HyunJin",
         "url": "https://open.spotify.com/album/6h4FJjtRBnNQJzL3dVHrob"
@@ -689,7 +837,7 @@
       "url": "https://open.spotify.com/track/2Tf6La0o3Jqu7HfKwkWqjJ"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -705,7 +853,7 @@
       "url": "https://open.spotify.com/track/4wGt2KmqMQ7LC5bqPi51sf"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -721,7 +869,7 @@
       "url": "https://open.spotify.com/track/3lVzntD100XcGaW3HZ5FuU"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HyunJin",
         "url": "https://open.spotify.com/album/6h4FJjtRBnNQJzL3dVHrob"
@@ -737,7 +885,7 @@
       "url": "https://open.spotify.com/track/2cCj7bIY0jrdGn20lq88ae"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HaSeul",
         "url": "https://open.spotify.com/album/4OIpopvZBymLMdQWOF1GUG"
@@ -753,7 +901,7 @@
       "url": "https://open.spotify.com/track/3Ir6BUnlnAGTMZBMIHlgSu"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HeeJin",
         "url": "https://open.spotify.com/album/2AHmT9guQLdXT35Zr3ePEO"
@@ -769,7 +917,7 @@
       "url": "https://open.spotify.com/track/0Egf0suvZSOB3bet2rLWGX"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "HaSeul",
         "url": "https://open.spotify.com/album/4OIpopvZBymLMdQWOF1GUG"
@@ -785,7 +933,7 @@
       "url": "https://open.spotify.com/track/1CKJ1nmAYp1XD4ZajfhzIC"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq"
@@ -801,7 +949,7 @@
       "url": "https://open.spotify.com/track/4TeqecANyRsllKmXNw641W"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq"
@@ -817,7 +965,7 @@
       "url": "https://open.spotify.com/track/0oiVMsDM40biyMxhF1ooI0"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "YeoJin",
         "url": "https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq"
@@ -833,7 +981,7 @@
       "url": "https://open.spotify.com/track/3uOuaBpMHwYcxej5qRDocD"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -849,7 +997,7 @@
       "url": "https://open.spotify.com/track/5QZHS9YzYpNDY8nmG2h64N"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
@@ -865,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7EG2HkWMW1mM7PIMznLyhW"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
@@ -881,7 +1029,7 @@
       "url": "https://open.spotify.com/track/7uAD8DLwFDpZkFEJFSxxcb"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
@@ -897,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2yIcpjnvw0ihKxHqWNFIuz"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
@@ -913,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0AH0dkzF93dcHFnmeBOTbE"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[12:00]",
         "url": "https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi"
@@ -929,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1PI5Nlv1bJESN0H1wBa7Pe"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
@@ -945,7 +1093,7 @@
       "url": "https://open.spotify.com/track/54aMoZIU4kF8o4MbIEObls"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "ViVi",
         "url": "https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK"
@@ -957,7 +1105,7 @@
         },
         {
           "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/3B5BfaOYvKERhknUgnGYCf"
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
         }
       ],
       "duration_ms": 208160,
@@ -965,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5e6Tii9571q3uKOC6wn8XU"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "ViVi",
         "url": "https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK"
@@ -985,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6y0g4cJTSABiaaKECOISiI"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg"
@@ -1001,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6XAca0QIiTvMaWfTnjjwrn"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg"
@@ -1017,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6RMFRrVjtcvpyyBs6cM0xd"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg"
@@ -1033,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0y6mgjArFlmksW6Qciycd5"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Kim Lip",
         "url": "https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi"
@@ -1049,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Kim Lip",
         "url": "https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi"
@@ -1065,7 +1213,7 @@
       "url": "https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "JinSoul",
         "url": "https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W"
@@ -1081,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "JinSoul",
         "url": "https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W"
@@ -1097,7 +1245,7 @@
       "url": "https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Choerry",
         "url": "https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh"
@@ -1113,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0Y1oSjd9U7Qy5t7EDjAjPq"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Mix & Match",
         "url": "https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze"
@@ -1129,7 +1277,7 @@
       "url": "https://open.spotify.com/track/3GRwM20EPVWjKoVsNsHjrj"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Mix & Match",
         "url": "https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze"
@@ -1145,7 +1293,7 @@
       "url": "https://open.spotify.com/track/6hDCBYBnbr4lfRj5H7bkC4"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Mix & Match",
         "url": "https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze"
@@ -1161,7 +1309,7 @@
       "url": "https://open.spotify.com/track/7h9wP4yMYuFdiciHMsdxWU"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Mix & Match",
         "url": "https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze"
@@ -1177,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1s8ZMgjthh2IGvYKWdgO2B"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Mix & Match",
         "url": "https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze"
@@ -1193,7 +1341,7 @@
       "url": "https://open.spotify.com/track/0DRvlkPs5FKt6Rh9q4B6Nh"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "LOONATIC",
         "url": "https://open.spotify.com/album/2kcwDHcxmuCSQbo27AY30Q"
@@ -1209,7 +1357,7 @@
       "url": "https://open.spotify.com/track/7xkpUBffveGC99B2UYIuFy"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Max & Match",
         "url": "https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29"
@@ -1225,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4NzNeHybw9rIbbRb7ztgfm"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Max & Match",
         "url": "https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29"
@@ -1241,7 +1389,7 @@
       "url": "https://open.spotify.com/track/5fgpCIjBJ098E9zqN9DS87"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Max & Match",
         "url": "https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29"
@@ -1257,7 +1405,7 @@
       "url": "https://open.spotify.com/track/2oFbMd0TcgUm7Df4Sx16h9"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Max & Match",
         "url": "https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29"
@@ -1273,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0ZsRFf3jsn4MvGHUoIcKLy"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Yves",
         "url": "https://open.spotify.com/album/4Rkz00xg0zSLdmipbG6uRr"
@@ -1289,7 +1437,7 @@
       "url": "https://open.spotify.com/track/7eUtsnBNOWfWDObBZyU4F4"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Yves",
         "url": "https://open.spotify.com/album/4Rkz00xg0zSLdmipbG6uRr"
@@ -1305,7 +1453,7 @@
       "url": "https://open.spotify.com/track/4ddaY4PJxvq47qIps1KQ6Q"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
         "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
@@ -1321,7 +1469,7 @@
       "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Chuu",
         "url": "https://open.spotify.com/album/6YeZQkSgIVYCBefzTxwVdu"
@@ -1337,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1j3zXAq0W9cLIpiAXwcYXF"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Go Won",
         "url": "https://open.spotify.com/album/5li9RKVy6K7WOSR4DNJc5y"
@@ -1353,7 +1501,7 @@
       "url": "https://open.spotify.com/track/1DzpZ8HBR0MgGkZDhAdd7f"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Go Won",
         "url": "https://open.spotify.com/album/5li9RKVy6K7WOSR4DNJc5y"
@@ -1373,7 +1521,7 @@
       "url": "https://open.spotify.com/track/1tLmp8dEhaHvU0jm2aG6sS"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Olivia Hye",
         "url": "https://open.spotify.com/album/0l2Z13tBw1lq2IcnBpfJeC"
@@ -1389,7 +1537,7 @@
       "url": "https://open.spotify.com/track/6cfacimNXWogsp6DtJflyL"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "beauty&thebeat",
         "url": "https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1"
@@ -1405,7 +1553,7 @@
       "url": "https://open.spotify.com/track/2GkF0nk8gmLYru7UZcZA9K"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "beauty&thebeat",
         "url": "https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1"
@@ -1421,7 +1569,7 @@
       "url": "https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "beauty&thebeat",
         "url": "https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1"
@@ -1437,7 +1585,7 @@
       "url": "https://open.spotify.com/track/0ZoFCxoLfn2uKunJbm4ERr"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "beauty&thebeat",
         "url": "https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1"
@@ -1453,7 +1601,7 @@
       "url": "https://open.spotify.com/track/3jueKDWC9DmTfnU2jMxE8U"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "favOriTe",
         "url": "https://open.spotify.com/album/7cG5ePRgPuSblOX0rHQfuh"
@@ -1469,7 +1617,7 @@
       "url": "https://open.spotify.com/track/2hynpFtQsg5wqVevY8z6G7"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[+ +]",
         "url": "https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC"
@@ -1485,7 +1633,7 @@
       "url": "https://open.spotify.com/track/0ywnB1ANtBR7RTT1uBpBZO"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[+ +]",
         "url": "https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC"
@@ -1501,7 +1649,7 @@
       "url": "https://open.spotify.com/track/72NewffMWAO9kH55vT6dXj"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[+ +]",
         "url": "https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC"
@@ -1517,7 +1665,7 @@
       "url": "https://open.spotify.com/track/1ILLB5uvWk1lQJOY7q645K"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[+ +]",
         "url": "https://open.spotify.com/album/7e6TOKG4POoaQikpefQwbC"
@@ -1533,7 +1681,7 @@
       "url": "https://open.spotify.com/track/0vA82YPx1q4JRWFISf1vIZ"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -1549,7 +1697,7 @@
       "url": "https://open.spotify.com/track/4TgYBLdExSoISFOfWLmBOh"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -1565,7 +1713,7 @@
       "url": "https://open.spotify.com/track/644aVns0mIqtLY9Wqzm7zD"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -1581,7 +1729,7 @@
       "url": "https://open.spotify.com/track/1bg4MF45JFU0Dx1MjLJ5vn"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -1597,7 +1745,7 @@
       "url": "https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
@@ -1613,7 +1761,7 @@
       "url": "https://open.spotify.com/track/6OcDMIYoDm0DvybUM1jBWF"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/749shYoyhKYDbQE50IpVqT"
@@ -1629,7 +1777,7 @@
       "url": "https://open.spotify.com/track/1FJPXCXDD9yt9naw8R5bfs"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
@@ -1645,7 +1793,7 @@
       "url": "https://open.spotify.com/track/3Q4eFdGe02tM0whH8AH4F0"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
@@ -1661,7 +1809,7 @@
       "url": "https://open.spotify.com/track/2GGzUBEJE1dN2PHrf7neS7"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
@@ -1677,7 +1825,7 @@
       "url": "https://open.spotify.com/track/4bPY0n3hMVd6q39B2ePkZe"
     },
     {
-      "added_at": "2022-04-28 12:12:51",
+      "added_at": "2022-06-23 07:59:27",
       "album": {
         "name": "Meow the secret boy \uc5b4\uc11c\uc640 (Original Television Soundtrack), Pt.8",
         "url": "https://open.spotify.com/album/2zyLp2FCi34qgarQk70aGX"

@@ -354,7 +354,7 @@
     },
     {
       "album": {
-        "name": "Chopin \"journal intime\"",
+        "name": "Chopin: Pi\u00e8ces pour piano",
         "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
       },
       "artists": [
@@ -398,7 +398,7 @@
     },
     {
       "album": {
-        "name": "Chopin - Piano Works",
+        "name": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
         "url": "https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9"
       },
       "artists": [
@@ -667,10 +667,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 244640,
       "name": "Impromptu No. 1 in A-Flat Major, Op. 29",
       "url": "https://open.spotify.com/track/4obkD1Jz7JcgxKQgcidQ8a"
+    },
+    {
+      "album": {
+        "name": "Chopin: Impromptu No. 1 in A-Flat Major, Op. 29 (Live)",
+        "url": "https://open.spotify.com/album/07VHMQ1vrr6Hx1pZTli1MC"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251417,
+      "name": "Impromptu No. 1 in A-Flat Major, Op. 29 - Live",
+      "url": "https://open.spotify.com/track/6LGL8gQPQv3bMaT4ocVTsm"
     },
     {
       "album": {
@@ -801,7 +823,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268906,
-      "name": "Mazurka No.36 In A Minor Op.59 No.1",
+      "name": "Mazurka No. 36 in A Minor, Op. 59 No. 1",
       "url": "https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu"
     },
     {

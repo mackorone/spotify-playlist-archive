@@ -81,20 +81,20 @@
           "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+          "name": "Leon Spierer",
+          "url": "https://open.spotify.com/artist/3Fh9zNaErzNE0uHLwrsION"
         },
         {
           "name": "David Bell",
           "url": "https://open.spotify.com/artist/29BEmD7wvKp6F5GTCcejY3"
         },
         {
-          "name": "Leon Spierer",
-          "url": "https://open.spotify.com/artist/3Fh9zNaErzNE0uHLwrsION"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
         }
       ],
       "date_added": "2022-04-01",
@@ -181,6 +181,24 @@
       "duration_ms": 184248,
       "name": "Ancient Airs and Dances: Suite III, Siciliana",
       "url": "https://open.spotify.com/track/54lJBbBjMshjZtym5S1j2V"
+    },
+    {
+      "album": {
+        "name": "La Ronde Des Berceuses",
+        "url": "https://open.spotify.com/album/7GPWDs5pZsuEvCaOCUxrjU"
+      },
+      "artists": [
+        {
+          "name": "Angele Dubeau, Ensemble Amati, Raymond Dessaints",
+          "url": "https://open.spotify.com/artist/6RMpafCPPmTUZsyzfxWj9o"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293871,
+      "name": "Annie's Song (Dompierre)",
+      "url": "https://open.spotify.com/track/6kOO3EZawpjqbFCiXGWs47"
     },
     {
       "album": {
@@ -289,6 +307,36 @@
       "duration_ms": 188346,
       "name": "Dance For Me Wallis",
       "url": "https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5"
+    },
+    {
+      "album": {
+        "name": "Anna Clyne: DANCE - Edward Elgar: Cello Concerto",
+        "url": "https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4"
+      },
+      "artists": [
+        {
+          "name": "Anna Clyne",
+          "url": "https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j"
+        },
+        {
+          "name": "Inbal Segev",
+          "url": "https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284853,
+      "name": "DANCE: I. when you're broken open",
+      "url": "https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW"
     },
     {
       "album": {
@@ -1111,7 +1159,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151506,
-      "name": "Spring 1",
+      "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
@@ -1431,6 +1479,28 @@
       "duration_ms": 580826,
       "name": "Violin Sonata No. 5 in F Major, Op. 24 \"Spring\": I. Allegro",
       "url": "https://open.spotify.com/track/298QgpoW98lsDj7IK5ShHc"
+    },
+    {
+      "album": {
+        "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
+        "url": "https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112352,
+      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
+      "url": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI"
     },
     {
       "album": {

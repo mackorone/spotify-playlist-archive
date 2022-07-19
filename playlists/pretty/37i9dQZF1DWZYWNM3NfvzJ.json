@@ -1,12 +1,12 @@
 {
   "description": "All the adrenaline you need is right here.  Let's GO!",
-  "num_followers": 872407,
+  "num_followers": 878119,
   "original_name": "Beast Mode Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2NzU3MywwMDAwMDAwMGE2MjgwNjIzMDJjYTY3Y2UyZjhkYTg3MmFjNjlmZWI4",
+  "snapshot_id": "MTY1Nzc2MTQyNiwwMDAwMDAwMDE1MDI4ZDdlODBiZWExNDIyNjM5NTkyYWM3YWJkYWE3",
   "tracks": [
     {
       "added_at": "2022-04-12 07:48:34",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331573,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
         "name": "Motherbrain",
         "url": "https://open.spotify.com/album/5bS8kLirDX380TztuopXkH"
       },
@@ -91,6 +107,26 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
         "name": "Save Us",
         "url": "https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT"
       },
@@ -103,6 +139,70 @@
       "duration_ms": 141608,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/0wY51EfU28wZszAM6kR3Ia"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/4JaJuGSfhcA7kavdgS3yn6"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Machinehead",
+      "url": "https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -123,22 +223,18 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "The Great Electronic Swindle",
-        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
+        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
+        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
       "artists": [
         {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
         }
       ],
-      "duration_ms": 167343,
-      "name": "My Name Is Thunder",
-      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
+      "duration_ms": 374973,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -163,82 +259,70 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+        "name": "Death by Rock and Roll",
+        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
+      "duration_ms": 234476,
+      "name": "Death by Rock and Roll",
+      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
     },
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/0wY51EfU28wZszAM6kR3Ia"
+        "name": "HEADSPACE FT. POORSTACY",
+        "url": "https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/4JaJuGSfhcA7kavdgS3yn6"
+      "duration_ms": 191434,
+      "name": "HEADSPACE FT. POORSTACY",
+      "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
     },
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Sixteen Stone (Remastered)",
-        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+        "name": "Brain Pain",
+        "url": "https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 256333,
-      "name": "Machinehead",
-      "url": "https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2"
+      "duration_ms": 221904,
+      "name": "Talking Myself in Circles",
+      "url": "https://open.spotify.com/track/1L1eNrSGZAZxQUCpa8vtvi"
     },
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331573,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp"
+      "duration_ms": 210706,
+      "name": "Asking for It",
+      "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -259,6 +343,86 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/0oLICk7wA4GsaGEk1lprgD"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Horizons / East",
+        "url": "https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 292324,
+      "name": "Scavengers",
+      "url": "https://open.spotify.com/track/5NqZc5hocg7DLZ42kcuI6G"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Stinkfist",
+      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -295,150 +459,18 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
-        "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
         }
       ],
-      "duration_ms": 374973,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "HEADSPACE FT. POORSTACY",
-        "url": "https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        },
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 191434,
-      "name": "HEADSPACE FT. POORSTACY",
-      "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Inside Out (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tc4x2RQywmld2AlPefMVc"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 253964,
-      "name": "Inside Out (Radio Edit)",
-      "url": "https://open.spotify.com/track/1QJ30tpfFRvNuEHbUzudoG"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Horizons / East",
-        "url": "https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 292324,
-      "name": "Scavengers",
-      "url": "https://open.spotify.com/track/5NqZc5hocg7DLZ42kcuI6G"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Hated",
-        "url": "https://open.spotify.com/album/4ycu5JHwGIkT3YtPiSGRXn"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/5N0ToFp1DWQnG3EX24TNPs"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Death by Rock and Roll",
-        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234476,
-      "name": "Death by Rock and Roll",
-      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/5wJDlY1ydJyfu66a7B1AEO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Ordinary Man",
-        "url": "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 225027,
-      "name": "Straight to Hell",
-      "url": "https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB"
+      "duration_ms": 177789,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -459,18 +491,274 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Brain Pain",
-        "url": "https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1"
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
       "artists": [
         {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 221904,
-      "name": "Talking Myself in Circles",
-      "url": "https://open.spotify.com/track/1L1eNrSGZAZxQUCpa8vtvi"
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Inside Out (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tc4x2RQywmld2AlPefMVc"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 253964,
+      "name": "Inside Out (Radio Edit)",
+      "url": "https://open.spotify.com/track/1QJ30tpfFRvNuEHbUzudoG"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Hated",
+        "url": "https://open.spotify.com/album/4ycu5JHwGIkT3YtPiSGRXn"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/5N0ToFp1DWQnG3EX24TNPs"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W"
+      },
+      "artists": [
+        {
+          "name": "Young Guns",
+          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5hWrXs5idMNnZMPahmsJCY"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5wJDlY1ydJyfu66a7B1AEO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Alive - Chris Lord-Alge Mix",
+      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 224073,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Cochise",
+      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "The Stories We Tell Ourselves",
+        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 245195,
+      "name": "Go To War",
+      "url": "https://open.spotify.com/track/4A0LV6W7IUKPP2pyAZ356E"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Ordinary Man",
+        "url": "https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 225027,
+      "name": "Straight to Hell",
+      "url": "https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Isolate And Medicate",
+        "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Same Damn Life",
+      "url": "https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Billy Talent II",
+        "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/3jUTjCISntIUFL8jnAjzgc"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Hello, It's Mz. Hyde",
+        "url": "https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "Love Bites (So Do I)",
+      "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "The Hand That's Dealt",
+        "url": "https://open.spotify.com/album/3u0IlkNUioAOuv5HnwREt4"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 186981,
+      "name": "The Hand That\u2019s Dealt",
+      "url": "https://open.spotify.com/track/4F5It6RjWDJCB3kGdDklpI"
+    },
+    {
+      "added_at": "2022-04-12 07:48:34",
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -495,242 +783,18 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Alive - Chris Lord-Alge Mix",
-      "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Billy Talent II",
-        "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/3jUTjCISntIUFL8jnAjzgc"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "Dark Side",
-      "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Torpedo",
-        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Hills Have Eyes",
-        "url": "https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8"
-      },
-      "artists": [
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Hills Have Eyes",
-      "url": "https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Isolate And Medicate",
-        "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Same Damn Life",
-      "url": "https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Moral Panic",
-        "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 204536,
-      "name": "Unperson",
-      "url": "https://open.spotify.com/track/5HLzF5IwHdQflsQVcgnE17"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Hello, It's Mz. Hyde",
-        "url": "https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "Love Bites (So Do I)",
-      "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W"
-      },
-      "artists": [
-        {
-          "name": "Young Guns",
-          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/5hWrXs5idMNnZMPahmsJCY"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "The Stories We Tell Ourselves",
-        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 245195,
-      "name": "Go To War",
-      "url": "https://open.spotify.com/track/4A0LV6W7IUKPP2pyAZ356E"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "The Hand That's Dealt",
-        "url": "https://open.spotify.com/album/3u0IlkNUioAOuv5HnwREt4"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 186981,
-      "name": "The Hand That\u2019s Dealt",
-      "url": "https://open.spotify.com/track/4F5It6RjWDJCB3kGdDklpI"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2022-04-12 07:48:34",
@@ -751,82 +815,18 @@
     {
       "added_at": "2022-04-12 07:48:34",
       "album": {
-        "name": "Threat to Survival",
-        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Asking for It",
-      "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "\u00c6nima",
-        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Stinkfist",
-      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa"
-    },
-    {
-      "added_at": "2022-04-12 07:48:34",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+      "duration_ms": 363853,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5"
     }
   ],
   "unique_name": "Beast Mode Rock",

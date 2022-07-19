@@ -1,12 +1,12 @@
 {
   "description": "Kindie tunes for the whole family. ",
-  "num_followers": 16139,
+  "num_followers": 16538,
   "original_name": "Kindie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDAzMTU4MSwwMDAwMDA2MTAwMDAwMTgwMmQ4YmQ5YjYwMDAwMDE3NzAxYjVmODhh",
+  "snapshot_id": "MTY1MzUwNjYyNCwwMDAwMDA2MjAwMDAwMTgwZmNhY2NiYjYwMDAwMDE3NzAxYjVmODhh",
   "tracks": [
     {
       "added_at": "2022-04-15 14:06:21",
@@ -91,6 +91,22 @@
       "duration_ms": 230238,
       "name": "Welcome Spring (feat. Suzi Shelton)",
       "url": "https://open.spotify.com/track/4jpUuV65fEKGKg6FdlL3Ca"
+    },
+    {
+      "added_at": "2022-05-25 19:23:44",
+      "album": {
+        "name": "A Little Recycling Adventure",
+        "url": "https://open.spotify.com/album/3XJie4zhDqXL0bS7ewPEC8"
+      },
+      "artists": [
+        {
+          "name": "Benny Time",
+          "url": "https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU"
+        }
+      ],
+      "duration_ms": 242482,
+      "name": "A Little Recycling Adventure",
+      "url": "https://open.spotify.com/track/4yld7dVSxsCDWUPMyhxLYO"
     },
     {
       "added_at": "2022-04-15 14:06:21",
@@ -214,6 +230,10 @@
         {
           "name": "Claudia Robin Gunn",
           "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        },
+        {
+          "name": "Eastcoast inspirational Singers",
+          "url": "https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC"
         }
       ],
       "duration_ms": 192512,

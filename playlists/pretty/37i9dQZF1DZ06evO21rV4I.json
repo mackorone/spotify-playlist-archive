@@ -1,15 +1,15 @@
 {
   "description": "This is WizKid. The essential tracks, all in one playlist.",
-  "num_followers": 81183,
+  "num_followers": 84682,
   "original_name": "This Is WizKid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc1MjIwODksMDAwMDAwMDAwMjcyYzlmZjAzYTVlY2YzY2EwMmY1MDY1YWQxMGI0Nw==",
+  "snapshot_id": "Mjc2MzYwMjAsMDAwMDAwMDAxZTVjMTBiNGMwNGI0OWU1NGU4Y2JmODFhNjljOTBmOQ==",
   "tracks": [
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Joro",
         "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
@@ -69,7 +69,27 @@
       "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
@@ -89,7 +109,27 @@
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
@@ -117,10 +157,10 @@
       "url": "https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
       "artists": [
         {
@@ -128,36 +168,16 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 196146,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
@@ -177,31 +197,7 @@
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Borrowed Love (feat. Swae Lee & WizKid)",
-      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
@@ -249,7 +245,51 @@
       "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Borrowed Love (feat. Swae Lee & WizKid)",
+      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
@@ -269,27 +309,27 @@
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Peace Is The Mission : Extended",
         "url": "https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya"
@@ -321,23 +361,7 @@
       "url": "https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -361,7 +385,7 @@
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "I Like (feat. WizKid)",
         "url": "https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO"
@@ -381,7 +405,23 @@
       "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
@@ -397,23 +437,7 @@
       "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Ghetto Love",
-        "url": "https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "Ghetto Love",
-      "url": "https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -433,31 +457,23 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
-        "url": "https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv"
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2"
       },
       "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
         {
           "name": "WizKid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
-      "url": "https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv"
+      "duration_ms": 198367,
+      "name": "Ghetto Love",
+      "url": "https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
@@ -473,43 +489,7 @@
       "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Revenge Is Sweet",
         "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
@@ -529,10 +509,10 @@
       "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
@@ -540,52 +520,12 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+      "duration_ms": 202640,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Lax",
-          "url": "https://open.spotify.com/artist/4wF8zhjCwuSH0tsIkUVenr"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "Caro (feat. Lax)",
-      "url": "https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "IDG",
-      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
@@ -613,7 +553,23 @@
       "url": "https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Ignorance is Bliss",
         "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
@@ -637,7 +593,51 @@
       "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
+        "url": "https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
+      "url": "https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Drogba (Joanna) [feat. WizKid]",
         "url": "https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk"
@@ -657,10 +657,10 @@
       "url": "https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
       "artists": [
         {
@@ -668,12 +668,12 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+      "duration_ms": 160293,
+      "name": "Daddy Yo",
+      "url": "https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Normani x Calvin Harris",
         "url": "https://open.spotify.com/album/2D4xMG9wNWT3D2JZiVqLNe"
@@ -697,10 +697,10 @@
       "url": "https://open.spotify.com/track/5xesHO6GLWTrjsKOjAXRmf"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
       },
       "artists": [
         {
@@ -708,68 +708,52 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 160293,
-      "name": "Daddy Yo",
-      "url": "https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ"
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
           "name": "WizKid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 261546,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+      "duration_ms": 205773,
+      "name": "Sundown (feat. WizKid)",
+      "url": "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Mamacita (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5MLHZ8Z3GltBClK999iEEb"
+        "name": "KANA",
+        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
       },
       "artists": [
         {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
           "name": "WizKid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 219946,
-      "name": "Mamacita (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX"
+      "duration_ms": 207378,
+      "name": "KANA",
+      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
@@ -789,7 +773,83 @@
       "url": "https://open.spotify.com/track/0erJdrkQUJlA7nbtn1qxQR"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Mamacita (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5MLHZ8Z3GltBClK999iEEb"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Mamacita (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "IDG",
+      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261546,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Master Groove",
+        "url": "https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "Master Groove",
+      "url": "https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
@@ -813,30 +873,10 @@
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "KANA",
-        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "KANA",
-      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Master Groove",
-        "url": "https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
       "artists": [
         {
@@ -844,12 +884,12 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 179439,
-      "name": "Master Groove",
-      "url": "https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B"
+      "duration_ms": 246828,
+      "name": "Love My Baby",
+      "url": "https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I"
@@ -873,87 +913,7 @@
       "url": "https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Sundown (feat. WizKid)",
-      "url": "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Eve Bounce",
-        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
-      },
-      "artists": [
-        {
-          "name": "Yung L",
-          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Eve Bounce - Remix",
-      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "This Kind Luv",
-      "url": "https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3xnSra5dUSn71dn8xSKRLT"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/0o5WUKlwttAkORRkVcOOqL"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "I Am The King Of Amapiano: Sweet & Dust",
         "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
@@ -985,43 +945,63 @@
       "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+        "name": "Eve Bounce",
+        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 246828,
-      "name": "Love My Baby",
-      "url": "https://open.spotify.com/track/4kmE1PtvaPTK00AKCpN19V"
-    },
-    {
-      "added_at": "2022-04-30 13:29:10",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
         },
         {
           "name": "WizKid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 183499,
-      "name": "Tinkerbell (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
+      "duration_ms": 204631,
+      "name": "Eve Bounce - Remix",
+      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
     },
     {
-      "added_at": "2022-04-30 13:29:10",
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3xnSra5dUSn71dn8xSKRLT"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/0o5WUKlwttAkORRkVcOOqL"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
       "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
@@ -1032,13 +1012,33 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
         }
       ],
-      "duration_ms": 205346,
-      "name": "African Bad Gyal (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS"
+      "duration_ms": 265280,
+      "name": "All For Love (feat. Bucie)",
+      "url": "https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr"
+    },
+    {
+      "added_at": "2022-07-18 16:20:50",
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "This Kind Luv",
+      "url": "https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9"
     }
   ],
   "unique_name": "This Is WizKid",

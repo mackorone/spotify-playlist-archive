@@ -1,13 +1,37 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Taj Mahal",
-  "num_followers": 668892,
+  "num_followers": 669624,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA1MDAwMDAwMTdmOWI2NTk1MGQwMDAwMDE3ZWZmNzI0ODU5",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDA1NDAwMDAwMTgxNmZkMzJmNTIwMDAwMDE3ZWZmNzI0ODU5",
   "tracks": [
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/6GtrAnXKQgxz1QLs1yPYLq"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Jimmy Vivino",
+          "url": "https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Running Through High Water",
+      "url": "https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS"
+    },
     {
       "added_at": "2022-02-11 05:02:00",
       "album": {
@@ -61,6 +85,22 @@
       "url": "https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "It Would Be Better for the Bad to Be Good",
+        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "It Would Be Better for the Bad to Be Good",
+      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
+    },
+    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Me to You",
@@ -75,6 +115,54 @@
       "duration_ms": 150560,
       "name": "Gonna Walk This Road",
       "url": "https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Lost Session",
+        "url": "https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh"
+      },
+      "artists": [
+        {
+          "name": "Frank Schaap Quartet",
+          "url": "https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC"
+        },
+        {
+          "name": "Josh Levine",
+          "url": "https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272"
+        },
+        {
+          "name": "David Langlois",
+          "url": "https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv"
+        },
+        {
+          "name": "Miguel Weissman",
+          "url": "https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP"
+        }
+      ],
+      "duration_ms": 282263,
+      "name": "Eyesight to the Blind",
+      "url": "https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Behind the Sea",
+        "url": "https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
+        },
+        {
+          "name": "Jens Filser",
+          "url": "https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Behind the Sea",
+      "url": "https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -559,22 +647,6 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Ramblin' Man Blues",
-        "url": "https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
         "name": "Blue Highways",
         "url": "https://open.spotify.com/album/5IzvgXy4fmGzgxkfVS2tul"
       },
@@ -939,22 +1011,6 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Oh Now",
-        "url": "https://open.spotify.com/album/2RAGcWbyKf5nzUN58QqxUD"
-      },
-      "artists": [
-        {
-          "name": "Brian Casey",
-          "url": "https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG"
-        }
-      ],
-      "duration_ms": 152075,
-      "name": "Oh Now",
-      "url": "https://open.spotify.com/track/3WxksalSl9j5N3JkvFn8lY"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
         "name": "Party Of One",
         "url": "https://open.spotify.com/album/6VZz2Zc2SG7ueQiYCS9pfT"
       },
@@ -1227,22 +1283,6 @@
       "duration_ms": 151403,
       "name": "Brazos River Blues",
       "url": "https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Under His Command",
-      "url": "https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1639,22 +1679,6 @@
       "duration_ms": 215933,
       "name": "Seven Hours Of Light",
       "url": "https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Train Home",
-        "url": "https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na"
-      },
-      "artists": [
-        {
-          "name": "Chris Smither",
-          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL"
     }
   ],
   "unique_name": "Acoustic Blues",

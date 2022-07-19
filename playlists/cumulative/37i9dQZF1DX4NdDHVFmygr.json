@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189566,
       "name": "3ARI",
       "url": "https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi"
+    },
+    {
+      "album": {
+        "name": "3ARI - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 162666,
+      "name": "3ARI - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN"
     },
     {
       "album": {
@@ -120,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Aayane",
+        "url": "https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Aayane",
+      "url": "https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1"
+    },
+    {
+      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5"
       },
@@ -135,7 +171,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 186858,
       "name": "Adios",
       "url": "https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g"
@@ -153,7 +189,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 138985,
       "name": "Afrokech",
       "url": "https://open.spotify.com/track/3pPvIIHgfuAPgn9nJ5xW23"
@@ -179,6 +215,24 @@
       "duration_ms": 178526,
       "name": "Ana Wiyak",
       "url": "https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5"
+    },
+    {
+      "album": {
+        "name": "Ayam",
+        "url": "https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185248,
+      "name": "Ayam",
+      "url": "https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO"
     },
     {
       "album": {
@@ -241,10 +295,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 180480,
       "name": "BABA",
       "url": "https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0627\u0642\u064a",
+        "url": "https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234382,
+      "name": "Baqi",
+      "url": "https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT"
     },
     {
       "album": {
@@ -288,6 +360,28 @@
     },
     {
       "album": {
+        "name": "ElMarocchino",
+        "url": "https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2"
+      },
+      "artists": [
+        {
+          "name": "Ali Ssamid",
+          "url": "https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G"
+        },
+        {
+          "name": "Tiiwtiiw",
+          "url": "https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Campe\u00f3nes",
+      "url": "https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ"
       },
@@ -310,6 +404,24 @@
     },
     {
       "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+    },
+    {
+      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
       },
@@ -325,6 +437,42 @@
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
+    },
+    {
+      "album": {
+        "name": "BANDANA",
+        "url": "https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "CHINWI",
+      "url": "https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR"
+    },
+    {
+      "album": {
+        "name": "BANDANA",
+        "url": "https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 221226,
+      "name": "CHINWI",
+      "url": "https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ"
     },
     {
       "album": {
@@ -350,6 +498,64 @@
     },
     {
       "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D"
+    },
+    {
+      "album": {
+        "name": "Crushi",
+        "url": "https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182963,
+      "name": "Crushi",
+      "url": "https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF"
+    },
+    {
+      "album": {
+        "name": "Daba Yhan Moulana Feat Mom",
+        "url": "https://open.spotify.com/album/6R3bqtQa9D4EnKIkFRuweA"
+      },
+      "artists": [
+        {
+          "name": "Zakaria Ghafouli",
+          "url": "https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Daba Yhan Moulana Feat Mom",
+      "url": "https://open.spotify.com/track/01W5D1N6caqRwfz348c46b"
+    },
+    {
+      "album": {
         "name": "De9at l9elb",
         "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
       },
@@ -368,6 +574,46 @@
     },
     {
       "album": {
+        "name": "Dime Porque",
+        "url": "https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Dime Porque",
+      "url": "https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1"
+    },
+    {
+      "album": {
+        "name": "Douga",
+        "url": "https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5"
+      },
+      "artists": [
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        },
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Douga",
+      "url": "https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B"
+    },
+    {
+      "album": {
         "name": "Douka",
         "url": "https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch"
       },
@@ -383,6 +629,24 @@
       "duration_ms": 192000,
       "name": "Douka",
       "url": "https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy"
+    },
+    {
+      "album": {
+        "name": "Dounya",
+        "url": "https://open.spotify.com/album/7wPcqrlsQuPXO15iysENkm"
+      },
+      "artists": [
+        {
+          "name": "othmanouilki",
+          "url": "https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dounya",
+      "url": "https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG"
     },
     {
       "album": {
@@ -423,6 +687,24 @@
       "duration_ms": 255978,
       "name": "Enty Hayaty",
       "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
+    },
+    {
+      "album": {
+        "name": "Fin Ghadia Bia",
+        "url": "https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr"
+      },
+      "artists": [
+        {
+          "name": "Rachid Goudi",
+          "url": "https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Fin Ghadia Bia",
+      "url": "https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l"
     },
     {
       "album": {
@@ -481,10 +763,32 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 195840,
       "name": "Ghadi Jay",
       "url": "https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf"
+    },
+    {
+      "album": {
+        "name": "Ghir Ntiya",
+        "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        },
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214015,
+      "name": "Ghir Ntiya",
+      "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
     },
     {
       "album": {
@@ -503,7 +807,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-12",
       "duration_ms": 244363,
       "name": "Ghorba",
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
@@ -521,7 +825,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-12",
       "duration_ms": 161632,
       "name": "Goulo Lhabibi",
       "url": "https://open.spotify.com/track/7ERaNCwzEUT8AOrFsKLWmm"
@@ -557,7 +861,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 178560,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
@@ -702,6 +1006,42 @@
     },
     {
       "album": {
+        "name": "Jabha Fraso",
+        "url": "https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859"
+      },
+      "artists": [
+        {
+          "name": "Zakaria Ghafouli",
+          "url": "https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 199636,
+      "name": "Jabha Fraso",
+      "url": "https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz"
+    },
+    {
+      "album": {
+        "name": "JRO7I",
+        "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "JRO7I",
+      "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
+    },
+    {
+      "album": {
         "name": "J\u2019en ai marre",
         "url": "https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD"
       },
@@ -720,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Kasseta",
+        "url": "https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 242000,
+      "name": "Kasseta",
+      "url": "https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw"
+    },
+    {
+      "album": {
         "name": "Khalass",
         "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
       },
@@ -731,7 +1089,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 200216,
       "name": "Khalass",
       "url": "https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun"
@@ -753,6 +1111,28 @@
       "duration_ms": 182566,
       "name": "Khalini",
       "url": "https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5"
+    },
+    {
+      "album": {
+        "name": "Khalliha",
+        "url": "https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ"
+      },
+      "artists": [
+        {
+          "name": "Rajaa Belmir",
+          "url": "https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp"
+        },
+        {
+          "name": "Omar Belmir",
+          "url": "https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176902,
+      "name": "Khalliha",
+      "url": "https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI"
     },
     {
       "album": {
@@ -785,7 +1165,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 222364,
       "name": "Kouni Liya",
       "url": "https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz"
@@ -821,7 +1201,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 198635,
       "name": "La vie",
       "url": "https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum"
@@ -865,7 +1245,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 186976,
       "name": "Lafin",
       "url": "https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw"
@@ -901,10 +1281,28 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 164736,
       "name": "Lala Mira",
       "url": "https://open.spotify.com/track/6kYAA6UTHlVyYLLtC9d2Rt"
+    },
+    {
+      "album": {
+        "name": "Lalla Laaroussa",
+        "url": "https://open.spotify.com/album/3D5kTPcdeB92udLWaLVPM9"
+      },
+      "artists": [
+        {
+          "name": "Zaynab",
+          "url": "https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Lalla Laaroussa",
+      "url": "https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV"
     },
     {
       "album": {
@@ -967,10 +1365,28 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 230637,
       "name": "Li fate",
       "url": "https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK"
+    },
+    {
+      "album": {
+        "name": "Liyam",
+        "url": "https://open.spotify.com/album/7oeL2OItTkEJylnw0ZoIRH"
+      },
+      "artists": [
+        {
+          "name": "Maria Nadim",
+          "url": "https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Liyam",
+      "url": "https://open.spotify.com/track/1n73DuRMeUFn05jNoj5eFZ"
     },
     {
       "album": {
@@ -1014,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Cagoul\u00e9",
+        "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144576,
+      "name": "Ma Jolie",
+      "url": "https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON"
+    },
+    {
+      "album": {
         "name": "Ma Nabni",
         "url": "https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO"
       },
@@ -1051,7 +1485,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 195164,
       "name": "MA VIE",
       "url": "https://open.spotify.com/track/7K6MsmYeR2atpaUcRi9Yeg"
@@ -1109,10 +1543,28 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 184800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv"
     },
     {
       "album": {
@@ -1127,10 +1579,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 183354,
       "name": "Mahmouma",
       "url": "https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP"
+    },
+    {
+      "album": {
+        "name": "Makhelaw magalou",
+        "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180763,
+      "name": "Makhelaw magalou",
+      "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
     },
     {
       "album": {
@@ -1149,7 +1619,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 198266,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4P8HPmYPNCNxqHlYMovXRv"
@@ -1232,6 +1702,24 @@
     },
     {
       "album": {
+        "name": "MUSTAHIL",
+        "url": "https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF"
+      },
+      "artists": [
+        {
+          "name": "Douzi",
+          "url": "https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MUSTAHIL",
+      "url": "https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI"
+    },
+    {
+      "album": {
         "name": "Nabra",
         "url": "https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral"
       },
@@ -1283,10 +1771,68 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 237757,
       "name": "Nari",
       "url": "https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/2EDejl89ZrQ0kZ9hXewf4d"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        },
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2F8aPLJiDwIfK0w4hH2AU2"
+    },
+    {
+      "album": {
+        "name": "Ntiya",
+        "url": "https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Ntiya",
+      "url": "https://open.spotify.com/track/3j0nwjwZKO1EArIlo6RuJN"
+    },
+    {
+      "album": {
+        "name": "Ntiya Lm3alma",
+        "url": "https://open.spotify.com/album/7qXWfxYUr4A6bUlDy41fII"
+      },
+      "artists": [
+        {
+          "name": "Aymane Serhani",
+          "url": "https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 204000,
+      "name": "Ntiya Lm3alma",
+      "url": "https://open.spotify.com/track/5IlkjrCw2DmkH8klRfa9Dt"
     },
     {
       "album": {
@@ -1312,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Oui Oui",
+        "url": "https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8"
+      },
+      "artists": [
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Oui Oui",
+      "url": "https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f"
+    },
+    {
+      "album": {
         "name": "Porfavor",
         "url": "https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs"
       },
@@ -1330,6 +1894,28 @@
     },
     {
       "album": {
+        "name": "S7aba",
+        "url": "https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        },
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 176414,
+      "name": "S7aba",
+      "url": "https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf"
+    },
+    {
+      "album": {
         "name": "Sabra",
         "url": "https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z"
       },
@@ -1341,7 +1927,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 223448,
       "name": "Sabra",
       "url": "https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS"
@@ -1359,7 +1945,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 196000,
       "name": "Sac",
       "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
@@ -1399,6 +1985,24 @@
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"
+    },
+    {
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/7DZ568lgXANTKdT8rfb7tH"
+      },
+      "artists": [
+        {
+          "name": "Chaos333",
+          "url": "https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173407,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/12HuEuSbjbaX3TgAu917gh"
     },
     {
       "album": {
@@ -1489,7 +2093,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 180333,
       "name": "Slowmo",
       "url": "https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX"
@@ -1561,7 +2165,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 169062,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx"
@@ -1586,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Walo Maliya",
+        "url": "https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210572,
+      "name": "Walo Maliya \u0648\u0627\u0644\u0648 \u0645\u0627\u0644\u064a\u0627",
+      "url": "https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F"
+    },
+    {
+      "album": {
         "name": "Warda",
         "url": "https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx"
       },
@@ -1597,7 +2219,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 205312,
       "name": "Warda",
       "url": "https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4"
@@ -1622,6 +2244,28 @@
     },
     {
       "album": {
+        "name": "Ya Bent Nass",
+        "url": "https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP"
+      },
+      "artists": [
+        {
+          "name": "Zamane",
+          "url": "https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 186923,
+      "name": "Ya Bent Nass",
+      "url": "https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl"
+    },
+    {
+      "album": {
         "name": "YA DENIA",
         "url": "https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z"
       },
@@ -1637,7 +2281,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 177882,
       "name": "YA DENIA",
       "url": "https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN"
@@ -1778,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "Zawali",
+        "url": "https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4"
+      },
+      "artists": [
+        {
+          "name": "Abdeelgha4",
+          "url": "https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182935,
+      "name": "Zawali",
+      "url": "https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP"
+    },
+    {
+      "album": {
         "name": "Ztam",
         "url": "https://open.spotify.com/album/4144sqiUaw55a7rANh9mIE"
       },
@@ -1822,6 +2484,24 @@
     },
     {
       "album": {
+        "name": "\u00c7a Y Est",
+        "url": "https://open.spotify.com/album/0tVYqwsUb9qtzBsMEYpCjB"
+      },
+      "artists": [
+        {
+          "name": "Ihab Amir",
+          "url": "https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 168600,
+      "name": "\u00c7a Y Est",
+      "url": "https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0639\u0637\u0627\u0631",
         "url": "https://open.spotify.com/album/2MbkppXbjEYc8lqoesbbbL"
       },
@@ -1837,7 +2517,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 157085,
       "name": "\u0627\u0644\u0639\u0637\u0627\u0631",
       "url": "https://open.spotify.com/track/5au1F96i52QNxPliCevyxN"
@@ -1895,7 +2575,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196842,
       "name": "\u0645\u0646\u0627\u0645\u064a",
       "url": "https://open.spotify.com/track/021nYBkotM08srtM5wfXKo"

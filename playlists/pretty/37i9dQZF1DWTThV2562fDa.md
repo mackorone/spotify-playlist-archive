@@ -1,0 +1,36 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain](/playlists/plain/37i9dQZF1DWTThV2562fDa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTThV2562fDa)
+
+### [Squid Game \(오징어게임\)](https://open.spotify.com/playlist/37i9dQZF1DWTThV2562fDa)
+
+> Enjoy the soundtracks of the Netflix original Korean drama Squid Game\. \(전세계를 강타한 넷플릭스 오리지널 한국 드라마 오징어게임의 사운드 트랙들을 즐겨보세요!\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 12,241 likes - 24 songs - 1 hr 20 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 |
+| 2 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 |
+| 3 | [Way Back Then \- Squid Game Remix](https://open.spotify.com/track/2RkXXzAPSfzmgoUtPZjV4D) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:45 |
+| 4 | [Squid Game \- acapella](https://open.spotify.com/track/2m8bm1uurVnU0lJwsahu7j) | [MayTree](https://open.spotify.com/artist/2UYUqsriy4DXV3VhrrprSs) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 1:40 |
+| 5 | [Way Back then](https://open.spotify.com/track/1QZlW9PmwtZtHKraGG1JdB) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:31 |
+| 6 | [Round I](https://open.spotify.com/track/7cfikLOoNWDkYwN4YVCuUB) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:19 |
+| 7 | [The Rope is Tied](https://open.spotify.com/track/6TCgjFvP6Zre2D3mNLV9PU) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:18 |
+| 8 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 |
+| 9 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 |
+| 10 | [I Remember My Name](https://open.spotify.com/track/65AGQ1piJE3BRpul7jEpip) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:13 |
+| 11 | [Unfolded…](https://open.spotify.com/track/73RWDtUuIAkwR2RwRYQMdw) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:38 |
+| 12 | [Needles and Dalgona](https://open.spotify.com/track/4ZcrC5jf6Sj0AiEXEEDnRz) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:44 |
+| 13 | [The Fat and the Rats](https://open.spotify.com/track/3e0nu523E37rHg73PU6meV) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:52 |
+| 14 | [It Hurts So Bad](https://open.spotify.com/track/2dpCKcTvRB9q61LOh0up04) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:13 |
+| 15 | [Delivery](https://open.spotify.com/track/3WDIomwIE9MY9LqgGoiU7h) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 4:55 |
+| 16 | [Dead End](https://open.spotify.com/track/3bfd39x1ATZ92fMj7xwEYb) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 5:24 |
+| 17 | [Round VI](https://open.spotify.com/track/7gPtBSe6QKKZCPwiPQtWwM) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 5:54 |
+| 18 | [Wife, Husband and 4.56 Billion](https://open.spotify.com/track/1SlQqmiIchmdu0dUwMP8js) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 4:26 |
+| 19 | [Murder Without Violence](https://open.spotify.com/track/4pJFFGjoHCA4g1yJOzP5Kb) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:53 |
+| 20 | [Slaughterhouse III](https://open.spotify.com/track/1EycNtgvbQfgD9SKL0oQcd) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 8:16 |
+| 21 | [Owe](https://open.spotify.com/track/2K8hDDpjySDFb9yA8tuNce) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:26 |
+| 22 | [Uh…](https://open.spotify.com/track/5PxNCkwhzYFN3Cwh4eBfS5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:38 |
+| 23 | [Dawn](https://open.spotify.com/track/3x5kegiXk53hWQiK1jraV3) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 6:41 |
+| 24 | [Let’s Go Out Tonight](https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:27 |
+
+Snapshot ID: `MTY0MzE2MTc1MCwwMDAwMDAyNzAwMDAwMTdlOTQxMjhkNzEwMDAwMDE3ZGI3NjlkMzdm`

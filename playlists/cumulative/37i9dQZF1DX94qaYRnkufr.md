@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-87 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+88 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Like I Do](https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Like I Do](https://open.spotify.com/album/5oU1ROIHS6IOWnb87GWhqU) | 3:22 | 2021-12-09 |  |
 | [Limitless](https://open.spotify.com/track/7MA8T4pKN6VeBIEGE9hggN) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Limitless](https://open.spotify.com/album/1MQrMWrG8qHRBuTWvNA68j) | 2:26 | 2022-03-31 |  |
 | [Lions in the Wild](https://open.spotify.com/track/6lBQ0SMCrJ7zy1LSCuXqwV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Lions in the Wild](https://open.spotify.com/album/2x8X4Dq12rXdQsmk41F3VV) | 3:31 | 2021-12-09 |  |
+| [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-07-14 |  |
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2021-12-09 |  |
 | [Lovin' Every Minute](https://open.spotify.com/track/1e7gC7NhFSK0lBeoLISvKz) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Lovin' Every Minute](https://open.spotify.com/album/6LLQK6JR7zVzDq5Ju2aVhh) | 2:42 | 2021-12-09 |  |
 | [Make up Your Mind](https://open.spotify.com/track/3G94lNH9BlS5a2WpfwJ1E6) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:16 | 2021-12-09 |  |

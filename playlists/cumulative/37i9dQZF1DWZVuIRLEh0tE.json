@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. Cover: Dowba Montana",
+  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. Cover: Chimbala",
   "name": "Flow Dominicano",
   "published_playlist_ids": [
     "0p7l69bBTRQySKVeTYIMy0"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 172547,
       "name": "#16 - La Ciencia",
       "url": "https://open.spotify.com/track/23DXsTihEPIlhPDZrJXx0J"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 155693,
       "name": "AZAFATA",
       "url": "https://open.spotify.com/track/6BL62CM2gSoKD4ZGr3HRbz"
@@ -458,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Delicioso",
+        "url": "https://open.spotify.com/album/4n5362Z6upMKpnBTf95Joq"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-31",
+      "duration_ms": 153999,
+      "name": "Delicioso",
+      "url": "https://open.spotify.com/track/5iWzFct1LpGzj8kIYHEoLN"
+    },
+    {
+      "album": {
         "name": "Depues De Las 3",
         "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
       },
@@ -473,6 +499,28 @@
       "duration_ms": 191460,
       "name": "Depues De Las 3",
       "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
+    },
+    {
+      "album": {
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "album": {
@@ -513,7 +561,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 160000,
       "name": "Dime",
       "url": "https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99"
@@ -557,6 +605,24 @@
       "duration_ms": 123716,
       "name": "El Coba",
       "url": "https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK"
+    },
+    {
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv"
     },
     {
       "album": {
@@ -693,6 +759,42 @@
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "album": {
+        "name": "Guanguan",
+        "url": "https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169483,
+      "name": "Guanguan",
+      "url": "https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs"
     },
     {
       "album": {
@@ -855,7 +957,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 173499,
       "name": "LASSIE",
       "url": "https://open.spotify.com/track/5LtoLKd3dyFdzENasw9Hv5"
@@ -1045,6 +1147,24 @@
       "duration_ms": 180000,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/2g00pvcrHmWPyjEsrf4UC2"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0rCznDAIbbMoXJ7rpvMut1"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 144659,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/33mgpqJmtUJgbAUsexXx92"
     },
     {
       "album": {
@@ -1373,7 +1493,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 148584,
       "name": "Perreo En Medell\u00edn",
       "url": "https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp"
@@ -1431,7 +1551,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 149629,
       "name": "Rubirosa",
       "url": "https://open.spotify.com/track/6CIgfLVT2LW7bhRMWwoWxB"
@@ -1603,6 +1723,54 @@
       "duration_ms": 164223,
       "name": "Tu Cojea",
       "url": "https://open.spotify.com/track/6drPETc7tuaelv5YsCyS0G"
+    },
+    {
+      "album": {
+        "name": "Un Uber",
+        "url": "https://open.spotify.com/album/4UtReDihY2fUNxrEfKgOMt"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127295,
+      "name": "Un Uber",
+      "url": "https://open.spotify.com/track/0kHmK20ufcy25b8NCJbURg"
+    },
+    {
+      "album": {
+        "name": "Vaina Cara",
+        "url": "https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Vaina Cara",
+      "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All of your favorite Disney hits, including songs from Encanto. Stream Disney's Encanto on Disney+.",
+  "description": "All of your favorite Disney hits, including songs from Turning Red. Stream Disney and Pixar's Turning Red on Disney+.",
   "name": "Disney Hits",
   "published_playlist_ids": [
     "636MTeCEICQctVDwXtEgUe"
@@ -99,6 +99,24 @@
       "duration_ms": 146053,
       "name": "A Girl Worth Fighting For",
       "url": "https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins",
+        "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "A Spoonful of Sugar - From \"Mary Poppins\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A"
     },
     {
       "album": {
@@ -649,7 +667,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208226,
-      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
+      "name": "Hawaiian Roller Coaster Ride",
       "url": "https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85"
     },
     {
@@ -671,7 +689,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148133,
-      "name": "He Mele No Lilo - From \"Lilo & Stitch\"/Soundtrack Version",
+      "name": "He Mele No Lilo",
       "url": "https://open.spotify.com/track/3G9ZnSjGYyHx7e221v0qse"
     },
     {
@@ -1153,6 +1171,24 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "album": {
@@ -1698,6 +1734,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Aristocats",
+        "url": "https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "The Aristocats",
+      "url": "https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE"
+    },
+    {
+      "album": {
         "name": "The Jungle Book",
         "url": "https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE"
       },
@@ -1777,6 +1831,36 @@
       "duration_ms": 145639,
       "name": "The Gospel Truth I / Main Titles - Hercules",
       "url": "https://open.spotify.com/track/0I8mZRtlFGOqZayJbEAdxL"
+    },
+    {
+      "album": {
+        "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Beaumont",
+          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
+        },
+        {
+          "name": "Edwynn",
+          "url": "https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5"
+        },
+        {
+          "name": "James Macdonald",
+          "url": "https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g"
+        },
+        {
+          "name": "Jerry Colonna",
+          "url": "https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271226,
+      "name": "The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch",
+      "url": "https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g"
     },
     {
       "album": {

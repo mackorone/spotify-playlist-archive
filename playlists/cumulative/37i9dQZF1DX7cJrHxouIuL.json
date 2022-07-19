@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Recycling Adventure",
+        "url": "https://open.spotify.com/album/3XJie4zhDqXL0bS7ewPEC8"
+      },
+      "artists": [
+        {
+          "name": "Benny Time",
+          "url": "https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242482,
+      "name": "A Little Recycling Adventure",
+      "url": "https://open.spotify.com/track/4yld7dVSxsCDWUPMyhxLYO"
+    },
+    {
+      "album": {
         "name": "Baby Beluga",
         "url": "https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1"
       },
@@ -1509,6 +1527,10 @@
         {
           "name": "Claudia Robin Gunn",
           "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        },
+        {
+          "name": "Eastcoast inspirational Singers",
+          "url": "https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC"
         }
       ],
       "date_added": "2022-04-15",

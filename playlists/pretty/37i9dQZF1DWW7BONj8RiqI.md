@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The BIGGEST tracks in Soca from all the islands, presented by Patrice Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,289 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,717 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 24 | [Fling Bam Bam](https://open.spotify.com/track/19kJGPG46e0AoKQLTurWMv) | [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Boss Level Riddim](https://open.spotify.com/album/10JM7uuHU8vIjQvkGvkQb6) | 3:02 |
 | 25 | [Ring Ding](https://open.spotify.com/track/1kzUFwXQdAC3rkEJS2Zmf0) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Ring Ding](https://open.spotify.com/album/1MBts8CQTKhPGpr7tYoLnS) | 2:52 |
 | 26 | [Up In The Party](https://open.spotify.com/track/27DPusjnPmFU2ocLC4hUlc) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Buddy Pass Riddim](https://open.spotify.com/album/4A6riOxllXc7umV09PSViF) | 2:22 |
-| 27 | [For It All](https://open.spotify.com/track/1c0M02hy4rf3DGfaRYDv1E) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [EKO](https://open.spotify.com/artist/4rrW3AXaZGkgXLUGizDSbt) | [For It All](https://open.spotify.com/album/41JtJvR4pdVVfWkDBSr6su) | 3:07 |
+| 27 | [For It All](https://open.spotify.com/track/1c0M02hy4rf3DGfaRYDv1E) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [EKO](https://open.spotify.com/artist/2kYYzFOPRggkxpP5JJ15jY) | [For It All](https://open.spotify.com/album/41JtJvR4pdVVfWkDBSr6su) | 3:07 |
 | 28 | [Jelly](https://open.spotify.com/track/006mLMXWKbv6RrHGTWpY3f) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:01 |
 | 29 | [Under Vibes](https://open.spotify.com/track/215ZmzxKM5wvA21wDROT2k) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [Dinesty King](https://open.spotify.com/artist/7kK7bhNgnXrtXjXfN7E3Z0) | [Under Vibes](https://open.spotify.com/album/5tza4qz0lu2wPRAAD1hJ4d) | 2:47 |
 | 30 | [Brass](https://open.spotify.com/track/0m3MH6inL2emHj0KtFcLyU) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Brass](https://open.spotify.com/album/4AuHzwI04u2KmaUMZb6eHK) | 3:25 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 42 | [Fete Cyah Over](https://open.spotify.com/track/1oA7q6OHpUgRyV4cjs5Syy) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Fete Cyah Over](https://open.spotify.com/album/7yMiqo1Voc33P4nTalAoag) | 2:31 |
 | 43 | [Hard on Me](https://open.spotify.com/track/2wUWtjefFvyOBS1pinhEzz) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Sun Fun Riddim](https://open.spotify.com/album/5wnW0RQc0gCpiEAKTMZ5Vd) | 2:28 |
 | 44 | [Baddie](https://open.spotify.com/track/4tlgccJjMDLc29R9qhkKdz) | [Faith Callender](https://open.spotify.com/artist/5p6XUkurST6rtnoYETb57o) | [Baddie](https://open.spotify.com/album/4zuzXBcdQc98Ftd1RC6dnL) | 3:02 |
-| 45 | [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 |
+| 45 | [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 |
 | 46 | [Special Delight](https://open.spotify.com/track/5Pm8oqFW021lbkX0EsiJG4) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Boat Cruise Riddim](https://open.spotify.com/album/2ydLKJOG6p9nszhtXJSPwD) | 2:47 |
 | 47 | [Band Parade](https://open.spotify.com/track/5SlZRyJO2SgRrRwLz48NmD) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Band Parade](https://open.spotify.com/album/6jXr4E3rxL6gXXfophsJH1) | 4:10 |
 | 48 | [Horn Back](https://open.spotify.com/track/6YfmxW3qsJ0RnJEzmIYoLO) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Horn Back](https://open.spotify.com/album/5cRFcFvjeKbLPaF4iGxSoI) | 2:32 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-16",
       "duration_ms": 165240,
       "name": "Ballin\u2019 the Jack",
       "url": "https://open.spotify.com/track/4YDnwykuaJDwmI5L3Fk8vW"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 151453,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 381960,
       "name": "Clarinet Marmalade",
       "url": "https://open.spotify.com/track/4VkDLtYQqgL7y54RPfb6hq"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Don't Go 'Way Nobody",
       "url": "https://open.spotify.com/track/4D1Lfz1sRzTgNTnkIcVpRX"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 163813,
       "name": "Everybody's Talking About Sammy",
       "url": "https://open.spotify.com/track/0woTQyH6ECqlWzeR48tUUX"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 294760,
       "name": "Hot Lips",
       "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 145841,
       "name": "Lord, Lord, Lord",
       "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 205199,
       "name": "Milenberg Joys",
       "url": "https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 223373,
       "name": "On the Square",
       "url": "https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 254885,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": "2022-07-18",
       "duration_ms": 187333,
       "name": "Saratoga Drag",
       "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 180933,
       "name": "Shreveport Stomp",
       "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": "2022-06-30",
       "duration_ms": 180706,
       "name": "The Bare Necessities",
       "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-11",
       "duration_ms": 424973,
       "name": "Tight Like This",
       "url": "https://open.spotify.com/track/0mkgfCq5dx1z1SMzaQGBKj"
@@ -1164,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Shag",
+        "url": "https://open.spotify.com/album/56TN7ssm8MVlKDGTYfgw8F"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ladnier",
+          "url": "https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 180466,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/1qsMtpIBZZXML5wnBpq6wq"
+    },
+    {
+      "album": {
         "name": "Big City Blues",
         "url": "https://open.spotify.com/album/2xuCuGJvbQxtrzt9UfUJlq"
       },
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 192933,
       "name": "When I Get You Alone Tonight",
       "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-19",
       "duration_ms": 267093,
       "name": "When You're Smiling",
       "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 173866,
       "name": "You're Gonna Lose Your Gal",
       "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"

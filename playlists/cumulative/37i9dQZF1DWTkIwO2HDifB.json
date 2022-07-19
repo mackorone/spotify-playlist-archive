@@ -1,11 +1,37 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Desenrola Bate Joga de Ladin e os funks mais \ud83d\udd11 do Brasil. Foto: L7NNON, Os Hawaianos, DJ Biel do Furduncinho, DJ Bel da CDD",
+  "description": "Pras Novinha e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Livinho, DJ Lk da Esc\u00f3cia, DJ Breno, DJ Pedrin",
   "name": "Funk Hits",
   "published_playlist_ids": [
     "2m2xgH6abY0Jl6lg6L64lU"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Ai Preto",
+        "url": "https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131583,
+      "name": "Ai Preto",
+      "url": "https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB"
+    },
     {
       "album": {
         "name": "AK47 \u00c9 o Porte do Homem",
@@ -120,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Bagulho Louco",
+        "url": "https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124238,
+      "name": "Bagulho Louco",
+      "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
+    },
+    {
+      "album": {
         "name": "Baile do Cinga do 12",
         "url": "https://open.spotify.com/album/58PrKw1nIhqRVf2FwkSRx1"
       },
@@ -139,6 +183,32 @@
       "duration_ms": 181864,
       "name": "Baile do Cinga do 12",
       "url": "https://open.spotify.com/track/2uLt06E9xCZVPFXg9v794o"
+    },
+    {
+      "album": {
+        "name": "Baile no Morro",
+        "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        },
+        {
+          "name": "Mc Vitin Da Igrejinha",
+          "url": "https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Baile no Morro",
+      "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
     },
     {
       "album": {
@@ -253,10 +323,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 118629,
       "name": "Bota a M\u00e3o no Ch\u00e3o",
       "url": "https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k"
+    },
+    {
+      "album": {
+        "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
+        "url": "https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM"
+      },
+      "artists": [
+        {
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
+      "url": "https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt"
     },
     {
       "album": {
@@ -301,7 +389,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 131604,
       "name": "Calma Bb, T\u00e1 nos Melhores Amigos",
       "url": "https://open.spotify.com/track/3Ox3DxqqRCEEVCPnENVx3g"
@@ -341,6 +429,32 @@
       "duration_ms": 192000,
       "name": "Casamento",
       "url": "https://open.spotify.com/track/0yKDJQltVxekfkwLlJHIq2"
+    },
+    {
+      "album": {
+        "name": "Casei Com a Putaria",
+        "url": "https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Casei Com a Putaria",
+      "url": "https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt"
     },
     {
       "album": {
@@ -411,7 +525,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 140307,
       "name": "Colocando Nela",
       "url": "https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn"
@@ -655,7 +769,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
@@ -724,6 +838,32 @@
     },
     {
       "album": {
+        "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+        "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
+      "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "album": {
         "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
         "url": "https://open.spotify.com/album/1hGF2T38nY17dxGWZ0e1QQ"
       },
@@ -773,6 +913,32 @@
       "duration_ms": 135732,
       "name": "Faz a Pose",
       "url": "https://open.spotify.com/track/1sTVKLLFDfAfowsG4bRBN4"
+    },
+    {
+      "album": {
+        "name": "Festa de Vagabundo",
+        "url": "https://open.spotify.com/album/6aZosl2X3F3s9WIJY7tAk7"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 171000,
+      "name": "Festa de Vagabundo",
+      "url": "https://open.spotify.com/track/4i9WKFDJP0MSl5moMbHUfm"
     },
     {
       "album": {
@@ -877,6 +1043,24 @@
       "duration_ms": 132922,
       "name": "Gostosinho Tu Cai",
       "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
+    },
+    {
+      "album": {
+        "name": "Incendeia",
+        "url": "https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Incendeia",
+      "url": "https://open.spotify.com/track/4m1mqQuy34Nzh0480VR364"
     },
     {
       "album": {
@@ -1007,7 +1191,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
@@ -1029,11 +1213,15 @@
         {
           "name": "Dj Tg Da Inestan",
           "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "MC LORIN DA ZL",
+          "url": "https://open.spotify.com/artist/24L3YrvlTuAzCPmZyiLTWS"
         }
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 155076,
       "name": "Mal Caminho",
       "url": "https://open.spotify.com/track/0bvLxd9bUAYGKkpMYdR60F"
@@ -1169,7 +1357,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 116596,
       "name": "Mtg Ta Brotando No Plant\u00e3o Pra Tira Foto Com Revolver",
       "url": "https://open.spotify.com/track/1pPuodu8A0LxAuVhf3QniW"
@@ -1221,7 +1409,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 167999,
       "name": "No Pique BBB, Tu J\u00e1 Sabe o Macete (feat. Mc Rodrigo do CN)",
       "url": "https://open.spotify.com/track/6QSc8c7gLPSpv80eoUzoZP"
@@ -1309,10 +1497,80 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 149323,
       "name": "N\u00e3o Quer Chifre",
       "url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Se Apavora",
+        "url": "https://open.spotify.com/album/5PcwVWv5ZgclW4AXaDtdxE"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 209090,
+      "name": "N\u00e3o Se Apavora",
+      "url": "https://open.spotify.com/track/3LnVW6Hzm21XEH02yw3uSV"
+    },
+    {
+      "album": {
+        "name": "O Fim \u00e9 Triste (feat. DJ BOY)",
+        "url": "https://open.spotify.com/album/42olwEoM9dmZzgs97cjdXt"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "O Fim \u00e9 Triste (feat. DJ BOY)",
+      "url": "https://open.spotify.com/track/0yDMhYTryvQoR634wDgQ1j"
+    },
+    {
+      "album": {
+        "name": "O Poder Dessa Garota",
+        "url": "https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "O Poder Dessa Garota",
+      "url": "https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud"
     },
     {
       "album": {
@@ -1339,7 +1597,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 184615,
       "name": "O Porte da 40",
       "url": "https://open.spotify.com/track/0wcAfve621R8p3sTQjjJXA"
@@ -1395,6 +1653,62 @@
       "duration_ms": 107999,
       "name": "Pegada de Malvado",
       "url": "https://open.spotify.com/track/2Ho2vEEJAZOAnpxl9GsFYR"
+    },
+    {
+      "album": {
+        "name": "Pipoco",
+        "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194022,
+      "name": "Pipoco",
+      "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+    },
+    {
+      "album": {
+        "name": "Pras Novinha (feat. DJ Pedrin)",
+        "url": "https://open.spotify.com/album/7Cp9HdYwzZ1fsS3f7K6K5U"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "DJ Breno",
+          "url": "https://open.spotify.com/artist/0MU7bIngzZFJkLksK8Hh94"
+        },
+        {
+          "name": "DJ Pedrin",
+          "url": "https://open.spotify.com/artist/4anI4492Z1ogF7JJqCiI0i"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Pras Novinha (feat. DJ Pedrin)",
+      "url": "https://open.spotify.com/track/3qHN7TSBfVQPF9ojUVT9ZT"
     },
     {
       "album": {
@@ -1503,7 +1817,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 143599,
       "name": "QUEBRA DE LADINHO e FAZ CORA\u00e7\u00e3oOZINHO",
       "url": "https://open.spotify.com/track/0qL3FhMjtyDwuBubFhRwvE"
@@ -1705,10 +2019,60 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-18",
       "duration_ms": 359999,
       "name": "Set do Dj 2W, Vol. 2",
       "url": "https://open.spotify.com/track/5i9QsbNUyVGw8n0K1Oakde"
+    },
+    {
+      "album": {
+        "name": "Set do G15 - A Revoada Come\u00e7ou",
+        "url": "https://open.spotify.com/album/7gnwZedN17Dz5A7iE7Cxxu"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC JottaP\u00ea",
+          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542000,
+      "name": "Set do G15 - A Revoada Come\u00e7ou",
+      "url": "https://open.spotify.com/track/7LdYiTZzlxsPKi8kvNXeBS"
     },
     {
       "album": {
@@ -1767,6 +2131,106 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
+    },
+    {
+      "album": {
+        "name": "SET MK 2",
+        "url": "https://open.spotify.com/album/2GmMYgx3VsZhr4VywQOIQ7"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Matheuszin DJ",
+          "url": "https://open.spotify.com/artist/3InqACcEpcWEHMTiQcwB4Y"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564705,
+      "name": "SET MK 2",
+      "url": "https://open.spotify.com/track/2s8kT1fuBVjxept8bH68Sw"
+    },
+    {
+      "album": {
+        "name": "Set Tatuap\u00e9 Conceito 2",
+        "url": "https://open.spotify.com/album/0hr5orih7lsaItxHBfFk9M"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Erik",
+          "url": "https://open.spotify.com/artist/34sEmYjj5FMamhC0iI0Tgv"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406588,
+      "name": "Set Tatuap\u00e9 Conceito 2",
+      "url": "https://open.spotify.com/track/2VbKpQWIMRelKmEy8rSCAf"
     },
     {
       "album": {
@@ -1832,6 +2296,32 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/6QForwzdHYH7DxK1DogGQ5"
+      },
+      "artists": [
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/2qPIIfZV6d1FgvCCNoLiVL"
+    },
+    {
+      "album": {
         "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
         "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
       },
@@ -1855,7 +2345,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-07",
       "duration_ms": 214270,
       "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
       "url": "https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h"
@@ -1997,7 +2487,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-21",
       "duration_ms": 300000,
       "name": "Vou de Lala",
       "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"
@@ -2019,7 +2509,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 133680,
       "name": "\u00c9 S\u00f3 Blus\u00e3o da Ecko e Bon\u00e9 da Lacoste Vs Putaria (feat. Mc Denny)",
       "url": "https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH"

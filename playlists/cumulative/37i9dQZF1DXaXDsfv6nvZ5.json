@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 181760,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 185129,
       "name": "Addicted (Acoustic)",
       "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-30",
       "duration_ms": 180435,
       "name": "Baby Powder",
       "url": "https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-09",
       "duration_ms": 185198,
       "name": "Bitch Don't Be Mad",
       "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 236640,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Brown Angel",
       "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
@@ -357,10 +357,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": "2022-06-06",
       "duration_ms": 189700,
       "name": "Comin' Outta The Rain",
       "url": "https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa"
+    },
+    {
+      "album": {
+        "name": "Sol Empowered",
+        "url": "https://open.spotify.com/album/1WwEkTUvTxhvAg624GhW62"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 250427,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/5Y0BNdiSJMGMcQK95bxm1M"
     },
     {
       "album": {
@@ -429,7 +451,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 318666,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
@@ -447,7 +469,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 210546,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T"
@@ -523,7 +545,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 242921,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
@@ -549,7 +571,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-23",
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 335731,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-15",
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
@@ -749,7 +771,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-07-01",
       "duration_ms": 184242,
       "name": "Midnight River (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
@@ -789,7 +811,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 255109,
       "name": "Need You",
       "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 265586,
       "name": "Running Outta Love (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ"
@@ -1207,7 +1229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 199789,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
@@ -1247,7 +1269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": "2022-06-17",
       "duration_ms": 304826,
       "name": "Wake Up (feat. Sa-Roc)",
       "url": "https://open.spotify.com/track/2YjUR0XRhaLa080fcd5r5t"
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 227234,
       "name": "Wake Up Everybody - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD"
@@ -1319,7 +1341,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-26",
       "duration_ms": 189185,
       "name": "With You",
       "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"

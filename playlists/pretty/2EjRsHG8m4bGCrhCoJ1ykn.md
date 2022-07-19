@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2EjRsHG8m4bGCrhCoJ1ykn.md) - [plain]
 
 > Drive happy with these upbeat bluegrass tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 19 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 224727,
       "name": "16 Shots",
       "url": "https://open.spotify.com/track/2169IKAivSUUFGcedGASXc"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 287786,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3uz5tvXgo73lxn0mtYGP2h"
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Sweet Jamaica",
+        "url": "https://open.spotify.com/album/41OfQeYG8P8heAUbTuZkqg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 172019,
+      "name": "Bruk It Down",
+      "url": "https://open.spotify.com/track/6Y7Eth6daKj80p4Ofmp6sx"
+    },
+    {
+      "album": {
         "name": "Bruk Off Yuh Back",
         "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
       },
@@ -125,7 +143,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 173465,
       "name": "Bruk Off Yuh Back",
       "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
@@ -151,7 +169,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
@@ -169,7 +187,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 191600,
       "name": "Chun-Li",
       "url": "https://open.spotify.com/track/7I9svbEdAvJrXNdruNhad4"
@@ -309,7 +327,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-17",
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": "2022-07-17",
       "duration_ms": 254306,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/3MktEQFErlU3BeJY1pFFU1"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO"
@@ -471,8 +489,8 @@
           "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         },
         {
-          "name": "Mya",
-          "url": "https://open.spotify.com/artist/3JoDRslbRb7yUqBktkRbrt"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
       "date_added": "2021-10-24",
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 199400,
       "name": "Good Form",
       "url": "https://open.spotify.com/track/5AHu27TVFUg0ANQUrFDMr0"
@@ -618,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "album": {
         "name": "In2",
         "url": "https://open.spotify.com/album/3E7xhVj2Ym5XCyS0zBlNJQ"
       },
@@ -647,7 +683,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 331066,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/7aJ5Hx4GXT1pTTrPRkeKv9"
@@ -669,7 +705,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-21",
       "duration_ms": 230600,
       "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf"
@@ -687,7 +723,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
@@ -803,7 +839,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 200841,
       "name": "Only Man She Want",
       "url": "https://open.spotify.com/track/4RbnNenA9TFNUxAdsy76xe"
@@ -821,7 +857,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 230391,
       "name": "Party Shot",
       "url": "https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7"
@@ -861,7 +897,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
@@ -879,7 +915,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": "2022-07-19",
       "duration_ms": 190119,
       "name": "Pon Di Cocky",
       "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
@@ -901,6 +937,28 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
+    },
+    {
+      "album": {
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-03",
+      "duration_ms": 205040,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
     },
     {
       "album": {
@@ -941,7 +999,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 203180,
       "name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
       "url": "https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX"
@@ -959,7 +1017,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 251026,
       "name": "She's Royal",
       "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
@@ -1131,7 +1189,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 234920,
       "name": "Switch It Up (feat. Koffee)",
       "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
@@ -1149,7 +1207,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 234760,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/0m0FYyIbSDiASOlQ64GDO5"
@@ -1189,7 +1247,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
@@ -1215,7 +1273,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
@@ -1317,7 +1375,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-10",
       "duration_ms": 205746,
       "name": "Whine Up (feat. Elephant Man) - English Version",
       "url": "https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc"
@@ -1383,7 +1441,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 162373,
       "name": "Worthless Bwoy",
       "url": "https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j"

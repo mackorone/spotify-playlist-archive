@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,864 likes - 84 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,728 likes - 84 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,120 likes - 74 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,375 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 2 | [Einklang](https://open.spotify.com/track/7x9ytTQXFqpk9Mvh4uDUX6) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 10:04 |
 | 3 | [Meditation No\. 2](https://open.spotify.com/track/5Z1HyqdD5QozNnFNZA8BMK) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 7:50 |
 | 4 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 |
-| 5 | [As the Earth Kissed the Moon](https://open.spotify.com/track/5b4oIwtQwzPP9UJMNcJXNP) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Best of Hearts of Space, No\. 1: First Flight](https://open.spotify.com/album/1bXfsd1Le6DJWoTrEA7d5i) | 3:01 |
-| 6 | [TREMBLING\#2/揺動・\#2\(トレンブリング\#2\)](https://open.spotify.com/track/0pDNtxXyRGR0BUlg2cSgPF) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [THE ENDLESS TALKING/エンドレス・トーキング](https://open.spotify.com/album/55TS7AN0dxJbQuTHdzXOta) | 5:43 |
-| 7 | [Water Copy](https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:11 |
-| 8 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
-| 9 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
+| 5 | [TREMBLING\#2/揺動・\#2\(トレンブリング\#2\)](https://open.spotify.com/track/0pDNtxXyRGR0BUlg2cSgPF) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [THE ENDLESS TALKING/エンドレス・トーキング](https://open.spotify.com/album/55TS7AN0dxJbQuTHdzXOta) | 5:43 |
+| 6 | [Water Copy](https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:11 |
+| 7 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
+| 8 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
+| 9 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
 | 10 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/6MKBoDPIN0MWin1Rj7ofNg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 2:15 |
 | 11 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 |
 | 12 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 23 | [The Stigma Of Childhood \(Kin\)](https://open.spotify.com/track/3tkinpOB2OpcA1q4P2JW3S) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Alchemy: An Index Of Possibilities \(Remastered 2003\)](https://open.spotify.com/album/5mSIlRgvPv4rmRiNVLBsYk) | 8:30 |
 | 24 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 |
 | 25 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 |
-| 26 | [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 |
+| 26 | [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Hitotsubu No Umi](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 |
 | 27 | [Deep Sea](https://open.spotify.com/track/5qvn79E2Rf5NwbgkxzQ5lo) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Silent Echo Sounds of the Universe](https://open.spotify.com/album/67WXy9ua4d9T4ZdgxDbV5J) | 6:15 |
 | 28 | [Dressing The Wound](https://open.spotify.com/track/2WuUf2pbjKDt8aZgzOdB6y) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy \(Music From The Film / Remastered\)](https://open.spotify.com/album/2Heal0ZoXnbgsKivM29wYR) | 4:11 |
 | 29 | [Ai Iro](https://open.spotify.com/track/4QjZbNMXfcTIjGLPr9gsQU) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:56 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 74 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 
-Snapshot ID: `MTY0NTAzNTY4MiwwMDAwMDAwOTAwMDAwMTdmMDNjNDdhNjEwMDAwMDE3OWZhYzE2YjI2`
+Snapshot ID: `MTY1NTIxNTM1NiwwMDAwMDAwYjAwMDAwMTgxNjI4NWZjM2UwMDAwMDE3OWZhYzE2YjI2`

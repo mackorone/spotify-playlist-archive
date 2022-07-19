@@ -1,15 +1,35 @@
 {
   "description": "Essential Alesso originals and remixes.",
-  "num_followers": 153539,
+  "num_followers": 158142,
   "original_name": "This Is Alesso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzg3MSwwMDAwMDAwMGE0NmE0Nzg3YTg1MTkyMjhmYWZjMDcyZjNiNmZhYjMw",
+  "snapshot_id": "MTY1ODE5NDM2NSwwMDAwMDAwMGUxMjExZWUwM2U5MGRmODM2NjhjMjZlMTQ0NzI2YmQ0",
   "tracks": [
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
@@ -205,27 +225,7 @@
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Midnight (feat. Liam Payne)",
         "url": "https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "REMEDY",
         "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Calling (Lose My Mind)",
         "url": "https://open.spotify.com/album/2fI3bvXQeO3ZRgHKI5MTLe"
@@ -285,10 +285,10 @@
       "url": "https://open.spotify.com/track/34NNeV9jfgNgaALgUr0u9V"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
       "artists": [
         {
@@ -296,16 +296,16 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         }
       ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
@@ -329,10 +329,10 @@
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
-        "name": "Years",
-        "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
       "artists": [
         {
@@ -340,36 +340,16 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Years",
-      "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "I Wanna Know",
-        "url": "https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Something Just Like This (Remixes)",
         "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
@@ -393,7 +373,63 @@
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "I Wanna Know",
+        "url": "https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 154031,
+      "name": "Somebody To Use",
+      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "City Of Dreams",
         "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/54ZPmGE1uOG9IYoUBSRSp7"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -437,27 +473,7 @@
       "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Sad Song (feat. TINI)",
-        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 154024,
-      "name": "Sad Song (feat. TINI)",
-      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Chasing Stars (Stripped)",
         "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
@@ -481,7 +497,47 @@
       "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Sad Song (feat. TINI)",
+        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 154024,
+      "name": "Sad Song (feat. TINI)",
+      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+        "url": "https://open.spotify.com/album/1zxmx7xohRxY2GW4qSXsKE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 328803,
+      "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+      "url": "https://open.spotify.com/track/42BybLW0zc7x7ebEfy02pZ"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "THE END",
         "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Somebody To Use",
         "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
@@ -512,28 +568,12 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 154031,
-      "name": "Somebody To Use",
-      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+      "duration_ms": 191618,
+      "name": "Somebody To Use - Toxic Mix",
+      "url": "https://open.spotify.com/track/1fU9jcKCej9LobWUT6K7Fo"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 202313,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/30EbNBBriMXKYEG54aL8nr"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/5iAfLe0T0yRIYbL2v58Mzv"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Pressure (The Remixes)",
         "url": "https://open.spotify.com/album/7CAu0Fk9xQxFCKgOBylOMM"
@@ -577,7 +617,23 @@
       "url": "https://open.spotify.com/track/582JLMTy2WCHPgKFJ4xCq7"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 202313,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/6vPJvkEuWZPcv58NnQ3dBR"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Is That For Me",
         "url": "https://open.spotify.com/album/1LtTYrAjvMjXTAo8U70eWL"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/2KwojFDebQV4J2b0JMRR5Q"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Calling (Lose My Mind)",
         "url": "https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/2M8hogIUDLzlx3ac9yTiAI"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Titanium (feat. Sia)",
         "url": "https://open.spotify.com/album/7blIKgWQs6pk2xdCzDk3gB"
@@ -661,23 +717,7 @@
       "url": "https://open.spotify.com/track/1fI5yYMJEYkAHI5YRdnikY"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Somebody To Use",
-        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 191618,
-      "name": "Somebody To Use - Toxic Mix",
-      "url": "https://open.spotify.com/track/1fU9jcKCej9LobWUT6K7Fo"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/23yCVntK9nAjsZXHqX6hGS"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/7JHdotEeGSIbtFuo4dVvsC"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
@@ -737,7 +777,7 @@
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Leave A Little Love (Club Mix)",
         "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/0R3aF3iq67sbMgqe0A4nup"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Mi Gente (with Willy William) [Alesso Remix]",
         "url": "https://open.spotify.com/album/52AwG4XGwdtoQmjuDX0Pdh"
@@ -797,23 +837,7 @@
       "url": "https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 123228,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Heroes (we could be) [The Remixes]",
         "url": "https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og"
@@ -833,7 +857,7 @@
       "url": "https://open.spotify.com/track/3wyJ90In0gjiWYgXniY4Op"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Pressure (Alesso Radio Edit)",
         "url": "https://open.spotify.com/album/1TpzXbZdjk34I5i3LnrUjp"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/4ZJjf1jKxiHTcBnF7K6TLW"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
         "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/108r6pnZHStBIktpyyps9w"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
@@ -897,7 +921,7 @@
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "A State Of Trance Year Mix 2021 (Mixed by Armin van Buuren)",
         "url": "https://open.spotify.com/album/4OaMsk8VihZmMNIx8oYdoo"
@@ -917,7 +941,7 @@
       "url": "https://open.spotify.com/track/0oGKDmrn3HQ4ih50iWD7sl"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "This Summer (Maroon 5 vs. Alesso)",
         "url": "https://open.spotify.com/album/6fdOFgB93CtMLBKusqFDdD"
@@ -937,27 +961,7 @@
       "url": "https://open.spotify.com/track/1r36CeHucX7V6tuK78Iw3Q"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Kisses",
-        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162139,
-      "name": "Get To Know Me",
-      "url": "https://open.spotify.com/track/32lyOiqQrmCUICCcBfkBeG"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "I Wanna Know (The Remixes)",
         "url": "https://open.spotify.com/album/5hJZzQwrDN0vzS5LLLafq5"
@@ -981,7 +985,67 @@
       "url": "https://open.spotify.com/track/7HwGFDbX9zC4R4fgFUZBrD"
     },
     {
-      "added_at": "2022-04-21 16:00:00",
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
+        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 299520,
+      "name": "PROGRESSO",
+      "url": "https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "Under Control (feat. Hurts)",
+        "url": "https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Under Control (feat. Hurts) - Extended Mix",
+      "url": "https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
+      "album": {
+        "name": "TIME (Alesso & Deniz Koyu Remix)",
+        "url": "https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "TIME - Alesso & Deniz Koyu Remix",
+      "url": "https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ"
+    },
+    {
+      "added_at": "2022-06-23 16:00:00",
       "album": {
         "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
         "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
@@ -1007,66 +1071,6 @@
       "duration_ms": 166875,
       "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
       "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
-        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 299520,
-      "name": "PROGRESSO",
-      "url": "https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "Under Control (feat. Hurts)",
-        "url": "https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Hurts",
-          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Under Control (feat. Hurts) - Extended Mix",
-      "url": "https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY"
-    },
-    {
-      "added_at": "2022-04-21 16:00:00",
-      "album": {
-        "name": "TIME (Alesso & Deniz Koyu Remix)",
-        "url": "https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "TIME - Alesso & Deniz Koyu Remix",
-      "url": "https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ"
     }
   ],
   "unique_name": "This Is Alesso",

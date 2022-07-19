@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 263480,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-10",
       "duration_ms": 337226,
       "name": "County Line",
       "url": "https://open.spotify.com/track/4RIneS2VuDIzSaN4WRbFLD"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-13",
       "duration_ms": 337226,
       "name": "County Line",
       "url": "https://open.spotify.com/track/4eLiCNf1Yy1ry1Kpl0KYHV"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 307026,
       "name": "Dear God (Sincerely M.O.F.)",
       "url": "https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 442106,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 211364,
       "name": "Giant of Illinois",
       "url": "https://open.spotify.com/track/5PKq3gMexDhqvHb3LsJDpK"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-13",
       "duration_ms": 269200,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
@@ -509,6 +509,24 @@
       "duration_ms": 205666,
       "name": "I Think of You",
       "url": "https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "album": {
@@ -667,7 +685,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 208773,
       "name": "Middle Names",
       "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 313826,
       "name": "Nicole",
       "url": "https://open.spotify.com/track/4N9OaYVfmzxcOOPNFyAUjV"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 286533,
       "name": "Ramshackle",
       "url": "https://open.spotify.com/track/0E2aZMFFpUexu3Tv3JWDsw"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 232550,
       "name": "Something",
       "url": "https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 265160,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": "2022-07-12",
       "duration_ms": 188480,
       "name": "Swimming Away",
       "url": "https://open.spotify.com/track/2zkPpyPeD9CS3KCuBTm1XA"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 322040,
       "name": "The Wolves (Act I and II)",
       "url": "https://open.spotify.com/track/0Tps1iVuFudov2alVP3bUF"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-18",
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
@@ -1403,6 +1421,28 @@
       "duration_ms": 266804,
       "name": "When the Day Comes",
       "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
     },
     {
       "album": {

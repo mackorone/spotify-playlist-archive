@@ -1,12 +1,12 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
-  "num_followers": 70947,
+  "num_followers": 72855,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAyOTAwMDAwMTgwNGY2ZTI1MDkwMDAwMDE4MDQ3M2NmZDNm",
+  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDAyYTAwMDAwMTgwZGZhMDM0ZjgwMDAwMDE4MDQ3M2NmZDNm",
   "tracks": [
     {
       "added_at": "2022-01-28 05:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 230386,
       "name": "Me to You",
       "url": "https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "What A Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "What A Strange Time To Be Alive",
+      "url": "https://open.spotify.com/track/0mmapJXijQcLERMo1t747B"
     },
     {
       "added_at": "2021-04-09 04:00:00",

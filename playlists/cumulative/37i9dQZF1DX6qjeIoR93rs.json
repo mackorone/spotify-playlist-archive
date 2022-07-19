@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A3MEL ESH",
+        "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
+      },
+      "artists": [
+        {
+          "name": "Ram Nafar",
+          "url": "https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F"
+        },
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "A3MEL ESH",
+      "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
+    },
+    {
+      "album": {
         "name": "Abu 3ntr",
         "url": "https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN"
       },
@@ -135,7 +157,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 210000,
       "name": "Badi Ellak",
       "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
@@ -179,7 +201,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 166421,
       "name": "BEL7AFLI",
       "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
@@ -231,7 +253,7 @@
       },
       "artists": [
         {
-          "name": "47 Soul",
+          "name": "47SOUL",
           "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
@@ -285,7 +307,7 @@
       },
       "artists": [
         {
-          "name": "47 Soul",
+          "name": "47SOUL",
           "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
@@ -339,13 +361,13 @@
       },
       "artists": [
         {
-          "name": "47 Soul",
+          "name": "47SOUL",
           "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 311506,
       "name": "Everyland",
       "url": "https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC"
@@ -417,7 +439,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
       "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
@@ -588,6 +610,24 @@
     },
     {
       "album": {
+        "name": "La Teghmizini",
+        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
+      },
+      "artists": [
+        {
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
+        }
+      ],
+      "date_added": "2021-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178912,
+      "name": "La Teghmizini",
+      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
+    },
+    {
+      "album": {
         "name": "Laween",
         "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
@@ -659,7 +699,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 317241,
       "name": "Long Live Palestine 3",
       "url": "https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r"
@@ -677,7 +717,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 238813,
       "name": "Ma Mali Shi",
       "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
@@ -779,7 +819,7 @@
       },
       "artists": [
         {
-          "name": "47 Soul",
+          "name": "47SOUL",
           "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
@@ -1273,7 +1313,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 292413,
       "name": "Yalah Yalah Ramallah",
       "url": "https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4"
@@ -1385,24 +1425,6 @@
       "duration_ms": 196008,
       "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw"
-    },
-    {
-      "album": {
-        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
-      },
-      "artists": [
-        {
-          "name": "Laith Abu Joda",
-          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
-        }
-      ],
-      "date_added": "2021-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178912,
-      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "album": {

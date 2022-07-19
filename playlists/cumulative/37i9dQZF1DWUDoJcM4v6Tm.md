@@ -2,9 +2,9 @@
 
 ### [The Wilds](https://open.spotify.com/playlist/37i9dQZF1DWUDoJcM4v6Tm)
 
-> Revel in some key gems and explore the sprawling musical landscape.
+> Explore a sprawling musical landscape.
 
-135 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+136 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 | 2021-10-08 |  |
 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2021-10-08 |  |
 | [Bonny Light Horseman](https://open.spotify.com/track/5MBogTR3yEa0gQJmH7ayQd) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 4:30 | 2021-10-08 |  |
-| [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 | 2022-01-05 |  |
+| [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 | 2022-01-05 | 2022-05-03 |
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-02-25 |  |
 | [Brutally](https://open.spotify.com/track/0f7dMajOqhBYk8MCDoZEUF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/2uvvow1EWCznj0xHPztu8M) | 3:28 | 2021-10-08 |  |
 | [Buddy](https://open.spotify.com/track/2NFO1yakzbynEDaX4njixa) | [Itasca](https://open.spotify.com/artist/38fAj11eMUqp1hTaDaLkyZ) | [Open to Chance](https://open.spotify.com/album/4FzGrd7d6vNKBMNNJtri3j) | 2:54 | 2021-10-08 |  |
@@ -69,7 +69,7 @@
 | [I Kiss The Night](https://open.spotify.com/track/32OZgcb5fo2ncH9h65Sne5) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss The Night](https://open.spotify.com/album/64lcUC0bDpim33zvkeg0VD) | 3:23 | 2022-04-13 |  |
 | [I Still Remain](https://open.spotify.com/track/4UAU42ODxTYJg1cJR0yewL) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [I Still Remain](https://open.spotify.com/album/2mcK78BpM0gg3ZVMrxOJtM) | 4:29 | 2021-10-08 |  |
 | [I Won't Run From It](https://open.spotify.com/track/7aW3SM5qFJu0IYVOWrAvRQ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/3LBRCisCaxgQjb5nwSMPgU) | 3:38 | 2021-10-08 |  |
-| [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 | 2021-10-08 |  |
+| [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 | 2021-10-08 | 2022-05-03 |
 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 | 2021-10-08 |  |
 | [In Brooklyn](https://open.spotify.com/track/2Jb4nEP0w6EtFhfRp2aiDg) | [Jess Morgan](https://open.spotify.com/artist/3sqUBL66V3rTDWwwG4XGaR) | [In Brooklyn](https://open.spotify.com/album/2fNRN3DASDB3Yn0gEYFBc3) | 3:35 | 2021-10-08 | 2022-01-06 |
 | [Is There Something in the Movies?](https://open.spotify.com/track/30Oss4XwkzQXRTlSQ0jqPq) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something in the Movies?](https://open.spotify.com/album/5uvP65mQl110ObhfVWdm01) | 3:30 | 2021-10-08 |  |
@@ -110,6 +110,7 @@
 | [Shadow in the Frame](https://open.spotify.com/track/1ZAAAOmcklGTQDrArjLBxa) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 5:16 | 2022-04-13 |  |
 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 | 2021-10-08 | 2022-01-06 |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2021-10-08 |  |
+| [Stargazer](https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Stargazer](https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl) | 3:45 | 2022-05-02 |  |
 | [Stray](https://open.spotify.com/track/0UvAkwesElQD0dCJdDtqbG) | [Alessi's Ark](https://open.spotify.com/artist/6XfS2HuVcetcK1aN5QufKg) | [Love Is the Currency](https://open.spotify.com/album/29zj8Yro85F7p7PwV867yt) | 3:40 | 2021-10-08 |  |
 | [symbol](https://open.spotify.com/track/6oMFMSfLIvRWKA1WEfIEXn) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [symbol](https://open.spotify.com/album/6mQFEGwUg89NUNxGYHT3mE) | 3:49 | 2021-10-08 |  |
 | [The Eye](https://open.spotify.com/track/7ban1bFTZM96OVmKKmZqQw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:18 | 2022-02-25 |  |

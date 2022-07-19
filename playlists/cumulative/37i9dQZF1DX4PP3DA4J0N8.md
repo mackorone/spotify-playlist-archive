@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and jungle ambience.
 
-132 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3l15CqJzr2gc74aGCbMkFu)
+135 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3l15CqJzr2gc74aGCbMkFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,15 @@
 | [A Day At The Beach](https://open.spotify.com/track/3eqhRuaifkjQcgMmuTedxJ) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Waves](https://open.spotify.com/album/3VIo7FqeD57ohtsXtmfuvu) | 2:19 | 2022-03-25 |  |
 | [A Light Rain in the Forest](https://open.spotify.com/track/1VziY74dN3pwB0qgiNyr55) | [Spa, Relaxation and Dreams](https://open.spotify.com/artist/2Kb4gv8jSstDI7ygRhenuC), [Spa Zen](https://open.spotify.com/artist/27JV8QxNQaCoW0aWP0jhQU), [Rain Sounds Nature Collection](https://open.spotify.com/artist/5cL7VO0XEyVE16PDCrkZ5V), [Rain Sounds & Nature Sounds](https://open.spotify.com/artist/6iXkYoGPVt29DWdlnDJfHi) | [Rain Drop Medley of Roof, Thunder, Forest, Car, and More \(Loopable Audio for Insomnia, Meditation, and Restless Children\)](https://open.spotify.com/album/4Ua47tJkbibefjsym64PZG) | 0:48 | 2022-03-25 | 2022-04-29 |
 | [A Walk in the Country](https://open.spotify.com/track/4XgSBvtZjKvFIAE3r4B49p) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Forest Sounds of Relaxation](https://open.spotify.com/album/1l30XEyglzmyIh2ex9n6C3) | 3:19 | 2022-03-25 | 2022-04-29 |
-| [Agua De Playa](https://open.spotify.com/track/5h1MJISxaTvTRYP1sMNl6C) | [Olas Glaciares](https://open.spotify.com/artist/0J9Whb1aS7peILZ3faOiMj) | [Agua De Playa](https://open.spotify.com/album/4cw4d0MjRb0WYcsuKcKSIj) | 1:15 | 2022-03-25 |  |
+| [Agua De Playa](https://open.spotify.com/track/5h1MJISxaTvTRYP1sMNl6C) | [Olas Glaciares](https://open.spotify.com/artist/0J9Whb1aS7peILZ3faOiMj) | [Agua De Playa](https://open.spotify.com/album/4cw4d0MjRb0WYcsuKcKSIj) | 1:15 | 2022-03-25 | 2022-07-05 |
+| [Amazon Rain](https://open.spotify.com/track/416OmlQ43aOViS4Hum4KRd) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Under the Acacia Tree](https://open.spotify.com/album/2Ga4V14nlEEAkv7rzQbnqM) | 3:28 | 2022-07-04 |  |
 | [Ambient Woods](https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Forest Sounds For Relaxation](https://open.spotify.com/album/03M9bEN52lhF5BHCbrml7D) | 2:08 | 2022-03-25 |  |
 | [Amour D'oiseau](https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle) | [La Nature](https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT) | [Amour D'oiseau](https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW) | 2:22 | 2022-04-29 |  |
+| [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 | 2022-07-04 |  |
 | [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 | 2022-03-25 |  |
 | [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 | 2022-03-25 |  |
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-03-25 |  |
-| [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 | 2022-03-25 |  |
+| [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 | 2022-03-25 | 2022-07-05 |
 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 | 2022-03-25 |  |
 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 | 2022-03-25 |  |
 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 | 2022-03-25 |  |
@@ -127,6 +129,7 @@
 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 | 2022-03-25 |  |
 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 | 2022-03-25 |  |
 | [Taking Cover From Rain](https://open.spotify.com/track/4h7CjznZSWhWp7hgotMUjM) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [precip](https://open.spotify.com/album/2wmOEwDHDcPHuSkJM7NDcp) | 2:35 | 2022-03-25 |  |
+| [Tempête profonde](https://open.spotify.com/track/1mSKUbvJG5Gmde0Kh9RDeQ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:58 | 2022-07-04 |  |
 | [The Cuckoo by the Lagoon](https://open.spotify.com/track/6jwd9j7uqU3uo7VQTEgxZQ) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:09 | 2022-03-25 |  |
 | [The Singing Birds](https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:32 | 2022-03-25 |  |
 | [Thundershowers](https://open.spotify.com/track/3A0SqSPthn9oXan3S0mlHz) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Heavenly Thunders](https://open.spotify.com/album/7olIjrUJ2u5QomIJUcFGr2) | 2:38 | 2022-03-25 |  |

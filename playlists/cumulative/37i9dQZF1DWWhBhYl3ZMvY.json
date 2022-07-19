@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78200,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo"
+    },
+    {
+      "album": {
         "name": "Bitch Better Have My Money",
         "url": "https://open.spotify.com/album/0L6tzOdcRwb82xMBZ3WZyi"
       },
@@ -63,6 +81,28 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/5lnsCyEKWofnC00U4Ax0ti"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/5pvFhFt1nzE8sCbm1wjNRv"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Break It Off",
+      "url": "https://open.spotify.com/track/2osdbXkJFUwPBLiZ4gRaEv"
     },
     {
       "album": {
@@ -313,7 +353,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 146906,
       "name": "Lemon - Edit",
       "url": "https://open.spotify.com/track/2LKlHBPHxLG5ArAXfF148n"
@@ -744,7 +784,25 @@
     },
     {
       "album": {
-        "name": "This Is What You Came For (feat. Rihanna)",
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
+    },
+    {
+      "album": {
+        "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
       "artists": [
@@ -761,7 +819,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222160,
-      "name": "This Is What You Came For (feat. Rihanna)",
+      "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {

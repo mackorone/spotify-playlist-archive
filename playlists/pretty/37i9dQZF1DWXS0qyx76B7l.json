@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112067,
+  "num_followers": 111938,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2NzUwNywwMDAwMDAwMGJhY2VlMjhhMWNhNmFkNjBjOTUxZDUyN2JjZDg0OGVk",
+  "snapshot_id": "MTY1ODE5MzQ3NSwwMDAwMDAwMDgwMzEwYjhhOTJkYzgzMWE1NTgyOGNiYTUzNTY5ZWFm",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -95,6 +95,38 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 307935,
+      "name": "New York State Of Mind - Live at Radio City Music Hall",
+      "url": "https://open.spotify.com/track/568D7SvOegMcWCea0pBmoM"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Tenth Avenue Freeze-Out",
+      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Patrick Droney",
         "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
       },
@@ -111,18 +143,290 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "To Be Continued...",
-        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/3CVnxmcJy6gCrkh6lFY0fm"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/6JjolFyybFZwkyv88n8eyM"
+      "duration_ms": 321160,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/69KbGS9OVFmCxeR3hEZj1h"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Say Hello To The Angels/NYC",
+        "url": "https://open.spotify.com/album/5HlIe9kFaslS0iFZXTOYGo"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/5XFlAeJ8V0tPcDzwlKeqKM"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Fall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Zk9QQDtNjL1SV8GnA12SR"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Back To Manhattan",
+      "url": "https://open.spotify.com/track/3G56sKt5UjxO9GhohRQqCW"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5FBaWYaoA8j260ctveOa4a"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Big Freeze",
+        "url": "https://open.spotify.com/album/7unXiwafDHQziqHxKg3xd1"
+      },
+      "artists": [
+        {
+          "name": "Laura Stevenson",
+          "url": "https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Living Room, NY",
+      "url": "https://open.spotify.com/track/06gM89NFOONFE0pzW6rRRV"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Essential Bob Dylan",
+        "url": "https://open.spotify.com/album/2FfFQlRgh841SHCLikuZsC"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/3laR7U9SoYE9C6227MlX78"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 347866,
+      "name": "City Of Blinding Lights",
+      "url": "https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "Subway Train",
+      "url": "https://open.spotify.com/track/3utG7uK9ERDILMsIQwJRHb"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/5LSVsetFxZ1Chl4iL05wAz"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "Nights On Broadway",
+      "url": "https://open.spotify.com/track/3TdyvDezYbn1AcbYjcAzhl"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Brooklyn In The Summer",
+        "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 208214,
+      "name": "Brooklyn In The Summer",
+      "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Never Let Me Down [(Remaster) [Japanese Version]]",
+        "url": "https://open.spotify.com/album/2cAFLatSCTT698ZTtEa90U"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "New York's in Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3YcTIsCP4dmLWID1RdCI7s"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 351640,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Talkin' New York",
+      "url": "https://open.spotify.com/track/1X6dRpq3Wi6Jxthi8ZBBBz"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "New York at Night",
+      "url": "https://open.spotify.com/track/1AETvuSzlhLT7uasHHmGvI"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -147,354 +451,50 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC"
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201883,
+      "duration_ms": 154960,
       "name": "New York",
-      "url": "https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys"
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
     },
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/0P609GWfPgTEXLS5wT9h9o"
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Empire State",
-      "url": "https://open.spotify.com/track/14Ik7H3GwZ8AYmkyI3HbLy"
+      "duration_ms": 442866,
+      "name": "Living For The City",
+      "url": "https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr"
     },
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Chelsea Morning",
-      "url": "https://open.spotify.com/track/5G0q5jtbxFCoqfbIDCIGky"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Never Let Me Down [(Remaster) [Japanese Version]]",
-        "url": "https://open.spotify.com/album/2cAFLatSCTT698ZTtEa90U"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "New York's in Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3YcTIsCP4dmLWID1RdCI7s"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Big Freeze",
-        "url": "https://open.spotify.com/album/7unXiwafDHQziqHxKg3xd1"
-      },
-      "artists": [
-        {
-          "name": "Laura Stevenson",
-          "url": "https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Living Room, NY",
-      "url": "https://open.spotify.com/track/06gM89NFOONFE0pzW6rRRV"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 347866,
-      "name": "City Of Blinding Lights",
-      "url": "https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Garland Touch",
-        "url": "https://open.spotify.com/album/1fxj2OGZwOZmpersPPISgT"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/1jCXTO9WKHGrHHP021uY5i"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5FBaWYaoA8j260ctveOa4a"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Photo Album",
-        "url": "https://open.spotify.com/album/60Rnz307ETOWHn6LWlKMrK"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Coney Island",
-      "url": "https://open.spotify.com/track/4Yo5ugCS9WjFBu5HhBpcBk"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 307935,
-      "name": "New York State Of Mind - Live at Radio City Music Hall",
-      "url": "https://open.spotify.com/track/568D7SvOegMcWCea0pBmoM"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Bleecker Street",
-      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "New York at Night",
-      "url": "https://open.spotify.com/track/1AETvuSzlhLT7uasHHmGvI"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Piazza, New York Catcher",
-      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 274360,
-      "name": "New York City - Remastered 2010",
-      "url": "https://open.spotify.com/track/65U99sfxmQhVSybLf7uJDH"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Fall (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Zk9QQDtNjL1SV8GnA12SR"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 247520,
-      "name": "Back To Manhattan",
-      "url": "https://open.spotify.com/track/3G56sKt5UjxO9GhohRQqCW"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Talkin' New York",
-      "url": "https://open.spotify.com/track/1X6dRpq3Wi6Jxthi8ZBBBz"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+      "duration_ms": 298533,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/6JjolFyybFZwkyv88n8eyM"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -515,274 +515,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Harlem River Blues",
-        "url": "https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "One More Night In Brooklyn",
-      "url": "https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Tenth Avenue Freeze-Out",
-      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "I Love New York",
-      "url": "https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 311626,
-      "name": "Tompkins Square Park",
-      "url": "https://open.spotify.com/track/5DmWOVaWBbIWKQnk6bMdwu"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Essential Bob Dylan",
-        "url": "https://open.spotify.com/album/2FfFQlRgh841SHCLikuZsC"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Positively 4th Street",
-      "url": "https://open.spotify.com/track/3laR7U9SoYE9C6227MlX78"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "The Originals",
-        "url": "https://open.spotify.com/album/7bkb6zpFhVVSp1VrG1Zil8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "The Girl From New York City",
-      "url": "https://open.spotify.com/track/5u6s6dAhJYJcFljcT6UwSZ"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Step Back In Time: The Definitive Collection (Expanded)",
-        "url": "https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/42sE0cMOBZOgcwQrmKrqy3"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Say Hello To The Angels/NYC",
-        "url": "https://open.spotify.com/album/5HlIe9kFaslS0iFZXTOYGo"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/5XFlAeJ8V0tPcDzwlKeqKM"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/3CH8M5lB931faZDzjCTfVW"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/5LSVsetFxZ1Chl4iL05wAz"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "Nights On Broadway",
-      "url": "https://open.spotify.com/track/3TdyvDezYbn1AcbYjcAzhl"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Rocket to Russia",
-        "url": "https://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126653,
-      "name": "Rockaway Beach - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3Mgc6hFpByowXDImggLF8S"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 359133,
-      "name": "All the Critics Love U in New York",
-      "url": "https://open.spotify.com/track/2k96E0L0SY9raNEVMBqbVL"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/0R9IY9LOH0uP2ibtPjfut5"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Downtown - 64 Original Release With Petula Clark",
-      "url": "https://open.spotify.com/track/5ixPfNV1Sx1HCuxdmBnbmE"
+      "duration_ms": 204226,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -803,18 +547,286 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Camp",
-        "url": "https://open.spotify.com/album/5J01uRrQTfuquNjQ5w3jUp"
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 318786,
-      "name": "LES",
-      "url": "https://open.spotify.com/track/4j24vueYbcYbsqkRD37kM5"
+      "duration_ms": 245560,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Piazza, New York Catcher",
+      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 359133,
+      "name": "All the Critics Love U in New York",
+      "url": "https://open.spotify.com/track/2k96E0L0SY9raNEVMBqbVL"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Photo Album",
+        "url": "https://open.spotify.com/album/60Rnz307ETOWHn6LWlKMrK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/4Yo5ugCS9WjFBu5HhBpcBk"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "New York, I Love You but You're Bringing Me Down",
+      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "I Love New York",
+      "url": "https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Rocket to Russia",
+        "url": "https://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126653,
+      "name": "Rockaway Beach - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3Mgc6hFpByowXDImggLF8S"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 337400,
+      "name": "6th Avenue Heartache",
+      "url": "https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Garland Touch",
+        "url": "https://open.spotify.com/album/1fxj2OGZwOZmpersPPISgT"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/1jCXTO9WKHGrHHP021uY5i"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/44XrucPOtjwz62JNg1udpH"
+      },
+      "artists": [
+        {
+          "name": "Merv Griffin",
+          "url": "https://open.spotify.com/artist/3Gul9YJiH5cPauKRIMYo3p"
+        },
+        {
+          "name": "Freddy Martin & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y4Uq2iVYJpOfvERQ1siqO"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/3HOcnlmtmFhXvmkv48qHs1"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Harlem River Blues",
+        "url": "https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "One More Night In Brooklyn",
+      "url": "https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/0R9IY9LOH0uP2ibtPjfut5"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Downtown - 64 Original Release With Petula Clark",
+      "url": "https://open.spotify.com/track/5ixPfNV1Sx1HCuxdmBnbmE"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Tryin' To Get The Feeling",
+        "url": "https://open.spotify.com/album/4vjtUQKNvFUftabjdTONcJ"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "New York City Rhythm",
+      "url": "https://open.spotify.com/track/6VjbV77jF8A05lJ7ZDSbme"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Manhattan (feat. Marc E. Bassy & Skizzy Mars)",
+        "url": "https://open.spotify.com/album/1t6SyCObuL3Crpi7MonB1v"
+      },
+      "artists": [
+        {
+          "name": "Keenan",
+          "url": "https://open.spotify.com/artist/1xQwlpsU0vjTXIq2kT4ZVT"
+        },
+        {
+          "name": "Skizzy Mars",
+          "url": "https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 211479,
+      "name": "Manhattan (feat. Marc E. Bassy & Skizzy Mars)",
+      "url": "https://open.spotify.com/track/33pXpH7VVUVGET3ui4CI4T"
     }
   ],
   "unique_name": "I Love NYC",

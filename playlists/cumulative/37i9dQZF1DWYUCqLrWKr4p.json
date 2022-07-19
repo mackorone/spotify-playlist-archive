@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Presenting Rosie & the Originals",
+        "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
       },
@@ -1223,6 +1241,28 @@
       "duration_ms": 197640,
       "name": "Words",
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
     },
     {
       "album": {

@@ -1,63 +1,31 @@
 {
-  "description": "Os grandes artistas da MPB. Foto: Elza Soares",
-  "num_followers": 1211084,
+  "description": "Os grandes artistas da MPB. Foto: Gilberto Gil",
+  "num_followers": 1216957,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDU5NjQwMCwwMDAwMDA3ZjAwMDAwMTgwNGYzNjRjMzMwMDAwMDE4MDRkNWVlZjQw",
+  "snapshot_id": "MTY1NjA5NzY1NCwwMDAwMDA4MDAwMDAwMTgxOTcxY2M3YjQwMDAwMDE4MTk3MWMxZGM1",
   "tracks": [
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
-        "name": "Meu Guri",
-        "url": "https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR"
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
       "artists": [
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 184784,
-      "name": "Meu Guri",
-      "url": "https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks"
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
-    },
-    {
-      "added_at": "2022-04-22 03:00:00",
-      "album": {
-        "name": "Solo Contigo (ao Vivo) - Deluxe Edition",
-        "url": "https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 241112,
-      "name": "Dia Branco - Ao Vivo | Bonus Track",
-      "url": "https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV"
-    },
-    {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
@@ -73,7 +41,7 @@
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "A Voz e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
@@ -89,7 +57,39 @@
       "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
+      "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2022-06-24 19:07:34",
+      "album": {
+        "name": "Solo Contigo (ao Vivo) - Deluxe Edition",
+        "url": "https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 241112,
+      "name": "Dia Branco - Ao Vivo | Bonus Track",
+      "url": "https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV"
+    },
+    {
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "francisco forr\u00f3 y frevo",
         "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
+      "album": {
+        "name": "Meu Guri",
+        "url": "https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 184784,
+      "name": "Meu Guri",
+      "url": "https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks"
+    },
+    {
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Eu Tamb\u00e9m Quero Beijar / A Lua e o Mar",
         "url": "https://open.spotify.com/album/6DSaEClssEB5gUtlcNzdn7"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/0JdiACPzhOZ5nuFJG2Rzlb"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Do C\u00f3ccix At\u00e9 o Pesco\u00e7o",
         "url": "https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Lenine In Cit\u00e9 (Deluxe)",
         "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Rosa Morena",
         "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Li\u00e7\u00e3o de Vida",
         "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Estudando o samba",
         "url": "https://open.spotify.com/album/2jOgajtpXNsinBpwg2dUjH"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/1brWhQEoBoT9tMnNfcRsjr"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Chico Buarque Essencial (Box)",
         "url": "https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Elis (Remastered)",
         "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Mal\u00e1sia",
         "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Dr\u00e3o",
         "url": "https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Unplugged (Ao vivo)",
         "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "A Pele do Futuro Ao Vivo",
         "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "L\u00e1bios Que Beijei",
         "url": "https://open.spotify.com/album/1wUzUUx7Uush6TxCnkp0AS"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Racional (Vol 1)",
         "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Carnav\u00e1lia (Ao Vivo)",
         "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Caravanas Ao Vivo",
         "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Andar Com F\u00e9",
         "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "A Festa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Comportamento Geral",
         "url": "https://open.spotify.com/album/2ib5w9jcfV7rMAlSaOH9L7"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/43vOrjFnTEPs4hlj5UbJsM"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Lenine Em Tr\u00e2nsito (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5EHQLnxvoHKMdra4rttorN"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "O Que \u00c9 Que H\u00e1",
         "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Se Eu Quiser Falar Com Deus",
         "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Aos Vivos",
         "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "P\u00e1ssaro Proibido",
         "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Os Primeiros Anos",
         "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Cores, Nomes",
         "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
         "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Constru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Corra e Olhe o C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/79DPA9Kvc8oVkSQCqt8rSV"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/2Ug8FA6W5k7ZcXDgi7AmZE"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Estratosf\u00e9rica Ao Vivo",
         "url": "https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Nana, Tom, Vinicius",
         "url": "https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "O Segundo Sol: Turn\u00ea Jardim-Pomar (Ao Vivo em Porto Alegre)",
         "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Marisa Monte",
         "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Dois Amigos, um S\u00e9culo de M\u00fasica (Ao Vivo)",
         "url": "https://open.spotify.com/album/0I5NIYMVsflEVgFfdNXPiW"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2RcUIu5JZIlCgWidugtvfV"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Vidas Pra Contar",
         "url": "https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "City of God",
         "url": "https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU"
@@ -1085,23 +1101,7 @@
       "url": "https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
-      "album": {
-        "name": "Refavela",
-        "url": "https://open.spotify.com/album/2QmenFT2EBo5qMuh0mEeB5"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 239877,
-      "name": "Refavela",
-      "url": "https://open.spotify.com/track/5LDlVW9r05U87BBgXKvoUW"
-    },
-    {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Trinta",
         "url": "https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Exagerado 3.0 - Single",
         "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Ana Rita Joana Iracema Carolina",
         "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Ex-Amor",
         "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Especial Ivete, Gil E Caetano",
         "url": "https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc"
@@ -1241,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Aquarela",
         "url": "https://open.spotify.com/album/4mlIaAkjf82LrzAw4Ez1vl"
@@ -1257,7 +1257,7 @@
       "url": "https://open.spotify.com/track/4LhxdvP3lfgH3ciOyO1BX1"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Nova Bis - Ivan Lins",
         "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
@@ -1273,7 +1273,7 @@
       "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
         "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Samba Meu",
         "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Que Beleza",
         "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Estado de Poesia (Ao Vivo) (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Antologia Acustica - Vol. 1",
         "url": "https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G"
@@ -1421,7 +1421,7 @@
       "url": "https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
@@ -1441,7 +1441,7 @@
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
@@ -1457,7 +1457,7 @@
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
@@ -1473,7 +1473,7 @@
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
@@ -1513,7 +1513,7 @@
       "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "For\u00e7a Bruta (1970)",
         "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
@@ -1529,7 +1529,7 @@
       "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
     },
     {
-      "added_at": "2022-04-22 03:00:00",
+      "added_at": "2022-06-24 19:07:34",
       "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"

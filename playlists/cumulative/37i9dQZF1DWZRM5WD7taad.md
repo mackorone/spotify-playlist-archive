@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Foto Aida Rojo, Aidy Dee
 
-90 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+93 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Confleis \(No Soy Santa\)](https://open.spotify.com/track/55SDauaBnxY86XsVfztdCU) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Confleis \(No Soy Santa\)](https://open.spotify.com/album/4yNqZUf4BwhDoDz6yIhkzP) | 2:03 | 2021-12-13 |  |
 | [Cuánto Tienes, Cuánto Vales](https://open.spotify.com/track/6jJFu4CTv2pA9esFRVJXce) | [Jezzy P](https://open.spotify.com/artist/2hRGPSlRUReuHtM0Cx0R7W), [DJ Sonicko](https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH) | [Rabiografía](https://open.spotify.com/album/2DtGzCXMVIPkKdzbB4h0Gx) | 3:33 | 2021-12-13 |  |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 |  |
+| [Desert Niñas](https://open.spotify.com/track/4Fyd2PkpGorYbgcMmgAONh) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Aida Rojo](https://open.spotify.com/artist/6UWkI7vTvVxm414XiKR8F7), [Aidy Dee](https://open.spotify.com/artist/4tMJnV74U5Wa51DZk91Nvz) | [Desert Niñas](https://open.spotify.com/album/3FabWVh5C4jaEtJAZa7gjR) | 2:41 | 2022-06-17 |  |
 | [Desértico](https://open.spotify.com/track/6p8qaRzcAGpkaeJ0S2dawv) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Banzai](https://open.spotify.com/album/6MECZ5zdS2PN0qEjS7uR6a) | 3:41 | 2021-12-13 |  |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2021-12-13 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/5qJ2xUNWrQiNETr0gS20IU) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y) | [Florecer](https://open.spotify.com/album/4No47iGe2xTVqiLQgRG5GJ) | 4:03 | 2022-04-18 |  |
@@ -36,6 +37,7 @@
 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 | 2022-04-14 |  |
 | [Espacio](https://open.spotify.com/track/63FlJhCXIrBRvw93XKsbyn) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/4e2aY5NFttjRbJHCg3gNSs) | 3:37 | 2021-12-13 |  |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 |  |
+| [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 |  |
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 | 2021-12-13 |  |
@@ -55,6 +57,7 @@
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 |  |
 | [Me Tienes](https://open.spotify.com/track/3aokDvEvVPaBPzb5FdcpuA) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Me Tienes](https://open.spotify.com/album/0gvRHSGZpOwrkZeytgQxAF) | 3:12 | 2021-12-13 | 2022-02-10 |
 | [Me Voy](https://open.spotify.com/track/5vx06yKyMpmgLfTeq7vv9K) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Jess Puente](https://open.spotify.com/artist/7A5Nk3dHjJheI5Zga7fSE6), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Me Voy](https://open.spotify.com/album/6JeUFhsLRJtKOLG5qQEHbJ) | 3:25 | 2021-12-13 |  |
+| [Merch](https://open.spotify.com/track/3eHQUipnS6lCIWRhKa8Fs3) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Multi](https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR) | [Merch](https://open.spotify.com/album/5NexntZMObc9laiYBG8s48) | 2:35 | 2022-06-27 |  |
 | [Mexico](https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mexico](https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M) | 2:41 | 2021-12-13 | 2022-03-09 |
 | [Mezcal](https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mezcal](https://open.spotify.com/album/4pcAzYQ2pQWtDTg4Q9tfkh) | 3:14 | 2021-12-13 |  |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
@@ -94,7 +97,7 @@
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 |  |
 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-17 |  |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-12-13 |  |
-| [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [Femigangsta](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 | 2021-12-13 |  |
+| [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 | 2021-12-13 |  |
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 |  |
 | [ZAZA](https://open.spotify.com/track/66RGE8Et3bZadgVbSbJ0vX) | [Red 6xteen](https://open.spotify.com/artist/0CBib0Hd5BqqwNdwUzNPyk) | [ZAZA](https://open.spotify.com/album/39lEOuKAujltMiZ2QcguWj) | 2:33 | 2021-12-13 |  |
 | [¿Qué Pasó?](https://open.spotify.com/track/0fT5Z1yon9HQbvO8Rc9bce) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [¿Qué Pasó?](https://open.spotify.com/album/30dn71E64gblVEnseumlgK) | 2:20 | 2021-12-13 |  |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 203245,
       "name": "3 A.M. Eternal",
       "url": "https://open.spotify.com/track/4EO7E6OTT3FvYt8ORWLuSH"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 202160,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4QJL22Z5At5eGHJsqMpuHd"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-15",
       "duration_ms": 289826,
       "name": "Anthem - The Mafia Mix",
       "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-06-16",
       "duration_ms": 202986,
       "name": "Beat Dis",
       "url": "https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 344013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Joey Negro presents In The Beginning",
+        "url": "https://open.spotify.com/album/6mATBsGFVNnWDjPOumc5SQ"
+      },
+      "artists": [
+        {
+          "name": "Cookie",
+          "url": "https://open.spotify.com/artist/0icyF9w1OWxkYz3OUJZRIz"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 394840,
+      "name": "Choose Me - Original Mix",
+      "url": "https://open.spotify.com/track/69KjJWve7r9OgBJTRNWcXD"
+    },
+    {
+      "album": {
         "name": "Club Hi-Bias - Climax",
         "url": "https://open.spotify.com/album/2TmtUhEWBpvt6F0X3sxvMN"
       },
@@ -157,7 +175,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-19",
       "duration_ms": 246091,
       "name": "Closer Than Close - Mentor UK Mix",
       "url": "https://open.spotify.com/track/3QXB6skc1Qjad5J5yPLlCJ"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": "2022-07-08",
       "duration_ms": 482445,
       "name": "Do You Want Me Baby - Original Club Mix",
       "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-06-15",
       "duration_ms": 226666,
       "name": "Doctorin' the House (feat. Yazz & The Plastic Population)",
       "url": "https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8"
@@ -317,7 +335,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-17",
       "duration_ms": 375693,
       "name": "Ebeneezar Goode - Beatmasters Mix",
       "url": "https://open.spotify.com/track/4KpJWjfmodlhM6XQeoZXBd"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 313813,
       "name": "Everybody (All over the World) - Dance Version",
       "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
@@ -377,7 +395,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 320374,
-      "name": "Everybody Everybody - Le Freak Mix",
+      "name": "Everybody Everybody (Le Freak Mix)",
       "url": "https://open.spotify.com/track/7aqab3VQOMuUNNLI7pL8EJ"
     },
     {
@@ -411,7 +429,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 196293,
       "name": "Finally",
       "url": "https://open.spotify.com/track/4kYHN7CfG0asKuOwirbhpV"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-07-19",
       "duration_ms": 384000,
       "name": "Follow Me - Club Mix",
       "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 344280,
       "name": "Free To Be",
       "url": "https://open.spotify.com/track/4wQIgzypY46LU0f5mdRDbL"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 591733,
       "name": "French Kiss - The Original Underground Mix",
       "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 447360,
       "name": "Get Real - Happy House Mix",
       "url": "https://open.spotify.com/track/64L8eFLt45YKReQwsTrwyn"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-07",
       "duration_ms": 292133,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/6bffIIXobbLTKnGyJZwCNL"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-05",
       "duration_ms": 270826,
       "name": "Hey Music Lover",
       "url": "https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-19",
       "duration_ms": 368013,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/4vtjZsfq7ULBgSHmOxREMs"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-16",
       "duration_ms": 361773,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/1prIOSwd4PBE6rQEJ52vin"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-07",
       "duration_ms": 323210,
       "name": "I've Been Watching You - Victor and Satoshi Mix",
       "url": "https://open.spotify.com/track/1byNaBKr0rTtCD08nXL9T9"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-06-19",
       "duration_ms": 391360,
       "name": "In & Out of My Life (Knee Deep Vocal)",
       "url": "https://open.spotify.com/track/4Foka1AEAx62AqDeqpZZpd"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-17",
       "duration_ms": 253038,
       "name": "In the Heat of the Night - Vocal Mix",
       "url": "https://open.spotify.com/track/368Ib0dBwEvKOZJsHOIGwj"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-07",
       "duration_ms": 213173,
       "name": "Inner-Groove - Club",
       "url": "https://open.spotify.com/track/2M0lHCaWCqnNNpR9XKnTxt"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 306231,
       "name": "Jack Your Body - 1986 Club Mix",
       "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-15",
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 370368,
       "name": "Let The Freak",
       "url": "https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-08",
       "duration_ms": 516533,
       "name": "Love Come Down - Club Vocal Mix",
       "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 469980,
       "name": "Love Commandments - Vocal Edit",
       "url": "https://open.spotify.com/track/3KJ8vCkG1wmm3JudilTFOx"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 249533,
       "name": "Missing - Todd Terry Club Mix / US Radio Edit",
       "url": "https://open.spotify.com/track/36sL3KPEfXIp5KH3tDO7oo"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": "2022-07-18",
       "duration_ms": 402640,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/4oWMQLRoOJambXWSURXSHI"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 447466,
       "name": "Music Is The Answer (dancin' & prancin') - Danny's TOURISM Mix",
       "url": "https://open.spotify.com/track/3msSWhR4J21sKhhdkANkbx"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 302720,
       "name": "Normal - Is It Normal? Club Mix",
       "url": "https://open.spotify.com/track/0LOPxpE2U5GppZRPrKmJIa"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-05-19",
       "duration_ms": 270760,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 519360,
       "name": "Positive Education",
       "url": "https://open.spotify.com/track/7Ges3Ph4dWhqmmTgSpJFNW"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-05-24",
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-17",
       "duration_ms": 202640,
       "name": "Respectable",
       "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": "2022-06-21",
       "duration_ms": 354000,
       "name": "Rhythm Is a Mystery - Non-Stop Edit",
       "url": "https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-09",
       "duration_ms": 233666,
       "name": "Salsa House - Edit",
       "url": "https://open.spotify.com/track/0lYftlVimwk7bTZ1LzeBuV"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-18",
       "duration_ms": 407893,
       "name": "Servants Jaz House",
       "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": "2022-06-20",
       "duration_ms": 214866,
       "name": "Showing Out (Get Fresh At the Weekend) - 7\" Version",
       "url": "https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/4f7PglDSAmthAX0iq7E8Mt"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 302333,
       "name": "Sound Of Eden",
       "url": "https://open.spotify.com/track/06OpZKNfGIC0hHFIz03SCA"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-15",
       "duration_ms": 435800,
       "name": "Sweet Sticky",
       "url": "https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-14",
       "duration_ms": 427566,
       "name": "The Hunter - Club Mix",
       "url": "https://open.spotify.com/track/4lZVJEAGRVWRkSmN7KKVi8"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 446466,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-16",
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 486266,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/4xKSVV3RjBs9vPyrHpuslU"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 484533,
       "name": "U Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-05-19",
       "duration_ms": 235963,
       "name": "Ultra Flava",
       "url": "https://open.spotify.com/track/1IlAGRwI7ydjnGoKwscypv"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 339146,
       "name": "Was That All It Was - Def Mix Edit 2",
       "url": "https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 338920,
       "name": "Work Me Gadamit '96",
       "url": "https://open.spotify.com/track/0Bfd3uSU4zZtxWqb1IDT54"

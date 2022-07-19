@@ -1,15 +1,63 @@
 {
   "description": "Listen Heroine's music 24 Hours.",
-  "num_followers": 44425,
+  "num_followers": 48098,
   "original_name": "This Is SUNMI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk4OTQzOCwwMDAwMDAwNzAwMDAwMTdmNzgzODZlYjQwMDAwMDE3Zjc4Mzg0YTRl",
+  "snapshot_id": "MTY1NzYzNzcyNSwwMDAwMDAwYjAwMDAwMTgxZjJlODY2YzEwMDAwMDE4MWYyZTgyMzU2",
   "tracks": [
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+    },
+    {
+      "added_at": "2022-07-12 14:55:25",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "added_at": "2022-07-12 14:55:25",
+      "album": {
+        "name": "SUNMIYA CLUB",
+        "url": "https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 114706,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg"
+    },
+    {
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Oh Sorry Ya",
         "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Go or Stop?",
         "url": "https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/2HmA6srhyIetFJ9pb4kvdG"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/4VVbHgWyMvvuvSo4h36xS9"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "TAIL",
         "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
@@ -173,7 +221,7 @@
       "url": "https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "TAIL",
         "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
@@ -189,7 +237,7 @@
       "url": "https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "When We Disco",
         "url": "https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/6ySoz8mujfiQS37xjEEZCv"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Noir \ub204\uc544\ub974",
         "url": "https://open.spotify.com/album/1EBhkTQyICi50mKuybqDp9"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/1KCXYoPIpvafzaAGtiRjci"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "LALALAY \ub0a0\ub77c\ub9ac",
         "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "XX (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/4qneAGjgqL6nMSVY8J2OCD"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/6fYDnLnVFV0n3FMxgEnIcg"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
@@ -321,7 +369,7 @@
       "url": "https://open.spotify.com/track/6f5h8n8UR4fsz8LjCkAOFy"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
         "url": "https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/4SKDBovL7V7JzFz4BtAaUd"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/4F0zJatuBIKVCaezK26Uvo"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "My fuxxxxx romance 01",
         "url": "https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/2g5Tbu6EbZz9pT3ku8JXfc"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/4DrMEpcUwwRyxLtRjnPvZk"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/2HLohseraYUuuP9Jgz6pZ7"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "SOLO DAY",
         "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g"
     },
     {
-      "added_at": "2022-03-11 09:03:58",
+      "added_at": "2022-07-12 14:55:25",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"

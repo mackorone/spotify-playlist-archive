@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Maybelle Carter, Gene Autry, Merle Travis",
+  "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
   "name": "40s Country",
   "published_playlist_ids": [
     "6ngukquRtVxTVqJcxVPRbM"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 165733,
       "name": "Columbus Stockade Blues",
       "url": "https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn"
@@ -866,6 +866,28 @@
     },
     {
       "album": {
+        "name": "The Complete Capitol Hits Of Margaret Whiting",
+        "url": "https://open.spotify.com/album/3Zm1rm9czcHwe6kWvErjUm"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        },
+        {
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131933,
+      "name": "Slippin' Around",
+      "url": "https://open.spotify.com/track/0y9SSRXRLA9cAbRd4rxL8O"
+    },
+    {
+      "album": {
         "name": "Nippers 50's-Vol.1",
         "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
       },
@@ -1245,7 +1267,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 169795,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
@@ -1285,6 +1307,24 @@
       "duration_ms": 168826,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/3BRPsh9GaOw5MaZvy5k8bQ"
+    },
+    {
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+      },
+      "artists": [
+        {
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "You Two-Timed Me One Time Too Often",
+      "url": "https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0vVAWnG6fKT"

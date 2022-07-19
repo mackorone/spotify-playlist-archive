@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Do You Really Want To Hurt Me",
+      "url": "https://open.spotify.com/track/0LPoUT1JqblTamBXpKXHtt"
+    },
+    {
+      "album": {
         "name": "Bossa n' Essentials",
         "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
       },
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 211528,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/7qX5vagnYtG4xLQ5bRDD5C"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 204613,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/5QTX7rX1uq11ic4R40tlsW"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 193360,
       "name": "I Say a Little Prayer For You",
       "url": "https://open.spotify.com/track/2XJCThaQQPWv9HHY3SCaU5"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 204373,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6XLzVUmjuhpYy9EAnC6KDN"
@@ -1351,10 +1369,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 231520,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/4VwvUWkm08X60tUdG3Oq3L"
+    },
+    {
+      "album": {
+        "name": "The Complete Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/1JqZRwdO197VVjSxHOymjG"
+      },
+      "artists": [
+        {
+          "name": "Groove Da Praia",
+          "url": "https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/4h0Lc2sgVxRa9ICugb5IjA"
     },
     {
       "album": {
@@ -1452,6 +1488,32 @@
     },
     {
       "album": {
+        "name": "Last Friday Night (T.G.I.F.)",
+        "url": "https://open.spotify.com/album/3Qo98M0DzmiLHY90dSHyvT"
+      },
+      "artists": [
+        {
+          "name": "Anakelly",
+          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
+        },
+        {
+          "name": "Stereo Dub",
+          "url": "https://open.spotify.com/artist/0qaq7Wbz8frkQzqBCops0p"
+        },
+        {
+          "name": "Nova Bossa Ltd.",
+          "url": "https://open.spotify.com/artist/2jDHvU3y5xMaBc8u3O85nu"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/6auWMxgWWn4BYFyYwTq4ih"
+    },
+    {
+      "album": {
         "name": "La\u0301 Vem o Brasil Descendo a Ladeira",
         "url": "https://open.spotify.com/album/1GWeorh1seabsvYkqXE6lD"
       },
@@ -1533,7 +1595,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 249120,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/4dOFBQKc4B0c0F9CAKSF8G"
@@ -1576,6 +1638,28 @@
     },
     {
       "album": {
+        "name": "Bossa Nova Covers",
+        "url": "https://open.spotify.com/album/1WPwzOJRhEbB2DA7ViQoid"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2AL63wrF0RLL6qDUMMNAUr"
+    },
+    {
+      "album": {
         "name": "Mood - Bossa Nova",
         "url": "https://open.spotify.com/album/4Hq7ktIPIDKy9ynNWhqozY"
       },
@@ -1605,10 +1689,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 155208,
       "name": "Moves Like Jagger - Bossa Version",
       "url": "https://open.spotify.com/track/0g498kior6lM8dICCz6gz9"
+    },
+    {
+      "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rezende",
+          "url": "https://open.spotify.com/artist/6m7M8rcbb3UGiXNLo65axU"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275638,
+      "name": "Mrs. Robinson (Bossa version)",
+      "url": "https://open.spotify.com/track/7l9PKjqqr8QaOUm3sO7wxr"
     },
     {
       "album": {
@@ -1747,7 +1849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 183225,
       "name": "Poker Face (Bossa Version)",
       "url": "https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi"
@@ -2109,7 +2211,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 264640,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/1fz735l9WBXIjO0Y9Rk2r6"
@@ -2330,6 +2432,24 @@
     },
     {
       "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
+      },
+      "artists": [
+        {
+          "name": "Diana Martinez",
+          "url": "https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305511,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Lounge 2",
         "url": "https://open.spotify.com/album/3kdFfd43mViwrYO6G1y04X"
       },
@@ -2341,7 +2461,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 238785,
       "name": "Tears In Heaven (Bossa Version)",
       "url": "https://open.spotify.com/track/0cOUTJ1eorMwvmuh6jsTmb"
@@ -2381,7 +2501,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 254011,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/1VzOr5rQS5fHO0jQT5VcEU"
@@ -2507,7 +2627,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 213250,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/7uHTIGEgTr7QfSAnH8OGZL"
@@ -2532,6 +2652,24 @@
     },
     {
       "album": {
+        "name": "Vintage Caf\u00e9 - Lounge & Jazz Blends (Special Selection), Pt. 9",
+        "url": "https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ"
+      },
+      "artists": [
+        {
+          "name": "Scubba",
+          "url": "https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249692,
+      "name": "Viva La Vida - Bossa Version",
+      "url": "https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3"
+    },
+    {
+      "album": {
         "name": "Voce",
         "url": "https://open.spotify.com/album/2yUfEDdWxAs3oylZnQSdAm"
       },
@@ -2551,6 +2689,28 @@
       "duration_ms": 244738,
       "name": "Voc\u00ea",
       "url": "https://open.spotify.com/track/1Dd1vP76i14CB4an8wwWW8"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (Millenium Edition)",
+        "url": "https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
     },
     {
       "album": {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 147563,
       "name": "A Casual Look",
       "url": "https://open.spotify.com/track/5AEQIUw4f0Sbpjm5HFFLD5"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 148040,
       "name": "A Thousand Miles Away",
       "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-10",
       "duration_ms": 158160,
       "name": "At My Front Door",
       "url": "https://open.spotify.com/track/3htl5DFdHgU4Essw0aKS62"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": "2022-06-04",
       "duration_ms": 152600,
       "name": "Chapel of Dreams",
       "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 139746,
       "name": "Don't Ask Me to Be Lonely",
       "url": "https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 106760,
       "name": "Hey Senorita",
       "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
@@ -517,6 +517,24 @@
       "duration_ms": 203000,
       "name": "I Only Have Eyes For You - Single Version",
       "url": "https://open.spotify.com/track/3pHKy8Vmwi52p7V9ADdmTU"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Marcels",
+        "url": "https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 140373,
+      "name": "I Wanna Be the Leader",
+      "url": "https://open.spotify.com/track/3PRCqig60uovdGVM7Lzi7d"
     },
     {
       "album": {
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-07-09",
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-04",
       "duration_ms": 185333,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": "2022-07-12",
       "duration_ms": 138814,
       "name": "Look into My Eyes",
       "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 148932,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/6ry1RZr2O3f1SziP3Vs6kJ"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": "2022-07-08",
       "duration_ms": 145866,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/7Hi0AyrsS4KSkVotGRI2gk"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 156893,
       "name": "Since I Don't Have You",
       "url": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 141583,
       "name": "Speedoo",
       "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 149586,
       "name": "Zoom Zoom Zoom",
       "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"

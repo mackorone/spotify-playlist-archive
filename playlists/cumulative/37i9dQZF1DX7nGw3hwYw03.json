@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 123228,
       "name": "Dark",
       "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-24",
       "duration_ms": 162139,
       "name": "Get To Know Me",
       "url": "https://open.spotify.com/track/32lyOiqQrmCUICCcBfkBeG"
@@ -517,6 +517,28 @@
       "duration_ms": 232480,
       "name": "If It Wasn't For You",
       "url": "https://open.spotify.com/track/0R3aF3iq67sbMgqe0A4nup"
+    },
+    {
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
     },
     {
       "album": {
@@ -1313,6 +1335,28 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+        "url": "https://open.spotify.com/album/1zxmx7xohRxY2GW4qSXsKE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328803,
+      "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+      "url": "https://open.spotify.com/track/42BybLW0zc7x7ebEfy02pZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQrwBpetTXv.md) - [plain]
 
 > The powerful women of country\. Cover: Dolly Parton \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,865 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,144 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

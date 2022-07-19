@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-163 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+166 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-08 |  |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-08 |  |
 | [Daydreaming](https://open.spotify.com/track/3EowkiWXnNuZ3unCCHbD2P) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [Daydreaming](https://open.spotify.com/album/3zVYtRxlORi1Z2XLSJLSl0) | 2:07 | 2022-04-08 |  |
-| [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/0M50twWlneC1mfo1nACA6j) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 | 2022-04-08 |  |
+| [Decisions](https://open.spotify.com/track/693x7mqPNtiFzJSkFZcB1N) | [NAGASHI](https://open.spotify.com/artist/6IOLrMWpyxWJHbL4chHEdX) | [Decisions](https://open.spotify.com/album/79QW0d9b9NaPPKMhWGyoak) | 1:29 | 2022-04-08 |  |
 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 | 2022-04-08 |  |
 | [Dive In](https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Dive In](https://open.spotify.com/album/0F851oU5m8Mh3pqD0ZqWns) | 3:17 | 2022-04-08 |  |
 | [Dizzy](https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Dizzy](https://open.spotify.com/album/1YOb6V7Hxqz8jbHq7ZvLJr) | 1:22 | 2022-04-08 |  |
@@ -52,6 +52,7 @@
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-04-08 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-08 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2022-04-08 |  |
+| [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 | 2022-05-13 |  |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-08 |  |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-08 |  |
 | [Golden Vibe](https://open.spotify.com/track/5e0wGPEIDVmhPMYFkzzDkn) | [Beatnugget](https://open.spotify.com/artist/2B8sGSf7Jr54GidHeizE8E) | [Golden Vibe](https://open.spotify.com/album/22ZsrLpobwUNTUfWCRAl0Q) | 2:42 | 2022-04-08 |  |
@@ -77,6 +78,7 @@
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 |  |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |
 | [Life Rent](https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 2:01 | 2022-04-08 |  |
+| [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 | 2022-05-13 |  |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-08 |  |
 | [Lookin' Up](https://open.spotify.com/track/2OQYBsPnQgpOOGQ11TKaE8) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Car Tunes, Vol\. 1](https://open.spotify.com/album/0tK9tBN5ffyjxyh7GUl3b0) | 1:26 | 2022-04-08 | 2022-04-22 |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2022-04-08 |  |
@@ -164,6 +166,7 @@
 | [Virtual Garden](https://open.spotify.com/track/0Ud98dzrNyQXdrb1yUOftZ) | [Michael Danny](https://open.spotify.com/artist/5lpdJ3wNP63XGxuoa7HkMS) | [Virtual Garden](https://open.spotify.com/album/4cIcymcs6ZMb9K1RxBvjee) | 2:01 | 2022-04-08 |  |
 | [Wavy Gravy](https://open.spotify.com/track/5LnlrBspSm1uBdOcei7vVN) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Wavy Gravy](https://open.spotify.com/album/5eZtTgkN1mOuCmPICJpuuS) | 3:30 | 2022-04-08 |  |
 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [trainer](https://open.spotify.com/artist/3VVx8RffIbZieWTsYgDDuD) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 | 2022-04-08 |  |
+| [what if!](https://open.spotify.com/track/2K3YbAZpNna84V3YZd970b) | [Miles Kang](https://open.spotify.com/artist/4F5oMQRJEqpLZaW5cc7BEC) | [what if!](https://open.spotify.com/album/1ozXZz0cN8DzlJmsMHM305) | 2:00 | 2022-06-10 |  |
 | [What Is There to Say?](https://open.spotify.com/track/0xrnBMCFJqdxJMyLIhWWue) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [What Is There to Say?](https://open.spotify.com/album/3asWABBwVgLwJkreO8tBHR) | 1:35 | 2022-04-08 | 2022-04-22 |
 | [When the Time Comes](https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R) | [Gordon](https://open.spotify.com/artist/6Y9LyKatIXZuMSIKI04oTc) | [When the Time Comes](https://open.spotify.com/album/4bPg3cepOhvfIjBn1lHoZ9) | 2:04 | 2022-04-08 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-08 |  |

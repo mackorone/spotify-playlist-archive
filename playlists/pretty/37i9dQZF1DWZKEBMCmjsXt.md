@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKEBMCmjsXt.md) - [plain]
 
 > These tracks were produced, written, and/or performed by the artists featured on Spotify's R&B Matters podcast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,161 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,287 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-54 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
+55 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 3:04 | 2021-01-29 |  |
 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 | 2021-01-29 |  |
 | [The Blue Planet](https://open.spotify.com/track/5TLBCv54hqLxMPfVQ8JMzq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:13 | 2021-01-29 |  |
-| [The Burning Bush \- The Prince Of Egypt/Soundtrack Version](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Prince of Egypt](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 | 2021-01-29 |  |
+| [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 | 2021-01-29 |  |
 | [The Flight To Neverland \- From "Hook"](https://open.spotify.com/track/20g6TJr37OZ9MQjM8odlrW) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/35IxiAY1JPlCVM93bD4vMI) | 4:56 | 2021-01-29 |  |
 | [The John Dunbar Theme \(film version\)](https://open.spotify.com/track/4NzyM0AAmN2ucaBlTXbQQT) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:21 | 2021-01-29 |  |
+| [The Last Bus](https://open.spotify.com/track/3EL2tGbkBSyRvoLwo8stEe) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 3:33 | 2022-05-27 |  |
 | [The Mandalorian \- Orchestral Version](https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 7 \(Original Score\)](https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki) | 2:20 | 2021-01-29 |  |
 | [The Painted Veil](https://open.spotify.com/track/3HohQPAZ5xzDs1ANErgk52) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 3:17 | 2021-01-29 |  |
 | [The Theory of Everything](https://open.spotify.com/track/1Wd7EwZcoAfCAEi9FF6G6b) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5FjUdfCXezlLwJEDuGel0I) | 1:08 | 2021-01-29 |  |

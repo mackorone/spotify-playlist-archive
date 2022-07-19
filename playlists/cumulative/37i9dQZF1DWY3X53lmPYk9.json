@@ -1,11 +1,65 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Soft piano interpretations of jazz classics.",
+  "description": "Soft and gentle piano interpretations of jazz classics.",
   "name": "Peaceful Jazz Piano",
   "published_playlist_ids": [
     "6xTqxAHYGsV8fLb86hItpW"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6"
+    },
+    {
+      "album": {
+        "name": "A Certain Smile",
+        "url": "https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm"
+      },
+      "artists": [
+        {
+          "name": "Donald Minestra",
+          "url": "https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126669,
+      "name": "A Certain Smile",
+      "url": "https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM"
+    },
     {
       "album": {
         "name": "A Flower Is A Lovesome Thing",
@@ -62,6 +116,24 @@
     },
     {
       "album": {
+        "name": "A Time for Love",
+        "url": "https://open.spotify.com/album/6Ptv8G7l8cdlc9mvfa3rFw"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Jones",
+          "url": "https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175221,
+      "name": "A Time for Love",
+      "url": "https://open.spotify.com/track/2UoiJSDgOE0G8kFZxgzDGk"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/50z6YJO0bAitRnyd2gvJlI"
       },
@@ -73,7 +145,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 310493,
       "name": "Afternoon in Paris",
       "url": "https://open.spotify.com/track/6wg1hOAb1YFirCPxwpzDLm"
@@ -134,24 +206,6 @@
     },
     {
       "album": {
-        "name": "As She Rises",
-        "url": "https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID"
-      },
-      "artists": [
-        {
-          "name": "Dimitri St\u00f6ckl",
-          "url": "https://open.spotify.com/artist/2wTGVnmoIgz8S6DfjerKx1"
-        }
-      ],
-      "date_added": "2021-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143551,
-      "name": "As She Rises",
-      "url": "https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6"
-    },
-    {
-      "album": {
         "name": "time remembered",
         "url": "https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY"
       },
@@ -185,6 +239,24 @@
       "duration_ms": 236740,
       "name": "Ask Me Now",
       "url": "https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5"
+    },
+    {
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+      },
+      "artists": [
+        {
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
     },
     {
       "album": {
@@ -260,6 +332,42 @@
     },
     {
       "album": {
+        "name": "Blue In Green",
+        "url": "https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs"
+    },
+    {
+      "album": {
+        "name": "Bluesette",
+        "url": "https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167140,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
+    },
+    {
+      "album": {
         "name": "Modernistic",
         "url": "https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V"
       },
@@ -296,6 +404,42 @@
     },
     {
       "album": {
+        "name": "Central Park West",
+        "url": "https://open.spotify.com/album/5eBqq6qEjLjjxw1TPAShYB"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Central Park West",
+      "url": "https://open.spotify.com/track/0AeEcNkwXLpPYyuoweLVta"
+    },
+    {
+      "album": {
+        "name": "Cheek to Cheek",
+        "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182398,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "album": {
         "name": "Come Rain Or Come Shine",
         "url": "https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH"
       },
@@ -311,6 +455,24 @@
       "duration_ms": 220250,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy"
+    },
+    {
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
     },
     {
       "album": {
@@ -466,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek"
+      },
+      "artists": [
+        {
+          "name": "Lyle Walters",
+          "url": "https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148171,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD"
+    },
+    {
+      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/0Y3EIbfN2deyLbofAv1ZUJ"
       },
@@ -495,7 +675,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 272250,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz"
@@ -513,7 +693,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 237617,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/4b1yJPoWJeY9kEvegJsynM"
@@ -538,6 +718,24 @@
     },
     {
       "album": {
+        "name": "God Bless the Child",
+        "url": "https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254647,
+      "name": "God Bless the Child",
+      "url": "https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2"
+    },
+    {
+      "album": {
         "name": "Have You Met Miss Jones?",
         "url": "https://open.spotify.com/album/3SE6WQEbpDPe0TUe7kGfuR"
       },
@@ -549,7 +747,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 205490,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/5whJHDkwt2GoohrZSWkREv"
@@ -589,6 +787,42 @@
       "duration_ms": 138777,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
+    },
+    {
+      "album": {
+        "name": "How Long Has This Been Going On?",
+        "url": "https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Morris",
+          "url": "https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171127,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA"
+    },
+    {
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv"
+      },
+      "artists": [
+        {
+          "name": "Maurillo",
+          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "I Cover the Waterfront",
+      "url": "https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne"
     },
     {
       "album": {
@@ -718,6 +952,24 @@
     },
     {
       "album": {
+        "name": "I'm Afraid The Masquerade Is Over",
+        "url": "https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "I'm Afraid The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8"
+    },
+    {
+      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ"
       },
@@ -769,6 +1021,24 @@
       "duration_ms": 217250,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh"
+    },
+    {
+      "album": {
+        "name": "Jazz Piano Before Midnight",
+        "url": "https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo"
+      },
+      "artists": [
+        {
+          "name": "Christopher Colman",
+          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/3JdweRYYTUEhsF0trwC1Ad"
     },
     {
       "album": {
@@ -916,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Lola and Kirby",
+        "url": "https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247362,
+      "name": "Just A Piece of My Heart",
+      "url": "https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d"
+    },
+    {
+      "album": {
         "name": "A Foggy Day",
         "url": "https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1"
       },
@@ -1035,10 +1323,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 267679,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6itam0ElHeMmal7zEFVn63"
+    },
+    {
+      "album": {
+        "name": "Moonlight Serenade",
+        "url": "https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG"
+      },
+      "artists": [
+        {
+          "name": "Nineve Wilson",
+          "url": "https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210365,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45"
     },
     {
       "album": {
@@ -1114,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX"
+      },
+      "artists": [
+        {
+          "name": "Sonny Beckerlee",
+          "url": "https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ"
+    },
+    {
+      "album": {
         "name": "Jazz Piano Nights",
         "url": "https://open.spotify.com/album/0DsmrLsp3Ypws2d9G3ZDSi"
       },
@@ -1143,7 +1467,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 170880,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/4XCMZFYHKBq5Tyt2MUKtDZ"
@@ -1186,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "On The Street Where You Live",
+        "url": "https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw"
+    },
+    {
+      "album": {
         "name": "Darn That Dream",
         "url": "https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP"
       },
@@ -1197,10 +1539,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 182253,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH"
+    },
+    {
+      "album": {
+        "name": "On the Sunny Side of the Street",
+        "url": "https://open.spotify.com/album/3a3kKQAfeBVFkosQpWBRfo"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147935,
+      "name": "On the Sunny Side of the Street",
+      "url": "https://open.spotify.com/track/4D3Yd7spmD1lJiXkCYAuDU"
     },
     {
       "album": {
@@ -1219,6 +1579,24 @@
       "duration_ms": 346000,
       "name": "Once I Had A secret Love",
       "url": "https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR"
+    },
+    {
+      "album": {
+        "name": "One Day We'll Find Our Way",
+        "url": "https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x"
+      },
+      "artists": [
+        {
+          "name": "Lee Bendroth",
+          "url": "https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "One Day We'll Find Our Way",
+      "url": "https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7"
     },
     {
       "album": {
@@ -1384,21 +1762,21 @@
     },
     {
       "album": {
-        "name": "Somewhere Over The Rainbow",
-        "url": "https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F"
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8"
       },
       "artists": [
         {
-          "name": "Dan Hawkins",
-          "url": "https://open.spotify.com/artist/6Zrz9KdRDQ9LIfe0Cti6Lx"
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
         }
       ],
-      "date_added": "2021-12-14",
+      "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182301,
-      "name": "Somewhere Over The Rainbow",
-      "url": "https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul"
+      "duration_ms": 198933,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f"
     },
     {
       "album": {
@@ -1413,10 +1791,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 210933,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx"
+    },
+    {
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk"
     },
     {
       "album": {
@@ -1492,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Stars Fell On Alabama",
+        "url": "https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261432,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
+    },
+    {
+      "album": {
         "name": "Stella By Starlight",
         "url": "https://open.spotify.com/album/1ndveuGRfyhEbcfxiA97G7"
       },
@@ -1557,7 +1971,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 155466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv"
@@ -1762,6 +2176,24 @@
     },
     {
       "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM"
+      },
+      "artists": [
+        {
+          "name": "Tim Walker-Price",
+          "url": "https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204384,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD"
+    },
+    {
+      "album": {
         "name": "What Are You Doing For The Rest Of Your Life",
         "url": "https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY"
       },
@@ -1816,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Without A Song",
+        "url": "https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Without A Song",
+      "url": "https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp"
+    },
+    {
+      "album": {
         "name": "You Are Too Beautiful",
         "url": "https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad"
       },
@@ -1863,7 +2313,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 319998,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE"

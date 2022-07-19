@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-64 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+65 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [May it Be](https://open.spotify.com/track/6KOBMsYaTl9ehUTF3NcX3c) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Score](https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX) | 3:55 | 2021-03-08 |  |
 | [Mendelssohn: Song Without Words in D Major, Op\. 109, MWV Q34](https://open.spotify.com/track/68cCr3GjFV3csDHhMmveKq) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Jacqueline du Pré](https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW), [Gerald Moore](https://open.spotify.com/artist/0QjqcG7aDPrqJrEogqZu3w) | [The Very Best of Jacqueline du Pré](https://open.spotify.com/album/3mimlzeCsPmXiYknQA9B9K) | 5:30 | 2021-03-08 |  |
 | [Mother's Pride](https://open.spotify.com/track/1FlwajHS8OlnTWn8di3GxT) | [The Ayoub Sisters](https://open.spotify.com/artist/0vFkVid8pFiVX9aLS8jdru) | [The Ayoub Sisters](https://open.spotify.com/album/53XT9eW4E24NZ1EWmXg1kC) | 3:30 | 2021-03-08 |  |
+| [Myfanwy \(Arr\. for Solo Cello\)](https://open.spotify.com/track/5EGQC8qSbx5xQD8dlat1R3) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Myfanwy \(Arr\. for Solo Cello\)](https://open.spotify.com/album/3pfaoKUisbDbiPfM8DSZ3s) | 3:39 | 2022-06-16 |  |
 | [Méditation de Thaïs](https://open.spotify.com/track/14jtDGVR9ozxWcNQGiONZ5) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Cello Adagios](https://open.spotify.com/album/54yVFnQPOXihCOaufZBImk) | 4:51 | 2021-03-08 |  |
 | [Mélodie, Op.20, No.1](https://open.spotify.com/track/2j9KvPUOWVLheRsPxpMVry) | [Alexander Glazunov](https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u), [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Cello Adagios](https://open.spotify.com/album/54yVFnQPOXihCOaufZBImk) | 6:37 | 2021-03-08 |  |
 | [Nisi Dominus, RV 608: 4\. Cum dederit dilectis suis \(Arr\. Cello\)](https://open.spotify.com/track/7oGaoWA4jzX48NmXZ4tWOd) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD), [Candida Thompson](https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM) | [Vivaldi](https://open.spotify.com/album/5L54ihl5TWTP8I0nYsnNbN) | 5:14 | 2021-03-08 |  |

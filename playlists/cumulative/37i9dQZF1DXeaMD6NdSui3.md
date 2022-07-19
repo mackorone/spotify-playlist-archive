@@ -56,7 +56,7 @@
 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 | 2016-03-18 |  |
 | [We The People](https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN) | 4:20 | 2016-03-18 |  |
 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 | 2018-02-27 |  |
-| [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 | 2016-03-18 | 2022-05-01 |
+| [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 | 2016-03-18 | 2022-07-19 |
 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 | 2016-03-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

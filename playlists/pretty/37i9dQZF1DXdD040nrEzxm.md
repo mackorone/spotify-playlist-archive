@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,930 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,202 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 75 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 |
 | 76 | [Koleyewon](https://open.spotify.com/track/1lBQnp2hUBZuyvMaNTslRQ) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Koleyewon](https://open.spotify.com/album/48oiAPKqzL6EbO79zIuZ2W) | 3:39 |
 | 77 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 |
-| 78 | [Khuza Gogo](https://open.spotify.com/track/7zJYbquljYLkTShkGhiBTX) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blaqnick](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [MasterBlaq](https://open.spotify.com/artist/2YaMctZMRwW4wYlkvwLKA9), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ama Avenger](https://open.spotify.com/artist/0WY9mEje7cFCoFiEM61QxK), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Khuza Gogo](https://open.spotify.com/album/0MsgO41XUWYMHJmByMOUxr) | 6:20 |
+| 78 | [Khuza Gogo](https://open.spotify.com/track/7zJYbquljYLkTShkGhiBTX) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ama Avenger](https://open.spotify.com/artist/0WY9mEje7cFCoFiEM61QxK), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Khuza Gogo](https://open.spotify.com/album/0MsgO41XUWYMHJmByMOUxr) | 6:20 |
 | 79 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
 | 80 | [sugar](https://open.spotify.com/track/5IjIbGO7lih9CVDBFLCtTT) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [next chapter](https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133) | 3:25 |
 | 81 | [Joy](https://open.spotify.com/track/0EIev3RtYEbl9Mt5brYDPh) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Joy](https://open.spotify.com/album/12h2yKhDYgeBUYkbPROccY) | 3:38 |

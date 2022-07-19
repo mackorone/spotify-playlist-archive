@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,371 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,246 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Exagerado](https://open.spotify.com/track/6L5EaSYdQDLQHhaNPUlUs1) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:45 |
 | 2 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 3 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
-| 4 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha e os Abóboras Selvagens](https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
+| 4 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
 | 5 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 |
 | 6 | [Independência](https://open.spotify.com/track/60JUAZcxvMmtkaRsjz73X8) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Independência](https://open.spotify.com/album/4F0VmoCyXZSlAItT7m2Zy2) | 3:04 |
 | 7 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 55 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 |
 | 56 | [Adelaide \(You'll Be Illin'\)](https://open.spotify.com/track/4Ih8VpfrjulVJteZTXOJHS) | [Inimigos Do Rei](https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj) | [Inimigos Do Rei](https://open.spotify.com/album/1gc8qtJ5R7lzKYIHu96EZj) | 3:15 |
 | 57 | [Bla, Bla, Bla...Eu Te Amo](https://open.spotify.com/track/7JhueQscGoTl2gYNkp4mSN) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Vida Bandida](https://open.spotify.com/album/1mGU4TLsEmo4brfgYv6K3U) | 4:51 |
-| 58 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha e os Abóboras Selvagens](https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 |
+| 58 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 |
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 

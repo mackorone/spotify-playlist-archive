@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 583,
+  "num_followers": 580,
   "original_name": "chill/DnB",
   "owner": {
     "name": "codym2011",
     "url": "https://open.spotify.com/user/codym2011"
   },
-  "snapshot_id": "MTg3LDg0YjgxZGMwNzIwNjBlZmVjYWM5NGIzZjQ0MmYyMDg3NzJlY2QwM2M=",
+  "snapshot_id": "MTg4LDRiMTQ0NGIyMDkxZmY5Y2QxYzQxMzQzYTJlYjM0YTlmODI1Yjk3NjU=",
   "tracks": [
     {
       "added_at": "2016-01-14 16:22:45",
@@ -1792,10 +1792,6 @@
       },
       "artists": [
         {
-          "name": "Hybrid Minds feat. Katie's Ambition",
-          "url": "https://open.spotify.com/artist/49PdNpyUlk2c7vpr1RApOr"
-        },
-        {
           "name": "Hybrid Minds",
           "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
         },
@@ -3155,6 +3151,30 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "added_at": "2022-06-17 22:03:55",
+      "album": {
+        "name": "Strawberry Robots Pack",
+        "url": "https://open.spotify.com/album/2Cj8NszoHAguiOTBJJ4M2y"
+      },
+      "artists": [
+        {
+          "name": "stoop lee",
+          "url": "https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX"
+        },
+        {
+          "name": "Datsunn",
+          "url": "https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV"
+        },
+        {
+          "name": "austenyo",
+          "url": "https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Strawberry Robots",
+      "url": "https://open.spotify.com/track/6p6t7KpxaxceOf9MqqWYMK"
     }
   ],
   "unique_name": "chill/DnB",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1-2-3 Fun Camp!",
+        "url": "https://open.spotify.com/album/2SxkoAjwKwE5G7PpRgvnb1"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99803,
+      "name": "1-2-3 Fun Camp!",
+      "url": "https://open.spotify.com/track/1fIjjOyu3ftxRUvCmwoNLj"
+    },
+    {
+      "album": {
         "name": "Growing Up with Ella Jenkins: Rhythms, Songs, and Rhymes",
         "url": "https://open.spotify.com/album/468gIpOuQApGaXw9UFRHMt"
       },

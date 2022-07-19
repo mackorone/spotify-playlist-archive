@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": "2022-07-12",
       "duration_ms": 135453,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/2V9ZGEAaTrNaQuck6WBxPG"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
@@ -524,6 +524,24 @@
     },
     {
       "album": {
+        "name": "Themes",
+        "url": "https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 211208,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
+    },
+    {
+      "album": {
         "name": "Danke Schoen - Helmut Zacharias",
         "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 296693,
       "name": "Coiuldn't We Be Friends?",
       "url": "https://open.spotify.com/track/1wcpxfVZiOHYDHptZA5GIm"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "El Bimbo",
       "url": "https://open.spotify.com/track/5K1fJewuOw6qRqEkKpoupc"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-19",
       "duration_ms": 164560,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2B8noBQPOHP87eWqpdAp4S"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 165200,
       "name": "Lazy Bones",
       "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 181933,
       "name": "Limelight (Theme)",
       "url": "https://open.spotify.com/track/62I0t1dSziR3zSLn1UtUwl"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 187866,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 191692,
       "name": "Maria Helena",
       "url": "https://open.spotify.com/track/2yhienc818S3S8DdR0S2G7"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-15",
       "duration_ms": 167133,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 308760,
       "name": "Morricone: Chi Mai",
       "url": "https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 279320,
       "name": "M\u00e9lissa (Bilitis)",
       "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 281920,
       "name": "Rain Forest",
       "url": "https://open.spotify.com/track/4Ve4LuhZIelATSSegdfqhR"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
@@ -1862,6 +1880,42 @@
     },
     {
       "album": {
+        "name": "La dama rossa uccide sette volte (Soundtrack)",
+        "url": "https://open.spotify.com/album/7I6i2zWhhTC09CttcH2lY8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Nicolai",
+          "url": "https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 122280,
+      "name": "Servizio fotografico",
+      "url": "https://open.spotify.com/track/2DQp49OSbORnQT0Imeo61H"
+    },
+    {
+      "album": {
+        "name": "Canadian American Greatest Hits 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/5toxcaerHCTPDtIcQOTRx8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 145333,
+      "name": "Sleep Walk",
+      "url": "https://open.spotify.com/track/0yK8sWD6cfrc7pGfaPIcZH"
+    },
+    {
+      "album": {
         "name": "Volume Secondo",
         "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
@@ -1873,7 +1927,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 151092,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
@@ -2039,7 +2093,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
@@ -2057,7 +2111,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
@@ -2183,7 +2237,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 142693,
       "name": "The Theme from \"A Summer Place\"",
       "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
@@ -2201,7 +2255,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-16",
       "duration_ms": 144893,
       "name": "The Theme from \"A Summer Place\" - Single Version",
       "url": "https://open.spotify.com/track/2kKL5kk4On8YRSKWDgXWMX"
@@ -2273,7 +2327,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 191053,
       "name": "Vivre Pour Vivre",
       "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"

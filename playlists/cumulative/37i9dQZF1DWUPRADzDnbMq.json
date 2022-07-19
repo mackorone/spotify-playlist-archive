@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "All Summer",
+        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "All Summer",
+      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
+    },
+    {
+      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -41,7 +59,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 172333,
       "name": "Beach Bummin'",
       "url": "https://open.spotify.com/track/5CeskUEn82sq3fWn263IXC"
@@ -236,6 +254,24 @@
     },
     {
       "album": {
+        "name": "COASTIN' - EP",
+        "url": "https://open.spotify.com/album/3XRFDkDNBBEQ5TJutSmfUz"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171146,
+      "name": "COASTIN'",
+      "url": "https://open.spotify.com/track/1zU19VzTdp3yPm2ZiQcdLK"
+    },
+    {
+      "album": {
         "name": "Life on a Rock",
         "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
       },
@@ -273,6 +309,24 @@
       "duration_ms": 191733,
       "name": "Come Monday",
       "url": "https://open.spotify.com/track/0yje3JVMgJNZENayymCTHA"
+    },
+    {
+      "album": {
+        "name": "The Best: Loggins & Messina Sittin' In Again",
+        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254653,
+      "name": "Danny's Song",
+      "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
     },
     {
       "album": {
@@ -341,7 +395,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 226293,
       "name": "Dreams - The Campfire Sessions",
       "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
@@ -395,10 +449,32 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 182493,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
+    },
+    {
+      "album": {
+        "name": "Eyes On You (feat. Chase Rice)",
+        "url": "https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76"
+      },
+      "artists": [
+        {
+          "name": "Positive Vibrations",
+          "url": "https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb"
+        },
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Eyes On You (feat. Chase Rice)",
+      "url": "https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP"
     },
     {
       "album": {
@@ -610,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Gulf Coast Time",
+        "url": "https://open.spotify.com/album/3UuH7RshuQMI3kFAQmhYr6"
+      },
+      "artists": [
+        {
+          "name": "Roger Creager",
+          "url": "https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Gulf Coast Time",
+      "url": "https://open.spotify.com/track/6Xoj0QuDzH6tpvVrtpxWy1"
+    },
+    {
+      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw"
       },
@@ -729,7 +823,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 190226,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
@@ -871,7 +965,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 230549,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
@@ -907,7 +1001,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 228493,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/4iYQUKxKwOOm6X2R7ALPix"
@@ -1116,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233347,
+      "name": "River In The Rain",
+      "url": "https://open.spotify.com/track/4C8Chco6bxNKxPmVfmdEaL"
+    },
+    {
+      "album": {
         "name": "Winnebago Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/7Jx7qyak7RLTLKwMxizqQI"
       },
@@ -1174,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Sailing Around the World",
+        "url": "https://open.spotify.com/album/2nyrsMC6MCpRTVp4xdoLEP"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lay",
+          "url": "https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166901,
+      "name": "Sailing Around the World",
+      "url": "https://open.spotify.com/track/2gyP7VG0hXZZcvqeB7iCjX"
+    },
+    {
+      "album": {
         "name": "BRINGING BACK THE SUNSHINE",
         "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
       },
@@ -1185,7 +1315,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 233480,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp"
@@ -1416,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
+    },
+    {
+      "album": {
         "name": "The Last Resort",
         "url": "https://open.spotify.com/album/2Dn1ksd9NBbnM7jLhF8ou2"
       },
@@ -1499,7 +1647,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-21",
       "duration_ms": 182453,
       "name": "Ten Rounds with Jose Cuervo - Recall Mix",
       "url": "https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL"
@@ -1557,6 +1705,46 @@
       "duration_ms": 295426,
       "name": "The Day In The Life Of A Pearl Diver",
       "url": "https://open.spotify.com/track/6fiMo4GBjn6sosNSw3JRiz"
+    },
+    {
+      "album": {
+        "name": "The Last Resort",
+        "url": "https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "The Last Resort",
+      "url": "https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr"
+    },
+    {
+      "album": {
+        "name": "The Rest of It's Mine",
+        "url": "https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        },
+        {
+          "name": "Paul Overstreet",
+          "url": "https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "The Rest of It's Mine",
+      "url": "https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj"
     },
     {
       "album": {
@@ -1737,6 +1925,46 @@
       "duration_ms": 206373,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209340,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4"
+    },
+    {
+      "album": {
+        "name": "Whatever Floats Your Boat (feat. The Boat Boys)",
+        "url": "https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        },
+        {
+          "name": "The Boat Boys",
+          "url": "https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155630,
+      "name": "Whatever Floats Your Boat (feat. The Boat Boys)",
+      "url": "https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt"
     },
     {
       "album": {

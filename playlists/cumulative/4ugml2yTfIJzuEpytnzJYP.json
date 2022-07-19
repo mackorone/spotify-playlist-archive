@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Bat Yam",
+        "url": "https://open.spotify.com/album/6xyZNSnPXJYOefPLbsDf3o"
+      },
+      "artists": [
+        {
+          "name": "Mat the Alien",
+          "url": "https://open.spotify.com/artist/6zQuKPa4iV1QD7pLYlLv21"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "Bat Yam",
+      "url": "https://open.spotify.com/track/6UGvCwXeeCjQBqRRMHkag3"
+    },
+    {
+      "album": {
         "name": "Blur (feat. Dacy)",
         "url": "https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk"
       },
@@ -611,6 +629,28 @@
       "duration_ms": 197333,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2zEROpqqSRJAjIiOZatCBG"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7MJquthUbT640r4lJ2VlmC"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Balkan Bump",
+          "url": "https://open.spotify.com/artist/1TRyeXs6NXHSFqoXHR1w5e"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0FDJeSAhAjg2Lw1I3IqVCl"
     },
     {
       "album": {
@@ -1560,6 +1600,28 @@
     },
     {
       "album": {
+        "name": "Purification",
+        "url": "https://open.spotify.com/album/7tsmmO3HZXjqO9bu5q66J6"
+      },
+      "artists": [
+        {
+          "name": "Shades",
+          "url": "https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK"
+        },
+        {
+          "name": "The Gaslamp Killer",
+          "url": "https://open.spotify.com/artist/5dVua2HdrY1VlbPh6OM9KZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234465,
+      "name": "Purification",
+      "url": "https://open.spotify.com/track/2Hfz4yZFhHYHcptngSZ3Bn"
+    },
+    {
+      "album": {
         "name": "Captcha",
         "url": "https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM"
       },
@@ -2036,7 +2098,7 @@
     },
     {
       "album": {
-        "name": "Transmission",
+        "name": "Neurotransmission",
         "url": "https://open.spotify.com/album/6Oiqyx3pmTGdzJG1EZL93b"
       },
       "artists": [

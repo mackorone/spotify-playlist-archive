@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 406853,
       "name": "Akkosaari",
       "url": "https://open.spotify.com/track/48moOdDmgkBPMUafQq3A0a"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-11",
       "duration_ms": 312000,
       "name": "Along The River",
       "url": "https://open.spotify.com/track/7bH5KyPrnWFZWCetkJNlJe"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 327840,
       "name": "Ashdecon",
       "url": "https://open.spotify.com/track/1Moh5tYrtP6TnECuwjyLQy"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 144994,
       "name": "Avril",
       "url": "https://open.spotify.com/track/0dZcssyC6SAkm40IvfZzIL"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-09",
       "duration_ms": 144994,
       "name": "Avril",
       "url": "https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR"
@@ -253,6 +253,10 @@
         {
           "name": "Solstice",
           "url": "https://open.spotify.com/artist/20xu9BYQZK0EWsMusRZxyi"
+        },
+        {
+          "name": "Sofia Pacific",
+          "url": "https://open.spotify.com/artist/1h2yDAlefCCsnhGvTrFRo0"
         }
       ],
       "date_added": "2022-02-04",
@@ -318,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/3bgU2ZIXwMm5Uxyx7CjCBQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/6ADzDb79HY6O243kAkC2Qj"
+    },
+    {
+      "album": {
         "name": "Cold Waves, Immersed",
         "url": "https://open.spotify.com/album/4C0AGN293JiSxa1UDpcT0y"
       },
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 106443,
       "name": "Cold Waves, Immersed",
       "url": "https://open.spotify.com/track/07NJfChhNZG2uWJqp6UMOn"
@@ -347,7 +369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 376956,
       "name": "Coming Into Being and Passing Away",
       "url": "https://open.spotify.com/track/5K4N0rKkwS1WjMEgGVacQn"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 230000,
       "name": "Connotes Beauty",
       "url": "https://open.spotify.com/track/7IDiphQDYTrR6za5qWU8M5"
@@ -423,7 +445,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 272579,
       "name": "Diving",
       "url": "https://open.spotify.com/track/71eFXWZCJms5D8BXUdCkxK"
@@ -441,7 +463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 74744,
       "name": "Dune",
       "url": "https://open.spotify.com/track/5QygqnM5kmZPIgVQiDF5fq"
@@ -521,7 +543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 220000,
       "name": "Feet submerged",
       "url": "https://open.spotify.com/track/4HWFE0kz9LDIwJsOg7Fyfl"
@@ -539,7 +561,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 211034,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5"
@@ -557,7 +579,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
@@ -575,7 +597,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-08",
       "duration_ms": 192000,
       "name": "Fluidity",
       "url": "https://open.spotify.com/track/57L24c1LwI16TLHzIwPvoZ"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-11",
       "duration_ms": 331999,
       "name": "forward momentum",
       "url": "https://open.spotify.com/track/2WDXy3trxgMM3m4LK5Kwm5"
@@ -633,7 +655,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 462786,
       "name": "Fromme",
       "url": "https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f"
@@ -651,7 +673,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-08",
       "duration_ms": 171428,
       "name": "giant steps",
       "url": "https://open.spotify.com/track/4tiHodug4rIQbvkmaUi5Gk"
@@ -669,7 +691,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Greetings from Under the Ocean",
       "url": "https://open.spotify.com/track/3bNH69NjwtqkhmoZAYuorI"
@@ -687,7 +709,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 291051,
       "name": "Headflush",
       "url": "https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 108339,
       "name": "Heathen Mirth",
       "url": "https://open.spotify.com/track/5Y18lnDzWsPSbaIcrrHkb2"
@@ -795,7 +817,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-11",
       "duration_ms": 241714,
       "name": "hydrothermal/meetingplace",
       "url": "https://open.spotify.com/track/0rJwJamdI727f5sDdSs56B"
@@ -813,7 +835,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-07",
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -925,7 +947,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 238953,
       "name": "Lares Augusti",
       "url": "https://open.spotify.com/track/73g3SPcYf32VpzEWkitlTP"
@@ -943,7 +965,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 317047,
       "name": "Last Dream Before Sunrise",
       "url": "https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ"
@@ -997,7 +1019,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 406153,
       "name": "Lost At Sea",
       "url": "https://open.spotify.com/track/1XJOrr8OTcB1D4u1mUM0vg"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 224000,
       "name": "Meltwater Cave",
       "url": "https://open.spotify.com/track/4iltl1TzeHOF5Cih69SPjm"
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 478488,
       "name": "Moderato Cantabile",
       "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
@@ -1124,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/4T2HRIL337joOj4M9t1YmX"
+      },
+      "artists": [
+        {
+          "name": "Broken Peak",
+          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182934,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/33tpzwu7DNtY1QYJmkJ4tY"
+    },
+    {
+      "album": {
         "name": "Music to Which One Levitates",
         "url": "https://open.spotify.com/album/3zi64cAjtnKqXGqqr39dWW"
       },
@@ -1139,7 +1179,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-18",
       "duration_ms": 209035,
       "name": "Music to Which One Levitates",
       "url": "https://open.spotify.com/track/59xdDP3dYPX2UtGvExBDzM"
@@ -1269,7 +1309,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 445253,
       "name": "Polynya II",
       "url": "https://open.spotify.com/track/0fsTPHpanQBwiINIbIpF8E"
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 459635,
       "name": "Prince of the Sea",
       "url": "https://open.spotify.com/track/0brnyKRZKnNngbH444p8cn"
@@ -1341,7 +1381,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 338949,
       "name": "Reserve",
       "url": "https://open.spotify.com/track/1Oa3K5K9BIPfjfKkjCpaM9"
@@ -1399,7 +1439,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 146250,
       "name": "Sin",
       "url": "https://open.spotify.com/track/4id7LEjWOQnOoLqG3ivz3S"
@@ -1421,7 +1461,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 351129,
       "name": "Sky - Slow Dancing Society Remix",
       "url": "https://open.spotify.com/track/6VyXLflSeJTiCFVmAanzkX"
@@ -1457,7 +1497,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 122300,
       "name": "Sointula",
       "url": "https://open.spotify.com/track/1pFwLaLvKsIrYdL9YhPDqp"
@@ -1479,6 +1519,24 @@
       "duration_ms": 355230,
       "name": "Spazio | Spazi",
       "url": "https://open.spotify.com/track/2D00KKAx9H75XPwp1DEuL5"
+    },
+    {
+      "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189448,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh"
     },
     {
       "album": {
@@ -1511,7 +1569,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-10",
       "duration_ms": 230320,
       "name": "Surface Wear",
       "url": "https://open.spotify.com/track/4MqwW5oA1CNolnb8tnxT9E"
@@ -1529,7 +1587,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 304352,
       "name": "Svallv\u00e5gen",
       "url": "https://open.spotify.com/track/5XenjQNL3XQNkZSfgb2Tri"
@@ -1637,7 +1695,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 326500,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
@@ -1655,7 +1713,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 220221,
       "name": "The Whale Chant",
       "url": "https://open.spotify.com/track/0TN6iDgvPhyVPzxKTveUrS"
@@ -1691,7 +1749,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 337021,
       "name": "True North",
       "url": "https://open.spotify.com/track/5W2N8adAb24YCJkyJJwRyH"
@@ -1745,7 +1803,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 229980,
       "name": "Undersea",
       "url": "https://open.spotify.com/track/0Jnos33PiyIouElIko3KnO"
@@ -1763,7 +1821,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5yhGjzIGVied5rBDAY2W92"
@@ -1817,7 +1875,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 136438,
       "name": "VFXpeaksTWIN",
       "url": "https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe"
@@ -1835,7 +1893,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-11",
       "duration_ms": 196278,
       "name": "Waterfall mist - Spa",
       "url": "https://open.spotify.com/track/7ENIVI1tmK1GrM8s8iRpO0"
@@ -1871,7 +1929,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-10",
       "duration_ms": 330000,
       "name": "Well",
       "url": "https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG"
@@ -1889,7 +1947,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "Wing Pinger 03",
       "url": "https://open.spotify.com/track/40RaemrqgCqD6y3RYoHQGE"
@@ -1907,7 +1965,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-11",
       "duration_ms": 271000,
       "name": "XII",
       "url": "https://open.spotify.com/track/7bwAQCGcbEGPPxO5FofTyg"
@@ -1943,7 +2001,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-05",
       "duration_ms": 231500,
       "name": "Yangqin soul",
       "url": "https://open.spotify.com/track/4DYCA1Sx6gJtXKE59X8knH"

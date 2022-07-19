@@ -412,7 +412,7 @@
       "artists": [
         {
           "name": "Song Ji Eun",
-          "url": "https://open.spotify.com/artist/0qJknaV2Po1vMHAe7RcFNJ"
+          "url": "https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8"
         },
         {
           "name": "BANG YONGGUK",
@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/4x2afg5wUzbfURyzacNACm"
       },
@@ -2201,24 +2219,6 @@
       "duration_ms": 239186,
       "name": "\ubbf8\uc778\uc544 Bonamana",
       "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
-    },
-    {
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2019-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283160,
-      "name": "\uc608\ubee4\uc5b4 You Were Beautiful",
-      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
     },
     {
       "album": {

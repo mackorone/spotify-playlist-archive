@@ -4,7 +4,7 @@
 
 > Light of your 4th with these family\-friendly tunes.
 
-50 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
+51 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 | 2021-06-22 |  |
 | [Happy Birthday America \(Independence Day\)](https://open.spotify.com/track/627AUVu8ehNpbAncIPs9rt) | [Kimbo Children's Music](https://open.spotify.com/artist/2rwUq8tztT91PXEUIfPtx1) | [Holiday Songs for All Occasions](https://open.spotify.com/album/1NIT0sY0DsfePKstq7Zb11) | 1:46 | 2021-06-22 |  |
 | [Happy Birthday Dear America / In 1776 \(medley\)](https://open.spotify.com/track/68BrlobcC0Lbc4CoT9zfah) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [We Are America's Children](https://open.spotify.com/album/29kch9cC8YxxcOo9dslDJq) | 0:54 | 2021-06-22 |  |
+| [Happy Day](https://open.spotify.com/track/72PrEmH6YpeK00WcXAcNAW) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [Happy Day](https://open.spotify.com/album/7x8me0TGnOwiYmi2fGVYHt) | 2:53 | 2022-06-28 |  |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-06-22 |  |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2021-06-22 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-06-22 |  |

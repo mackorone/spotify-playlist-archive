@@ -4,10 +4,11 @@
 
 > Summer fun for the whole family.
 
-75 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
+76 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1\-2\-3 Fun Camp!](https://open.spotify.com/track/1fIjjOyu3ftxRUvCmwoNLj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [1\-2\-3 Fun Camp!](https://open.spotify.com/album/2SxkoAjwKwE5G7PpRgvnb1) | 1:39 | 2022-06-08 |  |
 | [A Neighborhood is a Friendly Place](https://open.spotify.com/track/7iSul9jFKaa0MUQWkiewUw) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Growing Up with Ella Jenkins: Rhythms, Songs, and Rhymes](https://open.spotify.com/album/468gIpOuQApGaXw9UFRHMt) | 2:46 | 2021-08-30 |  |
 | [Another Summertime Jam](https://open.spotify.com/track/1bTe8WVN7jlCAZXbixmASF) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Whatever Together](https://open.spotify.com/album/4FJAhAVYpq5UAwNrxZ31ve) | 2:49 | 2021-08-30 |  |
 | [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 | 2021-08-30 |  |

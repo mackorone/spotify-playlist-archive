@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par le beat...
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,485 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,765 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 16 | [Tivoli](https://open.spotify.com/track/6I79CoVndGtHiVwUZlSnI9) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Tivoli](https://open.spotify.com/album/70zRdMO0DTNEoTFpmR6PPH) | 2:23 |
 | 17 | [Southern Man](https://open.spotify.com/track/29MvtOnoAULKQfEKAPCbja) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Street Bangerz Volume 8](https://open.spotify.com/album/5KdKwVnwqDBduNNwOcLcKj) | 3:57 |
 | 18 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 |
-| 19 | [Peace and tranquility to earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [listener's digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 |
+| 19 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 |
 | 20 | [Say It](https://open.spotify.com/track/49BgdeY01jr63KF3cEttCe) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Say It](https://open.spotify.com/album/1jfsFps55xV3G7VZiGUHU2) | 3:27 |
 | 21 | [City Lounge](https://open.spotify.com/track/5TEi1BxiY8X20F6TvGiHJS) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 5](https://open.spotify.com/album/6UghWb5aupw0rDgwKIcnXS) | 2:38 |
 | 22 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 23 | [Wax](https://open.spotify.com/track/3Zcyk6cGjOpIhWceeSJnPv) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Wax](https://open.spotify.com/album/1dKOZDInIO3mK551bp0XdU) | 2:00 |
-| 24 | [Fry Day](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [Fry Day](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 3:37 |
+| 24 | [](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 0:00 |
 | 25 | [On & On](https://open.spotify.com/track/5STMWcvgi6UiswwZyeWdTG) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [On & On](https://open.spotify.com/album/6g0UYlxUmtnuF5b8ClgdFS) | 3:17 |
 | 26 | [Litchi](https://open.spotify.com/track/7slyKMCEFXCEiPqMYmAO0X) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Litchi](https://open.spotify.com/album/2OLMlRqfKGDzC9DUqKT1Wi) | 2:33 |
 | 27 | [Go Back Home](https://open.spotify.com/track/1B5fbRxnB26duk77yCBWvS) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Go Back Home](https://open.spotify.com/album/6wY7lwUMKCKoWgybrYFxGu) | 3:55 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 44 | [Long](https://open.spotify.com/track/6WcQ9jSyQjQHF7FoPmkBAC) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/0Dz2OL6cowrGoHkSOR0SnG) | 2:55 |
 | 45 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 |
 | 46 | [The Bulldog](https://open.spotify.com/track/7iYlacahYFEKx8cpRNC2Tx) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [The Bulldog](https://open.spotify.com/album/3HIV2UOXcao1UrJKAEgAcb) | 3:04 |
-| 47 | [Turning Heads](https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Turning Heads](https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA) | 3:06 |
+| 47 | [](https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA) | 0:00 |
 | 48 | [French Riviera](https://open.spotify.com/track/6BbQ8awsF9a0cdldNXM5aP) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [French Riviera](https://open.spotify.com/album/6xKn3EX8MzotKT3zLhX5Aa) | 2:08 |
 | 49 | [Gold](https://open.spotify.com/track/1w1CtbbwUZCVVOC5fQTJhU) | [Hugo Kant](https://open.spotify.com/artist/2jvKLLBED6JvKWtT8y3kCu), [Astrid Engberg](https://open.spotify.com/artist/1aCZzByicOHcS6WpNPwqXV) | [The Point of No Return](https://open.spotify.com/album/2isxNMBkNYPiOjDA5KOCzG) | 4:34 |
 | 50 | [Vacances A La Mer](https://open.spotify.com/track/717EBJhuUGPAwio7MolMbn) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Vacances A La Mer](https://open.spotify.com/album/6f1XqphiW0qMKEVKcMxKhQ) | 2:48 |

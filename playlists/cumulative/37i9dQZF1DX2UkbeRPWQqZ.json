@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "So Many Stars",
+        "url": "https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD"
+      },
+      "artists": [
+        {
+          "name": "Singing Guitar",
+          "url": "https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151423,
+      "name": "A Beautiful Night",
+      "url": "https://open.spotify.com/track/7xuW6jPJwCiGs2VJIqOBHm"
+    },
+    {
+      "album": {
         "name": "A La Nanita Nana",
         "url": "https://open.spotify.com/album/3yUUlHhD1ipNcYCOL50Pt8"
       },
@@ -19,10 +37,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 181132,
       "name": "A La Nanita Nana",
       "url": "https://open.spotify.com/track/2COCQxRW9uacNpxjT2ExTG"
+    },
+    {
+      "album": {
+        "name": "So Many Stars",
+        "url": "https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD"
+      },
+      "artists": [
+        {
+          "name": "Singing Guitar",
+          "url": "https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "A Waltz For a King",
+      "url": "https://open.spotify.com/track/3l4zbS4lRIdRVbq0mavDZt"
     },
     {
       "album": {
@@ -239,6 +275,24 @@
       "duration_ms": 96802,
       "name": "Bedtime Song",
       "url": "https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW"
+    },
+    {
+      "album": {
+        "name": "Bedtimes Poems",
+        "url": "https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS"
+      },
+      "artists": [
+        {
+          "name": "My Little Guitar",
+          "url": "https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200890,
+      "name": "Bedtimes Poems",
+      "url": "https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF"
     },
     {
       "album": {
@@ -844,6 +898,42 @@
     },
     {
       "album": {
+        "name": "Kling och klang",
+        "url": "https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe"
+      },
+      "artists": [
+        {
+          "name": "Simon Fj\u00e4llstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147210,
+      "name": "Kling och klang",
+      "url": "https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H"
+    },
+    {
+      "album": {
+        "name": "La Magia del Alma",
+        "url": "https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "La Magia del Alma",
+      "url": "https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d"
+    },
+    {
+      "album": {
         "name": "Classical Lullabies",
         "url": "https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb"
       },
@@ -862,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Lego Lego",
+        "url": "https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR"
+      },
+      "artists": [
+        {
+          "name": "Mia O\u2019Reilly",
+          "url": "https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137701,
+      "name": "Lego Lego",
+      "url": "https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV"
+    },
+    {
+      "album": {
         "name": "Twinkle Twinkle Little Star",
         "url": "https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k"
       },
@@ -873,10 +981,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 101706,
       "name": "Little Jack Horner",
       "url": "https://open.spotify.com/track/3CmTG34ua7Q7oFGxggNPuN"
+    },
+    {
+      "album": {
+        "name": "Bedtimes Poems",
+        "url": "https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS"
+      },
+      "artists": [
+        {
+          "name": "My Little Guitar",
+          "url": "https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194513,
+      "name": "Lovely Nights",
+      "url": "https://open.spotify.com/track/5j0DGm5INBjsEAAFKq8zHd"
     },
     {
       "album": {
@@ -1057,6 +1183,24 @@
       "duration_ms": 105163,
       "name": "My Bonnie Lies Over the Ocean",
       "url": "https://open.spotify.com/track/1IEJzJhBH5EUExBZRNr90E"
+    },
+    {
+      "album": {
+        "name": "My Yellow Balloon",
+        "url": "https://open.spotify.com/album/55cKuVSQH7zhsaEL6v4ivy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sothersby",
+          "url": "https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173537,
+      "name": "My Yellow Balloon",
+      "url": "https://open.spotify.com/track/5xIJe9ZI1WMChQebC2qwQY"
     },
     {
       "album": {
@@ -1281,7 +1425,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 130263,
       "name": "Six Little Ducks",
       "url": "https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz"
@@ -1360,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "So Many Stars",
+        "url": "https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD"
+      },
+      "artists": [
+        {
+          "name": "Singing Guitar",
+          "url": "https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175167,
+      "name": "So Many Stars",
+      "url": "https://open.spotify.com/track/54Mmafmblu61obktO4hibb"
+    },
+    {
+      "album": {
         "name": "Sov godt trollet mitt",
         "url": "https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x"
       },
@@ -1393,6 +1555,24 @@
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
+    },
+    {
+      "album": {
+        "name": "Stjernefall",
+        "url": "https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM"
+      },
+      "artists": [
+        {
+          "name": "William Riddervold",
+          "url": "https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88500,
+      "name": "Stjernefall",
+      "url": "https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78"
     },
     {
       "album": {
@@ -1663,6 +1843,24 @@
       "duration_ms": 116671,
       "name": "When The Saints Go Marching In",
       "url": "https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC"
+      },
+      "artists": [
+        {
+          "name": "Izakaru",
+          "url": "https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87500,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV"
     },
     {
       "album": {

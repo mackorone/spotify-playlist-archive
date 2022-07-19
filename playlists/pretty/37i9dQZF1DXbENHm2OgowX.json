@@ -1,723 +1,15 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 5286,
+  "num_followers": 10864,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzk5MCwwMDAwMDAwMDI5N2E3MjA2NDA3ZmEyN2YxN2NjMDY5OGFiMmUxZmQx",
+  "snapshot_id": "MTY1ODE5NDY0NywwMDAwMDAwMGFmMmQ2OWRhOTczMDJjYjZlOTFlMzlhNGUwZGJiYmUy",
   "tracks": [
     {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Alien Observer",
-      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 583160,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 125933,
-      "name": "Gold Dust",
-      "url": "https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 987960,
-      "name": "The Dead Flag Blues",
-      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "When the Sun Hits",
-      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Soundtracks for the Blind",
-        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 947666,
-      "name": "Helpless Child",
-      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Bloodhail",
-      "url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 368692,
-      "name": "The Mysterious Vanishing of Electra",
-      "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Dagger",
-      "url": "https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'm Going to Do It",
-      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "New Dawn Fades - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 472695,
-      "name": "A Quick One Before the Eternal Worm Devours Connecticut",
-      "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 302638,
-      "name": "My Body Betrayed Me",
-      "url": "https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Songs About Leaving",
-        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
-      },
-      "artists": [
-        {
-          "name": "Carissa's Wierd",
-          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "They'll Only Miss You When You Leave",
-      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 486277,
-      "name": "No One Is Ever Going to Want Me",
-      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 233719,
-      "name": "Shadowplay - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 589106,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
-      },
-      "artists": [
-        {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
-        }
-      ],
-      "duration_ms": 688000,
-      "name": "Earthmover",
-      "url": "https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 505249,
-      "name": "If I Let Him In",
-      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Lie Beneath the Stars",
-        "url": "https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm"
-      },
-      "artists": [
-        {
-          "name": "Rokkr",
-          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
-        }
-      ],
-      "duration_ms": 389530,
-      "name": "Lie Beneath the Stars",
-      "url": "https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 364293,
-      "name": "The Eternal - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Composition I-VII - St. Virus",
-        "url": "https://open.spotify.com/album/5RP3UwiFIaZZSPIgQeAbM0"
-      },
-      "artists": [
-        {
-          "name": "Aleksi Myllykoski",
-          "url": "https://open.spotify.com/artist/2FboFKeiHrjwPpBitv62lo"
-        },
-        {
-          "name": "Tapani Rinne",
-          "url": "https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1"
-        }
-      ],
-      "duration_ms": 747191,
-      "name": "Composition I - Isolation",
-      "url": "https://open.spotify.com/track/4y8C2N8SxVX8qqaTswCA7K"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 317455,
-      "name": "come",
-      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 388000,
-      "name": "Buried Above Ground",
-      "url": "https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 1742426,
-      "name": "Providence",
-      "url": "https://open.spotify.com/track/35MghvJDcBxKqb1VHL6ePy"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Bardo Landscape",
-        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Bardo Landscape",
-      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
-      },
-      "artists": [
-        {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
-      "album": {
-        "name": "Lift Your Skinny Fists Like Antennas to Heaven",
-        "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 1352413,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ"
-    },
-    {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
       "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
@@ -741,23 +33,155 @@
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Slow Bloom",
-        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 285312,
-      "name": "Slow Bloom",
-      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Composition I-VII - St. Virus",
+        "url": "https://open.spotify.com/album/5RP3UwiFIaZZSPIgQeAbM0"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Myllykoski",
+          "url": "https://open.spotify.com/artist/2FboFKeiHrjwPpBitv62lo"
+        },
+        {
+          "name": "Tapani Rinne",
+          "url": "https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1"
+        }
+      ],
+      "duration_ms": 747191,
+      "name": "Composition I - Isolation",
+      "url": "https://open.spotify.com/track/4y8C2N8SxVX8qqaTswCA7K"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Alien Observer",
+      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 688000,
+      "name": "Earthmover",
+      "url": "https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+      },
+      "artists": [
+        {
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Soundtracks for the Blind",
+        "url": "https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 947666,
+      "name": "Helpless Child",
+      "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
       "album": {
         "name": "Together Is The New Alone (2021 Remaster)",
         "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
@@ -773,7 +197,7 @@
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
       "album": {
         "name": "Untethering",
         "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
@@ -789,7 +213,319 @@
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 472695,
+      "name": "A Quick One Before the Eternal Worm Devours Connecticut",
+      "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Gold of the Azure (Marconi Union Remix)",
+        "url": "https://open.spotify.com/album/43cP2xH2L43NJBDgMslzWZ"
+      },
+      "artists": [
+        {
+          "name": "Digitonal",
+          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
+        },
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 396773,
+      "name": "Gold of the Azure - Marconi Union Remix",
+      "url": "https://open.spotify.com/track/4QTLMYj1dHVMgIihKvbidY"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "When the Sun Hits",
+      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 388000,
+      "name": "Buried Above Ground",
+      "url": "https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
+      },
+      "artists": [
+        {
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
+        }
+      ],
+      "duration_ms": 505249,
+      "name": "If I Let Him In",
+      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Brett",
+          "url": "https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz"
+        }
+      ],
+      "duration_ms": 497009,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 317455,
+      "name": "come",
+      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Bloodhail",
+      "url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 267871,
+      "name": "Enerhodar",
+      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 486277,
+      "name": "No One Is Ever Going to Want Me",
+      "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 125933,
+      "name": "Gold Dust",
+      "url": "https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Songs About Leaving",
+        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
+      },
+      "artists": [
+        {
+          "name": "Carissa's Wierd",
+          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "They'll Only Miss You When You Leave",
+      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
       "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
@@ -805,24 +541,292 @@
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
-      "added_at": "2022-04-01 00:00:00",
+      "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "snowfall (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
       },
       "artists": [
         {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
         }
       ],
-      "duration_ms": 150660,
-      "name": "snowfall (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
+      "duration_ms": 583160,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'm Going to Do It",
+      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 364293,
+      "name": "The Eternal - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Real Death",
+      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 285312,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 1742426,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/35MghvJDcBxKqb1VHL6ePy"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
+      },
+      "artists": [
+        {
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
+        }
+      ],
+      "duration_ms": 302638,
+      "name": "My Body Betrayed Me",
+      "url": "https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 368692,
+      "name": "The Mysterious Vanishing of Electra",
+      "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 589106,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Bardo Landscape",
+        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Bardo Landscape",
+      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     }
   ],
   "unique_name": "gloomcore",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain]
 
 > The skies are filled with blues for a joyful ride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 30 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 30 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

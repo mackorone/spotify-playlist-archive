@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcndo43KVGbN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcndo43KVGbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcndo43KVGbN)
 
-### [Sonic Artefacts](https://open.spotify.com/playlist/37i9dQZF1DXcndo43KVGbN)
+### [Ambient Sonics](https://open.spotify.com/playlist/37i9dQZF1DXcndo43KVGbN)
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-92 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+96 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aralkum](https://open.spotify.com/track/5WTL2dxPPRTdKZrrFOvHiD) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Aralkum](https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v) | 6:39 | 2022-03-11 |  |
 | [Avril](https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Lux](https://open.spotify.com/album/1O09puSK7tOoQP58R4FM5M) | 2:24 | 2022-03-11 |  |
 | [Band \(pause\)](https://open.spotify.com/track/6cUrqtrXOcmRfUhlkJ8RWx) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:40 | 2022-03-11 |  |
+| [Bautarsteinn](https://open.spotify.com/track/0HEsNDEwSuTLbLTpnOZjqt) | [Fuimadane](https://open.spotify.com/artist/0bvLGQcToNe2fbO2IIXpvN) | [Baráttan við Myrkrið](https://open.spotify.com/album/5ZqYuoyzvEEoK8QiPSvTVL) | 5:21 | 2022-05-06 |  |
 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 | 2022-03-11 |  |
 | [besideways](https://open.spotify.com/track/0iGq0e4hGEqkItM34gIeC9) | [Septober](https://open.spotify.com/artist/5mrnxL7kMgBuBt1PsC5jl5) | [besideways](https://open.spotify.com/album/6S8T9rmuPXwgYAYNAhc9og) | 1:48 | 2022-03-11 |  |
 | [Blinding Shadow](https://open.spotify.com/track/02r6zlxkpUon7RRBo68ggg) | [Christian Marclay](https://open.spotify.com/artist/3s4oEo05Do24wMkcjXlxll), [Elliott Sharp](https://open.spotify.com/artist/17PS6mukckWnUN4DwilBBs) | [High Noon](https://open.spotify.com/album/30bNYzo8tUysCEpw6wTwMJ) | 4:20 | 2022-03-11 |  |
@@ -37,6 +38,7 @@
 | [Early Light \(Meitei Remix\)](https://open.spotify.com/track/46G1RK4actdNQF6KZenmLV) | [Tobias Wilden](https://open.spotify.com/artist/59hcWy4ZpbiDgeHpIc7Xgf), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Early Light \(Meitei Remix\)](https://open.spotify.com/album/1Ztr7R5aUPtOR7uapYuBcG) | 6:12 | 2022-03-11 |  |
 | [Early Spring](https://open.spotify.com/track/5gBHwLpu16lo8wSK9DtBoj) | [Chris Other](https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV) | [Meeting You Between Spring and Summer](https://open.spotify.com/album/5VwDGt3zLBwx85ftiYBcDc) | 5:10 | 2022-03-11 |  |
 | [Emerging](https://open.spotify.com/track/7833wL428Kl5gD1Yatcwv6) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Emerging](https://open.spotify.com/album/06okB10q356etzN1QWVWg7) | 7:18 | 2022-03-11 |  |
+| [Every Something Is An Echo Of Nothing](https://open.spotify.com/track/4pPsxK4Hiw8VjGIdIlQkUj) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 4:00 | 2022-05-18 |  |
 | [Fallin Into Space](https://open.spotify.com/track/0mRI398jCGgDuJXoG79LSz) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:58 | 2022-03-11 |  |
 | [Festival](https://open.spotify.com/track/5xvxj0UCFAliZgWCHwwOLX) | [Chris Other](https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV) | [Festival](https://open.spotify.com/album/3KhDY7aQucUF8kcRib2YVR) | 6:46 | 2022-03-11 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-03-11 |  |
@@ -68,6 +70,7 @@
 | [Rebstock Fold](https://open.spotify.com/track/4APWyWpjQm3qPSpIwMvXJG) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W) | [Rebstock Fold](https://open.spotify.com/album/1mVCBO9JdLbv9cfQkrE9ci) | 5:31 | 2022-03-11 |  |
 | [REEL 2 PHASE 2](https://open.spotify.com/track/4UJk2NxHXGcpkjhzhqhVTl) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [REEL 2 PHASE 2](https://open.spotify.com/album/70kULFcLysFbSLj4YynEVG) | 5:22 | 2022-03-25 |  |
 | [Rest](https://open.spotify.com/track/6lwzPFFTgVWJq4YM9Cf6Ek) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Rest](https://open.spotify.com/album/0j1VtChCYo7clU8Yz4Iohq) | 6:05 | 2022-03-25 |  |
+| [Revolving door](https://open.spotify.com/track/7giXEIu7MPLp0PpPkM6PUi) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 6:42 | 2022-07-08 |  |
 | [River Faith](https://open.spotify.com/track/6NyW1PO1IPf46YjTeJd9sF) | [Marco Caricola](https://open.spotify.com/artist/5B8mOxjZeel228q1wNq0Cp), [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW) | [Aleas \(1\)](https://open.spotify.com/album/1CMsdpTA2lEiwE5bSsteol) | 4:14 | 2022-03-11 |  |
 | [Room To Room](https://open.spotify.com/track/2nL7PY2oT8TQFgmADUXSwu) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 3:08 | 2022-03-11 |  |
 | [Ruby Lights](https://open.spotify.com/track/6kOgyouykoatyTDUUHqkeb) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 6:39 | 2022-03-11 |  |
@@ -98,6 +101,7 @@
 | [Up Over](https://open.spotify.com/track/3O7QrUiBv76sGHuwsfqLCc) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH) | [Up Over](https://open.spotify.com/album/16Ar7ykLlJVyXZSaCw8RCr) | 4:27 | 2022-03-11 |  |
 | [Upstairs Flat](https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 6:07 | 2022-03-11 |  |
 | [Usvassa Eksyminen](https://open.spotify.com/track/4W2Hf9mGeKHYO5JzhhbxRN) | [Auvinen](https://open.spotify.com/artist/4MiDOWLTXzjLVpuWMG2sBz) | [Akkosaari](https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz) | 5:13 | 2022-03-11 |  |
+| [VI \(Featuring Keith Kenniff\)](https://open.spotify.com/track/2AIQ4vQLWyfGGA41iTeA1x) | [Julien Neto](https://open.spotify.com/artist/4JVbuk3i6Z5WGR3ar8Wro2) | [Le Fumeur De Ciel](https://open.spotify.com/album/1SwfAtm5Rom8gcgEK8H5Qs) | 4:13 | 2022-07-01 | 2022-07-07 |
 | [Wet Flakey Bark](https://open.spotify.com/track/63CE8uDdIX4MAfKff357zi) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 4:46 | 2022-03-11 |  |
 | [While My Heart Is Still Beating](https://open.spotify.com/track/2IGpGEwEVxbJoHRv6Fm87w) | [Not Waving](https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC), [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Eyes of Fate](https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU) | 4:09 | 2022-03-11 |  |
 

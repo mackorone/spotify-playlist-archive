@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 24 | [Just Coolin’](https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin’](https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa) | 6:48 |
 | 25 | [Textures](https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Textures](https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO) | 5:39 |
 | 26 | [Stablemates](https://open.spotify.com/track/4y2LfKYTXzLvJ9efo8wb25) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S) | [Stablemates](https://open.spotify.com/album/1J6qODNVP71k3FZjGsFg0l) | 3:52 |
-| 27 | [Naked Truth \- Pt\. 1](https://open.spotify.com/track/7uYZxt7hEj29CdpBcbG457) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Naked Truth \(Pt\. 1\)](https://open.spotify.com/album/6QHaWl2r05jHBcUwVRTfug) | 1:51 |
+| 27 | [Naked Truth \- Pt\. 1](https://open.spotify.com/track/7uYZxt7hEj29CdpBcbG457) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Naked Truth \(Pt\. 1\)](https://open.spotify.com/album/6QHaWl2r05jHBcUwVRTfug) | 1:51 |
 | 28 | [Anima](https://open.spotify.com/track/5TlidB2YWXSUedNtjUDpwM) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Anima](https://open.spotify.com/album/1YHYs0jENPZ0x4d0Ky5Btn) | 4:54 |
 | 29 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 |
 | 30 | [At Long Last Love \- Live](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-102 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+103 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Breathe \- Radio Mix](https://open.spotify.com/track/3reSYEncpM0SorYfQVJypk) | [Captain Festus McBoyle](https://open.spotify.com/artist/6EX0vGvZClOwredyU8O2BD) | [Breathe \(Radio Mix\)](https://open.spotify.com/album/66hXajZcZPfoASZkQPuxje) | 2:50 | 2022-04-15 |  |
 | [Brothers & Sisters](https://open.spotify.com/track/6wNMg5q7l9hBML29D45Yq1) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Brothers & Sisters](https://open.spotify.com/album/2yfEN46713k8LsXlXXyycS) | 2:51 | 2022-04-15 |  |
 | [Bubbles](https://open.spotify.com/track/6FtKyvGQxN3KqSLGU51MD0) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS), [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 2:52 | 2022-04-15 |  |
+| [Burpin' Bob the Surfin' Frog](https://open.spotify.com/track/3Sjc0K3ehe7lXPzDKKelWM) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 1:22 | 2022-05-25 |  |
 | [Cool to be Kind](https://open.spotify.com/track/78aveZ6V2TZPefYHaVDOAN) | [Moe & Friends](https://open.spotify.com/artist/5sEYIFfHFKl1JKnTSQSXjl) | [Songs from Moe & Friends](https://open.spotify.com/album/2ZGaeu14dXKTsiHRn3BE5R) | 2:01 | 2022-04-15 |  |
 | [Crayon Kids](https://open.spotify.com/track/4M3nufr1L2tt1U1ISbOIiO) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 4:31 | 2022-04-15 |  |
 | [Dance with Me](https://open.spotify.com/track/4MKQfMCmqgJDKfON4yvIfT) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:49 | 2022-04-15 |  |

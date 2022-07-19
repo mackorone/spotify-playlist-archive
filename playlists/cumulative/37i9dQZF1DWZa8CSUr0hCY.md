@@ -4,10 +4,12 @@
 
 > Laissez\-vous porter par le beat...
 
-69 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
+69 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA) | 0:00 | 2020-10-20\* |  |
+| [](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 0:00 | 2020-10-20\* |  |
 | [A Beautiful Eve](https://open.spotify.com/track/54ah8liCv9mF0VLrvisQeI) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [The Day After](https://open.spotify.com/album/2TB0dVyAIenZAbADN8PWcL) | 4:18 | 2020-10-20\* | 2022-01-29 |
 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 | 2020-10-20\* |  |
 | [A Place I Know](https://open.spotify.com/track/2P2lnaf2K0dNnN5mKcjGzl) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [A Place I Know](https://open.spotify.com/album/5GWiZ1O8WsRvc2LN6W1uFH) | 2:07 | 2020-10-20\* |  |
@@ -27,7 +29,6 @@
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 |  |
 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 | 2021-06-02 |  |
 | [French Riviera](https://open.spotify.com/track/6BbQ8awsF9a0cdldNXM5aP) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [French Riviera](https://open.spotify.com/album/6xKn3EX8MzotKT3zLhX5Aa) | 2:08 | 2020-10-20\* |  |
-| [Fry Day](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [Fry Day](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 3:37 | 2020-10-20\* |  |
 | [Funk for Food](https://open.spotify.com/track/2rLwz4Eihs3PXhx7e4qhcN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Funk for Food](https://open.spotify.com/album/1qBIwBv13XdiXfnU07Fsw9) | 1:55 | 2020-10-20\* |  |
 | [Funky Shit](https://open.spotify.com/track/4ndEDfXSJVeLG4SObU3TUd) | [Loopmaffia](https://open.spotify.com/artist/6VeF1dMdyeD7aiJYVP72GH) | [This Is How It Should Be Done Volume 1](https://open.spotify.com/album/7v78mNvI7W0rJvhjkOTKAc) | 3:00 | 2022-04-28 |  |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2020-10-20\* |  |
@@ -49,7 +50,7 @@
 | [Night Train](https://open.spotify.com/track/19NEtiVWvwEdD3USeNQFLF) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Night Train](https://open.spotify.com/album/2hX4sMSxgpL7McXdZURzZj) | 2:35 | 2021-03-14 |  |
 | [On & On](https://open.spotify.com/track/5STMWcvgi6UiswwZyeWdTG) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [On & On](https://open.spotify.com/album/6g0UYlxUmtnuF5b8ClgdFS) | 3:17 | 2022-01-28 |  |
 | [Out for Good](https://open.spotify.com/track/5NxAzx6EtnepywD0oqevtZ) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Hip Dozer, Vol\. 2](https://open.spotify.com/album/4iFI8dc2Ynf7ou7GgI6wUs) | 2:06 | 2020-11-06 |  |
-| [Peace and tranquility to earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [listener's digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2020-10-20\* |  |
+| [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2020-10-20\* |  |
 | [Peace of What](https://open.spotify.com/track/2o2KHNSVo9VNwMTZkKqHMb) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Dame Fortune](https://open.spotify.com/album/298x29sNXaH7yDgXLoKiQX) | 3:29 | 2020-10-20\* | 2021-06-03 |
 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2020-10-20\* |  |
 | [Que Sera](https://open.spotify.com/track/0lnfcWRREvnGtXPP2ZDeq7) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/1sWIbvCurzF7ZVFYWjLGQO) | 2:44 | 2020-10-20\* |  |
@@ -67,7 +68,6 @@
 | [The Hype](https://open.spotify.com/track/1IksaRdqvnduRQqNRMdZTn) | [Cookie Jar](https://open.spotify.com/artist/3pMW594atvqTgp3Uj1IpGF) | [The Hype](https://open.spotify.com/album/2dmelaRBBhf0RoL2iZIz4M) | 2:37 | 2020-10-20\* | 2020-11-06 |
 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 | 2020-10-20\* |  |
 | [Tivoli](https://open.spotify.com/track/6I79CoVndGtHiVwUZlSnI9) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Tivoli](https://open.spotify.com/album/70zRdMO0DTNEoTFpmR6PPH) | 2:23 | 2022-04-28 |  |
-| [Turning Heads](https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Turning Heads](https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA) | 3:06 | 2020-10-20\* |  |
 | [Tôzen](https://open.spotify.com/track/0w4cAGIHjWLypKaMFm6xL2) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Tôzen](https://open.spotify.com/album/5NvRDbnWpvGiUt0JlFtK8j) | 2:50 | 2020-10-20\* |  |
 | [Urban Stories](https://open.spotify.com/track/2ygAdR5sXq1VpATied1LDw) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 5:02 | 2020-10-20\* | 2020-11-06 |
 | [Vacances A La Mer](https://open.spotify.com/track/717EBJhuUGPAwio7MolMbn) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Vacances A La Mer](https://open.spotify.com/album/6f1XqphiW0qMKEVKcMxKhQ) | 2:48 | 2020-10-20\* |  |

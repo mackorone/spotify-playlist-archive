@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TQKebIP2y3YGxoklr72aV.md) - [plain]
 
 > Fairy tales and children's classics sure to satisfy your inner child...
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 56 songs - 1 day 0 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 56 songs - 1 day 0 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

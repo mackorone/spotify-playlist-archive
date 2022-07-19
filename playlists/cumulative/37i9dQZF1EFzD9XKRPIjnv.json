@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa\">Sarah Aarons</a>, all in one playlist. <a href=\"spotify:genre:songwriters-page\">Discover more songwriters on Spotify</a>.",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa\">Sarah Aarons</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sarah Aarons",
   "published_playlist_ids": [
     "3BP8AJXn7JtSS0hniQgsgr"
@@ -23,6 +23,24 @@
       "duration_ms": 185172,
       "name": "21",
       "url": "https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT"
+    },
+    {
+      "album": {
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
     },
     {
       "album": {
@@ -436,6 +454,24 @@
     },
     {
       "album": {
+        "name": "TIARA",
+        "url": "https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179531,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY"
+    },
+    {
+      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
@@ -690,6 +726,78 @@
     },
     {
       "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u"
+      },
+      "artists": [
+        {
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203528,
+      "name": "Give You Everything",
+      "url": "https://open.spotify.com/track/5yUbwHjzlYFmZc4t9slPwp"
+    },
+    {
+      "album": {
+        "name": "Give You Everything",
+        "url": "https://open.spotify.com/album/7Kun6EouwhyDRRTku3xGgi"
+      },
+      "artists": [
+        {
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 203528,
+      "name": "Give You Everything",
+      "url": "https://open.spotify.com/track/6PMRGsl6rIZOdT3PrsjXtT"
+    },
+    {
+      "album": {
+        "name": "How To Let Go",
+        "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193526,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/0LugbsjGtC0vOv87uqQN1W"
+    },
+    {
+      "album": {
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296960,
+      "name": "HAPPY HURTS",
+      "url": "https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b"
+    },
+    {
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
@@ -784,6 +892,50 @@
     },
     {
       "album": {
+        "name": "Musicas para Fuder",
+        "url": "https://open.spotify.com/album/3i2OgGH7zU9uv16Z9zECgP"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "High",
+      "url": "https://open.spotify.com/track/77Ts8iO0YyjgXrRJdwNMTC"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Para Meter",
+        "url": "https://open.spotify.com/album/1VOY4mcn2XGiukf9Sc5iNf"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-29",
+      "duration_ms": 196706,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7m4uS0EfgbfhwQCA0IVJT6"
+    },
+    {
+      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -799,7 +951,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-18",
       "duration_ms": 196706,
       "name": "High (& Dua Lipa)",
       "url": "https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva"
@@ -973,7 +1125,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-15",
       "duration_ms": 143249,
       "name": "In Case I Fall Asleep",
       "url": "https://open.spotify.com/track/3NXhat0yvFpxhXabF38i8o"
@@ -1563,10 +1715,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-23",
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+    },
+    {
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/6x8to58oCuyPyuXIe5Imak"
     },
     {
       "album": {
@@ -1643,6 +1817,24 @@
       "duration_ms": 236647,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/5olgfv0LjMoUtFe11djz32"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176058,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
     },
     {
       "album": {
@@ -2171,24 +2363,6 @@
       "duration_ms": 222320,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv"
-    },
-    {
-      "album": {
-        "name": "TIARA",
-        "url": "https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "date_added": "2021-12-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179531,
-      "name": "\u5225\u5ee2\u8a71",
-      "url": "https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFzD9XKRPIjnv"

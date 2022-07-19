@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 252320,
       "name": "7 - Acoustic",
       "url": "https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 191521,
       "name": "A Ton of Love - Acoustic Version",
       "url": "https://open.spotify.com/track/0QlJAgg3zveXMQwKWmJdyJ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 199893,
       "name": "All I Want - Acoustic",
       "url": "https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR"
@@ -242,6 +242,28 @@
     },
     {
       "album": {
+        "name": "Bad Life (acoustic)",
+        "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220239,
+      "name": "Bad Life - acoustic",
+      "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
+    },
+    {
+      "album": {
         "name": "Erratic Cinematic",
         "url": "https://open.spotify.com/album/2nLRS9HXd92qwBxqTLW1Qj"
       },
@@ -289,7 +311,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": "2022-06-21",
       "duration_ms": 242532,
       "name": "Black Magic - Acoustic",
       "url": "https://open.spotify.com/track/1U6HmSb0wFSuMBgIrqhwqu"
@@ -563,7 +585,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-06-05",
       "duration_ms": 194533,
       "name": "Dirty Little Secret - Acoustic",
       "url": "https://open.spotify.com/track/1FTplvsC8qcmpbgMGIX1uI"
@@ -729,7 +751,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 269323,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
@@ -783,7 +805,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 276106,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
@@ -801,7 +823,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-21",
+      "date_removed": "2022-06-01",
       "duration_ms": 261800,
       "name": "Half The World Away",
       "url": "https://open.spotify.com/track/6aM4E6WfuoDnPAgaKaZ5hM"
@@ -837,7 +859,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-17",
       "duration_ms": 171000,
       "name": "Hated (Acoustic Version)",
       "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-14",
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-06-13",
       "duration_ms": 216940,
       "name": "Legendary - Acoustic",
       "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
@@ -1273,6 +1295,24 @@
       "duration_ms": 217855,
       "name": "mother tongue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
+    },
+    {
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232181,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
     },
     {
       "album": {
@@ -1449,7 +1489,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
@@ -1467,7 +1507,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-28",
       "duration_ms": 312226,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN"
@@ -1521,7 +1561,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-06-26",
       "duration_ms": 220708,
       "name": "So Much Love - Acoustic",
       "url": "https://open.spotify.com/track/4cnO0iec95UnL8IGSwgaQZ"
@@ -1673,7 +1713,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-17",
       "duration_ms": 206253,
       "name": "Talihina Sky - Acoustic Version",
       "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
@@ -1839,7 +1879,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 193297,
       "name": "Way down We Go - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
@@ -1893,7 +1933,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 237946,
       "name": "When You're Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/2fYq0QnkfHuNSlZqc8qgv7"

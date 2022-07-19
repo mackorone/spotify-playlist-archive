@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-12",
       "duration_ms": 108493,
       "name": "0 to 100",
       "url": "https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-25",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
@@ -103,6 +103,24 @@
       "duration_ms": 309103,
       "name": "Aabaad Barbaad",
       "url": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
+    },
+    {
+      "album": {
+        "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
     },
     {
       "album": {
@@ -208,6 +226,96 @@
     },
     {
       "album": {
+        "name": "Ain't Died In Vain",
+        "url": "https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 170602,
+      "name": "Ain't Died In Vain",
+      "url": "https://open.spotify.com/track/5tXDVieP5trNSb9cco2ZRt"
+    },
+    {
+      "album": {
+        "name": "Om Shanti Om",
+        "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 241668,
+      "name": "Ajab Si",
+      "url": "https://open.spotify.com/track/5FXMRdJjKq1BIX4e8Eg9mK"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 241668,
+      "name": "Ajab Si (From \"Om Shanti Om\")",
+      "url": "https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV"
+    },
+    {
+      "album": {
+        "name": "Evergreen Hits Of K.K.",
+        "url": "https://open.spotify.com/album/1dG5jJAa3ZiSWnpVd2uPao"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 241668,
+      "name": "Ajab Si (From \"Om Shanti Om\")",
+      "url": "https://open.spotify.com/track/6Sd4K3pP7uawhSNPhLB20X"
+    },
+    {
+      "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -223,6 +331,28 @@
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "album": {
+        "name": "Life In A Metro (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 338586,
+      "name": "Alvida",
+      "url": "https://open.spotify.com/track/7EjatvVN2Y2GjpvKSyWJR4"
     },
     {
       "album": {
@@ -266,6 +396,42 @@
     },
     {
       "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 159761,
+      "name": "Arson",
+      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -277,7 +443,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -371,7 +537,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 199407,
       "name": "Atak Gaya - Arijit Singh",
       "url": "https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX"
@@ -589,7 +755,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": "2022-06-22",
       "duration_ms": 242628,
       "name": "Bae (From \"Don\")",
       "url": "https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6"
@@ -751,10 +917,46 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 220350,
       "name": "Beast Mode (From \"Beast\")",
       "url": "https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF"
+    },
+    {
+      "album": {
+        "name": "The Train",
+        "url": "https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 298271,
+      "name": "Beete Lamhein",
+      "url": "https://open.spotify.com/track/0zQa7QXLpUZfrrsWbgDZll"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 298271,
+      "name": "Beete Lamhein (From \"The Train\")",
+      "url": "https://open.spotify.com/track/0dJacN6K3mSGLE9p7QE0lO"
     },
     {
       "album": {
@@ -850,6 +1052,58 @@
     },
     {
       "album": {
+        "name": "Bhool Bhulaiyaa 2",
+        "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Bhool Bhulaiyaa 2 Title Track",
+      "url": "https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
+        "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 211666,
+      "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
+      "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
+    },
+    {
+      "album": {
         "name": "Bijlee Bijlee",
         "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
       },
@@ -861,7 +1115,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
@@ -944,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-13",
+      "duration_ms": 238628,
+      "name": "Born Singer",
+      "url": "https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
       },
@@ -1007,7 +1279,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-01",
       "duration_ms": 254412,
       "name": "Brown Munde",
       "url": "https://open.spotify.com/track/1AueyZtYgEluDu54CfCSKy"
@@ -1415,8 +1687,8 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204854,
+      "date_removed": "2022-05-25",
+      "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
     },
@@ -1801,7 +2073,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-30",
       "duration_ms": 168000,
       "name": "DESIRES",
       "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
@@ -1827,6 +2099,32 @@
       "duration_ms": 356826,
       "name": "Deva Shree Ganesha",
       "url": "https://open.spotify.com/track/6Ozx2ngGtXrqznTKhKBlrT"
+    },
+    {
+      "album": {
+        "name": "Dil (From \"Ek Villain Returns\")",
+        "url": "https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x"
+      },
+      "artists": [
+        {
+          "name": "Kaushik-Guddu",
+          "url": "https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309149,
+      "name": "Dil (From \"Ek Villain Returns\")",
+      "url": "https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn"
     },
     {
       "album": {
@@ -1856,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "Tum Mile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ip9JCpT1IF9GvhAxzufTH"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 329386,
+      "name": "Dil Ibaadat",
+      "url": "https://open.spotify.com/track/3Kl8p2PxVf8eAayLwTxOIm"
+    },
+    {
+      "album": {
         "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
         "url": "https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe"
       },
@@ -1879,6 +2199,60 @@
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
+    },
+    {
+      "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/79uqwO6n4ZFqHaDwLZhyL0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 333200,
+      "name": "Dil Kyun Yeh Mera",
+      "url": "https://open.spotify.com/track/5nHwX7e5XHnie22nuTFgda"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 333200,
+      "name": "Dil Kyun Yeh Mera (From \"Kites\")",
+      "url": "https://open.spotify.com/track/4yXLSeG6KtNKOhKrvEWH87"
+    },
+    {
+      "album": {
+        "name": "Evergreen Hits Of K.K.",
+        "url": "https://open.spotify.com/album/1dG5jJAa3ZiSWnpVd2uPao"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 333200,
+      "name": "Dil Kyun Yeh Mera (From \"Kites\")",
+      "url": "https://open.spotify.com/track/66uMmK9uefgoflmaxbtQCL"
     },
     {
       "album": {
@@ -1967,7 +2341,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 219686,
       "name": "Doobey",
       "url": "https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T"
@@ -2146,6 +2520,42 @@
     },
     {
       "album": {
+        "name": "Ektarfa",
+        "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 230903,
+      "name": "Ektarfa",
+      "url": "https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4"
+    },
+    {
+      "album": {
+        "name": "ELEVATED",
+        "url": "https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 200658,
+      "name": "ELEVATED",
+      "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
       },
@@ -2169,7 +2579,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -2243,7 +2653,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 173333,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
@@ -2401,6 +2811,54 @@
       "duration_ms": 214620,
       "name": "Film out",
       "url": "https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt"
+    },
+    {
+      "album": {
+        "name": "Shamshera",
+        "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Karan Malhotra",
+          "url": "https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308459,
+      "name": "Fitoor",
+      "url": "https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-13",
+      "duration_ms": 264480,
+      "name": "For Youth",
+      "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
     },
     {
       "album": {
@@ -2577,6 +3035,68 @@
       "duration_ms": 296500,
       "name": "Gallan Goodiyaan",
       "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR"
+    },
+    {
+      "album": {
+        "name": "Galliyan Returns (From \"Ek Villain Returns\")",
+        "url": "https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350011,
+      "name": "Galliyan Returns (From \"Ek Villain Returns\")",
+      "url": "https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX"
+    },
+    {
+      "album": {
+        "name": "Way Ahead",
+        "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 154925,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/6dUGQzqCA18wKzVuiGttJF"
+    },
+    {
+      "album": {
+        "name": "Way Ahead",
+        "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 190153,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
     },
     {
       "album": {
@@ -2780,6 +3300,24 @@
     },
     {
       "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
       },
@@ -2879,6 +3417,50 @@
       "duration_ms": 178350,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU"
+    },
+    {
+      "album": {
+        "name": "Jannat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 324880,
+      "name": "Haan Tu Hain",
+      "url": "https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR"
+    },
+    {
+      "album": {
+        "name": "Har Har Shambhu Shiv Mahadeva",
+        "url": "https://open.spotify.com/album/4QwWjaY61kWmPa0GHv1Svt"
+      },
+      "artists": [
+        {
+          "name": "Jeetu Sharma",
+          "url": "https://open.spotify.com/artist/6UECKSYwQSyYDONQ84CiDW"
+        },
+        {
+          "name": "Abhilipsa Panda",
+          "url": "https://open.spotify.com/artist/5ZYhwVkbSCFobQudgGR6Xo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354666,
+      "name": "Har Har Shambhu Shiv Mahadeva",
+      "url": "https://open.spotify.com/track/3ndbMiA9kQ3LJq1moyHAfM"
     },
     {
       "album": {
@@ -3122,6 +3704,58 @@
     },
     {
       "album": {
+        "name": "Bhool Bhulaiyaa 2",
+        "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238252,
+      "name": "Hum Nashe Mein Toh Nahin",
+      "url": "https://open.spotify.com/track/5L70RGPJEdooqtrgR7vd6U"
+    },
+    {
+      "album": {
+        "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
+        "url": "https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 238252,
+      "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
+      "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
+    },
+    {
+      "album": {
         "name": "Humraah (From \"Malang - Unleash The Madness\")",
         "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
       },
@@ -3243,7 +3877,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -3283,6 +3917,24 @@
       "duration_ms": 205855,
       "name": "Insaan",
       "url": "https://open.spotify.com/track/6CVYrwxIgHJMzuvJJ9QkB7"
+    },
+    {
+      "album": {
+        "name": "Chamber",
+        "url": "https://open.spotify.com/album/6hyYBbXu5Dd0uafOz7ZRhC"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/4XKSLOAnuYTKhudsCSJjgF"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 206064,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/6LTzRB9BHfGyw3uQunEWse"
     },
     {
       "album": {
@@ -3543,7 +4195,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-07",
       "duration_ms": 202607,
       "name": "Jalabulajangu (From \"Don\")",
       "url": "https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh"
@@ -3652,6 +4304,42 @@
     },
     {
       "album": {
+        "name": "Jhoom",
+        "url": "https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Jhoom - R&B Mix",
+      "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
+    },
+    {
+      "album": {
+        "name": "Jhoom - Ali Zafar",
+        "url": "https://open.spotify.com/album/2YW2dTpvfknlb8DfuNw18x"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
+      "duration_ms": 298986,
+      "name": "Jhoom R&B Mix",
+      "url": "https://open.spotify.com/track/6r8nR2JGKT9k4lnaSTdKkZ"
+    },
+    {
+      "album": {
         "name": "Jolly O Gymkhana (From \"Beast\")",
         "url": "https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC"
       },
@@ -3667,7 +4355,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 208064,
       "name": "Jolly O Gymkhana (From \"Beast\")",
       "url": "https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn"
@@ -3733,10 +4421,32 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-25",
       "duration_ms": 230400,
       "name": "Jugnu",
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "album": {
+        "name": "Kaadhal En Kaviye (From \"Salmon 3D\")",
+        "url": "https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311558,
+      "name": "Kaadhal En Kaviye - From \"Salmon 3D\"",
+      "url": "https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ"
     },
     {
       "album": {
@@ -3784,6 +4494,28 @@
     },
     {
       "album": {
+        "name": "3G - A Killer Connection",
+        "url": "https://open.spotify.com/album/1hEMBRWMPmYrBtvgDqGfjx"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sonal Chauhan",
+          "url": "https://open.spotify.com/artist/6HQjCmn6AnJdHXSac0xPwj"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 281611,
+      "name": "Kaise Bataaoon",
+      "url": "https://open.spotify.com/track/2jMsqX0TfKTi24dZSSPjbo"
+    },
+    {
+      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -3795,7 +4527,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-11",
+      "date_removed": null,
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -3872,6 +4604,32 @@
     },
     {
       "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
+    {
+      "album": {
         "name": "Kesariya Audio Teaser (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT"
       },
@@ -3913,10 +4671,36 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-24",
+      "date_removed": "2022-05-12",
       "duration_ms": 280281,
       "name": "Khairiyat",
       "url": "https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20"
+    },
+    {
+      "album": {
+        "name": "Bachna Ae Haseeno",
+        "url": "https://open.spotify.com/album/4mFLdK8SkUo3cx8ERLQC92"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 333583,
+      "name": "Khuda Jaane",
+      "url": "https://open.spotify.com/track/0gPgdRfB4jdGrlyXS0Vx78"
     },
     {
       "album": {
@@ -4048,6 +4832,42 @@
     },
     {
       "album": {
+        "name": "Woh Lamhe",
+        "url": "https://open.spotify.com/album/4HQwIiFKCkiOCI6b9oAiAR"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 266653,
+      "name": "Kya Mujhe Pyar Hai",
+      "url": "https://open.spotify.com/track/3HFjh7QljnUCBLsoTwMuTj"
+    },
+    {
+      "album": {
+        "name": "Evergreen Hits Of K.K.",
+        "url": "https://open.spotify.com/album/1dG5jJAa3ZiSWnpVd2uPao"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 266653,
+      "name": "Kya Mujhe Pyar Hai (From \"Woh Lamhe\")",
+      "url": "https://open.spotify.com/track/7fW9J3EpVWVN1ouv0slAs0"
+    },
+    {
+      "album": {
         "name": "Kyaa Mujhe Pyaar Hai? (Lofi Mix)",
         "url": "https://open.spotify.com/album/1H948aab4Nvp2TkTg9nyuE"
       },
@@ -4081,6 +4901,28 @@
       "duration_ms": 236428,
       "name": "Laagi Lagan Shankara",
       "url": "https://open.spotify.com/track/4nrqr2KVU3eoaL9743jwoB"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa",
+        "url": "https://open.spotify.com/album/4BKbiFqwZBaBG6MeDdkwID"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 341027,
+      "name": "Labon Ko",
+      "url": "https://open.spotify.com/track/5WncH5iZ5GFlnXm7jKEXVP"
     },
     {
       "album": {
@@ -4146,6 +4988,32 @@
     },
     {
       "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
         "name": "Most Eligible Bachelor",
         "url": "https://open.spotify.com/album/22hFErJbDz0TB3xUMTpsAf"
       },
@@ -4179,6 +5047,32 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
     },
     {
       "album": {
@@ -4312,6 +5206,24 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Background Score)",
+        "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Lokiverse - Background Score",
+      "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
       },
@@ -4411,7 +5323,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-06-27",
       "duration_ms": 232258,
       "name": "Love Sick (feat. AR Paisley)",
       "url": "https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr"
@@ -4781,7 +5693,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 198125,
       "name": "Mann Mera (From \"Table No. 21\")",
       "url": "https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD"
@@ -4807,6 +5719,28 @@
       "duration_ms": 225956,
       "name": "Marjaawaan",
       "url": "https://open.spotify.com/track/2uBlWwG0P6cUOUBiZhPmBM"
+    },
+    {
+      "album": {
+        "name": "Murder 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/59mJQyT1wOf5irSqfJNI43"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 251480,
+      "name": "Mat Aazma Re",
+      "url": "https://open.spotify.com/track/0mh4VutnDyBn1sqcp05MZD"
     },
     {
       "album": {
@@ -4839,7 +5773,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 212330,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU"
@@ -4857,7 +5791,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-31",
       "duration_ms": 212351,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe"
@@ -4897,7 +5831,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-11",
       "duration_ms": 213750,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"
@@ -5011,7 +5945,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-30",
       "duration_ms": 285163,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
@@ -5241,6 +6175,42 @@
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
+    },
+    {
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
     },
     {
       "album": {
@@ -5619,10 +6589,28 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 221176,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "album": {
+        "name": "NO LOVE",
+        "url": "https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170387,
+      "name": "NO LOVE",
+      "url": "https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC"
     },
     {
       "album": {
@@ -5641,6 +6629,24 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Once Upon a Time",
+      "url": "https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b"
     },
     {
       "album": {
@@ -5703,7 +6709,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-05-11",
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
@@ -5747,6 +6753,24 @@
       "duration_ms": 223271,
       "name": "Oo Solriya Oo Oo Solriya",
       "url": "https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ"
+    },
+    {
+      "album": {
+        "name": "Way Ahead",
+        "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
+      "duration_ms": 147200,
+      "name": "Oouuu",
+      "url": "https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z"
     },
     {
       "album": {
@@ -5934,6 +6958,46 @@
     },
     {
       "album": {
+        "name": "Pathala Pathala (From \"Vikram\")",
+        "url": "https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211384,
+      "name": "Pathala Pathala (From \"Vikram\")",
+      "url": "https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3"
+    },
+    {
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -6050,6 +7114,28 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 198000,
+      "name": "Porkanda Singam",
+      "url": "https://open.spotify.com/track/3yqkV2Vd0u4l9lUnlaFNZT"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -6083,6 +7169,46 @@
       "duration_ms": 228000,
       "name": "Power",
       "url": "https://open.spotify.com/track/63fNl8H9wgFG5pUdsSXZyF"
+    },
+    {
+      "album": {
+        "name": "Private Party (From \"Don\")",
+        "url": "https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Private Party (From \"Don\")",
+      "url": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
+    },
+    {
+      "album": {
+        "name": "Pal",
+        "url": "https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 359373,
+      "name": "Pyaar Ke Pal",
+      "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
     },
     {
       "album": {
@@ -6179,7 +7305,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-26",
       "duration_ms": 291462,
       "name": "Rait Zara Si",
       "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
@@ -6201,6 +7327,50 @@
       "duration_ms": 366266,
       "name": "Rang Barse Bheege Chunarwali",
       "url": "https://open.spotify.com/track/6Y9FfWuWiaJ4pkmmM3umm2"
+    },
+    {
+      "album": {
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
+    },
+    {
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
     },
     {
       "album": {
@@ -6252,6 +7422,42 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Background Score)",
+        "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53247,
+      "name": "Rolex Theme - Background Score",
+      "url": "https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 204939,
+      "name": "Run BTS",
+      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "album": {
         "name": "All My Demons Greeting Me As A Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
       },
@@ -6267,6 +7473,24 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
       "album": {
@@ -6406,6 +7630,32 @@
     },
     {
       "album": {
+        "name": "Khatta Meetha",
+        "url": "https://open.spotify.com/album/0rA5WWDEVXDEizsgwS2hR4"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 305583,
+      "name": "Sajde",
+      "url": "https://open.spotify.com/track/4N66qcycDiFLJGjnXiKbKX"
+    },
+    {
+      "album": {
         "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
       },
@@ -6429,6 +7679,24 @@
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
+    },
+    {
+      "album": {
+        "name": "Vikram (Original Background Score)",
+        "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 106495,
+      "name": "Sandhanam Theme - Background Score",
+      "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
     },
     {
       "album": {
@@ -6774,6 +8042,24 @@
     },
     {
       "album": {
+        "name": "Sidhu moose wala levels",
+        "url": "https://open.spotify.com/album/6MG5ZLemzzGYXbWuzvIAVl"
+      },
+      "artists": [
+        {
+          "name": "theluckyadhana",
+          "url": "https://open.spotify.com/artist/6ScrgDOoRcVcyhB2Jw59pz"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 231386,
+      "name": "Sidhu moose wala levels",
+      "url": "https://open.spotify.com/track/014ZWKecxYPnaLf6ipYgag"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -6829,6 +8115,24 @@
       "duration_ms": 200769,
       "name": "Sira E Hou",
       "url": "https://open.spotify.com/track/0b4HHjeg2b8xLj28WWnUkM"
+    },
+    {
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 218666,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy"
     },
     {
       "album": {
@@ -6925,7 +8229,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-03",
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
@@ -7013,6 +8317,24 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "album": {
+        "name": "Rehnaa Hai Terre Dil Mein",
+        "url": "https://open.spotify.com/album/5ph1TRxWmRArcbbbvfNbXf"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 328880,
+      "name": "Such Keh Raha Hai",
+      "url": "https://open.spotify.com/track/6CoEiaHC5OLIJGG9R0A0jp"
     },
     {
       "album": {
@@ -7222,6 +8544,24 @@
     },
     {
       "album": {
+        "name": "SYL",
+        "url": "https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 249662,
+      "name": "SYL",
+      "url": "https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8"
+    },
+    {
+      "album": {
         "name": "Taaron Ke Shehar",
         "url": "https://open.spotify.com/album/6gPsylHkKTVVNLXRN9RLYy"
       },
@@ -7419,11 +8759,15 @@
         {
           "name": "PSY",
           "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
@@ -7448,6 +8792,24 @@
     },
     {
       "album": {
+        "name": "The Last Ride",
+        "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262247,
+      "name": "The Last Ride",
+      "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
+    },
+    {
+      "album": {
         "name": "The Monster Song (From \"KGF Chapter 2\")",
         "url": "https://open.spotify.com/album/4lUleunD3zJvkyHxP16wC1"
       },
@@ -7463,7 +8825,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-29",
       "duration_ms": 166145,
       "name": "The Monster Song (From \"KGF Chapter 2\")",
       "url": "https://open.spotify.com/track/56b4SXw2KGclrY0yzRpvMF"
@@ -7529,10 +8891,46 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-11",
+      "date_removed": "2022-06-08",
       "duration_ms": 209230,
       "name": "These Days (feat. Bohemia)",
       "url": "https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9"
+    },
+    {
+      "album": {
+        "name": "Way Ahead",
+        "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 144428,
+      "name": "They Know",
+      "url": "https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp"
+    },
+    {
+      "album": {
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
       "album": {
@@ -7772,6 +9170,24 @@
     },
     {
       "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/6c2zupXpRImauhHNbuGmM8"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 387947,
+      "name": "Tu Hi Meri Shab Hai",
+      "url": "https://open.spotify.com/track/4IGfpRPTnhzZyL74Ilubrb"
+    },
+    {
+      "album": {
         "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
         "url": "https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM"
       },
@@ -7798,6 +9214,28 @@
     },
     {
       "album": {
+        "name": "Bajrangi Bhaijaan",
+        "url": "https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 242864,
+      "name": "Tu Jo Mila",
+      "url": "https://open.spotify.com/track/7txLCGOXyDlDXTjtR1Sk4v"
+    },
+    {
+      "album": {
         "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
       },
@@ -7813,10 +9251,32 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
+    },
+    {
+      "album": {
+        "name": "Jannat 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 313933,
+      "name": "Tujhe Sochta Hoon",
+      "url": "https://open.spotify.com/track/47l2Dd3XPBLio3kjbEMyDJ"
     },
     {
       "album": {
@@ -7928,6 +9388,28 @@
     },
     {
       "album": {
+        "name": "Way Ahead",
+        "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 237692,
+      "name": "Unreachable",
+      "url": "https://open.spotify.com/track/3FG7e69rEpLxOqNyaHd7AG"
+    },
+    {
+      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
@@ -7939,7 +9421,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-17",
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
@@ -8034,6 +9516,24 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Vikram - Title Track",
+      "url": "https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1"
+    },
+    {
+      "album": {
         "name": "Waalian",
         "url": "https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb"
       },
@@ -8067,6 +9567,24 @@
       "duration_ms": 218523,
       "name": "Waalian",
       "url": "https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI"
+    },
+    {
+      "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 182608,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5"
     },
     {
       "album": {
@@ -8139,7 +9657,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
@@ -8161,6 +9679,24 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "album": {
@@ -8267,6 +9803,64 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "Jannat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 303680,
+      "name": "Zara Sa",
+      "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"
+    },
+    {
+      "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/79uqwO6n4ZFqHaDwLZhyL0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 253200,
+      "name": "Zindagi Do Pal Ki",
+      "url": "https://open.spotify.com/track/3s6H6UW7yPu2rsF8CGki60"
+    },
+    {
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 253200,
+      "name": "Zindagi Do Pal Ki (From \"Kites\")",
+      "url": "https://open.spotify.com/track/29kwMwn3NpHxNGHFAIT7yo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg"

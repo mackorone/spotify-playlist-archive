@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Bubaseta & Aerstame.",
+  "description": "La casa de lxs MC's. Foto: Liricistas & Utopiko.",
   "name": "Rap Chileno",
   "published_playlist_ids": [
     "3f2UzVfRrTk3AGf7wEehR9"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 167913,
       "name": "Arde",
       "url": "https://open.spotify.com/track/7r4YZXOYoMYYaV57gC5hvG"
@@ -197,6 +197,10 @@
         {
           "name": "Chystemc",
           "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Macrodee",
+          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
         }
       ],
       "date_added": "2022-01-06",
@@ -317,8 +321,8 @@
           "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
         },
         {
-          "name": "That",
-          "url": "https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL"
+          "name": "THAT",
+          "url": "https://open.spotify.com/artist/2A4ZByna3TWY1gzmLIHCvN"
         }
       ],
       "date_added": "2022-01-06",
@@ -645,7 +649,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 212408,
       "name": "El Rey Lagarto",
       "url": "https://open.spotify.com/track/5ZVuuD5wAMPMOUE9TQYuBj"
@@ -896,6 +900,28 @@
     },
     {
       "album": {
+        "name": "F\u00e9nix (Vol.1)",
+        "url": "https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166069,
+      "name": "F\u00e9nix",
+      "url": "https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl"
+    },
+    {
+      "album": {
         "name": "Grizzy Bars",
         "url": "https://open.spotify.com/album/20wBttryP3cBIeatZX7coS"
       },
@@ -972,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Huye",
+        "url": "https://open.spotify.com/album/0Hjry0maGnxtxHIcU5A5TF"
+      },
+      "artists": [
+        {
+          "name": "Adickta Sinfon\u00eda",
+          "url": "https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Huye",
+      "url": "https://open.spotify.com/track/2HpEtU1HAOetDoDkLNkdCx"
+    },
+    {
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/0nx6tyjIV5LEoJhb44GcNT"
       },
@@ -991,6 +1035,72 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo (feat. Movimiento Original)",
       "url": "https://open.spotify.com/track/7bdkF0rHjyjnIeqBjQAdR0"
+    },
+    {
+      "album": {
+        "name": "III Figura",
+        "url": "https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212936,
+      "name": "III Figura",
+      "url": "https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN"
+    },
+    {
+      "album": {
+        "name": "La Paz",
+        "url": "https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH"
+      },
+      "artists": [
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173710,
+      "name": "La Paz",
+      "url": "https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG"
+    },
+    {
+      "album": {
+        "name": "DA KNOWLEDGE",
+        "url": "https://open.spotify.com/album/2VwBIqWTKUGuuCkvipiRw7"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "Macrodee",
+          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
+        },
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233906,
+      "name": "LA SAGA",
+      "url": "https://open.spotify.com/track/6lvEBpVnTAlRhHrBNU8Ucx"
     },
     {
       "album": {
@@ -1379,10 +1489,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-28",
       "duration_ms": 179076,
       "name": "Pa' Fuera",
       "url": "https://open.spotify.com/track/1L3OEVpGb2qGPbT07k4ivC"
+    },
+    {
+      "album": {
+        "name": "PEGAJOSA",
+        "url": "https://open.spotify.com/album/7bJ3lXlq4EVFUf2ZJjzuBf"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Los Reyes Del Parque",
+          "url": "https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 93795,
+      "name": "PEGAJOSA",
+      "url": "https://open.spotify.com/track/4dbofhaRxUn04twBfQWtXk"
     },
     {
       "album": {
@@ -1397,6 +1529,10 @@
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Macrodee",
+          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
         }
       ],
       "date_added": "2022-03-11",
@@ -1687,10 +1823,6 @@
         {
           "name": "Jay Saez",
           "url": "https://open.spotify.com/artist/4rxh3Sd5DrduNCOerUzHeu"
-        },
-        {
-          "name": "Ufboys",
-          "url": "https://open.spotify.com/artist/3yLUK5jmRifijpZYdLoOKJ"
         },
         {
           "name": "Joakinmolto",
@@ -2121,7 +2253,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 188917,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/6XIc1J8ydiUWsanMCdC7EM"
@@ -2327,7 +2459,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-24",
       "duration_ms": 262247,
       "name": "Ya No Hay M\u00e1s",
       "url": "https://open.spotify.com/track/3g0Jmkx8bPBs6AoHErsQdw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 94 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 94 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

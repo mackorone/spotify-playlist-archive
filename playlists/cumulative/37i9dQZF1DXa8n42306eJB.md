@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-72 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+74 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Beef](https://open.spotify.com/track/3wIZTELQWUiKoREJXm2ZBn) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Beef](https://open.spotify.com/album/6D0lClxp6tZUWzkSqcWrJ0) | 3:16 | 2021-08-24 |  |
 | [Burdens Heavy](https://open.spotify.com/track/1jfrOugcys9IU9QBspbiLc) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Burdens Heavy](https://open.spotify.com/album/0wsuaqOpcNw7ac7DwWFH1t) | 3:52 | 2021-08-24 |  |
 | [California Day](https://open.spotify.com/track/1NdZN8qp8ymkHqYnlXxS1F) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [California Day](https://open.spotify.com/album/2W93NNqgJVgDKeXCCDqTuL) | 2:52 | 2021-08-24 |  |
+| [Circus Slave](https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:24 | 2022-06-02 |  |
 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 | 2021-08-24 |  |
 | [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 | 2021-08-24 |  |
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2021-08-24 |  |
@@ -58,6 +59,7 @@
 | [Oh My Goodness Ft\. Big Steve](https://open.spotify.com/track/0ySxHGWdbENkqGdthmBxps) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [Dear Billy](https://open.spotify.com/album/0DOQvfdera8Np9cZ7ppSC2) | 4:03 | 2021-08-24 |  |
 | [One More Try](https://open.spotify.com/track/7MHme1xL7GpZYNsRf69CFG) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf), [Stanley T](https://open.spotify.com/artist/2jNmaMmdk0tMMY0jxuqXQN) | [One More Try](https://open.spotify.com/album/3283HXjZnm2knf0KhUcVaD) | 3:09 | 2021-08-24 |  |
 | [Party](https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo) | [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/6cNLIj2EwjJpyL5ugk1GlV) | 4:36 | 2021-08-24 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-09 |  |
 | [Press Rewind](https://open.spotify.com/track/1JOnK0BwXTDKdWbXiYQ11h) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/6hvO38m9TnmmyAerAfvpkm) | 4:34 | 2021-08-24 |  |
 | [Proppa](https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Proppa](https://open.spotify.com/album/1uc3mBwthg0sbR11HwFQaS) | 3:30 | 2021-08-24 |  |
 | [Rhythm In My Soul](https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into The Dread](https://open.spotify.com/album/3v7H49k44hIvj8jKdMt07z) | 6:16 | 2021-08-24 |  |

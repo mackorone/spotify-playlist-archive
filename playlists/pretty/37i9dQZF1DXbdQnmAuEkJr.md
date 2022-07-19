@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,833 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,807 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 27 | [Le petit guépard](https://open.spotify.com/track/7soGbFgMlGBOulL0pEb6GG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Le petit guépard](https://open.spotify.com/album/1U2odX1aLIb1lFHblHeUPA) | 2:58 |
 | 28 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
 | 29 | [Amoureuse](https://open.spotify.com/track/5N86PrbrMJJO39W4wWDWRG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Comme si de rien n'etait](https://open.spotify.com/album/2CWRGYsHRp2XF34xxYtqk0) | 3:04 |
-| 30 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga \- EP](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 |
+| 30 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 |
 | 31 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 |
 | 32 | [Valse D'Amour](https://open.spotify.com/track/2iVmMB2InKijDlqc6mIrPe) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 2:46 |
 | 33 | [J'envoie valser](https://open.spotify.com/track/2CrFHBIFFaVSDkT7MFgjFc) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Les 50 plus belles chansons](https://open.spotify.com/album/4ZxGwCZ957zlONNP2wZgxv) | 2:52 |

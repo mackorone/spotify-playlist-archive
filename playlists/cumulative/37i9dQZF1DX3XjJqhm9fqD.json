@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating Haitian music. Cover: Bibi Bourelly.",
+  "description": "Celebrating Haitian music. Cover: Francis Mercier.",
   "name": "Haitian Heat",
   "published_playlist_ids": [
     "3ur3vTrlhNCzIjyRqhoVJ8"
@@ -180,6 +180,32 @@
     },
     {
       "album": {
+        "name": "Ayibobo",
+        "url": "https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Lenny Auguste",
+          "url": "https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208032,
+      "name": "Ayibobo",
+      "url": "https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI"
+    },
+    {
+      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy"
       },
@@ -308,6 +334,28 @@
     },
     {
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7"
       },
@@ -395,7 +443,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 184500,
       "name": "Bri Kouri Raboday",
       "url": "https://open.spotify.com/track/1gUBSEMA55rHz3tLgrK4hS"
@@ -431,7 +479,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 248904,
       "name": "Chasing Amy",
       "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
@@ -453,6 +501,28 @@
       "duration_ms": 220200,
       "name": "Comme Papa",
       "url": "https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn"
+    },
+    {
+      "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
     },
     {
       "album": {
@@ -489,7 +559,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 213722,
       "name": "Dejanbem",
       "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
@@ -525,7 +595,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 206292,
       "name": "Demantibilem",
       "url": "https://open.spotify.com/track/6DG8k1rrK8vBLBRRUe1o5K"
@@ -569,7 +639,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 148933,
       "name": "Destemperado",
       "url": "https://open.spotify.com/track/6wg23d1pHboNW9vsmuIEpc"
@@ -613,10 +683,36 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 394500,
       "name": "Djambo - Gardy Girault Remix",
       "url": "https://open.spotify.com/track/2xDLz3zfFNUg2r7b0cCXzr"
+    },
+    {
+      "album": {
+        "name": "Down With the Gouyad (Remix)",
+        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
+      },
+      "artists": [
+        {
+          "name": "DJ Magickenny",
+          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Yuri Da King",
+          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291157,
+      "name": "Down With the Gouyad (Remix)",
+      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
     },
     {
       "album": {
@@ -639,7 +735,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-13",
       "duration_ms": 291157,
       "name": "DWTG (down with the gouyad remix)",
       "url": "https://open.spotify.com/track/4HqqOAmToOjnfHyT1in0OE"
@@ -657,7 +753,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 153866,
       "name": "Egoiste",
       "url": "https://open.spotify.com/track/3TKGddsGCdJOpRNLdvPoM0"
@@ -738,6 +834,24 @@
     },
     {
       "album": {
+        "name": "Calypso : Winter Edition",
+        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Fem voy\u00e9",
+      "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
+    },
+    {
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -767,7 +881,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-07-15",
       "duration_ms": 158620,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
@@ -931,7 +1045,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 227259,
       "name": "I Wanted My Heart to Break",
       "url": "https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK"
@@ -965,7 +1079,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-18",
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
@@ -1087,7 +1201,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
@@ -1113,6 +1227,28 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "album": {
+        "name": "+Positive Vibes For Negative Times",
+        "url": "https://open.spotify.com/album/3niU1RC3W3hY9iNRq4ez8M"
+      },
+      "artists": [
+        {
+          "name": "King Green",
+          "url": "https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c"
+        },
+        {
+          "name": "Vanela",
+          "url": "https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 134276,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP"
     },
     {
       "album": {
@@ -1259,10 +1395,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 133835,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "album": {
@@ -1277,7 +1431,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 264444,
       "name": "MiMi Miaww",
       "url": "https://open.spotify.com/track/2a1rMqQOgb3qyXmBSicii1"
@@ -1397,7 +1551,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 185351,
       "name": "No Pares",
       "url": "https://open.spotify.com/track/4r7qhjJiql0ciGLioiNpcr"
@@ -1463,7 +1617,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 178556,
       "name": "Ns Bounce",
       "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
@@ -1493,7 +1647,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 159832,
       "name": "Ocho",
       "url": "https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd"
@@ -1537,7 +1691,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 154833,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi"
@@ -1669,7 +1823,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 153928,
       "name": "PARTY IN LA",
       "url": "https://open.spotify.com/track/58QFByzczFVzQ1gihExSX8"
@@ -1687,7 +1841,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 180000,
       "name": "Par\u00e9",
       "url": "https://open.spotify.com/track/2sVFUPt8rf9DhxH3D2vqgs"
@@ -1763,7 +1917,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-07-15",
       "duration_ms": 204840,
       "name": "Premye Fwa'm Damou",
       "url": "https://open.spotify.com/track/7aQPdIOKTfCAtFwJcyAKg9"
@@ -1876,6 +2030,32 @@
     },
     {
       "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
+      },
+      "artists": [
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        },
+        {
+          "name": "Alan Cave",
+          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280383,
+      "name": "Se Pa Pou Dat",
+      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
+    },
+    {
+      "album": {
         "name": "Shake Your Body",
         "url": "https://open.spotify.com/album/11drZ2tGHfzfxRi11vs4oW"
       },
@@ -1887,10 +2067,32 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 68000,
       "name": "Shake Your Body",
       "url": "https://open.spotify.com/track/6jQ63ksDeBryPN51dP9yf9"
+    },
+    {
+      "album": {
+        "name": "She's Hot",
+        "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "TJO ZENNY",
+          "url": "https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238524,
+      "name": "She's Hot",
+      "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
     },
     {
       "album": {
@@ -1913,6 +2115,36 @@
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "album": {
+        "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/3HYHXy8NXQNGjVQ3V60fgI"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236996,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1wk7KUjKk2n5K8xXlkIKRe"
     },
     {
       "album": {
@@ -2011,7 +2243,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 240000,
       "name": "Tanbou",
       "url": "https://open.spotify.com/track/1Pj5LVjEfbOYNCqGkPmDJ9"
@@ -2066,6 +2298,24 @@
     },
     {
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND"
+      },
+      "artists": [
+        {
+          "name": "Dadi Belvokal",
+          "url": "https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Tet Ou Wo",
+      "url": "https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN"
+    },
+    {
+      "album": {
         "name": "Teteo",
         "url": "https://open.spotify.com/album/26vdwpxbZVDDLVSGQUspXx"
       },
@@ -2107,7 +2357,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-15",
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w"
@@ -2315,7 +2565,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-05-13",
       "duration_ms": 112714,
       "name": "Water",
       "url": "https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N"

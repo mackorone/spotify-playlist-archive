@@ -1,13 +1,29 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 225634,
+  "num_followers": 223855,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2Nzk3NywwMDAwMDAwMDg1ZDQ5MGIzMTk5N2JjNTY3YmE3ZWI2NTNiZmZjMDBi",
+  "snapshot_id": "MTY1ODE5NDYxOCwwMDAwMDAwMDFhY2EzYmUzNTg5NDUxOWQxZjFiZWM4ZjlkNTRjN2U4",
   "tracks": [
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Essential Blue \u00d6yster Cult",
+        "url": "https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308640,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT"
+    },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
@@ -27,114 +43,98 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Tenacious D",
-        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
+        "name": "Van Halen (Reissue)",
+        "url": "https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
       },
       "artists": [
         {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 248053,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+      "duration_ms": 216733,
+      "name": "Runnin' With The Devil",
+      "url": "https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Rewind, Replay, Rebound (Deluxe)",
-        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
+        "name": "The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Sorry Sack Of Bones",
-      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
+      "duration_ms": 164533,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits (Speciel Edition)",
-        "url": "https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk"
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Playlist: The Very Best Of Alice Cooper",
-        "url": "https://open.spotify.com/album/5M50gz8rh6inIVTdBUJ7z9"
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/5LK6DCdahD6OyHinbwM6Gv"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Feed My Frankenstein",
-      "url": "https://open.spotify.com/track/1oDATX0oMlqu03e3pclagF"
+      "duration_ms": 177234,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/1FO4wvAKz3dACUwLcXwUDZ"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
         }
       ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Fragile Future (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0iPDvB9rAkq3UBfUu0I6JM"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/38S8ntzzlvdPNMWKYncgnu"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Corps of Corpses",
-      "url": "https://open.spotify.com/track/1lDFvDVZxEeeMrOqIHAuql"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Going to Hell",
-        "url": "https://open.spotify.com/album/4BgfwxJn5S5U1Qb3LrzdZX"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 276053,
-      "name": "Going to Hell",
-      "url": "https://open.spotify.com/track/2zjQmMLev4cOwEQ5YHZlhd"
+      "duration_ms": 201426,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/57CXhuTXrLqxXKgLC7UA1s"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -155,18 +155,226 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Best Of Bow Wow Wow",
-        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
+        "name": "Tenacious D",
+        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
       },
       "artists": [
         {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
         }
       ],
-      "duration_ms": 164533,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
+      "duration_ms": 248053,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "EAT ME, DRINK ME",
+        "url": "https://open.spotify.com/album/2A49izrVW0wRLcst64owry"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "You And Me And The Devil Makes 3",
+      "url": "https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Beggars Banquet",
+        "url": "https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 377746,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Fame Monster (International Deluxe)",
+        "url": "https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Ride The Lightning",
+        "url": "https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395133,
+      "name": "Creeping Death",
+      "url": "https://open.spotify.com/track/3LM41UarpHPJkUZ7rVbbGx"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits (Speciel Edition)",
+        "url": "https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/6wYJJ8AEhgS2euFsuTvZ1g"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Best of 00-10",
+        "url": "https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Ghosts - Single Edit",
+      "url": "https://open.spotify.com/track/4QIxv5yjb9TvbJeVzMQFt1"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Scary Monsters",
+        "url": "https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Scary Monsters (And Super Creeps) - 1999 Remaster",
+      "url": "https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Stabbing In The Dark",
+      "url": "https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Devil's Bleeding Crown",
+        "url": "https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -203,6 +411,98 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7uXVBv1Uj4lnfUHVpcCAyQ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Calling All The Monsters",
+        "url": "https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Going to Hell",
+        "url": "https://open.spotify.com/album/4BgfwxJn5S5U1Qb3LrzdZX"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 276053,
+      "name": "Going to Hell",
+      "url": "https://open.spotify.com/track/2zjQmMLev4cOwEQ5YHZlhd"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Slash",
+        "url": "https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "We're All Gonna Die",
+      "url": "https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -219,50 +519,82 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Very Best of the Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+        "name": "Sponge Fingerz",
+        "url": "https://open.spotify.com/album/2ZhVdSdjk24j3XsmdloQ2N"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "New Beat Fund",
+          "url": "https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA"
         }
       ],
-      "duration_ms": 250888,
-      "name": "Witchy Woman - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0"
+      "duration_ms": 234163,
+      "name": "Halloween Birthdaze",
+      "url": "https://open.spotify.com/track/3KR93nZtntqBvwWCtj8TPo"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Devil's Bleeding Crown",
-        "url": "https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak"
+        "name": "Playlist: The Very Best Of Alice Cooper",
+        "url": "https://open.spotify.com/album/5M50gz8rh6inIVTdBUJ7z9"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
+      "duration_ms": 285093,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/1oDATX0oMlqu03e3pclagF"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Essential Blue \u00d6yster Cult",
-        "url": "https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4"
+        "name": "Lowering The Tone",
+        "url": "https://open.spotify.com/album/2T4J3Ia78GLZIpmiBy1tBu"
       },
       "artists": [
         {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          "name": "The Brad Pitt Light Orchestra",
+          "url": "https://open.spotify.com/artist/7JMRUQ02VgQk4vT9jxS88v"
         }
       ],
-      "duration_ms": 308640,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT"
+      "duration_ms": 176106,
+      "name": "The Devil & Me",
+      "url": "https://open.spotify.com/track/56FmL59G1U0QKEfr5zJRhe"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Kel Terribl\u00e9",
+        "url": "https://open.spotify.com/album/2LQ5Eam9TaEdPmwttVxLQv"
+      },
+      "artists": [
+        {
+          "name": "Rob Kelly",
+          "url": "https://open.spotify.com/artist/6RkG8owckWkmNWkMlzNujI"
+        }
+      ],
+      "duration_ms": 235878,
+      "name": "Jack the Ripper",
+      "url": "https://open.spotify.com/track/0r7DoETSotkN7yln8GW6ei"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -307,50 +639,162 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+        "name": "Rewind, Replay, Rebound (Deluxe)",
+        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Hungry Like the Wolf",
-      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
+      "duration_ms": 228666,
+      "name": "Sorry Sack Of Bones",
+      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Lowering The Tone",
-        "url": "https://open.spotify.com/album/2T4J3Ia78GLZIpmiBy1tBu"
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
       },
       "artists": [
         {
-          "name": "The Brad Pitt Light Orchestra",
-          "url": "https://open.spotify.com/artist/7JMRUQ02VgQk4vT9jxS88v"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 176106,
-      "name": "The Devil & Me",
-      "url": "https://open.spotify.com/track/56FmL59G1U0QKEfr5zJRhe"
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Best of 00-10",
-        "url": "https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ"
+        "name": "Black Magic Woman - The Best Of",
+        "url": "https://open.spotify.com/album/3or0EzuBzgIeFxvc6pSOQ7"
       },
       "artists": [
         {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 271373,
-      "name": "Ghosts - Single Edit",
-      "url": "https://open.spotify.com/track/4QIxv5yjb9TvbJeVzMQFt1"
+      "duration_ms": 171813,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/1zhuei5rdq2S1qQ3x2kfCD"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/1rk6Xn8Kod7DQH1Q4wOfRg"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Dracula - Main Edit",
+      "url": "https://open.spotify.com/track/3yKFb0tjiiyCbgqyQkUQvA"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Awake (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Ghostbusters",
+        "url": "https://open.spotify.com/album/5yPHlWyVZRtYszki7TXfJw"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Ghostbusters - From \"Ghostbusters\"",
+      "url": "https://open.spotify.com/track/20yaQDVW6gefTsdoa9Out7"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -375,538 +819,34 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Ghostbusters",
-        "url": "https://open.spotify.com/album/5yPHlWyVZRtYszki7TXfJw"
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
       "artists": [
         {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 244573,
-      "name": "Ghostbusters - From \"Ghostbusters\"",
-      "url": "https://open.spotify.com/track/20yaQDVW6gefTsdoa9Out7"
+      "duration_ms": 237760,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
     },
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Calling All The Monsters",
-        "url": "https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz"
+        "name": "Fragile Future (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0iPDvB9rAkq3UBfUu0I6JM"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 206675,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Scary Monsters",
-        "url": "https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Scary Monsters (And Super Creeps) - 1999 Remaster",
-      "url": "https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Van Halen (Reissue)",
-        "url": "https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Runnin' With The Devil",
-      "url": "https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3qGeRY1wt4rrLIt1YuSwHR"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 250188,
-      "name": "The Monster",
-      "url": "https://open.spotify.com/track/5U8hKxSaDXB8cVeLFQjvwx"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Slash",
-        "url": "https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "We're All Gonna Die",
-      "url": "https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Silver Scream",
-        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Stabbing In The Dark",
-      "url": "https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Kel Terribl\u00e9",
-        "url": "https://open.spotify.com/album/2LQ5Eam9TaEdPmwttVxLQv"
-      },
-      "artists": [
-        {
-          "name": "Rob Kelly",
-          "url": "https://open.spotify.com/artist/6RkG8owckWkmNWkMlzNujI"
-        }
-      ],
-      "duration_ms": 235878,
-      "name": "Jack the Ripper",
-      "url": "https://open.spotify.com/track/0r7DoETSotkN7yln8GW6ei"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Addams Family",
-        "url": "https://open.spotify.com/album/5qSCwxD0bKiqmiD9hQXaAS"
-      },
-      "artists": [
-        {
-          "name": "Vic Mizzy & His Orchestra",
-          "url": "https://open.spotify.com/artist/6a8HATOQDGF1wciECYb6vl"
-        }
-      ],
-      "duration_ms": 119893,
-      "name": "The Addams Family Theme",
-      "url": "https://open.spotify.com/track/5QIVtapQoKCkzUiCLavP9l"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Beggars Banquet",
-        "url": "https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 377746,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/1rk6Xn8Kod7DQH1Q4wOfRg"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Dracula - Main Edit",
-      "url": "https://open.spotify.com/track/3yKFb0tjiiyCbgqyQkUQvA"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Nightmare Revisited",
-        "url": "https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/6wYJJ8AEhgS2euFsuTvZ1g"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Ride The Lightning",
-        "url": "https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395133,
-      "name": "Creeping Death",
-      "url": "https://open.spotify.com/track/3LM41UarpHPJkUZ7rVbbGx"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Fame Monster (International Deluxe)",
-        "url": "https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/38S8ntzzlvdPNMWKYncgnu"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Deal with the Devil",
-      "url": "https://open.spotify.com/track/57CXhuTXrLqxXKgLC7UA1s"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "OutRun",
-        "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/2L229dt48Ged4SdbenZrd7"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/308BpHy6evPQz9hSPpSLNf"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "EAT ME, DRINK ME",
-        "url": "https://open.spotify.com/album/2A49izrVW0wRLcst64owry"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "You And Me And The Devil Makes 3",
-      "url": "https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Pablo Honey",
-        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Eyes Of The Night",
-      "url": "https://open.spotify.com/track/0RJPnt0r5BRQPCedaffMrw"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/5LK6DCdahD6OyHinbwM6Gv"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 177234,
-      "name": "Blood of Bannockburn",
-      "url": "https://open.spotify.com/track/1FO4wvAKz3dACUwLcXwUDZ"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Awake (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Sponge Fingerz",
-        "url": "https://open.spotify.com/album/2ZhVdSdjk24j3XsmdloQ2N"
-      },
-      "artists": [
-        {
-          "name": "New Beat Fund",
-          "url": "https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA"
-        }
-      ],
-      "duration_ms": 234163,
-      "name": "Halloween Birthdaze",
-      "url": "https://open.spotify.com/track/3KR93nZtntqBvwWCtj8TPo"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Black Magic Woman - The Best Of",
-        "url": "https://open.spotify.com/album/3or0EzuBzgIeFxvc6pSOQ7"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/1zhuei5rdq2S1qQ3x2kfCD"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/7uXVBv1Uj4lnfUHVpcCAyQ"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Hells Bells",
-      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Halloween's Gravest Hits",
-        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 34920,
-      "name": "Thunderstorm - Overhead",
-      "url": "https://open.spotify.com/track/7zPLxHTkPAjy4U0QQ80JQH"
+      "duration_ms": 192173,
+      "name": "Corps of Corpses",
+      "url": "https://open.spotify.com/track/1lDFvDVZxEeeMrOqIHAuql"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -927,18 +867,114 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
       },
       "artists": [
         {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
         }
       ],
-      "duration_ms": 237760,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Addams Family",
+        "url": "https://open.spotify.com/album/5qSCwxD0bKiqmiD9hQXaAS"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy & His Orchestra",
+          "url": "https://open.spotify.com/artist/6a8HATOQDGF1wciECYb6vl"
+        }
+      ],
+      "duration_ms": 119893,
+      "name": "The Addams Family Theme",
+      "url": "https://open.spotify.com/track/5QIVtapQoKCkzUiCLavP9l"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/308BpHy6evPQz9hSPpSLNf"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 34920,
+      "name": "Thunderstorm - Overhead",
+      "url": "https://open.spotify.com/track/7zPLxHTkPAjy4U0QQ80JQH"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "100 Greatest TV Themes",
+        "url": "https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/3BkFCWaLPDrkf7HWQdSyQe"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -955,38 +991,6 @@
       "duration_ms": 358053,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Jack's Lament",
-      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     }
   ],
   "unique_name": "Ultimate Halloween",

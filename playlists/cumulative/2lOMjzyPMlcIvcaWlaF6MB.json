@@ -260,10 +260,14 @@
     },
     {
       "album": {
-        "name": "Ryman Gospel Reunion",
+        "name": "Ryman Gospel Reunion (Live)",
         "url": "https://open.spotify.com/album/16xExsbPMsEYXkte3apJtb"
       },
       "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
         {
           "name": "The Speer Family",
           "url": "https://open.spotify.com/artist/09jjYjayn8aDcjgeKiAn0r"
@@ -277,7 +281,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158893,
-      "name": "I Never Shall Forget The Day - Ryman Gospel Reunion Version",
+      "name": "I Never Shall Forget The Day - Live",
       "url": "https://open.spotify.com/track/76rWrw7S1WMugXWOshM85j"
     },
     {

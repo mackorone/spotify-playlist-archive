@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240679,
+      "name": "All the Love in the World",
+      "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
+    },
+    {
+      "album": {
         "name": "Irish Son",
         "url": "https://open.spotify.com/album/1s7mOQFhSmwxyNi6K5nmQQ"
       },
@@ -232,6 +250,24 @@
     },
     {
       "album": {
+        "name": "And Then...",
+        "url": "https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299360,
+      "name": "Another Used To Be",
+      "url": "https://open.spotify.com/track/6o9ByOXt8s8vyPfiTKds0t"
+    },
+    {
+      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV"
       },
@@ -267,7 +303,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184400,
-      "name": "Apologize",
+      "name": "Apologize - feat. One Republic",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
     },
     {
@@ -557,7 +593,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 276373,
       "name": "Breathe Easy",
       "url": "https://open.spotify.com/track/5jvGzaMqJ5u2uwLBRSBWlz"
@@ -647,7 +683,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-05-31",
       "duration_ms": 234640,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG"
@@ -759,7 +795,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-15",
       "duration_ms": 235626,
       "name": "Could I Have This Kiss Forever (with Enrique Iglesias) - Metro Mix/Remastered: 2000",
       "url": "https://open.spotify.com/track/3BCqG9GBF7GjJQHwJvlqSv"
@@ -871,7 +907,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-04",
       "duration_ms": 233866,
       "name": "Don't Forget About Us - Radio Edit",
       "url": "https://open.spotify.com/track/2hQU8LNZFUcXLUwqeABX3K"
@@ -907,7 +943,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 230933,
       "name": "Don't Let Me Be the Last to Know",
       "url": "https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw"
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 195506,
       "name": "Eternal Flame - Single Version",
       "url": "https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-05-31",
       "duration_ms": 200973,
       "name": "Father And Son - New Steve Mac",
       "url": "https://open.spotify.com/track/56W36uvb4usSizGPO2bzbV"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -1581,7 +1617,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 276280,
       "name": "I Don't Believe You",
       "url": "https://open.spotify.com/track/5ar17JbimrwoAM4NTVbSKT"
@@ -1599,7 +1635,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-22",
       "duration_ms": 296693,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
@@ -1689,7 +1725,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-22",
       "duration_ms": 189306,
       "name": "I'm Scared",
       "url": "https://open.spotify.com/track/1iHcBGTsAy3Mb9HPWfHz2f"
@@ -1923,7 +1959,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
@@ -1995,7 +2031,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": "2022-07-12",
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/5lQfI9cYzezWGvqwrWkzqh"
@@ -2067,7 +2103,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-07-04",
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-12",
       "duration_ms": 273999,
       "name": "Love's Divine",
       "url": "https://open.spotify.com/track/1SyTqslGBzoe45hw3Ov0gp"
@@ -2404,6 +2440,24 @@
     },
     {
       "album": {
+        "name": "Shayne Ward (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC"
+      },
+      "artists": [
+        {
+          "name": "Shayne Ward",
+          "url": "https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
       },
@@ -2459,7 +2513,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-18",
       "duration_ms": 243626,
       "name": "One - Radio Edit",
       "url": "https://open.spotify.com/track/0PSg9uRVf90eAKnpvqLz3h"
@@ -2553,7 +2607,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-05-11",
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
@@ -2571,7 +2625,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-17",
       "duration_ms": 231560,
       "name": "Please Don't Leave Me",
       "url": "https://open.spotify.com/track/1piKQrJZ18Mrx7Zen6HrpB"
@@ -2589,7 +2643,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 234266,
       "name": "Please Don't Stop The Rain",
       "url": "https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir"
@@ -2697,7 +2751,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-22",
       "duration_ms": 280960,
       "name": "Right To Be Wrong",
       "url": "https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC"
@@ -2867,6 +2921,24 @@
       "duration_ms": 257133,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 212773,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
     },
     {
       "album": {
@@ -3055,7 +3127,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-05-29",
       "duration_ms": 212000,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/7zAiHY1YvdzGmvSXaLyBy4"
@@ -3149,6 +3221,24 @@
       "duration_ms": 273466,
       "name": "Stuck In A Moment You Can't Get Out Of",
       "url": "https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy"
+    },
+    {
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
       "album": {
@@ -3282,6 +3372,24 @@
     },
     {
       "album": {
+        "name": "Shayne Ward (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC"
+      },
+      "artists": [
+        {
+          "name": "Shayne Ward",
+          "url": "https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 218666,
+      "name": "That's My Goal",
+      "url": "https://open.spotify.com/track/10NH6nFIKbx8Yee8cQ1gDn"
+    },
+    {
+      "album": {
         "name": "Shayne Ward",
         "url": "https://open.spotify.com/album/07TQtWmrWOESnyRvocYK0x"
       },
@@ -3311,7 +3419,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-07-12",
       "duration_ms": 252466,
       "name": "The Closest Thing to Crazy",
       "url": "https://open.spotify.com/track/4FXzCVsRurpgAYuRyaD8Y4"
@@ -3405,6 +3513,28 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232360,
+      "name": "The Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/62xpXl4ldUyJotQW6lqroy"
     },
     {
       "album": {
@@ -3527,7 +3657,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-17",
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
@@ -3617,7 +3747,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-06",
       "duration_ms": 231706,
       "name": "Vanilla Twilight",
       "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
@@ -3653,7 +3783,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-06-24",
       "duration_ms": 202813,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/7pXYV6TClH9E8iwrXPp7y2"
@@ -3841,7 +3971,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-05-19",
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/6si71supnBUhddjR2FJc2L"
@@ -3895,7 +4025,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 241200,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/1ER1LD0u0mgQZV0QE7cyVY"
@@ -4021,7 +4151,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-16",
       "duration_ms": 347106,
       "name": "You Sang To Me",
       "url": "https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW"

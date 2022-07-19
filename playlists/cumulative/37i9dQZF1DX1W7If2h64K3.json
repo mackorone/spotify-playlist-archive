@@ -511,7 +511,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen",
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
       "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
@@ -690,6 +690,28 @@
     },
     {
       "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana",
+        "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113240,
+      "name": "Kinderszenen, Op. 15: 1. Von fremden L\u00e4ndern und Menschen",
+      "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
+    },
+    {
+      "album": {
         "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
         "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
       },
@@ -734,28 +756,6 @@
     },
     {
       "album": {
-        "name": "Schumann: Kinderszenen; Kreisleriana",
-        "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 113240,
-      "name": "Kinderszenen, Op.15: 1. Von fremden L\u00e4ndern und Menschen",
-      "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
-    },
-    {
-      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -777,7 +777,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 436266,
-      "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: 4\u672c\u306e\u30db\u30eb\u30f3\u3068\u7ba1\u5f26\u697d\u306e\u305f\u3081\u306e\u30b3\u30f3\u30c4\u30a7\u30eb\u30c8\u30b7\u30e5\u30c8\u30a5\u30c3\u30af \u30d8\u9577\u8abf\u4f5c\u54c186 \u7b2c1\u697d\u7ae0",
+      "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
       "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
     },
     {
@@ -894,7 +894,7 @@
     },
     {
       "album": {
-        "name": "Robert Schumann: Missa Sacra",
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
       "artists": [
@@ -903,16 +903,12 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Baptiste Lopez",
-          "url": "https://open.spotify.com/artist/2OEcGkFPQM4rViWuxxvByY"
-        },
-        {
           "name": "Marianne Crebassa",
           "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
         },
         {
           "name": "Geoffroy Jourdain",
@@ -923,7 +919,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: Missa Sacra Op. 147: Offertorium : Toya pulchra es",
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
       "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
@@ -1019,7 +1015,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 887000,
-      "name": "Overture Manfred, Op.115",
+      "name": "Overture Manfred, Op. 115",
       "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
     },
     {

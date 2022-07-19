@@ -1,13 +1,45 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 89964,
+  "num_followers": 93745,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM2ODA4NiwwMDAwMDAwMDk4YWM5MjkxODc1MjE1ODgzNzFiYTJjMTg4NDc1NGQ2",
+  "snapshot_id": "MTY1ODE5NDg4MCwwMDAwMDAwMGE4ZTMxM2MzMDVkMjU5M2IyNjY4ZTU2MDY5NjNmN2Qy",
   "tracks": [
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
@@ -23,118 +55,6 @@
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Texas Sugar Strat Magik",
-        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte Group",
-          "url": "https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "My Way Down",
-      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "I Got My Mojo Working",
-      "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Diggin' On Dylan",
-        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
-      },
-      "artists": [
-        {
-          "name": "Denny Freeman",
-          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -155,24 +75,24 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Mary Had a Little Lamb",
-      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Cold Snap",
-        "url": "https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
       },
       "artists": [
         {
@@ -180,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 247506,
-      "name": "I Ain't Drunk",
-      "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
+      "duration_ms": 268466,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -203,22 +123,66 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 189040,
-      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -237,7 +201,39 @@
       "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Texas Sugar Strat Magik",
+        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte Group",
+          "url": "https://open.spotify.com/artist/4kA3u3oThWqVYQhT47dGyW"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "My Way Down",
+      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
@@ -248,9 +244,57 @@
           "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -279,66 +323,38 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj"
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
       "artists": [
         {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX"
+      "duration_ms": 189040,
+      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "3rd Degree",
+        "url": "https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+      "duration_ms": 293293,
+      "name": "Mojo Boogie",
+      "url": "https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -359,34 +375,50 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
     },
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "3rd Degree",
-        "url": "https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4"
+        "name": "Cold Snap",
+        "url": "https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie",
-      "url": "https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ"
+      "duration_ms": 247506,
+      "name": "I Ain't Drunk",
+      "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -405,26 +437,6 @@
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
-        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        },
-        {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Givin' Up On Love",
-      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Catch Up With The Blues",
@@ -439,6 +451,22 @@
       "duration_ms": 394333,
       "name": "Rolling With The Punches",
       "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Return Of The Radio Avengers",
+        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+      },
+      "artists": [
+        {
+          "name": "Ezra Charles",
+          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "88 Answers",
+      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -461,136 +489,20 @@
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/7nKZ9Ih62eEDbWEIoODwzN"
-      },
-      "artists": [
-        {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Return Of The Radio Avengers",
-        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+        "name": "Diggin' On Dylan",
+        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
       },
       "artists": [
         {
-          "name": "Ezra Charles",
-          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+          "name": "Denny Freeman",
+          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
         }
       ],
-      "duration_ms": 199400,
-      "name": "88 Answers",
-      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Trying to Hold On",
-        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
-      },
-      "artists": [
-        {
-          "name": "Diunna Greenleaf",
-          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "Sunny Day Friends",
-      "url": "https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
-      },
-      "artists": [
-        {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 141106,
-      "name": "Honest I Do (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Los Lonely Boys",
-        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Crazy Dream",
-      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "I Know What It's Like",
-        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
-      },
-      "artists": [
-        {
-          "name": "Andrew \"Jr Boy\" Jones",
-          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
-        }
-      ],
-      "duration_ms": 273346,
-      "name": "Whiskey Drinkin' Blues",
-      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
+      "duration_ms": 288613,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -627,66 +539,42 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Story of Sonny Boy Slim",
-        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/7bg12LvkHlAWqijVlczS4I"
       },
       "artists": [
+        {
+          "name": "Smokin' Joe Kubek",
+          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
+        },
+        {
+          "name": "Bnois King",
+          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Don't Lose My Number",
+      "url": "https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
+      },
+      "artists": [
+        {
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
         {
           "name": "Gary Clark Jr.",
           "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
-      },
-      "artists": [
-        {
-          "name": "Long John Hunter",
-          "url": "https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW"
-        }
-      ],
-      "duration_ms": 341933,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 293373,
-      "name": "My Texas Home",
-      "url": "https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Buddy Whittington",
-        "url": "https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn"
-      },
-      "artists": [
-        {
-          "name": "Buddy Whittington",
-          "url": "https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Pay the Band",
-      "url": "https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr"
+      "duration_ms": 141106,
+      "name": "Honest I Do (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -725,56 +613,68 @@
       "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+        "name": "Los Lonely Boys",
+        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
+      "duration_ms": 287200,
+      "name": "Crazy Dream",
+      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Texas Guitar Slinger",
-        "url": "https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb"
+        "name": "Trying to Hold On",
+        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
       "artists": [
         {
-          "name": "Joe \"Guitar\" Hughes",
-          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
         }
       ],
-      "duration_ms": 314493,
-      "name": "A Blue Song",
-      "url": "https://open.spotify.com/track/433G78x9000nRkf4flw6bs"
+      "duration_ms": 220933,
+      "name": "Sunny Day Friends",
+      "url": "https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q"
     },
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/7bg12LvkHlAWqijVlczS4I"
+        "name": "Buddy Whittington",
+        "url": "https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn"
       },
       "artists": [
         {
-          "name": "Smokin' Joe Kubek",
-          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
-        },
-        {
-          "name": "Bnois King",
-          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+          "name": "Buddy Whittington",
+          "url": "https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Don't Lose My Number",
-      "url": "https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG"
+      "duration_ms": 273426,
+      "name": "Pay the Band",
+      "url": "https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -795,6 +695,90 @@
       "duration_ms": 385453,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
+        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        },
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Givin' Up On Love",
+      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Texas Guitar Slinger",
+        "url": "https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb"
+      },
+      "artists": [
+        {
+          "name": "Joe \"Guitar\" Hughes",
+          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "A Blue Song",
+      "url": "https://open.spotify.com/track/433G78x9000nRkf4flw6bs"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
+      },
+      "artists": [
+        {
+          "name": "Long John Hunter",
+          "url": "https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/4xZ46S0lPn8bNRRRpkRvD2"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 293373,
+      "name": "My Texas Home",
+      "url": "https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -827,6 +811,22 @@
       "duration_ms": 227067,
       "name": "Shakin' Dem Bones",
       "url": "https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "I Know What It's Like",
+        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
+      },
+      "artists": [
+        {
+          "name": "Andrew \"Jr Boy\" Jones",
+          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Whiskey Drinkin' Blues",
+      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
     }
   ],
   "unique_name": "Lone Star Blues",

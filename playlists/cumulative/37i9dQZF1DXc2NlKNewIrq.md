@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-74 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
+75 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,13 @@
 | [Ai Iro](https://open.spotify.com/track/4QjZbNMXfcTIjGLPr9gsQU) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:56 | 2021-12-23 |  |
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2021-12-23 |  |
 | [Answered Prayers](https://open.spotify.com/track/5crzkDImlrzn3M1W3hnvgU) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 3:07 | 2021-12-23 |  |
-| [As the Earth Kissed the Moon](https://open.spotify.com/track/5b4oIwtQwzPP9UJMNcJXNP) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Best of Hearts of Space, No\. 1: First Flight](https://open.spotify.com/album/1bXfsd1Le6DJWoTrEA7d5i) | 3:01 | 2021-12-23 |  |
+| [As the Earth Kissed the Moon](https://open.spotify.com/track/5b4oIwtQwzPP9UJMNcJXNP) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Best of Hearts of Space, No\. 1: First Flight](https://open.spotify.com/album/1bXfsd1Le6DJWoTrEA7d5i) | 3:01 | 2021-12-23 | 2022-06-15 |
 | [Attaining Peace](https://open.spotify.com/track/4o6vJWuNT0w01fPMISWOVV) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 5:06 | 2021-12-23 |  |
 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 | 2021-12-23 |  |
 | [Baby Elephant Magic](https://open.spotify.com/track/3WpEhCd1k2ccwuA2ke4yZv) | [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Eros in Arabia](https://open.spotify.com/album/0iEbpePNJdijf0zgJWhjIe) | 4:42 | 2021-12-23 |  |
 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 | 2021-12-23 |  |
 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2021-12-23 |  |
-| [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 | 2021-12-23 |  |
+| [Colored Air](https://open.spotify.com/track/7teDfMIAWtfsPApTqcAJ6G) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Hitotsubu No Umi](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:58 | 2021-12-23 |  |
 | [Deep Sea](https://open.spotify.com/track/5qvn79E2Rf5NwbgkxzQ5lo) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Silent Echo Sounds of the Universe](https://open.spotify.com/album/67WXy9ua4d9T4ZdgxDbV5J) | 6:15 | 2021-12-23 |  |
 | [Desert Equations \(For Brion Gysin\)](https://open.spotify.com/track/6DlE8aH6zfV9RaUxpnmkxr) | [Sussan Deyhim](https://open.spotify.com/artist/2RqZyLGGN08cayvgOjNoJi), [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Desert Equations: Azax Attra](https://open.spotify.com/album/07jPKnQtcx9xUn7nHoArQG) | 6:54 | 2021-12-23 |  |
 | [Diving](https://open.spotify.com/track/40hLXwcLOG8mhR3B2Wcona) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:09 | 2021-12-23 |  |
@@ -42,6 +42,7 @@
 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 | 2021-12-23 |  |
 | [Meditation No\. 2](https://open.spotify.com/track/5Z1HyqdD5QozNnFNZA8BMK) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 7:50 | 2021-12-23 |  |
 | [Memory Gongs](https://open.spotify.com/track/1AIAZEGLCQ4Y6oSnsjqOYD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:27 | 2021-12-23 |  |
+| [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 | 2022-05-27 |  |
 | [Music for Dance II](https://open.spotify.com/track/0gLagRuwATSTPNJRVLL8Ke) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU) | 6:20 | 2021-12-23 |  |
 | [Night At The Sea Side](https://open.spotify.com/track/5oxwgPziDjjjKifhTqtMD7) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 8:25 | 2021-12-23 |  |
 | [Oakwood Green \- Remastered](https://open.spotify.com/track/37uIxk56anbPqnXXFANh0q) | [Deux Filles](https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3) | [Silence & Wisdom \(Remastered\)](https://open.spotify.com/album/4bHRq558M0fH6a7Fy1B4b7) | 2:04 | 2021-12-23 |  |

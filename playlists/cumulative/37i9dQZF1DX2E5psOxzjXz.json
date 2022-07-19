@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Cover: Abdul Hannan",
+  "description": "Explore Pakistan's thriving independent scene. Cover: Hasan Raheem, Natasha Noorani",
   "name": "Pakistani Indie 101",
   "published_playlist_ids": [
     "5gJNqDWvbp9UkUeEjkgqKV"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 310272,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6d7ql8wBys4QN9BnIFPNwH"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 205749,
       "name": "Bezaar Nahi",
       "url": "https://open.spotify.com/track/5LojDGdQJ21H1dJXgAJuXX"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 208421,
       "name": "Bum Twirl",
       "url": "https://open.spotify.com/track/1B559YkhUtsMNWXlFsDuFJ"
@@ -780,6 +780,32 @@
     },
     {
       "album": {
+        "name": "Faltu Pyar",
+        "url": "https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221550,
+      "name": "Faltu Pyar",
+      "url": "https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab"
+    },
+    {
+      "album": {
         "name": "Faryaad",
         "url": "https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z"
       },
@@ -933,7 +959,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 158096,
       "name": "How",
       "url": "https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi"
@@ -1169,7 +1195,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 335653,
       "name": "Laapata",
       "url": "https://open.spotify.com/track/1IDTcdNMVERhnQdlhJOteE"
@@ -1195,7 +1221,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 307572,
       "name": "Laapata (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4ItcLqYlyYMwZ1KfR8hwba"
@@ -1213,7 +1239,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 150352,
       "name": "LIGHTSPEED",
       "url": "https://open.spotify.com/track/7acZeCG01zFILBoZkpwUAg"
@@ -1275,6 +1301,24 @@
       "duration_ms": 173217,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL"
+    },
+    {
+      "album": {
+        "name": "Mast",
+        "url": "https://open.spotify.com/album/3oYoSAIV7hSpYxKkJOU3xW"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-11",
+      "duration_ms": 240227,
+      "name": "Mast",
+      "url": "https://open.spotify.com/track/5dHGX2pviaNnlSKk54Stc1"
     },
     {
       "album": {
@@ -1345,7 +1389,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 205714,
       "name": "Mute",
       "url": "https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK"
@@ -1594,6 +1638,32 @@
     },
     {
       "album": {
+        "name": "sakuna matata",
+        "url": "https://open.spotify.com/album/1uTqbU7ucZyccnXtqtVsOc"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "pyaar hai asli",
+      "url": "https://open.spotify.com/track/1WUUDaIcbhfpT8zOSJSUq7"
+    },
+    {
+      "album": {
         "name": "Qadar",
         "url": "https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1"
       },
@@ -1635,6 +1705,24 @@
       "duration_ms": 206000,
       "name": "Risky",
       "url": "https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP"
+    },
+    {
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/1wYUhTYNKkHSQRM3Gyb6Fb"
+      },
+      "artists": [
+        {
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Roshni",
+      "url": "https://open.spotify.com/track/3tFVhYNqkUVUbDH2H9KZtS"
     },
     {
       "album": {
@@ -1779,7 +1867,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 339144,
       "name": "Saqi-E-Bawafa",
       "url": "https://open.spotify.com/track/02HGPSotKHvGNgHKSG75zw"
@@ -1823,7 +1911,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 179010,
       "name": "Seedhi Baat",
       "url": "https://open.spotify.com/track/5iGw9yznWCrWeFQi0xpTm6"
@@ -1907,7 +1995,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 281886,
       "name": "Sitaray",
       "url": "https://open.spotify.com/track/2zBfj9yvNbb6dA2sellNgs"
@@ -1943,7 +2031,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 156000,
       "name": "Soul Jamming",
       "url": "https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca"
@@ -2253,7 +2341,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-17",
       "duration_ms": 234000,
       "name": "Yaqeen",
       "url": "https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf"

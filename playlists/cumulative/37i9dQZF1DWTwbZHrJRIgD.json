@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-04-30",
   "description": "Welcome the weekend with these happy hits. Cover- Sidharth Malhotra, Alia Bhatt, and Fawad Khan ",
   "name": "Happy Vibes ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4Sm5SJqJJCGKhlh0mSnJQm"
+  ],
   "tracks": [
     {
       "album": {
@@ -51,6 +53,24 @@
       "duration_ms": 236373,
       "name": "Aashiyan",
       "url": "https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg"
+    },
+    {
+      "album": {
+        "name": "Baazi",
+        "url": "https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Baazi",
+      "url": "https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2"
     },
     {
       "album": {
@@ -429,8 +449,8 @@
           "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Mohan Kanan",
-          "url": "https://open.spotify.com/artist/1LqbfoITenBp5cUywIo9lx"
+          "name": "Mohan Kannan",
+          "url": "https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem"
         },
         {
           "name": "Amitabh Bhattacharya",
@@ -440,9 +460,35 @@
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207338,
+      "duration_ms": 208539,
       "name": "Kahani (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS"
+    },
+    {
+      "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
       "album": {

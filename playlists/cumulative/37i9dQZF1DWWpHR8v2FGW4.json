@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": "2022-07-16",
       "duration_ms": 252565,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6nGWgxbKjV0vZThq18tDtA"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-07-19",
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -266,6 +266,24 @@
     },
     {
       "album": {
+        "name": "COLLIDER",
+        "url": "https://open.spotify.com/album/2ouCWyOzfXjqZsuHvBKurU"
+      },
+      "artists": [
+        {
+          "name": "BASSFACE",
+          "url": "https://open.spotify.com/artist/5VoJXa3ZCoX6Pz8K5FsI2u"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "COLLIDER",
+      "url": "https://open.spotify.com/track/3HjAGpLe0Sf7lG9MU2NNmU"
+    },
+    {
+      "album": {
         "name": "Darkest Hour [UKF10]",
         "url": "https://open.spotify.com/album/6zlEIFhF4ymQntQOA4i70q"
       },
@@ -303,10 +321,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 274574,
       "name": "Demons - Lexurus Remix",
       "url": "https://open.spotify.com/track/3OfTUInqLligSNuiqUQtnE"
+    },
+    {
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
     },
     {
       "album": {
@@ -325,7 +365,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-11",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -397,7 +437,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 214634,
       "name": "Empty Bed",
       "url": "https://open.spotify.com/track/4CHDcWhqTsz53Ur9zmvHs8"
@@ -415,7 +455,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-16",
       "duration_ms": 196173,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn"
@@ -484,6 +524,46 @@
     },
     {
       "album": {
+        "name": "Lone / Feel Alive",
+        "url": "https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j"
+    },
+    {
+      "album": {
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/2uuC7UXSRR2jLbmZO0vDlQ"
+      },
+      "artists": [
+        {
+          "name": "Allen Nova",
+          "url": "https://open.spotify.com/artist/0L6Ko4vvql4ucoP4RQfLCO"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Feels Good",
+      "url": "https://open.spotify.com/track/3B9AHbLlaPrpeOWzbs4gkf"
+    },
+    {
+      "album": {
         "name": "FIND ME IN DA CLUB !!!",
         "url": "https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF"
       },
@@ -495,10 +575,54 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 145920,
       "name": "FIND ME IN DA CLUB !!!",
       "url": "https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260457,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
+    },
+    {
+      "album": {
+        "name": "Flip The Script",
+        "url": "https://open.spotify.com/album/351icmeaGYCrQFCy1WzJzl"
+      },
+      "artists": [
+        {
+          "name": "Deafadil",
+          "url": "https://open.spotify.com/artist/71GVdoAUhjLgWFVV9x66ak"
+        },
+        {
+          "name": "Wasteurself",
+          "url": "https://open.spotify.com/artist/5jDPHka60WccXYpGr2ZJRL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 203996,
+      "name": "Flip The Script",
+      "url": "https://open.spotify.com/track/4S5Ns1YZPk4a343w792a1u"
     },
     {
       "album": {
@@ -531,7 +655,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-08",
       "duration_ms": 195987,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/00ITGLHw7Kx5mCr6lEfj03"
@@ -633,10 +757,46 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-14",
       "duration_ms": 182903,
       "name": "GUCCI LOUIS",
       "url": "https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO"
+    },
+    {
+      "album": {
+        "name": "HARDCORE",
+        "url": "https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113294,
+      "name": "HARDCORE",
+      "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "album": {
@@ -651,7 +811,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-18",
       "duration_ms": 217142,
       "name": "Higher Purpose",
       "url": "https://open.spotify.com/track/67WV5EiiBY9zWPFnwK3yER"
@@ -687,10 +847,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 266879,
       "name": "HOT DRUM",
       "url": "https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk"
+    },
+    {
+      "album": {
+        "name": "Epidemic Remixed Vol.1",
+        "url": "https://open.spotify.com/album/2S7cS5pHzNK2TiO77m5xOZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Pfirrman",
+          "url": "https://open.spotify.com/artist/1J41DPq09UJRlSdeGDRKiH"
+        },
+        {
+          "name": "Ruzer",
+          "url": "https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 169968,
+      "name": "How to Treat You Right (Ruzer Remix)",
+      "url": "https://open.spotify.com/track/4ET0dzN5MlTYFYPCfe2RlK"
     },
     {
       "album": {
@@ -709,10 +891,68 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 137977,
       "name": "I don't give a Fuck",
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
+    },
+    {
+      "album": {
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/2u6zKLd0vGq6aAG5zQYcp2"
+      },
+      "artists": [
+        {
+          "name": "Blue Marble",
+          "url": "https://open.spotify.com/artist/0MNUH1lQn0AOMZxDvVbwfF"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 235876,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/0IBnpls76TVHzixSJsLiQM"
+    },
+    {
+      "album": {
+        "name": "242 mph",
+        "url": "https://open.spotify.com/album/0WNIarunIrgirdxgsIH10u"
+      },
+      "artists": [
+        {
+          "name": "Ruzer",
+          "url": "https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "I Swirl",
+      "url": "https://open.spotify.com/track/2DZe6IQX5WIhTgr2q5Mu3w"
+    },
+    {
+      "album": {
+        "name": "Want U EP",
+        "url": "https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ"
     },
     {
       "album": {
@@ -727,7 +967,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 178994,
       "name": "In My Car",
       "url": "https://open.spotify.com/track/6iXxT2TCOyOmq15lDMHmiR"
@@ -814,6 +1054,28 @@
     },
     {
       "album": {
+        "name": "LIFT YOU UP",
+        "url": "https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp"
+      },
+      "artists": [
+        {
+          "name": "BLVCK CROWZ",
+          "url": "https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg"
+        },
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181071,
+      "name": "LIFT YOU UP",
+      "url": "https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm"
+    },
+    {
+      "album": {
         "name": "Make A Move",
         "url": "https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa"
       },
@@ -843,7 +1105,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-19",
       "duration_ms": 222857,
       "name": "Misdemeanor",
       "url": "https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO"
@@ -869,7 +1131,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
@@ -891,7 +1153,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": "2022-05-12",
       "duration_ms": 206399,
       "name": "Open Spaces",
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
@@ -913,7 +1175,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-05-14",
       "duration_ms": 245717,
       "name": "Open Your Eyes - NCT Remix",
       "url": "https://open.spotify.com/track/67PViHewN1bqGK5pzMR0T9"
@@ -1025,7 +1287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-19",
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -1051,7 +1313,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-05-24",
       "duration_ms": 198634,
       "name": "Roots - OddKidOut Remix",
       "url": "https://open.spotify.com/track/7jV4pzMGvGSRZ4F214Tznl"
@@ -1095,7 +1357,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-06-19",
       "duration_ms": 264834,
       "name": "Snake Eyes",
       "url": "https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4"
@@ -1171,7 +1433,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-15",
       "duration_ms": 223448,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
@@ -1207,10 +1469,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 255173,
       "name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
       "url": "https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219242,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
     },
     {
       "album": {

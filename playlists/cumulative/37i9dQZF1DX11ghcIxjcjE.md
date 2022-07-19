@@ -4,7 +4,7 @@
 
 > Grunge will live forever\. Cover: Kurt Cobain
 
-68 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
+69 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 | 2021-12-30 |  |
 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 | 2021-12-30 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 5:01 | 2021-11-30 |  |
-| [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-03-07 |  |
+| [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-03-07 | 2022-06-29 |
 | [Spoonman](https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY) | 4:06 | 2021-11-30 |  |
 | [Start Choppin'](https://open.spotify.com/track/5vlvuYDeC10hTC82qT6In3) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Where You Been \[Digital Version\] \[with Bonus Track\]](https://open.spotify.com/album/1qeu2eJJWAn1cLSW0EOZij) | 5:40 | 2021-11-30 |  |
 | [Suck You Dry \- 2008 Remaster](https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Piece Of Cake](https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq) | 2:34 | 2021-11-30 |  |
@@ -70,6 +70,7 @@
 | [Teenage Whore](https://open.spotify.com/track/5L3H63sBURBch3bUJ2acIJ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Pretty On The Inside](https://open.spotify.com/album/335Wo8YySOsJdc0QV9ANvK) | 2:57 | 2021-12-30 | 2022-03-21 |
 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 | 2021-12-30 |  |
 | [This Is Shangrila](https://open.spotify.com/track/5bgyaidikHcXFd0o3Pp7A1) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab) | 3:41 | 2021-12-30 |  |
+| [This Town](https://open.spotify.com/track/7d1aocOffWtCwlfK13VMdM) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone / Rehab Doll](https://open.spotify.com/album/53fNxdiYiPEaFwNxIjuNR0) | 3:23 | 2022-06-28 |  |
 | [Today \- 2011 Remaster](https://open.spotify.com/track/3cahGAUUQ0n55EjLBs2Wjo) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:21 | 2021-11-30 | 2021-12-31 |
 | [Touch Me I'm Sick](https://open.spotify.com/track/6wqCxCqYo91ITacXydBobx) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Superfuzz Bigmuff](https://open.spotify.com/album/6YbDNY7VkyBqbO9rBmqVAN) | 2:32 | 2021-12-30 |  |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2021-12-30 |  |

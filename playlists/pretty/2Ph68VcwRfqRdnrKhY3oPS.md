@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 
 > A charming musical touch to the most significant moment in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 62 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 989 likes - 62 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

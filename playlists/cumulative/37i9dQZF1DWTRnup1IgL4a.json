@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Drift off to sleep with acoustic guitar.",
-  "name": "Under the Stars",
+  "description": "Get a great night's sleep with these soft acoustic guitar tunes.",
+  "name": "Guitar for Sleep",
   "published_playlist_ids": [
     "7ISFFwuQB5ntspjOylTJdw"
   ],
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "All Is Calm",
+        "url": "https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO"
+      },
+      "artists": [
+        {
+          "name": "Theodor Ros",
+          "url": "https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75520,
+      "name": "All Is Calm",
+      "url": "https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd"
+    },
+    {
+      "album": {
         "name": "Amalie",
         "url": "https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 193539,
       "name": "Amalie",
       "url": "https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0"
+    },
+    {
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104840,
+      "name": "Au Revoir",
+      "url": "https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v"
     },
     {
       "album": {
@@ -127,7 +163,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 181716,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4IjmclhUwmI4NnitZZkfUb"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 114000,
       "name": "Caminando en junio",
       "url": "https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm"
@@ -239,6 +275,42 @@
       "duration_ms": 128776,
       "name": "Draumurinn",
       "url": "https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu"
+    },
+    {
+      "album": {
+        "name": "Celta",
+        "url": "https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190958,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/64t8q2udrOR4Myb6i83SaC"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/37uuw8k3rQ7hyUGgJ16AmY"
+      },
+      "artists": [
+        {
+          "name": "Bella Wonder",
+          "url": "https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106277,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/6RK4JN6grUWO6P5n8v5LVW"
     },
     {
       "album": {
@@ -368,6 +440,42 @@
     },
     {
       "album": {
+        "name": "Feelings You Cannot Hide",
+        "url": "https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mathieu",
+          "url": "https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "Feelings You Cannot Hide",
+      "url": "https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4"
+    },
+    {
+      "album": {
+        "name": "Fernweh",
+        "url": "https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4"
+    },
+    {
+      "album": {
         "name": "Fields of nothing",
         "url": "https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz"
       },
@@ -386,6 +494,42 @@
     },
     {
       "album": {
+        "name": "figurati",
+        "url": "https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "figurati",
+      "url": "https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4"
+    },
+    {
+      "album": {
+        "name": "Fj\u00e4rilens vals",
+        "url": "https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr"
+      },
+      "artists": [
+        {
+          "name": "Adrian Edblad",
+          "url": "https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127761,
+      "name": "Fj\u00e4rilens vals",
+      "url": "https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu"
+    },
+    {
+      "album": {
         "name": "Foggy Morning",
         "url": "https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj"
       },
@@ -397,10 +541,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 185750,
       "name": "Foggy Morning",
       "url": "https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf"
+    },
+    {
+      "album": {
+        "name": "Gently Slow",
+        "url": "https://open.spotify.com/album/20dortqEfJRZJmobdM7g48"
+      },
+      "artists": [
+        {
+          "name": "Mimmi East",
+          "url": "https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135537,
+      "name": "Gently Slow",
+      "url": "https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ"
     },
     {
       "album": {
@@ -419,6 +581,24 @@
       "duration_ms": 152250,
       "name": "Goin Ahead",
       "url": "https://open.spotify.com/track/3sRQp2AmxkGCbd8wlhMVRM"
+    },
+    {
+      "album": {
+        "name": "Golden Leaves",
+        "url": "https://open.spotify.com/album/5do8dNde8A1Lx6p4AyeW2T"
+      },
+      "artists": [
+        {
+          "name": "Eijy Yamaguchi",
+          "url": "https://open.spotify.com/artist/1I7G9utlEACklch0tHradH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Golden Leaves",
+      "url": "https://open.spotify.com/track/0O7DTjLQPnKlcKlClATRps"
     },
     {
       "album": {
@@ -523,7 +703,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 143650,
       "name": "Gymnop\u00e9die No. 2",
       "url": "https://open.spotify.com/track/1u9k6dcsnxwn8OnRIpukHK"
@@ -761,7 +941,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 167666,
       "name": "Lonely Prayer",
       "url": "https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7"
@@ -815,10 +995,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 240511,
       "name": "Longe pode estar muito perto",
       "url": "https://open.spotify.com/track/4PuhyQFzQDXzwzNceo9HuP"
+    },
+    {
+      "album": {
+        "name": "Taormina",
+        "url": "https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Love me again",
+      "url": "https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF"
     },
     {
       "album": {
@@ -840,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7d0O5W3HAoeMZ7SdgDgsVB"
+      },
+      "artists": [
+        {
+          "name": "Frolin",
+          "url": "https://open.spotify.com/artist/77kqbxpFKZGED3HZCYn0A8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145159,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5kRkm8A5dYvORg85jBjtrF"
+    },
+    {
+      "album": {
         "name": "Relaxing Guitar for Insomnia, Dreaming and Romance",
         "url": "https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi"
       },
@@ -851,7 +1067,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 352244,
       "name": "Lullaby for My Love",
       "url": "https://open.spotify.com/track/6eixAHLUQZrcUblQ4xJ62L"
@@ -941,7 +1157,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 153432,
       "name": "Moments Like This",
       "url": "https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD"
@@ -963,6 +1179,60 @@
       "duration_ms": 175629,
       "name": "Murmur",
       "url": "https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2"
+    },
+    {
+      "album": {
+        "name": "My Own Blue Sky",
+        "url": "https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA"
+      },
+      "artists": [
+        {
+          "name": "Lo Larsen",
+          "url": "https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181665,
+      "name": "My Own Blue Sky",
+      "url": "https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB"
+    },
+    {
+      "album": {
+        "name": "Nell'angolo",
+        "url": "https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f"
+      },
+      "artists": [
+        {
+          "name": "Helena Timmers",
+          "url": "https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158519,
+      "name": "Nell'angolo",
+      "url": "https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf"
+    },
+    {
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/6zGVO3G11IATXpCNoe5EkD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Judd",
+          "url": "https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194434,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5enfE01ai1X5i6k7M7fP23"
     },
     {
       "album": {
@@ -1053,6 +1323,24 @@
       "duration_ms": 119499,
       "name": "Over the hill is Leighan",
       "url": "https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk"
+    },
+    {
+      "album": {
+        "name": "Passing Rain",
+        "url": "https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Passing Rain",
+      "url": "https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d"
     },
     {
       "album": {
@@ -1211,7 +1499,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-10",
       "duration_ms": 166851,
       "name": "Seresta",
       "url": "https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg"
@@ -1233,6 +1521,60 @@
       "duration_ms": 168374,
       "name": "Sire\u0300ne",
       "url": "https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y"
+    },
+    {
+      "album": {
+        "name": "Sleepover",
+        "url": "https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1"
+      },
+      "artists": [
+        {
+          "name": "Robert Delofeu",
+          "url": "https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98684,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ"
+    },
+    {
+      "album": {
+        "name": "Softly Falling - Guitar Version",
+        "url": "https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr"
+      },
+      "artists": [
+        {
+          "name": "Brie Michelle",
+          "url": "https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137902,
+      "name": "Softly Falling - Guitar Version",
+      "url": "https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v"
+    },
+    {
+      "album": {
+        "name": "Softly Spoken - Guitar Version",
+        "url": "https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr"
+      },
+      "artists": [
+        {
+          "name": "Atticus Laines",
+          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90922,
+      "name": "Softly Spoken",
+      "url": "https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P"
     },
     {
       "album": {
@@ -1283,7 +1625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 137000,
       "name": "Spero che",
       "url": "https://open.spotify.com/track/0SUcBNwJKYkO3dl2srkRb0"
@@ -1380,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs"
+      },
+      "artists": [
+        {
+          "name": "Henry Windon",
+          "url": "https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127084,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea"
+    },
+    {
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp"
       },
@@ -1409,7 +1769,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-27",
       "duration_ms": 152820,
       "name": "Tomorrow's Song - Solo Guitar Version",
       "url": "https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7"
@@ -1431,6 +1791,24 @@
       "duration_ms": 139604,
       "name": "Toutes Les Couleurs",
       "url": "https://open.spotify.com/track/3ELOuPzdNVstZgLwX3yxPN"
+    },
+    {
+      "album": {
+        "name": "Tranquille",
+        "url": "https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP"
+      },
+      "artists": [
+        {
+          "name": "Cordell Zoe",
+          "url": "https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170838,
+      "name": "Tranquille",
+      "url": "https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51"
     },
     {
       "album": {
@@ -1510,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Vacilando",
+        "url": "https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Vacilando",
+      "url": "https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz"
+    },
+    {
+      "album": {
         "name": "Verlust und Gewinn",
         "url": "https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB"
       },
@@ -1525,6 +1921,24 @@
       "duration_ms": 145792,
       "name": "Verlust und Gewinn",
       "url": "https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP"
+    },
+    {
+      "album": {
+        "name": "Vesuvio",
+        "url": "https://open.spotify.com/album/06GlGF6zaU6A0EnnFOF2UB"
+      },
+      "artists": [
+        {
+          "name": "Anila Mirela",
+          "url": "https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111611,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/06AgHpQ0hUM1BPDgIS4R9P"
     },
     {
       "album": {

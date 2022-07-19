@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU\">Leland</a>, all in one playlist. <a href=\"spotify:genre:songwriters-page\">Discover more songwriters on Spotify</a>.",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU\">Leland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Leland",
   "published_playlist_ids": [
     "5rPfC5CqDzXlAgFaSQs6O5"
@@ -1512,6 +1512,24 @@
     },
     {
       "album": {
+        "name": "miss america",
+        "url": "https://open.spotify.com/album/4aqHiEdSSgOgjmxFUuV5v9"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "miss america",
+      "url": "https://open.spotify.com/track/1KnPoungklUoDF0I2uNA1R"
+    },
+    {
+      "album": {
         "name": "Unapologetically",
         "url": "https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT"
       },
@@ -2455,6 +2473,24 @@
       "duration_ms": 187640,
       "name": "What A Heavenly Way To Die",
       "url": "https://open.spotify.com/track/1Dfzjb9aFxgSFM0vnNTDPr"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "album": {

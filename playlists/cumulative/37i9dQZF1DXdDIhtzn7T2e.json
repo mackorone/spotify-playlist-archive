@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Tulip Drive",
+        "url": "https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk"
+    },
+    {
+      "album": {
         "name": "Outlaw Trails",
         "url": "https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP"
       },
@@ -117,6 +135,24 @@
       "duration_ms": 186826,
       "name": "Don't Bogart Me (aka Don't Bogart That Joint)",
       "url": "https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS"
+    },
+    {
+      "album": {
+        "name": "Doobie Like U Do",
+        "url": "https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227122,
+      "name": "Doobie Like U Do",
+      "url": "https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo"
     },
     {
       "album": {
@@ -883,6 +919,24 @@
       "duration_ms": 216493,
       "name": "That's Alright With Me",
       "url": "https://open.spotify.com/track/1CWNDz7nWdroQZjji9GmAE"
+    },
+    {
+      "album": {
+        "name": "The Cannabis Cowboy",
+        "url": "https://open.spotify.com/album/550hySPdjcyx1HSsdIrI4F"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219423,
+      "name": "The Cannabis Cowboy",
+      "url": "https://open.spotify.com/track/1mJyMvJoHJGiNs7NCxpd7l"
     },
     {
       "album": {

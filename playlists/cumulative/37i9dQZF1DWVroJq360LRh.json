@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 259893,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1c8pre6bgToC224IOZEwbg"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
@@ -221,10 +239,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 235302,
       "name": "Burning Ground",
       "url": "https://open.spotify.com/track/0IbrXdAcOPb7BCQqK9NqBh"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9"
     },
     {
       "album": {
@@ -279,6 +315,42 @@
       "duration_ms": 203886,
       "name": "Cold - Acoustic",
       "url": "https://open.spotify.com/track/4ez6DC2iTsT9t48E8Bonrn"
+    },
+    {
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
     },
     {
       "album": {
@@ -372,6 +444,42 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+    },
+    {
+      "album": {
+        "name": "Easy From Now On",
+        "url": "https://open.spotify.com/album/27eQoki17KCvSJWtta6xlq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198311,
+      "name": "Easy From Now On",
+      "url": "https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G"
+    },
+    {
+      "album": {
         "name": "Faith You Might / In Case I Don't Feel",
         "url": "https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT"
       },
@@ -419,7 +527,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 203406,
       "name": "Falling Short",
       "url": "https://open.spotify.com/track/6u9cWDkxbTXaqf4GZP5MHh"
@@ -481,6 +589,42 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "album": {
+        "name": "Glycerine",
+        "url": "https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179939,
+      "name": "Glycerine",
+      "url": "https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW"
     },
     {
       "album": {
@@ -578,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163414,
+      "name": "Hallelujah I Love Her So",
+      "url": "https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/55Gn4TGca0dhPw6flrfnUq"
       },
@@ -629,6 +791,24 @@
       "duration_ms": 158461,
       "name": "He Got the Best of Me",
       "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
+    },
+    {
+      "album": {
+        "name": "Head & Heart",
+        "url": "https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167320,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB"
     },
     {
       "album": {
@@ -719,6 +899,24 @@
       "duration_ms": 236252,
       "name": "Help!",
       "url": "https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG"
+    },
+    {
+      "album": {
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
     },
     {
       "album": {
@@ -820,6 +1018,28 @@
     },
     {
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3LFPV69y8dm2843r0V7kyw"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        },
+        {
+          "name": "Charlotte Almgren",
+          "url": "https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208939,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4BC8rzvaaPoimewdFeOxcB"
+    },
+    {
+      "album": {
         "name": "I Want It That Way",
         "url": "https://open.spotify.com/album/51WvNWrY4yu9Ek3RGBZHiy"
       },
@@ -860,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Here In The Morning",
+        "url": "https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11"
+      },
+      "artists": [
+        {
+          "name": "Zoe De La Sera",
+          "url": "https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187792,
+      "name": "I'll Be Here In The Morning",
+      "url": "https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq"
+    },
+    {
+      "album": {
         "name": "Stop Stealing The Covers!",
         "url": "https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah"
       },
@@ -871,7 +1109,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 200066,
       "name": "I'll Be There for You",
       "url": "https://open.spotify.com/track/4YV0dYmHFCMrnWNG47IJVd"
@@ -961,7 +1199,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 220893,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/7hrge11llf19mkVU82QO71"
@@ -1037,7 +1275,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 218052,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS"
@@ -1077,10 +1315,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 227882,
       "name": "Life Is Confusing",
       "url": "https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY"
+    },
+    {
+      "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
     },
     {
       "album": {
@@ -1171,10 +1427,46 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 214626,
       "name": "One Great Mystery",
       "url": "https://open.spotify.com/track/1lTcbMQTEIYBsdPRGsWMvp"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+    },
+    {
+      "album": {
+        "name": "Paradise (Acoustic)",
+        "url": "https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Paradise - Acoustic",
+      "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
     },
     {
       "album": {
@@ -1211,7 +1503,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
@@ -1409,7 +1701,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 262525,
       "name": "Salt And The Sea",
       "url": "https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0"
@@ -1467,7 +1759,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
@@ -1659,7 +1951,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 190129,
       "name": "Svag (English)",
       "url": "https://open.spotify.com/track/4EpjsroU2oIiG1LkbJU4Be"
@@ -1720,6 +2012,24 @@
     },
     {
       "album": {
+        "name": "Thank You Next - Bossa Nova",
+        "url": "https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227675,
+      "name": "Thank You Next - Bossa Nova",
+      "url": "https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT"
+    },
+    {
+      "album": {
         "name": "The A Team",
         "url": "https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55"
       },
@@ -1731,7 +2041,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 185600,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz"
@@ -1771,6 +2081,24 @@
       "duration_ms": 260986,
       "name": "The Limit To Your Love",
       "url": "https://open.spotify.com/track/5ApxZEQ1u6BhPrqeolLi6K"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Girl",
+        "url": "https://open.spotify.com/album/3l6CwgyJgdurhwQeojyAik"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/02T6721YnHaDUFAr0RxnWG"
     },
     {
       "album": {
@@ -1832,6 +2160,32 @@
     },
     {
       "album": {
+        "name": "u are my sunshine",
+        "url": "https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu"
+      },
+      "artists": [
+        {
+          "name": "creamy",
+          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+        },
+        {
+          "name": "untrusted",
+          "url": "https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7"
+        },
+        {
+          "name": "11:11 Music Group",
+          "url": "https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "u are my sunshine",
+      "url": "https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh"
+    },
+    {
+      "album": {
         "name": "when the party's over",
         "url": "https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g"
       },
@@ -1868,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198281,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/4GKleQApcyCJduauR13QIi"
+    },
+    {
+      "album": {
         "name": "Wrecking Ball (Acoustic)",
         "url": "https://open.spotify.com/album/14v8SrlIVSEbVNcDcAylp9"
       },
@@ -1879,7 +2251,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-06-04",
       "duration_ms": 210865,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp"
